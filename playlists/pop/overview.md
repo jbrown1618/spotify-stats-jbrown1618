@@ -360,7 +360,7 @@
 | 317 | 235 | [pop](../../genres/pop) |
 | 187 | 134 | [dance pop](../../genres/dance_pop) |
 | 44 | 35 | [post-teen pop](../../genres/post_teen_pop) |
-| 35 | 26 | [electropop](../../genres/electropop) |
+| 36 | 27 | [electropop](../../genres/electropop) |
 | 30 | 24 | [art pop](../../genres/art_pop) |
 | 29 | 18 | uk pop |
 | 23 | 19 | urban contemporary |
@@ -371,13 +371,13 @@
 | 14 | 13 | barbadian pop |
 | 14 | 11 | [neo mellow](../../genres/neo_mellow) |
 | 12 | 10 | atl hip hop |
-| 12 | 8 | viral pop |
 | 11 | 11 | australian pop |
 | 11 | 7 | pop dance |
 | 11 | 7 | canadian pop |
 | 11 | 6 | british soul |
 | 10 | 9 | [pop rock](../../genres/pop_rock) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop) |
+| 10 | 7 | viral pop |
 | 10 | 5 | pop soul |
 | 9 | 7 | tropical house |
 | 9 | 7 | metropopolis |

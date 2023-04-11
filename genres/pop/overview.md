@@ -1,6 +1,6 @@
 # pop
 
-[531 songs](tracks.md)
+[529 songs](tracks.md)
 
 ## Top Artists
 
@@ -52,7 +52,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 3 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 3 | 3 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee954a3b5418065c2fe253fb" alt="" width="50" /> | 3 | 3 | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | 3 | 2 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
@@ -110,6 +109,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | 1 | 1 | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 
 </details>
 
@@ -189,7 +189,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | 2 | 2 | Play On | 2009 | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | 2 | 2 | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | 2 | 2 | Home | 2002-08-27 | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | 2 | 2 | First Love | 2013-03-28 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | 2 | 2 | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
@@ -225,6 +224,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | 1 | 1 | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 1 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | 1 | 1 | When It's Dark Out | 2015-12-04 | [🔗](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) |
 
 </details>
 
@@ -240,8 +240,8 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 80 | 56 | [Epic](../../labels/epic) |
-| 38 | 24 | [Columbia](../../labels/columbia) |
 | 35 | 29 | [Interscope Records](../../labels/interscope_records) |
+| 35 | 21 | [Columbia](../../labels/columbia) |
 | 33 | 18 | [Taylor Swift](../../labels/taylor_swift) |
 | 29 | 19 | [Big Machine Records](../../labels/big_machine_records) |
 | 26 | 20 | [RCA Records Label](../../labels/rca_records_label) |
@@ -249,9 +249,9 @@
 | 24 | 16 | [SM Entertainment](../../labels/sm_entertainment) |
 | 22 | 19 | [Atlantic Records](../../labels/atlantic_records) |
 | 22 | 16 | [Warner Records](../../labels/warner_records) |
+| 16 | 10 | [Republic Records](../../labels/republic_records) |
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
 | 15 | 13 | [Def Jam Recordings](../../labels/def_jam_recordings) |
-| 15 | 10 | [Republic Records](../../labels/republic_records) |
 | 13 | 11 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 13 | 11 | [Darkroom](../../labels/darkroom) |
 | 12 | 10 | [Syco Music](../../labels/syco_music) |
@@ -273,7 +273,6 @@
 | 4 | 1 | LaFace Records |
 | 3 | 3 | THE BLACK LABEL |
 | 3 | 3 | Parlophone Records Limited |
-| 3 | 3 | Open Wide |
 | 3 | 3 | Olivia Rodrigo PS |
 | 3 | 3 | Island UK |
 | 3 | 3 | Casablanca Records |
@@ -286,7 +285,6 @@
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Nice Life |
 | 2 | 2 | Mosley |
-| 2 | 2 | Monument |
 | 2 | 2 | Lava Music |
 | 2 | 2 | KSR |
 | 2 | 2 | G.O.O.D. Music |
@@ -339,6 +337,8 @@
 | 1 | 1 | AOMG |
 | 1 | 1 | A&M |
 | 1 | 1 | 88rising Music |
+| 1 | 0 | Warner Bros. |
+| 1 | 0 | Universal Republic Records |
 
 </details>
 
@@ -355,8 +355,8 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> <span style="padding-left:10px;">Midnights (2022-10-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> <span style="padding-left:10px;">Thriller (1982-11-30)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> <span style="padding-left:10px;">Like a Virgin (1984-11-12)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="Unholy (feat. Kim Petras)" width="50" /> <span style="padding-left:10px;">Unholy (feat. Kim Petras) (2022-09-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="Bad (Remastered)" width="50" /> <span style="padding-left:10px;">Bad (Remastered) (1987-08-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> <span style="padding-left:10px;">Surrender (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="HIStory - PAST, PRESENT AND FUTURE - BOOK I" width="50" /> <span style="padding-left:10px;">HIStory - PAST, PRESENT AND FUTURE - BOOK I (1995-06-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> <span style="padding-left:10px;">Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> <span style="padding-left:10px;">Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="HIStory - PAST, PRESENT AND FUTURE - BOOK I" width="50" /> <span style="padding-left:10px;">HIStory - PAST, PRESENT AND FUTURE - BOOK I (1995-06-16)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> <span style="padding-left:10px;">Surrender (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span style="padding-left:10px;">Oops!... I Did It Again (2000-05-16)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span style="padding-left:10px;">Dance Fever (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span style="padding-left:10px;">Parachutes (2000-07-10)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> <span style="padding-left:10px;">Survivor (2001-05-01)</span></div> |
@@ -400,7 +400,7 @@
 | bad guy (0.375) | Put A Little Love On Me (0.0262) |
 | Bubblegum (feat. Tyga) (0.34) | Begin Again (0.0263) |
 | 7 rings (0.334) | no body, no crime (feat. HAIM) (0.0264) |
-| bury a friend (0.332) | Travelin' Soldier (0.0265) |
+| bury a friend (0.332) | Machine Gun (0.0268) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -424,9 +424,9 @@
 | you should see me in a crown (0.219) | Clean (0.0) |
 | bury a friend (0.162) | To the moon (0.0) |
 | GOLDWING (0.159) | This Is Why We Can't Have Nice Things (0.0) |
-| Therefore I Am (0.135) | Travelin' Soldier (0.0) |
-| bad guy (0.13) | Love Me Like You Do (0.0) |
-| This Is What You Came For (0.119) | You've Got The Love (0.0) |
+| Therefore I Am (0.135) | Love Me Like You Do (0.0) |
+| bad guy (0.13) | You've Got The Love (0.0) |
+| This Is What You Came For (0.119) | React (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

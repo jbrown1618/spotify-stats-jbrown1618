@@ -1,6 +1,6 @@
 # k-pop
 
-[897 songs](tracks.md)
+[904 songs](tracks.md)
 
 ## Top Artists
 
@@ -32,18 +32,18 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | 10 | 9 | [BAEKHYUN](../../artists/baekhyun) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 10 | 4 | [SEULGI](../../artists/seulgi) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | 9 | 8 | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 9 | 8 | [BIBI](../../artists/bibi) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | 9 | 8 | NCT DREAM | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | 9 | 6 | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 9 | 6 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 8 | 7 | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 8 | 7 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 8 | 6 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 8 | 6 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 8 | 6 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 8 | 5 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 7 | 7 | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 7 | 6 | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 7 | 6 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 7 | 6 | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 7 | 5 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | 7 | 3 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
@@ -75,6 +75,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 4 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 4 | 3 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86fd15cae5905acd12864029" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 4 | 2 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | 4 | 2 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | 4 | 1 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
@@ -97,7 +98,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 3 | 2 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb55fc616733b6c09d48481f" alt="" width="50" /> | 3 | 2 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | 3 | 2 | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86fd15cae5905acd12864029" alt="" width="50" /> | 3 | 1 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | 3 | 2 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 3 | 1 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69d86a4744d275ed5259e743" alt="" width="50" /> | 3 | 1 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 3 | 1 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
@@ -109,7 +110,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 2 | 2 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 2 | 2 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | 2 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | 2 | 2 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 
 </details>
 
@@ -242,8 +242,8 @@
 | 226 | 163 | [SM Entertainment](../../labels/sm_entertainment) |
 | 92 | 58 | [Republic Records](../../labels/republic_records) |
 | 69 | 57 | [YG Entertainment](../../labels/yg_entertainment) |
-| 61 | 48 | [Genie Music Corporation](../../labels/genie_music_corporation) |
-| 57 | 46 | [Stone Music Entertainment](../../labels/stone_music_entertainment) |
+| 62 | 49 | [Genie Music Corporation](../../labels/genie_music_corporation) |
+| 58 | 47 | [Stone Music Entertainment](../../labels/stone_music_entertainment) |
 | 37 | 27 | [BIGHIT MUSIC](../../labels/bighit_music) |
 | 34 | 20 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 33 | 24 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) |
@@ -257,8 +257,8 @@
 | 12 | 9 | [High Up Entertainment](../../labels/high_up_entertainment) |
 | 12 | 6 | [WM Korea](../../labels/wm_korea) |
 | 11 | 8 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) |
-| 11 | 7 | [HYBE](../../labels/hybe) |
 | 10 | 8 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) |
+| 10 | 6 | [HYBE](../../labels/hybe) |
 | 9 | 8 | MNH ENTERTAINMENT |
 | 9 | 7 | [WM Entertainment](../../labels/wm_entertainment) |
 | 8 | 5 | KQ Entertainment |
@@ -275,12 +275,14 @@
 | 4 | 2 | LABEL V |
 | 3 | 3 | MLD ENTERTAINMENT |
 | 3 | 3 | 88rising Music |
+| 3 | 2 | XGALX |
 | 3 | 2 | Republic Records – NAYEON (TWICE) |
 | 3 | 2 | PLAY M ENTERTAINMENT CORP. |
 | 3 | 2 | Makeus Entertainment |
 | 3 | 2 | CJ E&M MUSIC |
 | 3 | 1 | 해피트라이브엔터테인먼트 |
 | 3 | 1 | 올라트엔터테인먼트 |
+| 3 | 1 | FNC인베스트먼트 |
 | 3 | 0 | DSP Media |
 | 3 | 0 | BANANA CULTURE |
 | 2 | 2 | 우조엔터테인먼트 |
@@ -299,7 +301,7 @@
 | 2 | 2 | ALLART ENTERTAINMENT |
 | 2 | 1 | Klap |
 | 2 | 1 | JELLYFISH ENTERTAINMENT |
-| 2 | 1 | FNC인베스트먼트 |
+| 2 | 1 | FLEX M |
 | 2 | 1 | Cre.ker Entertainment |
 | 2 | 1 | AOMG |
 | 2 | 1 | ADA Korea |
@@ -321,6 +323,7 @@
 | 1 | 1 | Universal Republic Records |
 | 1 | 1 | Think Ent. |
 | 1 | 1 | TOON STUDIO |
+| 1 | 1 | Studio MaumC |
 | 1 | 1 | Starship Ent. |
 | 1 | 1 | Silent Records |
 | 1 | 1 | RADCOMM |
@@ -330,15 +333,12 @@
 | 1 | 1 | JS MUSIC |
 | 1 | 1 | Imperial Distribution |
 | 1 | 1 | IOK x Transparent Arts |
+| 1 | 1 | Hwa&Dam pictures |
 | 1 | 1 | HAPPYTRIBE ENTERTAINMENT |
 | 1 | 1 | GU Music |
 | 1 | 1 | FeelGhoodMusic |
-| 1 | 1 | FLEX M |
 | 1 | 1 | DUBLEKICK COMPANY |
 | 1 | 1 | DCTOM |
-| 1 | 1 | [Columbia](../../labels/columbia) |
-| 1 | 1 | ChoongangICS |
-| 1 | 1 | Capitol Records (CAP) |
 
 </details>
 
@@ -351,16 +351,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> <span style="padding-left:10px;">VingleVingle (2023-04-05)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls' Generation" width="50" /> <span style="padding-left:10px;">Girls' Generation (2007-11-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="Zero" width="50" /> <span style="padding-left:10px;">Zero (2023-04-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> <span style="padding-left:10px;">Hong Gil Dong OST (2008-01-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter three (2023-03-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> <span style="padding-left:10px;">So Hot (2008-06-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single 'S.i.R'" width="50" /> <span style="padding-left:10px;">1st Single 'S.i.R' (2023-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> <span style="padding-left:10px;">The SHINee World - The First Album (2008-08-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> <span style="padding-left:10px;">The Wonder Years - Trilogy (2008-09-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> <span style="padding-left:10px;">Lost and Found (2008-09-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> <span style="padding-left:10px;">on the street (with J. Cole) (2023-03-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> <span style="padding-left:10px;">쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love's Battery" width="50" /> <span style="padding-left:10px;">Love's Battery (2009-06-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> <span style="padding-left:10px;">There (2023-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> <span style="padding-left:10px;">Sound G. (2009-07-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="LOVESTRUCK!" width="50" /> <span style="padding-left:10px;">LOVESTRUCK! (2023-04-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls' Generation" width="50" /> <span style="padding-left:10px;">Girls' Generation (2007-11-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> <span style="padding-left:10px;">VingleVingle (2023-04-05)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> <span style="padding-left:10px;">Hong Gil Dong OST (2008-01-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="Zero" width="50" /> <span style="padding-left:10px;">Zero (2023-04-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> <span style="padding-left:10px;">So Hot (2008-06-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> <span style="padding-left:10px;">the Billage of perception: chapter three (2023-03-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> <span style="padding-left:10px;">The SHINee World - The First Album (2008-08-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single 'S.i.R'" width="50" /> <span style="padding-left:10px;">1st Single 'S.i.R' (2023-03-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> <span style="padding-left:10px;">MIROTIC - The 4th Album (2008-09-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> <span style="padding-left:10px;">Rover - The 3rd Mini Album (2023-03-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> <span style="padding-left:10px;">The Wonder Years - Trilogy (2008-09-22)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> <span style="padding-left:10px;">CHOSEN KARMA (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> <span style="padding-left:10px;">Lost and Found (2008-09-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> <span style="padding-left:10px;">쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> <span style="padding-left:10px;">on the street (with J. Cole) (2023-03-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love's Battery" width="50" /> <span style="padding-left:10px;">Love's Battery (2009-06-19)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> <span style="padding-left:10px;">Floral Sense - The 1st Album (Special Version) (2023-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> <span style="padding-left:10px;">Sound G. (2009-07-21)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -374,59 +374,59 @@
 | Typa Girl (0.915) | Epilogue (0.366) |
 | BOOM (0.914) | Clockwork (0.37) |
 | Mr. Simple (0.913) | MY LOVE (0.375) |
-| That That (prod. & feat. SUGA of BTS) (0.905) | CHEESE (0.376) |
+| Tippy Toes (0.913) | CHEESE (0.376) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| War of Hormone (0.993) | i hate to admit (Bang Chan) (0.217) |
-| RING X RING (0.987) | Deep end (Felix) (0.223) |
-| Hit That Drum (0.984) | miss you (Hyunjin) (0.226) |
-| Misfit (0.984) | Winter Sleep (0.237) |
-| MIROH (0.979) | How can I love the heartbreak, you're the one I love (0.248) |
-| Side Effects (0.977) | BREATHE (0.251) |
-| 소방차 Fire Truck (0.976) | Boy in time - HUI Solo (0.255) |
-| Abracadabra (0.973) | Singularity (0.272) |
-| 쏘리 쏘리 Sorry, Sorry (0.972) | Flower Way (Prod. By ZICO) (0.282) |
-| Heart Attack (0.97) | 그대라는 시 (0.292) |
+| War of Hormone (0.993) | 내 맘을 볼 수 있나요 (0.166) |
+| RING X RING (0.987) | i hate to admit (Bang Chan) (0.217) |
+| Hit That Drum (0.984) | Deep end (Felix) (0.223) |
+| Misfit (0.984) | miss you (Hyunjin) (0.226) |
+| MIROH (0.979) | Winter Sleep (0.237) |
+| Side Effects (0.977) | How can I love the heartbreak, you're the one I love (0.248) |
+| 소방차 Fire Truck (0.976) | BREATHE (0.251) |
+| Abracadabra (0.973) | Boy in time - HUI Solo (0.255) |
+| 쏘리 쏘리 Sorry, Sorry (0.972) | Singularity (0.272) |
+| Heart Attack (0.97) | Flower Way (Prod. By ZICO) (0.282) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| No More Dream (0.472) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
-| Addicted (0.419) | She′s In The Rain (0.0264) |
-| MANIAC (0.411) | Moonlight Melody (0.0269) |
-| Freedom (0.388) | Winter Sleep (0.0273) |
-| I GOT IT (HAN) (0.365) | Wicked (0.0273) |
-| Ice Cream (with Selena Gomez) (0.365) | Gee (0.0274) |
-| Feelin' Like (0.353) | Hope Not (0.0274) |
-| VENOM (0.339) | NANANA (0.0277) |
-| Signal (0.334) | YOUNG LUV (0.0277) |
-| BBIBBI (0.331) | LOVE FOOL (0.0281) |
+| No More Dream (0.472) | Very, Slowly (0.0264) |
+| Addicted (0.419) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
+| MANIAC (0.411) | She′s In The Rain (0.0264) |
+| Freedom (0.388) | Moonlight Melody (0.0269) |
+| I GOT IT (HAN) (0.365) | Winter Sleep (0.0273) |
+| Ice Cream (with Selena Gomez) (0.365) | Wicked (0.0273) |
+| Feelin' Like (0.353) | Gee (0.0274) |
+| VENOM (0.339) | Hope Not (0.0274) |
+| Signal (0.334) | NANANA (0.0277) |
+| BBIBBI (0.331) | YOUNG LUV (0.0277) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | 그대라는 시 (0.914) | Easy (0.000219) |
 | How can I love the heartbreak, you're the one I love (0.91) | Mr. Simple (0.000219) |
 | ONLY (0.892) | Cyberpunk (0.000265) |
-| Deep end (Felix) (0.879) | Oh Sorry Ya (0.000315) |
-| Boy in time - HUI Solo (0.876) | Red Light (0.000457) |
-| Goodbye (0.861) | Adios (0.000588) |
-| MY LOVE (0.859) | HALAZIA (0.000677) |
-| In The Fall (0.854) | Cherry Bomb (0.000759) |
-| Amusement Park (0.85) | Favorite (Vampire) (0.000831) |
-| Miracle (0.846) | RUN2U (0.000835) |
+| 내 맘을 볼 수 있나요 (0.884) | Oh Sorry Ya (0.000315) |
+| Deep end (Felix) (0.879) | Red Light (0.000457) |
+| Boy in time - HUI Solo (0.876) | Adios (0.000588) |
+| Goodbye (0.861) | HALAZIA (0.000677) |
+| MY LOVE (0.859) | Cherry Bomb (0.000759) |
+| In The Fall (0.854) | Favorite (Vampire) (0.000831) |
+| Amusement Park (0.85) | RUN2U (0.000835) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| You and I (Park Bom) (0.0837) | Gangnam Style (강남스타일) (0.0) |
-| Adios (0.0794) | Miracle (0.0) |
-| pporappippam (0.0652) | To the moon (0.0) |
-| Badster (0.0444) | SUPER BOARD (0.0) |
-| Cherry Blossom (0.0171) | Clockwork (0.0) |
-| So Hot (0.00976) | Shut Down (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | SCIENTIST (0.0) |
-| I Am The Best (0.00834) | Winter Falls (0.0) |
-| Power Up (0.00745) | Beatbox (0.0) |
-| VingleVingle (Prod. R.Tee) (0.00676) | Why Can't You Love Me? (0.0) |
+| Tippy Toes (0.106) | Gangnam Style (강남스타일) (0.0) |
+| You and I (Park Bom) (0.0837) | Miracle (0.0) |
+| Adios (0.0794) | To the moon (0.0) |
+| pporappippam (0.0652) | SUPER BOARD (0.0) |
+| Badster (0.0444) | Clockwork (0.0) |
+| Cherry Blossom (0.0171) | Shut Down (0.0) |
+| So Hot (0.00976) | SCIENTIST (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Winter Falls (0.0) |
+| I Am The Best (0.00834) | Beatbox (0.0) |
+| Power Up (0.00745) | Why Can't You Love Me? (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -451,5 +451,5 @@
 | Miniskirt (0.963) | In The Fall (0.12) |
 | Twinkle (0.962) | My sea (0.122) |
 | 쏘리 쏘리 Sorry, Sorry (0.962) | Time After Time (0.123) |
-| Lion Heart (0.961) | U (0.137) |
-| Give it to me (0.961) | Gravity (0.142) |
+| Lion Heart (0.961) | 내 맘을 볼 수 있나요 (0.131) |
+| Give it to me (0.961) | U (0.137) |

@@ -148,7 +148,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 38 | 24 | [pop](../../genres/pop) |
+| 35 | 21 | [pop](../../genres/pop) |
 | 34 | 24 | [rock](../../genres/rock) |
 | 33 | 23 | [classic rock](../../genres/classic_rock) |
 | 31 | 22 | [mellow gold](../../genres/mellow_gold) |

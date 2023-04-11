@@ -1,30 +1,30 @@
 # broadway
 
-[60 songs](tracks.md)
+[59 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 41 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 32 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 16 | 2 | [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 15 | 2 | [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb29216b4a21ea8912db6502" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
-| <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | 12 | 1 | [Lin-Manuel Miranda](../../artists/lin_manuel_miranda) | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb35dba51746ae3ebb2d8958b" alt="" width="50" /> | 11 | 2 | [Leslie Odom Jr.](../../artists/leslie_odom_jr_) | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
+| <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | 11 | 1 | [Lin-Manuel Miranda](../../artists/lin_manuel_miranda) | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b47bb04577839c77f2e300bd" alt="" width="50" /> | 8 | 1 | [Phillipa Soo](../../artists/phillipa_soo) | [🔗](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) |
 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | 7 | 0 | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f636a08b6f3c5c6368a58c" alt="" width="50" /> | 5 | 0 | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe36c599c230a7fda002d3d34" alt="" width="50" /> | 4 | 1 | [Anthony Ramos](../../artists/anthony_ramos) | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | 4 | 1 | [Daveed Diggs](../../artists/daveed_diggs) | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
 | <img src="nan" alt="" width="50" /> | 3 | 1 | [Okieriete Onaodowan](../../artists/okieriete_onaodowan) | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe36c599c230a7fda002d3d34" alt="" width="50" /> | 3 | 1 | [Anthony Ramos](../../artists/anthony_ramos) | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
@@ -44,12 +44,9 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 1 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 1 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Ephraim Sykes | [🔗](https://open.spotify.com/artist/3brilvMAN6ILRUMvaqJWdG) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5357dc1699d3f51fd2a1ab3" alt="" width="50" /> | 1 | 0 | Jennifer Ellison | [🔗](https://open.spotify.com/artist/3FAYTkACAc9Ir1snu0ZzSy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c77218620de388c559ba5bbb" alt="" width="50" /> | 1 | 0 | Ariana DeBose | [🔗](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Ernie Sabella | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Sasha Hutchings | [🔗](https://open.spotify.com/artist/0Pg2rEmiZEnmxw4eQwtvsR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327028def34ab4b09f54f76d4" alt="" width="50" /> | 1 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
 
 </details>
@@ -66,7 +63,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 22 | 2 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 21 | 2 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | The Phantom Of The Opera | 1987-01-01 | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | 10 | 0 | The Phantom Of The Opera (Original Motion Picture Soundtrack) | 2004-12-10 | [🔗](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 4 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
@@ -87,8 +84,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 22 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 22 | 0 | [Polydor Records](../../labels/polydor_records) |
+| 21 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 10 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
 | 4 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc) |
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records) |
@@ -119,14 +116,14 @@
 |:---|:---|
 | Washington on Your Side (0.884) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.169) |
 | A Winter's Ball (0.854) | All I Ask Of You - Reprise (0.191) |
-| Blow Us All Away (0.82) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.194) |
-| The Adams Administration (0.8) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.219) |
-| Non-Stop (0.77) | All I Ask Of You (0.222) |
-| Yorktown (The World Turned Upside Down) (0.76) | Overture (0.224) |
-| The Reynolds Pamphlet (0.751) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.227) |
-| Schuyler Defeated (0.745) | Entr'Acte (0.231) |
-| Your Obedient Servant (0.736) | All I Ask of You (0.236) |
-| Stay Alive (0.723) | The Music Of The Night (0.239) |
+| The Adams Administration (0.8) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.194) |
+| Non-Stop (0.77) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.219) |
+| Yorktown (The World Turned Upside Down) (0.76) | All I Ask Of You (0.222) |
+| The Reynolds Pamphlet (0.751) | Overture (0.224) |
+| Schuyler Defeated (0.745) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.227) |
+| Your Obedient Servant (0.736) | Entr'Acte (0.231) |
+| Stay Alive (0.723) | All I Ask of You (0.236) |
+| Guns and Ships (0.72) | The Music Of The Night (0.239) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -148,11 +145,11 @@
 | The Adams Administration (0.544) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.0317) |
 | A Winter's Ball (0.507) | Overture / Work Song (0.0328) |
 | Your Obedient Servant (0.502) | Entr'Acte (0.0353) |
-| Blow Us All Away (0.461) | That Would Be Enough (0.0355) |
-| The Room Where It Happens (0.426) | The Music Of The Night (0.0367) |
-| Stay Alive (0.395) | All I Ask of You (0.0377) |
-| Non-Stop (0.351) | Do You Hear The People Sing? (0.0379) |
-| Washington on Your Side (0.348) | On My Own (0.0381) |
+| The Room Where It Happens (0.426) | That Would Be Enough (0.0355) |
+| Stay Alive (0.395) | The Music Of The Night (0.0367) |
+| Non-Stop (0.351) | All I Ask of You (0.0377) |
+| Washington on Your Side (0.348) | Do You Hear The People Sing? (0.0379) |
+| Guns and Ships (0.328) | On My Own (0.0381) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -186,12 +183,12 @@
 | Stars (0.681) | Dear Theodosia (0.0723) |
 | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.671) | All I Ask Of You - Reprise (0.0754) |
 | The Room Where It Happens (0.664) | Washington on Your Side (0.0756) |
-| Blow Us All Away (0.563) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
-| The Point Of No Return (0.503) | Guns and Ships (0.0844) |
-| Entr'Acte (0.386) | All I Ask of You (0.085) |
-| Down Once More / Track Down This Murderer (0.341) | Best of Wives and Best of Women (0.0858) |
-| I Remember / Stranger Than You Dreamt It (0.31) | Wishing You Were Somehow Here Again (0.0882) |
-| Masquerade / Why So Silent (0.261) | A Winter's Ball (0.0889) |
+| The Point Of No Return (0.503) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
+| Entr'Acte (0.386) | Guns and Ships (0.0844) |
+| Down Once More / Track Down This Murderer (0.341) | All I Ask of You (0.085) |
+| I Remember / Stranger Than You Dreamt It (0.31) | Best of Wives and Best of Women (0.0858) |
+| Masquerade / Why So Silent (0.261) | Wishing You Were Somehow Here Again (0.0882) |
+| Overture / Work Song (0.233) | A Winter's Ball (0.0889) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -200,8 +197,8 @@
 | Helpless (0.737) | Little Lotte / The Mirror (Angel Of Music) (0.0465) |
 | Hakuna Matata - From "The Lion King" Soundtrack (0.725) | Down Once More / Track Down This Murderer (0.0529) |
 | A Winter's Ball (0.688) | I Remember / Stranger Than You Dreamt It (0.0574) |
-| Blow Us All Away (0.665) | All I Ask Of You - Reprise (0.0624) |
-| Your Obedient Servant (0.619) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.071) |
-| Best of Wives and Best of Women (0.597) | Why Have You Brought Me Here (0.0742) |
-| Take a Break (0.587) | The Point Of No Return (0.0757) |
-| Stay Alive (0.581) | Overture (0.0781) |
+| Your Obedient Servant (0.619) | All I Ask Of You - Reprise (0.0624) |
+| Best of Wives and Best of Women (0.597) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.071) |
+| Take a Break (0.587) | Why Have You Brought Me Here (0.0742) |
+| Stay Alive (0.581) | The Point Of No Return (0.0757) |
+| Alexander Hamilton (0.552) | Overture (0.0781) |

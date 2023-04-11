@@ -103,7 +103,6 @@
 |---:|---:|:---|
 | 11 | 7 | country dawn |
 | 11 | 7 | country |
-| 8 | 6 | [pop](../../genres/pop) |
 | 8 | 4 | contemporary country |
 | 8 | 3 | new americana |
 | 8 | 3 | indie folk |
@@ -112,6 +111,7 @@
 | 6 | 1 | mandolin |
 | 6 | 1 | instrumental bluegrass |
 | 6 | 1 | bluegrass |
+| 5 | 3 | [pop](../../genres/pop) |
 | 5 | 3 | oklahoma country |
 | 5 | 2 | folk-pop |
 | 4 | 2 | uk americana |

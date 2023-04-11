@@ -166,7 +166,7 @@
 | 2 | 2 | anime |
 | 1 | 1 | scandipop |
 | 1 | 1 | [pop](../../genres/pop) |
-| 1 | 1 | korean r&b |
+| 1 | 1 | [korean r&b](../../genres/korean_r_b) |
 | 1 | 0 | [r&b](../../genres/r_b) |
 | 1 | 0 | [dance pop](../../genres/dance_pop) |
 

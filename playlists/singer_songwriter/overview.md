@@ -230,7 +230,7 @@
 | 6 | 2 | glam rock |
 | 5 | 3 | deep indie singer-songwriter |
 | 3 | 1 | viral pop |
-| 3 | 1 | neo soul |
+| 2 | 1 | neo soul |
 | 2 | 1 | indy indie |
 | 2 | 1 | indiecoustica |
 | 2 | 0 | chamber pop |

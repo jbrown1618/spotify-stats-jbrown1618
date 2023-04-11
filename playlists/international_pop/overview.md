@@ -375,6 +375,7 @@
 | 1 | 1 | latin viral pop |
 | 1 | 1 | latin talent show |
 | 1 | 1 | latin hip hop |
+| 1 | 1 | [k-pop](../../genres/k_pop) |
 | 1 | 1 | j-acoustic |
 | 1 | 1 | italian pop |
 | 1 | 1 | italian adult pop |
@@ -409,7 +410,6 @@
 | 1 | 0 | [electropop](../../genres/electropop) |
 | 1 | 0 | chiptune |
 | 1 | 0 | chinese r&b |
-| 1 | 0 | alt z |
 | 1 | 0 | afro soul |
 
 </details>

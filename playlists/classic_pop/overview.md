@@ -153,7 +153,7 @@
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -178,6 +178,7 @@
 | 5 | 3 | quiet storm |
 | 5 | 1 | memphis soul |
 | 4 | 3 | new wave pop |
+| 3 | 2 | lounge |
 | 3 | 1 | [singer-songwriter](../../genres/singer_songwriter) |
 | 3 | 1 | outlaw country |
 | 3 | 1 | bubblegum pop |

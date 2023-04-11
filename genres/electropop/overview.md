@@ -1,12 +1,12 @@
 # electropop
 
-[58 songs](tracks.md)
+[59 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -25,6 +25,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06f948216f34ea0298aef43" alt="" width="50" /> | 1 | 1 | Caroline Polachek | [🔗](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 1 | 1 | [BTS](../../artists/bts) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
@@ -58,7 +59,7 @@
 
 
 <details>
-<summary>See all 38 albums</summary>
+<summary>See all 39 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -86,6 +87,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | 1 | 1 | Closer | 2016-07-29 | [🔗](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | 1 | 1 | Church Of Scars | 2018-04-20 | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 1 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | 1 | 1 | Blue Neighbourhood (Deluxe) | 2015-12-04 | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="" width="50" /> | 1 | 1 | Billions | 2022-02-09 | [🔗](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
@@ -110,7 +112,7 @@
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 29 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -131,6 +133,7 @@
 | 1 | 1 | Island Records |
 | 1 | 1 | FSF |
 | 1 | 1 | [Epic](../../labels/epic) |
+| 1 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | 1 | Disruptor Records |
 | 1 | 1 | [Columbia](../../labels/columbia) |
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records) |
@@ -146,7 +149,7 @@
 </details>
 
 
-![Bar chart of top 28 record labels](../../images/genres/electropop/labels.png)
+![Bar chart of top 29 record labels](../../images/genres/electropop/labels.png)
 
 ## Years
 
@@ -223,13 +226,13 @@
 | everything i wanted (0.657) | Love Me Like You Do (0.0) |
 | you should see me in a crown (0.219) | Daisy 2.0 (feat. Hatsune Miku) (0.0) |
 | bury a friend (0.162) | lovely (with Khalid) (0.0) |
-| GOLDWING (0.159) | Say My Name (0.0) |
-| Therefore I Am (0.135) | Baby, I'm Jealous (feat. Doja Cat) (0.0) |
-| bad guy (0.13) | The Good War (0.0) |
-| Like They Do on the TV (0.114) | Break My Heart Myself (feat. Travis Barker) (0.0) |
-| Top of the World (0.0626) | Meant to Be (feat. Florida Georgia Line) (0.0) |
-| Lights - Single Version (0.0492) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.0) |
-| ocean eyes (0.0317) | SUGA's Interlude (0.0) |
+| GOLDWING (0.159) | YOUTH (0.0) |
+| Therefore I Am (0.135) | Say My Name (0.0) |
+| bad guy (0.13) | Baby, I'm Jealous (feat. Doja Cat) (0.0) |
+| Like They Do on the TV (0.114) | The Good War (0.0) |
+| Top of the World (0.0626) | Break My Heart Myself (feat. Travis Barker) (0.0) |
+| Lights - Single Version (0.0492) | Meant to Be (feat. Florida Georgia Line) (0.0) |
+| ocean eyes (0.0317) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

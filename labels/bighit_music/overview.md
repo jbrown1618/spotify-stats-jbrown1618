@@ -3,8 +3,8 @@
 45 songs
 
 Appears as:
-- BIGHIT MUSIC (34 tracks)
-- BIGHIT MUSIC / HYBE (11 tracks)
+- BIGHIT MUSIC (35 tracks)
+- BIGHIT MUSIC / HYBE (10 tracks)
 
 ## Top Artists
 
@@ -52,11 +52,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | 2 | 1 | FACE | 2023-03-24 | [🔗](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | 2 | 1 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 | 0 | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | 1 | 1 | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 1 | 1 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="" width="50" /> | 1 | 1 | People, Pt. 2 (feat. IU) | 2023-04-07 | [🔗](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="" width="50" /> | 1 | 1 | People Pt.2 (feat. IU) | 2023-04-07 | [🔗](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | 1 | 1 | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 0 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
@@ -92,7 +92,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | Agust D | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | Agust D, RM | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="" width="50" /> | People, Pt. 2 (feat. IU) | People, Pt. 2 (feat. IU) | Agust D, [IU](../../artists/iu) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="" width="50" /> | People Pt.2 (feat. IU) | People Pt.2 (feat. IU) | Agust D, [IU](../../artists/iu) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](../../artists/bts) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](../../artists/bts) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](../../artists/bts) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
@@ -103,7 +103,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Save Me | The Most Beautiful Moment in Life: Young Forever | [BTS](../../artists/bts) | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Wings | [BTS](../../artists/bts) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Wings | [BTS](../../artists/bts) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](../../artists/bts) | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/0WNGsQ1oAuHzNTk8jivBKW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](../../artists/bts) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](../../artists/bts) | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop | Love Yourself 承 'Her' | [BTS](../../artists/bts) | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/2SYa5Lx1uoCvyDIW4oee9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | dimple | Love Yourself 承 'Her' | [BTS](../../artists/bts) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/3ryjLm3oupIjJFGc39naNi) |

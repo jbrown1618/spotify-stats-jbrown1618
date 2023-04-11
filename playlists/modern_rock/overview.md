@@ -168,7 +168,7 @@
 
 
 <details>
-<summary>See all 82 genres</summary>
+<summary>See all 81 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -221,7 +221,6 @@
 | 2 | 0 | progressive groove metal |
 | 2 | 0 | atlanta metal |
 | 1 | 1 | visual kei |
-| 1 | 1 | viral pop |
 | 1 | 1 | shimmer pop |
 | 1 | 1 | neo-synthpop |
 | 1 | 1 | metropopolis |

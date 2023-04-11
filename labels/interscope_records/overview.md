@@ -132,7 +132,7 @@ Appears as:
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop) |
 | 1 | 1 | pop dance |
 | 1 | 1 | ohio hip hop |
-| 1 | 1 | korean r&b |
+| 1 | 1 | [korean r&b](../../genres/korean_r_b) |
 | 1 | 1 | indie r&b |
 | 1 | 1 | hip pop |
 | 1 | 1 | german techno |

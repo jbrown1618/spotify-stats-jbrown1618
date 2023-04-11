@@ -180,7 +180,6 @@
 | 9 | 6 | [folk rock](../../genres/folk_rock) |
 | 9 | 4 | yacht rock |
 | 5 | 3 | heartland rock |
-| 4 | 3 | symphonic rock |
 | 4 | 3 | progressive rock |
 | 4 | 3 | country rock |
 | 4 | 1 | metal |
@@ -188,6 +187,7 @@
 | 3 | 2 | roots rock |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
+| 2 | 1 | symphonic rock |
 | 2 | 1 | sunshine pop |
 | 2 | 1 | stoner rock |
 | 2 | 1 | minneapolis sound |

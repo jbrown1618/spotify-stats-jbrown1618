@@ -221,12 +221,12 @@
 
 
 <details>
-<summary>See all 59 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 69 | 56 | [pop](../../genres/pop) |
-| 33 | 22 | [electropop](../../genres/electropop) |
+| 34 | 23 | [electropop](../../genres/electropop) |
 | 33 | 22 | [art pop](../../genres/art_pop) |
 | 18 | 15 | baroque pop |
 | 17 | 15 | uk alternative pop |
@@ -279,7 +279,6 @@
 | 1 | 0 | swedish alternative rock |
 | 1 | 0 | stomp and holler |
 | 1 | 0 | new rave |
-| 1 | 0 | neo soul |
 | 1 | 0 | indie rock |
 | 1 | 0 | chamber pop |
 | 1 | 0 | canadian indie |

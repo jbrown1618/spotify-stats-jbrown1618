@@ -95,7 +95,7 @@ Appears as:
 
 
 <details>
-<summary>See all 8 genres</summary>
+<summary>See all 9 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -103,15 +103,16 @@ Appears as:
 | 29 | 24 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 10 | 9 | [pop](../../genres/pop) |
 | 8 | 6 | [k-pop boy group](../../genres/k_pop_boy_group) |
+| 7 | 7 | [korean pop](../../genres/korean_pop) |
 | 3 | 2 | k-rap |
-| 2 | 2 | korean r&b |
+| 2 | 2 | [korean r&b](../../genres/korean_r_b) |
 | 1 | 1 | [dance pop](../../genres/dance_pop) |
 | 1 | 0 | korean old school hip hop |
 
 </details>
 
 
-![Bar chart of top 8 genres](../../images/labels/yg_entertainment/genres.png)
+![Bar chart of top 9 genres](../../images/labels/yg_entertainment/genres.png)
 
 ## Tracks released under YG Entertainment
 

@@ -225,9 +225,9 @@
 | 5 | 5 | merseybeat |
 | 5 | 5 | british invasion |
 | 5 | 5 | beatlesque |
+| 5 | 4 | lounge |
 | 4 | 4 | glam rock |
 | 4 | 3 | permanent wave |
-| 4 | 3 | lounge |
 | 4 | 2 | uk pop |
 | 3 | 3 | motown |
 | 3 | 3 | canadian pop |
@@ -243,6 +243,7 @@
 | 2 | 2 | jazz pop |
 | 2 | 2 | indie folk |
 | 2 | 2 | funk |
+| 2 | 2 | [electropop](../../genres/electropop) |
 | 2 | 2 | atl hip hop |
 | 2 | 1 | urban contemporary |
 | 2 | 1 | easy listening |
@@ -273,7 +274,6 @@
 | 1 | 1 | heartland rock |
 | 1 | 1 | folk |
 | 1 | 1 | escape room |
-| 1 | 1 | [electropop](../../genres/electropop) |
 | 1 | 1 | disco |
 | 1 | 1 | country rock |
 | 1 | 1 | comic |

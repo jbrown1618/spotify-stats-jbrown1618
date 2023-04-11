@@ -126,7 +126,7 @@ Appears as:
 | 44 | 3 | [show tunes](../../genres/show_tunes) |
 | 41 | 2 | [hollywood](../../genres/hollywood) |
 | 22 | 19 | [pop](../../genres/pop) |
-| 22 | 2 | [broadway](../../genres/broadway) |
+| 21 | 2 | [broadway](../../genres/broadway) |
 | 20 | 16 | [dance pop](../../genres/dance_pop) |
 | 10 | 2 | vocal jazz |
 | 4 | 2 | rap |
@@ -146,12 +146,12 @@ Appears as:
 | 2 | 2 | indie pop |
 | 2 | 2 | escape room |
 | 2 | 2 | [acoustic pop](../../genres/acoustic_pop) |
-| 2 | 1 | viral pop |
 | 2 | 1 | pop dance |
 | 2 | 1 | edm |
 | 2 | 0 | trap |
 | 2 | 0 | hip hop |
 | 2 | 0 | alternative hip hop |
+| 1 | 1 | viral pop |
 | 1 | 1 | uk pop |
 | 1 | 1 | uk funky |
 | 1 | 1 | uk dance |

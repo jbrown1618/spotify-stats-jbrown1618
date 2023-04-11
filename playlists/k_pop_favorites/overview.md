@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[220 songs](tracks.md)
+[219 songs](tracks.md)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 13 | 13 | [Red Velvet](../../artists/red_velvet) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 12 | 12 | [Red Velvet](../../artists/red_velvet) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 10 | 10 | [BLACKPINK](../../artists/blackpink) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 9 | 9 | [TWICE](../../artists/twice) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | 9 | 9 | [ENHYPEN](../../artists/enhypen) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -64,7 +64,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | 1 | 1 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 1 | 1 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | 1 | 1 | R3HAB | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | BIBI | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 1 | 1 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 1 | 1 | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
@@ -162,7 +162,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | 1 | 1 | [12:00] | 2020-10-19 | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | 1 | 1 | ZERO : FEVER Part.3 | 2021-09-13 | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | 1 | 1 | YOUNG-LUV.COM | 2022-02-21 | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | 1 | 1 | Why So Lonely | 2016-07-05 | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | 1 | 1 | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
@@ -177,7 +177,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | 1 | 1 | Traffic light | 2021-05-14 | [🔗](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 1 | 1 | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 1 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 1 | 1 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="" width="50" /> | 1 | 1 | The Perfect Red Velvet - The 2nd Album Repackage | 2018-01-29 | [🔗](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | 1 | 1 | The Boys - The 3rd Album | 2011-10-19 | [🔗](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | 1 | 1 | Take Over The Moon - The 2nd Mini Album | 2019-10-29 | [🔗](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) |
@@ -222,6 +221,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | 1 | 1 | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | 1 | 1 | Monster - The 1st Mini Album | 2020-07-06 | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | 1 | 1 | Modern Times | 2013-10-08 | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
 
 </details>
 
@@ -236,18 +236,18 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 68 | 68 | [SM Entertainment](../../labels/sm_entertainment) |
+| 67 | 67 | [SM Entertainment](../../labels/sm_entertainment) |
+| 20 | 20 | [Republic Records](../../labels/republic_records) |
 | 19 | 19 | [YG Entertainment](../../labels/yg_entertainment) |
-| 19 | 19 | [Republic Records](../../labels/republic_records) |
 | 12 | 12 | [Interscope Records](../../labels/interscope_records) |
 | 9 | 9 | [BELIFT LAB](../../labels/belift_lab) |
 | 8 | 8 | [Stone Music Entertainment](../../labels/stone_music_entertainment) |
 | 8 | 8 | [RBW Inc.](../../labels/rbw_inc_) |
 | 8 | 8 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) |
 | 7 | 7 | [Universal Music LLC](../../labels/universal_music_llc) |
-| 7 | 7 | [JYP Entertainment](../../labels/jyp_entertainment) |
 | 7 | 7 | [Genie Music Corporation](../../labels/genie_music_corporation) |
 | 6 | 6 | [PLEDIS Entertainment](../../labels/pledis_entertainment) |
+| 6 | 6 | [JYP Entertainment](../../labels/jyp_entertainment) |
 | 5 | 5 | [BIGHIT MUSIC](../../labels/bighit_music) |
 | 4 | 4 | [SOURCE MUSIC](../../labels/source_music) |
 | 4 | 4 | [Kakao Entertainment](../../labels/kakao_entertainment) |
@@ -261,7 +261,6 @@
 | 2 | 2 | THE BLACK LABEL |
 | 2 | 2 | [MYSTIC STORY](../../labels/mystic_story) |
 | 2 | 2 | LABEL V |
-| 2 | 2 | [HYBE](../../labels/hybe) |
 | 2 | 2 | Fave Entertainment |
 | 2 | 2 | 88rising Music |
 | 1 | 1 | 드림캐쳐컴퍼니 |
@@ -279,6 +278,7 @@
 | 1 | 1 | Million Market |
 | 1 | 1 | Makeus Entertainment |
 | 1 | 1 | MYSTIC ENTERTAINMENT |
+| 1 | 1 | [HYBE](../../labels/hybe) |
 | 1 | 1 | Feel Ghood Music |
 | 1 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) |
 | 1 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) |
@@ -300,13 +300,13 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 182 | 182 | [k-pop](../../genres/k_pop) |
-| 86 | 86 | [k-pop girl group](../../genres/k_pop_girl_group) |
+| 181 | 181 | [k-pop](../../genres/k_pop) |
+| 85 | 85 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 49 | 49 | [k-pop boy group](../../genres/k_pop_boy_group) |
 | 11 | 11 | [pop](../../genres/pop) |
 | 9 | 9 | anime |
-| 6 | 6 | [korean pop](../../genres/korean_pop) |
-| 5 | 5 | korean r&b |
+| 7 | 7 | [korean pop](../../genres/korean_pop) |
+| 5 | 5 | [korean r&b](../../genres/korean_r_b) |
 | 1 | 1 | korean talent show |
 | 1 | 1 | korean ost |
 | 1 | 1 | korean city pop |
@@ -334,7 +334,7 @@
 | 2018 | 10 |
 | 2017 | 12 |
 | 2016 | 12 |
-| 2015 | 7 |
+| 2015 | 6 |
 | 2014 | 3 |
 | 2013 | 2 |
 | 2011 | 2 |
@@ -406,7 +406,7 @@
 | When This Rain Stops (0.805) | Drunk-Dazed (0.000707) |
 | 무제(無題) (Untitled, 2014) (0.785) | RUN2U (0.000835) |
 | HOLO (0.768) | LA DI DA (0.00108) |
-| Love poem (0.74) | 달라달라 (DALLA DALLA) (0.00116) |
+| Love poem (0.74) | DALLA DALLA (0.00116) |
 | 눈,코,입 (Eyes, Nose, Lips) (0.736) | BOOMBAYAH (0.00268) |
 | ZOOM (0.696) | Up & Down (0.00279) |
 | Like Water (0.648) | Doom Du Doom (0.00356) |

@@ -67,7 +67,7 @@ Appears as:
 | 4 | 2 | [k-pop boy group](../../genres/k_pop_boy_group) |
 | 2 | 1 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 1 | 1 | korean ost |
-| 1 | 0 | korean r&b |
+| 1 | 0 | [korean r&b](../../genres/korean_r_b) |
 | 1 | 0 | k-rap |
 
 </details>
