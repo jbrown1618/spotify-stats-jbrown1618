@@ -66,9 +66,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 151 | 0 | [harmonia mundi](../../labels/harmonia_mundi.md) |
-| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records.md) |
+| 151 | 0 | [harmonia mundi](../../labels/harmonia_mundi) |
+| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
+| 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records) |
 
 </details>
 

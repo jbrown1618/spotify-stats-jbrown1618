@@ -108,14 +108,14 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 22 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
-| 14 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
+| 22 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
+| 14 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house) |
 | 8 | 0 | SUPRAPHON a.s. |
-| 8 | 0 | [Decca (UMO)](../../labels/decca__umo_.md) |
-| 4 | 0 | [Warner Classics](../../labels/warner_classics.md) |
+| 8 | 0 | [Decca (UMO)](../../labels/decca__umo_) |
+| 4 | 0 | [Warner Classics](../../labels/warner_classics) |
 | 3 | 0 | Conifer Classics |
 | 3 | 0 | Carus |
-| 1 | 0 | [harmonia mundi](../../labels/harmonia_mundi.md) |
+| 1 | 0 | [harmonia mundi](../../labels/harmonia_mundi) |
 | 1 | 0 | Warner Classics International |
 | 1 | 0 | Signum Records |
 | 1 | 0 | SPEKTRAL |
@@ -153,7 +153,7 @@
 | 4 | 0 | early music |
 | 4 | 0 | cambridge choir |
 | 4 | 0 | british choir |
-| 4 | 0 | [a cappella](../../genres/a_cappella.md) |
+| 4 | 0 | [a cappella](../../genres/a_cappella) |
 | 2 | 0 | italian renaissance |
 | 2 | 0 | english baroque |
 | 2 | 0 | baroque |

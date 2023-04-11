@@ -13,8 +13,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../../artists/queen.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../../artists/queen) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 3 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -130,19 +130,19 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue.md) |
-| 14 | 11 | [Hollywood Records](../../labels/hollywood_records.md) |
-| 14 | 5 | [Rhino](../../labels/rhino.md) |
-| 13 | 5 | [Warner Records](../../labels/warner_records.md) |
-| 7 | 4 | [Columbia](../../labels/columbia.md) |
-| 6 | 3 | [Legacy](../../labels/legacy.md) |
+| 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue) |
+| 14 | 11 | [Hollywood Records](../../labels/hollywood_records) |
+| 14 | 5 | [Rhino](../../labels/rhino) |
+| 13 | 5 | [Warner Records](../../labels/warner_records) |
+| 7 | 4 | [Columbia](../../labels/columbia) |
+| 6 | 3 | [Legacy](../../labels/legacy) |
 | 3 | 3 | Geffen |
 | 3 | 2 | A&M |
-| 3 | 0 | [Atlantic Records](../../labels/atlantic_records.md) |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_.md) |
-| 2 | 2 | [Polydor Records](../../labels/polydor_records.md) |
+| 3 | 0 | [Atlantic Records](../../labels/atlantic_records) |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
+| 2 | 2 | [Polydor Records](../../labels/polydor_records) |
 | 2 | 2 | ABKCO Music and Records |
-| 2 | 1 | [Epic](../../labels/epic.md) |
+| 2 | 1 | [Epic](../../labels/epic) |
 | 2 | 1 | Elektra |
 | 1 | 1 | Rhino Atlantic |
 | 1 | 1 | Guns N Roses P&D |
@@ -164,27 +164,27 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 88 | 58 | [rock](../../genres/rock.md) |
-| 85 | 57 | [classic rock](../../genres/classic_rock.md) |
+| 88 | 58 | [rock](../../genres/rock) |
+| 85 | 57 | [classic rock](../../genres/classic_rock) |
 | 39 | 30 | british invasion |
 | 37 | 28 | psychedelic rock |
 | 34 | 19 | album rock |
 | 33 | 23 | beatlesque |
 | 31 | 22 | merseybeat |
 | 28 | 17 | hard rock |
-| 25 | 13 | [soft rock](../../genres/soft_rock.md) |
-| 23 | 17 | [mellow gold](../../genres/mellow_gold.md) |
+| 25 | 13 | [soft rock](../../genres/soft_rock) |
+| 23 | 17 | [mellow gold](../../genres/mellow_gold) |
 | 14 | 11 | glam rock |
 | 10 | 9 | art rock |
 | 9 | 8 | blues rock |
-| 9 | 6 | [folk rock](../../genres/folk_rock.md) |
+| 9 | 6 | [folk rock](../../genres/folk_rock) |
 | 9 | 4 | yacht rock |
 | 5 | 3 | heartland rock |
 | 4 | 3 | symphonic rock |
 | 4 | 3 | progressive rock |
 | 4 | 3 | country rock |
 | 4 | 1 | metal |
-| 3 | 2 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 3 | 2 | [singer-songwriter](../../genres/singer_songwriter) |
 | 3 | 2 | roots rock |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
@@ -196,11 +196,11 @@
 | 2 | 1 | bubblegum pop |
 | 2 | 1 | birmingham metal |
 | 1 | 1 | southern rock |
-| 1 | 1 | [pop rock](../../genres/pop_rock.md) |
+| 1 | 1 | [pop rock](../../genres/pop_rock) |
 | 1 | 1 | jam band |
 | 1 | 1 | glam metal |
 | 1 | 1 | australian rock |
-| 1 | 1 | [adult standards](../../genres/adult_standards.md) |
+| 1 | 1 | [adult standards](../../genres/adult_standards) |
 | 1 | 0 | sophisti-pop |
 | 1 | 0 | permanent wave |
 | 1 | 0 | nwobhm |

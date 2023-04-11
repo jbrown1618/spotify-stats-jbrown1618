@@ -13,13 +13,13 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 51 | 31 | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 25 | 16 | [Ariana Grande](../../artists/ariana_grande.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 15 | 13 | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 13 | 9 | [Lady Gaga](../../artists/lady_gaga.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 12 | 10 | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 12 | 6 | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 51 | 31 | [Taylor Swift](../../artists/taylor_swift) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 25 | 16 | [Ariana Grande](../../artists/ariana_grande) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 15 | 13 | [Rihanna](../../artists/rihanna) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 13 | 9 | [Lady Gaga](../../artists/lady_gaga) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 12 | 10 | [Bruno Mars](../../artists/bruno_mars) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 12 | 6 | [Dua Lipa](../../artists/dua_lipa) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 8 | 7 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 8 | 5 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 5 | 3 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 5 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | 5 | 2 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 4 | 4 | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 4 | 4 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | 4 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 4 | 3 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
@@ -67,15 +67,15 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 2 | 2 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 2 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 2 | 2 | [BTS](../../artists/bts.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 2 | 2 | [BTS](../../artists/bts) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 2 | 2 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 2 | 2 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | 2 | 2 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 2 | 2 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bubl_) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 2 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 2 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 2 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -102,9 +102,9 @@
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
@@ -243,24 +243,24 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 34 | 28 | [Interscope Records](../../labels/interscope_records.md) |
-| 29 | 19 | [Big Machine Records](../../labels/big_machine_records.md) |
-| 28 | 22 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 25 | 20 | [Atlantic Records](../../labels/atlantic_records.md) |
-| 21 | 12 | [Taylor Swift](../../labels/taylor_swift.md) |
-| 20 | 14 | [Columbia](../../labels/columbia.md) |
-| 18 | 14 | [Warner Records](../../labels/warner_records.md) |
-| 17 | 15 | [Epic](../../labels/epic.md) |
-| 15 | 10 | [Republic Records](../../labels/republic_records.md) |
-| 14 | 13 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 14 | 10 | [Jive](../../labels/jive.md) |
-| 13 | 11 | [Universal Music LLC](../../labels/universal_music_llc.md) |
-| 13 | 11 | [Darkroom](../../labels/darkroom.md) |
-| 12 | 10 | [Syco Music](../../labels/syco_music.md) |
-| 10 | 8 | [Capitol Records](../../labels/capitol_records.md) |
+| 34 | 28 | [Interscope Records](../../labels/interscope_records) |
+| 29 | 19 | [Big Machine Records](../../labels/big_machine_records) |
+| 28 | 22 | [RCA Records Label](../../labels/rca_records_label) |
+| 25 | 20 | [Atlantic Records](../../labels/atlantic_records) |
+| 21 | 12 | [Taylor Swift](../../labels/taylor_swift) |
+| 20 | 14 | [Columbia](../../labels/columbia) |
+| 18 | 14 | [Warner Records](../../labels/warner_records) |
+| 17 | 15 | [Epic](../../labels/epic) |
+| 15 | 10 | [Republic Records](../../labels/republic_records) |
+| 14 | 13 | [Def Jam Recordings](../../labels/def_jam_recordings) |
+| 14 | 10 | [Jive](../../labels/jive) |
+| 13 | 11 | [Universal Music LLC](../../labels/universal_music_llc) |
+| 13 | 11 | [Darkroom](../../labels/darkroom) |
+| 12 | 10 | [Syco Music](../../labels/syco_music) |
+| 10 | 8 | [Capitol Records](../../labels/capitol_records) |
 | 8 | 8 | Monkey Puzzle Records |
-| 8 | 4 | [Polydor Records](../../labels/polydor_records.md) |
-| 6 | 3 | [XL Recordings](../../labels/xl_recordings.md) |
+| 8 | 4 | [Polydor Records](../../labels/polydor_records) |
+| 6 | 3 | [XL Recordings](../../labels/xl_recordings) |
 | 6 | 3 | Island Records |
 | 5 | 5 | Beluga Heights |
 | 5 | 5 | Bad Boy |
@@ -270,12 +270,12 @@
 | 3 | 3 | Olivia Rodrigo PS |
 | 3 | 3 | Island UK |
 | 3 | 3 | Casablanca Records |
-| 3 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
+| 3 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
 | 3 | 2 | Parlophone UK |
 | 3 | 2 | Fueled By Ramen |
 | 3 | 1 | LaFace Records |
 | 2 | 2 | Wondaland |
-| 2 | 2 | [Reprise](../../labels/reprise.md) |
+| 2 | 2 | [Reprise](../../labels/reprise) |
 | 2 | 2 | Radiculture |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Nice Life |
@@ -291,9 +291,9 @@
 | 2 | 2 | Artist Partner |
 | 2 | 2 | ATG |
 | 2 | 2 | A Star is Born OST |
-| 2 | 2 | [143](../../labels/143.md) |
+| 2 | 2 | [143](../../labels/143) |
 | 2 | 1 | Island Def Jam |
-| 2 | 1 | [Hollywood Records](../../labels/hollywood_records.md) |
+| 2 | 1 | [Hollywood Records](../../labels/hollywood_records) |
 | 2 | 1 | Golden Child Recordings |
 | 2 | 1 | Aftermath Entertainment |
 | 2 | 0 | JVKE |
@@ -357,27 +357,27 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 317 | 235 | [pop](../../genres/pop.md) |
-| 187 | 134 | [dance pop](../../genres/dance_pop.md) |
-| 44 | 35 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 33 | 25 | [electropop](../../genres/electropop.md) |
-| 30 | 24 | [art pop](../../genres/art_pop.md) |
+| 317 | 235 | [pop](../../genres/pop) |
+| 187 | 134 | [dance pop](../../genres/dance_pop) |
+| 44 | 35 | [post-teen pop](../../genres/post_teen_pop) |
+| 35 | 26 | [electropop](../../genres/electropop) |
+| 30 | 24 | [art pop](../../genres/art_pop) |
 | 29 | 18 | uk pop |
 | 23 | 19 | urban contemporary |
 | 21 | 18 | pop rap |
 | 18 | 10 | edm |
-| 16 | 12 | [r&b](../../genres/r_b.md) |
+| 16 | 12 | [r&b](../../genres/r_b) |
 | 15 | 13 | neo soul |
 | 14 | 13 | barbadian pop |
-| 14 | 11 | [neo mellow](../../genres/neo_mellow.md) |
+| 14 | 11 | [neo mellow](../../genres/neo_mellow) |
 | 12 | 10 | atl hip hop |
+| 12 | 8 | viral pop |
 | 11 | 11 | australian pop |
-| 11 | 7 | viral pop |
 | 11 | 7 | pop dance |
 | 11 | 7 | canadian pop |
 | 11 | 6 | british soul |
-| 10 | 9 | [pop rock](../../genres/pop_rock.md) |
-| 10 | 8 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 10 | 9 | [pop rock](../../genres/pop_rock) |
+| 10 | 8 | [acoustic pop](../../genres/acoustic_pop) |
 | 10 | 5 | pop soul |
 | 9 | 7 | tropical house |
 | 9 | 7 | metropopolis |
@@ -392,14 +392,14 @@
 | 6 | 5 | talent show |
 | 6 | 5 | girl group |
 | 5 | 5 | uk funky |
-| 5 | 5 | [rock](../../genres/rock.md) |
+| 5 | 5 | [rock](../../genres/rock) |
 | 5 | 5 | permanent wave |
 | 5 | 5 | afrofuturism |
 | 5 | 4 | piano rock |
 | 5 | 3 | indie poptimism |
 | 5 | 3 | contemporary r&b |
-| 4 | 4 | [lilith](../../genres/lilith.md) |
-| 4 | 4 | [hollywood](../../genres/hollywood.md) |
+| 4 | 4 | [lilith](../../genres/lilith) |
+| 4 | 4 | [hollywood](../../genres/hollywood) |
 | 4 | 4 | hip pop |
 | 4 | 4 | europop |
 | 4 | 2 | south carolina hip hop |
@@ -425,7 +425,7 @@
 | 2 | 2 | filter house |
 | 2 | 2 | electro |
 | 2 | 2 | colombian pop |
-| 2 | 2 | [adult standards](../../genres/adult_standards.md) |
+| 2 | 2 | [adult standards](../../genres/adult_standards) |
 | 2 | 1 | shiver pop |
 | 2 | 1 | indy indie |
 | 2 | 1 | indiecoustica |

@@ -42,7 +42,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d599789ce2de9b742b804e3" alt="" width="50" /> | 1 | 1 | george | [🔗](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | 1 | 1 | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 1 | 1 | [CHUNG HA](../../artists/chung_ha.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 1 | 1 | [CHUNG HA](../../artists/chung_ha) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | 1 | 1 | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | 1 | 1 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
@@ -53,9 +53,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 1 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Kim Taeri | [🔗](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyonc_) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f" alt="" width="50" /> | 1 | 0 | Brendon Urie | [🔗](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 1 | 0 | [aespa](../../artists/aespa.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 1 | 0 | [aespa](../../artists/aespa) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf2855e25f1d9c8a20bcc85ae" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -71,7 +71,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8906086f803ec690149a3f9c" alt="" width="50" /> | 1 | 0 | Emotional Oranges | [🔗](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 1 | 0 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429" alt="" width="50" /> | 1 | 0 | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 1 | 0 | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 1 | 0 | [Taylor Swift](../../artists/taylor_swift) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 0 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
@@ -146,44 +146,44 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 3 | 2 | [Columbia](../../labels/columbia.md) |
-| 2 | 2 | [Syco Music](../../labels/syco_music.md) |
+| 3 | 2 | [Columbia](../../labels/columbia) |
+| 2 | 2 | [Syco Music](../../labels/syco_music) |
 | 2 | 2 | Parlophone Denmark |
-| 2 | 2 | [Interscope Records](../../labels/interscope_records.md) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records.md) |
-| 2 | 1 | [RCA Records Label](../../labels/rca_records_label.md) |
+| 2 | 2 | [Interscope Records](../../labels/interscope_records) |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records) |
+| 2 | 1 | [RCA Records Label](../../labels/rca_records_label) |
 | 2 | 1 | RBMG |
 | 2 | 1 | Island Records |
-| 2 | 1 | [Epic](../../labels/epic.md) |
+| 2 | 1 | [Epic](../../labels/epic) |
 | 2 | 1 | Def Jam |
 | 2 | 1 | Arista |
 | 1 | 1 | 코어콘텐츠미디어 |
 | 1 | 1 | 스타엔트리엔터테인먼트 |
 | 1 | 1 | 디컴퍼니 |
 | 1 | 1 | YUQI |
-| 1 | 1 | [Warner Records](../../labels/warner_records.md) |
+| 1 | 1 | [Warner Records](../../labels/warner_records) |
 | 1 | 1 | Virginia Records |
 | 1 | 1 | Teleport Records |
 | 1 | 1 | Studio MaumC |
-| 1 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_.md) |
+| 1 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) |
 | 1 | 1 | SBS Contents Hub Co. |
 | 1 | 1 | Riot Games |
 | 1 | 1 | Not specified |
 | 1 | 1 | Music Recipe |
-| 1 | 1 | [Jive](../../labels/jive.md) |
+| 1 | 1 | [Jive](../../labels/jive) |
 | 1 | 1 | Hwa&Dam pictures |
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | CRAFT AND JUN |
 | 1 | 1 | (주)블렌딩 |
 | 1 | 0 | The Other Songs |
-| 1 | 0 | [Taylor Swift](../../labels/taylor_swift.md) |
-| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment.md) |
-| 1 | 0 | [Republic Records](../../labels/republic_records.md) |
+| 1 | 0 | [Taylor Swift](../../labels/taylor_swift) |
+| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment) |
+| 1 | 0 | [Republic Records](../../labels/republic_records) |
 | 1 | 0 | Parkwood Entertainment |
 | 1 | 0 | Not So Fast |
 | 1 | 0 | Fez's Finest |
-| 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
+| 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings) |
 | 1 | 0 | DJ Snake Music Productions Limited |
 | 1 | 0 | Chris Brown Entertainment |
 | 1 | 0 | Back Lot Music |
@@ -202,17 +202,17 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 9 | [pop](../../genres/pop.md) |
-| 10 | 6 | [dance pop](../../genres/dance_pop.md) |
-| 5 | 4 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 5 | 1 | [r&b](../../genres/r_b.md) |
+| 16 | 9 | [pop](../../genres/pop) |
+| 10 | 6 | [dance pop](../../genres/dance_pop) |
+| 5 | 4 | [post-teen pop](../../genres/post_teen_pop) |
+| 5 | 1 | [r&b](../../genres/r_b) |
+| 3 | 3 | [electropop](../../genres/electropop) |
 | 3 | 1 | pop rap |
 | 3 | 1 | canadian pop |
 | 2 | 2 | korean indie rock |
-| 2 | 2 | [electropop](../../genres/electropop.md) |
 | 2 | 2 | danish pop |
 | 2 | 1 | pop dance |
-| 2 | 1 | [k-pop girl group](../../genres/k_pop_girl_group.md) |
+| 2 | 1 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 2 | 1 | indie r&b |
 | 2 | 1 | edm |
 | 2 | 1 | chill r&b |
@@ -227,9 +227,9 @@
 | 1 | 1 | r&b en espanol |
 | 1 | 1 | modern rock |
 | 1 | 1 | modern alternative rock |
-| 1 | 1 | [korean pop](../../genres/korean_pop.md) |
+| 1 | 1 | [korean pop](../../genres/korean_pop) |
 | 1 | 1 | korean city pop |
-| 1 | 1 | [k-pop](../../genres/k_pop.md) |
+| 1 | 1 | [k-pop](../../genres/k_pop) |
 | 1 | 1 | japanese teen pop |
 | 1 | 1 | japanese singer-songwriter |
 | 1 | 1 | j-pop |

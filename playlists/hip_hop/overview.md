@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 5 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 4 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 3 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 2 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 2 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -120,13 +120,13 @@
 |---:|---:|:---|
 | 5 | 2 | Roc-A-Fella |
 | 4 | 2 | Aftermath |
-| 4 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 3 | 2 | [Atlantic Records](../../labels/atlantic_records.md) |
+| 4 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings) |
+| 3 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 3 | 1 | Roc Nation |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Cash Money |
-| 2 | 1 | [Warner Records](../../labels/warner_records.md) |
-| 2 | 1 | [Interscope Records](../../labels/interscope_records.md) |
+| 2 | 1 | [Warner Records](../../labels/warner_records) |
+| 2 | 1 | [Interscope Records](../../labels/interscope_records) |
 | 1 | 1 | The Orchard |
 | 1 | 1 | KSR |
 | 1 | 1 | EMPIRE |
@@ -138,15 +138,15 @@
 | 1 | 1 | 3H |
 | 1 | 0 | RocAFella |
 | 1 | 0 | Pussycat Dolls |
-| 1 | 0 | [Legacy](../../labels/legacy.md) |
+| 1 | 0 | [Legacy](../../labels/legacy) |
 | 1 | 0 | Jay-Z |
 | 1 | 0 | J Records |
 | 1 | 0 | IDJ |
 | 1 | 0 | Gamebread |
 | 1 | 0 | Def Jam |
-| 1 | 0 | [Columbia](../../labels/columbia.md) |
+| 1 | 0 | [Columbia](../../labels/columbia) |
 | 1 | 0 | Collipark |
-| 1 | 0 | [BIGHIT MUSIC](../../labels/bighit_music.md) |
+| 1 | 0 | [BIGHIT MUSIC](../../labels/bighit_music) |
 | 1 | 0 | 2Chainz PS |
 
 </details>
@@ -165,8 +165,8 @@
 | 28 | 13 | rap |
 | 18 | 6 | hip hop |
 | 12 | 4 | pop rap |
-| 8 | 6 | [pop](../../genres/pop.md) |
-| 8 | 6 | [dance pop](../../genres/dance_pop.md) |
+| 8 | 6 | [pop](../../genres/pop) |
+| 8 | 6 | [dance pop](../../genres/dance_pop) |
 | 6 | 2 | trap |
 | 5 | 4 | hip pop |
 | 5 | 3 | gangster rap |
@@ -179,7 +179,7 @@
 | 3 | 2 | dirty south rap |
 | 3 | 0 | dmv rap |
 | 2 | 2 | queens hip hop |
-| 2 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 2 | 1 | [post-teen pop](../../genres/post_teen_pop) |
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |
 | 1 | 1 | north carolina hip hop |
@@ -192,7 +192,7 @@
 | 1 | 0 | new orleans rap |
 | 1 | 0 | lgbtq+ hip hop |
 | 1 | 0 | k-rap |
-| 1 | 0 | [k-pop](../../genres/k_pop.md) |
+| 1 | 0 | [k-pop](../../genres/k_pop) |
 | 1 | 0 | hardcore hip hop |
 | 1 | 0 | girl group |
 | 1 | 0 | chicago bop |

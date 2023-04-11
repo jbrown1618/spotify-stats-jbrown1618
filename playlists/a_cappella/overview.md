@@ -13,9 +13,9 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 32 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 25 | 21 | [The Tarpeggios](../../artists/the_tarpeggios.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 25 | 21 | [The Tarpeggios](../../artists/the_tarpeggios) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 20 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 16 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 12 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
@@ -59,7 +59,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | University of Wisconsin-Madison Fundamentally Sound | [🔗](https://open.spotify.com/artist/7f7ezoLEjOp1K0qDSosU80) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21e49fe089486042eea96c11" alt="" width="50" /> | 1 | 0 | Off The Beat | [🔗](https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | 1 | 0 | Anna Gilbert | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 1 | 0 | [Billy Joel](../../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 1 | 0 | [Billy Joel](../../artists/billy_joel) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1918aa487034f94f448691f8" alt="" width="50" /> | 1 | 0 | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Roxorloops & Blady Kris | [🔗](https://open.spotify.com/artist/6HRJOlHBoo07WcZdXZAADI) |
@@ -82,13 +82,13 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Andrew Busher | [🔗](https://open.spotify.com/artist/3Zbnq9cbmHkNBzUrfTe2Vb) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | 1 | 0 | Hullabahoos | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d7586a07db78c748c95c368" alt="" width="50" /> | 1 | 0 | Low Key | [🔗](https://open.spotify.com/artist/3QiFLZnOapcbmh1onAoNBL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | 1 | 0 | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb949d918aab8261c4a15d3ab3" alt="" width="50" /> | 1 | 0 | The Doo Wop Shop | [🔗](https://open.spotify.com/artist/3BKvJisNneE6cOuLuBHGpC) |
 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc621518f25ee489a8d8be58" alt="" width="50" /> | 1 | 0 | Low Key | [🔗](https://open.spotify.com/artist/2bFVGrmfB6A9ljMkunWcXC) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | 1 | 0 | Hank Green | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6bffc5b4d567301e3706fc9" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
@@ -240,13 +240,13 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 59 | 0 | [Varsity Vocals](../../labels/varsity_vocals.md) |
-| 41 | 16 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 32 | 0 | [A Cappella Records](../../labels/a_cappella_records.md) |
-| 20 | 0 | [Peter Hollens](../../labels/peter_hollens.md) |
-| 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios.md) |
-| 12 | 0 | [One Voice Productions](../../labels/one_voice_productions.md) |
-| 12 | 0 | [Ithacappella](../../labels/ithacappella.md) |
+| 59 | 0 | [Varsity Vocals](../../labels/varsity_vocals) |
+| 41 | 16 | [RCA Records Label](../../labels/rca_records_label) |
+| 32 | 0 | [A Cappella Records](../../labels/a_cappella_records) |
+| 20 | 0 | [Peter Hollens](../../labels/peter_hollens) |
+| 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios) |
+| 12 | 0 | [One Voice Productions](../../labels/one_voice_productions) |
+| 12 | 0 | [Ithacappella](../../labels/ithacappella) |
 | 9 | 8 | The Unc - Chapel Hill Tarpeggios |
 | 9 | 0 | Option C Records |
 | 9 | 0 | Mosaic Whispers |
@@ -261,8 +261,8 @@
 | 4 | 0 | 649668 Records DK2 |
 | 3 | 0 | The Sound Corporation |
 | 3 | 0 | The SoCal VoCals |
-| 3 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_.md) |
-| 3 | 0 | [Sony Classical](../../labels/sony_classical.md) |
+| 3 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) |
+| 3 | 0 | [Sony Classical](../../labels/sony_classical) |
 | 2 | 0 | world village |
 | 2 | 0 | Voices Only A Cappella |
 | 2 | 0 | The University of Rochester Midnight Ramblers |
@@ -271,7 +271,7 @@
 | 2 | 0 | Signum Records |
 | 2 | 0 | Second Shift a Cappella |
 | 2 | 0 | RCA Victor |
-| 1 | 0 | [Warner Classics](../../labels/warner_classics.md) |
+| 1 | 0 | [Warner Classics](../../labels/warner_classics) |
 | 1 | 0 | Universal Music Division Decca Records France |
 | 1 | 0 | Sonoton Music |
 | 1 | 0 | Signum OMP |
@@ -291,30 +291,30 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 192 | 16 | [a cappella](../../genres/a_cappella.md) |
+| 192 | 16 | [a cappella](../../genres/a_cappella) |
 | 119 | 0 | college a cappella |
 | 32 | 0 | fantasy |
 | 11 | 0 | french jazz |
 | 8 | 0 | lds youth |
 | 7 | 0 | barbershop |
-| 5 | 0 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 5 | 0 | [post-teen pop](../../genres/post_teen_pop) |
 | 4 | 0 | puirt-a-beul |
 | 3 | 0 | vocal ensemble |
 | 3 | 0 | polyphony |
 | 3 | 0 | choral |
 | 3 | 0 | cambridge choir |
 | 3 | 0 | british choir |
-| 2 | 0 | [soft rock](../../genres/soft_rock.md) |
-| 2 | 0 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 2 | 0 | [rock](../../genres/rock.md) |
-| 2 | 0 | [mellow gold](../../genres/mellow_gold.md) |
-| 2 | 0 | [folk rock](../../genres/folk_rock.md) |
-| 2 | 0 | [classic rock](../../genres/classic_rock.md) |
+| 2 | 0 | [soft rock](../../genres/soft_rock) |
+| 2 | 0 | [singer-songwriter](../../genres/singer_songwriter) |
+| 2 | 0 | [rock](../../genres/rock) |
+| 2 | 0 | [mellow gold](../../genres/mellow_gold) |
+| 2 | 0 | [folk rock](../../genres/folk_rock) |
+| 2 | 0 | [classic rock](../../genres/classic_rock) |
 | 2 | 0 | christian a cappella |
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | sleep |
-| 1 | 0 | [show tunes](../../genres/show_tunes.md) |
+| 1 | 0 | [show tunes](../../genres/show_tunes) |
 | 1 | 0 | roots rock |
 | 1 | 0 | renaissance |
 | 1 | 0 | piano rock |
@@ -323,7 +323,7 @@
 | 1 | 0 | folk |
 | 1 | 0 | early music |
 | 1 | 0 | classical |
-| 1 | 0 | [broadway](../../genres/broadway.md) |
+| 1 | 0 | [broadway](../../genres/broadway) |
 | 1 | 0 | baroque pop |
 
 </details>

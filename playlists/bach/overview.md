@@ -49,8 +49,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 36 | 0 | [Sony Classical](../../labels/sony_classical.md) |
-| 19 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
+| 36 | 0 | [Sony Classical](../../labels/sony_classical) |
+| 19 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
 
 </details>
 

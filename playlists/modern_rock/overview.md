@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 16 | 14 | [Radiohead](../../artists/radiohead.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 16 | 14 | [Radiohead](../../artists/radiohead) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 6 | 5 | Rilo Kiley | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ed29d6d48829666efc8f609" alt="" width="50" /> | 4 | 2 | Nightwish | [🔗](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) |
@@ -122,11 +122,11 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 16 | 14 | [XL Recordings](../../labels/xl_recordings.md) |
-| 9 | 8 | [Warner Records](../../labels/warner_records.md) |
+| 16 | 14 | [XL Recordings](../../labels/xl_recordings) |
+| 9 | 8 | [Warner Records](../../labels/warner_records) |
 | 5 | 5 | Fueled By Ramen |
-| 4 | 3 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 4 | 1 | [Virgin Records](../../labels/virgin_records.md) |
+| 4 | 3 | [RCA Records Label](../../labels/rca_records_label) |
+| 4 | 1 | [Virgin Records](../../labels/virgin_records) |
 | 3 | 3 | Steam Powered Giraffe |
 | 3 | 3 | Canvasback |
 | 3 | 3 | Brute |
@@ -135,9 +135,9 @@
 | 3 | 1 | Relentless |
 | 2 | 2 | Phonogenic |
 | 2 | 2 | Kid Ina Korner |
-| 2 | 2 | [Interscope Records](../../labels/interscope_records.md) |
-| 2 | 2 | [Epic](../../labels/epic.md) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records.md) |
+| 2 | 2 | [Interscope Records](../../labels/interscope_records) |
+| 2 | 2 | [Epic](../../labels/epic) |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 2 | 1 | Spin-Farm Oy |
 | 2 | 1 | Saddle Creek |
 | 2 | 1 | Nuclear Blast Entertainment |
@@ -150,12 +150,12 @@
 | 1 | 1 | IAMSOUND |
 | 1 | 1 | Giant Little Man |
 | 1 | 1 | Down Up Down Music |
-| 1 | 1 | [Decca (UMO)](../../labels/decca__umo_.md) |
+| 1 | 1 | [Decca (UMO)](../../labels/decca__umo_) |
 | 1 | 1 | Cult Records |
-| 1 | 1 | [Columbia](../../labels/columbia.md) |
+| 1 | 1 | [Columbia](../../labels/columbia) |
 | 1 | 1 | Arista |
 | 1 | 0 | Universal Music AB |
-| 1 | 0 | [Reprise](../../labels/reprise.md) |
+| 1 | 0 | [Reprise](../../labels/reprise) |
 | 1 | 0 | Relapse Records |
 | 1 | 0 | Merge Records |
 
@@ -168,11 +168,11 @@
 
 
 <details>
-<summary>See all 80 genres</summary>
+<summary>See all 82 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 34 | 28 | [rock](../../genres/rock.md) |
+| 34 | 28 | [rock](../../genres/rock) |
 | 25 | 20 | permanent wave |
 | 22 | 19 | modern rock |
 | 22 | 17 | alternative rock |
@@ -181,13 +181,13 @@
 | 16 | 14 | art rock |
 | 14 | 11 | indie rock |
 | 10 | 7 | indie pop |
-| 9 | 6 | [pop rock](../../genres/pop_rock.md) |
-| 9 | 6 | [lilith](../../genres/lilith.md) |
+| 9 | 6 | [pop rock](../../genres/pop_rock) |
+| 9 | 6 | [lilith](../../genres/lilith) |
 | 7 | 5 | anti-folk |
-| 6 | 6 | [pop](../../genres/pop.md) |
+| 6 | 6 | [pop](../../genres/pop) |
 | 6 | 5 | la indie |
-| 6 | 4 | [neo mellow](../../genres/neo_mellow.md) |
-| 4 | 4 | [dance pop](../../genres/dance_pop.md) |
+| 6 | 4 | [neo mellow](../../genres/neo_mellow) |
+| 4 | 4 | [dance pop](../../genres/dance_pop) |
 | 4 | 2 | symphonic metal |
 | 4 | 2 | power metal |
 | 4 | 2 | opera metal |
@@ -205,8 +205,9 @@
 | 3 | 2 | garage rock |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
+| 3 | 1 | [acoustic pop](../../genres/acoustic_pop) |
 | 2 | 2 | washington indie |
-| 2 | 2 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 2 | 2 | [post-teen pop](../../genres/post_teen_pop) |
 | 2 | 2 | pop punk |
 | 2 | 2 | pop emo |
 | 2 | 2 | pixie |
@@ -220,6 +221,7 @@
 | 2 | 0 | progressive groove metal |
 | 2 | 0 | atlanta metal |
 | 1 | 1 | visual kei |
+| 1 | 1 | viral pop |
 | 1 | 1 | shimmer pop |
 | 1 | 1 | neo-synthpop |
 | 1 | 1 | metropopolis |
@@ -234,7 +236,7 @@
 | 1 | 1 | indie rock italiano |
 | 1 | 1 | indie poptimism |
 | 1 | 1 | folk-pop |
-| 1 | 1 | [electropop](../../genres/electropop.md) |
+| 1 | 1 | [electropop](../../genres/electropop) |
 | 1 | 1 | electronic rock |
 | 1 | 1 | cyberpunk |
 | 1 | 1 | canadian rock |

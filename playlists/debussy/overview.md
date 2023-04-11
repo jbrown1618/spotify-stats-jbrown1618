@@ -49,8 +49,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 20 | 0 | [Nimbus Records](../../labels/nimbus_records.md) |
-| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
+| 20 | 0 | [Nimbus Records](../../labels/nimbus_records) |
+| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
 
 </details>
 

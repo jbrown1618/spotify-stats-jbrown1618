@@ -13,22 +13,22 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 33 | 3 | [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton.md) | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 33 | 3 | [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 31 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
-| <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | 30 | 2 | [Lin-Manuel Miranda](../../artists/lin_manuel_miranda.md) | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb35dba51746ae3ebb2d8958b" alt="" width="50" /> | 22 | 3 | [Leslie Odom Jr.](../../artists/leslie_odom_jr_.md) | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
+| <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | 30 | 2 | [Lin-Manuel Miranda](../../artists/lin_manuel_miranda) | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb35dba51746ae3ebb2d8958b" alt="" width="50" /> | 22 | 3 | [Leslie Odom Jr.](../../artists/leslie_odom_jr_) | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb29216b4a21ea8912db6502" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | 13 | 1 | [Daveed Diggs](../../artists/daveed_diggs.md) | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
-| <img src="nan" alt="" width="50" /> | 12 | 1 | [Okieriete Onaodowan](../../artists/okieriete_onaodowan.md) | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe36c599c230a7fda002d3d34" alt="" width="50" /> | 11 | 1 | [Anthony Ramos](../../artists/anthony_ramos.md) | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b47bb04577839c77f2e300bd" alt="" width="50" /> | 11 | 1 | [Phillipa Soo](../../artists/phillipa_soo.md) | [🔗](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | 13 | 1 | [Daveed Diggs](../../artists/daveed_diggs) | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
+| <img src="nan" alt="" width="50" /> | 12 | 1 | [Okieriete Onaodowan](../../artists/okieriete_onaodowan) | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe36c599c230a7fda002d3d34" alt="" width="50" /> | 11 | 1 | [Anthony Ramos](../../artists/anthony_ramos) | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b47bb04577839c77f2e300bd" alt="" width="50" /> | 11 | 1 | [Phillipa Soo](../../artists/phillipa_soo) | [🔗](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) |
 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0823301aa0b18fc8e0da571" alt="" width="50" /> | 7 | 1 | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | 7 | 0 | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 6 | 1 | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 6 | 1 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f636a08b6f3c5c6368a58c" alt="" width="50" /> | 5 | 0 | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 5 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
@@ -107,11 +107,11 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 46 | 3 | [Atlantic Records](../../labels/atlantic_records.md) |
-| 26 | 0 | [Polydor Records](../../labels/polydor_records.md) |
-| 20 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc.md) |
-| 10 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_.md) |
-| 6 | 1 | [Epic](../../labels/epic.md) |
+| 46 | 3 | [Atlantic Records](../../labels/atlantic_records) |
+| 26 | 0 | [Polydor Records](../../labels/polydor_records) |
+| 20 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc) |
+| 10 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
+| 6 | 1 | [Epic](../../labels/epic) |
 | 1 | 0 | First Night Records |
 
 </details>
@@ -127,16 +127,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 89 | 3 | [show tunes](../../genres/show_tunes.md) |
-| 60 | 3 | [hollywood](../../genres/hollywood.md) |
-| 58 | 2 | [broadway](../../genres/broadway.md) |
+| 89 | 3 | [show tunes](../../genres/show_tunes) |
+| 60 | 3 | [hollywood](../../genres/hollywood) |
+| 58 | 2 | [broadway](../../genres/broadway) |
 | 37 | 0 | west end |
 | 10 | 2 | vocal jazz |
-| 7 | 1 | [pop](../../genres/pop.md) |
-| 6 | 1 | [pop rock](../../genres/pop_rock.md) |
-| 6 | 1 | [neo mellow](../../genres/neo_mellow.md) |
-| 6 | 1 | [lilith](../../genres/lilith.md) |
-| 6 | 1 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 7 | 1 | [pop](../../genres/pop) |
+| 6 | 1 | [pop rock](../../genres/pop_rock) |
+| 6 | 1 | [neo mellow](../../genres/neo_mellow) |
+| 6 | 1 | [lilith](../../genres/lilith) |
+| 6 | 1 | [acoustic pop](../../genres/acoustic_pop) |
 | 2 | 0 | movie tunes |
 | 2 | 0 | alternative hip hop |
 

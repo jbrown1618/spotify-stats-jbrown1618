@@ -59,9 +59,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 102 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
-| 53 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 15 | 0 | [The Music Factory](../../labels/the_music_factory.md) |
+| 102 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
+| 53 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
+| 15 | 0 | [The Music Factory](../../labels/the_music_factory) |
 | 1 | 0 | Onyx Classics |
 | 1 | 0 | DOREMI |
 

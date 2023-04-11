@@ -13,10 +13,10 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 17 | 15 | [Florence + The Machine](../../artists/florence___the_machine.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 17 | 15 | [Florence + The Machine](../../artists/florence___the_machine) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | 7 | 1 | Sammy Rae & The Friends | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
@@ -169,24 +169,24 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 19 | 10 | [Polydor Records](../../labels/polydor_records.md) |
-| 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_.md) |
-| 15 | 13 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 13 | 11 | [Darkroom](../../labels/darkroom.md) |
-| 13 | 8 | [Warner Records](../../labels/warner_records.md) |
-| 11 | 9 | [Interscope Records](../../labels/interscope_records.md) |
+| 19 | 10 | [Polydor Records](../../labels/polydor_records) |
+| 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
+| 15 | 13 | [RCA Records Label](../../labels/rca_records_label) |
+| 13 | 11 | [Darkroom](../../labels/darkroom) |
+| 13 | 8 | [Warner Records](../../labels/warner_records) |
+| 11 | 9 | [Interscope Records](../../labels/interscope_records) |
 | 8 | 8 | Monkey Puzzle Records |
 | 7 | 1 | Nettwerk Records |
 | 5 | 4 | Atlantic Records UK |
 | 5 | 2 | Lux Finite Music |
 | 4 | 4 | Sire |
-| 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc.md) |
+| 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 4 | 1 | ATO Records |
 | 3 | 3 | Sony BMG Music UK |
 | 3 | 1 | Kimbra |
-| 2 | 2 | [Columbia](../../labels/columbia.md) |
-| 2 | 2 | [Capitol Records](../../labels/capitol_records.md) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records.md) |
+| 2 | 2 | [Columbia](../../labels/columbia) |
+| 2 | 2 | [Capitol Records](../../labels/capitol_records) |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 1 | 1 | half·alive |
 | 1 | 1 | ZAR |
 | 1 | 1 | Wyvern Lingo |
@@ -196,7 +196,7 @@
 | 1 | 1 | UMG Recordings |
 | 1 | 1 | Superpop.Co |
 | 1 | 1 | SBS Contents Hub Co. |
-| 1 | 1 | [Republic Records](../../labels/republic_records.md) |
+| 1 | 1 | [Republic Records](../../labels/republic_records) |
 | 1 | 1 | Perpetual Novice |
 | 1 | 1 | Parlophone Denmark |
 | 1 | 1 | Not specified |
@@ -225,12 +225,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 69 | 56 | [pop](../../genres/pop.md) |
-| 34 | 23 | [electropop](../../genres/electropop.md) |
-| 33 | 22 | [art pop](../../genres/art_pop.md) |
+| 69 | 56 | [pop](../../genres/pop) |
+| 33 | 22 | [electropop](../../genres/electropop) |
+| 33 | 22 | [art pop](../../genres/art_pop) |
 | 18 | 15 | baroque pop |
 | 17 | 15 | uk alternative pop |
-| 17 | 15 | [dance pop](../../genres/dance_pop.md) |
+| 17 | 15 | [dance pop](../../genres/dance_pop) |
 | 17 | 9 | indie pop |
 | 16 | 9 | nz pop |
 | 16 | 9 | bergen indie |
@@ -238,7 +238,7 @@
 | 10 | 10 | australian pop |
 | 9 | 7 | etherpop |
 | 8 | 8 | australian dance |
-| 8 | 5 | [lilith](../../genres/lilith.md) |
+| 8 | 5 | [lilith](../../genres/lilith) |
 | 8 | 2 | nyc pop |
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |
@@ -252,7 +252,7 @@
 | 2 | 2 | irish singer-songwriter |
 | 2 | 1 | uk pop |
 | 2 | 1 | shiver pop |
-| 2 | 1 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 2 | 1 | [post-teen pop](../../genres/post_teen_pop) |
 | 2 | 1 | modern rock |
 | 2 | 1 | gauze pop |
 | 2 | 1 | candy pop |

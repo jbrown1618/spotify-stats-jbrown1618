@@ -73,7 +73,7 @@
 |---:|---:|:---|
 | 5 | 2 | Sire |
 | 5 | 1 | Sugar Hill Records |
-| 4 | 3 | [Columbia](../../labels/columbia.md) |
+| 4 | 3 | [Columbia](../../labels/columbia) |
 | 4 | 2 | Glassnote Entertainment Group LLC |
 | 4 | 2 | Arista Nashville |
 | 4 | 2 | 19 Recordings Limited |
@@ -86,7 +86,7 @@
 | 1 | 1 | Arista |
 | 1 | 1 | American Recordings Catalog P&D |
 | 1 | 0 | Nonesuch |
-| 1 | 0 | [Legacy](../../labels/legacy.md) |
+| 1 | 0 | [Legacy](../../labels/legacy) |
 
 </details>
 
@@ -103,7 +103,7 @@
 |---:|---:|:---|
 | 11 | 7 | country dawn |
 | 11 | 7 | country |
-| 8 | 6 | [pop](../../genres/pop.md) |
+| 8 | 6 | [pop](../../genres/pop) |
 | 8 | 4 | contemporary country |
 | 8 | 3 | new americana |
 | 8 | 3 | indie folk |
@@ -118,8 +118,8 @@
 | 4 | 2 | outlaw country |
 | 4 | 2 | modern folk rock |
 | 4 | 2 | arkansas country |
-| 3 | 3 | [neo mellow](../../genres/neo_mellow.md) |
-| 3 | 3 | [acoustic pop](../../genres/acoustic_pop.md) |
+| 3 | 3 | [neo mellow](../../genres/neo_mellow) |
+| 3 | 3 | [acoustic pop](../../genres/acoustic_pop) |
 | 3 | 1 | modern country rock |
 | 3 | 1 | country road |
 | 1 | 1 | lafayette indie |

@@ -118,27 +118,27 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 13 | 7 | [MOTOWN](../../labels/motown.md) |
-| 10 | 6 | [Epic](../../labels/epic.md) |
+| 13 | 7 | [MOTOWN](../../labels/motown) |
+| 10 | 6 | [Epic](../../labels/epic) |
 | 8 | 6 | UNI |
-| 6 | 5 | [Columbia](../../labels/columbia.md) |
-| 4 | 2 | [Warner Records](../../labels/warner_records.md) |
-| 4 | 1 | [Legacy](../../labels/legacy.md) |
-| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_.md) |
+| 6 | 5 | [Columbia](../../labels/columbia) |
+| 4 | 2 | [Warner Records](../../labels/warner_records) |
+| 4 | 1 | [Legacy](../../labels/legacy) |
+| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
 | 3 | 0 | EMI |
-| 2 | 2 | [Rhino](../../labels/rhino.md) |
+| 2 | 2 | [Rhino](../../labels/rhino) |
 | 2 | 1 | Columbia Nashville Legacy |
 | 2 | 1 | Bee Gees Catalog |
 | 1 | 1 | Vorsicht Musik |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Sony Music CG |
-| 1 | 1 | [Polydor Records](../../labels/polydor_records.md) |
+| 1 | 1 | [Polydor Records](../../labels/polydor_records) |
 | 1 | 1 | Elektra |
-| 1 | 1 | [Capitol Records](../../labels/capitol_records.md) |
+| 1 | 1 | [Capitol Records](../../labels/capitol_records) |
 | 1 | 1 | A&M |
 | 1 | 0 | Ron Dante |
 | 1 | 0 | Rhino Atlantic |
-| 1 | 0 | [RCA Records Label](../../labels/rca_records_label.md) |
+| 1 | 0 | [RCA Records Label](../../labels/rca_records_label) |
 | 1 | 0 | Ode |
 | 1 | 0 | Legacy Recordings |
 | 1 | 0 | Castle Communications |
@@ -153,23 +153,23 @@
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 10 | soul |
-| 17 | 10 | [mellow gold](../../genres/mellow_gold.md) |
+| 17 | 10 | [mellow gold](../../genres/mellow_gold) |
 | 13 | 7 | motown |
-| 13 | 7 | [adult standards](../../genres/adult_standards.md) |
-| 11 | 7 | [pop](../../genres/pop.md) |
+| 13 | 7 | [adult standards](../../genres/adult_standards) |
+| 11 | 7 | [pop](../../genres/pop) |
 | 10 | 5 | funk |
-| 9 | 6 | [folk rock](../../genres/folk_rock.md) |
+| 9 | 6 | [folk rock](../../genres/folk_rock) |
 | 8 | 6 | folk |
-| 8 | 6 | [classic rock](../../genres/classic_rock.md) |
-| 8 | 5 | [r&b](../../genres/r_b.md) |
-| 7 | 5 | [rock](../../genres/rock.md) |
-| 7 | 5 | [dance pop](../../genres/dance_pop.md) |
-| 6 | 3 | [soft rock](../../genres/soft_rock.md) |
+| 8 | 6 | [classic rock](../../genres/classic_rock) |
+| 8 | 5 | [r&b](../../genres/r_b) |
+| 7 | 5 | [rock](../../genres/rock) |
+| 7 | 5 | [dance pop](../../genres/dance_pop) |
+| 6 | 3 | [soft rock](../../genres/soft_rock) |
 | 6 | 2 | piano rock |
 | 6 | 2 | glam rock |
 | 6 | 2 | classic soul |
@@ -178,8 +178,7 @@
 | 5 | 3 | quiet storm |
 | 5 | 1 | memphis soul |
 | 4 | 3 | new wave pop |
-| 3 | 2 | lounge |
-| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter) |
 | 3 | 1 | outlaw country |
 | 3 | 1 | bubblegum pop |
 | 3 | 1 | arkansas country |
@@ -193,7 +192,7 @@
 | 1 | 0 | roots rock |
 | 1 | 0 | permanent wave |
 | 1 | 0 | jazz blues |
-| 1 | 0 | [hollywood](../../genres/hollywood.md) |
+| 1 | 0 | [hollywood](../../genres/hollywood) |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |
 | 1 | 0 | brill building pop |

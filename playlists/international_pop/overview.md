@@ -71,7 +71,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb440dcf184453a1450b63b257" alt="" width="50" /> | 1 | 0 | Jimbo J | [🔗](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb182c574eaa4ca25386730d82" alt="" width="50" /> | 1 | 0 | WARPs UP | [🔗](https://open.spotify.com/artist/6ZhCKGX2nkK7s8vdUvaocx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | 1 | 0 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 0 | [Dua Lipa](../../artists/dua_lipa.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 0 | [Dua Lipa](../../artists/dua_lipa) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7b791269f85b4faaf2be90a" alt="" width="50" /> | 1 | 0 | THE TOYS | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e6918865150085514ad2a3a" alt="" width="50" /> | 1 | 0 | Lowsheen | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
@@ -234,18 +234,18 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 8 | 6 | Cooking Vinyl Limited |
-| 8 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_.md) |
-| 6 | 4 | [Universal Music LLC](../../labels/universal_music_llc.md) |
+| 8 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) |
+| 6 | 4 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 5 | 2 | Sony Music Latin |
 | 4 | 1 | Sony Music Entertainment |
-| 3 | 3 | [Columbia](../../labels/columbia.md) |
+| 3 | 3 | [Columbia](../../labels/columbia) |
 | 2 | 2 | TOY'S FACTORY |
 | 2 | 2 | Samlist |
 | 2 | 2 | Parlophone Denmark |
 | 2 | 2 | Hits records |
 | 2 | 1 | Linfair |
 | 2 | 1 | ITModels under exclusive license to D-Music |
-| 2 | 1 | [Epic](../../labels/epic.md) |
+| 2 | 1 | [Epic](../../labels/epic) |
 | 2 | 0 | Universal Music Division Capitol Music France |
 | 2 | 0 | KING RECORDS |
 | 2 | 0 | IRORI Records |
@@ -309,7 +309,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -320,7 +320,7 @@
 | 8 | 6 | idol rock |
 | 8 | 6 | comic metal |
 | 8 | 1 | mandopop |
-| 7 | 3 | [dance pop](../../genres/dance_pop.md) |
+| 7 | 3 | [dance pop](../../genres/dance_pop) |
 | 7 | 0 | anime |
 | 6 | 3 | japanese teen pop |
 | 6 | 3 | indonesian pop |
@@ -346,7 +346,7 @@
 | 2 | 2 | belgian pop |
 | 2 | 1 | rap tunisien |
 | 2 | 1 | puerto rican pop |
-| 2 | 1 | [pop](../../genres/pop.md) |
+| 2 | 1 | [pop](../../genres/pop) |
 | 2 | 1 | modern bollywood |
 | 2 | 1 | japanese emo |
 | 2 | 1 | j-rock |
@@ -406,9 +406,10 @@
 | 1 | 0 | indian indie |
 | 1 | 0 | eurobeat |
 | 1 | 0 | escape room |
-| 1 | 0 | [electropop](../../genres/electropop.md) |
+| 1 | 0 | [electropop](../../genres/electropop) |
 | 1 | 0 | chiptune |
 | 1 | 0 | chinese r&b |
+| 1 | 0 | alt z |
 | 1 | 0 | afro soul |
 
 </details>

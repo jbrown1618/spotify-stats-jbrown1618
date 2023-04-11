@@ -61,9 +61,9 @@
 | 4 | 4 | Daft Life Ltd. |
 | 4 | 4 | ADA France |
 | 3 | 3 | Lindseystomp Records |
-| 2 | 2 | [Columbia](../../labels/columbia.md) |
+| 2 | 2 | [Columbia](../../labels/columbia) |
 | 1 | 0 | Universal Republic Records |
-| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment.md) |
+| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment) |
 | 1 | 0 | BMG Rights Management (US) LLC |
 
 </details>
@@ -83,8 +83,8 @@
 | 6 | 6 | electro |
 | 4 | 3 | pop violin |
 | 4 | 3 | bow pop |
-| 1 | 0 | [pop](../../genres/pop.md) |
-| 1 | 0 | [k-pop](../../genres/k_pop.md) |
+| 1 | 0 | [pop](../../genres/pop) |
+| 1 | 0 | [k-pop](../../genres/k_pop) |
 | 1 | 0 | canadian pop |
 | 1 | 0 | canadian contemporary r&b |
 

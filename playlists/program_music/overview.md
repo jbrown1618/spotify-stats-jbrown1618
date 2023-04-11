@@ -69,10 +69,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 24 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 13 | 0 | [Lso Live](../../labels/lso_live.md) |
-| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
-| 1 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group.md) |
+| 24 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
+| 13 | 0 | [Lso Live](../../labels/lso_live) |
+| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
+| 1 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group) |
 
 </details>
 

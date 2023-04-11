@@ -137,7 +137,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 49 | 0 | [Walt Disney Records](../../labels/walt_disney_records.md) |
+| 49 | 0 | [Walt Disney Records](../../labels/walt_disney_records) |
 | 1 | 0 | LML Music |
 
 </details>
@@ -154,13 +154,13 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 40 | 0 | movie tunes |
-| 22 | 0 | [hollywood](../../genres/hollywood.md) |
-| 14 | 0 | [show tunes](../../genres/show_tunes.md) |
+| 22 | 0 | [hollywood](../../genres/hollywood) |
+| 14 | 0 | [show tunes](../../genres/show_tunes) |
 | 5 | 0 | tagalog worship |
-| 2 | 0 | [post-teen pop](../../genres/post_teen_pop.md) |
-| 2 | 0 | [dance pop](../../genres/dance_pop.md) |
+| 2 | 0 | [post-teen pop](../../genres/post_teen_pop) |
+| 2 | 0 | [dance pop](../../genres/dance_pop) |
 | 2 | 0 | comedy |
-| 2 | 0 | [adult standards](../../genres/adult_standards.md) |
+| 2 | 0 | [adult standards](../../genres/adult_standards) |
 | 1 | 0 | vocal jazz |
 | 1 | 0 | swing |
 | 1 | 0 | soul |
@@ -172,11 +172,11 @@
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |
 | 1 | 0 | funk |
-| 1 | 0 | [folk rock](../../genres/folk_rock.md) |
+| 1 | 0 | [folk rock](../../genres/folk_rock) |
 | 1 | 0 | country rock |
 | 1 | 0 | classic uk pop |
 | 1 | 0 | bubblegum pop |
-| 1 | 0 | [broadway](../../genres/broadway.md) |
+| 1 | 0 | [broadway](../../genres/broadway) |
 | 1 | 0 | blues rock |
 | 1 | 0 | blues |
 

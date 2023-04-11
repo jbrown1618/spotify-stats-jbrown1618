@@ -50,8 +50,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 24 | 0 | [Naxos](../../labels/naxos.md) |
-| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
+| 24 | 0 | [Naxos](../../labels/naxos) |
+| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
 
 </details>
 

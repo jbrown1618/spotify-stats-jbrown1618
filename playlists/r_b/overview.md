@@ -13,9 +13,9 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 15 | 8 | [Beyoncé](../../artists/beyonc_.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 11 | 10 | [Rihanna](../../artists/rihanna.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 10 | 8 | [Bruno Mars](../../artists/bruno_mars.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 15 | 8 | [Beyoncé](../../artists/beyonc_) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 11 | 10 | [Rihanna](../../artists/rihanna) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 10 | 8 | [Bruno Mars](../../artists/bruno_mars) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 6 | 6 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | 5 | 5 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
@@ -170,41 +170,41 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 20 | 11 | [Columbia](../../labels/columbia.md) |
-| 13 | 11 | [Atlantic Records](../../labels/atlantic_records.md) |
-| 10 | 9 | [Def Jam Recordings](../../labels/def_jam_recordings.md) |
-| 9 | 4 | [MOTOWN](../../labels/motown.md) |
+| 20 | 11 | [Columbia](../../labels/columbia) |
+| 13 | 11 | [Atlantic Records](../../labels/atlantic_records) |
+| 10 | 9 | [Def Jam Recordings](../../labels/def_jam_recordings) |
+| 9 | 4 | [MOTOWN](../../labels/motown) |
 | 7 | 4 | Parkwood Entertainment |
-| 5 | 5 | [Warner Records](../../labels/warner_records.md) |
+| 5 | 5 | [Warner Records](../../labels/warner_records) |
 | 5 | 5 | Beluga Heights |
 | 5 | 4 | Bad Boy |
 | 5 | 3 | UNI |
 | 5 | 3 | Music World Music |
 | 3 | 1 | LaFace Records |
 | 2 | 2 | Wondaland |
-| 2 | 2 | [RCA Records Label](../../labels/rca_records_label.md) |
-| 2 | 2 | [Jive](../../labels/jive.md) |
+| 2 | 2 | [RCA Records Label](../../labels/rca_records_label) |
+| 2 | 2 | [Jive](../../labels/jive) |
 | 2 | 2 | G.O.O.D. Music |
 | 2 | 1 | Golden Child Recordings |
 | 2 | 1 | Aftermath Entertainment |
-| 1 | 1 | [Virgin Records](../../labels/virgin_records.md) |
+| 1 | 1 | [Virgin Records](../../labels/virgin_records) |
 | 1 | 1 | UMGRI Interscope |
 | 1 | 1 | Spinnin' Records |
 | 1 | 1 | Roc Nation |
 | 1 | 1 | Rihanna |
-| 1 | 1 | [Republic Records](../../labels/republic_records.md) |
+| 1 | 1 | [Republic Records](../../labels/republic_records) |
 | 1 | 1 | Red Zone Entertainment |
 | 1 | 1 | Nu America Music |
 | 1 | 1 | Not specified |
 | 1 | 1 | Nice Life |
 | 1 | 1 | Kemosabe Records |
 | 1 | 1 | JOYFACE Records |
-| 1 | 1 | [Interscope Records](../../labels/interscope_records.md) |
+| 1 | 1 | [Interscope Records](../../labels/interscope_records) |
 | 1 | 1 | IDJ |
 | 1 | 1 | H 3 F |
 | 1 | 1 | Geffen |
 | 1 | 1 | Fantasy Soul |
-| 1 | 1 | [Epic](../../labels/epic.md) |
+| 1 | 1 | [Epic](../../labels/epic) |
 | 1 | 1 | EMI |
 | 1 | 1 | Downtown Recordings |
 | 1 | 1 | Arista |
@@ -226,9 +226,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 66 | 49 | [pop](../../genres/pop.md) |
-| 46 | 31 | [dance pop](../../genres/dance_pop.md) |
-| 37 | 22 | [r&b](../../genres/r_b.md) |
+| 66 | 49 | [pop](../../genres/pop) |
+| 46 | 31 | [dance pop](../../genres/dance_pop) |
+| 37 | 22 | [r&b](../../genres/r_b) |
 | 24 | 16 | urban contemporary |
 | 12 | 11 | neo soul |
 | 12 | 6 | soul |
@@ -236,15 +236,15 @@
 | 10 | 8 | atl hip hop |
 | 9 | 4 | motown |
 | 9 | 4 | funk |
-| 8 | 7 | [post-teen pop](../../genres/post_teen_pop.md) |
+| 8 | 7 | [post-teen pop](../../genres/post_teen_pop) |
 | 6 | 6 | pop rap |
 | 6 | 6 | escape room |
 | 6 | 6 | alternative r&b |
-| 6 | 4 | [adult standards](../../genres/adult_standards.md) |
-| 5 | 5 | [electropop](../../genres/electropop.md) |
+| 6 | 4 | [adult standards](../../genres/adult_standards) |
+| 5 | 5 | [electropop](../../genres/electropop) |
 | 5 | 5 | afrofuturism |
 | 5 | 3 | quiet storm |
-| 5 | 3 | [neo mellow](../../genres/neo_mellow.md) |
+| 5 | 3 | [neo mellow](../../genres/neo_mellow) |
 | 5 | 3 | contemporary r&b |
 | 4 | 3 | pop soul |
 | 4 | 2 | south carolina hip hop |
@@ -263,9 +263,9 @@
 | 1 | 1 | torch song |
 | 1 | 1 | thai indie pop |
 | 1 | 1 | soul blues |
-| 1 | 1 | [soft rock](../../genres/soft_rock.md) |
+| 1 | 1 | [soft rock](../../genres/soft_rock) |
 | 1 | 1 | minnesota hip hop |
-| 1 | 1 | [mellow gold](../../genres/mellow_gold.md) |
+| 1 | 1 | [mellow gold](../../genres/mellow_gold) |
 | 1 | 1 | jazz blues |
 | 1 | 1 | hip hop |
 | 1 | 1 | disco |

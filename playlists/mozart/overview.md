@@ -98,11 +98,11 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 115 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
-| 20 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group.md) |
-| 6 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
+| 115 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house) |
+| 20 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group) |
+| 6 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
 | 4 | 0 | JPK Musik |
-| 3 | 0 | [Warner Classics](../../labels/warner_classics.md) |
+| 3 | 0 | [Warner Classics](../../labels/warner_classics) |
 
 </details>
 

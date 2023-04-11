@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 21 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 12 | 5 | [Michael Bublé](../../artists/michael_bubl_.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 12 | 5 | [Michael Bublé](../../artists/michael_bubl_) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 7 | 2 | Frank Sinatra | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | 5 | 0 | Sophie Milman | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | 3 | 0 | The Dave Brubeck Quartet | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
@@ -23,7 +23,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | 1 | 1 | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | 1 | 1 | Caro Emerald | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | 1 | 1 | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb522329e6e2d2a595f8a4cd5e" alt="" width="50" /> | 1 | 1 | Stacey Kent | [🔗](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | 1 | 0 | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d8f97058ff993df0f4eb9ee" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
@@ -90,20 +90,20 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 21 | 0 | [GRP](../../labels/grp.md) |
-| 12 | 5 | [Reprise](../../labels/reprise.md) |
-| 10 | 5 | [143](../../labels/143.md) |
+| 21 | 0 | [GRP](../../labels/grp) |
+| 12 | 5 | [Reprise](../../labels/reprise) |
+| 10 | 5 | [143](../../labels/143) |
 | 5 | 2 | FRANK SINATRA DIGITAL REPRISE |
 | 5 | 0 | Linus Entertainment Inc. |
-| 3 | 0 | [Legacy](../../labels/legacy.md) |
-| 3 | 0 | [Columbia](../../labels/columbia.md) |
-| 3 | 0 | [Capitol Records](../../labels/capitol_records.md) |
+| 3 | 0 | [Legacy](../../labels/legacy) |
+| 3 | 0 | [Columbia](../../labels/columbia) |
+| 3 | 0 | [Capitol Records](../../labels/capitol_records) |
 | 2 | 0 | Craft Recordings |
-| 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc.md) |
+| 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 1 | 1 | Parlophone (France) |
 | 1 | 1 | Grandmono Records |
 | 1 | 1 | Fuzzy Door Productions |
-| 1 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house.md) |
+| 1 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house) |
 | 1 | 0 | Private Curve |
 
 </details>
@@ -119,8 +119,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 9 | [adult standards](../../genres/adult_standards.md) |
-| 28 | 9 | lounge |
+| 29 | 9 | [adult standards](../../genres/adult_standards) |
+| 23 | 9 | lounge |
 | 21 | 0 | smooth jazz |
 | 12 | 5 | jazz pop |
 | 12 | 5 | canadian pop |
@@ -133,16 +133,16 @@
 | 2 | 0 | quiet storm |
 | 1 | 1 | nu jazz |
 | 1 | 1 | dutch pop |
-| 1 | 0 | [singer-songwriter](../../genres/singer_songwriter.md) |
+| 1 | 0 | [singer-songwriter](../../genres/singer_songwriter) |
 | 1 | 0 | roots rock |
-| 1 | 0 | [mellow gold](../../genres/mellow_gold.md) |
-| 1 | 0 | [lilith](../../genres/lilith.md) |
+| 1 | 0 | [mellow gold](../../genres/mellow_gold) |
+| 1 | 0 | [lilith](../../genres/lilith) |
 | 1 | 0 | korean jazz |
-| 1 | 0 | [folk rock](../../genres/folk_rock.md) |
+| 1 | 0 | [folk rock](../../genres/folk_rock) |
 | 1 | 0 | folk |
 | 1 | 0 | electric blues |
 | 1 | 0 | country rock |
-| 1 | 0 | [classic rock](../../genres/classic_rock.md) |
+| 1 | 0 | [classic rock](../../genres/classic_rock) |
 
 </details>
 

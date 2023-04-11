@@ -59,9 +59,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_.md) |
-| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 21 | 0 | [PENTATONE](../../labels/pentatone.md) |
+| 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
+| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
+| 21 | 0 | [PENTATONE](../../labels/pentatone) |
 
 </details>
 

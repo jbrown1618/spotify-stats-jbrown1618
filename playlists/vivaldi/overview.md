@@ -53,8 +53,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 18 | 0 | [Decca (UMO)](../../labels/decca__umo_.md) |
-| 16 | 0 | [Warner Classics](../../labels/warner_classics.md) |
+| 18 | 0 | [Decca (UMO)](../../labels/decca__umo_) |
+| 16 | 0 | [Warner Classics](../../labels/warner_classics) |
 
 </details>
 

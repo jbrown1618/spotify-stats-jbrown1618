@@ -1,0 +1,91 @@
+
+# ITZY
+
+
+<img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="ITZY" width="100" />
+
+## Featured on Playlists
+| Number of Tracks | Art | Playlist |
+|---:|:---|:---|
+| 32 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | [K-Pop](../../playlists/k_pop/overview.md) |
+| 8 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
+| 7 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | [Cursed English](../../playlists/cursed_english/overview.md) |
+| 2 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
+| 1 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | [Chill](../../playlists/chill/overview.md) |
+## Top Albums
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 6 | 4 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 6 | 4 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 4 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 4 | 3 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 4 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | 2 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | 1 | 1 | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | 1 | 1 | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | 1 | 1 | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="" width="50" /> | 1 | 1 | Blah Blah Blah | 2022-09-21 | [🔗](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
+
+## Top Record Labels
+
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 31 | 18 | [Republic Records](../../labels/republic_records) |
+| 3 | 2 | [JYP Entertainment](../../labels/jyp_entertainment) |
+| 2 | 2 | WM Japan |
+| 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation) |
+| 1 | 0 | [Warner Records](../../labels/warner_records) |
+
+## Genres
+
+- [k-pop girl group](../../genres/k_pop_girl_group)
+
+## Tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Bebe Rexha, [ITZY](.), YEJI & RYUJIN of ITZY | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e31e2a3b1516e79fbfe7486" alt="" width="50" /> | 달라달라 (DALLA DALLA) | IT'z Different | [ITZY](.) | [JYP Entertainment](../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | CHERRY | IT'z ICY | [ITZY](.) | [JYP Entertainment](../../labels/jyp_entertainment) | | [🔗](https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | ICY | IT'z ICY | [ITZY](.) | [JYP Entertainment](../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | WANNABE | IT'z ME | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Louder | Not Shy | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/39pv61XfYr9MUwsYkx30aQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | SURF | Not Shy | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | DALLA DALLA - English Ver. | Not Shy (English Ver.) | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/1tQMEpkJ6ayK5w9mtW3Tqv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | ICY - English Ver. | Not Shy (English Ver.) | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0H76idYK173LwctmFntEdz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy - English Ver. | Not Shy (English Ver.) | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | WANNABE - English Ver. | Not Shy (English Ver.) | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2cnhL9Xb7jlTuUs4taxJSB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | KIDDING ME | GUESS WHO | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/74WtkDIkOXTtEVO4TatDMX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | SHOOT! | GUESS WHO | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2xeaHUnzzT5Kc974OQt1kA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | Sorry Not Sorry | GUESS WHO | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | TENNIS (0:0) | GUESS WHO | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6wSBcV4mjwiVKGJzNrgwha) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning - English Ver. | In the morning (English Ver.) | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0rXBxNaEX9pJSV8U7xYUXr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | Gas Me Up | CRAZY IN LOVE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3RCMSJIlIZkvJP4LFGtOtu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO - English Ver. | CRAZY IN LOVE | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0QPYsEvaoEJzZLSF5Cq390) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | SWIPE | CRAZY IN LOVE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5o0urLKhjQLIFMoJH5SSrY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | Sooo LUCKY | CRAZY IN LOVE | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) | Street Dance Girls Fighter(SGF) Special | [ITZY](.) | [Genie Music Corporation](../../labels/genie_music_corporation) | 💚 | [🔗](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="" width="50" /> | Voltage | Voltage | [ITZY](.) | WM Japan | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | DOMINO | CHECKMATE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2Yi1F6c06h8HY5ZIvNRogo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | RACER | CHECKMATE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS | CHECKMATE | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS (English Ver.) | CHECKMATE | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="" width="50" /> | Blah Blah Blah | Blah Blah Blah | [ITZY](.) | WM Japan | 💚 | [🔗](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Boys Like You | CHESHIRE | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/1V3EKDf81bitSEQTYjOJzZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Freaky | CHESHIRE | [ITZY](.) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](.) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |

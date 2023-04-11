@@ -65,10 +65,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 55 | 0 | [Warner Classics](../../labels/warner_classics.md) |
-| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_.md) |
-| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_.md) |
-| 18 | 0 | [Mariinsky](../../labels/mariinsky.md) |
+| 55 | 0 | [Warner Classics](../../labels/warner_classics) |
+| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_) |
+| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
+| 18 | 0 | [Mariinsky](../../labels/mariinsky) |
 
 </details>
 

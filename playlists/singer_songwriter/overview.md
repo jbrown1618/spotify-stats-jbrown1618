@@ -13,11 +13,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 60 | 41 | [Sara Bareilles](../../artists/sara_bareilles.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 60 | 37 | [Taylor Swift](../../artists/taylor_swift.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 22 | 15 | [Billy Joel](../../artists/billy_joel.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 60 | 41 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 60 | 37 | [Taylor Swift](../../artists/taylor_swift) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 22 | 15 | [Billy Joel](../../artists/billy_joel) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 8 | 6 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | Joni Mitchell | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 7 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
@@ -38,7 +38,7 @@
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | 1 | 0 | Rachael Yamagata | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb790083a6083fbf749114dcbb" alt="" width="50" /> | 1 | 0 | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | 1 | 0 | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | 1 | 0 | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8a4653fd6d0725521725bb" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 1 | 0 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
@@ -155,28 +155,28 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 61 | 41 | [Epic](../../labels/epic.md) |
-| 32 | 18 | [Taylor Swift](../../labels/taylor_swift.md) |
-| 28 | 19 | [Big Machine Records](../../labels/big_machine_records.md) |
-| 23 | 15 | [Columbia](../../labels/columbia.md) |
-| 18 | 10 | [Polydor Records](../../labels/polydor_records.md) |
-| 9 | 8 | [Warner Records](../../labels/warner_records.md) |
-| 9 | 7 | [Rhino](../../labels/rhino.md) |
-| 7 | 4 | [Virgin Records](../../labels/virgin_records.md) |
+| 61 | 41 | [Epic](../../labels/epic) |
+| 32 | 18 | [Taylor Swift](../../labels/taylor_swift) |
+| 28 | 19 | [Big Machine Records](../../labels/big_machine_records) |
+| 23 | 15 | [Columbia](../../labels/columbia) |
+| 18 | 10 | [Polydor Records](../../labels/polydor_records) |
+| 9 | 8 | [Warner Records](../../labels/warner_records) |
+| 9 | 7 | [Rhino](../../labels/rhino) |
+| 7 | 4 | [Virgin Records](../../labels/virgin_records) |
 | 7 | 3 | Universal (MT) |
 | 7 | 1 | Nettwerk Records |
 | 4 | 4 | Sire |
-| 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc.md) |
-| 4 | 3 | [RCA Records Label](../../labels/rca_records_label.md) |
+| 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc) |
+| 4 | 3 | [RCA Records Label](../../labels/rca_records_label) |
 | 4 | 0 | EMI |
 | 3 | 3 | Sony BMG Music UK |
-| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_.md) |
-| 3 | 1 | [Capitol Records](../../labels/capitol_records.md) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records.md) |
+| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
+| 3 | 1 | [Capitol Records](../../labels/capitol_records) |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 2 | 2 | ATG |
 | 2 | 1 | Island Def Jam |
 | 2 | 0 | Ode |
-| 2 | 0 | [Legacy](../../labels/legacy.md) |
+| 2 | 0 | [Legacy](../../labels/legacy) |
 | 1 | 1 | under exclusive license to Interscope Records |
 | 1 | 1 | Wyvern Lingo |
 | 1 | 1 | Gracie Abrams |
@@ -204,24 +204,24 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 141 | 91 | [pop](../../genres/pop.md) |
-| 81 | 52 | [acoustic pop](../../genres/acoustic_pop.md) |
-| 79 | 52 | [lilith](../../genres/lilith.md) |
-| 72 | 48 | [neo mellow](../../genres/neo_mellow.md) |
-| 61 | 43 | [pop rock](../../genres/pop_rock.md) |
-| 59 | 41 | [hollywood](../../genres/hollywood.md) |
+| 141 | 91 | [pop](../../genres/pop) |
+| 81 | 52 | [acoustic pop](../../genres/acoustic_pop) |
+| 79 | 52 | [lilith](../../genres/lilith) |
+| 72 | 48 | [neo mellow](../../genres/neo_mellow) |
+| 61 | 43 | [pop rock](../../genres/pop_rock) |
+| 59 | 41 | [hollywood](../../genres/hollywood) |
 | 35 | 22 | piano rock |
-| 34 | 22 | [singer-songwriter](../../genres/singer_songwriter.md) |
-| 33 | 22 | [folk rock](../../genres/folk_rock.md) |
-| 31 | 18 | [mellow gold](../../genres/mellow_gold.md) |
-| 25 | 16 | [soft rock](../../genres/soft_rock.md) |
-| 25 | 16 | [classic rock](../../genres/classic_rock.md) |
-| 24 | 15 | [rock](../../genres/rock.md) |
-| 18 | 9 | [art pop](../../genres/art_pop.md) |
+| 34 | 22 | [singer-songwriter](../../genres/singer_songwriter) |
+| 33 | 22 | [folk rock](../../genres/folk_rock) |
+| 31 | 18 | [mellow gold](../../genres/mellow_gold) |
+| 25 | 16 | [soft rock](../../genres/soft_rock) |
+| 25 | 16 | [classic rock](../../genres/classic_rock) |
+| 24 | 15 | [rock](../../genres/rock) |
+| 18 | 9 | [art pop](../../genres/art_pop) |
 | 13 | 5 | indie pop |
 | 12 | 7 | folk |
 | 9 | 8 | nz pop |
-| 9 | 8 | [electropop](../../genres/electropop.md) |
+| 9 | 8 | [electropop](../../genres/electropop) |
 | 9 | 8 | bergen indie |
 | 8 | 6 | metropopolis |
 | 8 | 6 | etherpop |
@@ -235,16 +235,16 @@
 | 2 | 1 | indiecoustica |
 | 2 | 0 | chamber pop |
 | 2 | 0 | brill building pop |
-| 2 | 0 | [adult standards](../../genres/adult_standards.md) |
+| 2 | 0 | [adult standards](../../genres/adult_standards) |
 | 1 | 1 | irish pop |
 | 1 | 1 | europop |
-| 1 | 1 | [dance pop](../../genres/dance_pop.md) |
+| 1 | 1 | [dance pop](../../genres/dance_pop) |
 | 1 | 1 | country rock |
 | 1 | 1 | british soul |
 | 1 | 1 | alt z |
 | 1 | 0 | urban contemporary |
 | 1 | 0 | uk pop |
-| 1 | 0 | [r&b](../../genres/r_b.md) |
+| 1 | 0 | [r&b](../../genres/r_b) |
 | 1 | 0 | pop soul |
 | 1 | 0 | permanent wave |
 | 1 | 0 | new americana |
