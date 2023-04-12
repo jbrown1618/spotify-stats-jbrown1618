@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebabab30b094128cf4c0f2cef1" alt="" width="50" /> | 1 | 1 | Black Eyed Peas | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
-| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 1 | 1 | Frank Sinatra | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 1 | 1 | [Frank Sinatra](../../artists/frank_sinatra) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 1 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 1 | 1 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | 1 | 0 | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
@@ -156,7 +156,7 @@
 | 3 | 1 | [Big Machine Records](../../labels/big_machine_records) |
 | 2 | 2 | sensibility recordings |
 | 2 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
-| 2 | 2 | UNI |
+| 2 | 2 | [UNI](../../labels/uni) |
 | 2 | 2 | [MOTOWN](../../labels/motown) |
 | 2 | 2 | Elektra |
 | 2 | 1 | [XL Recordings](../../labels/xl_recordings) |
@@ -267,7 +267,7 @@
 | 1 | 1 | memphis soul |
 | 1 | 1 | melancholia |
 | 1 | 1 | mandolin |
-| 1 | 1 | lounge |
+| 1 | 1 | [lounge](../../genres/lounge) |
 | 1 | 1 | latin pop |
 | 1 | 1 | lafayette indie |
 | 1 | 1 | instrumental bluegrass |

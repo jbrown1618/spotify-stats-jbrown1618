@@ -1,12 +1,12 @@
 # show tunes
 
-[103 songs](tracks.md)
+[104 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 66 artists</summary>
+<summary>See all 67 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -33,13 +33,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccc2fd86f64d13368998de" alt="" width="50" /> | 3 | 0 | Jonathan Groff | [🔗](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | 2 | 1 | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 2 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 2 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Patrick Wilson | [🔗](https://open.spotify.com/artist/0z5nxdz5osD8FsmaUDmfC0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6d80e2ed079cf1183ade19a" alt="" width="50" /> | 2 | 0 | Angela Lansbury | [🔗](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) |
@@ -72,6 +72,7 @@
 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | 1 | 0 | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1cf32251011d049c26855ae4" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c77218620de388c559ba5bbb" alt="" width="50" /> | 1 | 0 | Ariana DeBose | [🔗](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bubl_) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Ernie Sabella | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Sasha Hutchings | [🔗](https://open.spotify.com/artist/0Pg2rEmiZEnmxw4eQwtvsR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327028def34ab4b09f54f76d4" alt="" width="50" /> | 1 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
@@ -87,7 +88,7 @@
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -102,6 +103,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | 1 | 0 | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 1 | 0 | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | 1 | 0 | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 1 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
@@ -110,13 +112,13 @@
 </details>
 
 
-![Bar chart of top 15 albums](../../images/genres/show_tunes/albums.png)
+![Bar chart of top 16 albums](../../images/genres/show_tunes/albums.png)
 
 ## Top Record Labels
 
 
 <details>
-<summary>See all 8 labels</summary>
+<summary>See all 9 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -125,6 +127,7 @@
 | 12 | 0 | [Walt Disney Records](../../labels/walt_disney_records) |
 | 11 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc) |
 | 10 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
+| 1 | 0 | [Warner Records](../../labels/warner_records) |
 | 1 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) |
 | 1 | 0 | [Sony Classical](../../labels/sony_classical) |
 | 1 | 0 | LML Music |
@@ -132,7 +135,7 @@
 </details>
 
 
-![Bar chart of top 8 record labels](../../images/genres/show_tunes/labels.png)
+![Bar chart of top 9 record labels](../../images/genres/show_tunes/labels.png)
 
 ## Years
 
@@ -142,14 +145,14 @@
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (1987-01-01)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span style="padding-left:10px;">Beauty and the Beast (1991-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span style="padding-left:10px;">The Lion King (1994-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> <span style="padding-left:10px;">Cappella (2013)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span style="padding-left:10px;">Pocahontas (1995-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span style="padding-left:10px;">Holiday Wishes (2014-10-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span style="padding-left:10px;">Beauty and the Beast (1991-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span style="padding-left:10px;">The Lion King (1994-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span style="padding-left:10px;">Pocahontas (1995-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> <span style="padding-left:10px;">Cappella (2013)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -207,15 +210,15 @@
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Entr'Acte (0.42) | Schuyler Defeated (0.0) |
-| Overture (0.245) | One Last Time (0.0) |
-| All I Ask Of You - Reprise (0.0315) | The Story of Tonight (0.0) |
-| Overture - From 'The Phantom Of The Opera' Motion Picture (0.0276) | The World Was Wide Enough (0.0) |
-| Bring Him Home (0.00993) | Do You Hear The People Sing? (0.0) |
-| The Phantom Of The Opera (0.0096) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
-| Reflection (0.00911) | What Have I Done? (0.0) |
-| Wishing You Were Somehow Here Again (0.00674) | In My Life (0.0) |
-| The Point Of No Return (0.00348) | Hurricane (0.0) |
-| Little Lotte / The Mirror (Angel Of Music) (0.0025) | The Story of Tonight - Reprise (0.0) |
+| Overture (0.245) | Baby It's Cold Outside (with Michael Bublé) (0.0) |
+| All I Ask Of You - Reprise (0.0315) | One Last Time (0.0) |
+| Overture - From 'The Phantom Of The Opera' Motion Picture (0.0276) | The Story of Tonight (0.0) |
+| Bring Him Home (0.00993) | The World Was Wide Enough (0.0) |
+| The Phantom Of The Opera (0.0096) | Do You Hear The People Sing? (0.0) |
+| Reflection (0.00911) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
+| Wishing You Were Somehow Here Again (0.00674) | What Have I Done? (0.0) |
+| The Point Of No Return (0.00348) | In My Life (0.0) |
+| Little Lotte / The Mirror (Angel Of Music) (0.0025) | Hurricane (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

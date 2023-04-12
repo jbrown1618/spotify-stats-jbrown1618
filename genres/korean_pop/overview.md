@@ -1,25 +1,26 @@
 # korean pop
 
-[50 songs](tracks.md)
+[53 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 35 artists</summary>
+<summary>See all 37 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 10 | 7 | [WENDY](../../artists/wendy) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 11 | 7 | [WENDY](../../artists/wendy) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 9 | 7 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 7 | 7 | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 5 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | 4 | 3 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 3 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 2 | 2 | [IU](../../artists/iu) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859ec6575be3cfe1a86b2cb0" alt="" width="50" /> | 2 | 2 | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91b559bd00fca9a0a91e5a9c" alt="" width="50" /> | 2 | 1 | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64c106fb76ead20ba05a5461" alt="" width="50" /> | 2 | 1 | Sandeul | [🔗](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4c22467d83689a84c7f37ad" alt="" width="50" /> | 2 | 0 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 2 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe82185df85c3b8d172f1f4a7" alt="" width="50" /> | 1 | 1 | Junggigo | [🔗](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | 1 | 1 | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
@@ -40,11 +41,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18f53034a71f23a550f0d39a" alt="" width="50" /> | 1 | 0 | Onestar | [🔗](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde2a6b0e488b390729d46c4a" alt="" width="50" /> | 1 | 0 | KANGTA | [🔗](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Nile Lee | [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58590979d60df6fb6d6a837" alt="" width="50" /> | 1 | 0 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 1 | 0 | [SEULGI](../../artists/seulgi) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 0 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5b31977f8ca5a5d9c9d776e" alt="" width="50" /> | 1 | 0 | Eric Nam | [🔗](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 1 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Jay JungJae Moon | [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6) |
 
 </details>
 
@@ -56,7 +58,7 @@
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 46 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -93,6 +95,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | 1 | 1 | And July | 2016-07-18 | [🔗](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 1 | 0 | 봄인가 봐 Spring Love - SM STATION | 2016-03-04 | [🔗](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="" width="50" /> | 1 | 0 | Stay As You Are | 2016-10-04 | [🔗](https://open.spotify.com/album/6DKfXf0BVP9R5BcOuD1mfo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="" width="50" /> | 1 | 0 | Solo Christmas | 2021-12-11 | [🔗](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee26188540f975c1373b22b" alt="" width="50" /> | 1 | 0 | Silent Night | 2020-12-04 | [🔗](https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | 1 | 0 | Miracle - SM STATION | 2023-01-26 | [🔗](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | 1 | 0 | Lyricist | 2020-06-10 | [🔗](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="" width="50" /> | 1 | 0 | Love, Maybe (A Business Proposal OST Bonus Track) | 2022-04-05 | [🔗](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) |
@@ -100,6 +104,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="" width="50" /> | 1 | 0 | Jelly box Flower Way SEJEONG | 2016-11-23 | [🔗](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.5 | 2019-07-28 | [🔗](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.12 | 2019-08-18 | [🔗](https://open.spotify.com/album/6iNbnT79OJu9C5j5ZZLQvZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8c51b2c276e15dfa0d3a82e" alt="" width="50" /> | 1 | 0 | Have Yourself A Merry Little Christmas | 2016-12-23 | [🔗](https://open.spotify.com/album/65iTqWmb0hH7TTiZ0gAbvp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="" width="50" /> | 1 | 0 | HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1 | 2021-06-18 | [🔗](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="" width="50" /> | 1 | 0 | Get Ready To Leave | 2022-10-18 | [🔗](https://open.spotify.com/album/0UY2l5txL7IjXCB9LnBZ6R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | 1 | 0 | Doll - SM STATION | 2017-10-27 | [🔗](https://open.spotify.com/album/6YHteiOLrZ7gfQEqq2TeRM) |
@@ -113,11 +118,11 @@
 
 
 <details>
-<summary>See all 26 labels</summary>
+<summary>See all 28 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 8 | [SM Entertainment](../../labels/sm_entertainment) |
+| 12 | 8 | [SM Entertainment](../../labels/sm_entertainment) |
 | 8 | 6 | [Genie Music Corporation](../../labels/genie_music_corporation) |
 | 7 | 7 | [YG Entertainment](../../labels/yg_entertainment) |
 | 5 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment) |
@@ -140,14 +145,16 @@
 | 1 | 1 | ChoongangICS |
 | 1 | 1 | CJ E&M MUSIC |
 | 1 | 1 | C9 Entertainment |
+| 1 | 0 | [WM Korea](../../labels/wm_korea) |
 | 1 | 0 | [WM Entertainment](../../labels/wm_entertainment) |
 | 1 | 0 | Today's Playlist |
+| 1 | 0 | Sun and Sky Records |
 | 1 | 0 | JELLYFISH ENTERTAINMENT |
 
 </details>
 
 
-![Bar chart of top 26 record labels](../../images/genres/korean_pop/labels.png)
+![Bar chart of top 28 record labels](../../images/genres/korean_pop/labels.png)
 
 ## Years
 
@@ -171,27 +178,27 @@
 |:---|:---|
 | Cat (Feat. IU) (0.882) | Miracle (0.302) |
 | NAKKA (with IU) (0.816) | Sweet (0.302) |
-| How People Move (0.813) | Like Water (0.365) |
-| RE-BYE (0.799) | Melted (0.384) |
-| Whale (0.788) | 내 맘을 볼 수 있나요 (0.397) |
-| VingleVingle (Prod. R.Tee) (0.785) | Get Ready To Leave (0.402) |
-| Undo (0.784) | Love, Maybe (0.402) |
-| LAW (Prod. Czaer) (0.756) | Floral Sense (0.411) |
-| Some (feat. Lil Boi) (0.738) | Run With Me (0.425) |
-| And July (0.734) | Doll (0.429) |
+| How People Move (0.813) | Silent Night (0.333) |
+| RE-BYE (0.799) | Like Water (0.365) |
+| Whale (0.788) | Melted (0.384) |
+| VingleVingle (Prod. R.Tee) (0.785) | 내 맘을 볼 수 있나요 (0.397) |
+| Undo (0.784) | Get Ready To Leave (0.402) |
+| LAW (Prod. Czaer) (0.756) | Love, Maybe (0.402) |
+| Some (feat. Lil Boi) (0.738) | Have Yourself A Merry Little Christmas (0.408) |
+| And July (0.734) | Floral Sense (0.411) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Love's Battery (0.928) | 내 맘을 볼 수 있나요 (0.166) |
-| LAW (Prod. Czaer) (0.9) | How can I love the heartbreak, you're the one I love (0.248) |
-| Why Can't You Love Me? (0.879) | Rain and You (0.275) |
-| I will show you (0.872) | Flower Way (Prod. By ZICO) (0.282) |
-| Event Horizon (0.861) | Run With Me (0.295) |
-| And July (0.852) | Goodbye (0.316) |
-| How People Move (0.836) | Melted (0.361) |
-| Three Dopeboyz (Feat. Zion.T) (0.757) | Miracle (0.385) |
-| Starlight (0.735) | 봄인가 봐 Spring Love (0.391) |
-| Love, Maybe (0.731) | Cat (Feat. IU) (0.392) |
+| Love's Battery (0.928) | Silent Night (0.0831) |
+| LAW (Prod. Czaer) (0.9) | 내 맘을 볼 수 있나요 (0.166) |
+| Why Can't You Love Me? (0.879) | How can I love the heartbreak, you're the one I love (0.248) |
+| I will show you (0.872) | Solo Christmas (0.259) |
+| Event Horizon (0.861) | Rain and You (0.275) |
+| And July (0.852) | Flower Way (Prod. By ZICO) (0.282) |
+| How People Move (0.836) | Have Yourself A Merry Little Christmas (0.292) |
+| Three Dopeboyz (Feat. Zion.T) (0.757) | Run With Me (0.295) |
+| Starlight (0.735) | Goodbye (0.316) |
+| Love, Maybe (0.731) | Melted (0.361) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -202,22 +209,22 @@
 | NAKKA (with IU) (0.101) | Starlight (0.0302) |
 | And July (0.0916) | Doll (0.0304) |
 | LAW (Prod. Czaer) (0.0843) | The Road (0.0307) |
-| How People Move (0.0823) | Melted (0.0311) |
-| HAPPEN (0.0799) | When it snows(Feat.Heize) (0.0316) |
-| Cat (Feat. IU) (0.0751) | Goodbye (0.0317) |
+| How People Move (0.0823) | Silent Night (0.0309) |
+| HAPPEN (0.0799) | Melted (0.0311) |
+| Cat (Feat. IU) (0.0751) | When it snows(Feat.Heize) (0.0316) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| How can I love the heartbreak, you're the one I love (0.91) | Headlock (0.000953) |
-| 내 맘을 볼 수 있나요 (0.884) | LAW (Prod. Czaer) (0.00857) |
-| Run With Me (0.868) | And July (0.0401) |
-| Goodbye (0.861) | NAKKA (with IU) (0.0732) |
-| Miracle (0.846) | Event Horizon (0.0758) |
-| Melted (0.832) | Three Dopeboyz (Feat. Zion.T) (0.078) |
-| Flower Way (Prod. By ZICO) (0.831) | Starlight (0.0786) |
-| When This Rain Stops (0.805) | Traffic light (0.0965) |
-| Rain and You (0.777) | Why Can't You Love Me? (0.136) |
-| Slightly Tipsy (She is My Type♡ X SANDEUL) (0.769) | Love's Battery (0.143) |
+| Silent Night (0.92) | Headlock (0.000953) |
+| How can I love the heartbreak, you're the one I love (0.91) | LAW (Prod. Czaer) (0.00857) |
+| 내 맘을 볼 수 있나요 (0.884) | And July (0.0401) |
+| Run With Me (0.868) | NAKKA (with IU) (0.0732) |
+| Goodbye (0.861) | Event Horizon (0.0758) |
+| Solo Christmas (0.858) | Three Dopeboyz (Feat. Zion.T) (0.078) |
+| Miracle (0.846) | Starlight (0.0786) |
+| Melted (0.832) | Traffic light (0.0965) |
+| Flower Way (Prod. By ZICO) (0.831) | Why Can't You Love Me? (0.136) |
+| When This Rain Stops (0.805) | Love's Battery (0.143) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -228,22 +235,22 @@
 | LAW (Prod. Czaer) (0.000111) | Done For Me (0.0) |
 | Rain and You (7.31e-05) | And July (0.0) |
 | NAKKA (with IU) (2.81e-05) | How People Move (0.0) |
-| First Sight (1.88e-05) | Some (feat. Lil Boi) (0.0) |
-| Lyricist (1.14e-05) | HAPPEN (0.0) |
-| Like Water (6.06e-06) | Flower Way (Prod. By ZICO) (0.0) |
+| Silent Night (2.47e-05) | Some (feat. Lil Boi) (0.0) |
+| First Sight (1.88e-05) | HAPPEN (0.0) |
+| Lyricist (1.14e-05) | Flower Way (Prod. By ZICO) (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Headlock (0.507) | How People Move (0.0511) |
 | Lyricist (0.352) | Traffic light (0.0694) |
-| HAPPEN (0.341) | First Sight (0.0735) |
-| Floral Sense (0.335) | Miracle (0.0808) |
-| VingleVingle (Prod. R.Tee) (0.325) | Dream (0.0876) |
-| Three Dopeboyz (Feat. Zion.T) (0.311) | Undo (0.0903) |
-| When it snows(Feat.Heize) (0.289) | 내 맘을 볼 수 있나요 (0.1) |
-| Murder On The Dance Floor (0.253) | Starlight (0.101) |
-| Some (feat. Lil Boi) (0.253) | Melted (0.103) |
-| LAW (Prod. Czaer) (0.237) | Cat (Feat. IU) (0.107) |
+| HAPPEN (0.341) | Silent Night (0.0735) |
+| Floral Sense (0.335) | First Sight (0.0735) |
+| VingleVingle (Prod. R.Tee) (0.325) | Miracle (0.0808) |
+| Three Dopeboyz (Feat. Zion.T) (0.311) | Dream (0.0876) |
+| When it snows(Feat.Heize) (0.289) | Undo (0.0903) |
+| Murder On The Dance Floor (0.253) | 내 맘을 볼 수 있나요 (0.1) |
+| Some (feat. Lil Boi) (0.253) | Starlight (0.101) |
+| LAW (Prod. Czaer) (0.237) | Melted (0.103) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -251,9 +258,9 @@
 | Love's Battery (0.941) | 내 맘을 볼 수 있나요 (0.131) |
 | RE-BYE (0.924) | FREEDOM (0.152) |
 | How People Move (0.848) | Run With Me (0.156) |
-| Ya! (feat. Whee In) (0.795) | Melted (0.169) |
-| And July (0.787) | When it snows(Feat.Heize) (0.176) |
-| Undo (0.734) | Get Ready To Leave (0.208) |
-| Cat (Feat. IU) (0.702) | I will show you (0.226) |
-| Whale (0.684) | How can I love the heartbreak, you're the one I love (0.228) |
-| Headlock (0.672) | First Sight (0.239) |
+| Ya! (feat. Whee In) (0.795) | Silent Night (0.16) |
+| And July (0.787) | Melted (0.169) |
+| Undo (0.734) | When it snows(Feat.Heize) (0.176) |
+| Cat (Feat. IU) (0.702) | Get Ready To Leave (0.208) |
+| Whale (0.684) | I will show you (0.226) |
+| Headlock (0.672) | How can I love the heartbreak, you're the one I love (0.228) |

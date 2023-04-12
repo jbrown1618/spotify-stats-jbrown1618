@@ -1,6 +1,6 @@
 # a cappella
 
-[197 songs](tracks.md)
+[205 songs](tracks.md)
 
 ## Top Artists
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 20 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 16 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 11 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
@@ -28,6 +28,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 2 | 2 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 2 | 1 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 2 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
@@ -40,7 +41,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | 2 | 0 | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | 2 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | 1 | 0 | Awaken A Cappella | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Shams Ahmed | [🔗](https://open.spotify.com/artist/7rIkgg1ozqQIezA7c8Khf4) |
@@ -80,7 +80,7 @@
 
 
 <details>
-<summary>See all 79 albums</summary>
+<summary>See all 81 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -92,6 +92,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | 6 | 0 | M | 2015-03-30 | [🔗](https://open.spotify.com/album/1B0XzLFo4XYh8QIwPRTdpR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | 6 | 0 | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | 5 | 0 | The Party Upstairs | 2013-12-13 | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | 5 | 0 | That's Christmas To Me (Deluxe Edition) | 2015-10-30 | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | 5 | 0 | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 5 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 5 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
@@ -110,6 +111,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | 3 | 0 | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbbb078a4589c3cfad8bd34a" alt="" width="50" /> | 3 | 0 | Sincerely, | 2016-03-22 | [🔗](https://open.spotify.com/album/4szRoyYFWqLMea8NLx2TpL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | 3 | 0 | RISE | 2016-02-09 | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | 3 | 0 | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | 3 | 0 | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 3 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
@@ -119,12 +121,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273293ebd0a06cf2784113d4156" alt="" width="50" /> | 2 | 0 | Vocal Spectrum III | 2011-11-07 | [🔗](https://open.spotify.com/album/4F5N06bwpwxllsHAJh8Xn6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddb98c5497cea19e35a33391" alt="" width="50" /> | 2 | 0 | Vocal Spectrum II | 2008-07-15 | [🔗](https://open.spotify.com/album/1RDzZXCmf9q1SQbyz48HFq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | 2 | 0 | V | 2018 | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | 2 | 0 | That's Christmas To Me (Deluxe Edition) | 2015-10-30 | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | 2 | 0 | Stages | 2014-09-21 | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | 2 | 0 | Permit to Harmonize | 2013-03-01 | [🔗](https://open.spotify.com/album/4aHUBNFRDR1DzCO8GULLTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | 2 | 0 | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | 2 | 0 | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | 2 | 0 | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 2 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | 2 | 0 | Almost 8:08 | 2017-09-06 | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
@@ -153,7 +155,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | 1 | 0 | Encore | 2013-05-03 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | 1 | 0 | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="" width="50" /> | 1 | 0 | Circle Of Life | 1996-11-08 | [🔗](https://open.spotify.com/album/3W9Uo4nvI281sjlEIrR6z6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 1 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | 1 | 0 | Christmas Cheers (Deluxe) | 2009-11-02 | [🔗](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | 1 | 0 | Burn | 2014-03-29 | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | 1 | 0 | Before You Go | 2008-12-12 | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
@@ -173,12 +175,12 @@
 
 
 <details>
-<summary>See all 27 labels</summary>
+<summary>See all 28 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 44 | 0 | [Varsity Vocals](../../labels/varsity_vocals) |
-| 36 | 16 | [RCA Records Label](../../labels/rca_records_label) |
+| 43 | 16 | [RCA Records Label](../../labels/rca_records_label) |
 | 32 | 0 | [A Cappella Records](../../labels/a_cappella_records) |
 | 12 | 0 | [Ithacappella](../../labels/ithacappella) |
 | 8 | 0 | Vanderbilt Melodores |
@@ -192,23 +194,24 @@
 | 4 | 0 | 649668 Records DK2 |
 | 3 | 0 | The Sound Corporation |
 | 3 | 0 | The SoCal VoCals |
+| 2 | 1 | [Atlantic Records](../../labels/atlantic_records) |
 | 2 | 0 | world village |
 | 2 | 0 | Voices Only A Cappella |
 | 2 | 0 | The University of Rochester Midnight Ramblers |
 | 2 | 0 | The Clef Hangers |
 | 2 | 0 | SoCal VoCals |
 | 2 | 0 | Signum Records |
-| 1 | 1 | [Atlantic Records](../../labels/atlantic_records) |
 | 1 | 0 | Uncle Buford Records |
 | 1 | 0 | Sonoton Music |
 | 1 | 0 | Signum OMP |
 | 1 | 0 | RCA Victor - Munich |
 | 1 | 0 | Loudr |
+| 1 | 0 | Atco |
 
 </details>
 
 
-![Bar chart of top 27 record labels](../../images/genres/a_cappella/labels.png)
+![Bar chart of top 28 record labels](../../images/genres/a_cappella/labels.png)
 
 ## Years
 
@@ -237,9 +240,9 @@
 | Toxic (0.764) | Shenandoah - Arr. Bob Chilcott (0.191) |
 | Finesse (0.763) | Lullabye (Goodnight My Angel) (0.2) |
 | Telephone (0.756) | We Found Love (0.203) |
-| Can't Sleep Love (feat. Tink) (0.734) | Falling Slowly (0.218) |
-| Can't Sleep Love (0.73) | Walking in the Air (0.224) |
-| Havana (0.726) | Wait It Out (0.227) |
+| Sleigh Ride (0.745) | Falling Slowly (0.218) |
+| Can't Sleep Love (feat. Tink) (0.734) | Walking in the Air (0.224) |
+| Can't Sleep Love (0.73) | Wait It Out (0.227) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -257,15 +260,15 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack (0.433) | We Found Love (0.0244) |
-| Uptown Funk (0.34) | Samson (0.0256) |
-| Bang Bang (0.34) | Machine Gun (0.0264) |
-| Don't Stop Me Now (0.31) | The Sound of Silence (0.0273) |
-| I'd Like To (0.213) | We All Need Saving (0.0273) |
-| Cry Me a River (0.19) | Demons (0.0276) |
-| Movin' On (0.183) | Latch (0.0277) |
-| Waka Waka (This Time for Africa) (0.161) | Good Vibrations (0.0278) |
-| Attention (0.15) | Cough Syrup (0.0278) |
-| Too Close (feat. Roxorloops & Blady Kris) (0.146) | Falling Slowly (0.0284) |
+| Uptown Funk (0.34) | It's the Most Wonderful Time of the Year (0.0256) |
+| Bang Bang (0.34) | Samson (0.0256) |
+| The 12 Days of Christmas (0.316) | Machine Gun (0.0264) |
+| Don't Stop Me Now (0.31) | Mary, Did You Know? (0.0269) |
+| I'd Like To (0.213) | The Sound of Silence (0.0273) |
+| Cry Me a River (0.19) | We All Need Saving (0.0273) |
+| Movin' On (0.183) | Demons (0.0276) |
+| Waka Waka (This Time for Africa) (0.161) | Latch (0.0277) |
+| Attention (0.15) | Good Vibrations (0.0278) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -284,14 +287,14 @@
 |:---|:---|
 | Prelude No.1 in C Major (0.977) | Say Something (0.0) |
 | Libertango (0.809) | Natural Disaster (0.0) |
-| Eine kleine Nachtmusik (0.653) | Brand New Jones (0.0) |
-| Lullabye (Goodnight My Angel) (0.178) | Hallelujah (0.0) |
-| Dance of the Sugar Plum Fairy (0.079) | Closer (0.0) |
-| Here (In Your Arms) (0.0273) | Without Your Love (0.0) |
-| Falling Slowly (0.019) | Gravity (0.0) |
-| Greensleeves (0.0153) | Apologize (0.0) |
-| Shenandoah - Arr. Bob Chilcott (0.0127) | The Sound of Silence (0.0) |
-| Home (0.00371) | Isn't She Lovely (0.0) |
+| Eine kleine Nachtmusik (0.653) | Sleigh Ride (0.0) |
+| Lullabye (Goodnight My Angel) (0.178) | Brand New Jones (0.0) |
+| Dance of the Sugar Plum Fairy (0.079) | Hallelujah (0.0) |
+| Here (In Your Arms) (0.0273) | Closer (0.0) |
+| Falling Slowly (0.019) | Without Your Love (0.0) |
+| Greensleeves (0.0153) | Gravity (0.0) |
+| Shenandoah - Arr. Bob Chilcott (0.0127) | Apologize (0.0) |
+| Home (0.00371) | The Sound of Silence (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -311,10 +314,10 @@
 | I Want You Back (0.91) | Shenandoah - Arr. Bob Chilcott (0.0364) |
 | Attention (0.907) | Bring Him Home (0.0388) |
 | Finesse (0.903) | The Sound of Silence (0.0476) |
-| Na Na Na (0.862) | The Music of the Night (0.0584) |
-| Domino (0.86) | Loch Lomond (0.0617) |
-| Smooth (0.851) | Lullabye (Goodnight My Angel) (0.0673) |
-| Toxic (0.842) | Lullabye (Goodnight My Angel) (0.0688) |
-| I'd Like To (0.831) | Danny Boy (0.0709) |
-| Supermassive Black Hole (0.826) | Say Something (0.0812) |
-| Natural Disaster (0.819) | We Found Love (0.0814) |
+| Sleigh Ride (0.87) | The Music of the Night (0.0584) |
+| Na Na Na (0.862) | Loch Lomond (0.0617) |
+| Domino (0.86) | Lullabye (Goodnight My Angel) (0.0673) |
+| Smooth (0.851) | Lullabye (Goodnight My Angel) (0.0688) |
+| Toxic (0.842) | Danny Boy (0.0709) |
+| I'd Like To (0.831) | Say Something (0.0812) |
+| Supermassive Black Hole (0.826) | We Found Love (0.0814) |

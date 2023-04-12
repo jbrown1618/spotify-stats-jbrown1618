@@ -167,7 +167,7 @@
 | 1 | 0 | roots rock |
 | 1 | 0 | piano blues |
 | 1 | 0 | new orleans blues |
-| 1 | 0 | lounge |
+| 1 | 0 | [lounge](../../genres/lounge) |
 | 1 | 0 | louisiana blues |
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |

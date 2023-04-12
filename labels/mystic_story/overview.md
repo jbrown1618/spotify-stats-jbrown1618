@@ -1,9 +1,9 @@
 # MYSTIC STORY
 
-14 songs
+15 songs
 
 Appears as:
-- MYSTIC STORY (14 tracks)
+- MYSTIC STORY (15 tracks)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 14 | 12 | [Billlie](../../artists/billlie) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 15 | 12 | [Billlie](../../artists/billlie) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 
 </details>
 
@@ -24,7 +24,7 @@ Appears as:
 
 
 <details>
-<summary>See all 4 albums</summary>
+<summary>See all 5 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -32,11 +32,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | 4 | 3 | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | 3 | 3 | the collective soul and unconscious: chapter one | 2022-02-23 | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | 3 | 2 | the Billage of perception: chapter two | 2022-08-31 | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="" width="50" /> | 1 | 0 | the collective soul and unconscious: snowy night | 2021-12-14 | [🔗](https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1) |
 
 </details>
 
 
-![Bar chart of top 4 albums](../../images/labels/mystic_story/albums.png)
+![Bar chart of top 5 albums](../../images/labels/mystic_story/albums.png)
 
 ## Genres
 
@@ -46,7 +47,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 14 | 12 | [k-pop](../../genres/k_pop) |
+| 15 | 12 | [k-pop](../../genres/k_pop) |
 
 </details>
 
@@ -61,6 +62,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | everybody's got a $ECRET | the Billage of perception : chapter one | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | 💚 | [🔗](https://open.spotify.com/track/490hT7WcJnqR69Tgb7uY2U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | flipp!ng a coin | the Billage of perception : chapter one | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | | [🔗](https://open.spotify.com/track/2UQLDRnG7IwlXrdmYTA6sv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the eleventh day | the Billage of perception : chapter one | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | 💚 | [🔗](https://open.spotify.com/track/4YldhqpCghwJalBtiCRtl1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="" width="50" /> | snowy night | the collective soul and unconscious: snowy night | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | | [🔗](https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | GingaMingaYo (the strange world) | the collective soul and unconscious: chapter one | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | 💚 | [🔗](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | a sign ~ anonymous | the collective soul and unconscious: chapter one | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | 💚 | [🔗](https://open.spotify.com/track/3PBgdAFxOThx0srS6VkS0F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | overlap (1/1) | the collective soul and unconscious: chapter one | [Billlie](../../artists/billlie) | [MYSTIC STORY](.) | 💚 | [🔗](https://open.spotify.com/track/3VMbll8GQGlE1WuWaTPtxJ) |

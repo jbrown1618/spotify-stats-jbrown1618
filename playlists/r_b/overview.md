@@ -178,7 +178,7 @@
 | 5 | 5 | [Warner Records](../../labels/warner_records) |
 | 5 | 5 | Beluga Heights |
 | 5 | 4 | Bad Boy |
-| 5 | 3 | UNI |
+| 5 | 3 | [UNI](../../labels/uni) |
 | 5 | 3 | Music World Music |
 | 3 | 1 | LaFace Records |
 | 2 | 2 | Wondaland |

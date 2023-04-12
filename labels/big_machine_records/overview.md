@@ -1,9 +1,9 @@
 # Big Machine Records
 
-29 songs
+31 songs
 
 Appears as:
-- Big Machine Records, LLC (29 tracks)
+- Big Machine Records, LLC (31 tracks)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 29 | 19 | [Taylor Swift](../../artists/taylor_swift) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 31 | 19 | [Taylor Swift](../../artists/taylor_swift) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 </details>
 
@@ -24,7 +24,7 @@ Appears as:
 
 
 <details>
-<summary>See all 7 albums</summary>
+<summary>See all 8 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -32,6 +32,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 4 | 2 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | 2 | 0 | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | 1 | 1 | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | 1 | 0 | Taylor Swift | 2006-10-24 | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
@@ -39,7 +40,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 7 albums](../../images/labels/big_machine_records/albums.png)
+![Bar chart of top 8 albums](../../images/labels/big_machine_records/albums.png)
 
 ## Genres
 
@@ -49,7 +50,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 19 | [pop](../../genres/pop) |
+| 31 | 19 | [pop](../../genres/pop) |
 
 </details>
 
@@ -64,6 +65,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Last Christmas | The Taylor Swift Holiday Collection | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/2IprIjGNRlj3TfqUWCAo0C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Back To December | Speak Now | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Mean | Speak Now | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](../../artists/taylor_swift) | [Big Machine Records, LLC](.) | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |

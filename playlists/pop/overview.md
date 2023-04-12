@@ -418,7 +418,7 @@
 | 2 | 2 | trap queen |
 | 2 | 2 | queens hip hop |
 | 2 | 2 | minnesota hip hop |
-| 2 | 2 | lounge |
+| 2 | 2 | [lounge](../../genres/lounge) |
 | 2 | 2 | jazz pop |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | indie pop |

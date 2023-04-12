@@ -120,7 +120,7 @@
 |---:|---:|:---|
 | 13 | 7 | [MOTOWN](../../labels/motown) |
 | 10 | 6 | [Epic](../../labels/epic) |
-| 8 | 6 | UNI |
+| 8 | 6 | [UNI](../../labels/uni) |
 | 6 | 5 | [Columbia](../../labels/columbia) |
 | 4 | 2 | [Warner Records](../../labels/warner_records) |
 | 4 | 1 | [Legacy](../../labels/legacy) |
@@ -178,7 +178,7 @@
 | 5 | 3 | quiet storm |
 | 5 | 1 | memphis soul |
 | 4 | 3 | new wave pop |
-| 3 | 2 | lounge |
+| 3 | 2 | [lounge](../../genres/lounge) |
 | 3 | 1 | [singer-songwriter](../../genres/singer_songwriter) |
 | 3 | 1 | outlaw country |
 | 3 | 1 | bubblegum pop |

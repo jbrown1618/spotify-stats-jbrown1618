@@ -1,9 +1,9 @@
 # 143
 
-10 songs
+13 songs
 
 Appears as:
-- 143/Reprise (10 tracks)
+- 143/Reprise (13 tracks)
 
 ## Top Artists
 
@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 10 | 5 | [Michael Bublé](../../artists/michael_bubl_) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 13 | 5 | [Michael Bublé](../../artists/michael_bubl_) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 
 </details>
 
@@ -24,11 +24,12 @@ Appears as:
 
 
 <details>
-<summary>See all 5 albums</summary>
+<summary>See all 6 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 3 | 1 | Call Me Irresponsible | 2007-04-30 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 3 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
@@ -37,7 +38,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 5 albums](../../images/labels/143/albums.png)
+![Bar chart of top 6 albums](../../images/labels/143/albums.png)
 
 ## Genres
 
@@ -47,10 +48,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 5 | lounge |
-| 10 | 5 | jazz pop |
-| 10 | 5 | canadian pop |
-| 10 | 5 | [adult standards](../../genres/adult_standards) |
+| 13 | 5 | [lounge](../../genres/lounge) |
+| 13 | 5 | jazz pop |
+| 13 | 5 | canadian pop |
+| 13 | 5 | [adult standards](../../genres/adult_standards) |
 
 </details>
 
@@ -71,3 +72,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | The Best Is yet to Come | Call Me Irresponsible | [Michael Bublé](../../artists/michael_bubl_) | [143](.), [Reprise](../reprise) | | [🔗](https://open.spotify.com/track/56t3m0lqE6zU1EfgFOPqst) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Cry Me a River | Crazy Love | [Michael Bublé](../../artists/michael_bubl_) | [143](.), [Reprise](../reprise) | | [🔗](https://open.spotify.com/track/5i04Jy87RLxoZszJqY3QAN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Haven't Met You Yet | Crazy Love | [Michael Bublé](../../artists/michael_bubl_) | [143](.), [Reprise](../reprise) | 💚 | [🔗](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bubl_) | [143](.), [Reprise](../reprise) | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Santa Baby | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bubl_) | [143](.), [Reprise](../reprise) | | [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | The Christmas Song | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bubl_) | [143](.), [Reprise](../reprise) | | [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) |

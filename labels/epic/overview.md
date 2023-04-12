@@ -1,10 +1,10 @@
 # Epic
 
-89 songs
+92 songs
 
 Appears as:
-- Epic (70 tracks)
-- Syco Music/Epic (9 tracks)
+- Epic (72 tracks)
+- Syco Music/Epic (10 tracks)
 - Epic/Legacy (4 tracks)
 - Epic/Phonogenic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
@@ -15,7 +15,7 @@ Appears as:
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -23,9 +23,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 3 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 3 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 2 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 1 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
@@ -39,19 +39,21 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
+| <img src="https://i.scdn.co/image/028bf41acbd7858a4a8acf688a392d4ee9e369ef" alt="" width="50" /> | 1 | 0 | Wham! | [🔗](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 1 | 0 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
+| <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
 
 </details>
 
 
-![Bar chart of top 22 artists](../../images/labels/epic/artists.png)
+![Bar chart of top 24 artists](../../images/labels/epic/artists.png)
 
 ## Top Albums
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -79,32 +81,35 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 0 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | 1 | 0 | LAST CHRISTMAS | 1984-11-29 | [🔗](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | 1 | 0 | Grandma Got Run Over By A Reindeer | 1984 | [🔗](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | 1 | 0 | Fijación Oral, Vol. 1 | 2005-06-03 | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | 1 | 0 | All I Want for Christmas Is You | 2014-11-17 | [🔗](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 1 | 0 | 7/27 (Deluxe) | 2016-05-27 | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
 
 </details>
 
 
-![Bar chart of top 27 albums](../../images/labels/epic/albums.png)
+![Bar chart of top 30 albums](../../images/labels/epic/albums.png)
 
 ## Genres
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 80 | 56 | [pop](../../genres/pop) |
+| 81 | 56 | [pop](../../genres/pop) |
 | 62 | 44 | [pop rock](../../genres/pop_rock) |
 | 62 | 44 | [neo mellow](../../genres/neo_mellow) |
 | 59 | 41 | [lilith](../../genres/lilith) |
 | 59 | 41 | [hollywood](../../genres/hollywood) |
 | 59 | 41 | [acoustic pop](../../genres/acoustic_pop) |
-| 15 | 12 | [dance pop](../../genres/dance_pop) |
+| 16 | 12 | [dance pop](../../genres/dance_pop) |
 | 10 | 6 | [r&b](../../genres/r_b) |
-| 8 | 6 | [post-teen pop](../../genres/post_teen_pop) |
+| 9 | 6 | [post-teen pop](../../genres/post_teen_pop) |
 | 8 | 5 | soul |
 | 4 | 1 | [soft rock](../../genres/soft_rock) |
 | 4 | 1 | [rock](../../genres/rock) |
@@ -112,13 +117,14 @@ Appears as:
 | 4 | 1 | [classic rock](../../genres/classic_rock) |
 | 3 | 2 | latin pop |
 | 3 | 2 | colombian pop |
+| 3 | 1 | talent show |
+| 3 | 1 | girl group |
 | 2 | 2 | celtic rock |
-| 2 | 1 | talent show |
 | 2 | 1 | symphonic rock |
 | 2 | 1 | progressive rock |
+| 2 | 1 | new wave pop |
 | 2 | 1 | heartland rock |
 | 2 | 1 | hard rock |
-| 2 | 1 | girl group |
 | 2 | 1 | art rock |
 | 2 | 1 | album rock |
 | 2 | 0 | [singer-songwriter](../../genres/singer_songwriter) |
@@ -128,7 +134,6 @@ Appears as:
 | 2 | 0 | [adult standards](../../genres/adult_standards) |
 | 1 | 1 | viral pop |
 | 1 | 1 | piano rock |
-| 1 | 1 | new wave pop |
 | 1 | 1 | neo soul |
 | 1 | 1 | escape room |
 | 1 | 1 | [electropop](../../genres/electropop) |
@@ -136,6 +141,11 @@ Appears as:
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
 | 1 | 1 | afrofuturism |
+| 1 | 0 | synthpop |
+| 1 | 0 | novelty |
+| 1 | 0 | new romantic |
+| 1 | 0 | europop |
+| 1 | 0 | disco |
 
 </details>
 
@@ -155,6 +165,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | Camila Cabello, DaBaby | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | Grandma Got Run over by a Reindeer | Grandma Got Run Over By A Reindeer | Elmo & Patsy | [Epic](.) | | [🔗](https://open.spotify.com/track/49iHYFjT5yO6WEw6KerX9o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | All I Want for Christmas Is You | All I Want for Christmas Is You | Fifth Harmony | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Worth It (feat. Kid Ink) | Reflection (Deluxe) | Fifth Harmony, Kid Ink | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl | 7/27 (Deluxe) | Fifth Harmony | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered | Faith | George Michael | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
@@ -235,3 +247,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, Camila Cabello | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Man Who Can't Be Moved | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | Last Christmas | LAST CHRISTMAS | Wham! | [Epic](.) | | [🔗](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |

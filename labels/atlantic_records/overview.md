@@ -1,6 +1,6 @@
 # Atlantic Records
 
-79 songs
+80 songs
 
 Appears as:
 - Atlantic Records (69 tracks)
@@ -8,6 +8,7 @@ Appears as:
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
 - Nice Life/Atlantic (2 tracks)
+- Atco/Atlantic (1 tracks)
 - Big Beat Records/Atlantic (1 tracks)
 - Latium/Atlantic (1 tracks)
 
@@ -40,6 +41,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | 2 | 1 | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 2 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 2 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
@@ -51,7 +53,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -78,7 +79,7 @@ Appears as:
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -109,11 +110,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | 1 | 0 | Hot In It | 2022-06-30 | [🔗](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | 1 | 0 | Christmas Cheers (Deluxe) | 2009-11-02 | [🔗](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) |
 
 </details>
 
 
-![Bar chart of top 27 albums](../../images/labels/atlantic_records/albums.png)
+![Bar chart of top 28 albums](../../images/labels/atlantic_records/albums.png)
 
 ## Genres
 
@@ -148,6 +150,8 @@ Appears as:
 | 2 | 2 | [acoustic pop](../../genres/acoustic_pop) |
 | 2 | 1 | pop dance |
 | 2 | 1 | edm |
+| 2 | 1 | [adult standards](../../genres/adult_standards) |
+| 2 | 1 | [a cappella](../../genres/a_cappella) |
 | 2 | 0 | trap |
 | 2 | 0 | hip hop |
 | 2 | 0 | alternative hip hop |
@@ -162,8 +166,6 @@ Appears as:
 | 1 | 1 | candy pop |
 | 1 | 1 | bedroom soul |
 | 1 | 1 | [art pop](../../genres/art_pop) |
-| 1 | 1 | [adult standards](../../genres/adult_standards) |
-| 1 | 1 | [a cappella](../../genres/a_cappella) |
 | 1 | 0 | trance |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
@@ -259,6 +261,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | It's Quiet Uptown | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, [Lin-Manuel Miranda](../../artists/lin_manuel_miranda), [Phillipa Soo](../../artists/phillipa_soo), [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Satisfied | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | The Schuyler Sisters | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, [Phillipa Soo](../../artists/phillipa_soo), Jasmine Cephas-Jones, [Leslie Odom Jr.](../../artists/leslie_odom_jr_), [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | The 12 Days of Christmas | Christmas Cheers (Deluxe) | Straight No Chaser | [Atco/Atlantic](.) | | [🔗](https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | I Want You Back (feat. Sara Bareilles) | Under the Influence (Ultimate Edition) | Straight No Chaser, [Sara Bareilles](../../artists/sara_bareilles) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5teF3el9gP5j2cf7Dvkbm0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Farmer Refuted | Hamilton (Original Broadway Cast Recording) | Thayne Jasperson, [Lin-Manuel Miranda](../../artists/lin_manuel_miranda), [Original Broadway Cast of Hamilton](../../artists/original_broadway_cast_of_hamilton) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2G9lekfCh83S0lt2yfffBz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | Hot In It | Hot In It | Tiësto, Charli XCX | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) |

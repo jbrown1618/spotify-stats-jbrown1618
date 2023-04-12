@@ -1,15 +1,15 @@
 # Walt Disney Records
 
-49 songs
+50 songs
 
 Appears as:
-- Walt Disney Records (49 tracks)
+- Walt Disney Records (50 tracks)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 74 artists</summary>
+<summary>See all 76 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -51,10 +51,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/c70b45b55261e4a201300931f11f5988a9c34478" alt="" width="50" /> | 1 | 0 | Cheech Marin | [🔗](https://open.spotify.com/artist/68TP2Pr8i7dvyFHU0p748r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7fec29c8ce38bd57ca100ba" alt="" width="50" /> | 1 | 0 | Bruce Adler | [🔗](https://open.spotify.com/artist/66oKiXdIQP7MwN0gPUY0FD) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Rene Auberjonois | [🔗](https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdf1ea4e99183b6c35c127ed7" alt="" width="50" /> | 1 | 0 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
 | <img src="https://i.scdn.co/image/b7cb8a2d95ba2ca94fc0e133611b5b680014c52e" alt="" width="50" /> | 1 | 0 | Auli'i Cravalho | [🔗](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b9f3c46017f630cb024056a" alt="" width="50" /> | 1 | 0 | Donny Osmond | [🔗](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3b56ff58ed402be417316b" alt="" width="50" /> | 1 | 0 | Rowan Atkinson | [🔗](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5db8621b4a58607c3c430a1a" alt="" width="50" /> | 1 | 0 | Stolen Jars | [🔗](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Donna Murphy | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
 | <img src="https://i.scdn.co/image/85e8343b215c98ad063417ac2f6b63919557721a" alt="" width="50" /> | 1 | 0 | Louis Prima | [🔗](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) |
@@ -97,7 +99,7 @@ Appears as:
 
 
 <details>
-<summary>See all 19 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -114,6 +116,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | 2 | 0 | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | 1 | 0 | Noelle (Original Motion Picture Soundtrack) | 2019-11-12 | [🔗](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | 1 | 0 | Disney's Greatest Vol. 3 | 2002-08-20 | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
@@ -124,13 +127,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 19 albums](../../images/labels/walt_disney_records/albums.png)
+![Bar chart of top 20 albums](../../images/labels/walt_disney_records/albums.png)
 
 ## Genres
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -146,9 +149,11 @@ Appears as:
 | 1 | 0 | swing |
 | 1 | 0 | soul |
 | 1 | 0 | roots rock |
+| 1 | 0 | retro soul |
 | 1 | 0 | piano blues |
+| 1 | 0 | nyc pop |
 | 1 | 0 | new orleans blues |
-| 1 | 0 | lounge |
+| 1 | 0 | [lounge](../../genres/lounge) |
 | 1 | 0 | louisiana blues |
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |
@@ -164,7 +169,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 26 genres](../../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 28 genres](../../images/labels/walt_disney_records/genres.png)
 
 ## Tracks released under Walt Disney Records
 
@@ -196,6 +201,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | Kristen Bell, Agatha Lee Monn, Katie Lopez | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | For the First Time in Forever - From "Frozen"/Soundtrack Version | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | Kristen Bell, Idina Menzel | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Love Is an Open Door - From "Frozen"/Soundtrack Version | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | Kristen Bell, Santino Fontana | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | Santa Claus Is Comin' to Town | Noelle (Original Motion Picture Soundtrack) | Lawrence, Stolen Jars | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | A Girl Worth Fighting For | Mulan (Original Soundtrack) | Lea Salonga, Harvey Fierstein, Matthew Wilder, James Hong, Jerry Tondo, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/3wjgPeXocinhLyPL37p70e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Honor To Us All | Mulan (Original Soundtrack) | Lea Salonga, Beth Fowler, Marni Nixon, Chorus - Mulan, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Reflection | Mulan (Original Soundtrack) | Lea Salonga, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts) |

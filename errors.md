@@ -2,16 +2,39 @@
 
 ## Duplicate tracks
 
-None
+| Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
+|:---|---:|:---|:---|:---|---:|:---|:---|:---|
+| Beautiful Christmas [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) | 40 | 2022-12-26 | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM),<br>aespa [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | 2022 Winter SMTOWN : SMCU PALACE [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 64 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | 💚 |
+| Beautiful Christmas [🔗](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | 57 | 2022-12-14 | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM),<br>aespa [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | Beautiful Christmas [🔗](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 50 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Dear Santa [🔗](https://open.spotify.com/track/7Do5qY5GCZr0T2wk3eKzmi) | 0 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Dear Santa [🔗](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | 33 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 33 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Merry Christmas [🔗](https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr) | 0 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Merry Christmas [🔗](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | 25 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 33 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/track/35DYsbswkqUeW5RVZnbgML) | 0 | 2016-12-23 | Jay JungJae Moon [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6),<br>Nile Lee [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8),<br>WENDY [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/album/65iTqWmb0hH7TTiZ0gAbvp) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs) | 25 | 2016-12-23 | Jay JungJae Moon [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6),<br>Nile Lee [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8),<br>WENDY [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | Have Yourself A Merry Little Christmas - SM STATION [🔗](https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2) | 19 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| 24 to 25 [🔗](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr) | 55 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 64 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | |
+| 24 to 25 [🔗](https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S) | 0 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | JYP Entertainment | |
+| Christmas EveL [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) | 67 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 64 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
+| Christmas EveL [🔗](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg) | 0 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | JYP Entertainment | |
+| Winter Falls [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | 59 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 64 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | |
+| Winter Falls [🔗](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | 0 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | JYP Entertainment | |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
+| Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | 33 | 2015-12-04 | SM Entertainment | Dear Santa [🔗](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf),<br>Merry Christmas [🔗](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
+| Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | 0 | 2015-12-04 | SM Entertainment | Dear Santa [🔗](https://open.spotify.com/track/7Do5qY5GCZr0T2wk3eKzmi),<br>Merry Christmas [🔗](https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 47 | 2017-09-22 | Fave Entertainment | Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 42 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| Christmas (Deluxe Special Edition) [🔗](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | Michael Bublé [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | 56 | 2011-10-14 | Reprise | Frosty the Snowman (feat. The Puppini Sisters) [🔗](https://open.spotify.com/track/6RJJUEOfUyMhcxtsfLNRpH) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
+| Christmas (Deluxe Special Edition) [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | Michael Bublé [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | 61 | 2012-11-09 | 143/Reprise | It's Beginning to Look a Lot like Christmas [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R),<br>Santa Baby [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb),<br>The Christmas Song [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
+| Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 64 | 2021-11-29 | Republic Records - Stray Kids | 24 to 25 [🔗](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr),<br>Christmas EveL [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW),<br>DOMINO - English Ver. [🔗](https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj),<br>Winter Falls [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Christmas EveL [🔗](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 0 | 2021-11-29 | JYP Entertainment | 24 to 25 [🔗](https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S),<br>Christmas EveL [🔗](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg),<br>Winter Falls [🔗](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
+| Doughnut [🔗](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 51 | 2021-12-15 | WM Japan | Wonderful Day [🔗](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
+| Doughnut [🔗](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 58 | 2021-12-03 | WM Japan | Doughnut [🔗](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 
 ## Tracks with low popularity
 
@@ -274,6 +297,9 @@ None
 | Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
 | Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 32 |
+| Christmas EveL | Christmas EveL | Stray Kids | 0 | 0 | 84 |
+| Winter Falls | Christmas EveL | Stray Kids | 0 | 0 | 84 |
+| 24 to 25 | Christmas EveL | Stray Kids | 0 | 0 | 84 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 61 |
 | Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
 | Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
@@ -334,6 +360,8 @@ None
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 80 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 59 |
+| Merry Christmas | Dear Santa - X-Mas Special | Girls' Generation-TTS | 0 | 0 | 38 |
+| Dear Santa | Dear Santa - X-Mas Special | Girls' Generation-TTS | 0 | 0 | 38 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
@@ -349,7 +377,9 @@ None
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
 | Let it Be | III | The Nor'easters | 0 | 0 | 32 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
+| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
 | Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 52 |
+| Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | WENDY | 0 | 0 | 57 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 91 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 91 |
@@ -363,6 +393,7 @@ None
 | Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
+| White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Butter | Butter | BTS | 1 | 0 | 91 |
@@ -383,17 +414,22 @@ None
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 66 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 52 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 44 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 69 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 78 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 56 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 76 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 56 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 48 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 64 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 91 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 56 |
