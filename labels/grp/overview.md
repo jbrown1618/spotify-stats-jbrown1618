@@ -7,25 +7,14 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 2 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 21 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | 1 | 0 | Randy Waldman | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
 
-</details>
-
-
 
 
 ## Top Albums
-
-
-<details>
-<summary>See all 3 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -33,23 +22,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | 10 | 0 | Freedom At Midnight | 1987-01-01 | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | 1 | 0 | Every Step Of The Way | 1987 | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
 
-</details>
-
-
 ![Bar chart of top 3 albums](../../images/labels/grp/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 1 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 21 | 0 | smooth jazz |
-
-</details>
-
 
 
 
@@ -67,6 +46,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Pieces Of Time | Freedom At Midnight | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/53vRCplmNKbtL7D4psSBrN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | The Last Goodbye | Freedom At Midnight | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/3iSet2m5A4p3G7T2j8wbdH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | The Man With The Panama Hat | Freedom At Midnight | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/5123iv6y44E6iMrtQslxNu) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Tropical Breeze | Freedom At Midnight | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/67KMcjY4qw46GWxsR2NIhY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 6-String Poet | Inner Motion | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/2vp4iFA59viHbdNLCbQKtz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | A Last Request | Inner Motion | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/1eco6KISLwiyHzicppwSQF) |
@@ -78,3 +64,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Houston | Inner Motion | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/2hFD5732Sz3FJ4ohjhKLG5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | M.W.A. (Musicians With Attitude) | Inner Motion | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/1dE0PS08MJrUkdtrG5hjpk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | South East Quarter | Inner Motion | David Benoit | [GRP](.) | | [🔗](https://open.spotify.com/track/04IcSgYzMaGKJsfYJ6cs8s) |
+
+</details>
+

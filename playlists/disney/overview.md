@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 74 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | 19 | 0 | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
@@ -23,6 +19,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6d80e2ed079cf1183ade19a" alt="" width="50" /> | 3 | 0 | Angela Lansbury | [🔗](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391802cd59c40ec47424e2635" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 | <img src="https://i.scdn.co/image/04b70356aa016a0b99be4b7402c8637e923cee93" alt="" width="50" /> | 2 | 0 | Paige O'Hara | [🔗](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM) |
+
+
+<details>
+<summary>See all 74 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Samuel E. Wright | [🔗](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21f0cc7dc3f69be76f6f7c11" alt="" width="50" /> | 2 | 0 | Joseph Williams | [🔗](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | 2 | 0 | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
@@ -97,10 +100,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 20 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | 5 | 0 | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
@@ -113,6 +112,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 3 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | 2 | 0 | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | 2 | 0 | The Jungle Book | 1997-01-01 | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
+
+
+<details>
+<summary>See all 20 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | 2 | 0 | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | 1 | 0 | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
@@ -131,21 +137,27 @@
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 2 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 49 | 0 | [Walt Disney Records](../../labels/walt_disney_records) |
+| 49 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | LML Music |
-
-</details>
-
 
 
 
 ## Genres
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 43 | 0 | movie tunes |
+| 5 | 0 | tagalog worship |
+| 2 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
+| 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 2 | 0 | hollywood |
+| 2 | 0 | europop |
+| 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
+| 2 | 0 | comic |
+| 2 | 0 | comedy |
 
 
 <details>
@@ -153,32 +165,22 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 40 | 0 | movie tunes |
-| 22 | 0 | [hollywood](../../genres/hollywood) |
-| 14 | 0 | [show tunes](../../genres/show_tunes) |
-| 5 | 0 | tagalog worship |
-| 2 | 0 | [post-teen pop](../../genres/post_teen_pop) |
-| 2 | 0 | [dance pop](../../genres/dance_pop) |
-| 2 | 0 | comedy |
-| 2 | 0 | [adult standards](../../genres/adult_standards) |
-| 1 | 0 | vocal jazz |
+| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
+| 1 | 0 | traditional blues |
 | 1 | 0 | swing |
 | 1 | 0 | soul |
 | 1 | 0 | roots rock |
 | 1 | 0 | piano blues |
 | 1 | 0 | new orleans blues |
-| 1 | 0 | [lounge](../../genres/lounge) |
+| 1 | 0 | modern blues |
+| 1 | 0 | lounge |
 | 1 | 0 | louisiana blues |
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |
 | 1 | 0 | funk |
-| 1 | 0 | [folk rock](../../genres/folk_rock) |
-| 1 | 0 | country rock |
-| 1 | 0 | classic uk pop |
 | 1 | 0 | bubblegum pop |
-| 1 | 0 | [broadway](../../genres/broadway) |
-| 1 | 0 | blues rock |
 | 1 | 0 | blues |
+| 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 
 </details>
 
@@ -193,16 +195,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span style="padding-left:10px;">Beauty and the Beast (1991-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="Coco (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">Coco (Original Motion Picture Soundtrack) (2017-11-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span style="padding-left:10px;">The Lion King (1994-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="Moana (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Moana (Original Motion Picture Soundtrack/Deluxe Edition) (2016-11-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span style="padding-left:10px;">Pocahontas (1995-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="Sleeping Beauty" width="50" /> <span style="padding-left:10px;">Sleeping Beauty (1996-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) (1996-05-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span style="padding-left:10px;">Tangled (2010-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> <span style="padding-left:10px;">The Jungle Book (1997-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="The Princess and the Frog (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Princess and the Frog (Original Motion Picture Soundtrack) (2009-11-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="Songs and Story: Cinderella" width="50" /> <span style="padding-left:10px;">Songs and Story: Cinderella (2009-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="101 Dalmatians" width="50" /> <span style="padding-left:10px;">101 Dalmatians (1998-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="Disney's Greatest Vol. 3" width="50" /> <span style="padding-left:10px;">Disney's Greatest Vol. 3 (2002-08-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)" width="50" /> <span style="padding-left:10px;">Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) (2005-10-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span>Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span>Beauty and the Beast (1991-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="Coco (Original Motion Picture Soundtrack)" width="50" /> <span>Coco (Original Motion Picture Soundtrack) (2017-11-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span>The Lion King (1994-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="Moana (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span>Moana (Original Motion Picture Soundtrack/Deluxe Edition) (2016-11-18)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span>Pocahontas (1995-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span>Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="Sleeping Beauty" width="50" /> <span>Sleeping Beauty (1996-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span>The Journey so Far (2011-08-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> <span>The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) (1996-05-28)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span>Tangled (2010-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> <span>The Jungle Book (1997-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="The Princess and the Frog (Original Motion Picture Soundtrack)" width="50" /> <span>The Princess and the Frog (Original Motion Picture Soundtrack) (2009-11-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span>Mulan (Original Soundtrack) (1998-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="Songs and Story: Cinderella" width="50" /> <span>Songs and Story: Cinderella (2009-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="101 Dalmatians" width="50" /> <span>101 Dalmatians (1998-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span>The Little Mermaid Special Edition (2006-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="Disney's Greatest Vol. 3" width="50" /> <span>Disney's Greatest Vol. 3 (2002-08-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)" width="50" /> <span>Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) (2005-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span>Aladdin Special Edition (2004-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

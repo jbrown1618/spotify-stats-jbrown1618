@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 7 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 7 | 6 | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
@@ -21,18 +17,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | 1 | 0 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 1 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
-</details>
-
-
 ![Bar chart of top 7 artists](../../images/playlists/electronic/artists.png)
 
 
 
 ## Top Albums
-
-
-<details>
-<summary>See all 8 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -45,53 +34,37 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | 1 | 0 | Badster | 2019-07-20 | [🔗](https://open.spotify.com/album/4GA4vqEeOzVM8ib6HHy6Ij) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | 1 | 0 | Artemis | 2019-09-06 | [🔗](https://open.spotify.com/album/4YAtGpNUwcHesLlyYUIxur) |
 
-</details>
-
-
 ![Bar chart of top 8 albums](../../images/playlists/electronic/albums.png)
 
 ## Top Record Labels
-
-
-<details>
-<summary>See all 7 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 4 | 4 | Daft Life Ltd. |
 | 4 | 4 | ADA France |
 | 3 | 3 | Lindseystomp Records |
-| 2 | 2 | [Columbia](../../labels/columbia) |
+| 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 0 | Universal Republic Records |
-| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment) |
+| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 0 | BMG Rights Management (US) LLC |
-
-</details>
-
 
 ![Bar chart of top 7 record labels](../../images/playlists/electronic/labels.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 8 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 6 | 6 | [rock](../../genres/rock/overview.md) |
 | 6 | 6 | filter house |
 | 6 | 6 | electro |
 | 4 | 3 | pop violin |
 | 4 | 3 | bow pop |
-| 1 | 0 | [pop](../../genres/pop) |
-| 1 | 0 | [k-pop](../../genres/k_pop) |
+| 1 | 0 | [pop](../../genres/pop/overview.md) |
+| 1 | 0 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 0 | canadian pop |
 | 1 | 0 | canadian contemporary r&b |
 
-</details>
-
-
-![Bar chart of top 8 genres](../../images/playlists/electronic/genres.png)
+![Bar chart of top 9 genres](../../images/playlists/electronic/genres.png)
 
 ## Years
 
@@ -101,14 +74,14 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> <span style="padding-left:10px;">Artemis (2019-09-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="Discovery" width="50" /> <span style="padding-left:10px;">Discovery (2001-03-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> <span style="padding-left:10px;">Badster (2019-07-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> <span style="padding-left:10px;">Human After All (2005-03-14)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> <span style="padding-left:10px;">Starboy (2016-11-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> <span style="padding-left:10px;">Lindsey Stirling (2012)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> <span style="padding-left:10px;">Shatter Me (2014-04-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> <span style="padding-left:10px;">Random Access Memories (2013-05-17)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> <span style="padding-left:10px;">Random Access Memories (2013-05-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> <span style="padding-left:10px;">Shatter Me (2014-04-29)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> <span style="padding-left:10px;">Lindsey Stirling (2012)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> <span style="padding-left:10px;">Starboy (2016-11-25)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> <span style="padding-left:10px;">Human After All (2005-03-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> <span style="padding-left:10px;">Badster (2019-07-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="Discovery" width="50" /> <span style="padding-left:10px;">Discovery (2001-03-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> <span style="padding-left:10px;">Artemis (2019-09-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> <span>Artemis (2019-09-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="Discovery" width="50" /> <span>Discovery (2001-03-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> <span>Badster (2019-07-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> <span>Human After All (2005-03-14)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> <span>Starboy (2016-11-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> <span>Lindsey Stirling (2012)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> <span>Shatter Me (2014-04-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> <span>Random Access Memories (2013-05-17)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> <span>Random Access Memories (2013-05-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> <span>Shatter Me (2014-04-29)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> <span>Lindsey Stirling (2012)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> <span>Starboy (2016-11-25)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> <span>Human After All (2005-03-14)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> <span>Badster (2019-07-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="Discovery" width="50" /> <span>Discovery (2001-03-12)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> <span>Artemis (2019-09-06)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

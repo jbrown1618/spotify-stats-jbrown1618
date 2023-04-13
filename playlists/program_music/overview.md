@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 21 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | 17 | 0 | Gustavo Dudamel | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
@@ -23,6 +19,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 7 | 0 | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 7 | 0 | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
 | <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | 7 | 0 | Gustav Holst | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
+
+
+<details>
+<summary>See all 21 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 6 | 0 | Ceri-lyn Cissone | [🔗](https://open.spotify.com/artist/6F3jOFmhUwRxRdWAZU6G1A) |
 | <img src="nan" alt="" width="50" /> | 4 | 0 | Frankie Wakefield | [🔗](https://open.spotify.com/artist/7jobsaZIFhejECE605yxx6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c40a5ab7938f014b50cd73" alt="" width="50" /> | 3 | 0 | Orchestre Symphonique de Montréal | [🔗](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) |
@@ -44,10 +47,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 5 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | 17 | 0 | Mussorgsky: Pictures At An Exhibition | 2016-12-02 | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
@@ -56,38 +55,24 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | 3 | 0 | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | 1989-01-01 | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | 1 | 0 | Fauré Pavane | 2020-05-30 | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
 
-</details>
-
-
 ![Bar chart of top 5 albums](../../images/playlists/program_music/albums.png)
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 4 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 24 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
-| 13 | 0 | [Lso Live](../../labels/lso_live) |
-| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
-| 1 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group) |
-
-</details>
-
+| 24 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 13 | 0 | [Lso Live](../../labels/lso_live/overview.md) |
+| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
+| 1 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group/overview.md) |
 
 ![Bar chart of top 4 record labels](../../images/playlists/program_music/labels.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 8 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 0 | classical |
+| 41 | 0 | classical |
 | 17 | 0 | russian romanticism |
 | 17 | 0 | late romantic era |
 | 13 | 0 | german romanticism |
@@ -95,9 +80,6 @@
 | 11 | 0 | post-romantic era |
 | 7 | 0 | british modern classical |
 | 3 | 0 | impressionism |
-
-</details>
-
 
 ![Bar chart of top 8 genres](../../images/playlists/program_music/genres.png)
 
@@ -109,11 +91,11 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> <span style="padding-left:10px;">Fauré Pavane (2020-05-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> <span style="padding-left:10px;">Holst: The Planets (1981-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night's Dream" width="50" /> <span style="padding-left:10px;">Mendelssohn: A Midsummer Night's Dream (2017-02-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> <span style="padding-left:10px;">Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) (1989-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> <span style="padding-left:10px;">Mussorgsky: Pictures At An Exhibition (2016-12-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> <span style="padding-left:10px;">Mussorgsky: Pictures At An Exhibition (2016-12-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> <span style="padding-left:10px;">Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) (1989-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night's Dream" width="50" /> <span style="padding-left:10px;">Mendelssohn: A Midsummer Night's Dream (2017-02-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> <span style="padding-left:10px;">Holst: The Planets (1981-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> <span style="padding-left:10px;">Fauré Pavane (2020-05-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> <span>Fauré Pavane (2020-05-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> <span>Holst: The Planets (1981-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night's Dream" width="50" /> <span>Mendelssohn: A Midsummer Night's Dream (2017-02-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> <span>Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) (1989-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> <span>Mussorgsky: Pictures At An Exhibition (2016-12-02)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> <span>Mussorgsky: Pictures At An Exhibition (2016-12-02)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> <span>Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) (1989-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night's Dream" width="50" /> <span>Mendelssohn: A Midsummer Night's Dream (2017-02-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> <span>Holst: The Planets (1981-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> <span>Fauré Pavane (2020-05-30)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

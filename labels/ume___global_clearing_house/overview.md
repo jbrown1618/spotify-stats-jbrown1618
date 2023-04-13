@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 32 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 115 | 0 | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 7 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebae5e23c13f72e0ee01dfa99b" alt="" width="50" /> | 6 | 0 | Anne-Sophie Mutter | [🔗](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 6 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
+
+
+<details>
+<summary>See all 32 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273629fe5d9aee2869873b588bd" alt="" width="50" /> | 5 | 0 | Werner Krenn | [🔗](https://open.spotify.com/artist/3PuXD6h01YqjNWQ055CWxA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 4 | 0 | Gottfried Hornik | [🔗](https://open.spotify.com/artist/6aFQ4LADfHVe08B5gQuE8X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
@@ -53,41 +56,30 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 3 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | 115 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c4f593ac464ebc030b4cde4" alt="" width="50" /> | 1 | 0 | Tik Tock Hits 2020 | 2020-06-12 | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 
-</details>
-
-
 ![Bar chart of top 3 albums](../../images/labels/ume___global_clearing_house/albums.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 7 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 115 | 0 | lullaby |
 | 115 | 0 | classical era |
 | 115 | 0 | classical |
+| 1 | 0 | vocal jazz |
+| 1 | 0 | swing |
+| 1 | 0 | soul |
+| 1 | 0 | lounge |
 | 1 | 0 | korean old school hip hop |
 | 1 | 0 | k-rap |
-| 1 | 0 | [k-pop](../../genres/k_pop) |
-| 1 | 0 | [adult standards](../../genres/adult_standards) |
+| 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 
-</details>
-
-
-![Bar chart of top 7 genres](../../images/labels/ume___global_clearing_house/genres.png)
+![Bar chart of top 10 genres](../../images/labels/ume___global_clearing_house/genres.png)
 
 ## Tracks released under UME - Global Clearing House
 
@@ -103,6 +95,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Die Zauberflöte, K.620 / Act 2: "Die Strahlen der Sonne" - "Heil sei euch" | Karajan - Mozart | Wolfgang Amadeus Mozart, José van Dam, Berliner Philharmoniker, Herbert von Karajan, Chor der Deutschen Oper Berlin | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/7vHcyTwpivareNXvjYCUKW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Die Zauberflöte, K.620 / Act 2: "In diesen heil'gen Hallen" | Karajan - Mozart | Wolfgang Amadeus Mozart, José van Dam, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/7d647G4C4SCnKRCeXOWO28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" | Karajan - Mozart | Wolfgang Amadeus Mozart, Berliner Philharmoniker, Herbert von Karajan, Chor der Deutschen Oper Berlin, Walter Hagen-Groll | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/0mN2s4aGuyTHvdhaRYdz8O) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!" | Karajan - Mozart | Wolfgang Amadeus Mozart, Gottfried Hornik, Janet Perry, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/4jxCucVrcMeqx4EtWCq1Jj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen" | Karajan - Mozart | Wolfgang Amadeus Mozart, Wolfgang Bünten, Christian Schulz, Tobias Pfulb, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/3JIno6JgE7mhYuYke4Fs6p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina) | Karajan - Mozart | Wolfgang Amadeus Mozart, Edith Mathis, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/2V8LMKhc4oLscxLy8bS8n0) |
@@ -210,3 +209,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Violin Concerto No. 5 in A Major, K. 219: I. Allegro aperto | Karajan - Mozart | Wolfgang Amadeus Mozart, Joseph Joachim, Ossip Schnirlin, Anne-Sophie Mutter, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/2QQqUsJ4kZW10aOJjDHB76) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Violin Concerto No. 5 in A Major, K. 219: II. Adagio | Karajan - Mozart | Wolfgang Amadeus Mozart, Joseph Joachim, Ossip Schnirlin, Anne-Sophie Mutter, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/3G4djnsfzYUYDBTvAMnT1x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | Violin Concerto No. 5 in A Major, K. 219: III. Rondeau (Tempo di minuetto) | Karajan - Mozart | Wolfgang Amadeus Mozart, Joseph Joachim, Ossip Schnirlin, Anne-Sophie Mutter, Berliner Philharmoniker, Herbert von Karajan | [UME - Global Clearing House](.) | | [🔗](https://open.spotify.com/track/6i7kZ8UaJ5WWNxVLCnIzdM) |
+
+</details>
+

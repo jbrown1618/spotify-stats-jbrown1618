@@ -7,22 +7,25 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 7 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 3 | 0 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | 3 | 0 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 2 | 0 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | 2 | 0 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 1 | 0 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 1 | 0 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | 1 | 0 | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
+
 
 <details>
 <summary>See all 14 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 7 | 0 | [ITZY](../../artists/itzy) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 3 | 0 | [TWICE](../../artists/twice) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | 3 | 0 | [(G)I-DLE](../../artists/_g_i_dle) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 2 | 0 | [NCT 127](../../artists/nct_127) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | 2 | 0 | [Stray Kids](../../artists/stray_kids) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 0 | [Red Velvet](../../artists/red_velvet) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 1 | 0 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 1 | 0 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | 1 | 0 | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69d86a4744d275ed5259e743" alt="" width="50" /> | 1 | 0 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | 1 | 0 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 1 | 0 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -37,10 +40,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 24 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
@@ -53,6 +52,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | 1 | 0 | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | 1 | 0 | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="" width="50" /> | 1 | 0 | Love Talk (English Version) | 2019-11-05 | [🔗](https://open.spotify.com/album/60A7gFYvWmaDULmxUWSjyS) |
+
+
+<details>
+<summary>See all 24 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | 1 | 0 | LATATA (English Ver.) | 2020-05-15 | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | 1 | 0 | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
@@ -75,43 +81,29 @@
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 9 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 13 | 0 | [Republic Records](../../labels/republic_records) |
-| 5 | 0 | [SM Entertainment](../../labels/sm_entertainment) |
-| 4 | 0 | [Universal Music LLC](../../labels/universal_music_llc) |
-| 1 | 1 | [Warner Records](../../labels/warner_records) |
+| 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
+| 13 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
+| 5 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 4 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | 해피트라이브엔터테인먼트 |
 | 1 | 0 | 올라트엔터테인먼트 |
-| 1 | 0 | [RBW Inc.](../../labels/rbw_inc_) |
+| 1 | 0 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 1 | 0 | LABEL V |
 | 1 | 0 | ADA Korea |
-
-</details>
-
 
 ![Bar chart of top 9 record labels](../../images/playlists/cursed_english/labels.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 5 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 0 | [k-pop](../../genres/k_pop) |
-| 18 | 1 | [k-pop girl group](../../genres/k_pop_girl_group) |
-| 7 | 0 | [k-pop boy group](../../genres/k_pop_boy_group) |
+| 26 | 1 | [k-pop](../../genres/k_pop/overview.md) |
+| 18 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 7 | 0 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 0 | korean city pop |
 | 1 | 0 | chinese idol pop |
-
-</details>
-
 
 ![Bar chart of top 5 genres](../../images/playlists/cursed_english/genres.png)
 
@@ -123,16 +115,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span style="padding-left:10px;">READY TO BE (2023-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> <span style="padding-left:10px;">Summer Magic - Summer Mini Album (2018-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> <span style="padding-left:10px;">CHECKMATE (2022-07-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> <span style="padding-left:10px;">NCT #127 Regular-Irregular - The 1st Album (2018-10-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> <span style="padding-left:10px;">Girls - The 2nd Mini Album (2022-07-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> <span style="padding-left:10px;">RBB - The 5th Mini Album (2018-11-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> <span style="padding-left:10px;">Do It Like This (English Version) (2022-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> <span style="padding-left:10px;">Cat & Dog (English Version) (2019-05-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> <span style="padding-left:10px;">6equence (2022-01-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> <span style="padding-left:10px;">Highway to Heaven (English Version) (2019-07-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> <span style="padding-left:10px;">Christmas EveL (2021-11-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> <span style="padding-left:10px;">Love Talk (English Version) (2019-11-05)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> <span style="padding-left:10px;">Fairyforest : Temptation (2021-10-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> <span style="padding-left:10px;">Step Out of Clé (English Ver.) (2020-01-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> <span style="padding-left:10px;">CRAZY IN LOVE (2021-09-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> <span style="padding-left:10px;">I trust (2020-04-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> <span style="padding-left:10px;">In the morning (English Ver.) (2021-05-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> <span style="padding-left:10px;">LATATA (English Ver.) (2020-05-15)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> <span style="padding-left:10px;">HWAA (2021-01-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE & MORE (English Version)" width="50" /> <span style="padding-left:10px;">MORE & MORE (English Version) (2020-08-21)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span>READY TO BE (2023-03-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> <span>Summer Magic - Summer Mini Album (2018-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> <span>CHECKMATE (2022-07-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> <span>NCT #127 Regular-Irregular - The 1st Album (2018-10-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> <span>Girls - The 2nd Mini Album (2022-07-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> <span>RBB - The 5th Mini Album (2018-11-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> <span>Do It Like This (English Version) (2022-03-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> <span>Cat & Dog (English Version) (2019-05-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> <span>6equence (2022-01-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> <span>Highway to Heaven (English Version) (2019-07-18)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> <span>Christmas EveL (2021-11-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> <span>Love Talk (English Version) (2019-11-05)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> <span>Fairyforest : Temptation (2021-10-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> <span>Step Out of Clé (English Ver.) (2020-01-24)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> <span>CRAZY IN LOVE (2021-09-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> <span>I trust (2020-04-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> <span>In the morning (English Ver.) (2021-05-14)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> <span>LATATA (English Ver.) (2020-05-15)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> <span>HWAA (2021-01-27)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE & MORE (English Version)" width="50" /> <span>MORE & MORE (English Version) (2020-08-21)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

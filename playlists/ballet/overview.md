@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 16 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 55 | 0 | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
@@ -23,6 +19,13 @@
 | <img src="https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b" alt="" width="50" /> | 31 | 0 | André Previn | [🔗](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) |
 | <img src="https://i.scdn.co/image/3460fd826c1cc058c4c4134e6c695e00dcf89fa6" alt="" width="50" /> | 24 | 0 | Sir Simon Rattle | [🔗](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 19 | 0 | Herbert von Karajan | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+
+
+<details>
+<summary>See all 16 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | 18 | 0 | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | 18 | 0 | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
@@ -39,10 +42,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 6 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | 39 | 0 | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
@@ -52,34 +51,20 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | 18 | 0 | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Stravinsky: The Firebird (Ballet Suite) | 2009-01-01 | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
 
-</details>
-
-
 ![Bar chart of top 6 albums](../../images/playlists/ballet/albums.png)
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 4 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 55 | 0 | [Warner Classics](../../labels/warner_classics) |
-| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_) |
-| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
-| 18 | 0 | [Mariinsky](../../labels/mariinsky) |
-
-</details>
-
+| 55 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
+| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_/overview.md) |
+| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 18 | 0 | [Mariinsky](../../labels/mariinsky/overview.md) |
 
 ![Bar chart of top 4 record labels](../../images/playlists/ballet/labels.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 8 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -91,9 +76,6 @@
 | 39 | 0 | russian modern classical |
 | 39 | 0 | french romanticism |
 | 39 | 0 | french opera |
-
-</details>
-
 
 ![Bar chart of top 8 genres](../../images/playlists/ballet/genres.png)
 
@@ -118,12 +100,12 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span style="padding-left:10px;">Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span style="padding-left:10px;">Tchaikovsky: Swan Lake (1976)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> <span style="padding-left:10px;">Coppélia (2018-07-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> <span style="padding-left:10px;">Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> <span style="padding-left:10px;">Tchaikovsky: The Nutcracker (2010-10-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> <span style="padding-left:10px;">Stravinsky: The Firebird (Ballet Suite) (2009-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> <span style="padding-left:10px;">Stravinsky: The Firebird (Ballet Suite) (2009-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> <span style="padding-left:10px;">Tchaikovsky: The Nutcracker (2010-10-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> <span style="padding-left:10px;">Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> <span style="padding-left:10px;">Coppélia (2018-07-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span style="padding-left:10px;">Tchaikovsky: Swan Lake (1976)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span style="padding-left:10px;">Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span>Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span>Tchaikovsky: Swan Lake (1976)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> <span>Coppélia (2018-07-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> <span>Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> <span>Tchaikovsky: The Nutcracker (2010-10-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> <span>Stravinsky: The Firebird (Ballet Suite) (2009-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> <span>Stravinsky: The Firebird (Ballet Suite) (2009-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> <span>Tchaikovsky: The Nutcracker (2010-10-11)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> <span>Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> <span>Coppélia (2018-07-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span>Tchaikovsky: Swan Lake (1976)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span>Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

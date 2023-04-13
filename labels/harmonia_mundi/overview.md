@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 13 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 95 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 4 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
 | <img src="https://i.scdn.co/image/0d8f2b3e9ab748e7767fd31ff9386e06e5834e2b" alt="" width="50" /> | 4 | 0 | Maurice Ravel | [🔗](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) |
 | <img src="https://i.scdn.co/image/9db73248b767dd6aa392b73d0b90c7634499616f" alt="" width="50" /> | 3 | 0 | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
+
+
+<details>
+<summary>See all 13 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/914364be0f93ff2756c1352c2a2a5ae25ddb53cd" alt="" width="50" /> | 1 | 0 | Philippe Herreweghe | [🔗](https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5) |
 | <img src="https://i.scdn.co/image/c8dc83d307c0a8c18ac505da6133bc37df4442a1" alt="" width="50" /> | 1 | 0 | Anton Bruckner | [🔗](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e895483075f6e493f491476" alt="" width="50" /> | 1 | 0 | Collegium Vocale Gent | [🔗](https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1) |
@@ -34,10 +37,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 7 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
@@ -48,16 +47,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | 8 | 0 | Debussy & Ravel: String Quartets | 2018-05-25 | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | 1 | 0 | Bruckner: Mass in E Minor & Motets | 2002 | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
 
-</details>
-
-
 ![Bar chart of top 7 albums](../../images/labels/harmonia_mundi/albums.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -71,14 +63,20 @@ Appears as:
 | 9 | 0 | late romantic era |
 | 8 | 0 | post-romantic era |
 | 8 | 0 | impressionism |
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 8 | 0 | czech classical |
 | 4 | 0 | neoclassicism |
-| 4 | 0 | early modern classical |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/harmonia_mundi/genres.png)
+![Bar chart of top 12 genres](../../images/labels/harmonia_mundi/genres.png)
 
 ## Tracks released under harmonia mundi
 
@@ -94,6 +92,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | String Sextet, Op. 48: III. Furiant. Presto - Trio | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | Antonín Dvořák, Jerusalem Quartet, Veronika Hagen, Gary Hoffman | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/0b7X9ecotXBp5yYALXdDua) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | String Sextet, Op. 48: IV. Finale. Tema con variazioni - Allegretto grazioso, quasi andantino | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | Antonín Dvořák, Jerusalem Quartet, Veronika Hagen | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/1BwgToZUccesFsTGQ8mBdS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | String Quartet in G Minor, Op. 10: I. Animé et très décidé | Debussy & Ravel: String Quartets | Claude Debussy, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/6VRCCEvDGOsiOe6M6qDsBq) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | String Quartet in G Minor, Op. 10: II. Assez vif et bien rythmé | Debussy & Ravel: String Quartets | Claude Debussy, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/4Az9YkyhksfJpgt00w01dl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif | Debussy & Ravel: String Quartets | Claude Debussy, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/3ARP0EeVUiwPBc8OLhBCMg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | String Quartet in G Minor, Op. 10: IV. Très modéré | Debussy & Ravel: String Quartets | Claude Debussy, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/4RQxDeNkibXjHkIkBXify8) |
@@ -236,3 +241,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | String Quartet No. 4 in C Major, K. 157: I. Allegro | Mozart: String Quartets Nos. 4, 17 & 22 | Wolfgang Amadeus Mozart, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/1Yo7X5HowJgPOnisWCexqI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | String Quartet No. 4 in C Major, K. 157: II. Andante | Mozart: String Quartets Nos. 4, 17 & 22 | Wolfgang Amadeus Mozart, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/4V6p7SY0ALq9I5iuOgkVNK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | String Quartet No. 4 in C Major, K. 157: III. Presto | Mozart: String Quartets Nos. 4, 17 & 22 | Wolfgang Amadeus Mozart, Jerusalem Quartet | [harmonia mundi](.) | | [🔗](https://open.spotify.com/track/6wZJSUp9ucaVj1C7gQW1Rd) |
+
+</details>
+

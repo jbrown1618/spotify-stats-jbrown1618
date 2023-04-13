@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 8 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 14 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
@@ -22,16 +18,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb22e5cea0be00de88a4269bb8" alt="" width="50" /> | 1 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | 1 | 0 | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
 
-</details>
-
-
 ![Bar chart of top 8 artists](../../images/labels/a_cappella_records/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 11 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -45,6 +34,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | 1 | 0 | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | 1 | 0 | High Stakes Old Maid | 2016 | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | 1 | 0 | Encore | 2013-05-03 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
+
+
+<details>
+<summary>See all 11 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | 1 | 0 | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
 
 </details>
@@ -54,17 +50,10 @@ Appears as:
 
 ## Genres
 
-
-<details>
-<summary>See all 2 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 0 | [a cappella](../../genres/a_cappella) |
 | 29 | 0 | college a cappella |
-
-</details>
-
+| 3 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 
 
 
@@ -82,6 +71,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Happy Ending | Keepin' it Low Key | Tar Heel Voices | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/72bpNdFjmdbiLFGV1w92RY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Machine Gun | Keepin' it Low Key | Tar Heel Voices | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/3p0txIEAiyVi0MBOd0AkmR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Only the Good Die Young | Keepin' it Low Key | Tar Heel Voices | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/3OERzUoUYTsAOarTBVQcMw) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Samson | Keepin' it Low Key | Tar Heel Voices | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/4GkzthA7aLCGzoP7vuZj7t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | Wally | Keepin' it Low Key | Tar Heel Voices | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/4dY5fF23LOemKIA9Q2uzxZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | Blown Away | Quarter Past | Tar Heel Voices | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/0XWtfrs1Sh8Qm47OeMlCYN) |
@@ -104,3 +100,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/7j2UXGaBVzCGe1zJ795Mv8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Demons | Songs for Padded Rooms | Voices in Your Head | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/3LSZijFefbFNrSC4bVitOO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | Toxic | Songs for Padded Rooms | Voices in Your Head | [A Cappella Records](.) | | [🔗](https://open.spotify.com/track/2crmVN1l4kgyGwlABJSFoS) |
+
+</details>
+

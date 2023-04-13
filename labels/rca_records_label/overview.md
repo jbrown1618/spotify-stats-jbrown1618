@@ -15,16 +15,11 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 33 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 5 | 3 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb586b55e89ac8b2b492f5490c" alt="" width="50" /> | 5 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
@@ -32,6 +27,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | 2 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 2 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 1 | 1 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
+
+
+<details>
+<summary>See all 33 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -47,6 +49,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb734144a8667a0bab0a9b9481" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 1 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb586b55e89ac8b2b492f5490c" alt="" width="50" /> | 5 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | 1 | 0 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -62,10 +65,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 46 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | 7 | 3 | PTX, Vol. 2 | 2013-11-05 | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
@@ -78,6 +77,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | 4 | 2 | Pentatonix (Deluxe Version) | 2015-10-16 | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | 3 | 2 | PTX Vol. IV - Classics | 2017-04-07 | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | 3 | 1 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
+
+
+<details>
+<summary>See all 46 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
@@ -122,38 +128,41 @@ Appears as:
 
 ## Genres
 
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 25 | 18 | [pop](../../genres/pop/overview.md) |
+| 25 | 18 | [dance pop](../../genres/dance_pop/overview.md) |
+| 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
+| 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
+| 8 | 8 | australian pop |
+| 8 | 8 | australian dance |
+| 5 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 4 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
+| 4 | 3 | metropopolis |
+| 4 | 3 | etherpop |
+
 
 <details>
 <summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 43 | 16 | [a cappella](../../genres/a_cappella) |
-| 26 | 20 | [pop](../../genres/pop) |
-| 26 | 18 | [dance pop](../../genres/dance_pop) |
-| 9 | 3 | [post-teen pop](../../genres/post_teen_pop) |
-| 8 | 8 | australian pop |
-| 8 | 8 | australian dance |
-| 4 | 3 | modern rock |
-| 4 | 3 | metropopolis |
-| 4 | 3 | etherpop |
-| 3 | 2 | [rock](../../genres/rock) |
+| 3 | 2 | [rock](../../genres/rock/overview.md) |
+| 3 | 2 | rap |
 | 3 | 2 | permanent wave |
 | 3 | 2 | garage rock |
 | 3 | 2 | alternative rock |
 | 2 | 1 | talent show |
-| 2 | 1 | [r&b](../../genres/r_b) |
+| 2 | 1 | [r&b](../../genres/r_b/overview.md) |
+| 2 | 1 | pop rap |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | south carolina hip hop |
-| 1 | 1 | rap |
-| 1 | 1 | pop rap |
 | 1 | 1 | oakland hip hop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |
 | 1 | 1 | indie pop rap |
 | 1 | 1 | indie pop |
-| 1 | 1 | hip hop |
 | 1 | 1 | contemporary r&b |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alt z |
@@ -163,7 +172,7 @@ Appears as:
 | 1 | 0 | sunshine pop |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
-| 1 | 0 | [electropop](../../genres/electropop) |
+| 1 | 0 | electropop |
 | 1 | 0 | doo-wop |
 | 1 | 0 | boy band |
 
@@ -186,6 +195,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="" width="50" /> | Señorita | Señorita | Citizen Queen | [Citizen Queen/RCA Records](.) | | [🔗](https://open.spotify.com/track/3QglLwEow7OT5BUaZUNS4W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="" width="50" /> | bad guy | bad guy | Citizen Queen | [Citizen Queen/RCA Records](.) | | [🔗](https://open.spotify.com/track/2trPKQthDkOiLFCNy5fkIO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382b243023b937fd579a35533" alt="" width="50" /> | Say So | Hot Pink | Doja Cat | [Kemosabe Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | Doja Cat, SZA | [Kemosabe Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Need to Know | Planet Her | Doja Cat | [Kemosabe Records/RCA Records](.) | | [🔗](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Woman | Planet Her | Doja Cat | [Kemosabe Records/RCA Records](.) | | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
@@ -207,49 +223,49 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk, Nate Ruess | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4VC5nFbYO4avKksJ9jN4pY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="" width="50" /> | What About Us | Beautiful Trauma | P!nk | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | Hustle | Hurts 2B Human | P!nk | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/6BVmygBQhe4pTZQgKkzstD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Aha! | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/5AspukpHyZuTciR17YPSrS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Show You How to Love | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0jExzGwfnZ1vTuCVB7w3vM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Somebody That I Used to Know | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Starships | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/28KAxjOTAnnGjGpC2Qx8gn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | The Baddest Girl | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/3tKAuyZm1eLdmkZekqezic) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | We Are Young | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/5mMoySkxdUWlTw6X2l4egi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | Carol of the Bells | PTXmas (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4cJhiux4xzrdgSHUeAjP48) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | O Come, O Come Emmanuel | PTXmas (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4eKD9QhFqvwA4ilUAkQAbI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | The Christmas Song (Chestnuts Roasting on an Open Fire) | PTXmas (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/3M2xVmqG5GgthkaRJBntBk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Daft Punk | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Hey Momma / Hit the Road Jack | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2wUZek0zWyw5mGKoT8mRcG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | I Need Your Love | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/11tQS3cthRT6guY7WkTypx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Love Again | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0vcyzDe6aoYTg6jM0U0T9r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Natural Disaster | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/04nemEju86ULMJ1iy6EAsF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Run to You | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1bukNCD9JEwNp235Ov0iZH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Valentine | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/5djjmpqAOlne6d5RSHQmvu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | Radioactive | PTX | [Pentatonix](../../artists/pentatonix), Lindsey Stirling | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | Say Something | PTX | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2SrJ0Iw6GobiRGyh2XKZhV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/6fOqEAXCwboCO4BdzbZG1K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix), Lindsey Stirling | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4LeTorR5FyWgxM3zZI7Qii) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Rather Be (Clean Bandit Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4hxemf0pE0mSzubgsfRLWu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | See Through | PTX, Vol. III | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/6UNqsxeupIqwNds2oSDYnY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Standing By | PTX, Vol. III | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2ZtMNYog671T0UFfp0hhWq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Can't Sleep Love | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/1klGbW5a9qTBFUjFfddbmU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Can't Sleep Love (feat. Tink) | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix), Tink | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1GXFYdKM6MNrogE2PacpKe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | If I Ever Fall In Love (feat. Jason Derulo) | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix), Jason Derulo | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/3vaWsG3oKZt0bSra2p5c5R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Na Na Na | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/6v08G3CGcoyiODIWZoOxR4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | It's the Most Wonderful Time of the Year | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4DXJt41B9ZPh3UmxiPkBT0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Mary, Did You Know? | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Sleigh Ride | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0ErjxyZ4qHQVs5umCBIClk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Can't Help Falling In Love | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1xKScU3i8ho0OIhNoC5YW9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1UaTmLT3nB1sNBfv1hkqU1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Over The Rainbow | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/7MefjVBQqdV6XRXBlWejTQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | Hallelujah | A Pentatonix Christmas Deluxe | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Attention | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Finesse | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4GfCvy3t1u4lMAFldhB7EF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Havana | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/0wkiCJqCtI8keITfZ642jg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Rockin' Around the Christmas Tree | Christmas Is Here! | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/3Fu6XvAT5yjzO8GMcvuM1s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Sweater Weather | Christmas Is Here! | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/50YYe94G19kWVyhzdEXxki) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence | The Sound of Silence | [Pentatonix](../../artists/pentatonix) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Aha! | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/5AspukpHyZuTciR17YPSrS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Show You How to Love | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0jExzGwfnZ1vTuCVB7w3vM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Somebody That I Used to Know | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | Starships | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/28KAxjOTAnnGjGpC2Qx8gn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | The Baddest Girl | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/3tKAuyZm1eLdmkZekqezic) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | We Are Young | PTX, Vol. 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/5mMoySkxdUWlTw6X2l4egi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | Carol of the Bells | PTXmas (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4cJhiux4xzrdgSHUeAjP48) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | O Come, O Come Emmanuel | PTXmas (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4eKD9QhFqvwA4ilUAkQAbI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | The Christmas Song (Chestnuts Roasting on an Open Fire) | PTXmas (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/3M2xVmqG5GgthkaRJBntBk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Daft Punk | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Hey Momma / Hit the Road Jack | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2wUZek0zWyw5mGKoT8mRcG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | I Need Your Love | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/11tQS3cthRT6guY7WkTypx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Love Again | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0vcyzDe6aoYTg6jM0U0T9r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Natural Disaster | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/04nemEju86ULMJ1iy6EAsF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Run to You | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1bukNCD9JEwNp235Ov0iZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Valentine | PTX, Vol. 2 | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/5djjmpqAOlne6d5RSHQmvu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | Radioactive | PTX | [Pentatonix](../../artists/pentatonix/overview.md), Lindsey Stirling | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | Say Something | PTX | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2SrJ0Iw6GobiRGyh2XKZhV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/6fOqEAXCwboCO4BdzbZG1K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md), Lindsey Stirling | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4LeTorR5FyWgxM3zZI7Qii) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Rather Be (Clean Bandit Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4hxemf0pE0mSzubgsfRLWu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | See Through | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/6UNqsxeupIqwNds2oSDYnY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Standing By | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2ZtMNYog671T0UFfp0hhWq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Can't Sleep Love | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/1klGbW5a9qTBFUjFfddbmU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Can't Sleep Love (feat. Tink) | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix/overview.md), Tink | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1GXFYdKM6MNrogE2PacpKe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | If I Ever Fall In Love (feat. Jason Derulo) | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix/overview.md), Jason Derulo | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/3vaWsG3oKZt0bSra2p5c5R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Na Na Na | Pentatonix (Deluxe Version) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/6v08G3CGcoyiODIWZoOxR4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | It's the Most Wonderful Time of the Year | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4DXJt41B9ZPh3UmxiPkBT0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Mary, Did You Know? | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Sleigh Ride | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0ErjxyZ4qHQVs5umCBIClk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Can't Help Falling In Love | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1xKScU3i8ho0OIhNoC5YW9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/1UaTmLT3nB1sNBfv1hkqU1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Over The Rainbow | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/7MefjVBQqdV6XRXBlWejTQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | Hallelujah | A Pentatonix Christmas Deluxe | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Attention | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Finesse | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/4GfCvy3t1u4lMAFldhB7EF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Havana | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/0wkiCJqCtI8keITfZ642jg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Rockin' Around the Christmas Tree | Christmas Is Here! | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/3Fu6XvAT5yjzO8GMcvuM1s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Sweater Weather | Christmas Is Here! | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/50YYe94G19kWVyhzdEXxki) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence | The Sound of Silence | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Big Girls Cry | 1000 Forms Of Fear (Deluxe Version) | Sia | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/7zE6pyXLjUCOy8PG0UL5SZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Chandelier | 1000 Forms Of Fear (Deluxe Version) | Sia | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Elastic Heart | 1000 Forms Of Fear (Deluxe Version) | Sia | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) |
@@ -264,3 +280,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Lion Sleeps Tonight (Wimoweh) | Wimoweh!!! - The Best Of The Tokens | The Tokens | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Say My Name | Sway | Tove Styrke | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2XDJzMW1MUWeAIQoMOJeUj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J) | I Don't Mind (feat. Juicy J) | Usher, Juicy J | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |
+
+</details>
+

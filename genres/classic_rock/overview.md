@@ -1,53 +1,50 @@
 # classic rock
 
-[120 songs](tracks.md)
+[117 songs](tracks.md)
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 23 | 15 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
+| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
+
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 23 | 15 | [Billy Joel](../../artists/billy_joel) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../../artists/queen) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
-| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
-| <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 2 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | 1 | 1 | Steve Miller Band | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | 1 | 1 | Foreigner | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | 1 | 1 | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 
 </details>
 
 
-![Bar chart of top 26 artists](../../images/genres/classic_rock/artists.png)
+![Bar chart of top 24 artists](../../images/genres/classic_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/classic_rock/artists_comparison.png)
 ## Top Albums
-
-
-<details>
-<summary>See all 76 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -61,6 +58,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 2 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 0 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
+
+
+<details>
+<summary>See all 74 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | 2 | 2 | News Of The World | 1977-10-28 | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 2 | 2 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
@@ -71,7 +75,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | 2 | 1 | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | 2 | 1 | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 1 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 2 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | 1 | 1 | With The Beatles (Remastered) | 1963-11-22 | [🔗](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) |
@@ -117,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | 1 | 0 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
@@ -135,38 +137,39 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 33 | 23 | [Columbia](../../labels/columbia/overview.md) |
+| 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 14 | 11 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+| 13 | 5 | [Rhino](../../labels/rhino/overview.md) |
+| 11 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
+| 5 | 3 | [Legacy](../../labels/legacy/overview.md) |
+| 3 | 3 | Geffen |
+| 3 | 2 | Elektra |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
+
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 19 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 33 | 23 | [Columbia](../../labels/columbia) |
-| 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue) |
-| 14 | 11 | [Hollywood Records](../../labels/hollywood_records) |
-| 13 | 5 | [Rhino](../../labels/rhino) |
-| 11 | 4 | [Warner Records](../../labels/warner_records) |
-| 7 | 3 | [Legacy](../../labels/legacy) |
-| 4 | 1 | [Epic](../../labels/epic) |
-| 3 | 3 | Geffen |
-| 3 | 2 | Elektra |
-| 3 | 0 | [Atlantic Records](../../labels/atlantic_records) |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
-| 2 | 2 | [Polydor Records](../../labels/polydor_records) |
 | 2 | 2 | ABKCO Music and Records |
 | 2 | 2 | A&M |
-| 2 | 0 | RCA Victor |
-| 2 | 0 | Ode |
-| 2 | 0 | Legacy Recordings |
+| 2 | 1 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | Rhino Atlantic |
 | 1 | 1 | CAPITOL CATALOG MKT (C92) |
 | 1 | 1 | American Recordings Catalog P&D |
-| 1 | 0 | [Capitol Records](../../labels/capitol_records) |
+| 3 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 2 | 0 | RCA Victor |
+| 2 | 0 | Legacy Recordings |
 
 </details>
 
 
-![Bar chart of top 21 record labels](../../images/genres/classic_rock/labels.png)
+![Bar chart of top 19 record labels](../../images/genres/classic_rock/labels.png)
 
 ## Years
 
@@ -174,16 +177,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> <span style="padding-left:10px;">The Ultimate Collection (2017-02-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="Please Please Me (Remastered)" width="50" /> <span style="padding-left:10px;">Please Please Me (Remastered) (1963-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> <span style="padding-left:10px;">The Essential Van Morrison (2015-12-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">With The Beatles (Remastered) (1963-11-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> <span style="padding-left:10px;">1 (Remastered) (2000-11-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> <span style="padding-left:10px;">River Of Dreams (1993-08-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> <span style="padding-left:10px;">Good Vibrations (1993)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="Innuendo" width="50" /> <span style="padding-left:10px;">Innuendo (1991-02-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="Luck Of The Draw" width="50" /> <span style="padding-left:10px;">Luck Of The Draw (1991-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> <span style="padding-left:10px;">My Generation (Stereo Version) (1965-12-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> <span style="padding-left:10px;">Shake Your Money Maker (1990-02-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> <span style="padding-left:10px;">Rubber Soul (Remastered) (1965-12-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> <span style="padding-left:10px;">Storm Front (1989-10-17)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> <span style="padding-left:10px;">Aftermath (1966-04-15)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Graceland (25th Anniversary Deluxe Edition) (1986-08-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> <span style="padding-left:10px;">Revolver (Remastered) (1966-08-05)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> <span>The Ultimate Collection (2017-02-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="Please Please Me (Remastered)" width="50" /> <span>Please Please Me (Remastered) (1963-03-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> <span>The Essential Van Morrison (2015-12-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span>With The Beatles (Remastered) (1963-11-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> <span>1 (Remastered) (2000-11-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span>A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> <span>River Of Dreams (1993-08-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span>Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> <span>Good Vibrations (1993)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span>Out Of Our Heads (1965-07-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="Innuendo" width="50" /> <span>Innuendo (1991-02-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> <span>Shake Your Money Maker (1990-02-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> <span>Rubber Soul (Remastered) (1965-12-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> <span>Storm Front (1989-10-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> <span>My Generation (Stereo Version) (1965-12-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> <span>Graceland (25th Anniversary Deluxe Edition) (1986-08-12)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> <span>Aftermath (1966-04-15)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> <span>The Bridge (1986-07-28)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> <span>Revolver (Remastered) (1966-08-05)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -206,11 +209,11 @@
 | Go Your Own Way - 2004 Remaster (0.941) | And So It Goes (0.0871) |
 | Immigrant Song - Remaster (0.932) | Blackbird - Remastered 2009 (0.127) |
 | Any Way You Want It (0.932) | She's Got a Way (0.142) |
-| Scenes from an Italian Restaurant (0.931) | I Can't Make You Love Me (0.149) |
-| Movin' Out (Anthony's Song) (0.88) | Golden Slumbers - Remastered 2009 (0.152) |
-| The Stranger (0.878) | Lullabye (Goodnight, My Angel) (0.157) |
-| Cecilia (0.876) | Landslide (0.161) |
-| Only the Good Die Young (0.872) | So Far Away (0.172) |
+| Scenes from an Italian Restaurant (0.931) | Golden Slumbers - Remastered 2009 (0.152) |
+| Movin' Out (Anthony's Song) (0.88) | Lullabye (Goodnight, My Angel) (0.157) |
+| The Stranger (0.878) | Landslide (0.161) |
+| Cecilia (0.876) | Yesterday - Remastered 2009 (0.179) |
+| Only the Good Die Young (0.872) | Crazy Love - 2013 Remaster (0.188) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -234,9 +237,9 @@
 | Eleanor Rigby - Remastered 2009 (0.936) | Iron Man (0.00367) |
 | The Boxer (0.93) | Hotel California - 2013 Remaster (0.00574) |
 | And So It Goes (0.91) | The Chain - 2004 Remaster (0.009) |
-| So Far Away (0.897) | Walk This Way (0.0114) |
-| Landslide (0.883) | Oh! Darling - Remastered 2009 (0.0126) |
-| Yesterday - Remastered 2009 (0.879) | Immigrant Song - Remaster (0.013) |
+| Landslide (0.883) | Walk This Way (0.0114) |
+| Yesterday - Remastered 2009 (0.879) | Oh! Darling - Remastered 2009 (0.0126) |
+| Crazy Love (0.85) | Immigrant Song - Remaster (0.013) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -255,24 +258,24 @@
 |:---|:---|
 | Revolution 1 - Remastered 2009 (0.621) | Iron Man (0.0372) |
 | Get Back - Remastered 2009 (0.61) | The Chain - 2004 Remaster (0.0451) |
-| Uptown Girl (0.601) | I Feel the Earth Move (0.0528) |
-| I Am The Walrus - Remastered 2009 (0.589) | Smoke on the Water (0.0535) |
-| Don't Stop Me Now (0.558) | My Life (0.0555) |
-| Don't Stop Believin' (0.447) | Blackbird - Remastered 2009 (0.0573) |
-| Carry on Wayward Son (0.446) | Hotel California - 2013 Remaster (0.0575) |
-| Yellow Submarine - Remastered 2009 (0.438) | Won't Get Fooled Again - Remix (0.0584) |
-| Brown Eyed Girl (0.406) | Movin' Out (Anthony's Song) (0.0591) |
-| Paint It, Black (0.399) | The Boxer (0.0619) |
+| Uptown Girl (0.601) | Smoke on the Water (0.0535) |
+| I Am The Walrus - Remastered 2009 (0.589) | My Life (0.0555) |
+| Don't Stop Me Now (0.558) | Blackbird - Remastered 2009 (0.0573) |
+| Don't Stop Believin' (0.447) | Hotel California - 2013 Remaster (0.0575) |
+| Carry on Wayward Son (0.446) | Won't Get Fooled Again - Remix (0.0584) |
+| Yellow Submarine - Remastered 2009 (0.438) | Movin' Out (Anthony's Song) (0.0591) |
+| Brown Eyed Girl (0.406) | The Boxer (0.0619) |
+| Paint It, Black (0.399) | Good Old Fashioned Lover Boy (0.0638) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I'm a Believer - 2006 Remaster (0.962) | The Show Must Go On (0.109) |
-| Hard To Handle (0.961) | I Can't Make You Love Me (0.113) |
-| Cecilia (0.954) | Come Sail Away (0.141) |
-| (I Can't Get No) Satisfaction - Mono Version (0.931) | Baba O'Riley (0.15) |
-| Brown Eyed Girl (0.908) | Because - Remastered 2009 (0.162) |
-| All My Loving - Remastered 2009 (0.9) | Desperado - 2013 Remaster (0.18) |
-| Movin' Out (Anthony's Song) (0.895) | Come Together - Remastered 2009 (0.187) |
-| We Didn't Start the Fire (0.895) | We Are The Champions (0.189) |
-| Walk This Way (0.894) | New York State of Mind (0.194) |
-| Smoke on the Water (0.89) | She's Got a Way (0.196) |
+| Hard To Handle (0.961) | Come Sail Away (0.141) |
+| Cecilia (0.954) | Baba O'Riley (0.15) |
+| (I Can't Get No) Satisfaction - Mono Version (0.931) | Because - Remastered 2009 (0.162) |
+| Brown Eyed Girl (0.908) | Desperado - 2013 Remaster (0.18) |
+| All My Loving - Remastered 2009 (0.9) | Come Together - Remastered 2009 (0.187) |
+| Movin' Out (Anthony's Song) (0.895) | We Are The Champions (0.189) |
+| We Didn't Start the Fire (0.895) | New York State of Mind (0.194) |
+| Walk This Way (0.894) | She's Got a Way (0.196) |
+| Smoke on the Water (0.89) | Stairway to Heaven - Remaster (0.197) |

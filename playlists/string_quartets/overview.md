@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 15 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 95 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
@@ -23,6 +19,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | 12 | 0 | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 11 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
 | <img src="https://i.scdn.co/image/f1cd0eea7fb3b75bfad16a10af1dc0dd0763efba" alt="" width="50" /> | 8 | 0 | Antonín Dvořák | [🔗](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF) |
+
+
+<details>
+<summary>See all 15 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 8 | 0 | Veronika Hagen | [🔗](https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP) |
 | <img src="https://i.scdn.co/image/c957a30bcf3b3dcb7b8e3d0dd467837b5cc705ec" alt="" width="50" /> | 4 | 0 | Leon Fleisher | [🔗](https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy) |
 | <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 4 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
@@ -38,10 +41,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 8 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
@@ -53,33 +52,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 8 | 0 | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | 2018-01-19 | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | 8 | 0 | Debussy & Ravel: String Quartets | 2018-05-25 | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
 
-</details>
-
-
 ![Bar chart of top 8 albums](../../images/playlists/string_quartets/albums.png)
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 3 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 151 | 0 | [harmonia mundi](../../labels/harmonia_mundi) |
-| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
-| 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records) |
-
-</details>
-
+| 151 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
+| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records/overview.md) |
 
 ![Bar chart of top 3 record labels](../../images/playlists/string_quartets/labels.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -93,14 +78,20 @@
 | 11 | 0 | lullaby |
 | 8 | 0 | post-romantic era |
 | 8 | 0 | impressionism |
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 8 | 0 | czech classical |
 | 4 | 0 | neoclassicism |
-| 4 | 0 | early modern classical |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/playlists/string_quartets/genres.png)
+![Bar chart of top 12 genres](../../images/playlists/string_quartets/genres.png)
 
 ## Years
 
@@ -125,14 +116,14 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy & Ravel: String Quartets" width="50" /> <span style="padding-left:10px;">Debussy & Ravel: String Quartets (2018-05-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11" width="50" /> <span style="padding-left:10px;">Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48" width="50" /> <span style="padding-left:10px;">Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> <span style="padding-left:10px;">Brahms: String Quartets & Piano Quintet (2007-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> <span style="padding-left:10px;">Beethoven: String Quartets, Op. 18 (2015-08-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="Haydn: String Quartets" width="50" /> <span style="padding-left:10px;">Haydn: String Quartets (2008-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="Mozart: String Quartets Nos. 4, 17 & 22" width="50" /> <span style="padding-left:10px;">Mozart: String Quartets Nos. 4, 17 & 22 (2011-02-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> <span style="padding-left:10px;">Beethoven: Complete String Quartets (2010-10-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> <span style="padding-left:10px;">Beethoven: Complete String Quartets (2010-10-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="Mozart: String Quartets Nos. 4, 17 & 22" width="50" /> <span style="padding-left:10px;">Mozart: String Quartets Nos. 4, 17 & 22 (2011-02-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="Haydn: String Quartets" width="50" /> <span style="padding-left:10px;">Haydn: String Quartets (2008-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> <span style="padding-left:10px;">Beethoven: String Quartets, Op. 18 (2015-08-31)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> <span style="padding-left:10px;">Brahms: String Quartets & Piano Quintet (2007-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48" width="50" /> <span style="padding-left:10px;">Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11" width="50" /> <span style="padding-left:10px;">Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy & Ravel: String Quartets" width="50" /> <span style="padding-left:10px;">Debussy & Ravel: String Quartets (2018-05-25)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy & Ravel: String Quartets" width="50" /> <span>Debussy & Ravel: String Quartets (2018-05-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11" width="50" /> <span>Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48" width="50" /> <span>Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> <span>Brahms: String Quartets & Piano Quintet (2007-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> <span>Beethoven: String Quartets, Op. 18 (2015-08-31)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="Haydn: String Quartets" width="50" /> <span>Haydn: String Quartets (2008-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="Mozart: String Quartets Nos. 4, 17 & 22" width="50" /> <span>Mozart: String Quartets Nos. 4, 17 & 22 (2011-02-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> <span>Beethoven: Complete String Quartets (2010-10-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> <span>Beethoven: Complete String Quartets (2010-10-12)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="Mozart: String Quartets Nos. 4, 17 & 22" width="50" /> <span>Mozart: String Quartets Nos. 4, 17 & 22 (2011-02-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="Haydn: String Quartets" width="50" /> <span>Haydn: String Quartets (2008-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> <span>Beethoven: String Quartets, Op. 18 (2015-08-31)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> <span>Brahms: String Quartets & Piano Quintet (2007-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48" width="50" /> <span>Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11" width="50" /> <span>Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy & Ravel: String Quartets" width="50" /> <span>Debussy & Ravel: String Quartets (2018-05-25)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

@@ -9,22 +9,25 @@ Appears as:
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 13 | 12 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | 1 | 1 | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 3 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 1 | 0 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 0 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb41e4a3b8c1d45a9e49b6de21" alt="" width="50" /> | 1 | 0 | Marshmello | [🔗](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
+
 
 <details>
 <summary>See all 15 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 13 | 12 | [Rihanna](../../artists/rihanna) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 3 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | 1 | 1 | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 1 | 0 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 0 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb41e4a3b8c1d45a9e49b6de21" alt="" width="50" /> | 1 | 0 | Marshmello | [🔗](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7" alt="" width="50" /> | 1 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 1 | 0 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 0 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
@@ -38,10 +41,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 12 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 4 | 3 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
@@ -54,6 +53,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="" width="50" /> | 1 | 0 | Everybody | 2017-05-05 | [🔗](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | 1 | 0 | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
+
+
+<details>
+<summary>See all 12 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | 1 | 0 | Confessions of a Dangerous Mind | 2019-05-10 | [🔗](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | 1 | 0 | Bobby Tarantino II | 2018-03-09 | [🔗](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) |
 
@@ -64,33 +70,35 @@ Appears as:
 
 ## Genres
 
-
-<details>
-<summary>See all 16 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 13 | [pop](../../genres/pop) |
+| 14 | 13 | [pop](../../genres/pop/overview.md) |
 | 13 | 12 | urban contemporary |
+| 13 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
 | 13 | 12 | barbadian pop |
-| 5 | 0 | rap |
-| 5 | 0 | pop rap |
+| 1 | 1 | canadian pop |
+| 4 | 0 | rap |
+| 4 | 0 | pop rap |
 | 4 | 0 | hip hop |
 | 3 | 0 | dmv rap |
 | 3 | 0 | conscious hip hop |
-| 1 | 1 | canadian pop |
+
+
+<details>
+<summary>See all 15 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 1 | 0 | trap |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | rap latina |
-| 1 | 0 | [r&b](../../genres/r_b) |
-| 1 | 0 | pop r&b |
-| 1 | 0 | gangster rap |
+| 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 16 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 15 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Tracks released under Def Jam Recordings
 
@@ -102,16 +110,26 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="" width="50" /> | 1-800-273-8255 | Everybody | Logic, Alessia Cara, Khalid | [Def Jam Recordings](.) | | [🔗](https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | Everyday | Bobby Tarantino II | Logic, Marshmello | [Def Jam Recordings](.) | | [🔗](https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | Homicide (feat. Eminem) | Confessions of a Dangerous Mind | Logic, Eminem | [Def Jam Recordings](.) | | [🔗](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Don't Stop The Music | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Take A Bow | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Umbrella | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna), JAY-Z | [Def Jam Recordings](.) | | [🔗](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rude Boy | Rated R | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Only Girl (In The World) | Loud | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/1VDXQhu7YGdbM6UeEIfsaX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | S&M | Loud | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | We Found Love | Talk That Talk | [Rihanna](../../artists/rihanna), Calvin Harris | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Half Of Me | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna), Mikky Ekko | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Don't Stop The Music | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Take A Bow | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Umbrella | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna/overview.md), JAY-Z | [Def Jam Recordings](.) | | [🔗](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rude Boy | Rated R | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Only Girl (In The World) | Loud | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/1VDXQhu7YGdbM6UeEIfsaX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | S&M | Loud | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | We Found Love | Talk That Talk | [Rihanna](../../artists/rihanna/overview.md), Calvin Harris | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Half Of Me | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md), Mikky Ekko | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
+
+</details>
+

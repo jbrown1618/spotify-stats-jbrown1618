@@ -11,14 +11,10 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 31 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 15 | 10 | [Ariana Grande](../../artists/ariana_grande) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | 13 | 5 | [(G)I-DLE](../../artists/_g_i_dle) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 15 | 10 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | 13 | 5 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | 5 | 5 | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | 4 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 3 | 3 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
@@ -27,24 +23,31 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | 2 | 2 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
+
+
+<details>
+<summary>See all 31 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | 1 | 1 | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb548445341ba5aa2ddcd35c87" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | 1 | 1 | [ENHYPEN](../../artists/enhypen) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | 1 | 1 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | 1 | 1 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | 1 | 1 | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb647fab97373c312883077e79" alt="" width="50" /> | 1 | 1 | Gaeko | [🔗](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 1 | 1 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 1 | 1 | [STAYC](../../artists/stayc) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 1 | 1 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313023e6f4e0e2264338eeb14" alt="" width="50" /> | 1 | 0 | Liz Gillies | [🔗](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | 1 | 0 | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | 1 | 0 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa9e8d56241a48b8f6422b2" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 0 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | 1 | 0 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
@@ -55,10 +58,6 @@ Appears as:
 ![Bar chart of top 30 artists](../../images/labels/universal_music_llc/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -72,6 +71,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | 2 | 2 | LOVE or TAKE | 2021-03-15 | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | 2 | 2 | A Page | 2021-05-13 | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | 2 | 1 | love you more, | 2022-08-25 | [🔗](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) |
+
+
+<details>
+<summary>See all 37 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | 2 | 1 | HELICOPTER | 2020-09-02 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | 2 | 0 | Christmas Kisses | 2013-01-01 | [🔗](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 1 | 1 | 潜潜話 | 2019-10-29 | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
@@ -107,77 +113,82 @@ Appears as:
 
 ## Genres
 
-
-<details>
-<summary>See all 26 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 33 | 19 | [k-pop](../../genres/k_pop) |
-| 18 | 8 | [k-pop girl group](../../genres/k_pop_girl_group) |
-| 16 | 11 | [pop](../../genres/pop) |
-| 16 | 11 | [dance pop](../../genres/dance_pop) |
-| 6 | 4 | [k-pop boy group](../../genres/k_pop_boy_group) |
+| 30 | 17 | [k-pop](../../genres/k_pop/overview.md) |
+| 17 | 11 | [pop](../../genres/pop/overview.md) |
+| 18 | 8 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 6 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 3 | j-pop |
 | 4 | 3 | deep indie singer-songwriter |
 | 3 | 2 | korean city pop |
 | 3 | 2 | k-indie |
 | 2 | 2 | shibuya-kei |
 | 2 | 2 | japanese electropop |
+
+
+<details>
+<summary>See all 21 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 2 | 2 | j-pop girl group |
 | 2 | 2 | j-idol |
+| 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | bitpop |
 | 2 | 1 | anime |
 | 1 | 1 | uk pop |
-| 1 | 1 | [post-teen pop](../../genres/post_teen_pop) |
-| 1 | 1 | pop rap |
+| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | metropopolis |
-| 1 | 1 | [lounge](../../genres/lounge) |
-| 1 | 1 | [korean r&b](../../genres/korean_r_b) |
+| 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | japanese teen pop |
 | 1 | 1 | indietronica |
-| 1 | 1 | [electropop](../../genres/electropop) |
-| 1 | 1 | edm |
-| 1 | 1 | [adult standards](../../genres/adult_standards) |
 
 </details>
 
 
-![Bar chart of top 26 genres](../../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 21 genres](../../images/labels/universal_music_llc/genres.png)
 
 ## Tracks released under Universal Music LLC
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | LION | I trust | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Luv U | I trust | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god - English Version | I trust | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA - English Ver. | LATATA (English Ver.) | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND | i'M THE TREND | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | I burn | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | I burn | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | LOST | I burn | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | MOON | I burn | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/3uOeutrLztSX6lU0b0et3B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA - English Version | HWAA | [(G)I-DLE](../../artists/_g_i_dle) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/5OdnfBqdFDpew4yKwfgZQu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Last Christmas | Christmas Kisses | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | | [🔗](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Santa Baby | Christmas Kisses | [Ariana Grande](../../artists/ariana_grande), Liz Gillies | [Universal Records](.) | | [🔗](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Baby I | Yours Truly | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Honeymoon Avenue | Yours Truly | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Break Free | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande), Zedd | [Universal Records](.) | | [🔗](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | One Last Time | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande), Iggy Azalea | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | Focus | Focus | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Greedy | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | | [🔗](https://open.spotify.com/track/1FFUXkoWIc9of8yOscGiaC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Into You | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Side To Side | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande), Nicki Minaj | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | LION | I trust | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Luv U | I trust | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god - English Version | I trust | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA - English Ver. | LATATA (English Ver.) | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND | i'M THE TREND | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | I burn | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | I burn | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | LOST | I burn | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | MOON | I burn | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/3uOeutrLztSX6lU0b0et3B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA - English Version | HWAA | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/5OdnfBqdFDpew4yKwfgZQu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Last Christmas | Christmas Kisses | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | | [🔗](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Santa Baby | Christmas Kisses | [Ariana Grande](../../artists/ariana_grande/overview.md), Liz Gillies | [Universal Records](.) | | [🔗](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Baby I | Yours Truly | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Honeymoon Avenue | Yours Truly | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Break Free | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande/overview.md), Zedd | [Universal Records](.) | | [🔗](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | One Last Time | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](../../artists/ariana_grande/overview.md), Iggy Azalea | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | Focus | Focus | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Greedy | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | | [🔗](https://open.spotify.com/track/1FFUXkoWIc9of8yOscGiaC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Into You | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Side To Side | Dangerous Woman | [Ariana Grande](../../artists/ariana_grande/overview.md), Nicki Minaj | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739cbfec319f493499b31fba46" alt="" width="50" /> | Outsider | 4U : OUTSIDE | BTOB | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | Stay Gold | MAP OF THE SOUL : 7 ~ THE JOURNEY ~ | [BTS](../../artists/bts) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/3Ys2PYl1wyPKQIwyqhP9cQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | Stay Gold | MAP OF THE SOUL : 7 ~ THE JOURNEY ~ | [BTS](../../artists/bts/overview.md) | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/3Ys2PYl1wyPKQIwyqhP9cQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil | Devil | CLC | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | CLC | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER - English Version | HELICOPTER | CLC | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/3yHAVLtQy5ppBbuTUUhrlu) |
@@ -187,14 +198,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers | Beatrix Runs | Elizaveta | [Universal Records](.) | | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo | Beatrix Runs | Elizaveta | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding | FSF, [Republic Records](../republic_records), [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always | Always | [ENHYPEN](../../artists/enhypen) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always | Always | [ENHYPEN](../../artists/enhypen/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | 死ぬのがいいわ | HELP EVER HURT NEVER | Fujii Kaze | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | JEON SOYEON | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Is this bad b****** number? | Windy | JEON SOYEON, [BIBI](../../artists/bibi), Lee Young Ji | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Is this bad b****** number? | Windy | JEON SOYEON, [BIBI](../../artists/bibi/overview.md), Lee Young Ji | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Psycho | Windy | JEON SOYEON | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Quit | Windy | JEON SOYEON | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/54y2W3EYYsSnyqL1rinbJb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Weather | Windy | JEON SOYEON | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/15ngHJXClzsYatjQxFVNUO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Bang Bang | My Everything (Deluxe) | Jessie J, [Ariana Grande](../../artists/ariana_grande), Nicki Minaj | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Bang Bang | My Everything (Deluxe) | Jessie J, [Ariana Grande](../../artists/ariana_grande/overview.md), Nicki Minaj | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me | Look At Me | Kawaguchi Yurina | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | Daisy | WE:TH | PENTAGON | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | Boy in time - HUI Solo | LOVE or TAKE | PENTAGON | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) |
@@ -202,8 +213,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | チョコレイト・ディスコ | GAME | Perfume | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3kFEX1OTRaZ5WfX3X42BQP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | だいじょばない | LEVEL3 | Perfume | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/24UeVxRQCinBJtTwWT1158) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit | Habit | SEKAI NO OWARI | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | Seth MacFarlane, [Sara Bareilles](../../artists/sara_bareilles) | [Fuzzy Door Productions/Universal](.) | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](../../artists/stayc) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | Seth MacFarlane, [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Fuzzy Door Productions/Universal](.) | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](../../artists/stayc/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり | さよならひとり | TAEMIN | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS | LEVIOSA | TRI.BE | [Universal Music Ltd.](.) | | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | Cherry On Top | Cherry On Top | YOUHA | [Universal Music Ltd.](.) | 💚 | [🔗](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) |
@@ -212,3 +223,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | YUQI | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | YUQI | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 脳裏上のクラッカー | 潜潜話 | ZUTOMAYO | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3FRU8JI3EK9G7hXSP3P4R8) |
+
+</details>
+

@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 12 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | 1 | 0 | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
+
+
+<details>
+<summary>See all 12 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
 | <img src="https://i.scdn.co/image/df5bb0e7652e77a8c259f269564ec4ee1eccd717" alt="" width="50" /> | 1 | 0 | Cindy Benson | [🔗](https://open.spotify.com/artist/0OIRFXSbEOgnGZXXccjvgt) |
 
@@ -33,37 +36,21 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 1 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 20 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
-
-</details>
-
 
 
 
 ## Genres
 
-
-<details>
-<summary>See all 5 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 0 | [show tunes](../../genres/show_tunes) |
-| 9 | 0 | [hollywood](../../genres/hollywood) |
 | 5 | 0 | west end |
-| 4 | 0 | [broadway](../../genres/broadway) |
 | 2 | 0 | movie tunes |
+| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 
-</details>
-
-
-![Bar chart of top 5 genres](../../images/labels/verve__adult_contemporary__mc/genres.png)
+![Bar chart of top 3 genres](../../images/labels/verve__adult_contemporary__mc/genres.png)
 
 ## Tracks released under Verve (Adult Contemporary) MC
 
@@ -79,6 +66,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Empty Chairs At Empty Tables | Les Misérables (Original Broadway Cast Recording) | David Bryant | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/6maepGvney4cfp1Ru3lJf3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Castle On A Cloud | Les Misérables (Original Broadway Cast Recording) | Donna Vivino | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/6Emg88gR3KBl21UAcCF5OU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | A Little Fall Of Rain | Les Misérables (Original Broadway Cast Recording) | Frances Ruffelle | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/4jS5Ho70Scjk6rucwTgaNe) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | On My Own | Les Misérables (Original Broadway Cast Recording) | Frances Ruffelle | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/0XLXG7LJ8jLMhHC5qH9rq6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | A Heart Full Of Love | Les Misérables (Original Broadway Cast Recording) | Judy Kuhn | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/1audfn0M2y51sgmKFHCxoC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | In My Life | Les Misérables (Original Broadway Cast Recording) | Judy Kuhn, Colm Wilkinson, David Bryant, Frances Ruffelle | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/14SBWK1wvWIvh82Fzv1LQG) |
@@ -89,3 +83,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Lovely Ladies | Les Misérables (Original Broadway Cast Recording) | Robert Billig | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/35QHqaQSfKROhcBJxgFlct) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Overture / Work Song | Les Misérables (Original Broadway Cast Recording) | Terrence Mann, Colm Wilkinson | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/1J9f8hnL1JpkzQwwDMhhx8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Stars | Les Misérables (Original Broadway Cast Recording) | Terrence Mann | [Verve (Adult Contemporary) MC](.) | | [🔗](https://open.spotify.com/track/7a0dC4TKvEGZMbyAQUuiex) |
+
+</details>
+

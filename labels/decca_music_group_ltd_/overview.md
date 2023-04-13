@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 26 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 205 | 0 | Vladimir Ashkenazy | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | 15 | 0 | Nikolai Korniev | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | 15 | 0 | St.Petersburg Chamber Choir | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | 7 | 0 | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
+
+
+<details>
+<summary>See all 26 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | 7 | 0 | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 7 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | 7 | 0 | John Birch | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
@@ -47,10 +50,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 11 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
@@ -63,6 +62,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | 7 | 0 | Fauré: Requiem; Pavane | 2008-01-01 | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | 6 | 0 | Mozart: The Piano Sonatas | 1981-01-01 | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
+
+
+<details>
+<summary>See all 11 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | 3 | 0 | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | 1989-01-01 | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
 
 </details>
@@ -71,10 +77,6 @@ Appears as:
 ![Bar chart of top 11 albums](../../images/labels/decca_music_group_ltd_/albums.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -88,6 +90,13 @@ Appears as:
 | 19 | 0 | early music |
 | 19 | 0 | baroque |
 | 18 | 0 | ukrainian classical |
+
+
+<details>
+<summary>See all 13 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 18 | 0 | russian romanticism |
 | 6 | 0 | lullaby |
 | 3 | 0 | impressionism |
@@ -111,6 +120,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Etude in A flat, Op. posth. " Méthode des méthodes " | Chopin: Polonaises | Frédéric Chopin, Vladimir Ashkenazy | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/13F1AunNkOPDFNx4qU45Yi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Etude in D flat, Op. posth. " Méthode des méthodes " | Chopin: Polonaises | Frédéric Chopin, Vladimir Ashkenazy | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/0banlptk443bq1tLPFcy0f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Etude in F minor, Op. posth. " Méthode des méthodes " | Chopin: Polonaises | Frédéric Chopin, Vladimir Ashkenazy | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/32nPG1lcFo1yMLAvxkqJMI) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Feuille d'album in E, Op. posth. | Chopin: Polonaises | Frédéric Chopin, Vladimir Ashkenazy | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/7kI2IrXahE6gVUIiRmQSLE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Fugue in A minor | Chopin: Polonaises | Frédéric Chopin, Vladimir Ashkenazy | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/31dHappgsBbViaFb5O26AD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | Galop Marquis | Chopin: Polonaises | Frédéric Chopin, Vladimir Ashkenazy | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/0CeyjRUCfoltQmSTVL1h3M) |
@@ -359,3 +375,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro | Mozart: The Piano Sonatas | Wolfgang Amadeus Mozart, András Schiff | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/6DpNJBEIlTzqVtbQ9S81kF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Piano Sonata No. 16 in C, K.545 "Sonata facile": 2. Andante | Mozart: The Piano Sonatas | Wolfgang Amadeus Mozart, András Schiff | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/3CCMQfAHmmBdpJCoHBdB7N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | Piano Sonata No. 16 in C, K.545 "Sonata facile": 3. Rondo (Allegro) | Mozart: The Piano Sonatas | Wolfgang Amadeus Mozart, András Schiff | [Decca Music Group Ltd.](.) | | [🔗](https://open.spotify.com/track/3qa2ofUV5Dex4LA4RRu5RJ) |
+
+</details>
+

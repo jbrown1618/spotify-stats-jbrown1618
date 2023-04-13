@@ -7,41 +7,23 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 3 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/b5b05560a51b368cca8b3420e4e3536586720aa8" alt="" width="50" /> | 39 | 0 | Barry Wordsworth | [🔗](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb72368972071bd5422a86268" alt="" width="50" /> | 39 | 0 | Orchestra Victoria | [🔗](https://open.spotify.com/artist/1bnC6eJzCumTgAB7tG1118) |
 | <img src="https://i.scdn.co/image/c12a6d385c87030706a0f36dd8798deb299c87a4" alt="" width="50" /> | 39 | 0 | Léo Delibes | [🔗](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT) |
 
-</details>
-
-
 ![Bar chart of top 3 artists](../../images/labels/australian_broadcasting_corp__abc_/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 1 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | 39 | 0 | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
 
-</details>
-
-
 
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -49,9 +31,6 @@ Appears as:
 | 39 | 0 | french romanticism |
 | 39 | 0 | french opera |
 | 39 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/labels/australian_broadcasting_corp__abc_/genres.png)
 
@@ -69,6 +48,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/3vOXRShwhxgj9vMWkrfN8T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/1q6d29hcZizG37UPMVIS1U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/6jij2emBEB4q33akGgatsD) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/1cMJc33SvSueWEnrARtgBc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/6EkMmjc72kp8fGLLF4mfJk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/0gzSe5NMK9hwG8WihEIFcY) |
@@ -98,3 +84,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/70rBuxJQAXaZZCNg19z8b6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/5At5yLByyzyylVctmoejzj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](.) | | [🔗](https://open.spotify.com/track/7Fxa6lAPC2Zem58LOOFgJc) |
+
+</details>
+

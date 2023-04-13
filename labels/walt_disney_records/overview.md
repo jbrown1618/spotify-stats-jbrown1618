@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 76 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | 19 | 0 | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6d80e2ed079cf1183ade19a" alt="" width="50" /> | 3 | 0 | Angela Lansbury | [🔗](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391802cd59c40ec47424e2635" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 | <img src="https://i.scdn.co/image/04b70356aa016a0b99be4b7402c8637e923cee93" alt="" width="50" /> | 2 | 0 | Paige O'Hara | [🔗](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM) |
+
+
+<details>
+<summary>See all 76 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Samuel E. Wright | [🔗](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21f0cc7dc3f69be76f6f7c11" alt="" width="50" /> | 2 | 0 | Joseph Williams | [🔗](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | 2 | 0 | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
@@ -97,10 +100,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 20 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | 5 | 0 | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
@@ -113,6 +112,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 3 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | 2 | 0 | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | 2 | 0 | The Jungle Book | 1997-01-01 | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
+
+
+<details>
+<summary>See all 20 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | 2 | 0 | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
@@ -131,21 +137,27 @@ Appears as:
 
 ## Genres
 
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 42 | 0 | movie tunes |
+| 4 | 0 | tagalog worship |
+| 2 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
+| 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 2 | 0 | hollywood |
+| 2 | 0 | europop |
+| 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
+| 2 | 0 | comic |
+| 2 | 0 | comedy |
+
 
 <details>
 <summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 39 | 0 | movie tunes |
-| 21 | 0 | [hollywood](../../genres/hollywood) |
-| 13 | 0 | [show tunes](../../genres/show_tunes) |
-| 4 | 0 | tagalog worship |
-| 2 | 0 | [post-teen pop](../../genres/post_teen_pop) |
-| 2 | 0 | [dance pop](../../genres/dance_pop) |
-| 2 | 0 | comedy |
-| 2 | 0 | [adult standards](../../genres/adult_standards) |
-| 1 | 0 | vocal jazz |
+| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
+| 1 | 0 | traditional blues |
 | 1 | 0 | swing |
 | 1 | 0 | soul |
 | 1 | 0 | roots rock |
@@ -153,18 +165,15 @@ Appears as:
 | 1 | 0 | piano blues |
 | 1 | 0 | nyc pop |
 | 1 | 0 | new orleans blues |
-| 1 | 0 | [lounge](../../genres/lounge) |
+| 1 | 0 | modern blues |
+| 1 | 0 | lounge |
 | 1 | 0 | louisiana blues |
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |
 | 1 | 0 | funk |
-| 1 | 0 | [folk rock](../../genres/folk_rock) |
-| 1 | 0 | country rock |
-| 1 | 0 | classic uk pop |
 | 1 | 0 | bubblegum pop |
-| 1 | 0 | [broadway](../../genres/broadway) |
-| 1 | 0 | blues rock |
 | 1 | 0 | blues |
+| 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 
 </details>
 
@@ -185,6 +194,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | The Bells of Notre Dame | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | David Ogden Stiers, Tony Jay, Paul Kandel, Chorus - The Hunchback Of Notre Dame | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/47Wo2LeGbzdZTdEFNRZXV0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | Mother Knows Best - From "Tangled"/Soundtrack Version | Tangled | Donna Murphy | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | I'll Make a Man Out of You | Mulan (Original Soundtrack) | Donny Osmond, Chorus - Mulan, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | Down in New Orleans | The Princess and the Frog (Original Motion Picture Soundtrack) | Dr. John | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/4tCdoXt7EiwZZhMevxmY8u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="" width="50" /> | Remember Me (Lullaby) | Coco (Original Motion Picture Soundtrack) | Gael Garcia Bernal, Gabriella Flores, Libertad García Fonzi | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/2cFGv8v5DcbJXHEdzouFne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | God Help the Outcasts | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | Heidi Mollenhauer, Chorus - The Hunchback Of Notre Dame | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) |
@@ -225,3 +241,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | Heaven's Light/Hellfire | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | Tony Jay, Tom Hulce, Chorus - The Hunchback Of Notre Dame | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/4rp9YObc6Q5xc6X1S8c7m9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | Out There | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | Tony Jay, Tom Hulce | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/7cX2nwvVfWW3bfScg2f15K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | Bibbidi-Bobbidi-Boo - From "Cinderella" Soundtrack | Songs and Story: Cinderella | Verna Felton | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/23Ypb2SLgeY2OQxfXHPKLN) |
+
+</details>
+

@@ -8,10 +8,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 7 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -22,16 +18,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 
-</details>
-
-
 ![Bar chart of top 7 artists](../../images/labels/syco_music/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 9 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -45,30 +34,20 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | 1 | 0 | All I Want for Christmas Is You | 2014-11-17 | [🔗](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 1 | 0 | 7/27 (Deluxe) | 2016-05-27 | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
 
-</details>
-
-
 ![Bar chart of top 9 albums](../../images/labels/syco_music/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 8 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 13 | 10 | [pop](../../genres/pop) |
-| 13 | 10 | [dance pop](../../genres/dance_pop) |
-| 12 | 9 | [post-teen pop](../../genres/post_teen_pop) |
+| 13 | 10 | [pop](../../genres/pop/overview.md) |
+| 12 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 4 | talent show |
+| 6 | 4 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 4 | girl group |
 | 3 | 3 | uk pop |
-| 1 | 1 | viral pop |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | canadian pop |
-
-</details>
-
 
 ![Bar chart of top 8 genres](../../images/labels/syco_music/genres.png)
 
@@ -86,6 +65,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Worth It (feat. Kid Ink) | Reflection (Deluxe) | Fifth Harmony, Kid Ink | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl | 7/27 (Deluxe) | Fifth Harmony | [Epic](../epic), [Syco Music](.) | | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute | Salute (Expanded Edition) | Little Mix | [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | Black Magic | Get Weird (Expanded Edition) | Little Mix | [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | Power | Glory Days (Expanded Edition) | Little Mix | [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, Camila Cabello | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+
+</details>
+

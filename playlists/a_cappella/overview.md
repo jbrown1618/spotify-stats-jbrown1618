@@ -7,19 +7,25 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 25 | 21 | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 3 | 2 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 32 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 20 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 16 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 12 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 9 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
+
 
 <details>
 <summary>See all 97 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 32 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 25 | 21 | [The Tarpeggios](../../artists/the_tarpeggios) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 20 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 16 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 12 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 9 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ff2431dd95126c10fdd23f6" alt="" width="50" /> | 9 | 0 | GQ | [🔗](https://open.spotify.com/artist/6JYedwPn7zEWlTSUda9mev) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | 9 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 9 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
@@ -35,7 +41,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb22e5cea0be00de88a4269bb8" alt="" width="50" /> | 4 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 4 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 4 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 3 | 2 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
@@ -49,8 +54,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | 2 | 0 | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | 2 | 0 | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | 2 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | 1 | 0 | Awaken A Cappella | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Shams Ahmed | [🔗](https://open.spotify.com/artist/7rIkgg1ozqQIezA7c8Khf4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc42cfb7142fafbbc60fa4491" alt="" width="50" /> | 1 | 0 | Pitches & Notes | [🔗](https://open.spotify.com/artist/7l6eX8dYXjmQnfF04Sr4Vh) |
@@ -59,7 +62,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | University of Wisconsin-Madison Fundamentally Sound | [🔗](https://open.spotify.com/artist/7f7ezoLEjOp1K0qDSosU80) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21e49fe089486042eea96c11" alt="" width="50" /> | 1 | 0 | Off The Beat | [🔗](https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | 1 | 0 | Anna Gilbert | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 1 | 0 | [Billy Joel](../../artists/billy_joel) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 1 | 0 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1918aa487034f94f448691f8" alt="" width="50" /> | 1 | 0 | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Roxorloops & Blady Kris | [🔗](https://open.spotify.com/artist/6HRJOlHBoo07WcZdXZAADI) |
@@ -88,7 +91,7 @@
 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | 1 | 0 | Hank Green | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6bffc5b4d567301e3706fc9" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
@@ -120,10 +123,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See top 100 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | 11 | 0 | Legendary Folk Songs | 2018-06-15 | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
@@ -136,6 +135,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | 7 | 0 | Legendary Covers, Vol. 1 | 2019 | [🔗](https://open.spotify.com/album/1tFypxtPJ5A61j97TRhWnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 6 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | 6 | 3 | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
+
+
+<details>
+<summary>See top 100 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | 6 | 0 | M | 2015-03-30 | [🔗](https://open.spotify.com/album/1B0XzLFo4XYh8QIwPRTdpR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | 6 | 0 | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="" width="50" /> | 6 | 0 | GQ | 2013-10-07 | [🔗](https://open.spotify.com/album/3Op25RElrVsFcte612zusf) |
@@ -234,22 +240,25 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 41 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
+| 9 | 8 | The Unc - Chapel Hill Tarpeggios |
+| 59 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
+| 32 | 0 | [A Cappella Records](../../labels/a_cappella_records/overview.md) |
+| 20 | 0 | [Peter Hollens](../../labels/peter_hollens/overview.md) |
+| 12 | 0 | [One Voice Productions](../../labels/one_voice_productions/overview.md) |
+| 12 | 0 | [Ithacappella](../../labels/ithacappella/overview.md) |
+| 9 | 0 | Option C Records |
+| 9 | 0 | Mosaic Whispers |
+
 
 <details>
 <summary>See all 37 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 59 | 0 | [Varsity Vocals](../../labels/varsity_vocals) |
-| 41 | 16 | [RCA Records Label](../../labels/rca_records_label) |
-| 32 | 0 | [A Cappella Records](../../labels/a_cappella_records) |
-| 20 | 0 | [Peter Hollens](../../labels/peter_hollens) |
-| 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios) |
-| 12 | 0 | [One Voice Productions](../../labels/one_voice_productions) |
-| 12 | 0 | [Ithacappella](../../labels/ithacappella) |
-| 9 | 8 | The Unc - Chapel Hill Tarpeggios |
-| 9 | 0 | Option C Records |
-| 9 | 0 | Mosaic Whispers |
 | 8 | 0 | Vanderbilt Melodores |
 | 8 | 0 | UNC Achordants |
 | 7 | 0 | Naked Voice Records |
@@ -261,8 +270,8 @@
 | 4 | 0 | 649668 Records DK2 |
 | 3 | 0 | The Sound Corporation |
 | 3 | 0 | The SoCal VoCals |
-| 3 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) |
-| 3 | 0 | [Sony Classical](../../labels/sony_classical) |
+| 3 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
+| 3 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
 | 2 | 0 | world village |
 | 2 | 0 | Voices Only A Cappella |
 | 2 | 0 | The University of Rochester Midnight Ramblers |
@@ -271,7 +280,7 @@
 | 2 | 0 | Signum Records |
 | 2 | 0 | Second Shift a Cappella |
 | 2 | 0 | RCA Victor |
-| 1 | 0 | [Warner Classics](../../labels/warner_classics) |
+| 1 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 1 | 0 | Universal Music Division Decca Records France |
 | 1 | 0 | Sonoton Music |
 | 1 | 0 | Signum OMP |
@@ -285,46 +294,52 @@
 
 ## Genres
 
-
-<details>
-<summary>See all 34 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 192 | 16 | [a cappella](../../genres/a_cappella) |
+| 82 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
+| 36 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 119 | 0 | college a cappella |
 | 32 | 0 | fantasy |
+| 16 | 0 | barbershop |
 | 11 | 0 | french jazz |
 | 8 | 0 | lds youth |
-| 7 | 0 | barbershop |
-| 5 | 0 | [post-teen pop](../../genres/post_teen_pop) |
 | 4 | 0 | puirt-a-beul |
 | 3 | 0 | vocal ensemble |
 | 3 | 0 | polyphony |
+
+
+<details>
+<summary>See all 37 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 3 | 0 | choral |
 | 3 | 0 | cambridge choir |
 | 3 | 0 | british choir |
-| 2 | 0 | [soft rock](../../genres/soft_rock) |
-| 2 | 0 | [singer-songwriter](../../genres/singer_songwriter) |
-| 2 | 0 | [rock](../../genres/rock) |
-| 2 | 0 | [mellow gold](../../genres/mellow_gold) |
-| 2 | 0 | [folk rock](../../genres/folk_rock) |
-| 2 | 0 | [classic rock](../../genres/classic_rock) |
+| 2 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
+| 2 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 2 | 0 | [rock](../../genres/rock/overview.md) |
+| 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 2 | 0 | lds |
+| 2 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 0 | christian a cappella |
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | sleep |
-| 1 | 0 | [show tunes](../../genres/show_tunes) |
-| 1 | 0 | roots rock |
 | 1 | 0 | renaissance |
 | 1 | 0 | piano rock |
 | 1 | 0 | permanent wave |
+| 1 | 0 | hengelliset laulut |
+| 1 | 0 | heartland rock |
+| 1 | 0 | gregorian chant |
 | 1 | 0 | franco-flemish school |
+| 1 | 0 | folk rock |
 | 1 | 0 | folk |
 | 1 | 0 | early music |
 | 1 | 0 | classical |
-| 1 | 0 | [broadway](../../genres/broadway) |
+| 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |
+| 1 | 0 | [album rock](../../genres/album_rock/overview.md) |
 
 </details>
 
@@ -370,16 +385,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="Homeward" width="50" /> <span style="padding-left:10px;">Homeward (2022-04-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="Anyone For Mozart, Bach, Handel, Vivaldi?" width="50" /> <span style="padding-left:10px;">Anyone For Mozart, Bach, Handel, Vivaldi? (1986-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="Immaterial" width="50" /> <span style="padding-left:10px;">Immaterial (2021-07-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="Around the World - A Folk Song Collection" width="50" /> <span style="padding-left:10px;">Around the World - A Folk Song Collection (1991-02-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="Ignite" width="50" /> <span style="padding-left:10px;">Ignite (2021-06-28)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> <span style="padding-left:10px;">Good Vibrations (1993)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="Storming The Castle" width="50" /> <span style="padding-left:10px;">Storming The Castle (2021-06-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="Circle Of Life" width="50" /> <span style="padding-left:10px;">Circle Of Life (1996-11-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> <span style="padding-left:10px;">BOCA 2021: Best of College A Cappella (2021-02-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="Against the Grain" width="50" /> <span style="padding-left:10px;">Against the Grain (2001-04-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="BOCA 2020: Best of College A Cappella" width="50" /> <span style="padding-left:10px;">BOCA 2020: Best of College A Cappella (2020-01-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> <span style="padding-left:10px;">BOCA 2004: Best Of College A Cappella (2004-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="bad guy" width="50" /> <span style="padding-left:10px;">bad guy (2019-12-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="Defrosted" width="50" /> <span style="padding-left:10px;">Defrosted (2004-04-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="Señorita" width="50" /> <span style="padding-left:10px;">Señorita (2019-12-02)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> <span style="padding-left:10px;">BOCA 2006: Best Of College A Cappella (2006-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="G Train" width="50" /> <span style="padding-left:10px;">G Train (2019-11-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> <span style="padding-left:10px;">Unwrapped (2006-09-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="Before He Cheats" width="50" /> <span style="padding-left:10px;">Before He Cheats (2019-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="Behind Bars" width="50" /> <span style="padding-left:10px;">Behind Bars (2007-02-21)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="Homeward" width="50" /> <span>Homeward (2022-04-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="Anyone For Mozart, Bach, Handel, Vivaldi?" width="50" /> <span>Anyone For Mozart, Bach, Handel, Vivaldi? (1986-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="Immaterial" width="50" /> <span>Immaterial (2021-07-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="Around the World - A Folk Song Collection" width="50" /> <span>Around the World - A Folk Song Collection (1991-02-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="Ignite" width="50" /> <span>Ignite (2021-06-28)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> <span>Good Vibrations (1993)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="Storming The Castle" width="50" /> <span>Storming The Castle (2021-06-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="Circle Of Life" width="50" /> <span>Circle Of Life (1996-11-08)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> <span>BOCA 2021: Best of College A Cappella (2021-02-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="Against the Grain" width="50" /> <span>Against the Grain (2001-04-24)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="BOCA 2020: Best of College A Cappella" width="50" /> <span>BOCA 2020: Best of College A Cappella (2020-01-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> <span>BOCA 2004: Best Of College A Cappella (2004-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="bad guy" width="50" /> <span>bad guy (2019-12-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="Defrosted" width="50" /> <span>Defrosted (2004-04-24)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="Señorita" width="50" /> <span>Señorita (2019-12-02)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> <span>BOCA 2006: Best Of College A Cappella (2006-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="G Train" width="50" /> <span>G Train (2019-11-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> <span>Unwrapped (2006-09-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="Before He Cheats" width="50" /> <span>Before He Cheats (2019-10-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="Behind Bars" width="50" /> <span>Behind Bars (2007-02-21)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

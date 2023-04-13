@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 5 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | 27 | 0 | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
@@ -19,50 +15,29 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | 3 | 0 | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
 
-</details>
-
-
 ![Bar chart of top 5 artists](../../images/playlists/rachmaninov/artists.png)
 
 
 
 ## Top Albums
 
-
-<details>
-<summary>See all 2 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 24 | 0 | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29 | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
 
-</details>
-
-
 
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 2 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 24 | 0 | [Naxos](../../labels/naxos) |
-| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
-
-</details>
-
+| 24 | 0 | [Naxos](../../labels/naxos/overview.md) |
+| 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
 
 
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -70,9 +45,6 @@
 | 27 | 0 | russian romanticism |
 | 27 | 0 | post-romantic era |
 | 27 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/playlists/rachmaninov/genres.png)
 
@@ -94,8 +66,8 @@
 
 | 5 newest albums | 5 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> <span style="padding-left:10px;">Rachmaninov: Piano Concerto No.2 (2012-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> <span style="padding-left:10px;">Rachmaninov: Preludes for Piano (Complete) (2007-05-29)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> <span style="padding-left:10px;">Rachmaninov: Preludes for Piano (Complete) (2007-05-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> <span style="padding-left:10px;">Rachmaninov: Piano Concerto No.2 (2012-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> <span>Rachmaninov: Piano Concerto No.2 (2012-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> <span>Rachmaninov: Preludes for Piano (Complete) (2007-05-29)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> <span>Rachmaninov: Preludes for Piano (Complete) (2007-05-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> <span>Rachmaninov: Piano Concerto No.2 (2012-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

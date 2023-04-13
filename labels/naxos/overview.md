@@ -7,40 +7,22 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 2 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/1b640748181bdba8cc37a0a6ee5148c27b374d4e" alt="" width="50" /> | 24 | 0 | Eldar Nebolsin | [🔗](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX) |
 | <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | 24 | 0 | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
 
-</details>
-
-
 
 
 ## Top Albums
-
-
-<details>
-<summary>See all 1 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 24 | 0 | Rachmaninov: Preludes for Piano (Complete) | 2007-05-29 | [🔗](https://open.spotify.com/album/1vlnwUAidj7bEmRhsq4zTv) |
 
-</details>
-
-
 
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -48,9 +30,6 @@ Appears as:
 | 24 | 0 | russian romanticism |
 | 24 | 0 | post-romantic era |
 | 24 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/labels/naxos/genres.png)
 
@@ -68,6 +47,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/1BKKpyRblOv1OWjZ0CcAWo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/3nJNmPeYs4buaULmYJ26X6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/5v2O3vGKHlmLVLqNKcOwCO) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/3I7u1AhIGc9XHKQIjb1ZBG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/6dclMhwb2xkTzcGFXYdUeQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/5RrWiz8zrTJCjHENxHTAJZ) |
@@ -82,3 +68,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/5BuaEWlAqAY71w10Q4Yd6B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/07EzJ4VrpLaQtTzKyOAH3w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="" width="50" /> | Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff, Eldar Nebolsin | [Naxos](.) | | [🔗](https://open.spotify.com/track/3jyko3okSMjZbIGdElSQN5) |
+
+</details>
+

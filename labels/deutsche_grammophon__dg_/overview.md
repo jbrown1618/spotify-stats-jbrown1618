@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 26 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 68 | 0 | Berliner Philharmoniker | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | 17 | 0 | Gustavo Dudamel | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | 17 | 0 | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
 | <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | 16 | 0 | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
+
+
+<details>
+<summary>See all 26 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | 16 | 0 | Emerson String Quartet | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
 | <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | 16 | 0 | Modest Mussorgsky | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
@@ -47,10 +50,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 9 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | 42 | 0 | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
@@ -63,20 +62,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | 7 | 0 | Holst: The Planets | 1981-01-01 | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | 4 | 0 | Chopin: Ballades; Barcarolle; Fantaisie | 1988-01-01 | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
 
-</details>
-
-
 ![Bar chart of top 9 albums](../../images/labels/deutsche_grammophon__dg_/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 12 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 145 | 0 | classical |
+| 161 | 0 | classical |
 | 95 | 0 | early romantic era |
 | 58 | 0 | german romanticism |
 | 53 | 0 | polish classical |
@@ -86,6 +78,13 @@ Appears as:
 | 26 | 0 | early modern classical |
 | 21 | 0 | russian modern classical |
 | 17 | 0 | russian romanticism |
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 7 | 0 | post-romantic era |
 | 7 | 0 | british modern classical |
 
@@ -108,6 +107,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | Ballade No. 3 In A-Flat Major, Op. 47 | Chopin: Ballades; Barcarolle; Fantaisie | Frédéric Chopin, Krystian Zimerman | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/0FBJ5Ctk5r4wlVJsFoV8Ta) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | Ballade No. 4 in F Minor, Op. 52 | Chopin: Ballades; Barcarolle; Fantaisie | Frédéric Chopin, Krystian Zimerman | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/1kVoL8Qst9UP3X902NWMo7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 1 in C Major | Chopin: Preludes; Sonata No.2 | Frédéric Chopin, Martha Argerich | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/5lBrZri8OR3UMqWjdof0E8) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 10 in C-Sharp Minor | Chopin: Preludes; Sonata No.2 | Frédéric Chopin, Martha Argerich | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/1QxIoxeq8WGmyiN8ZcbZGB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 11 in B Major | Chopin: Preludes; Sonata No.2 | Frédéric Chopin, Martha Argerich | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/7ctTTNs8nDbWRgd8j8vnck) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 12. in G-Sharp Minor | Chopin: Preludes; Sonata No.2 | Frédéric Chopin, Martha Argerich | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/0SB6a6YMfoGPVLD1Jgc1rn) |
@@ -259,3 +265,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua | Mussorgsky: Pictures At An Exhibition | Modest Mussorgsky, Wiener Philharmoniker, Gustavo Dudamel | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/3vUKiu1KUSA0a790dw8l2o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev | Mussorgsky: Pictures At An Exhibition | Modest Mussorgsky, Wiener Philharmoniker, Gustavo Dudamel | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/0LA9d83t4o38aoXfFRIwJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Swan Lake Suite, Op. 20a: II. Waltz | Mussorgsky: Pictures At An Exhibition | Pyotr Ilyich Tchaikovsky, Wiener Philharmoniker, Gustavo Dudamel | [Deutsche Grammophon (DG)](.) | | [🔗](https://open.spotify.com/track/0NOiSayyUFYnLllkTdFa1k) |
+
+</details>
+

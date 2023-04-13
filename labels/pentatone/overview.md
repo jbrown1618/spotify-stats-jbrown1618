@@ -8,41 +8,23 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 2 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 21 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
 | <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | 21 | 0 | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
 
-</details>
-
-
 
 
 ## Top Albums
-
-
-<details>
-<summary>See all 2 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | 12 | 0 | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
 
-</details>
-
-
 
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -50,9 +32,6 @@ Appears as:
 | 21 | 0 | early romantic era |
 | 21 | 0 | classical era |
 | 21 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/labels/pentatone/genres.png)
 
@@ -70,6 +49,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Piano Sonata No. 2 in A Major, Op. 2, No. 2: IV. Rondo: Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven, Mari Kodama | [PentaTone](.) | | [🔗](https://open.spotify.com/track/7FeVdrg9qHpIHhiJiuLcCG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Piano Sonata No. 3 in C Major, Op. 2, No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven, Mari Kodama | [PentaTone](.) | | [🔗](https://open.spotify.com/track/0bNUIIUQ9aKmG3Ud4h3XNn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Piano Sonata No. 3 in C Major, Op. 2, No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven, Mari Kodama | [PentaTone](.) | | [🔗](https://open.spotify.com/track/4K3Noa4kwVwxaulG5IRsK5) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Piano Sonata No. 3 in C Major, Op. 2, No. 3: III. Scherzo: Allegro - Trio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven, Mari Kodama | [PentaTone](.) | | [🔗](https://open.spotify.com/track/5Sm6qqdwaG8VbduSsEVyM6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | Piano Sonata No. 3 in C Major, Op. 2, No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven, Mari Kodama | [PentaTone](.) | | [🔗](https://open.spotify.com/track/3pZt5RCBnQty2KDduZaBJp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven, Mari Kodama | [PENTATONE](.) | | [🔗](https://open.spotify.com/track/71F3fMJkHuUf2IkiD39XEL) |
@@ -81,3 +67,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Fuga. Allegro ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven, Mari Kodama | [PENTATONE](.) | | [🔗](https://open.spotify.com/track/1YouGBZnQpMKL2W4hCloB0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven, Mari Kodama | [PENTATONE](.) | | [🔗](https://open.spotify.com/track/0DfiTn1LUUcaLHYMDofEv7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven, Mari Kodama | [PENTATONE](.) | | [🔗](https://open.spotify.com/track/0iPj8k5VLqsuBoysv972Bn) |
+
+</details>
+

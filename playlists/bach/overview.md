@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 4 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 55 | 0 | Johann Sebastian Bach | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
@@ -18,50 +14,29 @@
 | <img src="https://i.scdn.co/image/40eb3ffb36cd0c98ca76630260d09b0025be373d" alt="" width="50" /> | 19 | 0 | Benjamin Britten | [🔗](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd56134c89f7b5ccbd2a06ca1" alt="" width="50" /> | 19 | 0 | English Chamber Orchestra | [🔗](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) |
 
-</details>
-
-
 ![Bar chart of top 4 artists](../../images/playlists/bach/artists.png)
 
 
 
 ## Top Albums
 
-
-<details>
-<summary>See all 2 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | 36 | 0 | Bach: Unaccompanied Cello Suites (Remastered) | 1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | 19 | 0 | Bach, J.S.: Brandenburg Concertos etc. | 1995-01-01 | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
 
-</details>
-
-
 
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 2 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 36 | 0 | [Sony Classical](../../labels/sony_classical) |
-| 19 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
-
-</details>
-
+| 36 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
+| 19 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
 
 
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -69,9 +44,6 @@
 | 55 | 0 | early music |
 | 55 | 0 | classical |
 | 55 | 0 | baroque |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/playlists/bach/genres.png)
 
@@ -93,8 +65,8 @@
 
 | 5 newest albums | 5 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> <span style="padding-left:10px;">Bach, J.S.: Brandenburg Concertos etc. (1995-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> <span style="padding-left:10px;">Bach: Unaccompanied Cello Suites (Remastered) (1983)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> <span style="padding-left:10px;">Bach: Unaccompanied Cello Suites (Remastered) (1983)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> <span style="padding-left:10px;">Bach, J.S.: Brandenburg Concertos etc. (1995-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> <span>Bach, J.S.: Brandenburg Concertos etc. (1995-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> <span>Bach: Unaccompanied Cello Suites (Remastered) (1983)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> <span>Bach: Unaccompanied Cello Suites (Remastered) (1983)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> <span>Bach, J.S.: Brandenburg Concertos etc. (1995-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

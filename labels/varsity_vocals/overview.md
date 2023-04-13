@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 56 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | University Of Delaware Vocal Point | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 2 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fde41e3d8cc4859202436340" alt="" width="50" /> | 2 | 0 | Acappology | [🔗](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) |
+
+
+<details>
+<summary>See all 56 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736636b2b1728fb4848f73ff9c" alt="" width="50" /> | 2 | 0 | Tufts sQ! | [🔗](https://open.spotify.com/artist/21QIHECpmN2KwhpVhIWHpT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | 2 | 0 | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | 2 | 0 | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
@@ -53,7 +56,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb949d918aab8261c4a15d3ab3" alt="" width="50" /> | 1 | 0 | The Doo Wop Shop | [🔗](https://open.spotify.com/artist/3BKvJisNneE6cOuLuBHGpC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb205fd3a3b91de152e22a7078" alt="" width="50" /> | 1 | 0 | Mixed Emotions | [🔗](https://open.spotify.com/artist/2BoHcRUfryDNxa9HQxXSpr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | 1 | 0 | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
@@ -77,10 +80,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 15 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | 9 | 0 | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
@@ -93,6 +92,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 4 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | 3 | 0 | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | 3 | 0 | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
+
+
+<details>
+<summary>See all 15 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | 1 | 0 | BOCA 2020: Best of College A Cappella | 2020-01-08 | [🔗](https://open.spotify.com/album/3c4vODZeeDk38CVmjbUERt) |
@@ -106,21 +112,15 @@ Appears as:
 
 ## Genres
 
-
-<details>
-<summary>See all 4 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 44 | 0 | [a cappella](../../genres/a_cappella) |
 | 36 | 0 | college a cappella |
+| 18 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
+| 2 | 0 | lds |
 | 2 | 0 | christian a cappella |
 | 1 | 0 | lds youth |
 
-</details>
-
-
-![Bar chart of top 4 genres](../../images/labels/varsity_vocals/genres.png)
+![Bar chart of top 5 genres](../../images/labels/varsity_vocals/genres.png)
 
 ## Tracks released under Varsity Vocals
 
@@ -129,13 +129,20 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | Domino | BOCA 2014: Best Of College A Cappella | Academical Village People | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/3DKmS1wFIHh2fs2rLWnngc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | Gunpowder & Lead | BOCA 2012: Best Of College A Cappella | Acappology | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/4VULVdHqtgipHNPFnVRQ7D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | Latch | BOCA 2018: Best of College A Cappella | Acappology | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/4ohS1wfgFuaeePkvp0fbPL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](../../artists/sara_bareilles), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](../../artists/sara_bareilles/overview.md), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | Phoenix | BOCA 2012: Best Of College A Cappella | Brandeis VoiceMale | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0SD3F1HRCKtQNXy6B2zltD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/2IdhvVi0vsa8ELKURGlMzV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/4C4waD825wsfbZfQCxMmNn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Valerie | BOCA 2013: Best of College A Cappella | Decadence | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/18OOiO2QFVNYwixjqj1jks) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Talk Dirty | BOCA 2015: Best Of College A Cappella | Eight Beat Measure | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/5lFEOhTWJbqbI0MwWhiKKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Aha! | BOCA 2013: Best of College A Cappella | Florida State University All-Night Yahtzee | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/7Lx4TW1CMmHVP5ZiNGyi9H) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Sweater Weather | BOCA 2015: Best Of College A Cappella | Hullabahoos | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/1cV1Q5LrLF4NdLgp1XuRvw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | Hit 'Em Up Style | BOCA 2011: Best Of College A Cappella | Low Key | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/1vZFo0NkvmQPv08O4m11nU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="" width="50" /> | when the party's over | BOCA 2020: Best of College A Cappella | Mixed Emotions | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/5eXzpI6Y9OJRfJFu9jr4q4) |
@@ -185,3 +192,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Smooth Criminal | BOCA 2013: Best of College A Cappella | University of Wisconsin-Madison Fundamentally Sound | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/7kxwqVLwWMbkZKqm0GykBY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | She Used to Be Mine | BOCA 2018: Best of College A Cappella | Upper Structure | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/6jcJMJ6CcYPzPZ9386CJd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/00pw67OZKJyzydY9N2Orui) |
+
+</details>
+

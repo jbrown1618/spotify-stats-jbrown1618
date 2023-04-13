@@ -7,22 +7,25 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | 3 | 3 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
+| <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 3 | 2 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 3 | 1 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | 2 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+
 
 <details>
 <summary>See all 26 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
-| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | 3 | 3 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 3 | 2 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 3 | 1 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | 2 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | 1 | 1 | Walter Murphy | [🔗](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
@@ -49,10 +52,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 49 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 4 | 3 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
@@ -65,6 +64,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="" width="50" /> | 1 | 1 | Third Album | 1970-09-08 | [🔗](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | 1 | 1 | The Very Best of Frankie Valli & The 4 Seasons | 2003-01-14 | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | 1 | 1 | The Temptations Sing Smokey | 1965-03-22 | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
+
+
+<details>
+<summary>See all 49 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1991-01-01 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
@@ -112,33 +118,36 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 13 | 7 | [MOTOWN](../../labels/motown/overview.md) |
+| 10 | 6 | [Epic](../../labels/epic/overview.md) |
+| 8 | 6 | [UNI](../../labels/uni/overview.md) |
+| 6 | 5 | [Columbia](../../labels/columbia/overview.md) |
+| 4 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
+| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [Rhino](../../labels/rhino/overview.md) |
+| 4 | 1 | [Legacy](../../labels/legacy/overview.md) |
+| 2 | 1 | Columbia Nashville Legacy |
+| 2 | 1 | Bee Gees Catalog |
+
 
 <details>
 <summary>See all 25 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 13 | 7 | [MOTOWN](../../labels/motown) |
-| 10 | 6 | [Epic](../../labels/epic) |
-| 8 | 6 | [UNI](../../labels/uni) |
-| 6 | 5 | [Columbia](../../labels/columbia) |
-| 4 | 2 | [Warner Records](../../labels/warner_records) |
-| 4 | 1 | [Legacy](../../labels/legacy) |
-| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
-| 3 | 0 | EMI |
-| 2 | 2 | [Rhino](../../labels/rhino) |
-| 2 | 1 | Columbia Nashville Legacy |
-| 2 | 1 | Bee Gees Catalog |
 | 1 | 1 | Vorsicht Musik |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Sony Music CG |
-| 1 | 1 | [Polydor Records](../../labels/polydor_records) |
+| 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Elektra |
-| 1 | 1 | [Capitol Records](../../labels/capitol_records) |
+| 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | A&M |
+| 3 | 0 | EMI |
 | 1 | 0 | Ron Dante |
 | 1 | 0 | Rhino Atlantic |
-| 1 | 0 | [RCA Records Label](../../labels/rca_records_label) |
+| 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 0 | Ode |
 | 1 | 0 | Legacy Recordings |
 | 1 | 0 | Castle Communications |
@@ -151,49 +160,54 @@
 
 ## Genres
 
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 24 | 13 | soul |
+| 15 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 15 | 8 | [rock](../../genres/rock/overview.md) |
+| 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
+| 13 | 7 | motown |
+| 11 | 7 | [pop](../../genres/pop/overview.md) |
+| 8 | 6 | folk rock |
+| 8 | 6 | folk |
+| 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
+| 8 | 5 | [r&b](../../genres/r_b/overview.md) |
+
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 42 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 20 | 10 | soul |
-| 17 | 10 | [mellow gold](../../genres/mellow_gold) |
-| 13 | 7 | motown |
-| 13 | 7 | [adult standards](../../genres/adult_standards) |
-| 11 | 7 | [pop](../../genres/pop) |
-| 10 | 5 | funk |
-| 9 | 6 | [folk rock](../../genres/folk_rock) |
-| 8 | 6 | folk |
-| 8 | 6 | [classic rock](../../genres/classic_rock) |
-| 8 | 5 | [r&b](../../genres/r_b) |
-| 7 | 5 | [rock](../../genres/rock) |
-| 7 | 5 | [dance pop](../../genres/dance_pop) |
-| 6 | 3 | [soft rock](../../genres/soft_rock) |
+| 5 | 5 | melancholia |
+| 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
+| 3 | 3 | new wave pop |
 | 6 | 2 | piano rock |
 | 6 | 2 | glam rock |
-| 6 | 2 | classic soul |
-| 5 | 5 | melancholia |
-| 5 | 4 | disco |
-| 5 | 3 | quiet storm |
+| 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
+| 3 | 2 | lounge |
+| 3 | 2 | disco |
 | 5 | 1 | memphis soul |
-| 4 | 3 | new wave pop |
-| 3 | 2 | [lounge](../../genres/lounge) |
-| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter) |
+| 3 | 1 | vocal jazz |
+| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 3 | 1 | outlaw country |
 | 3 | 1 | bubblegum pop |
 | 3 | 1 | arkansas country |
+| 2 | 1 | swing |
+| 2 | 1 | rock-and-roll |
+| 2 | 1 | classic soul |
 | 1 | 1 | smooth jazz |
+| 1 | 1 | quiet storm |
 | 1 | 1 | latin pop |
 | 1 | 1 | jazz trumpet |
+| 1 | 1 | heartland rock |
 | 1 | 1 | hammond organ |
+| 1 | 1 | funk |
 | 1 | 1 | country rock |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | southern soul |
-| 1 | 0 | roots rock |
 | 1 | 0 | permanent wave |
 | 1 | 0 | jazz blues |
-| 1 | 0 | [hollywood](../../genres/hollywood) |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |
 | 1 | 0 | brill building pop |
@@ -211,16 +225,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="Listen Without Prejudice / MTV Unplugged (Deluxe)" width="50" /> <span style="padding-left:10px;">Listen Without Prejudice / MTV Unplugged (Deluxe) (2017-10-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> <span style="padding-left:10px;">Unforgettable (1954-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> <span style="padding-left:10px;">The Ultimate Bee Gees (2009-11-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span style="padding-left:10px;">Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> <span style="padding-left:10px;">Celebration (Bonus Track Version) (2009-09-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span style="padding-left:10px;">Mary Wells Sings My Guy (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="The Very Best Of "The Archies"" width="50" /> <span style="padding-left:10px;">The Very Best Of "The Archies" (2007-11-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> <span style="padding-left:10px;">Meet The Temptations (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli & The 4 Seasons" width="50" /> <span style="padding-left:10px;">The Very Best of Frankie Valli & The 4 Seasons (2003-01-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="I Walk the Line (Stereo Version)" width="50" /> <span style="padding-left:10px;">I Walk the Line (Stereo Version) (1964-06-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> <span style="padding-left:10px;">The Definitive Collection (2002-10-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span style="padding-left:10px;">Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> <span style="padding-left:10px;">20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> <span style="padding-left:10px;">20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor (2000-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin' Ready (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Gettin' Ready (Expanded Edition) (1966)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="A Little Bit of Mambo" width="50" /> <span style="padding-left:10px;">A Little Bit of Mambo (1999-07-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> <span style="padding-left:10px;">I Never Loved a Man the Way I Love You (1967-03-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="Ladies And Gentlemen... The Best Of George Michael" width="50" /> <span style="padding-left:10px;">Ladies And Gentlemen... The Best Of George Michael (1998-11-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> <span style="padding-left:10px;">The Foundations (1968-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="Listen Without Prejudice / MTV Unplugged (Deluxe)" width="50" /> <span>Listen Without Prejudice / MTV Unplugged (Deluxe) (2017-10-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> <span>Unforgettable (1954-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> <span>The Ultimate Bee Gees (2009-11-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span>Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> <span>Celebration (Bonus Track Version) (2009-09-18)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span>Mary Wells Sings My Guy (1964)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="The Very Best Of "The Archies"" width="50" /> <span>The Very Best Of "The Archies" (2007-11-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> <span>Meet The Temptations (1964)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli & The 4 Seasons" width="50" /> <span>The Very Best of Frankie Valli & The 4 Seasons (2003-01-14)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="I Walk the Line (Stereo Version)" width="50" /> <span>I Walk the Line (Stereo Version) (1964-06-13)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> <span>The Definitive Collection (2002-10-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span>Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> <span>20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span>The Temptations Sing Smokey (1965-03-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> <span>20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor (2000-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin' Ready (Expanded Edition)" width="50" /> <span>Gettin' Ready (Expanded Edition) (1966)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="A Little Bit of Mambo" width="50" /> <span>A Little Bit of Mambo (1999-07-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> <span>I Never Loved a Man the Way I Love You (1967-03-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="Ladies And Gentlemen... The Best Of George Michael" width="50" /> <span>Ladies And Gentlemen... The Best Of George Michael (1998-11-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> <span>The Foundations (1968-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

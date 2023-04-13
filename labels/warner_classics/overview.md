@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 16 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 55 | 0 | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90" alt="" width="50" /> | 16 | 0 | Antonio Vivaldi | [🔗](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 4 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | 3 | 0 | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
+
+
+<details>
+<summary>See all 16 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | 3 | 0 | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 3 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Andrew Busher | [🔗](https://open.spotify.com/artist/3Zbnq9cbmHkNBzUrfTe2Vb) |
@@ -37,10 +40,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 6 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 31 | 0 | Tchaikovsky: Swan Lake | 1976 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
@@ -50,16 +49,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | 3 | 0 | Mozart: Eine Kleine Nachtmusik etc. | 1986 | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="" width="50" /> | 1 | 0 | Around the World - A Folk Song Collection | 1991-02-01 | [🔗](https://open.spotify.com/album/2YLEK2g3iwuhW4vp02XRnn) |
 
-</details>
-
-
 ![Bar chart of top 6 albums](../../images/labels/warner_classics/albums.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -73,17 +65,25 @@ Appears as:
 | 4 | 0 | vocal ensemble |
 | 4 | 0 | polyphony |
 | 4 | 0 | choral |
+
+
+<details>
+<summary>See all 17 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 4 | 0 | cambridge choir |
 | 4 | 0 | british choir |
-| 4 | 0 | [a cappella](../../genres/a_cappella) |
 | 3 | 0 | lullaby |
 | 3 | 0 | classical era |
 | 1 | 0 | sleep |
+| 1 | 0 | hengelliset laulut |
+| 1 | 0 | gregorian chant |
 
 </details>
 
 
-![Bar chart of top 16 genres](../../images/labels/warner_classics/genres.png)
+![Bar chart of top 17 genres](../../images/labels/warner_classics/genres.png)
 
 ## Tracks released under Warner Classics
 
@@ -99,6 +99,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/5llR5SF5ojZV4oSvIFlGUL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/3zWIb6UTHGfWkjimJ6wIJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/3NssaIXNMQJHoCYXvxExET) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/0kQuEbV8Zckr9tBgM8U7Xs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/3bvUD0brjrqPYapZxGBsu3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/1gewYqj350HHu63L8iwMbV) |
@@ -168,3 +175,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine kleine Nachtmusik, K. 525: II. Romance. Andante | Mozart: Eine Kleine Nachtmusik etc. | Wolfgang Amadeus Mozart, Sir Neville Marriner, Academy of St. Martin in the Fields | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/5c8aHvonwKaBAoOIXmHQdt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine kleine Nachtmusik, K. 525: III. Menuetto. Allegretto | Mozart: Eine Kleine Nachtmusik etc. | Wolfgang Amadeus Mozart, Sir Neville Marriner, Academy of St. Martin in the Fields | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/0u1geqo8UUXA6nqLGWdEt4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro | Mozart: Eine Kleine Nachtmusik etc. | Wolfgang Amadeus Mozart, Sir Neville Marriner, Academy of St. Martin in the Fields | [Warner Classics](.) | | [🔗](https://open.spotify.com/track/5gFRhodjlXDFR5voxOymN9) |
+
+</details>
+

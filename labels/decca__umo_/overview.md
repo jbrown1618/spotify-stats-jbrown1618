@@ -7,12 +7,9 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 9 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | <img src="https://i.scdn.co/image/0a5c00ae5ecc0bd8687973a3b3321963821468ad" alt="" width="50" /> | 18 | 0 | Simon Standage | [🔗](https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT) |
 | <img src="https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90" alt="" width="50" /> | 18 | 0 | Antonio Vivaldi | [🔗](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55b58d0ec2693200440f1f51" alt="" width="50" /> | 18 | 0 | The English Concert | [🔗](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA) |
@@ -21,18 +18,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/0b5020426f1e073f8c90d7e8e7375bffcbd89c07" alt="" width="50" /> | 8 | 0 | Eric Whitacre Singers | [🔗](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba4111dde02328708f5180b54" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
-
-</details>
-
 
 ![Bar chart of top 9 artists](../../images/labels/decca__umo_/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 3 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -40,19 +29,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | 8 | 0 | Light & Gold | 2010-01-01 | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | 1 | 1 | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 
-</details>
-
-
 ![Bar chart of top 3 albums](../../images/labels/decca__umo_/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 13 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | folk-pop |
+| 1 | 1 | australian indie |
 | 18 | 0 | italian baroque |
 | 18 | 0 | early music |
 | 18 | 0 | classical |
@@ -61,16 +45,8 @@ Appears as:
 | 8 | 0 | choral |
 | 8 | 0 | american 21st century classical |
 | 8 | 0 | 21st century classical |
-| 1 | 1 | [pop rock](../../genres/pop_rock) |
-| 1 | 1 | [pop](../../genres/pop) |
-| 1 | 1 | folk-pop |
-| 1 | 1 | australian pop |
-| 1 | 1 | australian indie |
 
-</details>
-
-
-![Bar chart of top 13 genres](../../images/labels/decca__umo_/genres.png)
+![Bar chart of top 10 genres](../../images/labels/decca__umo_/genres.png)
 
 ## Tracks released under Decca (UMO)
 
@@ -86,6 +62,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/25WOKott6eYT4t9WesF3F7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/00rr9bcpswlDp38RmgNWws) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/2l4thc8hzFRHlFPZgvAXeF) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/2tpUWGibf9sV6OZy6XNvBf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/2xApS0qLehnWIBuHPP2gBp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/5or01FkVmY6aAg0YEIySg8) |
@@ -103,3 +86,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Three Songs Of Faith: I Will Wade Out | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/3bMGaK0AfpU3J321Mlm553) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Water Night | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/5w0L0SdyLv7BK8hXctiHhm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Geronimo | Bombs Away | Sheppard | [Decca (UMO)](.) | 💚 | [🔗](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) |
+
+</details>
+

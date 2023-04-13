@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 9 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 7 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
@@ -23,16 +19,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef" alt="" width="50" /> | 1 | 1 | Justin Timberlake | [🔗](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) |
 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | 1 | 0 | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 
-</details>
-
-
 ![Bar chart of top 9 artists](../../images/labels/jive/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 10 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -47,28 +36,22 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | 1 | 1 | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | 1 | 1 | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12 | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
 
-</details>
-
-
 ![Bar chart of top 10 albums](../../images/labels/jive/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 4 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 12 | [dance pop](../../genres/dance_pop) |
-| 9 | 6 | [pop](../../genres/pop) |
+| 14 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
+| 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 9 | 6 | [pop](../../genres/pop/overview.md) |
 | 6 | 5 | boy band |
-| 2 | 2 | [r&b](../../genres/r_b) |
+| 2 | 2 | [r&b](../../genres/r_b/overview.md) |
+| 1 | 1 | urban contemporary |
+| 1 | 1 | rap |
+| 1 | 1 | pop rap |
 
-</details>
-
-
-![Bar chart of top 4 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 8 genres](../../images/labels/jive/genres.png)
 
 ## Tracks released under Jive
 
@@ -84,9 +67,19 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="" width="50" /> | Oops!...I Did It Again | Oops!... I Did It Again | Britney Spears | [Jive](.) | 💚 | [🔗](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | I'm a Slave 4 U | Britney (Digital Deluxe Version) | Britney Spears | [Jive](.) | 💚 | [🔗](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | (I Got That) Boom Boom (feat. Ying Yang Twins) | In The Zone | Britney Spears, Ying Yang Twins | [Jive](.) | | [🔗](https://open.spotify.com/track/5epx5YtoMbV0GrL9qx9kVY) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | Toxic | In The Zone | Britney Spears | [Jive](.) | 💚 | [🔗](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | If U Seek Amy | Circus (Deluxe Version) | Britney Spears | [Jive](.) | | [🔗](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Womanizer | Circus (Deluxe Version) | Britney Spears | [Jive](.) | | [🔗](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Chris Brown, Ludacris | [Jive](.) | 💚 | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="" width="50" /> | SexyBack (feat. Timbaland) | FutureSex/LoveSounds | Justin Timberlake, Timbaland | [Jive](.) | 💚 | [🔗](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | Sure Thing | All I Want Is You | Miguel | [Jive](.) | 💚 | [🔗](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) |
+
+</details>
+

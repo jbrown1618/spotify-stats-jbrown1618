@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 4 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 4 | 2 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
@@ -18,16 +14,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | 2 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 
-</details>
-
-
 ![Bar chart of top 4 artists](../../images/labels/uni/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 10 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -42,32 +31,18 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="" width="50" /> | 1 | 0 | Christmas Album | 1970-10-15 | [🔗](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 1 | 0 | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | 2000-01-11 | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
 
-</details>
-
-
 ![Bar chart of top 10 albums](../../images/labels/uni/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 8 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 10 | 6 | soul |
 | 10 | 6 | motown |
-| 7 | 4 | [adult standards](../../genres/adult_standards) |
-| 6 | 4 | soul |
-| 6 | 4 | funk |
-| 4 | 2 | [lounge](../../genres/lounge) |
-| 3 | 2 | quiet storm |
-| 3 | 2 | classic soul |
 | 2 | 1 | memphis soul |
+| 1 | 1 | classic soul |
 
-</details>
-
-
-![Bar chart of top 8 genres](../../images/labels/uni/genres.png)
+![Bar chart of top 4 genres](../../images/labels/uni/genres.png)
 
 ## Tracks released under UNI
 

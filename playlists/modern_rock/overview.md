@@ -7,27 +7,29 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 16 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 6 | 5 | Rilo Kiley | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 3 | 3 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ed29d6d48829666efc8f609" alt="" width="50" /> | 4 | 2 | Nightwish | [🔗](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 2 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
+
 
 <details>
 <summary>See all 31 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 16 | 14 | [Radiohead](../../artists/radiohead) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
-| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 6 | 5 | Rilo Kiley | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2ed29d6d48829666efc8f609" alt="" width="50" /> | 4 | 2 | Nightwish | [🔗](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 3 | 3 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 2 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 2 | 1 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | 2 | 0 | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
@@ -41,6 +43,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | 2 | 0 | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
@@ -54,10 +57,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 48 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 5 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
@@ -70,6 +69,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | 2 | 2 | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 2 | 2 | Plans | 2005-08-29 | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
+
+
+<details>
+<summary>See all 48 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | 2 | 2 | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | 2 | 1 | The Execution Of All Things | 2002-10-01 | [🔗](https://open.spotify.com/album/23EqcK0ZR1ravQaEsGpQyH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | 2 | 1 | Metallica | 1991-08-12 | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
@@ -116,28 +122,31 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 16 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
+| 9 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
+| 5 | 5 | Fueled By Ramen |
+| 4 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 3 | 3 | Steam Powered Giraffe |
+| 3 | 3 | Canvasback |
+| 3 | 3 | Brute |
+| 3 | 3 | Beaute |
+| 3 | 3 | ATL |
+| 2 | 2 | Phonogenic |
+
 
 <details>
 <summary>See all 36 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 16 | 14 | [XL Recordings](../../labels/xl_recordings) |
-| 9 | 8 | [Warner Records](../../labels/warner_records) |
-| 5 | 5 | Fueled By Ramen |
-| 4 | 3 | [RCA Records Label](../../labels/rca_records_label) |
-| 4 | 1 | [Virgin Records](../../labels/virgin_records) |
-| 3 | 3 | Steam Powered Giraffe |
-| 3 | 3 | Canvasback |
-| 3 | 3 | Brute |
-| 3 | 3 | Beaute |
-| 3 | 3 | ATL |
-| 3 | 1 | Relentless |
-| 2 | 2 | Phonogenic |
 | 2 | 2 | Kid Ina Korner |
-| 2 | 2 | [Interscope Records](../../labels/interscope_records) |
-| 2 | 2 | [Epic](../../labels/epic) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records) |
+| 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 2 | 2 | [Epic](../../labels/epic/overview.md) |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 4 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
+| 3 | 1 | Relentless |
 | 2 | 1 | Spin-Farm Oy |
 | 2 | 1 | Saddle Creek |
 | 2 | 1 | Nuclear Blast Entertainment |
@@ -150,12 +159,12 @@
 | 1 | 1 | IAMSOUND |
 | 1 | 1 | Giant Little Man |
 | 1 | 1 | Down Up Down Music |
-| 1 | 1 | [Decca (UMO)](../../labels/decca__umo_) |
+| 1 | 1 | [Decca (UMO)](../../labels/decca__umo_/overview.md) |
 | 1 | 1 | Cult Records |
-| 1 | 1 | [Columbia](../../labels/columbia) |
+| 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | Arista |
 | 1 | 0 | Universal Music AB |
-| 1 | 0 | [Reprise](../../labels/reprise) |
+| 1 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 1 | 0 | Relapse Records |
 | 1 | 0 | Merge Records |
 
@@ -166,28 +175,37 @@
 
 ## Genres
 
-
-<details>
-<summary>See all 80 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 34 | 28 | [rock](../../genres/rock) |
+| 37 | 31 | [rock](../../genres/rock/overview.md) |
 | 25 | 20 | permanent wave |
-| 22 | 19 | modern rock |
-| 22 | 17 | alternative rock |
+| 23 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
+| 24 | 19 | alternative rock |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
 | 14 | 11 | indie rock |
-| 10 | 7 | indie pop |
-| 9 | 6 | [pop rock](../../genres/pop_rock) |
-| 9 | 6 | [lilith](../../genres/lilith) |
-| 7 | 5 | anti-folk |
-| 6 | 6 | [pop](../../genres/pop) |
+| 10 | 10 | [pop](../../genres/pop/overview.md) |
+| 9 | 7 | chamber pop |
+
+
+<details>
+<summary>See all 81 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 7 | 7 | indietronica |
+| 9 | 6 | [lilith](../../genres/lilith/overview.md) |
+| 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 6 | 5 | la indie |
-| 6 | 4 | [neo mellow](../../genres/neo_mellow) |
-| 4 | 4 | [dance pop](../../genres/dance_pop) |
+| 6 | 5 | indie pop |
+| 5 | 5 | modern alternative rock |
+| 6 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
+| 4 | 4 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 3 | 3 | [viral pop](../../genres/viral_pop/overview.md) |
+| 3 | 3 | steampunk |
+| 3 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 3 | 3 | candy pop |
 | 4 | 2 | symphonic metal |
 | 4 | 2 | power metal |
 | 4 | 2 | opera metal |
@@ -195,61 +213,56 @@
 | 4 | 2 | gothic metal |
 | 4 | 2 | finnish power metal |
 | 4 | 2 | finnish metal |
-| 4 | 1 | metal |
-| 4 | 1 | alternative metal |
-| 3 | 3 | steampunk |
-| 3 | 3 | modern alternative rock |
-| 3 | 3 | comic |
-| 3 | 3 | candy pop |
-| 3 | 2 | stomp and holler |
 | 3 | 2 | garage rock |
-| 3 | 1 | scottish singer-songwriter |
-| 3 | 1 | nu metal |
 | 2 | 2 | washington indie |
-| 2 | 2 | [post-teen pop](../../genres/post_teen_pop) |
+| 2 | 2 | stomp and holler |
+| 2 | 2 | seattle indie |
 | 2 | 2 | pop punk |
 | 2 | 2 | pop emo |
 | 2 | 2 | pixie |
 | 2 | 2 | celtic rock |
+| 4 | 1 | metal |
+| 4 | 1 | alternative metal |
+| 3 | 1 | scottish singer-songwriter |
+| 3 | 1 | nu metal |
 | 2 | 1 | thrash metal |
 | 2 | 1 | old school thrash |
 | 2 | 1 | hard rock |
-| 2 | 0 | stoner metal |
-| 2 | 0 | sludge metal |
-| 2 | 0 | progressive sludge |
-| 2 | 0 | progressive groove metal |
-| 2 | 0 | atlanta metal |
-| 1 | 1 | visual kei |
-| 1 | 1 | shimmer pop |
+| 1 | 1 | teen pop |
+| 1 | 1 | post-grunge |
 | 1 | 1 | neo-synthpop |
 | 1 | 1 | metropopolis |
 | 1 | 1 | japanese emo |
 | 1 | 1 | j-rock |
-| 1 | 1 | j-poprock |
 | 1 | 1 | j-pop |
 | 1 | 1 | italian pop |
 | 1 | 1 | industrial rock |
 | 1 | 1 | industrial metal |
 | 1 | 1 | industrial |
 | 1 | 1 | indie rock italiano |
-| 1 | 1 | indie poptimism |
+| 1 | 1 | indie folk |
 | 1 | 1 | folk-pop |
-| 1 | 1 | [electropop](../../genres/electropop) |
 | 1 | 1 | electronic rock |
 | 1 | 1 | cyberpunk |
 | 1 | 1 | canadian rock |
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian indie |
-| 1 | 1 | australian pop |
 | 1 | 1 | australian indie |
+| 2 | 0 | stoner rock |
+| 2 | 0 | stoner metal |
+| 2 | 0 | sludge metal |
+| 2 | 0 | progressive sludge |
+| 2 | 0 | progressive groove metal |
+| 2 | 0 | atlanta metal |
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish alternative rock |
 | 1 | 0 | spacegrunge |
+| 1 | 0 | noise pop |
 | 1 | 0 | new rave |
 | 1 | 0 | lo-fi |
 | 1 | 0 | grunge |
 | 1 | 0 | elephant 6 |
-| 1 | 0 | chamber pop |
+| 1 | 0 | dance-punk |
 | 1 | 0 | baroque pop |
 | 1 | 0 | alternative dance |
 
@@ -266,16 +279,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> <span style="padding-left:10px;">The New Abnormal (2020-04-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> <span style="padding-left:10px;">Metallica (1991-08-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> <span style="padding-left:10px;">Chosen (2017-12-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span style="padding-left:10px;">Pablo Honey (1993-02-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span style="padding-left:10px;">Evolve (2017-06-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> <span style="padding-left:10px;">The Downward Spiral (1994-03-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> <span style="padding-left:10px;">Ambitions (2017-01-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> <span style="padding-left:10px;">Blurryface (2015-05-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span style="padding-left:10px;">The Bends (1995-03-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> <span style="padding-left:10px;">Strange Trails (2015-04-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span style="padding-left:10px;">OK Computer (1997-05-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> <span style="padding-left:10px;">Bombs Away (2015-03-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span style="padding-left:10px;">In the Aeroplane Over the Sea (1998-02-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="Once More 'Round the Sun" width="50" /> <span style="padding-left:10px;">Once More 'Round the Sun (2014-06-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span style="padding-left:10px;">Kid A (2000-10-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span style="padding-left:10px;">Let The Road (2014-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span style="padding-left:10px;">Origin of Symmetry (2001)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="I Love You." width="50" /> <span style="padding-left:10px;">I Love You. (2013-04-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span style="padding-left:10px;">Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> <span>The New Abnormal (2020-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> <span>Metallica (1991-08-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> <span>Chosen (2017-12-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span>Pablo Honey (1993-02-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span>Evolve (2017-06-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> <span>The Downward Spiral (1994-03-08)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> <span>Ambitions (2017-01-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span>Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> <span>Blurryface (2015-05-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span>The Bends (1995-03-13)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> <span>Strange Trails (2015-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span>OK Computer (1997-05-28)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> <span>Bombs Away (2015-03-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span>In the Aeroplane Over the Sea (1998-02-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="Once More 'Round the Sun" width="50" /> <span>Once More 'Round the Sun (2014-06-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span>Kid A (2000-10-02)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span>Origin of Symmetry (2001)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="I Love You." width="50" /> <span>I Love You. (2013-04-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span>Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

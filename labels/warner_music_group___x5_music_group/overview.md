@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 21 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 20 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
@@ -23,6 +19,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f478f283072a58db18a306b2" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
+
+
+<details>
+<summary>See all 21 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
@@ -42,10 +45,6 @@ Appears as:
 
 ## Top Albums
 
-
-<details>
-<summary>See all 4 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | 20 | 0 | Mozart Piano Pieces | 2020-10-13 | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
@@ -53,16 +52,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec199ea327123ad967a3946" alt="" width="50" /> | 1 | 0 | Fairytale of New York | 2017-11-24 | [🔗](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="" width="50" /> | 1 | 0 | Dominick the Donkey | 1960-01-01 | [🔗](https://open.spotify.com/album/45pkOGp28EtHgpp9ZTo1Ss) |
 
-</details>
-
-
 ![Bar chart of top 4 albums](../../images/labels/warner_music_group___x5_music_group/albums.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 5 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -71,9 +63,6 @@ Appears as:
 | 20 | 0 | classical era |
 | 2 | 0 | novelty |
 | 1 | 0 | post-romantic era |
-
-</details>
-
 
 ![Bar chart of top 5 genres](../../images/labels/warner_music_group___x5_music_group/genres.png)
 
@@ -91,6 +80,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Concerto No. 23 in A Major, K. 488: II. Adagio | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Elisabeth Sombart, Jordi Mora, Munich Youth Orchestra | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/7dF349cWZHlNnSUBdn1NkS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Concerto No. 24 in C Minor, K. 491: I. Allegro | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Carmen Piazzini, Mikhail Gantvarg, The St. Petersburg Soloists | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/2OA3ADPrHocxY3hOhgO3r6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Concerto No. 24 in C Minor, K. 491: II. Larghetto | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Carmen Piazzini, Mikhail Gantvarg, The St. Petersburg Soloists | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/1So9jHVpEqcbNX6rU9wUDC) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Concerto No. 26 in D Major, K. 537 "Coronation": II. Larghetto | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Carmen Piazzini, Mikhail Gantvarg, The St. Petersburg Soloists | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/5u6hBSm9NCenBdZK5RvNnc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Carmen Piazzini, Mikhail Gantvarg, The St. Petersburg Soloists | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/04Vw5tlqRgimrmWnbuDI2O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Concerto No. 5 in D Major, K. 175: II. Andante ma un poco adagio | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Ratko Delorko, Vestischen Chamber Orchestra | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/4pdYTfl39K3FeRYEUFVVhI) |
@@ -104,3 +100,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Carmen Piazzini | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/1JLOh8aetP2T5OUPZnu4Jb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Sonata No. 18 in D Major, K. 576: I. Allegro | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Carmen Piazzini | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/7bv1oLv8wGSVp96UkZsPgJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione | Mozart Piano Pieces | Wolfgang Amadeus Mozart, Axel Gillison | [Warner Music Group - X5 Music Group](.) | | [🔗](https://open.spotify.com/track/5OxM1YJI1qAzxpBPjTRiCn) |
+
+</details>
+

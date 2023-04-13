@@ -7,23 +7,25 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 3 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
+
 
 <details>
 <summary>See all 25 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 14 | 11 | [Queen](../../artists/queen) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 3 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
-| <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe924bdfec5ce73220c15cd25" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
@@ -34,6 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | 1 | 1 | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 1 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc52c8e309e46aa8430a0fa0" alt="" width="50" /> | 1 | 0 | Iron Maiden | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
@@ -48,10 +51,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 62 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 9 | 6 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
@@ -64,6 +63,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | 2 | 2 | News Of The World | 1977-10-28 | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 2 | 2 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
+
+
+<details>
+<summary>See all 62 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | 2 | 2 | A Night At The Opera | 1975-11-21 | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 2 | 1 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
@@ -124,30 +130,33 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 14 | 11 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+| 14 | 5 | [Rhino](../../labels/rhino/overview.md) |
+| 13 | 5 | [Warner Records](../../labels/warner_records/overview.md) |
+| 7 | 4 | [Columbia](../../labels/columbia/overview.md) |
+| 6 | 3 | [Legacy](../../labels/legacy/overview.md) |
+| 3 | 3 | Geffen |
+| 3 | 2 | A&M |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
+
 
 <details>
 <summary>See all 20 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue) |
-| 14 | 11 | [Hollywood Records](../../labels/hollywood_records) |
-| 14 | 5 | [Rhino](../../labels/rhino) |
-| 13 | 5 | [Warner Records](../../labels/warner_records) |
-| 7 | 4 | [Columbia](../../labels/columbia) |
-| 6 | 3 | [Legacy](../../labels/legacy) |
-| 3 | 3 | Geffen |
-| 3 | 2 | A&M |
-| 3 | 0 | [Atlantic Records](../../labels/atlantic_records) |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
-| 2 | 2 | [Polydor Records](../../labels/polydor_records) |
 | 2 | 2 | ABKCO Music and Records |
-| 2 | 1 | [Epic](../../labels/epic) |
+| 2 | 1 | [Epic](../../labels/epic/overview.md) |
 | 2 | 1 | Elektra |
 | 1 | 1 | Rhino Atlantic |
 | 1 | 1 | Guns N Roses P&D |
 | 1 | 1 | CAPITOL CATALOG MKT (C92) |
 | 1 | 1 | American Recordings Catalog P&D |
+| 3 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | Volcano |
 | 1 | 0 | Sanctuary Records |
 
@@ -158,49 +167,49 @@
 
 ## Genres
 
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 88 | 59 | [rock](../../genres/rock/overview.md) |
+| 85 | 57 | [classic rock](../../genres/classic_rock/overview.md) |
+| 39 | 30 | british invasion |
+| 33 | 23 | beatlesque |
+| 38 | 22 | [album rock](../../genres/album_rock/overview.md) |
+| 31 | 22 | psychedelic rock |
+| 31 | 22 | merseybeat |
+| 28 | 17 | hard rock |
+| 25 | 13 | [soft rock](../../genres/soft_rock/overview.md) |
+| 17 | 11 | [mellow gold](../../genres/mellow_gold/overview.md) |
+
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 88 | 58 | [rock](../../genres/rock) |
-| 85 | 57 | [classic rock](../../genres/classic_rock) |
-| 39 | 30 | british invasion |
-| 37 | 28 | psychedelic rock |
-| 34 | 19 | album rock |
-| 33 | 23 | beatlesque |
-| 31 | 22 | merseybeat |
-| 28 | 17 | hard rock |
-| 25 | 13 | [soft rock](../../genres/soft_rock) |
-| 23 | 17 | [mellow gold](../../genres/mellow_gold) |
 | 14 | 11 | glam rock |
-| 10 | 9 | art rock |
-| 9 | 8 | blues rock |
-| 9 | 6 | [folk rock](../../genres/folk_rock) |
+| 13 | 8 | heartland rock |
 | 9 | 4 | yacht rock |
-| 5 | 3 | heartland rock |
+| 6 | 4 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 5 | 4 | glam metal |
+| 5 | 3 | folk rock |
 | 4 | 3 | progressive rock |
-| 4 | 3 | country rock |
+| 3 | 2 | folk |
 | 4 | 1 | metal |
-| 3 | 2 | [singer-songwriter](../../genres/singer_songwriter) |
-| 3 | 2 | roots rock |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
-| 2 | 1 | symphonic rock |
 | 2 | 1 | sunshine pop |
 | 2 | 1 | stoner rock |
+| 2 | 1 | rock-and-roll |
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | funk rock |
 | 2 | 1 | funk |
 | 2 | 1 | bubblegum pop |
 | 2 | 1 | birmingham metal |
+| 2 | 1 | alternative metal |
 | 1 | 1 | southern rock |
-| 1 | 1 | [pop rock](../../genres/pop_rock) |
 | 1 | 1 | jam band |
-| 1 | 1 | glam metal |
+| 1 | 1 | blues rock |
 | 1 | 1 | australian rock |
-| 1 | 1 | [adult standards](../../genres/adult_standards) |
 | 1 | 0 | sophisti-pop |
 | 1 | 0 | permanent wave |
 | 1 | 0 | nwobhm |
@@ -218,16 +227,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> <span style="padding-left:10px;">The Ultimate Collection (2017-02-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="Please Please Me (Remastered)" width="50" /> <span style="padding-left:10px;">Please Please Me (Remastered) (1963-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> <span style="padding-left:10px;">1 (Remastered) (2000-11-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span style="padding-left:10px;">With The Beatles (Remastered) (1963-11-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner's Tales" width="50" /> <span style="padding-left:10px;">Ten Summoner's Tales (1993-03-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span style="padding-left:10px;">A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="Innuendo" width="50" /> <span style="padding-left:10px;">Innuendo (1991-02-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span style="padding-left:10px;">Out Of Our Heads (1965-07-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> <span style="padding-left:10px;">Shake Your Money Maker (1990-02-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> <span style="padding-left:10px;">Appetite For Destruction (1987-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> <span style="padding-left:10px;">My Generation (Stereo Version) (1965-12-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="Rocky IV" width="50" /> <span style="padding-left:10px;">Rocky IV (1985)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> <span style="padding-left:10px;">Rubber Soul (Remastered) (1965-12-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="Purple Rain" width="50" /> <span style="padding-left:10px;">Purple Rain (1984-06-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> <span style="padding-left:10px;">Aftermath (1966-04-15)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="The Works" width="50" /> <span style="padding-left:10px;">The Works (1984-02-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> <span style="padding-left:10px;">Revolver (Remastered) (1966-08-05)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="Piece of Mind (2015 - Remaster)" width="50" /> <span style="padding-left:10px;">Piece of Mind (2015 - Remaster) (1983-05-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="More of The Monkees (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">More of The Monkees (Deluxe Edition) (1967-01-09)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> <span>The Ultimate Collection (2017-02-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="Please Please Me (Remastered)" width="50" /> <span>Please Please Me (Remastered) (1963-03-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> <span>1 (Remastered) (2000-11-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span>With The Beatles (Remastered) (1963-11-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner's Tales" width="50" /> <span>Ten Summoner's Tales (1993-03-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span>A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="Innuendo" width="50" /> <span>Innuendo (1991-02-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span>Out Of Our Heads (1965-07-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> <span>Shake Your Money Maker (1990-02-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> <span>Appetite For Destruction (1987-07-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> <span>My Generation (Stereo Version) (1965-12-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="Rocky IV" width="50" /> <span>Rocky IV (1985)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> <span>Rubber Soul (Remastered) (1965-12-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="Purple Rain" width="50" /> <span>Purple Rain (1984-06-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> <span>Aftermath (1966-04-15)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="The Works" width="50" /> <span>The Works (1984-02-27)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> <span>Revolver (Remastered) (1966-08-05)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="Piece of Mind (2015 - Remaster)" width="50" /> <span>Piece of Mind (2015 - Remaster) (1983-05-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="More of The Monkees (Deluxe Edition)" width="50" /> <span>More of The Monkees (Deluxe Edition) (1967-01-09)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

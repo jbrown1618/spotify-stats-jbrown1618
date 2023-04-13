@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 7 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 157 | 0 | Frédéric Chopin | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
@@ -21,18 +17,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb501fa094147c4871549cdebd" alt="" width="50" /> | 4 | 0 | Krystian Zimerman | [🔗](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) |
 | <img src="https://i.scdn.co/image/927126b3dc00e687514c0f9b2e37b1e4acd4ab9c" alt="" width="50" /> | 1 | 0 | Nikolai Lugansky | [🔗](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) |
 
-</details>
-
-
 ![Bar chart of top 7 artists](../../images/playlists/chopin/artists.png)
 
 
 
 ## Top Albums
-
-
-<details>
-<summary>See all 9 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -46,35 +35,21 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | 1 | 0 | Martha Argerich Live, Vol. 4 | 2017-01-20 | [🔗](https://open.spotify.com/album/69aoRIAIVb2TbIuxmxKYCR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="" width="50" /> | 1 | 0 | Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. | 2010-04-05 | [🔗](https://open.spotify.com/album/5QmPVpRux60kcHndJOl6bF) |
 
-</details>
-
-
 ![Bar chart of top 9 albums](../../images/playlists/chopin/albums.png)
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 5 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 102 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
-| 53 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
-| 15 | 0 | [The Music Factory](../../labels/the_music_factory) |
+| 102 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
+| 53 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 15 | 0 | [The Music Factory](../../labels/the_music_factory/overview.md) |
 | 1 | 0 | Onyx Classics |
 | 1 | 0 | DOREMI |
-
-</details>
-
 
 ![Bar chart of top 5 record labels](../../images/playlists/chopin/labels.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -82,9 +57,6 @@
 | 157 | 0 | early romantic era |
 | 157 | 0 | classical |
 | 15 | 0 | german classical piano |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/playlists/chopin/genres.png)
 
@@ -113,15 +85,15 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="Martha Argerich Live, Vol. 4" width="50" /> <span style="padding-left:10px;">Martha Argerich Live, Vol. 4 (2017-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> <span style="padding-left:10px;">Chopin: Ballades; Barcarolle; Fantaisie (1988-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al." width="50" /> <span style="padding-left:10px;">Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. (2010-04-05)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> <span style="padding-left:10px;">Frederic Chopin - Waltzes & Nocturnes (1994-07-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> <span style="padding-left:10px;">Chopin: Nocturnes (2005-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> <span style="padding-left:10px;">Chopin: Polonaises (1996-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> <span style="padding-left:10px;">Chopin: Preludes; Sonata No.2 (2002-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> <span style="padding-left:10px;">Chopin: Nocturnes; Four Ballades (1997-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> <span style="padding-left:10px;">Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> <span style="padding-left:10px;">Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> <span style="padding-left:10px;">Chopin: Nocturnes; Four Ballades (1997-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> <span style="padding-left:10px;">Chopin: Preludes; Sonata No.2 (2002-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> <span style="padding-left:10px;">Chopin: Polonaises (1996-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> <span style="padding-left:10px;">Chopin: Nocturnes (2005-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> <span style="padding-left:10px;">Frederic Chopin - Waltzes & Nocturnes (1994-07-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al." width="50" /> <span style="padding-left:10px;">Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. (2010-04-05)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> <span style="padding-left:10px;">Chopin: Ballades; Barcarolle; Fantaisie (1988-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="Martha Argerich Live, Vol. 4" width="50" /> <span style="padding-left:10px;">Martha Argerich Live, Vol. 4 (2017-01-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="Martha Argerich Live, Vol. 4" width="50" /> <span>Martha Argerich Live, Vol. 4 (2017-01-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> <span>Chopin: Ballades; Barcarolle; Fantaisie (1988-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al." width="50" /> <span>Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. (2010-04-05)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> <span>Frederic Chopin - Waltzes & Nocturnes (1994-07-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> <span>Chopin: Nocturnes (2005-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> <span>Chopin: Polonaises (1996-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> <span>Chopin: Preludes; Sonata No.2 (2002-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> <span>Chopin: Nocturnes; Four Ballades (1997-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> <span>Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> <span>Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> <span>Chopin: Nocturnes; Four Ballades (1997-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> <span>Chopin: Preludes; Sonata No.2 (2002-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> <span>Chopin: Polonaises (1996-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> <span>Chopin: Nocturnes (2005-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> <span>Frederic Chopin - Waltzes & Nocturnes (1994-07-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al." width="50" /> <span>Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. (2010-04-05)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> <span>Chopin: Ballades; Barcarolle; Fantaisie (1988-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="Martha Argerich Live, Vol. 4" width="50" /> <span>Martha Argerich Live, Vol. 4 (2017-01-20)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

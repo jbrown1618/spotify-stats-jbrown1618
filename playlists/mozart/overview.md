@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 50 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 148 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
@@ -23,6 +19,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="" width="50" /> | 11 | 0 | Gerd Seifert | [🔗](https://open.spotify.com/artist/4aIYtx2Z5X9vRlysnruy66) |
 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 7 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebae5e23c13f72e0ee01dfa99b" alt="" width="50" /> | 6 | 0 | Anne-Sophie Mutter | [🔗](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn) |
+
+
+<details>
+<summary>See all 50 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 6 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0931477643a0f9b69d261c41" alt="" width="50" /> | 6 | 0 | András Schiff | [🔗](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273629fe5d9aee2869873b588bd" alt="" width="50" /> | 5 | 0 | Werner Krenn | [🔗](https://open.spotify.com/artist/3PuXD6h01YqjNWQ055CWxA) |
@@ -73,10 +76,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 5 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | 115 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
@@ -85,44 +84,27 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="" width="50" /> | 4 | 0 | Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 | 2017-12-08 | [🔗](https://open.spotify.com/album/3WHqaCZ66SWzL7LyYnrn9y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="" width="50" /> | 3 | 0 | Mozart: Eine Kleine Nachtmusik etc. | 1986 | [🔗](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) |
 
-</details>
-
-
 ![Bar chart of top 5 albums](../../images/playlists/mozart/albums.png)
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 5 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 115 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house) |
-| 20 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group) |
-| 6 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
+| 115 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 20 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group/overview.md) |
+| 6 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
 | 4 | 0 | JPK Musik |
-| 3 | 0 | [Warner Classics](../../labels/warner_classics) |
-
-</details>
-
+| 3 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 
 ![Bar chart of top 5 record labels](../../images/playlists/mozart/labels.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 3 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 148 | 0 | lullaby |
 | 148 | 0 | classical era |
 | 148 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 3 genres](../../images/playlists/mozart/genres.png)
 
@@ -146,11 +128,11 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> <span style="padding-left:10px;">Mozart Piano Pieces (2020-10-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> <span style="padding-left:10px;">Mozart: The Piano Sonatas (1981-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span style="padding-left:10px;">Karajan - Mozart (2020-06-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="Mozart: Eine Kleine Nachtmusik etc." width="50" /> <span style="padding-left:10px;">Mozart: Eine Kleine Nachtmusik etc. (1986)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3" width="50" /> <span style="padding-left:10px;">Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 (2017-12-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3" width="50" /> <span style="padding-left:10px;">Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 (2017-12-08)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="Mozart: Eine Kleine Nachtmusik etc." width="50" /> <span style="padding-left:10px;">Mozart: Eine Kleine Nachtmusik etc. (1986)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span style="padding-left:10px;">Karajan - Mozart (2020-06-16)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> <span style="padding-left:10px;">Mozart: The Piano Sonatas (1981-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> <span style="padding-left:10px;">Mozart Piano Pieces (2020-10-13)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> <span>Mozart Piano Pieces (2020-10-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> <span>Mozart: The Piano Sonatas (1981-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span>Karajan - Mozart (2020-06-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="Mozart: Eine Kleine Nachtmusik etc." width="50" /> <span>Mozart: Eine Kleine Nachtmusik etc. (1986)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3" width="50" /> <span>Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 (2017-12-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3" width="50" /> <span>Mozart: Symphony No. 40 in G Minor, Bassoon Concerto & Flute Serenades Nos. 1 & 3 (2017-12-08)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27350f0e9f3fe510cfe42f5f2d9" alt="Mozart: Eine Kleine Nachtmusik etc." width="50" /> <span>Mozart: Eine Kleine Nachtmusik etc. (1986)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> <span>Karajan - Mozart (2020-06-16)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> <span>Mozart: The Piano Sonatas (1981-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> <span>Mozart Piano Pieces (2020-10-13)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

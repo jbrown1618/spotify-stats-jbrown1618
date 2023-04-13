@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 7 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 20 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
@@ -21,16 +17,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 1 | 0 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | 1 | 0 | Hank Green | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |
 
-</details>
-
-
 ![Bar chart of top 7 artists](../../images/labels/peter_hollens/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 5 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -40,23 +29,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="" width="50" /> | 1 | 0 | The Sound of Silence | 2017 | [🔗](https://open.spotify.com/album/2csjrZ6lbV7wWvVTsEi7u0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="" width="50" /> | 1 | 0 | Peter Hollens | 2014-10-27 | [🔗](https://open.spotify.com/album/5kB9QXjsPtcUwvlj4w0dZV) |
 
-</details>
-
-
 ![Bar chart of top 5 albums](../../images/labels/peter_hollens/albums.png)
 
 ## Genres
 
-
-<details>
-<summary>See all 1 genres</summary>
-
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 0 | fantasy |
-
-</details>
-
 
 
 
@@ -74,6 +53,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="" width="50" /> | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens, Tim Foust | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/21sD95jUPmren2fGY0wxYE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="" width="50" /> | Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/1Ht9LvTpP6bZezGCL2BRHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="" width="50" /> | The Sound of Silence | The Sound of Silence | Peter Hollens, Tim Foust | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/10kJzrXI48v0wzRBBPjo06) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | Hamilton Medley | Covers, Vol. III | Peter Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/7HU8e7VCXuhOSaDoQ5UBwn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | Mad World | Covers, Vol. III | Peter Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/3K3mORNnlUXodukHH0sDjr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens, Evynne Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/7FpJ62ZQtyitL40diEH9vf) |
@@ -84,3 +70,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/76ko6F6QRmiviFILuF9g6J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | The Prayer | Legendary Covers, Vol. 1 | Peter Hollens, Evynne Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/22NQSPn3K3NUzoVe4zbQWU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | [Peter Hollens](.) | | [🔗](https://open.spotify.com/track/57EvTXkeuxNPWxQYIdW5AY) |
+
+</details>
+

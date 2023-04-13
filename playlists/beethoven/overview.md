@@ -7,10 +7,6 @@
 
 ## Top Artists
 
-
-<details>
-<summary>See all 11 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 166 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
@@ -23,6 +19,13 @@
 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 1 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
+
+
+<details>
+<summary>See all 11 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | 1 | 0 | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
 
 </details>
@@ -34,10 +37,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 5 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
@@ -46,33 +45,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
 
-</details>
-
-
 ![Bar chart of top 5 albums](../../images/playlists/beethoven/albums.png)
 
 ## Top Record Labels
 
-
-<details>
-<summary>See all 3 labels</summary>
-
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) |
-| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) |
-| 21 | 0 | [PENTATONE](../../labels/pentatone) |
-
-</details>
-
+| 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
+| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 21 | 0 | [PENTATONE](../../labels/pentatone/overview.md) |
 
 ![Bar chart of top 3 record labels](../../images/playlists/beethoven/labels.png)
 
 ## Genres
-
-
-<details>
-<summary>See all 4 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -80,9 +65,6 @@
 | 166 | 0 | early romantic era |
 | 166 | 0 | classical era |
 | 166 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 4 genres](../../images/playlists/beethoven/genres.png)
 
@@ -107,11 +89,11 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="Beethoven: Piano Sonatas Nos. 30, 31 & 32" width="50" /> <span style="padding-left:10px;">Beethoven: Piano Sonatas Nos. 30, 31 & 32 (2012-03-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique"" width="50" /> <span style="padding-left:10px;">Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> <span style="padding-left:10px;">Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="Beethoven: 9 Symphonies; Overtures" width="50" /> <span style="padding-left:10px;">Beethoven: 9 Symphonies; Overtures (1993-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven: The Piano Sonatas" width="50" /> <span style="padding-left:10px;">Beethoven: The Piano Sonatas (1995-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven: The Piano Sonatas" width="50" /> <span style="padding-left:10px;">Beethoven: The Piano Sonatas (1995-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="Beethoven: 9 Symphonies; Overtures" width="50" /> <span style="padding-left:10px;">Beethoven: 9 Symphonies; Overtures (1993-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> <span style="padding-left:10px;">Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique"" width="50" /> <span style="padding-left:10px;">Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="Beethoven: Piano Sonatas Nos. 30, 31 & 32" width="50" /> <span style="padding-left:10px;">Beethoven: Piano Sonatas Nos. 30, 31 & 32 (2012-03-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="Beethoven: Piano Sonatas Nos. 30, 31 & 32" width="50" /> <span>Beethoven: Piano Sonatas Nos. 30, 31 & 32 (2012-03-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique"" width="50" /> <span>Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> <span>Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="Beethoven: 9 Symphonies; Overtures" width="50" /> <span>Beethoven: 9 Symphonies; Overtures (1993-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven: The Piano Sonatas" width="50" /> <span>Beethoven: The Piano Sonatas (1995-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven: The Piano Sonatas" width="50" /> <span>Beethoven: The Piano Sonatas (1995-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="Beethoven: 9 Symphonies; Overtures" width="50" /> <span>Beethoven: 9 Symphonies; Overtures (1993-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> <span>Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique"" width="50" /> <span>Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="Beethoven: Piano Sonatas Nos. 30, 31 & 32" width="50" /> <span>Beethoven: Piano Sonatas Nos. 30, 31 & 32 (2012-03-06)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

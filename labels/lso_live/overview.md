@@ -7,10 +7,6 @@ Appears as:
 
 ## Top Artists
 
-
-<details>
-<summary>See all 7 artists</summary>
-
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/32bf53aa73dbb81c615a91324efea0bcfff4b440" alt="" width="50" /> | 13 | 0 | Felix Mendelssohn | [🔗](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710) |
@@ -21,40 +17,23 @@ Appears as:
 | <img src="nan" alt="" width="50" /> | 4 | 0 | Frankie Wakefield | [🔗](https://open.spotify.com/artist/7jobsaZIFhejECE605yxx6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1572201eabc7158f8ab9ceff" alt="" width="50" /> | 2 | 0 | The Monteverdi Choir | [🔗](https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW) |
 
-</details>
-
-
 ![Bar chart of top 7 artists](../../images/labels/lso_live/artists.png)
 
 ## Top Albums
-
-
-<details>
-<summary>See all 1 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 13 | 0 | Mendelssohn: A Midsummer Night's Dream | 2017-02-03 | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
 
-</details>
-
-
 
 
 ## Genres
-
-
-<details>
-<summary>See all 3 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 13 | 0 | german romanticism |
 | 13 | 0 | early romantic era |
 | 13 | 0 | classical |
-
-</details>
-
 
 ![Bar chart of top 3 genres](../../images/labels/lso_live/genres.png)
 
@@ -72,6 +51,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 5, Allegro appassionato | Mendelssohn: A Midsummer Night's Dream | Felix Mendelssohn, London Symphony Orchestra, Ceri-lyn Cissone, John Eliot Gardiner, Alexander Knox | [Lso Live](.) | | [🔗](https://open.spotify.com/track/5XWKRz9i2PQWI3PsW0FmQj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 7, Nocturne. Con moto tranquillo | Mendelssohn: A Midsummer Night's Dream | Felix Mendelssohn, John Eliot Gardiner, London Symphony Orchestra | [Lso Live](.) | | [🔗](https://open.spotify.com/track/5lmp8r1rxxI6FuluNPBm82) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante | Mendelssohn: A Midsummer Night's Dream | Felix Mendelssohn, London Symphony Orchestra, John Eliot Gardiner, Frankie Wakefield, Alexander Knox, Ceri-lyn Cissone | [Lso Live](.) | | [🔗](https://open.spotify.com/track/2QYtN5MiVrF7OJFpkJvLrS) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 9, Hochzeitmarsch "Wedding March" - No. 12, Allegro vivace come primo | Mendelssohn: A Midsummer Night's Dream | Felix Mendelssohn, London Symphony Orchestra, John Eliot Gardiner, Alexander Knox | [Lso Live](.) | | [🔗](https://open.spotify.com/track/1ipR2jLKKgr7X9xJyd54Kx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Overture to "A Midsummer Night's Dream", Op. 21: Allegro di molto | Mendelssohn: A Midsummer Night's Dream | Felix Mendelssohn, London Symphony Orchestra, John Eliot Gardiner | [Lso Live](.) | | [🔗](https://open.spotify.com/track/7pz2npttELZeXmDgYfCDlE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | Overture to "A Midsummer Night's Dream", Op. 21: Tempo primo | Mendelssohn: A Midsummer Night's Dream | Felix Mendelssohn, John Eliot Gardiner, London Symphony Orchestra | [Lso Live](.) | | [🔗](https://open.spotify.com/track/2idvFSH2im8mdSaMiE81vn) |
+
+</details>
+

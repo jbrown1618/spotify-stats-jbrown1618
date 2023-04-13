@@ -7,41 +7,43 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 6 | 6 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 5 | 5 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 4 | 4 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 2 | 2 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 2 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 2 | 2 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 2 | 2 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 1 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
+
 
 <details>
 <summary>See all 50 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 6 | 6 | [Sara Bareilles](../../artists/sara_bareilles) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 5 | 5 | [The Beatles](../../artists/the_beatles) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 4 | 4 | [Billy Joel](../../artists/billy_joel) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 2 | 2 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 2 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 2 | 2 | [Queen](../../artists/queen) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bubl_) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 2 | 2 | [Bruno Mars](../../artists/bruno_mars) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 1 | [Frank Sinatra](../../artists/frank_sinatra) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 2 | 0 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 1 | 1 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 1 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | 1 | 1 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 1 | 1 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | 1 | 1 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 1 | [Rihanna](../../artists/rihanna) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 1 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 1 | 1 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 1 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | 1 | 1 | Marc Broussard | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 1 | 1 | [Radiohead](../../artists/radiohead) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 1 | 1 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 1 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98" alt="" width="50" /> | 1 | 1 | Nickel Creek | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
@@ -52,14 +54,15 @@
 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | 1 | 1 | Gotye | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 1 | 1 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 1 | 1 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 1 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 1 | 1 | [Taylor Swift](../../artists/taylor_swift) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 1 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 1 | 1 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 2 | 0 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | 1 | 0 | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
@@ -73,10 +76,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 56 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 4 | 4 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
@@ -89,6 +88,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 1 | 1 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | 1 | 1 | Trading Snakeoil for Wolftickets | 2001-01-01 | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
+
+
+<details>
+<summary>See all 56 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | 1 | 1 | The Temptations Sing Smokey | 1965-03-22 | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | 1 | 1 | The Lady Killer | 2010-11-09 | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | 1 | 1 | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
@@ -143,54 +149,57 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 8 | 8 | [Columbia](../../labels/columbia/overview.md) |
+| 7 | 7 | [Epic](../../labels/epic/overview.md) |
+| 5 | 5 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 3 | 3 | [Warner Records](../../labels/warner_records/overview.md) |
+| 3 | 3 | [MOTOWN](../../labels/motown/overview.md) |
+| 3 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 2 | 2 | [UNI](../../labels/uni/overview.md) |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
+| 2 | 2 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+
 
 <details>
 <summary>See all 43 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 8 | 8 | [Columbia](../../labels/columbia) |
-| 7 | 7 | [Epic](../../labels/epic) |
-| 5 | 5 | [EMI Catalogue](../../labels/emi_catalogue) |
-| 3 | 3 | [Warner Records](../../labels/warner_records) |
-| 3 | 3 | [MOTOWN](../../labels/motown) |
-| 3 | 3 | [Atlantic Records](../../labels/atlantic_records) |
-| 3 | 1 | [XL Recordings](../../labels/xl_recordings) |
-| 2 | 2 | [UNI](../../labels/uni) |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
-| 2 | 2 | [Reprise](../../labels/reprise) |
-| 2 | 2 | [Hollywood Records](../../labels/hollywood_records) |
 | 2 | 2 | Elektra |
-| 2 | 2 | [143](../../labels/143) |
+| 2 | 2 | [143](../../labels/143/overview.md) |
+| 3 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 2 | 1 | FRANK SINATRA DIGITAL REPRISE |
 | 1 | 1 | sensibility recordings |
-| 1 | 1 | [Virgin Records](../../labels/virgin_records) |
-| 1 | 1 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
+| 1 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
+| 1 | 1 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 1 | 1 | UMG Recordings |
-| 1 | 1 | [Taylor Swift](../../labels/taylor_swift) |
+| 1 | 1 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 1 | 1 | Sugar Hill Records |
 | 1 | 1 | Steam Powered Giraffe |
-| 1 | 1 | [Rhino](../../labels/rhino) |
+| 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Radiculture |
-| 1 | 1 | [RCA Records Label](../../labels/rca_records_label) |
+| 1 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 1 | RBMG |
 | 1 | 1 | Parlophone UK |
 | 1 | 1 | Parlophone Records Limited |
 | 1 | 1 | Parkwood Entertainment |
 | 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | Mercury Records |
-| 1 | 1 | [Jive](../../labels/jive) |
+| 1 | 1 | [Jive](../../labels/jive/overview.md) |
 | 1 | 1 | Island Records |
 | 1 | 1 | Island Def Jam |
-| 1 | 1 | [Interscope Records](../../labels/interscope_records) |
+| 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | 1 | Down Up Down Music |
-| 1 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings) |
+| 1 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 1 | 1 | Def Jam |
-| 1 | 1 | [Capitol Records](../../labels/capitol_records) |
+| 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | Bad Boy |
 | 1 | 1 | ATG |
-| 1 | 0 | [Polydor Records](../../labels/polydor_records) |
+| 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Def Soul |
 
 </details>
@@ -200,66 +209,65 @@
 
 ## Genres
 
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 17 | 17 | [rock](../../genres/rock/overview.md) |
+| 19 | 16 | [pop](../../genres/pop/overview.md) |
+| 14 | 14 | [classic rock](../../genres/classic_rock/overview.md) |
+| 13 | 12 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 11 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
+| 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 10 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
+| 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
+| 8 | 8 | piano rock |
+
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 75 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 24 | [pop](../../genres/pop) |
-| 17 | 16 | [rock](../../genres/rock) |
-| 14 | 14 | [classic rock](../../genres/classic_rock) |
-| 13 | 12 | [neo mellow](../../genres/neo_mellow) |
-| 10 | 10 | [mellow gold](../../genres/mellow_gold) |
-| 10 | 10 | [acoustic pop](../../genres/acoustic_pop) |
-| 10 | 9 | [pop rock](../../genres/pop_rock) |
-| 10 | 9 | [dance pop](../../genres/dance_pop) |
-| 8 | 8 | piano rock |
-| 7 | 7 | [soft rock](../../genres/soft_rock) |
-| 7 | 7 | [lilith](../../genres/lilith) |
-| 7 | 7 | [folk rock](../../genres/folk_rock) |
-| 6 | 6 | [hollywood](../../genres/hollywood) |
-| 6 | 5 | [adult standards](../../genres/adult_standards) |
-| 5 | 5 | [singer-songwriter](../../genres/singer_songwriter) |
+| 7 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
+| 6 | 6 | heartland rock |
+| 5 | 5 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 5 | 5 | psychedelic rock |
 | 5 | 5 | merseybeat |
 | 5 | 5 | british invasion |
 | 5 | 5 | beatlesque |
-| 5 | 4 | [lounge](../../genres/lounge) |
+| 5 | 5 | [album rock](../../genres/album_rock/overview.md) |
+| 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
+| 5 | 4 | [adult standards](../../genres/adult_standards/overview.md) |
 | 4 | 4 | glam rock |
 | 4 | 3 | permanent wave |
-| 4 | 2 | uk pop |
+| 4 | 3 | lounge |
+| 3 | 3 | soul |
 | 3 | 3 | motown |
 | 3 | 3 | canadian pop |
 | 3 | 3 | australian pop |
-| 3 | 2 | [r&b](../../genres/r_b) |
-| 2 | 2 | viral pop |
-| 2 | 2 | soul |
-| 2 | 2 | [post-teen pop](../../genres/post_teen_pop) |
-| 2 | 2 | new americana |
-| 2 | 2 | modern rock |
-| 2 | 2 | modern alternative rock |
+| 4 | 2 | uk pop |
+| 3 | 2 | [r&b](../../genres/r_b/overview.md) |
+| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
-| 2 | 2 | indie folk |
-| 2 | 2 | funk |
-| 2 | 2 | [electropop](../../genres/electropop) |
+| 2 | 2 | folk rock |
+| 2 | 2 | folk |
 | 2 | 2 | atl hip hop |
 | 2 | 1 | urban contemporary |
 | 2 | 1 | easy listening |
-| 2 | 0 | pop soul |
-| 2 | 0 | british soul |
 | 1 | 1 | yacht rock |
+| 1 | 1 | uk dance |
 | 1 | 1 | uk alternative pop |
-| 1 | 1 | tropical house |
+| 1 | 1 | talent show |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
-| 1 | 1 | shimmer pop |
-| 1 | 1 | roots rock |
 | 1 | 1 | quiet storm |
 | 1 | 1 | progressive bluegrass |
 | 1 | 1 | oxford indie |
+| 1 | 1 | new americana |
 | 1 | 1 | neo soul |
+| 1 | 1 | modern alternative rock |
 | 1 | 1 | memphis soul |
 | 1 | 1 | mandolin |
 | 1 | 1 | lafayette indie |
@@ -267,28 +275,23 @@
 | 1 | 1 | irish singer-songwriter |
 | 1 | 1 | instrumental bluegrass |
 | 1 | 1 | indy indie |
-| 1 | 1 | indiecoustica |
 | 1 | 1 | indie rock |
-| 1 | 1 | indie poptimism |
 | 1 | 1 | indie pop |
-| 1 | 1 | heartland rock |
-| 1 | 1 | folk |
-| 1 | 1 | escape room |
+| 1 | 1 | indie folk |
+| 1 | 1 | funk |
 | 1 | 1 | disco |
-| 1 | 1 | country rock |
-| 1 | 1 | comic |
-| 1 | 1 | classic soul |
+| 1 | 1 | chamber pop |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |
 | 1 | 1 | baroque pop |
 | 1 | 1 | barbadian pop |
 | 1 | 1 | australian dance |
 | 1 | 1 | art rock |
-| 1 | 1 | anti-folk |
 | 1 | 1 | alternative rock |
 | 1 | 1 | alternative r&b |
-| 1 | 1 | album rock |
 | 1 | 1 | afrofuturism |
+| 2 | 0 | pop soul |
+| 2 | 0 | british soul |
 | 1 | 0 | irish rock |
 
 </details>
@@ -304,16 +307,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span style="padding-left:10px;">Justice (2021-03-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span style="padding-left:10px;">Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="Future Nostalgia" width="50" /> <span style="padding-left:10px;">Future Nostalgia (2020-03-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span style="padding-left:10px;">The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="Put A Little Love On Me" width="50" /> <span style="padding-left:10px;">Put A Little Love On Me (2019-12-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span style="padding-left:10px;">Help! (Remastered) (1965-08-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="Aussie Legends" width="50" /> <span style="padding-left:10px;">Aussie Legends (2019-11-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> <span style="padding-left:10px;">Abbey Road (Remastered) (1969-09-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> <span style="padding-left:10px;">Lover (2019-08-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> <span style="padding-left:10px;">Diana Ross Presents The Jackson 5 (1969-12-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span style="padding-left:10px;">Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> <span style="padding-left:10px;">Bridge Over Troubled Water (1970-01-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> <span style="padding-left:10px;">1000 Forms Of Fear (Deluxe Version) (2015-05-04)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Moondance (Deluxe Edition) (1970-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> <span style="padding-left:10px;">Ella Eyre (2015-01-12)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> <span style="padding-left:10px;">Elton John (1970-04-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Hozier (Expanded Edition) (2014-09-19)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> <span style="padding-left:10px;">Desperado (2013 Remaster) (1973)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span style="padding-left:10px;">Is There Anybody Out There? (2014-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> <span style="padding-left:10px;">Goodbye Yellow Brick Road (Remastered) (1973-10-05)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> <span>Justice (2021-03-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span>Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="Future Nostalgia" width="50" /> <span>Future Nostalgia (2020-03-27)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span>The Temptations Sing Smokey (1965-03-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="Put A Little Love On Me" width="50" /> <span>Put A Little Love On Me (2019-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="Aussie Legends" width="50" /> <span>Aussie Legends (2019-11-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> <span>Abbey Road (Remastered) (1969-09-26)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> <span>Lover (2019-08-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> <span>Diana Ross Presents The Jackson 5 (1969-12-18)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span>Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> <span>Bridge Over Troubled Water (1970-01-26)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> <span>1000 Forms Of Fear (Deluxe Version) (2015-05-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> <span>Moondance (Deluxe Edition) (1970-02)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> <span>Ella Eyre (2015-01-12)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> <span>Elton John (1970-04-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> <span>Hozier (Expanded Edition) (2014-09-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> <span>Desperado (2013 Remaster) (1973)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span>Is There Anybody Out There? (2014-01-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> <span>Goodbye Yellow Brick Road (Remastered) (1973-10-05)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

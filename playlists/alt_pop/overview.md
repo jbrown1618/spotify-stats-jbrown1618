@@ -7,27 +7,30 @@
 
 ## Top Artists
 
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 17 | 15 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | 5 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 5 | 2 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
+
 
 <details>
 <summary>See all 56 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 17 | 15 | [Florence + The Machine](../../artists/florence___the_machine) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | 7 | 1 | Sammy Rae & The Friends | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | 5 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 5 | 2 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
-| <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | 4 | 1 | Jem | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8167bcebaf508dc6c3459b1" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 2 | 2 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | 7 | 1 | Sammy Rae & The Friends | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
+| <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | 4 | 1 | Jem | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
@@ -79,10 +82,6 @@
 
 ## Top Albums
 
-
-<details>
-<summary>See all 70 albums</summary>
-
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 7 | 7 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
@@ -95,6 +94,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 4 | 4 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 4 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | 4 | 3 | Beatrix Runs | 2012 | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
+
+
+<details>
+<summary>See all 70 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27355e0ff4cbb5df5c780a4319b" alt="" width="50" /> | 4 | 2 | Awake at the Bottom of the Ocean | 2017-02-10 | [🔗](https://open.spotify.com/album/7G36cnLPx9CuqnmZXYna4a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="" width="50" /> | 4 | 1 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="" width="50" /> | 4 | 1 | Finally Woken | 2004-03-23 | [🔗](https://open.spotify.com/album/3RkjNfqqlhWyLrRp0ZCARU) |
@@ -163,30 +169,33 @@
 
 ## Top Record Labels
 
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
+| 15 | 13 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 13 | 11 | [Darkroom](../../labels/darkroom/overview.md) |
+| 19 | 10 | [Polydor Records](../../labels/polydor_records/overview.md) |
+| 11 | 9 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 13 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
+| 8 | 8 | Monkey Puzzle Records |
+| 5 | 4 | Atlantic Records UK |
+| 4 | 4 | Sire |
+| 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
+
 
 <details>
 <summary>See all 42 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 19 | 10 | [Polydor Records](../../labels/polydor_records) |
-| 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
-| 15 | 13 | [RCA Records Label](../../labels/rca_records_label) |
-| 13 | 11 | [Darkroom](../../labels/darkroom) |
-| 13 | 8 | [Warner Records](../../labels/warner_records) |
-| 11 | 9 | [Interscope Records](../../labels/interscope_records) |
-| 8 | 8 | Monkey Puzzle Records |
-| 7 | 1 | Nettwerk Records |
-| 5 | 4 | Atlantic Records UK |
-| 5 | 2 | Lux Finite Music |
-| 4 | 4 | Sire |
-| 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc) |
-| 4 | 1 | ATO Records |
 | 3 | 3 | Sony BMG Music UK |
+| 5 | 2 | Lux Finite Music |
+| 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
+| 2 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 7 | 1 | Nettwerk Records |
+| 4 | 1 | ATO Records |
 | 3 | 1 | Kimbra |
-| 2 | 2 | [Columbia](../../labels/columbia) |
-| 2 | 2 | [Capitol Records](../../labels/capitol_records) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records) |
 | 1 | 1 | half·alive |
 | 1 | 1 | ZAR |
 | 1 | 1 | Wyvern Lingo |
@@ -196,7 +205,7 @@
 | 1 | 1 | UMG Recordings |
 | 1 | 1 | Superpop.Co |
 | 1 | 1 | SBS Contents Hub Co. |
-| 1 | 1 | [Republic Records](../../labels/republic_records) |
+| 1 | 1 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | Perpetual Novice |
 | 1 | 1 | Parlophone Denmark |
 | 1 | 1 | Not specified |
@@ -219,67 +228,68 @@
 
 ## Genres
 
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
+| 49 | 38 | [pop](../../genres/pop/overview.md) |
+| 34 | 22 | [art pop](../../genres/art_pop/overview.md) |
+| 32 | 21 | electropop |
+| 23 | 19 | [modern rock](../../genres/modern_rock/overview.md) |
+| 18 | 15 | baroque pop |
+| 17 | 15 | uk alternative pop |
+| 15 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
+| 10 | 10 | australian pop |
+| 16 | 9 | nz pop |
+| 16 | 9 | bergen indie |
+
 
 <details>
-<summary>See all 58 genres</summary>
+<summary>See all 56 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 69 | 56 | [pop](../../genres/pop) |
-| 34 | 23 | [electropop](../../genres/electropop) |
-| 33 | 22 | [art pop](../../genres/art_pop) |
-| 18 | 15 | baroque pop |
-| 17 | 15 | uk alternative pop |
-| 17 | 15 | [dance pop](../../genres/dance_pop) |
-| 17 | 9 | indie pop |
-| 16 | 9 | nz pop |
-| 16 | 9 | bergen indie |
 | 11 | 8 | metropopolis |
-| 10 | 10 | australian pop |
-| 9 | 7 | etherpop |
+| 9 | 8 | indie pop |
 | 8 | 8 | australian dance |
-| 8 | 5 | [lilith](../../genres/lilith) |
-| 8 | 2 | nyc pop |
+| 9 | 7 | etherpop |
+| 7 | 6 | pop dance |
+| 8 | 5 | [lilith](../../genres/lilith/overview.md) |
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |
-| 5 | 5 | tropical house |
-| 5 | 5 | pop rap |
-| 5 | 5 | pop dance |
-| 5 | 5 | edm |
-| 5 | 3 | deep indie singer-songwriter |
 | 4 | 4 | piano rock |
+| 5 | 3 | deep indie singer-songwriter |
+| 8 | 2 | nyc pop |
 | 3 | 2 | indietronica |
 | 2 | 2 | irish singer-songwriter |
+| 4 | 1 | deep acoustic pop |
 | 2 | 1 | uk pop |
 | 2 | 1 | shiver pop |
-| 2 | 1 | [post-teen pop](../../genres/post_teen_pop) |
-| 2 | 1 | modern rock |
+| 2 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 1 | gauze pop |
 | 2 | 1 | candy pop |
 | 2 | 1 | canadian pop |
-| 1 | 1 | viral pop |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk contemporary r&b |
-| 1 | 1 | nu jazz |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | korean indie rock |
+| 1 | 1 | k-rock |
 | 1 | 1 | italian pop |
 | 1 | 1 | irish pop |
 | 1 | 1 | indie rock italiano |
-| 1 | 1 | indie poptimism |
 | 1 | 1 | escape room |
+| 1 | 1 | electro swing |
 | 1 | 1 | dutch pop |
 | 1 | 1 | downtempo |
 | 1 | 1 | danish pop |
 | 1 | 1 | bedroom pop |
 | 1 | 1 | alt z |
+| 2 | 0 | indie rock |
 | 1 | 0 | swedish synthpop |
 | 1 | 0 | swedish pop |
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish electropop |
 | 1 | 0 | swedish alternative rock |
-| 1 | 0 | stomp and holler |
 | 1 | 0 | new rave |
-| 1 | 0 | indie rock |
+| 1 | 0 | dance-punk |
 | 1 | 0 | chamber pop |
 | 1 | 0 | canadian indie |
 | 1 | 0 | alternative dance |
@@ -297,16 +307,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="A Reckoning" width="50" /> <span style="padding-left:10px;">A Reckoning (2023-01-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> <span style="padding-left:10px;">Finally Woken (2004-03-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> <span style="padding-left:10px;">Surrender (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> <span style="padding-left:10px;">Speak for Yourself (2005-07-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span style="padding-left:10px;">Guitar Songs (2022-07-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer's Block" width="50" /> <span style="padding-left:10px;">Writer's Block (2006-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span style="padding-left:10px;">Dance Fever (2022-05-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> <span style="padding-left:10px;">Goodnight And Go (2006-05-02)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> <span style="padding-left:10px;">A New Kind Of Love (Demo) (2022-04-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> <span style="padding-left:10px;">Begin to Hope (2006-06-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> <span style="padding-left:10px;">The Reminder (2007-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> <span style="padding-left:10px;">Anjulie (2009-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> <span style="padding-left:10px;">Billions (2022-02-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> <span style="padding-left:10px;">Lungs (2009-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> <span style="padding-left:10px;">Happier Than Ever (2021-07-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> <span style="padding-left:10px;">Far (2009-06-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span style="padding-left:10px;">Taxidriver OST Part.1 (2021-04-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> <span style="padding-left:10px;">Ellipse (2009-08-25)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="A Reckoning" width="50" /> <span>A Reckoning (2023-01-27)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> <span>Finally Woken (2004-03-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> <span>Surrender (2022-07-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> <span>Speak for Yourself (2005-07-18)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span>Guitar Songs (2022-07-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer's Block" width="50" /> <span>Writer's Block (2006-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span>Dance Fever (2022-05-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> <span>Goodnight And Go (2006-05-02)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> <span>A New Kind Of Love (Demo) (2022-04-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> <span>Begin to Hope (2006-06-13)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span>CRASH (2022-03-18)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> <span>The Reminder (2007-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span>Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> <span>Anjulie (2009-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> <span>Billions (2022-02-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> <span>Lungs (2009-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> <span>Happier Than Ever (2021-07-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> <span>Far (2009-06-09)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> <span>Taxidriver OST Part.1 (2021-04-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> <span>Ellipse (2009-08-25)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
