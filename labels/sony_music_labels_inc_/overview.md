@@ -27,7 +27,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bab09e161020c684510876d" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf" alt="" width="50" /> | 1 | 0 | LiSA | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb83fb533deff1773f1c4a2fbd" alt="" width="50" /> | 1 | 0 | Ling tosite sigure | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb32362bf1ba9d1b5fbc0a8faa" alt="" width="50" /> | 1 | 0 | Ling tosite sigure | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
 
 </details>
 
@@ -63,7 +63,7 @@ Appears as:
 
 
 <details>
-<summary>See all 23 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -81,7 +81,6 @@ Appears as:
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
 | 1 | 0 | j-rock |
-| 1 | 0 | j-poprock |
 | 1 | 0 | j-pixie |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | early music |
@@ -94,7 +93,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 23 genres](../../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 22 genres](../../images/labels/sony_music_labels_inc_/genres.png)
 
 ## Tracks released under Sony Music Labels Inc.
 

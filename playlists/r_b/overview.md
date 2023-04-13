@@ -226,9 +226,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 66 | 49 | [pop](../../genres/pop) |
+| 64 | 48 | [pop](../../genres/pop) |
 | 46 | 31 | [dance pop](../../genres/dance_pop) |
-| 37 | 22 | [r&b](../../genres/r_b) |
+| 35 | 21 | [r&b](../../genres/r_b) |
 | 24 | 16 | urban contemporary |
 | 12 | 11 | neo soul |
 | 12 | 6 | soul |

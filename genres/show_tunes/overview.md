@@ -1,12 +1,12 @@
 # show tunes
 
-[104 songs](tracks.md)
+[105 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 67 artists</summary>
+<summary>See all 68 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -52,6 +52,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcbddbda90806eeb748831e8" alt="" width="50" /> | 1 | 0 | Aaron Tveit | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21f0cc7dc3f69be76f6f7c11" alt="" width="50" /> | 1 | 0 | Joseph Williams | [🔗](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) |
 | <img src="https://i.scdn.co/image/7c02f971ca773681ca664c0e3b18f0266db9f20e" alt="" width="50" /> | 1 | 0 | Minnie Driver | [🔗](https://open.spotify.com/artist/5rNwd5kb1cxVBCQKnDO4b8) |
+| <img src="https://i.scdn.co/image/b7cb8a2d95ba2ca94fc0e133611b5b680014c52e" alt="" width="50" /> | 1 | 0 | Auli'i Cravalho | [🔗](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 1 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | 1 | 0 | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cc79e7adefed420553e65fe" alt="" width="50" /> | 1 | 0 | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
@@ -88,7 +89,7 @@
 
 
 <details>
-<summary>See all 16 albums</summary>
+<summary>See all 17 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -103,6 +104,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | 1 | 0 | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 1 | 0 | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | 1 | 0 | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
@@ -112,7 +114,7 @@
 </details>
 
 
-![Bar chart of top 16 albums](../../images/genres/show_tunes/albums.png)
+![Bar chart of top 17 albums](../../images/genres/show_tunes/albums.png)
 
 ## Top Record Labels
 
@@ -124,7 +126,7 @@
 |---:|---:|:---|
 | 44 | 3 | [Atlantic Records](../../labels/atlantic_records) |
 | 24 | 0 | [Polydor Records](../../labels/polydor_records) |
-| 12 | 0 | [Walt Disney Records](../../labels/walt_disney_records) |
+| 13 | 0 | [Walt Disney Records](../../labels/walt_disney_records) |
 | 11 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc) |
 | 10 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) |
 | 1 | 0 | [Warner Records](../../labels/warner_records) |
@@ -144,15 +146,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (1987-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span style="padding-left:10px;">Holiday Wishes (2014-10-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span style="padding-left:10px;">Beauty and the Beast (1991-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span style="padding-left:10px;">The Lion King (1994-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span style="padding-left:10px;">Pocahontas (1995-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> <span style="padding-left:10px;">Cappella (2013)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="Moana (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Moana (Original Motion Picture Soundtrack/Deluxe Edition) (2016-11-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span style="padding-left:10px;">Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> <span style="padding-left:10px;">Beauty and the Beast (1991-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span style="padding-left:10px;">Holiday Wishes (2014-10-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> <span style="padding-left:10px;">The Lion King (1994-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> <span style="padding-left:10px;">Pocahontas (1995-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span style="padding-left:10px;">Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> <span style="padding-left:10px;">Mulan (Original Soundtrack) (1998-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> <span style="padding-left:10px;">Cappella (2013)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="Aladdin Special Edition" width="50" /> <span style="padding-left:10px;">Aladdin Special Edition (2004-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> <span style="padding-left:10px;">The Little Mermaid Special Edition (2006-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> <span style="padding-left:10px;">The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> <span style="padding-left:10px;">The Journey so Far (2011-08-09)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

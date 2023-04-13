@@ -339,17 +339,18 @@
 | 3 | 3 | icelandic pop |
 | 3 | 2 | bitpop |
 | 3 | 1 | urbano latino |
-| 3 | 1 | j-poprock |
 | 3 | 0 | taiwan singer-songwriter |
 | 2 | 2 | shibuya-kei |
 | 2 | 2 | danish pop |
 | 2 | 2 | belgian pop |
+| 2 | 1 | trap latino |
 | 2 | 1 | rap tunisien |
 | 2 | 1 | puerto rican pop |
 | 2 | 1 | [pop](../../genres/pop) |
 | 2 | 1 | modern bollywood |
 | 2 | 1 | japanese emo |
 | 2 | 1 | j-rock |
+| 2 | 1 | j-poprock |
 | 2 | 1 | italian hip hop |
 | 2 | 1 | desi pop |
 | 2 | 1 | classic mandopop |
@@ -357,7 +358,6 @@
 | 2 | 0 | pop urbaine |
 | 2 | 0 | israeli mediterranean |
 | 2 | 0 | french hip hop |
-| 2 | 0 | francoton |
 | 2 | 0 | classic j-pop |
 | 2 | 0 | chinese indie |
 | 2 | 0 | chinese idol pop |
@@ -375,7 +375,6 @@
 | 1 | 1 | latin viral pop |
 | 1 | 1 | latin talent show |
 | 1 | 1 | latin hip hop |
-| 1 | 1 | [k-pop](../../genres/k_pop) |
 | 1 | 1 | j-acoustic |
 | 1 | 1 | italian pop |
 | 1 | 1 | italian adult pop |
@@ -405,6 +404,7 @@
 | 1 | 0 | israeli rock |
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
+| 1 | 0 | francoton |
 | 1 | 0 | eurobeat |
 | 1 | 0 | escape room |
 | 1 | 0 | [electropop](../../genres/electropop) |

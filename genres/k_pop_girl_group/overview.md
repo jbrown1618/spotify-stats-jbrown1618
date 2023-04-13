@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 19 | 15 | [MAMAMOO](../../artists/mamamoo) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 18 | 14 | [aespa](../../artists/aespa) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | 16 | 4 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 16 | 5 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 14 | 11 | [Dreamcatcher](../../artists/dreamcatcher) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 13 | 10 | [STAYC](../../artists/stayc) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 9 | 7 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -88,7 +88,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 11 | 1 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 11 | 2 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | 8 | 7 | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 8 | 6 | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 7 | 7 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
@@ -205,7 +205,7 @@
 | 95 | 69 | [SM Entertainment](../../labels/sm_entertainment) |
 | 74 | 49 | [Republic Records](../../labels/republic_records) |
 | 29 | 24 | [YG Entertainment](../../labels/yg_entertainment) |
-| 28 | 12 | [Starship Entertainment](../../labels/starship_entertainment) |
+| 28 | 13 | [Starship Entertainment](../../labels/starship_entertainment) |
 | 24 | 19 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) |
 | 23 | 19 | [Interscope Records](../../labels/interscope_records) |
 | 18 | 8 | [Universal Music LLC](../../labels/universal_music_llc) |

@@ -1,12 +1,12 @@
 # neo mellow
 
-[91 songs](tracks.md)
+[92 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -19,6 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
@@ -37,14 +38,14 @@
 </details>
 
 
-![Bar chart of top 23 artists](../../images/genres/neo_mellow/artists.png)
+![Bar chart of top 24 artists](../../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../../images/genres/neo_mellow/artists_comparison.png)
 ## Top Albums
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 31 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -63,6 +64,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | 1 | 1 | Trading Snakeoil for Wolftickets | 2001-01-01 | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | 1 | 1 | OK Now | 2008-01-01 | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | 1 | 1 | Love In The Future (Expanded Edition) | 2013-08-30 | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | 1 | 1 | Jagged Little Pill | 1995-06-09 | [🔗](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | 1 | 1 | Evolver | 2008-10-27 | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | 2006-01-01 | [🔗](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) |
@@ -88,7 +90,7 @@
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 17 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -103,6 +105,7 @@
 | 2 | 2 | ATG |
 | 2 | 1 | Island Def Jam |
 | 2 | 1 | EMI |
+| 1 | 1 | Maverick |
 | 1 | 1 | Island Records |
 | 1 | 1 | Down Up Down Music |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records) |
@@ -112,7 +115,7 @@
 </details>
 
 
-![Bar chart of top 16 record labels](../../images/genres/neo_mellow/labels.png)
+![Bar chart of top 17 record labels](../../images/genres/neo_mellow/labels.png)
 
 ## Years
 
@@ -120,16 +123,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="A Legendary Christmas: Deluxe Edition" width="50" /> <span style="padding-left:10px;">A Legendary Christmas: Deluxe Edition (2019-11-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span style="padding-left:10px;">Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> <span style="padding-left:10px;">Amidst the Chaos (Bonus Version) (2019-05-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="Chariot - Stripped" width="50" /> <span style="padding-left:10px;">Chariot - Stripped (2004-07-26)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="Preach" width="50" /> <span style="padding-left:10px;">Preach (2019-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="Carencro" width="50" /> <span style="padding-left:10px;">Carencro (2004-08-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="Little Love - EP" width="50" /> <span style="padding-left:10px;">Little Love - EP (2018-06-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> <span style="padding-left:10px;">Eye To The Telescope (2005-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span style="padding-left:10px;">What's Inside: Songs from Waitress (2015-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> <span style="padding-left:10px;">Eyes Open (2006-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span style="padding-left:10px;">Is There Anybody Out There? (2014-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="Corinne Bailey Rae" width="50" /> <span style="padding-left:10px;">Corinne Bailey Rae (2006-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span style="padding-left:10px;">Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="One Cell In The Sea" width="50" /> <span style="padding-left:10px;">One Cell In The Sea (2007)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Love In The Future (Expanded Edition) (2013-08-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="Indiana" width="50" /> <span style="padding-left:10px;">Indiana (2007-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span style="padding-left:10px;">The Blessed Unrest (2013-07-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> <span style="padding-left:10px;">Little Voice (2007-07-03)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="Bear Creek" width="50" /> <span style="padding-left:10px;">Bear Creek (2012-06-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> <span style="padding-left:10px;">Jordin Sparks (2007-11-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="A Legendary Christmas: Deluxe Edition" width="50" /> <span style="padding-left:10px;">A Legendary Christmas: Deluxe Edition (2019-11-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="Jagged Little Pill" width="50" /> <span style="padding-left:10px;">Jagged Little Pill (1995-06-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> <span style="padding-left:10px;">Amidst the Chaos (Bonus Version) (2019-05-10)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span style="padding-left:10px;">Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="Preach" width="50" /> <span style="padding-left:10px;">Preach (2019-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="Chariot - Stripped" width="50" /> <span style="padding-left:10px;">Chariot - Stripped (2004-07-26)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="Little Love - EP" width="50" /> <span style="padding-left:10px;">Little Love - EP (2018-06-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="Carencro" width="50" /> <span style="padding-left:10px;">Carencro (2004-08-03)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span style="padding-left:10px;">What's Inside: Songs from Waitress (2015-11-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> <span style="padding-left:10px;">Eye To The Telescope (2005-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span style="padding-left:10px;">Is There Anybody Out There? (2014-01-20)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> <span style="padding-left:10px;">Eyes Open (2006-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span style="padding-left:10px;">Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="Corinne Bailey Rae" width="50" /> <span style="padding-left:10px;">Corinne Bailey Rae (2006-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Love In The Future (Expanded Edition) (2013-08-30)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="One Cell In The Sea" width="50" /> <span style="padding-left:10px;">One Cell In The Sea (2007)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span style="padding-left:10px;">The Blessed Unrest (2013-07-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="Indiana" width="50" /> <span style="padding-left:10px;">Indiana (2007-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="Bear Creek" width="50" /> <span style="padding-left:10px;">Bear Creek (2012-06-01)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> <span style="padding-left:10px;">Little Voice (2007-07-03)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -154,9 +157,9 @@
 | Fairytale (0.857) | Manhattan (0.168) |
 | Brave (0.836) | Bright Lights and Cityscapes (0.184) |
 | Industry (0.831) | Poison & Wine (0.186) |
-| Love On the Rocks (0.819) | Bluebird (0.203) |
-| Come Round Soon (0.819) | Once Upon Another Time (0.216) |
-| One Sweet Love (0.812) | Just The Way You Are (0.218) |
+| You Oughta Know (0.831) | Bluebird (0.203) |
+| Love On the Rocks (0.819) | Once Upon Another Time (0.216) |
+| Come Round Soon (0.819) | Just The Way You Are (0.218) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -189,26 +192,26 @@
 | Now Is The Start (0.0353) | Say You're Sorry (0.0) |
 | Satellite Call (0.0318) | Sweet As Whole (0.0) |
 | Islands (0.0261) | Chariot (0.0) |
-| Armor (0.0145) | Jar of Hearts (0.0) |
-| Breathe Again (0.00655) | Lucky (0.0) |
-| Miss Simone (0.00407) | Come Round Soon (0.0) |
-| The Light (0.00375) | Black Horse And The Cherry Tree (0.0) |
-| No Such Thing (0.00175) | Kaleidoscope Heart (0.0) |
-| Whisper (0.00168) | Everything Changes (0.0) |
-| Fire (0.00165) | I'm Yours (0.0) |
+| Armor (0.0145) | You Oughta Know (0.0) |
+| Breathe Again (0.00655) | Jar of Hearts (0.0) |
+| Miss Simone (0.00407) | Lucky (0.0) |
+| The Light (0.00375) | Come Round Soon (0.0) |
+| No Such Thing (0.00175) | Black Horse And The Cherry Tree (0.0) |
+| Whisper (0.00168) | Kaleidoscope Heart (0.0) |
+| Fire (0.00165) | Everything Changes (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.781) | Uncharted (0.0343) |
-| Home (0.393) | One Step At a Time (0.0384) |
-| Ashes And Wine (0.379) | Brave (0.0425) |
-| Chariot (0.37) | Eden (0.0456) |
-| Fire (0.363) | Chasing The Sun (0.0497) |
-| Black Horse And The Cherry Tree (0.34) | King of Anything (0.0574) |
-| Let The Rain (0.297) | The Light (0.0691) |
-| Not Alone (0.256) | Islands (0.0699) |
-| If I Can't Have You (0.254) | Blow Away (0.0701) |
-| Once Upon Another Time (0.231) | Whisper (0.0708) |
+| You Oughta Know (0.736) | One Step At a Time (0.0384) |
+| Home (0.393) | Brave (0.0425) |
+| Ashes And Wine (0.379) | Eden (0.0456) |
+| Chariot (0.37) | Chasing The Sun (0.0497) |
+| Fire (0.363) | King of Anything (0.0574) |
+| Black Horse And The Cherry Tree (0.34) | The Light (0.0691) |
+| Let The Rain (0.297) | Islands (0.0699) |
+| Not Alone (0.256) | Blow Away (0.0701) |
+| If I Can't Have You (0.254) | Whisper (0.0708) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

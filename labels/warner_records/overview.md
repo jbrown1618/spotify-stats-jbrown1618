@@ -1,9 +1,9 @@
 # Warner Records
 
-71 songs
+72 songs
 
 Appears as:
-- Warner Records (47 tracks)
+- Warner Records (48 tracks)
 - Rhino/Warner Records (9 tracks)
 - Beluga Heights/Warner Records (5 tracks)
 - Brute/Beaute/Warner Records (3 tracks)
@@ -28,10 +28,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 5 | 4 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 4 | 4 | Rilo Kiley | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 3 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 2 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 2 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 1 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 1 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -40,7 +41,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 1 | 1 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f8dfdfeb85c3fc2d11b2ae2" alt="" width="50" /> | 1 | 1 | 88rising | [🔗](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
@@ -65,7 +65,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -105,6 +105,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | 1 | 0 | LMLY | 2021-03-26 | [🔗](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6a6f6a1485a9b163dedc618" alt="" width="50" /> | 1 | 0 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 
 </details>
@@ -120,16 +121,16 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 22 | 16 | [pop](../../genres/pop) |
-| 22 | 15 | [dance pop](../../genres/dance_pop) |
-| 16 | 10 | [electropop](../../genres/electropop) |
+| 23 | 16 | [pop](../../genres/pop) |
+| 23 | 15 | [dance pop](../../genres/dance_pop) |
 | 16 | 8 | [rock](../../genres/rock) |
 | 13 | 8 | nz pop |
+| 13 | 8 | [electropop](../../genres/electropop) |
 | 13 | 8 | bergen indie |
 | 11 | 4 | [classic rock](../../genres/classic_rock) |
 | 10 | 6 | uk pop |
+| 9 | 7 | [post-teen pop](../../genres/post_teen_pop) |
 | 9 | 3 | album rock |
-| 8 | 7 | [post-teen pop](../../genres/post_teen_pop) |
 | 8 | 3 | [soft rock](../../genres/soft_rock) |
 | 6 | 6 | pop rap |
 | 6 | 5 | [k-pop girl group](../../genres/k_pop_girl_group) |
@@ -186,6 +187,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Lingo | Girls - The 2nd Mini Album | [aespa](../../artists/aespa) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, Doja Cat | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6a6f6a1485a9b163dedc618" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | | [🔗](https://open.spotify.com/track/4jQxIH11pyibkpzS1xjlkw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | Bebe Rexha, [ITZY](../../artists/itzy), YEJI & RYUJIN of ITZY | [Warner Records](.) | | [🔗](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | Iron Man | The Ultimate Collection | Black Sabbath | [Rhino](../rhino), [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF) |

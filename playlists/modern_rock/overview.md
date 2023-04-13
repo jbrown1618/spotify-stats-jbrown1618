@@ -168,7 +168,7 @@
 
 
 <details>
-<summary>See all 81 genres</summary>
+<summary>See all 80 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -205,7 +205,6 @@
 | 3 | 2 | garage rock |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
-| 3 | 1 | [acoustic pop](../../genres/acoustic_pop) |
 | 2 | 2 | washington indie |
 | 2 | 2 | [post-teen pop](../../genres/post_teen_pop) |
 | 2 | 2 | pop punk |

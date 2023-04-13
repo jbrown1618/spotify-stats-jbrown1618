@@ -1,6 +1,6 @@
 # pop
 
-[545 songs](tracks.md)
+[544 songs](tracks.md)
 
 ## Top Artists
 
@@ -29,10 +29,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 7 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 7 | 3 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 7 | 3 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 7 | 3 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 6 | 6 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 6 | 3 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | 5 | 5 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
@@ -83,11 +83,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 2 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 2 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 2 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10ca40ea0b0b5082dba0ff75" alt="" width="50" /> | 2 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 2 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 2 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 2 | 1 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 2 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -247,8 +247,8 @@
 | 28 | 16 | [SM Entertainment](../../labels/sm_entertainment) |
 | 26 | 20 | [RCA Records Label](../../labels/rca_records_label) |
 | 25 | 13 | [Polydor Records](../../labels/polydor_records) |
+| 23 | 16 | [Warner Records](../../labels/warner_records) |
 | 22 | 19 | [Atlantic Records](../../labels/atlantic_records) |
-| 22 | 16 | [Warner Records](../../labels/warner_records) |
 | 16 | 11 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 16 | 10 | [Republic Records](../../labels/republic_records) |
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
@@ -296,7 +296,6 @@
 | 2 | 2 | A Star is Born OST |
 | 2 | 1 | [Legacy](../../labels/legacy) |
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records) |
-| 2 | 1 | Golden Child Recordings |
 | 2 | 1 | Aftermath Entertainment |
 | 2 | 1 | A&M |
 | 1 | 1 | under exclusive license to Interscope Records |
@@ -339,6 +338,7 @@
 | 1 | 1 | 88rising Music |
 | 1 | 0 | Warner Bros. |
 | 1 | 0 | Universal Republic Records |
+| 1 | 0 | Universal Music Group |
 
 </details>
 

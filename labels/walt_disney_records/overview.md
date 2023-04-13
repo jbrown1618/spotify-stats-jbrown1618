@@ -139,7 +139,7 @@ Appears as:
 |---:|---:|:---|
 | 39 | 0 | movie tunes |
 | 21 | 0 | [hollywood](../../genres/hollywood) |
-| 12 | 0 | [show tunes](../../genres/show_tunes) |
+| 13 | 0 | [show tunes](../../genres/show_tunes) |
 | 4 | 0 | tagalog worship |
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop) |
 | 2 | 0 | [dance pop](../../genres/dance_pop) |

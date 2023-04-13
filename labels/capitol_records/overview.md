@@ -76,7 +76,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 13 | 10 | [pop](../../genres/pop) |
-| 10 | 8 | [dance pop](../../genres/dance_pop) |
+| 11 | 8 | [dance pop](../../genres/dance_pop) |
 | 5 | 1 | [adult standards](../../genres/adult_standards) |
 | 4 | 0 | [lounge](../../genres/lounge) |
 | 4 | 0 | easy listening |

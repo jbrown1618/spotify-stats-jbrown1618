@@ -128,7 +128,7 @@ Appears as:
 | 44 | 3 | [show tunes](../../genres/show_tunes) |
 | 41 | 2 | [hollywood](../../genres/hollywood) |
 | 22 | 19 | [pop](../../genres/pop) |
-| 21 | 2 | [broadway](../../genres/broadway) |
+| 22 | 2 | [broadway](../../genres/broadway) |
 | 20 | 16 | [dance pop](../../genres/dance_pop) |
 | 10 | 2 | vocal jazz |
 | 4 | 2 | rap |

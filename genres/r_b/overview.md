@@ -1,12 +1,12 @@
 # r&b
 
-[51 songs](tracks.md)
+[49 songs](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 29 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -17,12 +17,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 2 | 1 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 2 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28831abca4b27c9f46416eb1" alt="" width="50" /> | 1 | 1 | Blu Cantrell | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7b05445e212ac49d9ed4c310" alt="" width="50" /> | 1 | 1 | H.E.R. | [🔗](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02eeb5305fa7bdd9ddca42fc" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | 1 | 1 | Robin Thicke | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
@@ -45,14 +43,14 @@
 </details>
 
 
-![Bar chart of top 30 artists](../../images/genres/r_b/artists.png)
+![Bar chart of top 29 artists](../../images/genres/r_b/artists.png)
 
 ![Comparison of Artist](../../images/genres/r_b/artists_comparison.png)
 ## Top Albums
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 35 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -71,13 +69,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | 1 | 1 | Love In The Future (Expanded Edition) | 2013-08-30 | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | 1 | 1 | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | 1 | 1 | Freudian | 2017-08-25 | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | 1 | 1 | F.A.M.E. (Expanded Edition) | 2011-03-22 | [🔗](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | 1 | 1 | Evolver | 2008-10-27 | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | 1 | 1 | Bittersweet | 2003 | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | 1 | 1 | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | 1 | 1 | A Beautiful World | 2002-12-13 | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | 1 | 0 | Who Hurt You? | 2018-10-16 | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 0 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | 1 | 0 | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
@@ -103,7 +99,7 @@
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 20 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -118,7 +114,6 @@
 | 2 | 2 | G.O.O.D. Music |
 | 2 | 1 | [RCA Records Label](../../labels/rca_records_label) |
 | 2 | 1 | [Legacy](../../labels/legacy) |
-| 2 | 1 | Golden Child Recordings |
 | 2 | 1 | Arista |
 | 1 | 1 | Nu America Music |
 | 1 | 0 | Not So Fast |
@@ -132,7 +127,7 @@
 </details>
 
 
-![Bar chart of top 21 record labels](../../images/genres/r_b/labels.png)
+![Bar chart of top 20 record labels](../../images/genres/r_b/labels.png)
 
 ## Years
 
@@ -146,10 +141,10 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="A Legendary Christmas: Deluxe Edition" width="50" /> <span style="padding-left:10px;">A Legendary Christmas: Deluxe Edition (2019-11-08)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="HIStory - PAST, PRESENT AND FUTURE - BOOK I" width="50" /> <span style="padding-left:10px;">HIStory - PAST, PRESENT AND FUTURE - BOOK I (1995-06-16)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> <span style="padding-left:10px;">Cravin (2019-10-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> <span style="padding-left:10px;">Fanmail (1999-02-23)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="Preach" width="50" /> <span style="padding-left:10px;">Preach (2019-02-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> <span style="padding-left:10px;">Survivor (2001-05-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="Who Hurt You?" width="50" /> <span style="padding-left:10px;">Who Hurt You? (2018-10-16)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> <span style="padding-left:10px;">Dirty Computer (2018-04-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="Bittersweet" width="50" /> <span style="padding-left:10px;">Bittersweet (2003)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> <span style="padding-left:10px;">Freudian (2017-08-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> <span style="padding-left:10px;">Dangerously In Love (2003-06-24)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> <span style="padding-left:10px;">Lemonade (2016-04-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Confessions (Expanded Edition) (2004-03-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> <span style="padding-left:10px;">Dirty Computer (2018-04-27)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> <span style="padding-left:10px;">A Beautiful World (2002-12-13)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> <span style="padding-left:10px;">Lemonade (2016-04-23)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="Bittersweet" width="50" /> <span style="padding-left:10px;">Bittersweet (2003)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> <span style="padding-left:10px;">Yoga (2015-03-31)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> <span style="padding-left:10px;">Dangerously In Love (2003-06-24)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> <span style="padding-left:10px;">BEYONCÉ [Platinum Edition] (2014-11-24)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Confessions (Expanded Edition) (2004-03-23)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -169,14 +164,14 @@
 |:---|:---|
 | Smooth Criminal - 2012 Remaster (0.981) | All of Me (0.264) |
 | Green Light (feat. André 3000) (0.882) | Teach You - Acoustic (0.304) |
-| Wanna Be Startin' Somethin' (0.872) | Best Part (feat. H.E.R.) (0.364) |
-| DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | Hold Up (0.397) |
-| When I Get You Alone (0.857) | Ave Maria (0.403) |
-| Bootylicious (0.833) | Make Me Feel (0.413) |
-| Sweet Dreams (0.825) | Partition (0.441) |
-| Don't Stop 'Til You Get Enough (0.821) | I Like That (0.453) |
-| Man in the Mirror - 2012 Remaster (0.812) | Me & U (0.454) |
-| Beat It (0.8) | Billie Jean (0.457) |
+| Wanna Be Startin' Somethin' (0.872) | Hold Up (0.397) |
+| DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | Ave Maria (0.403) |
+| When I Get You Alone (0.857) | Make Me Feel (0.413) |
+| Bootylicious (0.833) | Partition (0.441) |
+| Sweet Dreams (0.825) | I Like That (0.453) |
+| Don't Stop 'Til You Get Enough (0.821) | Me & U (0.454) |
+| Man in the Mirror - 2012 Remaster (0.812) | Billie Jean (0.457) |
+| Beat It (0.8) | I Don't Mind (feat. Juicy J) (0.464) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -188,34 +183,34 @@
 | Cravin (feat. G-Eazy) (0.246) | All of Me (0.0322) |
 | Crazy In Love (feat. Jay-Z) (0.226) | Best Thing I Never Had (0.0324) |
 | Daddy Lessons (0.216) | I Was Here (0.0335) |
-| Make Me Feel (0.182) | Best Part (feat. H.E.R.) (0.0367) |
-| I Don't Mind (feat. Juicy J) (0.178) | Man in the Mirror - 2012 Remaster (0.0381) |
+| Make Me Feel (0.182) | Man in the Mirror - 2012 Remaster (0.0381) |
+| I Don't Mind (feat. Juicy J) (0.178) | Teach You - Acoustic (0.0396) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | All of Me (0.922) | Bootylicious (0.00247) |
 | Teach You - Acoustic (0.899) | Crazy In Love (feat. Jay-Z) (0.00249) |
-| Best Part (feat. H.E.R.) (0.808) | Yoga (0.0159) |
-| Ave Maria (0.786) | Wet The Bed (feat. Ludacris) (0.0166) |
-| Hold Up (0.745) | Billie Jean (0.0173) |
-| Who Hurt You? (0.586) | Yeah! (feat. Lil Jon & Ludacris) (0.0183) |
-| Heartbreak Anniversary (0.524) | No Scrubs (0.0251) |
-| Man in the Mirror - 2012 Remaster (0.52) | Wanna Be Startin' Somethin' (0.0259) |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) (0.499) | Sure Thing (0.0267) |
-| I Was Here (0.431) | Beat It (0.027) |
+| Ave Maria (0.786) | Yoga (0.0159) |
+| Hold Up (0.745) | Wet The Bed (feat. Ludacris) (0.0166) |
+| Heartbreak Anniversary (0.524) | Billie Jean (0.0173) |
+| Man in the Mirror - 2012 Remaster (0.52) | Yeah! (feat. Lil Jon & Ludacris) (0.0183) |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) (0.499) | No Scrubs (0.0251) |
+| I Was Here (0.431) | Wanna Be Startin' Somethin' (0.0259) |
+| Listen (From the Motion Picture "Dreamgirls") (0.416) | Sure Thing (0.0267) |
+| Me & U (0.352) | Beat It (0.027) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Smooth Criminal - 2012 Remaster (0.468) | Hold Up (0.0) |
-| Wanna Be Startin' Somethin' (0.419) | Best Part (feat. H.E.R.) (0.0) |
-| Partition (0.0707) | Ave Maria (0.0) |
-| Don't Stop 'Til You Get Enough (0.0461) | When I Get You Alone (0.0) |
-| Billie Jean (0.0436) | City Girls (0.0) |
-| I Like That (0.00243) | Love On Top (0.0) |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.000868) | If I Were a Boy (0.0) |
-| No Scrubs (0.000717) | Preach (0.0) |
-| Sincerely, Jane (0.000649) | Wet The Bed (feat. Ludacris) (0.0) |
-| P.Y.T. (Pretty Young Thing) (0.000363) | Bootylicious (0.0) |
+| Wanna Be Startin' Somethin' (0.419) | Ave Maria (0.0) |
+| Partition (0.0707) | When I Get You Alone (0.0) |
+| Don't Stop 'Til You Get Enough (0.0461) | City Girls (0.0) |
+| Billie Jean (0.0436) | Love On Top (0.0) |
+| I Like That (0.00243) | If I Were a Boy (0.0) |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.000868) | Preach (0.0) |
+| No Scrubs (0.000717) | Wet The Bed (feat. Ludacris) (0.0) |
+| Sincerely, Jane (0.000649) | Bootylicious (0.0) |
+| P.Y.T. (Pretty Young Thing) (0.000363) | Halo (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -228,7 +223,7 @@
 | Partition (0.306) | Wanna Be Startin' Somethin' (0.0573) |
 | Smooth Criminal - 2012 Remaster (0.306) | Sweet Dreams (0.0618) |
 | Heartbreak Anniversary (0.303) | Me & U (0.0655) |
-| Hit 'Em Up Style (Oops!) (0.289) | Who Hurt You? (0.0667) |
+| Hit 'Em Up Style (Oops!) (0.289) | No Scrubs (0.0685) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -240,5 +235,5 @@
 | City Girls (0.815) | There Goes My Baby (0.257) |
 | Sweet Dreams (0.788) | Man in the Mirror - 2012 Remaster (0.269) |
 | Thriller (0.783) | Sincerely, Jane (0.274) |
-| Green Light (feat. André 3000) (0.762) | Who Hurt You? (0.277) |
-| Me & U (0.739) | I'd Rather Go Blind (0.289) |
+| Green Light (feat. André 3000) (0.762) | I'd Rather Go Blind (0.289) |
+| Me & U (0.739) | Best Thing I Never Had (0.298) |

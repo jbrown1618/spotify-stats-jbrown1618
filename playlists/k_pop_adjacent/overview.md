@@ -206,18 +206,17 @@
 | 10 | 6 | [dance pop](../../genres/dance_pop) |
 | 5 | 4 | [post-teen pop](../../genres/post_teen_pop) |
 | 5 | 1 | [r&b](../../genres/r_b) |
-| 3 | 3 | [electropop](../../genres/electropop) |
 | 3 | 1 | pop rap |
 | 3 | 1 | canadian pop |
 | 2 | 2 | [korean pop](../../genres/korean_pop) |
 | 2 | 2 | korean indie rock |
 | 2 | 2 | [k-pop](../../genres/k_pop) |
+| 2 | 2 | [electropop](../../genres/electropop) |
 | 2 | 2 | danish pop |
 | 2 | 1 | pop dance |
 | 2 | 1 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 2 | 1 | indie r&b |
 | 2 | 1 | edm |
-| 2 | 1 | chill r&b |
 | 2 | 0 | rap |
 | 1 | 1 | viral pop |
 | 1 | 1 | uk pop |
@@ -239,6 +238,7 @@
 | 1 | 1 | german techno |
 | 1 | 1 | electro house |
 | 1 | 1 | complextro |
+| 1 | 1 | chill r&b |
 | 1 | 1 | bulgarian pop |
 | 1 | 1 | bulgarian hip hop |
 | 1 | 1 | bedroom soul |

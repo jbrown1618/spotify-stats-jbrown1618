@@ -80,6 +80,7 @@
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | 5 | 5 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 5 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 5 | 5 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 5 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 5 | 5 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
@@ -94,7 +95,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 5 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 5 | 5 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | 4 | 4 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 4 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 4 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 4 | 4 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -250,7 +250,7 @@
 | 50 | 50 | [Stone Music Entertainment](../../labels/stone_music_entertainment) |
 | 46 | 46 | [Warner Records](../../labels/warner_records) |
 | 43 | 43 | [RCA Records Label](../../labels/rca_records_label) |
-| 42 | 42 | [Universal Music LLC](../../labels/universal_music_llc) |
+| 41 | 41 | [Universal Music LLC](../../labels/universal_music_llc) |
 | 32 | 32 | [BIGHIT MUSIC](../../labels/bighit_music) |
 | 27 | 27 | [RBW Inc.](../../labels/rbw_inc_) |
 | 26 | 26 | [Atlantic Records](../../labels/atlantic_records) |
@@ -263,7 +263,7 @@
 | 17 | 17 | [XL Recordings](../../labels/xl_recordings) |
 | 17 | 17 | [Polydor Records](../../labels/polydor_records) |
 | 16 | 16 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) |
-| 15 | 15 | [Starship Entertainment](../../labels/starship_entertainment) |
+| 16 | 16 | [Starship Entertainment](../../labels/starship_entertainment) |
 | 14 | 14 | [Rhino](../../labels/rhino) |
 | 14 | 14 | [Kakao Entertainment](../../labels/kakao_entertainment) |
 | 13 | 13 | [The Tarpeggios](../../labels/the_tarpeggios) |
@@ -354,29 +354,29 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 656 | 656 | [k-pop](../../genres/k_pop) |
-| 374 | 374 | [pop](../../genres/pop) |
-| 297 | 297 | [k-pop girl group](../../genres/k_pop_girl_group) |
+| 653 | 653 | [k-pop](../../genres/k_pop) |
+| 373 | 373 | [pop](../../genres/pop) |
+| 298 | 298 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 166 | 166 | [k-pop boy group](../../genres/k_pop_boy_group) |
-| 161 | 161 | [dance pop](../../genres/dance_pop) |
+| 163 | 163 | [dance pop](../../genres/dance_pop) |
 | 107 | 107 | [rock](../../genres/rock) |
 | 78 | 78 | [classic rock](../../genres/classic_rock) |
-| 59 | 59 | [neo mellow](../../genres/neo_mellow) |
-| 59 | 59 | [lilith](../../genres/lilith) |
-| 56 | 56 | [acoustic pop](../../genres/acoustic_pop) |
+| 60 | 60 | [neo mellow](../../genres/neo_mellow) |
+| 60 | 60 | [lilith](../../genres/lilith) |
+| 55 | 55 | [acoustic pop](../../genres/acoustic_pop) |
 | 54 | 54 | [pop rock](../../genres/pop_rock) |
 | 43 | 43 | [hollywood](../../genres/hollywood) |
 | 42 | 42 | [mellow gold](../../genres/mellow_gold) |
-| 39 | 39 | [electropop](../../genres/electropop) |
 | 38 | 38 | [post-teen pop](../../genres/post_teen_pop) |
 | 38 | 38 | [korean pop](../../genres/korean_pop) |
+| 38 | 38 | [electropop](../../genres/electropop) |
 | 34 | 34 | [art pop](../../genres/art_pop) |
 | 33 | 33 | [folk rock](../../genres/folk_rock) |
 | 32 | 32 | [soft rock](../../genres/soft_rock) |
-| 31 | 31 | [korean r&b](../../genres/korean_r_b) |
+| 30 | 30 | [korean r&b](../../genres/korean_r_b) |
 | 30 | 30 | british invasion |
 | 28 | 28 | psychedelic rock |
-| 27 | 27 | [r&b](../../genres/r_b) |
+| 26 | 26 | [r&b](../../genres/r_b) |
 | 26 | 26 | permanent wave |
 | 25 | 25 | [singer-songwriter](../../genres/singer_songwriter) |
 | 25 | 25 | piano rock |
@@ -468,14 +468,14 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 51 |
+| [2023](2023.md) | 52 |
 | [2022](2022.md) | 237 |
 | [2021](2021.md) | 180 |
 | [2020](2020.md) | 134 |
 | [2019](2019.md) | 116 |
 | [2018](2018.md) | 80 |
 | [2017](2017.md) | 71 |
-| [2016](2016.md) | 77 |
+| [2016](2016.md) | 76 |
 | [2015](2015.md) | 56 |
 | [2014](2014.md) | 44 |
 | [2013](2013.md) | 49 |

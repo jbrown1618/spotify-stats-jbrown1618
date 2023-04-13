@@ -3,13 +3,13 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[46 songs (40 liked)](tracks.md)
+[47 songs (40 liked)](tracks.md)
 
 ## Top Artists
 
 
 <details>
-<summary>See all 36 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 5 | 3 | [BTS](../../artists/bts) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 4 | 4 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 2 | 2 | [aespa](../../artists/aespa) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | 2 | 2 | [ENHYPEN](../../artists/enhypen) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | 2 | 2 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 2 | [Red Velvet](../../artists/red_velvet) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -44,7 +44,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 1 | 0 | [NCT 127](../../artists/nct_127) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 1 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 0 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 0 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 1 | 0 | [CHUNG HA](../../artists/chung_ha) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -61,7 +63,7 @@
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 44 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -107,6 +109,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 1 | 0 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 1 | 0 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | 1 | 0 | Brother Act. | 2017-10-16 | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6a6f6a1485a9b163dedc618" alt="" width="50" /> | 1 | 0 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="" width="50" /> | 1 | 0 | Ay-Yo - The 4th Album Repackage | 2023-01-30 | [🔗](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) |
 
 </details>
@@ -129,7 +132,7 @@
 | 4 | 4 | ADOR |
 | 3 | 3 | [Starship Entertainment](../../labels/starship_entertainment) |
 | 3 | 3 | [Republic Records](../../labels/republic_records) |
-| 2 | 2 | [Warner Records](../../labels/warner_records) |
+| 3 | 2 | [Warner Records](../../labels/warner_records) |
 | 2 | 2 | [SOURCE MUSIC](../../labels/source_music) |
 | 2 | 2 | [High Up Entertainment](../../labels/high_up_entertainment) |
 | 2 | 2 | [BELIFT LAB](../../labels/belift_lab) |
@@ -156,7 +159,7 @@
 
 
 <details>
-<summary>See all 9 genres</summary>
+<summary>See all 10 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -164,16 +167,17 @@
 | 20 | 20 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group) |
 | 2 | 2 | anime |
+| 2 | 1 | [pop](../../genres/pop) |
+| 2 | 0 | [dance pop](../../genres/dance_pop) |
 | 1 | 1 | scandipop |
-| 1 | 1 | [pop](../../genres/pop) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b) |
 | 1 | 0 | [r&b](../../genres/r_b) |
-| 1 | 0 | [dance pop](../../genres/dance_pop) |
+| 1 | 0 | [post-teen pop](../../genres/post_teen_pop) |
 
 </details>
 
 
-![Bar chart of top 9 genres](../../images/playlists/sharon_rpd/genres.png)
+![Bar chart of top 10 genres](../../images/playlists/sharon_rpd/genres.png)
 
 ## Years
 
@@ -219,7 +223,7 @@
 | LOCO (0.886) | Attention (0.648) |
 | Boy With Luv (feat. Halsey) (0.862) | 28 Reasons (0.651) |
 | GAMBLER (0.861) | LALISA (0.653) |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition (0.85) | Psycho (0.666) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | Psycho (0.666) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -238,14 +242,14 @@
 |:---|:---|
 | Missing You (0.65) | RUN2U (0.000835) |
 | OMG (0.357) | Doom Du Doom (0.00356) |
-| Hype Boy (0.268) | LOVE DIVE (0.00379) |
-| Attention (0.236) | Shut Down (0.00412) |
-| Thunderous (0.213) | Blow (0.00437) |
-| 28 Reasons (0.211) | GAMBLER (0.00458) |
-| Psycho (0.193) | WHISTLE (0.00561) |
-| Queendom (0.179) | Ay-Yo (0.00629) |
-| ASAP (0.102) | Holiday Party (0.00846) |
-| Boy With Luv (feat. Halsey) (0.0933) | Pretty Savage (0.00886) |
+| Break My Heart Myself (feat. Travis Barker) (0.31) | LOVE DIVE (0.00379) |
+| Hype Boy (0.268) | Shut Down (0.00412) |
+| Attention (0.236) | Blow (0.00437) |
+| Thunderous (0.213) | GAMBLER (0.00458) |
+| 28 Reasons (0.211) | WHISTLE (0.00561) |
+| Psycho (0.193) | Ay-Yo (0.00629) |
+| Queendom (0.179) | Holiday Party (0.00846) |
+| ASAP (0.102) | Pretty Savage (0.00886) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -271,7 +275,7 @@
 | Illusion (0.322) | Alcohol-Free (0.0674) |
 | RUN2U (0.321) | Blow (0.0745) |
 | Ay-Yo (0.317) | Attention (0.0761) |
-| Hype Boy (0.286) | Doom Du Doom (0.0811) |
+| Hype Boy (0.286) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

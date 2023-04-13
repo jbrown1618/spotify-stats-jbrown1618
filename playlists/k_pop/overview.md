@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[949 songs (704 liked)](tracks.md)
+[950 songs (705 liked)](tracks.md)
 
 ## Top Artists
 
@@ -48,6 +48,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 7 | 6 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 7 | 6 | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 7 | 6 | [WENDY](../../artists/wendy) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 7 | 5 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 7 | 5 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 7 | 5 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | 7 | 3 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
@@ -57,7 +58,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 6 | 6 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 6 | 5 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 6 | 5 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | 6 | 4 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb365158d123c641da282b2433" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | 6 | 4 | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 6 | 3 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
@@ -201,6 +201,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | 3 | 2 | PSY 9th | 2022-04-29 | [🔗](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="" width="50" /> | 3 | 2 | IM NAYEON | 2022-06-24 | [🔗](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 3 | 2 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | 3 | 2 | HARMONY : SET IN | 2022-11-30 | [🔗](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 3 | 2 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 3 | 2 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
@@ -228,7 +229,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | 2 | 2 | Street Man Fighter Original Vol.3 (Mission by Rank) | 2022-09-06 | [🔗](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | 2 | 2 | SQUARE ONE | 2016-08-08 | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | 2 | 2 | SEVENTEEN 8th Mini Album 'Your Choice' | 2021-06-18 | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 
 </details>
 
@@ -254,8 +254,8 @@
 | 32 | 24 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) |
 | 30 | 18 | [JYP Entertainment](../../labels/jyp_entertainment) |
 | 28 | 19 | [Universal Music LLC](../../labels/universal_music_llc) |
+| 21 | 16 | [Starship Entertainment](../../labels/starship_entertainment) |
 | 20 | 18 | [BELIFT LAB](../../labels/belift_lab) |
-| 20 | 15 | [Starship Entertainment](../../labels/starship_entertainment) |
 | 20 | 13 | [PLEDIS Entertainment](../../labels/pledis_entertainment) |
 | 15 | 14 | [Kakao Entertainment](../../labels/kakao_entertainment) |
 | 14 | 12 | [MYSTIC STORY](../../labels/mystic_story) |
@@ -357,8 +357,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 794 | 587 | [k-pop](../../genres/k_pop) |
-| 388 | 295 | [k-pop girl group](../../genres/k_pop_girl_group) |
+| 791 | 585 | [k-pop](../../genres/k_pop) |
+| 389 | 296 | [k-pop girl group](../../genres/k_pop_girl_group) |
 | 232 | 162 | [k-pop boy group](../../genres/k_pop_boy_group) |
 | 33 | 24 | [pop](../../genres/pop) |
 | 23 | 15 | k-rap |
@@ -373,11 +373,11 @@
 | 5 | 4 | korean talent show |
 | 2 | 2 | uk pop |
 | 2 | 1 | [post-teen pop](../../genres/post_teen_pop) |
-| 2 | 1 | [electropop](../../genres/electropop) |
 | 2 | 1 | chinese idol pop |
 | 1 | 1 | j-division |
 | 1 | 1 | indie poptimism |
 | 1 | 1 | etherpop |
+| 1 | 1 | [electropop](../../genres/electropop) |
 | 1 | 1 | danish pop |
 | 1 | 1 | chill r&b |
 | 1 | 1 | [art pop](../../genres/art_pop) |
@@ -397,7 +397,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 56 |
+| [2023](2023.md) | 57 |
 | [2022](2022.md) | 258 |
 | [2021](2021.md) | 185 |
 | [2020](2020.md) | 121 |

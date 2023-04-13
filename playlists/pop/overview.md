@@ -357,22 +357,22 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 317 | 235 | [pop](../../genres/pop) |
-| 187 | 134 | [dance pop](../../genres/dance_pop) |
+| 315 | 234 | [pop](../../genres/pop) |
+| 189 | 136 | [dance pop](../../genres/dance_pop) |
 | 44 | 35 | [post-teen pop](../../genres/post_teen_pop) |
-| 36 | 27 | [electropop](../../genres/electropop) |
+| 34 | 26 | [electropop](../../genres/electropop) |
 | 30 | 24 | [art pop](../../genres/art_pop) |
 | 29 | 18 | uk pop |
 | 23 | 19 | urban contemporary |
 | 21 | 18 | pop rap |
 | 18 | 10 | edm |
-| 16 | 12 | [r&b](../../genres/r_b) |
 | 15 | 13 | neo soul |
 | 14 | 13 | barbadian pop |
+| 14 | 11 | [r&b](../../genres/r_b) |
 | 14 | 11 | [neo mellow](../../genres/neo_mellow) |
+| 13 | 7 | pop dance |
 | 12 | 10 | atl hip hop |
 | 11 | 11 | australian pop |
-| 11 | 7 | pop dance |
 | 11 | 7 | canadian pop |
 | 11 | 6 | british soul |
 | 10 | 9 | [pop rock](../../genres/pop_rock) |
@@ -398,13 +398,13 @@
 | 5 | 4 | piano rock |
 | 5 | 3 | indie poptimism |
 | 5 | 3 | contemporary r&b |
+| 5 | 1 | electro house |
 | 4 | 4 | [lilith](../../genres/lilith) |
 | 4 | 4 | [hollywood](../../genres/hollywood) |
 | 4 | 4 | hip pop |
 | 4 | 4 | europop |
 | 4 | 2 | south carolina hip hop |
 | 4 | 2 | canadian contemporary r&b |
-| 4 | 1 | electro house |
 | 4 | 0 | house |
 | 3 | 3 | nz pop |
 | 3 | 3 | modern alternative rock |

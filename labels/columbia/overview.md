@@ -188,6 +188,7 @@ Appears as:
 | 2 | 2 | filter house |
 | 2 | 2 | electro |
 | 2 | 1 | uk pop |
+| 2 | 1 | pop dance |
 | 2 | 1 | lgbtq+ hip hop |
 | 2 | 1 | edm |
 | 2 | 1 | british soul |
@@ -197,7 +198,6 @@ Appears as:
 | 1 | 1 | shimmer pop |
 | 1 | 1 | roots rock |
 | 1 | 1 | r&b en espanol |
-| 1 | 1 | pop dance |
 | 1 | 1 | nz pop |
 | 1 | 1 | nigerian pop |
 | 1 | 1 | nigerian hip hop |

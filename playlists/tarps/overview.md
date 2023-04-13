@@ -209,7 +209,7 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -293,7 +293,6 @@
 | 1 | 0 | rhythm and blues |
 | 1 | 0 | irish rock |
 | 1 | 0 | hip pop |
-| 1 | 0 | hip hop |
 | 1 | 0 | girl group |
 | 1 | 0 | europop |
 | 1 | 0 | doo-wop |

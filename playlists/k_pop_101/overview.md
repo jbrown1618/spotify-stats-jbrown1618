@@ -23,7 +23,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 1 | 1 | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 1 | 1 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | 1 | 1 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 1 | 1 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 1 | 1 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 1 | 1 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d87e2a10ba3b2f8bb2c5270" alt="" width="50" /> | 1 | 1 | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |

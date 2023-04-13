@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -242,7 +242,6 @@
 | 1 | 1 | country rock |
 | 1 | 1 | british soul |
 | 1 | 1 | alt z |
-| 1 | 0 | urban contemporary |
 | 1 | 0 | uk pop |
 | 1 | 0 | [r&b](../../genres/r_b) |
 | 1 | 0 | pop soul |

@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 2 | 2 | [NCT 127](../../artists/nct_127) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 2 | 2 | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 2 | 2 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb843f0ae97978d6572f8e9cea" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 2 | 2 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83962d7c7c639d9d5c38a0e1" alt="" width="50" /> | 2 | 2 | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 2 | 2 | [Dreamcatcher](../../artists/dreamcatcher) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |

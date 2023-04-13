@@ -1,6 +1,6 @@
 # dance pop
 
-[249 songs](tracks.md)
+[253 songs](tracks.md)
 
 ## Top Artists
 
@@ -22,10 +22,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 7 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 6 | 6 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 6 | 3 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 6 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 5 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 5 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 5 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | 4 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 4 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
@@ -45,6 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 3 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 2 | 2 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 2 | 2 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | 2 | 2 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 2 | 2 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -58,9 +59,11 @@
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 2 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 2 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 2 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 2 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 2 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb10ca40ea0b0b5082dba0ff75" alt="" width="50" /> | 2 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 2 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 2 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
@@ -88,11 +91,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | 1 | 1 | Timbaland | [🔗](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8" alt="" width="50" /> | 1 | 1 | 5 Seconds of Summer | [🔗](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f97c0f27aa7ae7f8351e47a" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d800f202dd15af03179876b" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | 1 | 1 | Jhorrmountain | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8bc2840ac9c56902f5b9574c" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 1 | 1 | [BTS](../../artists/bts) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba22623b5c4d912075ba59116" alt="" width="50" /> | 1 | 1 | Puri | [🔗](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) |
@@ -108,8 +110,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f623ae3b66b6a1277c235ae" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27e4c08f0a25786383c77dbc" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 
 </details>
 
@@ -164,12 +164,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 2 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | 2 | 0 | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | 2 | 0 | Christmas Kisses | 2013-01-01 | [🔗](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | 1 | 1 | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | 1 | 1 | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | 1 | 1 | Voicenotes | 2018-05-11 | [🔗](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b63bc9378aa07542c6db43d6" alt="" width="50" /> | 1 | 1 | Version | 2007-07-10 | [🔗](https://open.spotify.com/album/74ooEOK4jY2ZCWjMK6pYmk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | 1 | 1 | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | 1 | 1 | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | 1 | 1 | Under My Skin | 2004 | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | 1 | 1 | To Anyone | 2010-09-09 | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | 1 | 1 | Tick Tock (feat. 24kGoldn) | 2020-08-21 | [🔗](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) |
@@ -223,8 +225,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | 1 | 1 | Ella Eyre | 2015-01-12 | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | 1 | 1 | Elephunk | 2003-06-24 | [🔗](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="" width="50" /> | 1 | 1 | El Dorado | 2017-05-26 | [🔗](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6f7af36ecdc3ed6e0a1f169" alt="" width="50" /> | 1 | 1 | Dance Monkey (Stripped Back) / Dance Monkey | 2019-10-17 | [🔗](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) |
 
 </details>
 
@@ -235,12 +235,12 @@
 
 
 <details>
-<summary>See all 79 labels</summary>
+<summary>See all 82 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 26 | 18 | [RCA Records Label](../../labels/rca_records_label) |
-| 22 | 15 | [Warner Records](../../labels/warner_records) |
+| 23 | 15 | [Warner Records](../../labels/warner_records) |
 | 21 | 10 | [Columbia](../../labels/columbia) |
 | 20 | 16 | [Atlantic Records](../../labels/atlantic_records) |
 | 16 | 12 | [Jive](../../labels/jive) |
@@ -249,7 +249,7 @@
 | 13 | 10 | [Syco Music](../../labels/syco_music) |
 | 13 | 8 | [Republic Records](../../labels/republic_records) |
 | 13 | 8 | [Interscope Records](../../labels/interscope_records) |
-| 10 | 8 | [Capitol Records](../../labels/capitol_records) |
+| 11 | 8 | [Capitol Records](../../labels/capitol_records) |
 | 8 | 8 | Monkey Puzzle Records |
 | 7 | 4 | [Polydor Records](../../labels/polydor_records) |
 | 7 | 4 | Parkwood Entertainment |
@@ -284,14 +284,17 @@
 | 1 | 1 | Sony Music CG |
 | 1 | 1 | Silent Records |
 | 1 | 1 | Nu America Music |
+| 1 | 1 | Lauv |
 | 1 | 1 | Jonas Brothers Recording |
 | 1 | 1 | Giant Little Man |
 | 1 | 1 | FSF |
 | 1 | 1 | Elektra (NEK) |
 | 1 | 1 | EMPIRE |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
+| 1 | 1 | EMI |
 | 1 | 1 | Disruptor Records |
 | 1 | 1 | Colour Vision Records |
+| 1 | 1 | Capitol Records UK |
 | 1 | 1 | Capitol Records (US1A) |
 | 1 | 1 | Big Beat Records |
 | 1 | 1 | Bad Dreams Records |
@@ -331,15 +334,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span style="padding-left:10px;">CHARLIE (2022-10-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> <span style="padding-left:10px;">Like a Virgin (1984-11-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> <span style="padding-left:10px;">Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> <span style="padding-left:10px;">A Very Special Christmas (1987-10-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> <span style="padding-left:10px;">Faith (1987-10-30)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> <span style="padding-left:10px;">Merry Christmas (1994-10-28)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> <span style="padding-left:10px;">Believe (1998)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="Ladies And Gentlemen... The Best Of George Michael" width="50" /> <span style="padding-left:10px;">Ladies And Gentlemen... The Best Of George Michael (1998-11-09)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> <span style="padding-left:10px;">Fanmail (1999-02-23)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span style="padding-left:10px;">Millennium (1999-05-18)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> <span style="padding-left:10px;">Planet Her (2021-06-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="Unholy (feat. Kim Petras)" width="50" /> <span style="padding-left:10px;">Unholy (feat. Kim Petras) (2022-09-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> <span style="padding-left:10px;">A Very Special Christmas (1987-10-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> <span style="padding-left:10px;">Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> <span style="padding-left:10px;">Faith (1987-10-30)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> <span style="padding-left:10px;">Te Felicito (2022-04-21)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> <span style="padding-left:10px;">Merry Christmas (1994-10-28)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> <span style="padding-left:10px;">About Damn Time (2022-04-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> <span style="padding-left:10px;">Believe (1998)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="Ladies And Gentlemen... The Best Of George Michael" width="50" /> <span style="padding-left:10px;">Ladies And Gentlemen... The Best Of George Michael (1998-11-09)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span style="padding-left:10px;">...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> <span style="padding-left:10px;">Love's Train (2022-02-14)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> <span style="padding-left:10px;">Fanmail (1999-02-23)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> <span style="padding-left:10px;">An Evening With Silk Sonic (2021-11-11)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span style="padding-left:10px;">Millennium (1999-05-18)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)" width="50" /> <span style="padding-left:10px;">SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span style="padding-left:10px;">No Strings Attached (2000-03-21)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -357,16 +360,16 @@
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Larger Than Life (0.973) | I See the Light - From "Tangled" / Soundtrack Version (0.139) |
-| Boss Bitch (0.955) | Your Song (0.195) |
-| My Happy Ending (0.936) | My Everything (0.265) |
-| This Is What You Came For (0.927) | I Thought She Knew (0.272) |
-| Bye Bye Bye (0.926) | When I Was Your Man (0.28) |
-| Bad Romance (0.921) | Consequences (0.292) |
-| Believe (0.917) | 7 rings (0.317) |
-| Sk8er Boi (0.9) | Santa Baby (0.32) |
-| Levitating (0.884) | Jar of Hearts (0.348) |
-| Material Girl (0.883) | Monster (Shawn Mendes & Justin Bieber) (0.383) |
+| Larger Than Life (0.973) | Julia (0.128) |
+| Boss Bitch (0.955) | I See the Light - From "Tangled" / Soundtrack Version (0.139) |
+| My Happy Ending (0.936) | Have Yourself A Merry Little Christmas (0.178) |
+| This Is What You Came For (0.927) | Your Song (0.195) |
+| Bye Bye Bye (0.926) | My Everything (0.265) |
+| Bad Romance (0.921) | I Thought She Knew (0.272) |
+| Believe (0.917) | When I Was Your Man (0.28) |
+| Sk8er Boi (0.9) | Consequences (0.292) |
+| Levitating (0.884) | 7 rings (0.317) |
+| Material Girl (0.883) | Santa Baby (0.32) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -383,16 +386,16 @@
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Your Song (0.936) | Sk8er Boi (6.79e-05) |
-| When I Was Your Man (0.932) | Coño (0.000554) |
-| I Thought She Knew (0.915) | My Happy Ending (0.00136) |
-| Consequences (0.889) | I Kissed A Girl (0.00223) |
-| My Everything (0.88) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
-| I See the Light - From "Tangled" / Soundtrack Version (0.829) | Bootylicious (0.00247) |
-| Ave Maria (0.786) | Crazy In Love (feat. Jay-Z) (0.00249) |
-| La Vie En Rose (0.758) | Valerie (feat. Amy Winehouse) - Version Revisited (0.00253) |
-| Hold Up (0.745) | New Rules (0.00261) |
-| Jar of Hearts (0.726) | Bad Romance (0.00314) |
+| Have Yourself A Merry Little Christmas (0.957) | Sk8er Boi (6.79e-05) |
+| Your Song (0.936) | Coño (0.000554) |
+| When I Was Your Man (0.932) | My Happy Ending (0.00136) |
+| I Thought She Knew (0.915) | I Kissed A Girl (0.00223) |
+| Julia (0.905) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (0.00237) |
+| Consequences (0.889) | Bootylicious (0.00247) |
+| My Everything (0.88) | Crazy In Love (feat. Jay-Z) (0.00249) |
+| I See the Light - From "Tangled" / Soundtrack Version (0.829) | Valerie (feat. Amy Winehouse) - Version Revisited (0.00253) |
+| Ave Maria (0.786) | New Rules (0.00261) |
+| La Vie En Rose (0.758) | Bad Romance (0.00314) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

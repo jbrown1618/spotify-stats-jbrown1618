@@ -1,6 +1,6 @@
 # post-teen pop
 
-[61 songs](tracks.md)
+[62 songs](tracks.md)
 
 ## Top Artists
 
@@ -12,8 +12,8 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 6 | 6 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 6 | 5 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 5 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb586b55e89ac8b2b492f5490c" alt="" width="50" /> | 5 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 3 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 3 | 3 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 3 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -22,6 +22,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 2 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 2 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 2 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 2 | 1 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
@@ -39,7 +40,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8" alt="" width="50" /> | 1 | 1 | 5 Seconds of Summer | [🔗](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | 1 | 1 | Jhorrmountain | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba22623b5c4d912075ba59116" alt="" width="50" /> | 1 | 1 | Puri | [🔗](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
@@ -78,7 +78,7 @@
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -133,6 +133,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | 1 | 0 | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | 1 | 0 | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6a6f6a1485a9b163dedc618" alt="" width="50" /> | 1 | 0 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | 1 | 0 | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 2022-02-25 | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | 1 | 0 | All I Want for Christmas Is You | 2014-11-17 | [🔗](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | 1 | 0 | All I Ever Wanted | 2009-03-06 | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
@@ -152,9 +153,9 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 12 | 9 | [Syco Music](../../labels/syco_music) |
+| 9 | 7 | [Warner Records](../../labels/warner_records) |
 | 9 | 6 | [Epic](../../labels/epic) |
 | 9 | 3 | [RCA Records Label](../../labels/rca_records_label) |
-| 8 | 7 | [Warner Records](../../labels/warner_records) |
 | 5 | 5 | Beluga Heights |
 | 5 | 0 | Citizen Queen |
 | 3 | 2 | [Atlantic Records](../../labels/atlantic_records) |
@@ -203,13 +204,13 @@
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> <span style="padding-left:10px;">Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> <span style="padding-left:10px;">Let Go (2002-06-04)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> <span style="padding-left:10px;">CRASH (2022-03-18)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="Under My Skin" width="50" /> <span style="padding-left:10px;">Under My Skin (2004)</span></div> |
 | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> <span style="padding-left:10px;">Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c" alt="Breakaway" width="50" /> <span style="padding-left:10px;">Breakaway (2004-01-17)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> <span style="padding-left:10px;">PCD (2005-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="Baby, I'm Jealous (feat. Doja Cat)" width="50" /> <span style="padding-left:10px;">Baby, I'm Jealous (feat. Doja Cat) (2020-10-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="Back To Basics" width="50" /> <span style="padding-left:10px;">Back To Basics (2006-08-14)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="Blueberry Eyes (feat. SUGA of BTS)" width="50" /> <span style="padding-left:10px;">Blueberry Eyes (feat. SUGA of BTS) (2020-09-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> <span style="padding-left:10px;">Jordin Sparks (2007-11-20)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> <span style="padding-left:10px;">Coño (2020-07-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="All I Ever Wanted" width="50" /> <span style="padding-left:10px;">All I Ever Wanted (2009-03-06)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> <span style="padding-left:10px;">React (2020-02-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> <span style="padding-left:10px;">Hot Mess (2009-07-07)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="bad guy" width="50" /> <span style="padding-left:10px;">bad guy (2019-12-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Animal (Expanded Edition) (2010-01-01)</span></div> |
-| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="Put A Little Love On Me" width="50" /> <span style="padding-left:10px;">Put A Little Love On Me (2019-12-06)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span style="padding-left:10px;">Tangled (2010-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273f6a6f6a1485a9b163dedc618" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> <span style="padding-left:10px;">PCD (2005-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> <span style="padding-left:10px;">Better Mistakes (2021-05-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="Back To Basics" width="50" /> <span style="padding-left:10px;">Back To Basics (2006-08-14)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="Baby, I'm Jealous (feat. Doja Cat)" width="50" /> <span style="padding-left:10px;">Baby, I'm Jealous (feat. Doja Cat) (2020-10-09)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> <span style="padding-left:10px;">Jordin Sparks (2007-11-20)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="Blueberry Eyes (feat. SUGA of BTS)" width="50" /> <span style="padding-left:10px;">Blueberry Eyes (feat. SUGA of BTS) (2020-09-15)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="All I Ever Wanted" width="50" /> <span style="padding-left:10px;">All I Ever Wanted (2009-03-06)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> <span style="padding-left:10px;">Coño (2020-07-03)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> <span style="padding-left:10px;">Hot Mess (2009-07-07)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> <span style="padding-left:10px;">React (2020-02-07)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> <span style="padding-left:10px;">Animal (Expanded Edition) (2010-01-01)</span></div> |
+| <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="bad guy" width="50" /> <span style="padding-left:10px;">bad guy (2019-12-13)</span></div> | <div style="display:flex; align-items:center;"><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span style="padding-left:10px;">Tangled (2010-01-01)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -236,7 +237,7 @@
 | Already Gone (0.872) | Slow Hands (0.425) |
 | Baby, I'm Jealous (feat. Doja Cat) (0.867) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.451) |
 | Break My Heart Myself (feat. Travis Barker) (0.857) | Stone Cold (0.453) |
-| Power (0.855) | Put A Little Love On Me (0.465) |
+| Break My Heart Myself (feat. Travis Barker) (0.857) | Put A Little Love On Me (0.465) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|

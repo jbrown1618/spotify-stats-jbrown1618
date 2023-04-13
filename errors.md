@@ -6,12 +6,14 @@
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Beautiful Christmas [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) | 40 | 2022-12-26 | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM),<br>aespa [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | 2022 Winter SMTOWN : SMCU PALACE [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 64 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | 💚 |
 | Beautiful Christmas [🔗](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | 57 | 2022-12-14 | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM),<br>aespa [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | Beautiful Christmas [🔗](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 50 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Break My Heart Myself (feat. Travis Barker) [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | 65 | 2021-05-07 | Bebe Rexha [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb),<br>Travis Barker [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | Better Mistakes [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 58 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Warner Records | 💚 |
+| Break My Heart Myself (feat. Travis Barker) [🔗](https://open.spotify.com/track/4jQxIH11pyibkpzS1xjlkw) | 44 | 2021-05-07 | Bebe Rexha [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb),<br>Travis Barker [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | Better Mistakes [🔗](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 59 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | Warner Records | |
 | Dear Santa [🔗](https://open.spotify.com/track/7Do5qY5GCZr0T2wk3eKzmi) | 0 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
 | Dear Santa [🔗](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | 33 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 33 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
 | Merry Christmas [🔗](https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr) | 0 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
 | Merry Christmas [🔗](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | 25 | 2015-12-04 | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 33 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
 | Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/track/35DYsbswkqUeW5RVZnbgML) | 0 | 2016-12-23 | Jay JungJae Moon [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6),<br>Nile Lee [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8),<br>WENDY [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/album/65iTqWmb0hH7TTiZ0gAbvp) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
-| Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs) | 25 | 2016-12-23 | Jay JungJae Moon [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6),<br>Nile Lee [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8),<br>WENDY [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | Have Yourself A Merry Little Christmas - SM STATION [🔗](https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2) | 19 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
+| Have Yourself A Merry Little Christmas [🔗](https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs) | 26 | 2016-12-23 | Jay JungJae Moon [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6),<br>Nile Lee [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8),<br>WENDY [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | Have Yourself A Merry Little Christmas - SM STATION [🔗](https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2) | 19 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | SM Entertainment | |
 | 24 to 25 [🔗](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr) | 55 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 64 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | |
 | 24 to 25 [🔗](https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S) | 0 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | JYP Entertainment | |
 | Christmas EveL [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) | 67 | 2021-11-29 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 64 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
@@ -23,6 +25,8 @@
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
+| Better Mistakes [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | Bebe Rexha [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | 58 | 2021-05-07 | Warner Records | Break My Heart Myself (feat. Travis Barker) [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
+| Better Mistakes [🔗](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | Bebe Rexha [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | 59 | 2021-05-07 | Warner Records | Break My Heart Myself (feat. Travis Barker) [🔗](https://open.spotify.com/track/4jQxIH11pyibkpzS1xjlkw) | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) |
 | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | 33 | 2015-12-04 | SM Entertainment | Dear Santa [🔗](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf),<br>Merry Christmas [🔗](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 | Dear Santa - X-Mas Special [🔗](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | Girls' Generation-TTS [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | 0 | 2015-12-04 | SM Entertainment | Dear Santa [🔗](https://open.spotify.com/track/7Do5qY5GCZr0T2wk3eKzmi),<br>Merry Christmas [🔗](https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -33,7 +37,7 @@
 | Christmas (Deluxe Special Edition) [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | Michael Bublé [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | 61 | 2012-11-09 | 143/Reprise | It's Beginning to Look a Lot like Christmas [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R),<br>Santa Baby [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb),<br>The Christmas Song [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 | Christmas EveL [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 64 | 2021-11-29 | Republic Records - Stray Kids | 24 to 25 [🔗](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr),<br>Christmas EveL [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW),<br>DOMINO - English Ver. [🔗](https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj),<br>Winter Falls [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | Christmas EveL [🔗](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 0 | 2021-11-29 | JYP Entertainment | 24 to 25 [🔗](https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S),<br>Christmas EveL [🔗](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg),<br>Winter Falls [🔗](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
-| Doughnut [🔗](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 51 | 2021-12-15 | WM Japan | Wonderful Day [🔗](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
+| Doughnut [🔗](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 50 | 2021-12-15 | WM Japan | Wonderful Day [🔗](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 | Doughnut [🔗](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 58 | 2021-12-03 | WM Japan | Doughnut [🔗](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 
 ## Tracks with low popularity
@@ -213,17 +217,6 @@
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 55 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 36 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 53 |
-| NOT YOUR GIRL | I've IVE | IVE | 0 | 0 | 75 |
-| Lips | I've IVE | IVE | 0 | 0 | 75 |
-| Heroine | I've IVE | IVE | 0 | 0 | 75 |
-| 섬찟 (Hypnosis) | I've IVE | IVE | 0 | 0 | 75 |
-| Blue Blood | I've IVE | IVE | 0 | 0 | 75 |
-| Mine | I've IVE | IVE | 0 | 0 | 75 |
-| Shine With Me | I've IVE | IVE | 0 | 0 | 75 |
-| Cherish | I've IVE | IVE | 0 | 0 | 75 |
-| 궁금해 (Next Page) | I've IVE | IVE | 0 | 0 | 75 |
-| I AM | I've IVE | IVE | 0 | 0 | 75 |
-| Kitsch | I've IVE | IVE | 0 | 0 | 75 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 65 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 39 |
 | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 65 |
@@ -297,9 +290,9 @@
 | Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
 | Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 32 |
-| Christmas EveL | Christmas EveL | Stray Kids | 0 | 0 | 84 |
-| Winter Falls | Christmas EveL | Stray Kids | 0 | 0 | 84 |
-| 24 to 25 | Christmas EveL | Stray Kids | 0 | 0 | 84 |
+| Christmas EveL | Christmas EveL | Stray Kids | 0 | 0 | 83 |
+| Winter Falls | Christmas EveL | Stray Kids | 0 | 0 | 83 |
+| 24 to 25 | Christmas EveL | Stray Kids | 0 | 0 | 83 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 61 |
 | Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
 | Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
@@ -323,8 +316,8 @@
 | You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| Gotta Go | Gotta Go | CHUNG HA | 0 | 0 | 62 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 71 |
+| Gotta Go | Gotta Go | CHUNG HA | 1 | 0 | 62 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 83 |
 | Enter Sandman | Metallica | Metallica | 2 | 2 | 83 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 36 |
@@ -352,7 +345,7 @@
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 41 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 38 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 39 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
 | Elastic Heart | RISE | The Nor'easters | 0 | 0 | 32 |
 | Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 32 |
@@ -433,9 +426,8 @@
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 56 |
-| Giddy | LOVESTRUCK! | Kep1er | 0 | 0 | 62 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 91 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 78 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 77 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 80 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
