@@ -22,29 +22,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | 1 | 1 | When I Get Old | 2022-10-20 | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | 1 | 1 | PLAY | 2020-07-06 | [🔗](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | 1 | 1 | Killing Me | 2021-11-29 | [🔗](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | 1 | 1 | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | 1 | 1 | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | 1 | 0 | Street Woman Fighter(SWF) Special | 2021-10-27 | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | 1 | 0 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) |
-
-
-<details>
-<summary>See all albums</summary>
-
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | 1 | 0 | Bad Boy | 2020-09-23 | [🔗](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) |
-
-</details>
-
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 9 | 8 | MNH ENTERTAINMENT |
-| 5 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 4 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 4 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 3 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 2 | 1 | Parlophone Denmark |
 | 1 | 1 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 
@@ -57,15 +46,15 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old | When I Get Old | Christopher, [CHUNG HA](overview.md) | Parlophone Denmark | 💚 | [🔗](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd17c315097d81ea0882430c" alt="" width="50" /> | Snapping | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | Snapping | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4IOxk5ep5ONrdlL0ZIy64v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY | PLAY | [CHUNG HA](overview.md), CHANGMO | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | Bad Boy | Bad Boy | [CHUNG HA](overview.md), Christopher | Parlophone Denmark | | [🔗](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Querencia | [CHUNG HA](overview.md), R3HAB | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Masquerade | Querencia | [CHUNG HA](overview.md) | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
 
 
 <details>
@@ -73,7 +62,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me | Killing Me | [CHUNG HA](overview.md) | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md), [BIBI](../bibi/overview.md) | MNH ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Good Night My Princess | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md) | MNH ENTERTAINMENT | | [🔗](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) |

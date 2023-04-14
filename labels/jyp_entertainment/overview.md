@@ -1,16 +1,16 @@
 # JYP Entertainment
 
-32 songs
+31 songs
 
 Appears as:
-- JYP Entertainment (31 tracks)
+- JYP Entertainment (30 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 9 | 7 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 8 | 7 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 5 | 2 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | 3 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | 2 | 2 | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
@@ -44,7 +44,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | 4 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | 2 | 2 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | 2 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) |
@@ -85,7 +85,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 15 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 8 | [k-pop](../../genres/k_pop/overview.md) |
 | 7 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 2 | classic k-pop |
@@ -126,7 +126,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | HOME | expérgo | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Just Did It | expérgo | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Love Me Like This | expérgo | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | PAXXWORD | expérgo | NMIXX | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | NMIXX | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | I Do | It's Raining | Rain | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It′s Raining | It's Raining | Rain | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt) |

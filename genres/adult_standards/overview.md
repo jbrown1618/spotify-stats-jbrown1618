@@ -47,8 +47,8 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 3 | 1 | Call Me Irresponsible | 2007-04-30 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 3 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
@@ -60,7 +60,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -86,7 +86,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | 1 | 0 | Christmas Songs by Sinatra | 1994-11-08 | [🔗](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0" alt="" width="50" /> | 1 | 0 | Christmas (Deluxe Special Edition) | 2011-10-14 | [🔗](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) |
 
 </details>
 
@@ -98,7 +97,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 16 | 5 | [Reprise](../../labels/reprise/overview.md) |
-| 13 | 5 | [143](../../labels/143/overview.md) |
+| 14 | 5 | [143](../../labels/143/overview.md) |
 | 6 | 2 | FRANK SINATRA DIGITAL REPRISE |
 | 5 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
@@ -135,12 +134,12 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> <span>love (Deluxe Edition) (2018-11-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> <span>The Classic Christmas Album (1945)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> <span>Nobody but Me (2016-10-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="White Christmas" width="50" /> <span>White Christmas (1945-01-01)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> <span>Christmas (Deluxe Special Edition) (2012-11-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> <span>Unforgettable (1954-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0" alt="Christmas (Deluxe Special Edition)" width="50" /> <span>Christmas (Deluxe Special Edition) (2011-10-14)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> <span>Songs For Swingin' Lovers! (Remastered) (1956-03)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> <span>Crazy Love (2009-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> <span>Come Fly With Me (Remastered) (1958)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> <span>Nothing But The Best (Remastered) (2008-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> <span>A Winter Romance (1959-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> <span>Call Me Irresponsible (2007-04-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> <span>Ella Wishes You A Swinging Christmas (Expanded Edition) (1960-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It's Time" width="50" /> <span>It's Time (2005-02-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> <span>The Christmas Song (Expanded Edition) (1962)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> <span>Come Fly with Me (2004-03-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span>Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> <span>Crazy Love (2009-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> <span>Songs For Swingin' Lovers! (Remastered) (1956-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> <span>Nothing But The Best (Remastered) (2008-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> <span>Come Fly With Me (Remastered) (1958)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> <span>Call Me Irresponsible (2007-04-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> <span>A Winter Romance (1959-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It's Time" width="50" /> <span>It's Time (2005-02-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> <span>Ella Wishes You A Swinging Christmas (Expanded Edition) (1960-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> <span>Come Fly with Me (2004-03-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> <span>The Christmas Song (Expanded Edition) (1962)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli & The 4 Seasons" width="50" /> <span>The Very Best of Frankie Valli & The 4 Seasons (2003-01-14)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span>Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -161,8 +160,8 @@
 | Can't Take My Eyes off You (0.764) | Baby It's Cold Outside (0.0813) |
 | Haven't Met You Yet (0.733) | Nature Boy (0.0895) |
 | Everything (0.688) | Santa Baby (0.0964) |
-| Frosty the Snowman (feat. The Puppini Sisters) (0.624) | White Christmas (0.158) |
-| Moondance (0.614) | The Christmas Song (0.17) |
+| Moondance (0.614) | White Christmas (0.158) |
+| Frosty the Snowman (feat. The Puppini Sisters) (0.591) | The Christmas Song (0.17) |
 | Feeling Good (0.548) | Unforgettable (0.182) |
 | Someday (feat. Meghan Trainor) (0.539) | L-O-V-E - 2000 Remaster (0.187) |
 | Cry Me a River (0.483) | Baby, It's Cold Outside (0.196) |
@@ -180,7 +179,7 @@
 | The Best Is yet to Come (0.0691) | Strangers In The Night (0.0295) |
 | Fly Me To The Moon - 2008 Remastered (0.06) | Home (0.0301) |
 | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) | Unforgettable (0.031) |
-| Frosty the Snowman (feat. The Puppini Sisters) (0.059) | Sunny (0.0331) |
+| Baby, It's Cold Outside (0.0571) | Sunny (0.0331) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -201,12 +200,12 @@
 | Nature Boy (0.0213) | Someday (feat. Meghan Trainor) (0.0) |
 | Unforgettable (0.0152) | La vie en rose (feat. Cécile McLorin Salvant) (0.0) |
 | Can't Help Falling in Love (0.0111) | Moondance (0.0) |
-| The Way You Look Tonight (0.000282) | Rockin' Around The Christmas Tree (0.0) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | It's Beginning To Look Like Christmas (0.0) |
-| I Wan'na Be Like You (The Monkey Song) (0.000238) | That's Life (0.0) |
-| Unforgettable (0.000138) | Baby, It's Cold Outside (0.0) |
-| The Christmas Song (0.000119) | Haven't Met You Yet (0.0) |
-| Call Me Irresponsible (8.68e-05) | Come Fly With Me - Remastered 1998 (0.0) |
+| The Way You Look Tonight (0.000282) | Frosty the Snowman (feat. The Puppini Sisters) (0.0) |
+| Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | Rockin' Around The Christmas Tree (0.0) |
+| I Wan'na Be Like You (The Monkey Song) (0.000238) | It's Beginning To Look Like Christmas (0.0) |
+| Unforgettable (0.000138) | That's Life (0.0) |
+| The Christmas Song (0.000119) | Baby, It's Cold Outside (0.0) |
+| Call Me Irresponsible (8.68e-05) | Haven't Met You Yet (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -225,8 +224,8 @@
 |:---|:---|
 | Someday (feat. Meghan Trainor) (0.934) | Can't Help Falling in Love (0.0969) |
 | Rockin' Around The Christmas Tree (0.898) | Nature Boy (0.115) |
-| Frosty the Snowman (feat. The Puppini Sisters) (0.852) | Unforgettable (0.142) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | The Christmas Song (0.162) |
+| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | Unforgettable (0.142) |
+| Frosty the Snowman (feat. The Puppini Sisters) (0.829) | The Christmas Song (0.162) |
 | Haven't Met You Yet (0.796) | Unforgettable (0.178) |
 | I Wan'na Be Like You (The Monkey Song) (0.795) | The Christmas Song (Merry Christmas To You) (0.209) |
 | L-O-V-E - 2000 Remaster (0.728) | White Christmas (0.247) |

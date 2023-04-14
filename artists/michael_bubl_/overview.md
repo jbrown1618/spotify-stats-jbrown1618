@@ -15,8 +15,8 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 3 | 1 | Call Me Irresponsible | 2007-04-30 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 3 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
@@ -24,14 +24,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0" alt="" width="50" /> | 1 | 0 | Christmas (Deluxe Special Edition) | 2011-10-14 | [🔗](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 16 | 5 | [Reprise](../../labels/reprise/overview.md) |
-| 13 | 5 | [143](../../labels/143/overview.md) |
+| 14 | 5 | [143](../../labels/143/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 
 ## Genres
@@ -63,7 +62,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Haven't Met You Yet | Crazy Love | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 💚 | [🔗](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [Reprise](../../labels/reprise) | | [🔗](https://open.spotify.com/track/6RJJUEOfUyMhcxtsfLNRpH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [143](../../labels/143), [Reprise](../../labels/reprise) | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Santa Baby | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | | [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | The Christmas Song | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | | [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) |

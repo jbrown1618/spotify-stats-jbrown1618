@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Recent Comebacks" width="100" />
 
-[82 songs (74 liked)](tracks.md)
+[81 songs (74 liked)](tracks.md)
 
 ## Top Artists
 
@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 4 | 4 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 5 | 3 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 5 | 3 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 4 | 3 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | 3 | 3 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="" width="50" /> | 3 | 3 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 3 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -80,11 +80,11 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | 6 | 6 | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 6 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | 3 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | 4 | 4 | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | 4 | 4 | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 4 | 4 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | 4 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 3 | 3 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 3 | 3 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 3 | 2 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
@@ -147,8 +147,8 @@
 | 4 | 4 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 4 | 4 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 4 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 5 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 4 | 3 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
+| 4 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 3 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 
 
@@ -185,7 +185,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 57 | 53 | [k-pop](../../genres/k_pop/overview.md) |
-| 31 | 26 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 30 | 26 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 7 | 7 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 3 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean pop |
@@ -201,7 +201,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 49 |
+| [2023](2023.md) | 48 |
 | [2022](2022.md) | 33 |
 
 </details>
@@ -231,10 +231,10 @@
 | PULL UP (0.853) | BLAME IT ON ME (0.483) |
 | FLOWER (0.841) | Birthday (0.535) |
 | Maknae On Top (I.N) (0.834) | Dead Man Runnin’ (0.54) |
-| POPPY - Japanese Ver. (0.819) | PAXXWORD (0.561) |
-| On A Ride (0.817) | lionheart (the real me) (0.576) |
-| Chico malo (0.814) | Set Me Free Pt.2 (0.585) |
-| Ditto (0.814) | Hold On Tight (0.586) |
+| POPPY - Japanese Ver. (0.819) | lionheart (the real me) (0.576) |
+| On A Ride (0.817) | Set Me Free Pt.2 (0.585) |
+| Chico malo (0.814) | Hold On Tight (0.586) |
+| Ditto (0.814) | Crown (0.604) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -252,15 +252,15 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | I GOT IT (HAN) (0.365) | Animal Farm (0.0315) |
-| PAXXWORD (0.299) | CRAZY STUPID LOVE (0.0316) |
-| Hold On Tight (0.283) | Cherry Blossom (0.0323) |
-| Young, Dumb, Stupid (0.233) | Cupid (0.0336) |
-| KARMA (0.233) | Los Angeles (0.0344) |
-| HOME (0.215) | Candy (0.0348) |
-| Birthday (0.202) | KNOCK (0.035) |
-| Rover (0.201) | FLOWER (0.0351) |
-| Fighting (Feat. Lee Young Ji) (0.191) | VingleVingle (Prod. R.Tee) (0.0361) |
-| Beautiful Liar (0.186) | Floral Sense (0.0362) |
+| Hold On Tight (0.283) | CRAZY STUPID LOVE (0.0316) |
+| Young, Dumb, Stupid (0.233) | Cherry Blossom (0.0323) |
+| KARMA (0.233) | Cupid (0.0336) |
+| HOME (0.215) | Los Angeles (0.0344) |
+| Birthday (0.202) | Candy (0.0348) |
+| Rover (0.201) | KNOCK (0.035) |
+| Fighting (Feat. Lee Young Ji) (0.191) | FLOWER (0.0351) |
+| Beautiful Liar (0.186) | VingleVingle (Prod. R.Tee) (0.0361) |
+| Nxde (0.179) | Floral Sense (0.0362) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

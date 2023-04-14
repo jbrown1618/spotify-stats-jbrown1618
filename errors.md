@@ -4,8 +4,6 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Gotta Go [🔗](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) | 1 | 2019-01-02 | CHUNG HA [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | Gotta Go [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) | 0 | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Genie Music Corporation, Stone Music Entertainment | 💚 |
-| Gotta Go [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | 63 | 2019-01-02 | CHUNG HA [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | Gotta Go [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 55 | | Genie Music Corporation, Stone Music Entertainment | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 91 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 83 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
 | Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 74 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 86 | | ADOR | |
 
@@ -13,14 +11,10 @@
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| Gotta Go [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | CHUNG HA [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | 55 | 2019-01-02 | Genie Music Corporation, Stone Music Entertainment | Gotta Go [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | |
-| Gotta Go [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) | CHUNG HA [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | 0 | 2019-01-02 | Genie Music Corporation, Stone Music Entertainment | Gotta Go [🔗](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 42 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| Christmas (Deluxe Special Edition) [🔗](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | Michael Bublé [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | 56 | 2011-10-14 | Reprise | Frosty the Snowman (feat. The Puppini Sisters) [🔗](https://open.spotify.com/track/6RJJUEOfUyMhcxtsfLNRpH) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
-| Christmas (Deluxe Special Edition) [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | Michael Bublé [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | 60 | 2012-11-09 | 143/Reprise | It's Beginning to Look a Lot like Christmas [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R),<br>Santa Baby [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb),<br>The Christmas Song [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 
 ## Tracks with low popularity
 
@@ -295,7 +289,6 @@
 | You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| Gotta Go | Gotta Go | CHUNG HA | 1 | 0 | 62 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 83 |
 | Enter Sandman | Metallica | Metallica | 2 | 2 | 83 |
@@ -408,7 +401,6 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 80 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
-| Snapping | Flourishing | CHUNG HA | 0 | 0 | 62 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 74 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 57 |

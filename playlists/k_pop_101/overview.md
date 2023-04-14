@@ -113,7 +113,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | 1 | 1 | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | 1 | 1 | HOLO | 2020-07-23 | [🔗](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | 1 | 1 | HARMONY : ZERO IN | 2022-07-20 | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b" alt="" width="50" /> | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 1 | 1 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | 1 | 1 | Crazy | 2015-02-09 | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
@@ -212,7 +212,7 @@
 | FEARLESS (0.863) | O.O (0.39) |
 | Bubble Pop! (0.84) | HOLO (0.406) |
 | BBIBBI (0.839) | Sticker (0.527) |
-| Next Level (0.82) | Gotta Go (0.53) |
+| Next Level (0.82) | Gotta Go (0.531) |
 | Back Door (0.82) | Odd Eye (0.534) |
 | I Am The Best (0.819) | Crazy (0.54) |
 | How You Like That (0.812) | Answer (0.565) |
@@ -266,11 +266,11 @@
 | FEARLESS (0.00324) | Hype Boy (0.0) |
 | MAGO (0.000578) | Gashina (0.0) |
 | WANNABE (0.000179) | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
-| How You Like That (0.000135) | Gotta Go (0.0) |
-| LOVE DIVE (5.43e-05) | Love Shot (0.0) |
-| Doom Du Doom (4.82e-05) | Pretty U (0.0) |
-| HIP (3.15e-05) | Amusement Park (0.0) |
-| Next Level (5.94e-06) | MOVE (0.0) |
+| How You Like That (0.000135) | Love Shot (0.0) |
+| LOVE DIVE (5.43e-05) | Pretty U (0.0) |
+| Doom Du Doom (4.82e-05) | Amusement Park (0.0) |
+| HIP (3.15e-05) | MOVE (0.0) |
+| Next Level (5.94e-06) | Gotta Go (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -296,4 +296,4 @@
 | Shine (0.791) | How You Like That (0.344) |
 | Hype Boy (0.783) | INVU (0.399) |
 | FANCY (0.775) | Psycho (0.405) |
-| Bubble Pop! (0.767) | Gotta Go (0.423) |
+| Bubble Pop! (0.767) | Gotta Go (0.419) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[209 songs (177 liked)](tracks.md)
+[208 songs (176 liked)](tracks.md)
 
 ## Top Artists
 
@@ -13,8 +13,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 11 | 10 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 8 | 8 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | 8 | 7 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 8 | 7 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 8 | 6 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 7 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | 5 | 5 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | 6 | 4 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 5 | 4 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
@@ -266,7 +266,6 @@
 | 4 | 4 | Hwa&Dam pictures |
 | 4 | 4 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 4 | 3 | [Warner Records](../../labels/warner_records/overview.md) |
-| 4 | 3 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 4 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 3 | ADOR |
 | 3 | 3 | [Epic](../../labels/epic/overview.md) |
@@ -274,6 +273,7 @@
 | 3 | 3 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 4 | 2 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 3 | 2 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
+| 3 | 2 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 3 | 2 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 2 | 2 | ShowPLAY ENTERTAINMENT |
 | 2 | 2 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
@@ -347,7 +347,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 125 | 100 | [k-pop](../../genres/k_pop/overview.md) |
+| 124 | 99 | [k-pop](../../genres/k_pop/overview.md) |
 | 34 | 32 | [pop](../../genres/pop/overview.md) |
 | 33 | 25 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 26 | 22 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -436,7 +436,7 @@
 | [2017](2017.md) | 20 |
 | 2016 | 12 |
 | 2015 | 3 |
-| 2014 | 4 |
+| 2014 | 3 |
 | 2013 | 4 |
 | 2012 | 3 |
 | 2011 | 4 |
@@ -478,7 +478,7 @@
 | Cookie (0.847) | Unknown (To You) (0.367) |
 | Heart Burn (0.84) | MY LOVE (0.375) |
 | To the moon (0.835) | Skinny Love (0.379) |
-| Pierrot laughs at us (0.824) | Boy in time - HUI Solo (0.385) |
+| Bye (0.824) | Boy in time - HUI Solo (0.385) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -538,12 +538,12 @@
 | Boat (0.56) | In My Dreams (0.0489) |
 | Darl+ing (0.43) | Baby Powder (0.0518) |
 | I Love You 3000 II (0.412) | LOVE FOOL (0.0551) |
-| Love Rain (Feat. SURAN) (0.399) | Pierrot laughs at us (0.0577) |
-| Automatic (0.387) | Easy (0.0596) |
-| Cupid (0.383) | Still Life (0.0628) |
-| Stuck with U (with Justin Bieber) (0.382) | SAY SOMETHING (0.0646) |
-| NEON (0.379) | Impurities (0.0656) |
-| Show Your Heart 너를 보여줘 (0.37) | Blueming (0.0667) |
+| Love Rain (Feat. SURAN) (0.399) | Easy (0.0596) |
+| Automatic (0.387) | Still Life (0.0628) |
+| Cupid (0.383) | SAY SOMETHING (0.0646) |
+| Stuck with U (with Justin Bieber) (0.382) | Impurities (0.0656) |
+| NEON (0.379) | Blueming (0.0667) |
+| Show Your Heart 너를 보여줘 (0.37) | All I Got (0.0672) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
