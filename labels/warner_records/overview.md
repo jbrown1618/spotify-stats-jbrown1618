@@ -1,9 +1,9 @@
 # Warner Records
 
-71 songs
+78 songs
 
 Appears as:
-- Warner Records (47 tracks)
+- Warner Records (54 tracks)
 - Rhino/Warner Records (9 tracks)
 - Beluga Heights/Warner Records (5 tracks)
 - Brute/Beaute/Warner Records (3 tracks)
@@ -29,10 +29,11 @@ Appears as:
 
 
 <details>
-<summary>See all 35 artists</summary>
+<summary>See all 36 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 7 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 2 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -72,19 +73,20 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | 5 | 0 | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | 3 | 3 | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 0 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 2 | 1 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="" width="50" /> | 2 | 1 | Celebration (Bonus Track Version) | 2009-09-18 | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
@@ -110,7 +112,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | 1 | 0 | LMLY | 2021-03-26 | [🔗](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" alt="" width="50" /> | 1 | 0 | Blood Sugar Sex Magik (Deluxe Edition) | 1991-09-24 | [🔗](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 
 </details>
@@ -124,22 +129,22 @@ Appears as:
 |---:|---:|:---|
 | 22 | 15 | [dance pop](../../genres/dance_pop/overview.md) |
 | 21 | 15 | [pop](../../genres/pop/overview.md) |
-| 18 | 9 | [rock](../../genres/rock/overview.md) |
+| 25 | 10 | [rock](../../genres/rock/overview.md) |
 | 13 | 8 | nz pop |
 | 13 | 8 | electropop |
 | 13 | 8 | bergen indie |
 | 10 | 8 | [k-pop](../../genres/k_pop/overview.md) |
 | 10 | 6 | uk pop |
+| 12 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 6 | 5 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 5 | 4 | permanent wave |
+| 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
@@ -148,8 +153,11 @@ Appears as:
 | 4 | 4 | chamber pop |
 | 9 | 3 | [album rock](../../genres/album_rock/overview.md) |
 | 8 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
+| 9 | 2 | funk rock |
 | 6 | 2 | yacht rock |
 | 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 7 | 1 | funk metal |
+| 7 | 1 | alternative rock |
 | 3 | 1 | metal |
 | 3 | 1 | hard rock |
 | 2 | 1 | uk doom metal |
@@ -160,7 +168,6 @@ Appears as:
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 1 | heartland rock |
-| 2 | 1 | funk rock |
 | 2 | 1 | funk |
 | 2 | 1 | folk rock |
 | 2 | 1 | folk |
@@ -260,6 +267,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" alt="" width="50" /> | Under the Bridge | Blood Sugar Sex Magik (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | Californication | Californication (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | Can't Stop | By the Way (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Dani California | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Slow Cheetah | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/06wTEKL2rSrSaOjFtgG8fj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Snow (Hey Oh) | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Strip My Mind | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/0J3ytriezGZ3KCREfHKDOI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | More Adventurous (U.S. Release) | Rilo Kiley | [Brute/Beaute/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/7KJymi3dZGLPvxmOYyWwxz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | Rilo Kiley | [Brute/Beaute/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | Rilo Kiley | [Brute/Beaute/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |

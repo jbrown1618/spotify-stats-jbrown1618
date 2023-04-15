@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 
 </details>
@@ -145,7 +145,7 @@
 | 13 | 5 | [Rhino](../../labels/rhino/overview.md) |
 | 11 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 5 | 3 | [Legacy](../../labels/legacy/overview.md) |
-| 3 | 3 | Geffen |
+| 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 3 | 2 | Elektra |
 | 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |

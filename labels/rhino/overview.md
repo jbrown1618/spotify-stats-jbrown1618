@@ -107,7 +107,7 @@ Appears as:
 | 2 | 1 | beatlesque |
 | 2 | 1 | alternative metal |
 | 1 | 1 | synthpop |
-| 1 | 1 | permanent wave |
+| 1 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 1 | new wave pop |
 | 1 | 1 | new wave |
 | 1 | 1 | new romantic |

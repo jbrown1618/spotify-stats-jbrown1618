@@ -1,6 +1,6 @@
 # korean r&b
 
-[40 songs](tracks.md)
+[41 songs](tracks.md)
 
 ## Top Artists
 
@@ -8,8 +8,8 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 8 | 6 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 5 | 5 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 4 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | 3 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 3 | 3 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 4 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
@@ -67,11 +67,12 @@
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9914fad928a7cbf93b5175" alt="" width="50" /> | 1 | 1 | The First Scene - The 1st Mini Album | 2018-10-04 | [🔗](https://open.spotify.com/album/1vRQP001rGl7zI3W6ghGSR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="" width="50" /> | 1 | 1 | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | 2017-03-04 | [🔗](https://open.spotify.com/album/21jYCYSrxo7IEO67xH6XeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="" width="50" /> | 1 | 1 | Solar International | 2010-08-19 | [🔗](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737968a5fd0be134742699910e" alt="" width="50" /> | 1 | 1 | Rush Hour | 2022-09-22 | [🔗](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="" width="50" /> | 1 | 1 | Remarriage and Desires (Original Soundtrack from The Netflix Series) | 2022-07-15 | [🔗](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) |
@@ -121,13 +122,14 @@
 
 
 <details>
-<summary>See all 23 labels</summary>
+<summary>See all 24 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 1 | 1 | Studio MaumC |
 | 1 | 1 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 1 | 1 | MORE VISION |
+| 1 | 1 | JTBC Studios |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | Hwa&Dam pictures |
 | 1 | 1 | FeelGhoodMusic |
@@ -142,7 +144,7 @@
 </details>
 
 
-![Bar chart of top 23 record labels](../../images/genres/korean_r_b/labels.png)
+![Bar chart of top 24 record labels](../../images/genres/korean_r_b/labels.png)
 
 ## Years
 
@@ -159,7 +161,7 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> <span>Remarriage and Desires (Original Soundtrack from The Netflix Series) (2022-07-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> <span>And July (2016-07-18)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> <span>Undo (2022-06-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> <span>Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 (2016-08-29)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> <span>Twenty-Five Twenty-One OST (2022-04-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="EVERYTHING YOU WANTED" width="50" /> <span>EVERYTHING YOU WANTED (2016-10-20)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="Can't Stop This Party" width="50" /> <span>Can't Stop This Party (2022-03-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="WINE" width="50" /> <span>WINE (2017-04-27)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="Can't Stop This Party" width="50" /> <span>Can't Stop This Party (2022-03-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> <span>Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) (2017-03-04)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -185,8 +187,8 @@
 | One way love (0.817) | Don’t (0.488) |
 | Into You (0.805) | 눈,코,입 (Eyes, Nose, Lips) (0.516) |
 | Say Yes (0.778) | Running Through The Night (0.532) |
-| D (Half Moon) (0.765) | Animal Farm (0.542) |
-| Three Dopeboyz (Feat. Zion.T) (0.757) | My Day Is Full Of You (0.59) |
+| D (Half Moon) (0.765) | Heartbeat (0.541) |
+| Three Dopeboyz (Feat. Zion.T) (0.757) | Animal Farm (0.542) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -195,11 +197,11 @@
 | All I Wanna Do (0.267) | One way love (0.0306) |
 | Three Dopeboyz (Feat. Zion.T) (0.257) | Animal Farm (0.0315) |
 | Rush Hour (Feat. j-hope of BTS) (0.249) | Somebody! (0.0328) |
-| GANADARA (Feat. IU) (0.244) | Only Look At Me (나만 바라봐) (0.0336) |
-| YOUNG (0.158) | My Day Is Full Of You (0.034) |
-| Can't Stop This Party (0.137) | 내 맘을 볼 수 있나요 (0.0349) |
-| D (Half Moon) (0.136) | VingleVingle (Prod. R.Tee) (0.0361) |
-| LULLABY (0.128) | 눈,코,입 (Eyes, Nose, Lips) (0.0379) |
+| GANADARA (Feat. IU) (0.244) | Heartbeat (0.0332) |
+| YOUNG (0.158) | Only Look At Me (나만 바라봐) (0.0336) |
+| Can't Stop This Party (0.137) | My Day Is Full Of You (0.034) |
+| D (Half Moon) (0.136) | 내 맘을 볼 수 있나요 (0.0349) |
+| LULLABY (0.128) | VingleVingle (Prod. R.Tee) (0.0361) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -208,11 +210,11 @@
 | Wicked (0.728) | Animal Farm (0.0201) |
 | Lyricist (0.721) | BIBI Vengeance (0.0272) |
 | Very, Slowly (0.678) | And July (0.0401) |
-| Can't Stop This Party (0.608) | New thing (Prod. ZICO) (Feat. Homies) (0.0453) |
-| Don’t (0.552) | One way love (0.0577) |
-| My Day Is Full Of You (0.532) | Sour candy (0.0681) |
-| Love Story (Feat. CRUSH) (0.499) | Three Dopeboyz (Feat. Zion.T) (0.078) |
-| Running Through The Night (0.455) | VIBE (feat. Jimin of BTS) (0.0801) |
+| Heartbeat (0.662) | New thing (Prod. ZICO) (Feat. Homies) (0.0453) |
+| Can't Stop This Party (0.608) | One way love (0.0577) |
+| Don’t (0.552) | Sour candy (0.0681) |
+| My Day Is Full Of You (0.532) | Three Dopeboyz (Feat. Zion.T) (0.078) |
+| Love Story (Feat. CRUSH) (0.499) | VIBE (feat. Jimin of BTS) (0.0801) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -232,13 +234,13 @@
 | Animal Farm (0.579) | D (Half Moon) (0.0573) |
 | Lyricist (0.352) | One way love (0.0622) |
 | HAPPEN (0.341) | BIBI Vengeance (0.0642) |
-| Only Look At Me (나만 바라봐) (0.332) | YOUNG (0.0679) |
-| Into You (0.329) | All I Wanna Do (0.0735) |
-| Say Yes (0.329) | First Sight (0.0735) |
-| VingleVingle (Prod. R.Tee) (0.325) | GANADARA (Feat. IU) (0.0772) |
-| Three Dopeboyz (Feat. Zion.T) (0.311) | Sour candy (0.0812) |
-| Rush Hour (Feat. j-hope of BTS) (0.31) | POOL(Feat. Sumin) (0.0834) |
-| Running Through The Night (0.266) | Undo (0.0903) |
+| Heartbeat (0.338) | YOUNG (0.0679) |
+| Only Look At Me (나만 바라봐) (0.332) | All I Wanna Do (0.0735) |
+| Into You (0.329) | First Sight (0.0735) |
+| Say Yes (0.329) | GANADARA (Feat. IU) (0.0772) |
+| VingleVingle (Prod. R.Tee) (0.325) | Sour candy (0.0812) |
+| Three Dopeboyz (Feat. Zion.T) (0.311) | POOL(Feat. Sumin) (0.0834) |
+| Rush Hour (Feat. j-hope of BTS) (0.31) | Undo (0.0903) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -247,8 +249,8 @@
 | Only Look At Me (나만 바라봐) (0.859) | Very, Slowly (0.249) |
 | WAITING (0.839) | 눈,코,입 (Eyes, Nose, Lips) (0.254) |
 | And July (0.787) | KAZINO (0.263) |
-| Somebody! (0.768) | LULLABY (0.308) |
-| Rush Hour (Feat. j-hope of BTS) (0.74) | Into The Abyss (0.346) |
-| Undo (0.734) | Can't Stop This Party (0.37) |
-| Into You (0.689) | My Day Is Full Of You (0.39) |
-| MOMMAE (0.678) | Animal Farm (0.399) |
+| Somebody! (0.768) | Heartbeat (0.28) |
+| Rush Hour (Feat. j-hope of BTS) (0.74) | LULLABY (0.308) |
+| Undo (0.734) | Into The Abyss (0.346) |
+| Into You (0.689) | Can't Stop This Party (0.37) |
+| MOMMAE (0.678) | My Day Is Full Of You (0.39) |

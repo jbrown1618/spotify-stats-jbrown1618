@@ -254,7 +254,7 @@
 | 2 | 0 | chamber pop |
 | 2 | 0 | brill building pop |
 | 1 | 0 | pop soul |
-| 1 | 0 | permanent wave |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new americana |
 | 1 | 0 | neo soul |
 | 1 | 0 | modern folk rock |

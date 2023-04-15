@@ -33,7 +33,7 @@
 - art rock
 - melancholia
 - oxford indie
-- permanent wave
+- [permanent wave](../../genres/permanent_wave)
 - [rock](../../genres/rock)
 
 ## Tracks

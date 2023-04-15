@@ -96,7 +96,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6bffc5b4d567301e3706fc9" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb472ce72dbc3c845b6e6324b0" alt="" width="50" /> | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | 1 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 1 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b3a3f827bf30c0d1f10198c" alt="" width="50" /> | 1 | 0 | David Archuleta | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb205fd3a3b91de152e22a7078" alt="" width="50" /> | 1 | 0 | Mixed Emotions | [🔗](https://open.spotify.com/artist/2BoHcRUfryDNxa9HQxXSpr) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Beejul Khatri | [🔗](https://open.spotify.com/artist/24SlCPf92d5VTzhI0ztENn) |
@@ -328,7 +328,7 @@
 | 1 | 0 | sleep |
 | 1 | 0 | renaissance |
 | 1 | 0 | piano rock |
-| 1 | 0 | permanent wave |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | hengelliset laulut |
 | 1 | 0 | heartland rock |
 | 1 | 0 | gregorian chant |

@@ -261,10 +261,10 @@
 | Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 64 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 67 |
-| Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
-| The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
-| Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
-| Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 56 |
+| Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
+| The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
+| Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
+| Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 32 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 61 |
 | Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
@@ -307,7 +307,7 @@
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 53 |
-| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 86 |
+| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 62 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
@@ -316,7 +316,7 @@
 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 41 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 40 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 39 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
 | Elastic Heart | RISE | The Nor'easters | 0 | 0 | 32 |
@@ -362,18 +362,18 @@
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 74 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
-| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 56 |
-| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 86 |
-| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 86 |
+| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 55 |
+| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
+| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 2 | 66 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 2 | 64 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 2 | 66 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 2 | 66 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
-| You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 86 |
-| Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 86 |
+| You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 85 |
+| Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 83 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 66 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 52 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 44 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
@@ -383,13 +383,12 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 78 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
-| Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 56 |
+| Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 76 |
-| Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 56 |
+| Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 55 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
-| KNOCK | Over The Moon | LEE CHAE YEON | 0 | 0 | 42 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 64 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 91 |
@@ -399,9 +398,9 @@
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 91 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 77 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 80 |
-| Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
+| Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 74 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 57 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 56 |
 | Murder On The Dance Floor | I'M LOVIN' AMY | AILEE | 0 | 0 | 59 |

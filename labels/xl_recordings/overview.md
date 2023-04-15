@@ -37,7 +37,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 16 | 14 | [rock](../../genres/rock/overview.md) |
-| 16 | 14 | permanent wave |
+| 16 | 14 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |

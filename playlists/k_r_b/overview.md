@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453ab67616d0000b273c43c64f95f57743ac12f1f4f" alt="K-R&B" width="100" />
 
-[102 songs (84 liked)](tracks.md)
+[103 songs (85 liked)](tracks.md)
 
 ## Top Artists
 
@@ -14,11 +14,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 8 | 7 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 7 | 7 | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 5 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 4 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | 4 | 3 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdee298c16aff2a9108194909" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 3 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 3 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 
 
 <details>
@@ -26,7 +26,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 3 | 3 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 3 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | 3 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
@@ -98,7 +98,7 @@
 
 
 <details>
-<summary>See all 83 albums</summary>
+<summary>See all 84 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -121,6 +121,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | 1 | 1 | The Hyena on the Keyboard Pt. 4 | 2018-04-21 | [🔗](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3" alt="" width="50" /> | 1 | 1 | Take | 2018-06-27 | [🔗](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e68e27ce09208c0ba0133df" alt="" width="50" /> | 1 | 1 | Sweet (A Business Proposal OST Part.1) | 2022-02-28 | [🔗](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="" width="50" /> | 1 | 1 | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | 2017-03-04 | [🔗](https://open.spotify.com/album/21jYCYSrxo7IEO67xH6XeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | 1 | 1 | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="" width="50" /> | 1 | 1 | Some | 2014-02-07 | [🔗](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
@@ -198,7 +199,7 @@
 
 
 <details>
-<summary>See all 40 labels</summary>
+<summary>See all 41 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -217,6 +218,7 @@
 | 1 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 1 | 1 | MORE VISION |
 | 1 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
+| 1 | 1 | JTBC Studios |
 | 1 | 1 | JS MUSIC |
 | 1 | 1 | Hwa&Dam pictures |
 | 1 | 1 | FLEX M |
@@ -242,8 +244,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 74 | 63 | [k-pop](../../genres/k_pop/overview.md) |
-| 23 | 18 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 75 | 64 | [k-pop](../../genres/k_pop/overview.md) |
+| 24 | 19 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 17 | 12 | korean pop |
 | 7 | 4 | k-rap |
 | 5 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -268,7 +270,7 @@
 | 2020 | 8 |
 | 2019 | 12 |
 | 2018 | 8 |
-| 2017 | 5 |
+| 2017 | 6 |
 | 2016 | 15 |
 | 2015 | 1 |
 | 2014 | 2 |

@@ -108,7 +108,7 @@
 | 27 | 17 | [Columbia](../../labels/columbia/overview.md) |
 | 12 | 4 | [Rhino](../../labels/rhino/overview.md) |
 | 9 | 3 | [Warner Records](../../labels/warner_records/overview.md) |
-| 3 | 3 | Geffen |
+| 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 5 | 2 | [Legacy](../../labels/legacy/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 2 | ABKCO Music and Records |

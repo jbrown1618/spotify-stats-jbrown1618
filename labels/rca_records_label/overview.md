@@ -1,9 +1,9 @@
 # RCA Records Label
 
-88 songs
+92 songs
 
 Appears as:
-- RCA Records Label (65 tracks)
+- RCA Records Label (69 tracks)
 - Monkey Puzzle Records/RCA Records (8 tracks)
 - Citizen Queen/RCA Records (5 tracks)
 - Kemosabe Records/RCA Records (5 tracks)
@@ -30,7 +30,7 @@ Appears as:
 
 
 <details>
-<summary>See all 33 artists</summary>
+<summary>See all 34 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -50,6 +50,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 1 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb586b55e89ac8b2b492f5490c" alt="" width="50" /> | 5 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | 1 | 0 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -80,7 +81,7 @@ Appears as:
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 50 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -106,7 +107,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="" width="50" /> | 1 | 0 | bad guy | 2019-12-13 | [🔗](https://open.spotify.com/album/1phloQZ7zGTlsfQVUBiTbK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 1 | 0 | Wimoweh!!! - The Best Of The Tokens | 1994-08-29 | [🔗](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c999354430ff7eac3e0d9bc8" alt="" width="50" /> | 1 | 0 | This Is The End: Original Motion Picture Soundtrack | 2013-06-10 | [🔗](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | 1 | 0 | The Sound of Silence | 2019-02-15 | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | 1 | 0 | Sway | 2018-05-04 | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | 1 | 0 | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | 1 | 0 | Slide Away | 2019-08-16 | [🔗](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) |
@@ -115,6 +118,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c5f8c31793f6cf28146004b" alt="" width="50" /> | 1 | 0 | Never Enough | 2019-02-08 | [🔗](https://open.spotify.com/album/0c9cgQqbVL9QVvwbA6faAB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dd365a8240e6a0c0294f764" alt="" width="50" /> | 1 | 0 | Lost in Japan | 2018-12-28 | [🔗](https://open.spotify.com/album/1Zs8K8co0WkLKaQ4NxduR5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | 1 | 0 | In Your Honor | 2005-06-14 | [🔗](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | 1 | 0 | Britney Jean (Deluxe Version) | 2013-11-30 | [🔗](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | 1 | 0 | Blue Hawaii | 1961-10-20 | [🔗](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="" width="50" /> | 1 | 0 | Beautiful Trauma | 2017-10-13 | [🔗](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) |
@@ -136,22 +141,22 @@ Appears as:
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 8 | 8 | australian pop |
 | 8 | 8 | australian dance |
+| 8 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 4 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 2 | [rock](../../genres/rock/overview.md) |
+| 7 | 2 | [rock](../../genres/rock/overview.md) |
+| 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 7 | 2 | alternative rock |
 | 3 | 2 | rap |
-| 3 | 2 | permanent wave |
 | 3 | 2 | garage rock |
-| 3 | 2 | alternative rock |
 | 2 | 1 | talent show |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 1 | pop rap |
@@ -166,6 +171,8 @@ Appears as:
 | 1 | 1 | contemporary r&b |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alt z |
+| 4 | 0 | post-grunge |
+| 4 | 0 | alternative metal |
 | 1 | 0 | swedish synthpop |
 | 1 | 0 | swedish pop |
 | 1 | 0 | swedish electropop |
@@ -207,6 +214,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | Woman | Planet Her | Doja Cat | [Kemosabe Records/RCA Records](.) | | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | You Right | Planet Her | Doja Cat, The Weeknd | [Kemosabe Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love | Blue Hawaii | Elvis Presley | [Legacy](../legacy), [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | Everlong | The Colour And The Shape | Foo Fighters | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | Best of You | In Your Honor | Foo Fighters | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | The Pretender | Echoes, Silence, Patience & Grace | Foo Fighters | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I | When It's Dark Out | G-Eazy, Bebe Rexha | [BPG/RVG/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel. | Now, Not Yet | half•alive | [half·alive/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | Imogen Heap | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |

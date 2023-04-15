@@ -138,7 +138,7 @@
 | 13 | 5 | [Warner Records](../../labels/warner_records/overview.md) |
 | 7 | 4 | [Columbia](../../labels/columbia/overview.md) |
 | 6 | 3 | [Legacy](../../labels/legacy/overview.md) |
-| 3 | 3 | Geffen |
+| 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 3 | 2 | A&M |
 | 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
@@ -211,7 +211,7 @@
 | 1 | 1 | blues rock |
 | 1 | 1 | australian rock |
 | 1 | 0 | sophisti-pop |
-| 1 | 0 | permanent wave |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | nwobhm |
 
 </details>

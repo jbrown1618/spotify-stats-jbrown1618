@@ -221,7 +221,7 @@
 | 9 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 5 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 4 | 0 | Geffen |
+| 4 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 4 | 0 | [143](../../labels/143/overview.md) |
 
 

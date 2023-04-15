@@ -1,6 +1,6 @@
 # rock
 
-[173 songs](tracks.md)
+[192 songs](tracks.md)
 
 ## Top Artists
 
@@ -19,7 +19,7 @@
 
 
 <details>
-<summary>See all 43 artists</summary>
+<summary>See all 48 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -32,6 +32,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 7 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 5 | 1 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
@@ -49,9 +51,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdeeefa8e7621458ef859ab77" alt="" width="50" /> | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | 1 | 1 | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
+| <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc52c8e309e46aa8430a0fa0" alt="" width="50" /> | 1 | 0 | Iron Maiden | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
@@ -72,11 +77,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | 5 | 5 | The Beatles (Remastered) | 1968-11-22 | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 5 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 4 | 2 | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | 3 | 3 | The Game | 1980-06-27 | [🔗](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | 3 | 3 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | 3 | 3 | An Awesome Wave | 2012-09-18 | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 
 
 <details>
@@ -84,6 +89,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | 3 | 3 | An Awesome Wave | 2012-09-18 | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | 3 | 2 | Revolver (Remastered) | 1966-08-05 | [🔗](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | 3 | 2 | Magical Mystery Tour (Remastered) | 1967-11-27 | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 2 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
@@ -107,7 +113,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | 2 | 1 | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 1 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 2 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 2 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | 1 | 1 | With The Beatles (Remastered) | 1963-11-22 | [🔗](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | 1 | 1 | Who's Next (Expanded Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
@@ -140,6 +148,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | 1 | 1 | Help! (Remastered) | 1965-08-06 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 1 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="" width="50" /> | 1 | 1 | Foreigner (Expanded) | 1977-03-08 | [🔗](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
@@ -158,22 +167,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d283808926ad3d2220e63c1c" alt="" width="50" /> | 1 | 0 | Yellow Submarine (Remastered) | 1969-01-17 | [🔗](https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | 1 | 0 | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | 1 | 0 | Toys In The Attic | 1975-04-08 | [🔗](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | 1 | 0 | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | 1 | 0 | The Essential Van Morrison | 2015-12-04 | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="" width="50" /> | 1 | 0 | Sgt. Pepper's Lonely Hearts Club Band (Remastered) | 1967-06-01 | [🔗](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="" width="50" /> | 1 | 0 | Please Please Me (Remastered) | 1963-03-22 | [🔗](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="" width="50" /> | 1 | 0 | Piece of Mind (2015 - Remaster) | 1983-05-16 | [🔗](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="" width="50" /> | 1 | 0 | Nimrod | 1997-10-14 | [🔗](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | 1 | 0 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | 1 | 0 | Madman Across The Water | 1971-11-05 | [🔗](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | 1 | 0 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="" width="50" /> | 1 | 0 | I Walk the Line (Stereo Version) | 1964-06-13 | [🔗](https://open.spotify.com/album/1kd7QnBNMg5kygoclVuDqZ) |
 
 </details>
 
@@ -188,7 +193,7 @@
 | 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 16 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 14 | 11 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
-| 18 | 9 | [Warner Records](../../labels/warner_records/overview.md) |
+| 25 | 10 | [Warner Records](../../labels/warner_records/overview.md) |
 | 12 | 4 | [Rhino](../../labels/rhino/overview.md) |
 | 5 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
 | 4 | 4 | Fueled By Ramen |
@@ -197,21 +202,22 @@
 
 
 <details>
-<summary>See all 37 labels</summary>
+<summary>See all 39 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 6 | 3 | [Legacy](../../labels/legacy/overview.md) |
-| 3 | 3 | Geffen |
+| 4 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 3 | 3 | Canvasback |
 | 3 | 3 | ATL |
-| 3 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 7 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 2 | Kid Ina Korner |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 2 | American Recordings Catalog P&D |
 | 2 | 2 | ABKCO Music and Records |
 | 2 | 2 | A&M |
+| 5 | 1 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 1 | [Epic](../../labels/epic/overview.md) |
 | 2 | 1 | Elektra |
 | 2 | 1 | Columbia Nashville Legacy |
@@ -225,6 +231,7 @@
 | 3 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 0 | RCA Victor |
 | 2 | 0 | Legacy Recordings |
+| 2 | 0 | Island Records |
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | Sanctuary Records |
 | 1 | 0 | Parlophone UK |
@@ -241,15 +248,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> <span>The New Abnormal (2020-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="Please Please Me (Remastered)" width="50" /> <span>Please Please Me (Remastered) (1963-03-22)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span>Evolve (2017-06-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span>Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> <span>The Ultimate Collection (2017-02-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span>With The Beatles (Remastered) (1963-11-22)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> <span>The Essential Van Morrison (2015-12-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="I Walk the Line (Stereo Version)" width="50" /> <span>I Walk the Line (Stereo Version) (1964-06-13)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> <span>Blurryface (2015-05-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span>A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> <span>Random Access Memories (2013-05-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span>Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="Paramore" width="50" /> <span>Paramore (2013-04-05)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span>Out Of Our Heads (1965-07-30)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> <span>The 2nd Law (2012-09-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> <span>Greatest Hits: God's Favorite Band (2017-11-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span>Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span>Evolve (2017-06-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span>With The Beatles (Remastered) (1963-11-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> <span>The Ultimate Collection (2017-02-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="I Walk the Line (Stereo Version)" width="50" /> <span>I Walk the Line (Stereo Version) (1964-06-13)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> <span>The Essential Van Morrison (2015-12-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span>A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> <span>Blurryface (2015-05-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span>Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> <span>Random Access Memories (2013-05-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span>Out Of Our Heads (1965-07-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="Paramore" width="50" /> <span>Paramore (2013-04-05)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> <span>The 2nd Law (2012-09-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> <span>My Generation (Stereo Version) (1965-12-03)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> <span>An Awesome Wave (2012-09-18)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> <span>Rubber Soul (Remastered) (1965-12-03)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="Night Visions" width="50" /> <span>Night Visions (2012-09-04)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> <span>My Generation (Stereo Version) (1965-12-03)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -268,15 +275,15 @@
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | When Doves Cry (0.989) | And So It Goes (0.0387) |
-| We Didn't Start the Fire (0.967) | The Boxer (0.0802) |
-| Knights of Cydonia (0.963) | And So It Goes (0.0871) |
-| Sweet Child O' Mine (0.952) | Blackbird - Remastered 2009 (0.127) |
-| Uptown Girl (0.944) | She's Got a Way (0.142) |
-| Go Your Own Way - 2004 Remaster (0.941) | Golden Slumbers - Remastered 2009 (0.152) |
-| Immigrant Song - Remaster (0.932) | Lullabye (Goodnight, My Angel) (0.157) |
-| Any Way You Want It (0.932) | Hurt (0.158) |
-| Scenes from an Italian Restaurant (0.931) | Landslide (0.161) |
-| Supermassive Black Hole (0.921) | Yesterday - Remastered 2009 (0.179) |
+| American Idiot (0.988) | The Boxer (0.0802) |
+| We Didn't Start the Fire (0.967) | And So It Goes (0.0871) |
+| Knights of Cydonia (0.963) | Blackbird - Remastered 2009 (0.127) |
+| The Pretender (0.959) | She's Got a Way (0.142) |
+| Sweet Child O' Mine (0.952) | Golden Slumbers - Remastered 2009 (0.152) |
+| Uptown Girl (0.944) | Lullabye (Goodnight, My Angel) (0.157) |
+| Basket Case (0.943) | Hurt (0.158) |
+| Go Your Own Way - 2004 Remaster (0.941) | Landslide (0.161) |
+| Best of You (0.94) | Yesterday - Remastered 2009 (0.179) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -289,46 +296,46 @@
 | Knights of Cydonia (0.142) | Hurt (0.0267) |
 | Stressed Out (0.141) | A Matter of Trust (0.0268) |
 | One More Time (0.133) | Hotel California - 2013 Remaster (0.027) |
-| Believer (0.128) | Instant Crush (feat. Julian Casablancas) (0.0271) |
+| Believer (0.128) | Californication (0.027) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| I Walk the Line - Stereo Version (0.97) | Paranoid - 2012 - Remaster (4.52e-05) |
-| She's Got a Way (0.97) | Let Down (0.000121) |
-| Lullabye (Goodnight, My Angel) (0.948) | Knights of Cydonia (0.000273) |
-| Desperado - 2013 Remaster (0.946) | Technologic (0.000369) |
-| And So It Goes (0.941) | Reptilia (0.000603) |
-| Eleanor Rigby - Remastered 2009 (0.936) | Enter Sandman (0.00206) |
-| The Boxer (0.93) | Any Way You Want It (0.00251) |
-| And So It Goes (0.91) | Hard To Handle (0.00257) |
-| Landslide (0.883) | Misery Business (0.00272) |
-| Yesterday - Remastered 2009 (0.879) | Carry on Wayward Son (0.00321) |
+| I Walk the Line - Stereo Version (0.97) | Learn to Fly (1.83e-05) |
+| She's Got a Way (0.97) | Smells Like Teen Spirit (2.55e-05) |
+| Lullabye (Goodnight, My Angel) (0.948) | American Idiot (2.64e-05) |
+| Desperado - 2013 Remaster (0.946) | Paranoid - 2012 - Remaster (4.52e-05) |
+| And So It Goes (0.941) | Everlong (5.99e-05) |
+| Eleanor Rigby - Remastered 2009 (0.936) | Let Down (0.000121) |
+| The Boxer (0.93) | Knights of Cydonia (0.000273) |
+| And So It Goes (0.91) | Technologic (0.000369) |
+| Landslide (0.883) | Reptilia (0.000603) |
+| Yesterday - Remastered 2009 (0.879) | Best of You (0.000769) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Digital Love (0.867) | One More Time (0.0) |
-| Animals (0.796) | We Will Rock You (0.0) |
-| Weird Fishes/ Arpeggi (0.756) | Believer (0.0) |
-| Reptilia (0.713) | Killer Queen (0.0) |
-| Street Spirit (Fade Out) (0.694) | And So It Goes (0.0) |
-| Instant Crush (feat. Julian Casablancas) (0.619) | Crazy Little Thing Called Love (0.0) |
-| 1979 - Remastered 2012 (0.583) | Ride (0.0) |
-| Smoke on the Water (0.581) | Only the Good Die Young (0.0) |
-| There, There (0.52) | Yesterday - Remastered 2009 (0.0) |
-| All I Need (0.428) | We Didn't Start the Fire (0.0) |
+| Digital Love (0.867) | Mr. Brightside (0.0) |
+| Animals (0.796) | One More Time (0.0) |
+| Weird Fishes/ Arpeggi (0.756) | We Will Rock You (0.0) |
+| Reptilia (0.713) | Believer (0.0) |
+| Street Spirit (Fade Out) (0.694) | Killer Queen (0.0) |
+| Instant Crush (feat. Julian Casablancas) (0.619) | And So It Goes (0.0) |
+| 1979 - Remastered 2012 (0.583) | Crazy Little Thing Called Love (0.0) |
+| Smoke on the Water (0.581) | Ride (0.0) |
+| There, There (0.52) | Only the Good Die Young (0.0) |
+| All I Need (0.428) | Yesterday - Remastered 2009 (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (0.893) | Ain't It Fun (0.021) |
-| Animals (0.696) | Iron Man (0.0372) |
-| Purple Rain (0.689) | The Chain - 2004 Remaster (0.0451) |
-| Radioactive (0.668) | 1979 - Remastered 2012 (0.0513) |
-| Revolution 1 - Remastered 2009 (0.621) | Smoke on the Water (0.0535) |
-| Feel Good Inc. (0.613) | Paranoid Android (0.0545) |
-| Get Back - Remastered 2009 (0.61) | My Life (0.0555) |
-| Uptown Girl (0.601) | Blackbird - Remastered 2009 (0.0573) |
-| I Am The Walrus - Remastered 2009 (0.589) | Hotel California - 2013 Remaster (0.0575) |
-| Don't Stop Me Now (0.558) | Won't Get Fooled Again - Remix (0.0584) |
+| Animals (0.696) | The Pretender (0.028) |
+| Purple Rain (0.689) | Iron Man (0.0372) |
+| Radioactive (0.668) | The Chain - 2004 Remaster (0.0451) |
+| Revolution 1 - Remastered 2009 (0.621) | 1979 - Remastered 2012 (0.0513) |
+| Feel Good Inc. (0.613) | Smoke on the Water (0.0535) |
+| Get Back - Remastered 2009 (0.61) | Paranoid Android (0.0545) |
+| Uptown Girl (0.601) | My Life (0.0555) |
+| I Am The Walrus - Remastered 2009 (0.589) | Blackbird - Remastered 2009 (0.0573) |
+| Don't Stop Me Now (0.558) | Hotel California - 2013 Remaster (0.0575) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

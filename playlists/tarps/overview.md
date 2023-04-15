@@ -205,7 +205,7 @@
 | 1 | 0 | Legacy Recordings |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | J Records |
-| 1 | 0 | Geffen |
+| 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 1 | 0 | Def Soul |
 | 1 | 0 | Arista |
 
@@ -259,7 +259,7 @@
 | 2 | 1 | uk pop |
 | 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 2 | 1 | rap |
-| 2 | 1 | permanent wave |
+| 2 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 2 | 1 | hip hop |

@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1497 songs](tracks.md)
+[1500 songs](tracks.md)
 
 ## Top Artists
 
@@ -111,8 +111,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 4 | 4 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 4 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 4 | 4 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 4 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 4 | 4 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 4 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 
 </details>
 
@@ -250,7 +250,7 @@
 | 55 | 55 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 55 | 55 | [Columbia](../../labels/columbia/overview.md) |
 | 51 | 51 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
-| 46 | 46 | [Warner Records](../../labels/warner_records/overview.md) |
+| 47 | 47 | [Warner Records](../../labels/warner_records/overview.md) |
 | 43 | 43 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
 
@@ -299,11 +299,11 @@
 | 6 | 6 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 6 | 6 | [UNI](../../labels/uni/overview.md) |
 | 6 | 6 | Sire |
+| 6 | 6 | [Reprise](../../labels/reprise/overview.md) |
 | 6 | 6 | [HYBE](../../labels/hybe/overview.md) |
 | 6 | 6 | EDAM Entertainment |
 | 6 | 6 | Bad Boy |
 | 5 | 5 | Studio MaumC |
-| 5 | 5 | [Reprise](../../labels/reprise/overview.md) |
 | 5 | 5 | Parkwood Entertainment |
 | 5 | 5 | KQ Entertainment |
 | 5 | 5 | Hwa&Dam pictures |
@@ -321,7 +321,7 @@
 | 4 | 4 | Riot Games |
 | 4 | 4 | P NATION |
 | 4 | 4 | [Legacy](../../labels/legacy/overview.md) |
-| 4 | 4 | Geffen |
+| 4 | 4 | [Geffen](../../labels/geffen/overview.md) |
 | 4 | 4 | Fave Entertainment |
 | 4 | 4 | Elektra |
 | 4 | 4 | Daft Life Ltd. |
@@ -359,12 +359,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 658 | 658 | [k-pop](../../genres/k_pop/overview.md) |
+| 659 | 659 | [k-pop](../../genres/k_pop/overview.md) |
 | 307 | 307 | [pop](../../genres/pop/overview.md) |
 | 299 | 299 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 166 | 166 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 154 | 154 | [dance pop](../../genres/dance_pop/overview.md) |
-| 120 | 120 | [rock](../../genres/rock/overview.md) |
+| 122 | 122 | [rock](../../genres/rock/overview.md) |
 | 78 | 78 | [classic rock](../../genres/classic_rock/overview.md) |
 | 72 | 72 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 60 | [neo mellow](../../genres/neo_mellow/overview.md) |
@@ -378,16 +378,16 @@
 |---:|---:|:---|
 | 55 | 55 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 50 | 50 | [pop rock](../../genres/pop_rock/overview.md) |
-| 42 | 42 | [modern rock](../../genres/modern_rock/overview.md) |
+| 43 | 43 | [modern rock](../../genres/modern_rock/overview.md) |
 | 37 | 37 | [soft rock](../../genres/soft_rock/overview.md) |
 | 37 | 37 | [album rock](../../genres/album_rock/overview.md) |
 | 35 | 35 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 33 | 33 | [art pop](../../genres/art_pop/overview.md) |
-| 30 | 30 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 31 | 31 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 30 | 30 | british invasion |
 | 28 | 28 | [viral pop](../../genres/viral_pop/overview.md) |
+| 28 | 28 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
-| 26 | 26 | permanent wave |
 | 25 | 25 | piano rock |
 | 24 | 24 | heartland rock |
 | 24 | 24 | electropop |
@@ -398,9 +398,9 @@
 | 22 | 22 | korean pop |
 | 20 | 20 | urban contemporary |
 | 20 | 20 | uk pop |
+| 20 | 20 | alternative rock |
 | 19 | 19 | melancholia |
 | 19 | 19 | anime |
-| 19 | 19 | alternative rock |
 | 18 | 18 | hard rock |
 | 17 | 17 | k-rap |
 | 17 | 17 | [a cappella](../../genres/a_cappella/overview.md) |
@@ -486,7 +486,7 @@
 | [2020](2020.md) | 134 |
 | [2019](2019.md) | 116 |
 | [2018](2018.md) | 80 |
-| [2017](2017.md) | 71 |
+| [2017](2017.md) | 73 |
 | [2016](2016.md) | 76 |
 | [2015](2015.md) | 56 |
 | [2014](2014.md) | 44 |
@@ -497,7 +497,7 @@
 | [2009](2009.md) | 29 |
 | [2008](2008.md) | 23 |
 | [2007](2007.md) | 25 |
-| 2006 | 12 |
+| 2006 | 13 |
 | 2005 | 14 |
 | 2004 | 7 |
 | 2003 | 7 |
@@ -548,8 +548,8 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> <span>Over The Moon (2023-04-12)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span>Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I've IVE" width="50" /> <span>I've IVE (2023-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span>Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="LOVESTRUCK!" width="50" /> <span>LOVESTRUCK! (2023-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span>With The Beatles (Remastered) (1963-11-22)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="People Pt.2 (feat. IU)" width="50" /> <span>People Pt.2 (feat. IU) (2023-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span>Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="Golden Hour - SM STATION : NCT LAB" width="50" /> <span>Golden Hour - SM STATION : NCT LAB (2023-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span>Mary Wells Sings My Guy (1964)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273bff049a2215c768b6432499f" alt="People Pt.2 (feat. IU)" width="50" /> <span>People Pt.2 (feat. IU) (2023-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span>Mary Wells Sings My Guy (1964)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="Golden Hour - SM STATION : NCT LAB" width="50" /> <span>Golden Hour - SM STATION : NCT LAB (2023-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span>Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> <span>VingleVingle (2023-04-05)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span>A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> <span>ME (2023-03-31)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span>Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> <span>Hold On Tight (2023-03-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span>The Temptations Sing Smokey (1965-03-22)</span></div> |

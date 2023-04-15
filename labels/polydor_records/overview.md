@@ -129,7 +129,7 @@ Appears as:
 | 1 | 0 | shiver pop |
 | 1 | 0 | [pop rock](../../genres/pop_rock/overview.md) |
 | 1 | 0 | pop dance |
-| 1 | 0 | permanent wave |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 0 | irish rock |
 | 1 | 0 | house |

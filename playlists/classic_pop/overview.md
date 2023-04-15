@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d" alt="" width="50" /> | 1 | 0 | The Archies | [🔗](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 1 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f764c8f69b595efe77e1c45" alt="" width="50" /> | 1 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 1 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | 1 | 0 | Bee Gees | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 
@@ -206,7 +206,7 @@
 | 1 | 1 | country rock |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | southern soul |
-| 1 | 0 | permanent wave |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | jazz blues |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |

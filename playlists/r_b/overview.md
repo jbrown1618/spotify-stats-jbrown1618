@@ -211,7 +211,7 @@
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | IDJ |
 | 1 | 1 | H 3 F |
-| 1 | 1 | Geffen |
+| 1 | 1 | [Geffen](../../labels/geffen/overview.md) |
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | EMI |

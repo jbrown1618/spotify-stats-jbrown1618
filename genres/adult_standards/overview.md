@@ -104,7 +104,7 @@
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
 | 2 | 0 | Verve Reissues |
 | 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
-| 2 | 0 | Geffen |
+| 2 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 0 | Craft Recordings |
 
 

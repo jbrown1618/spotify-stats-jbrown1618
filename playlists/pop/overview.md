@@ -400,7 +400,7 @@
 | 7 | 5 | talent show |
 | 6 | 5 | girl group |
 | 5 | 5 | uk funky |
-| 5 | 5 | permanent wave |
+| 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 5 | 5 | afrofuturism |
 | 7 | 4 | indietronica |
 | 5 | 4 | piano rock |

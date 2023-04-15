@@ -240,7 +240,7 @@
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 4 | [adult standards](../../genres/adult_standards/overview.md) |
 | 4 | 4 | glam rock |
-| 4 | 3 | permanent wave |
+| 4 | 3 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 3 | lounge |
 | 3 | 3 | soul |
 | 3 | 3 | motown |

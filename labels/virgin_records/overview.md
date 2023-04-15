@@ -53,7 +53,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
-| 1 | 0 | permanent wave |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | grunge |
 | 1 | 0 | alternative rock |
 | 1 | 0 | alternative metal |

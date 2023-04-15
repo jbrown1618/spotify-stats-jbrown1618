@@ -3,13 +3,14 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[72 songs (57 liked)](tracks.md)
+[95 songs (64 liked)](tracks.md)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 16 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 8 | 5 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 6 | 5 | Rilo Kiley | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
@@ -18,16 +19,18 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 2 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 5 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 4 | 1 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 2 | 1 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
@@ -43,8 +46,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 3 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | 2 | 0 | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
+| <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
 
@@ -61,6 +68,7 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 5 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 4 | 2 | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | 3 | 3 | An Awesome Wave | 2012-09-18 | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
@@ -68,20 +76,26 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | 2 | 2 | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 2 | 2 | Plans | 2005-08-29 | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 63 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 2 | 2 | Plans | 2005-08-29 | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | 2 | 2 | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 2 | 2 | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 2 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | 2 | 1 | The Execution Of All Things | 2002-10-01 | [🔗](https://open.spotify.com/album/23EqcK0ZR1ravQaEsGpQyH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | 2 | 1 | Metallica | 1991-08-12 | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="" width="50" /> | 2 | 1 | Century Child | 2002 | [🔗](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 2 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | 1 | 1 | Young The Giant (Special Edition) | 2011 | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | 1 | 1 | Under My Skin | 2004 | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | 1 | 1 | Trading Snakeoil for Wolftickets | 2001-01-01 | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
@@ -92,6 +106,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 1 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 1 | 1 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | 1 | 1 | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
@@ -99,6 +114,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | 1 | 1 | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | 1 | 1 | I Love You. | 2013-04-19 | [🔗](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 1 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | 1 | 1 | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7" alt="" width="50" /> | 1 | 1 | Dark Passion Play | 2007 | [🔗](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) |
@@ -108,12 +124,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | 1 | 1 | Ambitions | 2017-01-13 | [🔗](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="" width="50" /> | 1 | 1 | Album One | 2009-10-30 | [🔗](https://open.spotify.com/album/60nJMMPYjHWNjli6APs40v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | 1 | 0 | Writer's Block | 2006-01-01 | [🔗](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | 1 | 0 | Once More 'Round the Sun | 2014-06-20 | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ec44fa4da96ea79e69fda00" alt="" width="50" /> | 1 | 0 | Once | 2004-01-04 | [🔗](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="" width="50" /> | 1 | 0 | Nimrod | 1997-10-14 | [🔗](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | 1 | 0 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd" alt="" width="50" /> | 1 | 0 | Leviathan | 2004-08-31 | [🔗](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="" width="50" /> | 1 | 0 | In the Aeroplane Over the Sea | 1998-02-20 | [🔗](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | 1 | 0 | In Your Honor | 2005-06-14 | [🔗](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
 
 </details>
 
@@ -125,26 +147,29 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 16 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
-| 9 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
+| 14 | 9 | [Warner Records](../../labels/warner_records/overview.md) |
 | 5 | 5 | Fueled By Ramen |
-| 4 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 7 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 4 | 3 | Parlophone Records Limited |
 | 3 | 3 | Steam Powered Giraffe |
 | 3 | 3 | Canvasback |
 | 3 | 3 | Brute |
 | 3 | 3 | Beaute |
 | 3 | 3 | ATL |
-| 2 | 2 | Phonogenic |
 
 
 <details>
-<summary>See all 36 labels</summary>
+<summary>See all 40 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 4 | 2 | Parlophone UK |
+| 2 | 2 | Phonogenic |
 | 2 | 2 | Kid Ina Korner |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 2 | [Epic](../../labels/epic/overview.md) |
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 5 | 1 | [Reprise](../../labels/reprise/overview.md) |
 | 4 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 3 | 1 | Relentless |
 | 2 | 1 | Spin-Farm Oy |
@@ -163,10 +188,11 @@
 | 1 | 1 | Cult Records |
 | 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | Arista |
+| 2 | 0 | Island Records |
 | 1 | 0 | Universal Music AB |
-| 1 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 1 | 0 | Relapse Records |
 | 1 | 0 | Merge Records |
+| 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
 
 </details>
 
@@ -177,20 +203,20 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 37 | 31 | [rock](../../genres/rock/overview.md) |
-| 25 | 20 | permanent wave |
-| 23 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
-| 24 | 19 | alternative rock |
+| 52 | 33 | [rock](../../genres/rock/overview.md) |
+| 48 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 32 | 21 | [modern rock](../../genres/modern_rock/overview.md) |
+| 34 | 20 | alternative rock |
+| 18 | 15 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
 | 14 | 11 | indie rock |
-| 10 | 10 | [pop](../../genres/pop/overview.md) |
 | 9 | 7 | chamber pop |
 
 
 <details>
-<summary>See all 81 genres</summary>
+<summary>See all 85 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -221,15 +247,18 @@
 | 2 | 2 | pop emo |
 | 2 | 2 | pixie |
 | 2 | 2 | celtic rock |
+| 7 | 1 | alternative metal |
+| 5 | 1 | funk rock |
+| 5 | 1 | funk metal |
+| 4 | 1 | punk |
+| 4 | 1 | post-grunge |
 | 4 | 1 | metal |
-| 4 | 1 | alternative metal |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
 | 2 | 1 | thrash metal |
 | 2 | 1 | old school thrash |
 | 2 | 1 | hard rock |
 | 1 | 1 | teen pop |
-| 1 | 1 | post-grunge |
 | 1 | 1 | neo-synthpop |
 | 1 | 1 | metropopolis |
 | 1 | 1 | japanese emo |
@@ -253,6 +282,8 @@
 | 2 | 0 | sludge metal |
 | 2 | 0 | progressive sludge |
 | 2 | 0 | progressive groove metal |
+| 2 | 0 | grunge |
+| 2 | 0 | dance rock |
 | 2 | 0 | atlanta metal |
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish alternative rock |
@@ -260,7 +291,6 @@
 | 1 | 0 | noise pop |
 | 1 | 0 | new rave |
 | 1 | 0 | lo-fi |
-| 1 | 0 | grunge |
 | 1 | 0 | elephant 6 |
 | 1 | 0 | dance-punk |
 | 1 | 0 | baroque pop |
@@ -280,94 +310,94 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> <span>The New Abnormal (2020-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> <span>Metallica (1991-08-12)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> <span>Chosen (2017-12-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span>Pablo Honey (1993-02-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> <span>Chosen (2017-12-08)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> <span>Nevermind (Remastered) (1991-09-26)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> <span>Greatest Hits: God's Favorite Band (2017-11-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span>Pablo Honey (1993-02-22)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span>Evolve (2017-06-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> <span>The Downward Spiral (1994-03-08)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> <span>Ambitions (2017-01-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span>Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> <span>Blurryface (2015-05-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span>The Bends (1995-03-13)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> <span>Strange Trails (2015-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span>OK Computer (1997-05-28)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> <span>Bombs Away (2015-03-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span>In the Aeroplane Over the Sea (1998-02-20)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="Once More 'Round the Sun" width="50" /> <span>Once More 'Round the Sun (2014-06-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> <span>Kid A (2000-10-02)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span>Origin of Symmetry (2001)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="I Love You." width="50" /> <span>I Love You. (2013-04-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="Trading Snakeoil for Wolftickets" width="50" /> <span>Trading Snakeoil for Wolftickets (2001-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> <span>Strange Trails (2015-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> <span>The Colour And The Shape (1997-05-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> <span>Bombs Away (2015-03-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> <span>OK Computer (1997-05-28)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="Once More 'Round the Sun" width="50" /> <span>Once More 'Round the Sun (2014-06-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> <span>Nimrod (1997-10-14)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="In the Aeroplane Over the Sea" width="50" /> <span>In the Aeroplane Over the Sea (1998-02-20)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Believer (0.776) | Pyramid Song (0.127) |
-| 1979 - Remastered 2012 (0.767) | Paranoid Android (0.251) |
-| Black Horse And The Cherry Tree (0.748) | No Surprises (0.255) |
-| Stressed Out (0.734) | In the Aeroplane Over the Sea (0.271) |
-| Beggin' (0.714) | Exit Music (For A Film) (0.293) |
-| Silver Lining (0.709) | Everything In Its Right Place (0.296) |
-| Geronimo (0.705) | Does He Love You? (0.317) |
-| Tessellate (0.702) | Mad World (0.344) |
-| Young Folks (0.699) | Feeling Good (0.345) |
-| All I Need (0.67) | Let Down (0.351) |
+| 1979 - Remastered 2012 (0.767) | Fix You (0.209) |
+| Black Horse And The Cherry Tree (0.748) | Paranoid Android (0.251) |
+| Stressed Out (0.734) | No Surprises (0.255) |
+| Beggin' (0.714) | In the Aeroplane Over the Sea (0.271) |
+| Silver Lining (0.709) | Exit Music (For A Film) (0.293) |
+| Geronimo (0.705) | Everything In Its Right Place (0.296) |
+| Tessellate (0.702) | Does He Love You? (0.317) |
+| Young Folks (0.699) | Mad World (0.344) |
+| All I Need (0.67) | Feeling Good (0.345) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| The Motherload (0.971) | Mad World (0.0585) |
-| Knights of Cydonia (0.963) | Hurt (0.158) |
-| End Of All Hope (0.946) | Honeybee (0.186) |
-| My Happy Ending (0.936) | I Will Follow You into the Dark (0.206) |
-| Blood and Thunder (0.935) | Fake Plastic Trees (0.229) |
-| Everybody Talks (0.924) | Exit Music (For A Film) (0.276) |
-| Supermassive Black Hole (0.921) | Pyramid Song (0.335) |
-| Misery Business (0.906) | Nothing Else Matters (0.364) |
-| Ain't It Fun (0.893) | The Night We Met (0.366) |
-| Gimme Sympathy (0.886) | High and Dry (0.383) |
+| American Idiot (0.988) | Mad World (0.0585) |
+| The Motherload (0.971) | Hurt (0.158) |
+| Knights of Cydonia (0.963) | Honeybee (0.186) |
+| The Pretender (0.959) | I Will Follow You into the Dark (0.206) |
+| End Of All Hope (0.946) | Fake Plastic Trees (0.229) |
+| Best of You (0.94) | Exit Music (For A Film) (0.276) |
+| My Happy Ending (0.936) | Pyramid Song (0.335) |
+| Blood and Thunder (0.935) | Slow Cheetah (0.344) |
+| Everybody Talks (0.924) | Nothing Else Matters (0.364) |
+| Supermassive Black Hole (0.921) | The Night We Met (0.366) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Knights of Cydonia (0.142) | Breakeven (0.0242) |
-| Stressed Out (0.141) | High and Dry (0.0256) |
-| Believer (0.128) | Karma Police (0.0258) |
-| Accidntel Deth (0.123) | Reckoner (0.0262) |
-| Ain't It Fun (0.0921) | Nothing Else Matters (0.0265) |
-| Geronimo (0.0805) | What Sarah Said (0.0268) |
-| The Motherload (0.0776) | No Surprises (0.0278) |
-| My Happy Ending (0.0758) | The Man Who Can't Be Moved (0.0279) |
-| Gimme Sympathy (0.0752) | Silver Lining (0.0288) |
-| Misery Business (0.0735) | Fake Plastic Trees (0.0297) |
+| Stressed Out (0.141) | The Scientist (0.0243) |
+| Believer (0.128) | High and Dry (0.0256) |
+| Accidntel Deth (0.123) | Karma Police (0.0258) |
+| Ain't It Fun (0.0921) | Reckoner (0.0262) |
+| Geronimo (0.0805) | Nothing Else Matters (0.0265) |
+| The Motherload (0.0776) | What Sarah Said (0.0268) |
+| My Happy Ending (0.0758) | Paradise (0.0268) |
+| Gimme Sympathy (0.0752) | Californication (0.027) |
+| Mr. Brightside (0.0747) | No Surprises (0.0278) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | Mad World (0.976) | The Motherload (7.1e-06) |
 | The Night We Met (0.969) | The Phantom Of The Opera (7.33e-06) |
 | I Will Follow You into the Dark (0.924) | Blood and Thunder (8.58e-06) |
-| Honeybee (0.871) | End Of All Hope (6.14e-05) |
-| What Sarah Said (0.801) | Let Down (0.000121) |
-| Pyramid Song (0.786) | Nemo (0.000185) |
-| Hurt (0.773) | Knights of Cydonia (0.000273) |
-| Weird Fishes/ Arpeggi (0.772) | Reptilia (0.000603) |
-| Brass Goggles (0.736) | Portions for Foxes (0.000938) |
-| Everything In Its Right Place (0.705) | My Happy Ending (0.00136) |
+| Honeybee (0.871) | Smells Like Teen Spirit (2.55e-05) |
+| What Sarah Said (0.801) | American Idiot (2.64e-05) |
+| Pyramid Song (0.786) | Everlong (5.99e-05) |
+| Hurt (0.773) | End Of All Hope (6.14e-05) |
+| Weird Fishes/ Arpeggi (0.772) | Let Down (0.000121) |
+| Brass Goggles (0.736) | Nemo (0.000185) |
+| The Scientist (0.731) | Knights of Cydonia (0.000273) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| A Better Son/Daughter (0.91) | Believer (0.0) |
-| Animals (0.796) | Black Horse And The Cherry Tree (0.0) |
-| Weird Fishes/ Arpeggi (0.756) | Me And My Broken Heart (0.0) |
-| Blood and Thunder (0.729) | Automatonic Electronic Harmonics (0.0) |
-| Reptilia (0.713) | Breakeven (0.0) |
-| Street Spirit (Fade Out) (0.694) | Ride (0.0) |
-| 1979 - Remastered 2012 (0.583) | Everybody Talks (0.0) |
-| There, There (0.52) | Beggin' (0.0) |
-| All I Need (0.428) | I Will Follow You into the Dark (0.0) |
-| Pyramid Song (0.427) | The Man Who Can't Be Moved (0.0) |
+| A Better Son/Daughter (0.91) | Mr. Brightside (0.0) |
+| Animals (0.796) | Believer (0.0) |
+| Weird Fishes/ Arpeggi (0.756) | Black Horse And The Cherry Tree (0.0) |
+| Blood and Thunder (0.729) | Me And My Broken Heart (0.0) |
+| Reptilia (0.713) | Automatonic Electronic Harmonics (0.0) |
+| Street Spirit (Fade Out) (0.694) | Breakeven (0.0) |
+| 1979 - Remastered 2012 (0.583) | Ride (0.0) |
+| There, There (0.52) | Everybody Talks (0.0) |
+| All I Need (0.428) | Beggin' (0.0) |
+| Pyramid Song (0.427) | Wake Me up When September Ends (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Animals (0.696) | Ain't It Fun (0.021) |
-| Radioactive (0.668) | Blood and Thunder (0.0317) |
-| The Night We Met (0.641) | 1979 - Remastered 2012 (0.0513) |
-| My Happy Ending (0.369) | Paranoid Android (0.0545) |
-| Someday (0.367) | Enter Sandman (0.059) |
-| Beggin' (0.359) | Stressed Out (0.0602) |
-| Brass Goggles (0.356) | Reckoner (0.0679) |
+| Radioactive (0.668) | The Pretender (0.028) |
+| The Night We Met (0.641) | Blood and Thunder (0.0317) |
+| My Happy Ending (0.369) | 1979 - Remastered 2012 (0.0513) |
+| American Idiot (0.368) | Paranoid Android (0.0545) |
+| Someday (0.367) | Boulevard of Broken Dreams (0.0589) |
+| Beggin' (0.359) | Enter Sandman (0.059) |
+| Brass Goggles (0.356) | Stressed Out (0.0602) |
+| Dani California (0.346) | Reckoner (0.0679) |
 | Black Horse And The Cherry Tree (0.34) | The Execution Of All Things (0.0686) |
-| End Of All Hope (0.333) | Jigsaw Falling Into Place (0.0741) |
-| The Adults Are Talking (0.314) | Nothing Else Matters (0.0753) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -376,8 +406,8 @@
 | Jigsaw Falling Into Place (0.807) | Everything In Its Right Place (0.0629) |
 | Supermassive Black Hole (0.782) | Pyramid Song (0.0686) |
 | Reptilia (0.77) | Hurt (0.0826) |
-| My Happy Ending (0.74) | All I Need (0.0997) |
-| Misery Business (0.731) | The Night We Met (0.1) |
-| Everybody Talks (0.725) | Creep (0.104) |
-| There, There (0.716) | No Surprises (0.118) |
-| Silver Lining (0.692) | Gimme Sympathy (0.119) |
+| American Idiot (0.769) | All I Need (0.0997) |
+| My Happy Ending (0.74) | The Night We Met (0.1) |
+| Misery Business (0.731) | Creep (0.104) |
+| Dani California (0.73) | No Surprises (0.118) |
+| Everybody Talks (0.725) | Gimme Sympathy (0.119) |

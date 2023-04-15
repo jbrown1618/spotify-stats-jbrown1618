@@ -376,7 +376,7 @@
 | 3 | 2 | korean city pop |
 | 2 | 2 | uk pop |
 | 2 | 2 | soul |
-| 2 | 2 | permanent wave |
+| 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | k-indie |
 | 2 | 2 | japanese teen pop |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
