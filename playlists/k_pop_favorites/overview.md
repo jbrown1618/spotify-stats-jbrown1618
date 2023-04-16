@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[221 songs](tracks.md)
+[220 songs](tracks.md)
 
 ## Top Artists
 
@@ -28,10 +28,10 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 6 | 6 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 6 | 6 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 5 | 5 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | 4 | 4 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | 4 | 4 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 4 | 4 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 4 | 4 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 4 | 4 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 4 | 4 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -258,10 +258,10 @@
 |---:|---:|:---|
 | 6 | 6 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 6 | 6 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
-| 5 | 5 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 4 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 4 | 4 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 4 | 4 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
+| 4 | 4 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 3 | 3 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 3 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 3 | 3 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
@@ -308,10 +308,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 196 | 196 | [k-pop](../../genres/k_pop/overview.md) |
+| 195 | 195 | [k-pop](../../genres/k_pop/overview.md) |
 | 85 | 85 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 49 | 49 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 15 | 15 | [pop](../../genres/pop/overview.md) |
+| 48 | 48 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 14 | 14 | [pop](../../genres/pop/overview.md) |
 | 9 | 9 | anime |
 | 5 | 5 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 3 | 3 | korean pop |
@@ -345,7 +345,7 @@
 | 2023 | 11 |
 | [2022](2022.md) | 63 |
 | [2021](2021.md) | 51 |
-| [2020](2020.md) | 32 |
+| [2020](2020.md) | 31 |
 | 2019 | 15 |
 | 2018 | 10 |
 | 2017 | 12 |
