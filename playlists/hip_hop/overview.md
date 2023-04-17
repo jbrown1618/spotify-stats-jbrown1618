@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27331aafa752187cb0284307200ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[34 songs (16 liked)](tracks.md)
+[37 songs (18 liked)](tracks.md)
 
 ## Top Artists
 
@@ -11,6 +11,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 3 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 5 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 4 | 2 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 2 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
@@ -18,14 +19,14 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e1f90bdff70c339838dcf90" alt="" width="50" /> | 1 | 1 | Wale | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 1 | 1 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 
 
 <details>
-<summary>See all 41 artists</summary>
+<summary>See all 42 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc" alt="" width="50" /> | 1 | 1 | T.I. | [🔗](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) |
 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | 1 | 1 | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 | <img src="https://i.scdn.co/image/aafc4156598fa9f8f052ec5687e648ba9120f07e" alt="" width="50" /> | 1 | 1 | Lil Jon & The East Side Boyz | [🔗](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) |
@@ -37,7 +38,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 4 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 3 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 2 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 2 | 0 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 2 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 | 0 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 1 | 0 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -56,6 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7cca32a58a9bb263fb5c4a" alt="" width="50" /> | 1 | 0 | Trey Songz | [🔗](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed3a04c76cbc92b97f59c3c0" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 0 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 
 </details>
@@ -69,6 +70,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | 1 | 1 | The Pinkprint (Deluxe) | 2014-12-15 | [🔗](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
@@ -78,14 +80,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="" width="50" /> | 1 | 1 | Mack Daddy | 1992-01-01 | [🔗](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | 1 | 1 | Last Train To Paris | 2010-01-01 | [🔗](https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 36 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="" width="50" /> | 1 | 1 | In My Defense | 2019-07-19 | [🔗](https://open.spotify.com/album/3kQvfhjfU6Mleis6k6vpmw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | 1 | 1 | Graduation | 2007-09-11 | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
@@ -104,6 +106,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | 1 | 0 | Pretty Girls Like Trap Music | 2017-06-16 | [🔗](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="" width="50" /> | 1 | 0 | PCD | 2005-01-01 | [🔗](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | 1 | 0 | Meet The Woo | 2019-07-26 | [🔗](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="" width="50" /> | 1 | 0 | MONTERO | 2021-09-17 | [🔗](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="" width="50" /> | 1 | 0 | Late Registration | 2005-08-30 | [🔗](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="" width="50" /> | 1 | 0 | Genesis | 2001-11-07 | [🔗](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) |
@@ -120,23 +123,25 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 6 | 4 | Aftermath |
+| 4 | 3 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 2 | Roc-A-Fella |
-| 4 | 2 | Aftermath |
 | 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 2 | 2 | pgLang |
+| 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Cash Money |
 | 3 | 1 | Roc Nation |
 | 2 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
-| 2 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 1 | 1 | The Orchard |
-| 1 | 1 | KSR |
 
 
 <details>
-<summary>See all 30 labels</summary>
+<summary>See all 34 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | The Orchard |
+| 1 | 1 | KSR |
 | 1 | 1 | EMPIRE |
 | 1 | 1 | Bad Dreams Records |
 | 1 | 1 | Bad Boy |
@@ -145,7 +150,9 @@
 | 1 | 1 | A&M |
 | 1 | 1 | 3H |
 | 4 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
+| 1 | 0 | Victor Victor Worldwide |
 | 1 | 0 | RocAFella |
+| 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 0 | Pussycat Dolls |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | Jay-Z |
@@ -167,27 +174,28 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 10 | rap |
+| 28 | 12 | rap |
 | 12 | 9 | [pop](../../genres/pop/overview.md) |
-| 20 | 6 | hip hop |
+| 22 | 8 | hip hop |
 | 8 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
+| 7 | 3 | conscious hip hop |
 | 4 | 3 | detroit hip hop |
 | 5 | 2 | southern hip hop |
 | 5 | 2 | atl hip hop |
 | 4 | 2 | chicago rap |
-| 2 | 2 | queens hip hop |
-| 2 | 2 | hip pop |
+| 3 | 2 | west coast rap |
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 2 | queens hip hop |
+| 2 | 2 | hip pop |
 | 2 | 2 | dirty south rap |
 | 12 | 1 | pop rap |
 | 5 | 1 | trap |
-| 5 | 1 | conscious hip hop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |
@@ -198,7 +206,6 @@
 | 4 | 0 | east coast hip hop |
 | 3 | 0 | gangster rap |
 | 3 | 0 | dmv rap |
-| 1 | 0 | west coast rap |
 | 1 | 0 | new orleans rap |
 | 1 | 0 | lgbtq+ hip hop |
 | 1 | 0 | k-rap |
@@ -206,6 +213,7 @@
 | 1 | 0 | hardcore hip hop |
 | 1 | 0 | girl group |
 | 1 | 0 | chicago bop |
+| 1 | 0 | brooklyn drill |
 
 </details>
 
@@ -221,15 +229,15 @@
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> <span>on the street (with J. Cole) (2023-03-03)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> <span>Mack Daddy (1992-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span>MONTERO (2021-09-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> <span>Genesis (2001-11-07)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> <span>WAP (feat. Megan Thee Stallion) (2020-08-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> <span>Kings Of Crunk (2002-10-29)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> <span>Boss Bitch (2020-01-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="Elephunk" width="50" /> <span>Elephunk (2003-06-24)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="In My Defense" width="50" /> <span>In My Defense (2019-07-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> <span>The College Dropout (2004-02-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> <span>Confessions of a Dangerous Mind (2019-05-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> <span>Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> <span>Rap Or Go To The League (2019-03-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> <span>PCD (2005-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="Bobby Tarantino II" width="50" /> <span>Bobby Tarantino II (2018-03-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> <span>Late Registration (2005-08-30)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="Pretty Girls Like Trap Music" width="50" /> <span>Pretty Girls Like Trap Music (2017-06-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> <span>souljaboytellem.com (2007-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="Everybody" width="50" /> <span>Everybody (2017-05-05)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> <span>Graduation (2007-09-11)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale & The Big Steppers" width="50" /> <span>Mr. Morale & The Big Steppers (2022-05-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> <span>Genesis (2001-11-07)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> <span>MONTERO (2021-09-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> <span>Kings Of Crunk (2002-10-29)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> <span>WAP (feat. Megan Thee Stallion) (2020-08-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="Elephunk" width="50" /> <span>Elephunk (2003-06-24)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> <span>Boss Bitch (2020-01-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> <span>The College Dropout (2004-02-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> <span>Meet The Woo (2019-07-26)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> <span>Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="In My Defense" width="50" /> <span>In My Defense (2019-07-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> <span>PCD (2005-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> <span>Confessions of a Dangerous Mind (2019-05-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> <span>Late Registration (2005-08-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> <span>Rap Or Go To The League (2019-03-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> <span>souljaboytellem.com (2007-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="Bobby Tarantino II" width="50" /> <span>Bobby Tarantino II (2018-03-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> <span>Graduation (2007-09-11)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -237,52 +245,52 @@
 | Anaconda (0.964) | Empire State Of Mind (0.491) |
 | WAP (feat. Megan Thee Stallion) (0.935) | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.502) |
 | Baby Got Back (0.926) | Get Low (0.521) |
-| We Made You (0.924) | All Of The Lights (0.531) |
-| Sally Walker (0.905) | Can't Tell Me Nothing (0.596) |
-| Don't Cha (0.877) | Hello Good Morning (0.616) |
-| Where Is The Love? (0.834) | 1-800-273-8255 (0.62) |
-| Work Out (0.831) | Gold Digger (0.629) |
-| It's A Vibe (0.822) | Jesus Walks (0.637) |
-| Break Ya Neck (0.82) | Everyday (0.667) |
+| We Made You (0.924) | United In Grief (0.529) |
+| Sally Walker (0.905) | All Of The Lights (0.531) |
+| Don't Cha (0.877) | Dior (0.548) |
+| Where Is The Love? (0.834) | Can't Tell Me Nothing (0.596) |
+| Work Out (0.831) | Hello Good Morning (0.616) |
+| It's A Vibe (0.822) | 1-800-273-8255 (0.62) |
+| Break Ya Neck (0.82) | Gold Digger (0.629) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Empire State Of Mind (0.956) | Work Out (0.427) |
-| Boss Bitch (0.955) | WAP (feat. Megan Thee Stallion) (0.454) |
-| Hello Good Morning (0.954) | Momma I Hit A Lick (feat. Kendrick Lamar) (0.467) |
-| Love The Way You Lie (0.925) | Sally Walker (0.492) |
-| Super Bass (0.861) | It's A Vibe (0.502) |
-| Ni**as In Paris (0.858) | 1-800-273-8255 (0.574) |
-| We Made You (0.853) | No Hands (feat. Roscoe Dash & Wale) (0.595) |
-| The Monster (0.853) | Anaconda (0.605) |
+| Boss Bitch (0.955) | Count Me Out (0.431) |
+| Hello Good Morning (0.954) | WAP (feat. Megan Thee Stallion) (0.454) |
+| Love The Way You Lie (0.925) | Momma I Hit A Lick (feat. Kendrick Lamar) (0.467) |
+| Super Bass (0.861) | Sally Walker (0.492) |
+| Ni**as In Paris (0.858) | It's A Vibe (0.502) |
+| We Made You (0.853) | 1-800-273-8255 (0.574) |
+| The Monster (0.853) | No Hands (feat. Roscoe Dash & Wale) (0.595) |
+| United In Grief (0.845) | Anaconda (0.605) |
 | Jesus Walks (0.834) | Can't Tell Me Nothing (0.62) |
-| on the street (with J. Cole) (0.821) | Get Low (0.625) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Homicide (feat. Eminem) (0.398) | Everyday (0.0378) |
-| Empire State Of Mind (0.392) | Can't Tell Me Nothing (0.039) |
-| WAP (feat. Megan Thee Stallion) (0.375) | No Hands (feat. Roscoe Dash & Wale) (0.0391) |
-| Gold Digger (0.348) | 1-800-273-8255 (0.0479) |
-| Momma I Hit A Lick (feat. Kendrick Lamar) (0.34) | Get Low (0.067) |
-| Jesus Walks (0.323) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.317) | The Monster (0.0715) |
-| Ni**as In Paris (0.311) | All Of The Lights (0.0717) |
-| Baby Got Back (0.301) | Crank That (Soulja Boy) (0.0786) |
-| Lose Yourself (0.267) | We Made You (0.0792) |
+| United In Grief (0.404) | Everyday (0.0378) |
+| Homicide (feat. Eminem) (0.398) | Can't Tell Me Nothing (0.039) |
+| Empire State Of Mind (0.392) | No Hands (feat. Roscoe Dash & Wale) (0.0391) |
+| WAP (feat. Megan Thee Stallion) (0.375) | 1-800-273-8255 (0.0479) |
+| Dior (0.351) | Get Low (0.067) |
+| Gold Digger (0.348) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (0.34) | The Monster (0.0715) |
+| Jesus Walks (0.323) | All Of The Lights (0.0717) |
+| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.317) | Crank That (Soulja Boy) (0.0786) |
+| Ni**as In Paris (0.311) | We Made You (0.0792) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Jesus Walks (0.614) | Baby Got Back (0.0051) |
-| 1-800-273-8255 (0.569) | Don't Cha (0.00516) |
-| on the street (with J. Cole) (0.532) | No Hands (feat. Roscoe Dash & Wale) (0.00544) |
-| Crank That (Soulja Boy) (0.515) | Lose Yourself (0.00922) |
-| Break Ya Neck (0.443) | Can't Tell Me Nothing (0.0122) |
-| Super Bass (0.269) | Sally Walker (0.0177) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.255) | WAP (feat. Megan Thee Stallion) (0.0194) |
-| Love The Way You Lie (0.241) | Gold Digger (0.0195) |
-| Momma I Hit A Lick (feat. Kendrick Lamar) (0.202) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
-| Homicide (feat. Eminem) (0.137) | Empire State Of Mind (0.0295) |
+| Count Me Out (0.671) | Baby Got Back (0.0051) |
+| Jesus Walks (0.614) | Don't Cha (0.00516) |
+| 1-800-273-8255 (0.569) | No Hands (feat. Roscoe Dash & Wale) (0.00544) |
+| on the street (with J. Cole) (0.532) | Lose Yourself (0.00922) |
+| Crank That (Soulja Boy) (0.515) | Can't Tell Me Nothing (0.0122) |
+| Break Ya Neck (0.443) | Sally Walker (0.0177) |
+| Super Bass (0.269) | WAP (feat. Megan Thee Stallion) (0.0194) |
+| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.255) | Gold Digger (0.0195) |
+| United In Grief (0.244) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
+| Love The Way You Lie (0.241) | Empire State Of Mind (0.0295) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -290,12 +298,12 @@
 | on the street (with J. Cole) (0.00111) | Can't Tell Me Nothing (0.0) |
 | It's A Vibe (0.000887) | Get Low (0.0) |
 | Lose Yourself (0.00072) | Where Is The Love? (0.0) |
-| Momma I Hit A Lick (feat. Kendrick Lamar) (3.32e-05) | Love The Way You Lie (0.0) |
-| All Of The Lights (1.71e-05) | Gold Digger (0.0) |
-| Anaconda (7.78e-06) | Baby Got Back (0.0) |
-| Super Bass (5.11e-06) | Sally Walker (0.0) |
-| Don't Cha (2.5e-06) | Empire State Of Mind (0.0) |
-| We Made You (1.45e-06) | Work Out (0.0) |
+| Dior (0.000389) | Love The Way You Lie (0.0) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (3.32e-05) | Gold Digger (0.0) |
+| All Of The Lights (1.71e-05) | Baby Got Back (0.0) |
+| Anaconda (7.78e-06) | Sally Walker (0.0) |
+| Super Bass (5.11e-06) | Empire State Of Mind (0.0) |
+| Don't Cha (2.5e-06) | Work Out (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -306,9 +314,9 @@
 | Numb / Encore (0.582) | Everyday (0.0761) |
 | Love The Way You Lie (0.52) | WAP (feat. Megan Thee Stallion) (0.0824) |
 | Empire State Of Mind (0.46) | Alright (0.0827) |
-| Lose Yourself (0.365) | Baby Got Back (0.0887) |
-| Ni**as In Paris (0.349) | on the street (with J. Cole) (0.0921) |
-| Jesus Walks (0.317) | Don't Cha (0.0959) |
+| Dior (0.408) | Baby Got Back (0.0887) |
+| Lose Yourself (0.365) | on the street (with J. Cole) (0.0921) |
+| Ni**as In Paris (0.349) | Don't Cha (0.0959) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -317,8 +325,8 @@
 | Empire State Of Mind (0.811) | Get Low (0.136) |
 | Where Is The Love? (0.809) | Work Out (0.216) |
 | Crank That (Soulja Boy) (0.803) | All Of The Lights (0.221) |
-| Ni**as In Paris (0.775) | WAP (feat. Megan Thee Stallion) (0.357) |
-| Homicide (feat. Eminem) (0.77) | 1-800-273-8255 (0.357) |
-| Numb / Encore (0.751) | No Hands (feat. Roscoe Dash & Wale) (0.361) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.739) | Momma I Hit A Lick (feat. Kendrick Lamar) (0.4) |
-| Break Ya Neck (0.737) | Everyday (0.422) |
+| Ni**as In Paris (0.775) | United In Grief (0.331) |
+| Homicide (feat. Eminem) (0.77) | WAP (feat. Megan Thee Stallion) (0.357) |
+| Numb / Encore (0.751) | 1-800-273-8255 (0.357) |
+| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.739) | No Hands (feat. Roscoe Dash & Wale) (0.361) |
+| Break Ya Neck (0.737) | Momma I Hit A Lick (feat. Kendrick Lamar) (0.4) |

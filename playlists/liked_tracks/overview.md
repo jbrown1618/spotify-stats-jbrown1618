@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1500 songs](tracks.md)
+[1502 songs](tracks.md)
 
 ## Top Artists
 
@@ -97,7 +97,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 5 | 5 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 5 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 5 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 5 | 5 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 4 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 4 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 4 | 4 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -246,7 +246,7 @@
 | 88 | 88 | [Republic Records](../../labels/republic_records/overview.md) |
 | 61 | 61 | [Epic](../../labels/epic/overview.md) |
 | 60 | 60 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
-| 58 | 58 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 60 | 60 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 55 | 55 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 55 | 55 | [Columbia](../../labels/columbia/overview.md) |
 | 51 | 51 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -327,6 +327,7 @@
 | 4 | 4 | Daft Life Ltd. |
 | 4 | 4 | BlockBerryCreative |
 | 4 | 4 | Arista |
+| 4 | 4 | Aftermath |
 | 4 | 4 | ATL |
 | 4 | 4 | ADA France |
 | 4 | 4 | A&M |
@@ -348,7 +349,6 @@
 | 3 | 3 | Kemosabe Records |
 | 3 | 3 | Island UK |
 | 3 | 3 | Island Records |
-| 3 | 3 | Casablanca Records |
 
 </details>
 
@@ -402,11 +402,11 @@
 | 19 | 19 | melancholia |
 | 19 | 19 | anime |
 | 18 | 18 | hard rock |
+| 17 | 17 | rap |
 | 17 | 17 | k-rap |
 | 17 | 17 | [a cappella](../../genres/a_cappella/overview.md) |
 | 15 | 15 | uk alternative pop |
 | 15 | 15 | soul |
-| 15 | 15 | rap |
 | 15 | 15 | metropopolis |
 | 15 | 15 | folk rock |
 | 15 | 15 | baroque pop |
@@ -430,6 +430,7 @@
 | 8 | 8 | pop dance |
 | 8 | 8 | modern alternative rock |
 | 8 | 8 | j-pop |
+| 8 | 8 | hip hop |
 | 8 | 8 | etherpop |
 | 8 | 8 | australian dance |
 | 7 | 7 | motown |
@@ -452,7 +453,6 @@
 | 6 | 6 | stomp and holler |
 | 6 | 6 | pop soul |
 | 6 | 6 | la indie |
-| 6 | 6 | hip hop |
 | 6 | 6 | filter house |
 | 6 | 6 | electro |
 | 5 | 5 | vocal jazz |
@@ -481,7 +481,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 54 |
-| [2022](2022.md) | 237 |
+| [2022](2022.md) | 239 |
 | [2021](2021.md) | 180 |
 | [2020](2020.md) | 134 |
 | [2019](2019.md) | 116 |
@@ -589,12 +589,12 @@
 | I Don't Need You (0.422) | Satellite Call (0.0241) |
 | MANIAC (0.411) | 情非得已 (0.0241) |
 | Mambo No. 5 (a Little Bit of...) (0.408) | Breakeven (0.0242) |
-| Free Fall (0.376) | All Too Well (0.0243) |
-| WAP (feat. Megan Thee Stallion) (0.375) | The Scientist (0.0243) |
-| bad guy (0.375) | Old Fashioned (0.0246) |
-| I GOT IT (HAN) (0.365) | I'd Rather Go Blind (0.0247) |
-| Ice Cream (with Selena Gomez) (0.365) | Set Fire to the Rain (0.0249) |
-| Feelin' Like (0.353) | Sweet Night (0.025) |
+| United In Grief (0.404) | All Too Well (0.0243) |
+| Free Fall (0.376) | The Scientist (0.0243) |
+| WAP (feat. Megan Thee Stallion) (0.375) | Old Fashioned (0.0246) |
+| bad guy (0.375) | I'd Rather Go Blind (0.0247) |
+| I GOT IT (HAN) (0.365) | Set Fire to the Rain (0.0249) |
+| Ice Cream (with Selena Gomez) (0.365) | Sweet Night (0.025) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|

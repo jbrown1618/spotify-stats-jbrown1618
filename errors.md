@@ -4,12 +4,8 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Murder On The Dance Floor [🔗](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | 35 | 2022-03-07 | AILEE [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | I'M LOVIN' AMY [🔗](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 34 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) | 더라이브레이블 | 💚 |
-| Murder On The Dance Floor [🔗](https://open.spotify.com/track/7ut7SI5v0jHaU8xAxZVFjt) | 0 | 2022-03-07 | AILEE [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | I'M LOVIN' AMY [🔗](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) | 0 | K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) | 더라이브레이블 | |
-| Sunday Morning [🔗](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | 66 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
-| Sunday Morning [🔗](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | 77 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
-| This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
+| This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 91 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 83 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
 | Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 74 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 86 | | ADOR | |
 
@@ -17,8 +13,6 @@
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| I'M LOVIN' AMY [🔗](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | AILEE [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | 34 | 2022-03-07 | 더라이브레이블 | Murder On The Dance Floor [🔗](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| I'M LOVIN' AMY [🔗](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) | AILEE [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | 0 | 2022-03-07 | 더라이브레이블 | Murder On The Dance Floor [🔗](https://open.spotify.com/track/7ut7SI5v0jHaU8xAxZVFjt) | K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
@@ -264,7 +258,7 @@
 | The Parting Glass | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
 | The Water is Wide | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
 | Shenandoah | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 57 |
+| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 56 |
 | Amazing Grace | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
 | Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 64 |
@@ -298,13 +292,13 @@
 | Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
-| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 83 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 83 |
+| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 84 |
+| Enter Sandman | Metallica | Metallica | 2 | 2 | 84 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 36 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 52 |
-| Carey | Blue | Joni Mitchell | 0 | 2 | 56 |
-| Blue | Blue | Joni Mitchell | 0 | 2 | 56 |
-| A Case of You | Blue | Joni Mitchell | 1 | 2 | 56 |
+| Carey | Blue | Joni Mitchell | 0 | 1 | 56 |
+| Blue | Blue | Joni Mitchell | 0 | 1 | 56 |
+| A Case of You | Blue | Joni Mitchell | 1 | 1 | 56 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 35 |
@@ -381,7 +375,7 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 83 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 66 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 52 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 44 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
@@ -411,4 +405,3 @@
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 74 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 56 |
-| Murder On The Dance Floor | I'M LOVIN' AMY | AILEE | 0 | 0 | 59 |
