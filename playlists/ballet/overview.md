@@ -45,7 +45,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | 39 | 0 | Coppélia | 2018-07-06 | [🔗](https://open.spotify.com/album/7jKT8NC2XfAs9RFKsrGz2p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 31 | 0 | Tchaikovsky: Swan Lake | 1976 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 31 | 0 | Tchaikovsky: Swan Lake | 1976-01-01 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="" width="50" /> | 24 | 0 | Tchaikovsky: The Nutcracker | 2010-10-11 | [🔗](https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | 19 | 0 | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01 | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | 18 | 0 | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
@@ -100,12 +100,12 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span>Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span>Tchaikovsky: Swan Lake (1976)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span>Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span>Tchaikovsky: Swan Lake (1976-01-01)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> <span>Coppélia (2018-07-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> <span>Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> <span>Tchaikovsky: The Nutcracker (2010-10-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> <span>Stravinsky: The Firebird (Ballet Suite) (2009-01-01)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> <span>Stravinsky: The Firebird (Ballet Suite) (2009-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> <span>Tchaikovsky: The Nutcracker (2010-10-11)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> <span>Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> <span>Coppélia (2018-07-06)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span>Tchaikovsky: Swan Lake (1976)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span>Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> <span>Tchaikovsky: Swan Lake (1976-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> <span>Stravinsky: Petrushka, Jeu de cartes (2018-10-19)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |

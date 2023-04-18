@@ -159,9 +159,9 @@ Appears as:
 | 3 | 2 | garage rock |
 | 2 | 1 | talent show |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
-| 2 | 1 | pop rap |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | south carolina hip hop |
+| 1 | 1 | pop rap |
 | 1 | 1 | oakland hip hop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | italian pop |

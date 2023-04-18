@@ -1,9 +1,9 @@
 # Warner Records
 
-78 songs
+77 songs
 
 Appears as:
-- Warner Records (54 tracks)
+- Warner Records (53 tracks)
 - Rhino/Warner Records (9 tracks)
 - Beluga Heights/Warner Records (5 tracks)
 - Brute/Beaute/Warner Records (3 tracks)
@@ -33,7 +33,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 7 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 2 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -82,7 +82,7 @@ Appears as:
 
 
 <details>
-<summary>See all 41 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -115,7 +115,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" alt="" width="50" /> | 1 | 0 | Blood Sugar Sex Magik (Deluxe Edition) | 1991-09-24 | [🔗](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 
 </details>
@@ -129,13 +128,13 @@ Appears as:
 |---:|---:|:---|
 | 22 | 15 | [dance pop](../../genres/dance_pop/overview.md) |
 | 21 | 15 | [pop](../../genres/pop/overview.md) |
-| 25 | 10 | [rock](../../genres/rock/overview.md) |
+| 24 | 10 | [rock](../../genres/rock/overview.md) |
 | 13 | 8 | nz pop |
 | 13 | 8 | electropop |
 | 13 | 8 | bergen indie |
 | 10 | 8 | [k-pop](../../genres/k_pop/overview.md) |
 | 10 | 6 | uk pop |
-| 12 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 11 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 6 | 5 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 
 
@@ -153,11 +152,11 @@ Appears as:
 | 4 | 4 | chamber pop |
 | 9 | 3 | [album rock](../../genres/album_rock/overview.md) |
 | 8 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
-| 9 | 2 | funk rock |
+| 8 | 2 | funk rock |
 | 6 | 2 | yacht rock |
 | 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 7 | 1 | funk metal |
-| 7 | 1 | alternative rock |
+| 6 | 1 | funk metal |
+| 6 | 1 | alternative rock |
 | 3 | 1 | metal |
 | 3 | 1 | hard rock |
 | 2 | 1 | uk doom metal |
@@ -267,7 +266,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70" alt="" width="50" /> | Under the Bridge | Blood Sugar Sex Magik (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | Californication | Californication (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | Can't Stop | By the Way (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Dani California | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](.) | | [🔗](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) |

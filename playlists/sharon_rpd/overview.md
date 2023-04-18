@@ -181,17 +181,16 @@
 
 
 <details>
-<summary>See all 12 genres</summary>
+<summary>See all 11 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 0 | pop rap |
 
 </details>
 
 
-![Bar chart of top 12 genres](../../images/playlists/sharon_rpd/genres.png)
+![Bar chart of top 11 genres](../../images/playlists/sharon_rpd/genres.png)
 
 ## Years
 

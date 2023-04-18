@@ -220,11 +220,10 @@
 
 
 <details>
-<summary>See all 43 genres</summary>
+<summary>See all 42 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 1 | pop rap |
 | 2 | 1 | pop dance |
 | 2 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 2 | 1 | [k-pop](../../genres/k_pop/overview.md) |

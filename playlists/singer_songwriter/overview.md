@@ -222,7 +222,7 @@
 
 
 <details>
-<summary>See all 48 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -246,7 +246,6 @@
 | 8 | 1 | nyc pop |
 | 2 | 1 | uk pop |
 | 2 | 1 | indy indie |
-| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | irish pop |
 | 1 | 1 | country rock |
 | 1 | 1 | british soul |

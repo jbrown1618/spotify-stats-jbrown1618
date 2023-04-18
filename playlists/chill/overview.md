@@ -360,13 +360,12 @@
 
 
 <details>
-<summary>See all 59 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 4 | 4 | electropop |
 | 4 | 4 | [art pop](../../genres/art_pop/overview.md) |
-| 3 | 3 | [viral pop](../../genres/viral_pop/overview.md) |
 | 3 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 3 | pop soul |
 | 3 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
@@ -374,6 +373,7 @@
 | 3 | 3 | [lilith](../../genres/lilith/overview.md) |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 2 | korean city pop |
+| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | uk pop |
 | 2 | 2 | soul |
 | 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
@@ -389,7 +389,6 @@
 | 1 | 1 | rap |
 | 1 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | quiet storm |
-| 1 | 1 | pop rap |
 | 1 | 1 | motown |
 | 1 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 1 | modern alternative rock |

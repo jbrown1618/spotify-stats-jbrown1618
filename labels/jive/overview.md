@@ -49,9 +49,8 @@ Appears as:
 | 2 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | rap |
-| 1 | 1 | pop rap |
 
-![Bar chart of top 8 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 7 genres](../../images/labels/jive/genres.png)
 
 ## Tracks released under Jive
 

@@ -253,11 +253,11 @@
 | 4 | 3 | pop soul |
 | 4 | 2 | south carolina hip hop |
 | 4 | 2 | contemporary r&b |
-| 3 | 2 | pop rap |
 | 3 | 2 | canadian contemporary r&b |
 | 2 | 2 | lgbtq+ hip hop |
 | 4 | 1 | memphis soul |
 | 2 | 1 | talent show |
+| 2 | 1 | pop rap |
 | 2 | 1 | hip pop |
 | 1 | 1 | vocal jazz |
 | 1 | 1 | uk pop |
