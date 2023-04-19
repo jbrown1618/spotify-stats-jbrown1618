@@ -135,8 +135,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 18 | [pop](../../genres/pop/overview.md) |
 | 25 | 18 | [dance pop](../../genres/dance_pop/overview.md) |
+| 24 | 18 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 8 | 8 | australian pop |

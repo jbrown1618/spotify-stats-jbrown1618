@@ -207,7 +207,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 8 | [pop](../../genres/pop/overview.md) |
+| 14 | 7 | [pop](../../genres/pop/overview.md) |
 | 8 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 2 | korean pop |

@@ -1,6 +1,6 @@
 # modern rock
 
-[64 songs](tracks.md)
+[62 songs](tracks.md)
 
 ## Top Artists
 
@@ -29,8 +29,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 5 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8bebdf40c463752b7ffc462" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
@@ -60,12 +60,11 @@
 
 
 <details>
-<summary>See all 41 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 2 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | 1 | 1 | Young The Giant (Special Edition) | 2011 | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
@@ -93,8 +92,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | 1 | 0 | Dreamland (+ Bonus Levels) | 2020-08-06 | [🔗](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" alt="" width="50" /> | 1 | 0 | Dookie | 1994-02-01 | [🔗](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 1 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 
 </details>
 
@@ -130,7 +129,7 @@
 | 1 | 1 | Mercury Records |
 | 1 | 1 | Elektra (NEK) |
 | 1 | 1 | Cult Records |
-| 5 | 0 | [Reprise](../../labels/reprise/overview.md) |
+| 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 0 | Island Records |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | Sub Pop Records |
@@ -148,16 +147,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span>Dance Fever (2022-05-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" alt="Dookie" width="50" /> <span>Dookie (1994-02-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> <span>Dreamland (+ Bonus Levels) (2020-08-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> <span>The Colour And The Shape (1997-05-20)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> <span>The New Abnormal (2020-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> <span>Nimrod (1997-10-14)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="Now, Not Yet" width="50" /> <span>Now, Not Yet (2019-08-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> <span>There Is Nothing Left To Lose (1999-11-02)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> <span>High As Hope (2018-06-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span>Origin of Symmetry (2001)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> <span>Greatest Hits: God's Favorite Band (2017-11-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> <span>Is This It (2001-07-30)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> <span>Fitz and The Tantrums (Deluxe Edition) (2017-07-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> <span>Room On Fire (2003-10-28)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span>Evolve (2017-06-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> <span>Hot Fuss (2004)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> <span>How To Be A Human Being (2016-08-26)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> <span>American Idiot (2004-09-21)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> <span>How Big, How Blue, How Beautiful (2015-06-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> <span>Demon Days (2005-05-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> <span>Dance Fever (2022-05-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> <span>The Colour And The Shape (1997-05-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> <span>Dreamland (+ Bonus Levels) (2020-08-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> <span>Nimrod (1997-10-14)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> <span>The New Abnormal (2020-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> <span>There Is Nothing Left To Lose (1999-11-02)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="Now, Not Yet" width="50" /> <span>Now, Not Yet (2019-08-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> <span>Origin of Symmetry (2001)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> <span>High As Hope (2018-06-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> <span>Is This It (2001-07-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> <span>Greatest Hits: God's Favorite Band (2017-11-17)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> <span>Room On Fire (2003-10-28)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> <span>Fitz and The Tantrums (Deluxe Edition) (2017-07-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> <span>Hot Fuss (2004)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> <span>Evolve (2017-06-23)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> <span>American Idiot (2004-09-21)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> <span>How To Be A Human Being (2016-08-26)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> <span>Demon Days (2005-05-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> <span>How Big, How Blue, How Beautiful (2015-06-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> <span>In Your Honor (2005-06-14)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -178,13 +177,13 @@
 | American Idiot (0.988) | I Will Follow You into the Dark (0.206) |
 | Knights of Cydonia (0.963) | Timshel (0.265) |
 | The Pretender (0.959) | The Other Side Of Paradise (0.338) |
-| Basket Case (0.943) | Work Song (0.363) |
-| Best of You (0.94) | Madness (0.417) |
-| Everybody Talks (0.924) | Feeling Good (0.418) |
-| Supermassive Black Hole (0.921) | Between Two Lungs (0.418) |
-| Learn to Fly (0.919) | Good Riddance (Time of Your Life) (0.432) |
-| Mr. Brightside (0.911) | What Sarah Said (0.439) |
-| Misery Business (0.906) | Little Lion Man (0.481) |
+| Best of You (0.94) | Work Song (0.363) |
+| Everybody Talks (0.924) | Madness (0.417) |
+| Supermassive Black Hole (0.921) | Feeling Good (0.418) |
+| Learn to Fly (0.919) | Between Two Lungs (0.418) |
+| Mr. Brightside (0.911) | Good Riddance (Time of Your Life) (0.432) |
+| Misery Business (0.906) | What Sarah Said (0.439) |
+| Ain't It Fun (0.893) | Little Lion Man (0.481) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -197,7 +196,7 @@
 | Ain't It Fun (0.0921) | Good Riddance (Time of Your Life) (0.0302) |
 | Dog Days Are Over (0.0788) | Animals (0.0307) |
 | Mr. Brightside (0.0747) | Lover To Lover (0.0309) |
-| Misery Business (0.0735) | Wake Me up When September Ends (0.0314) |
+| Misery Business (0.0735) | Feeling Good (0.0316) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -222,8 +221,8 @@
 | Sweater Weather (0.0177) | What Kind Of Man (0.0) |
 | Knights of Cydonia (0.0122) | Everybody Talks (0.0) |
 | I Will Wait (0.00717) | White Winter Hymnal (0.0) |
-| Supermassive Black Hole (0.00517) | Wake Me up When September Ends (0.0) |
-| Madness (0.00419) | I Will Follow You into the Dark (0.0) |
+| Supermassive Black Hole (0.00517) | I Will Follow You into the Dark (0.0) |
+| Madness (0.00419) | Delilah (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -241,12 +240,12 @@
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Supermassive Black Hole (0.782) | What Sarah Said (0.0401) |
-| Basket Case (0.781) | Free (0.0494) |
-| Feel Good Inc. (0.772) | How Big, How Blue, How Beautiful (0.0825) |
-| Reptilia (0.77) | Timshel (0.0954) |
-| American Idiot (0.769) | Chasing Cars (0.144) |
-| Misery Business (0.731) | Wake Me up When September Ends (0.146) |
+| Feel Good Inc. (0.772) | Free (0.0494) |
+| Reptilia (0.77) | How Big, How Blue, How Beautiful (0.0825) |
+| American Idiot (0.769) | Timshel (0.0954) |
+| Misery Business (0.731) | Chasing Cars (0.144) |
 | Everybody Talks (0.725) | No Light, No Light (0.162) |
 | HandClap (0.715) | What The Water Gave Me (0.184) |
 | still feel. (0.715) | All These Things That I've Done (0.206) |
 | White Winter Hymnal (0.711) | Seven Devils (0.211) |
+| Someday (0.679) | Knights of Cydonia (0.211) |

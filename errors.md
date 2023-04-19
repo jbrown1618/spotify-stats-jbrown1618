@@ -22,7 +22,7 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 29 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 28 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 55 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 53 |
@@ -280,7 +280,7 @@
 | Into The West | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
 | Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
 | Gollum's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 54 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 35 |
@@ -306,7 +306,7 @@
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
-| Like | 2 Cool 4 Skool | BTS | 1 | 0 | 91 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
@@ -325,15 +325,15 @@
 | Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 32 |
 | Alive | RISE | The Nor'easters | 0 | 0 | 32 |
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
-| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 80 |
+| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 79 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 59 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 56 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 41 |
@@ -358,9 +358,9 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
-| Djadja | Djadja | Aya Nakamura | 0 | 0 | 74 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
+| Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 55 |
@@ -388,7 +388,7 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 76 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 55 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 64 |

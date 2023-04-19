@@ -44,7 +44,7 @@ Appears as:
 |---:|---:|:---|
 | 14 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 9 | 6 | [pop](../../genres/pop/overview.md) |
+| 8 | 5 | [pop](../../genres/pop/overview.md) |
 | 6 | 5 | boy band |
 | 2 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | urban contemporary |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[101 songs (66 liked)](tracks.md)
+[102 songs (66 liked)](tracks.md)
 
 ## Top Artists
 
@@ -30,7 +30,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 5 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 2 | 1 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
@@ -46,8 +46,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 4 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 3 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | 2 | 0 | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
@@ -82,7 +82,7 @@
 
 
 <details>
-<summary>See all 67 albums</summary>
+<summary>See all 69 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -97,7 +97,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 2 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | 1 | 1 | Young The Giant (Special Edition) | 2011 | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
@@ -128,6 +127,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="" width="50" /> | 1 | 1 | Album One | 2009-10-30 | [🔗](https://open.spotify.com/album/60nJMMPYjHWNjli6APs40v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | 1 | 0 | Writer's Block | 2006-01-01 | [🔗](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 1 | 0 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | 1 | 0 | Overexposed (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736faddf21400e22f617bcd2e4" alt="" width="50" /> | 1 | 0 | Once More 'Round the Sun | 2014-06-20 | [🔗](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) |
@@ -143,6 +143,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 0 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 1 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 
 </details>
 
@@ -154,10 +156,10 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 16 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
-| 14 | 9 | [Warner Records](../../labels/warner_records/overview.md) |
+| 15 | 9 | [Warner Records](../../labels/warner_records/overview.md) |
 | 8 | 5 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 5 | Fueled By Ramen |
-| 7 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 8 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 4 | 3 | Parlophone Records Limited |
 | 3 | 3 | Steam Powered Giraffe |
 | 3 | 3 | Canvasback |
@@ -194,7 +196,7 @@
 | 1 | 1 | Cult Records |
 | 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | Arista |
-| 5 | 0 | [Reprise](../../labels/reprise/overview.md) |
+| 4 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 0 | Island Records |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | Relapse Records |
@@ -210,9 +212,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 52 | 32 | [rock](../../genres/rock/overview.md) |
-| 48 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 34 | 20 | alternative rock |
+| 53 | 32 | [rock](../../genres/rock/overview.md) |
+| 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 36 | 20 | alternative rock |
 | 32 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
 | 24 | 18 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
@@ -254,10 +256,10 @@
 | 2 | 2 | pop emo |
 | 2 | 2 | pixie |
 | 2 | 2 | celtic rock |
-| 7 | 1 | alternative metal |
-| 5 | 1 | funk rock |
-| 5 | 1 | funk metal |
-| 4 | 1 | post-grunge |
+| 8 | 1 | alternative metal |
+| 6 | 1 | funk rock |
+| 6 | 1 | funk metal |
+| 5 | 1 | post-grunge |
 | 4 | 1 | metal |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
@@ -284,7 +286,7 @@
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian indie |
 | 1 | 1 | australian indie |
-| 4 | 0 | punk |
+| 3 | 0 | punk |
 | 2 | 0 | stoner rock |
 | 2 | 0 | stoner metal |
 | 2 | 0 | sludge metal |
@@ -350,10 +352,10 @@
 | The Pretender (0.959) | I Will Follow You into the Dark (0.206) |
 | End Of All Hope (0.946) | Fake Plastic Trees (0.229) |
 | Best of You (0.94) | Exit Music (For A Film) (0.276) |
-| My Happy Ending (0.936) | Pyramid Song (0.335) |
-| Blood and Thunder (0.935) | Slow Cheetah (0.344) |
-| Everybody Talks (0.924) | Nothing Else Matters (0.364) |
-| Supermassive Black Hole (0.921) | The Night We Met (0.366) |
+| Can't Stop (0.938) | Pyramid Song (0.335) |
+| My Happy Ending (0.936) | Slow Cheetah (0.344) |
+| Blood and Thunder (0.935) | Nothing Else Matters (0.364) |
+| Everybody Talks (0.924) | The Night We Met (0.366) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -373,13 +375,13 @@
 | Mad World (0.976) | The Motherload (7.1e-06) |
 | The Night We Met (0.969) | The Phantom Of The Opera (7.33e-06) |
 | I Will Follow You into the Dark (0.924) | Blood and Thunder (8.58e-06) |
-| Honeybee (0.871) | Smells Like Teen Spirit (2.55e-05) |
-| What Sarah Said (0.801) | American Idiot (2.64e-05) |
-| Pyramid Song (0.786) | Everlong (5.99e-05) |
-| Hurt (0.773) | End Of All Hope (6.14e-05) |
-| Weird Fishes/ Arpeggi (0.772) | Let Down (0.000121) |
-| Brass Goggles (0.736) | Nemo (0.000185) |
-| The Scientist (0.731) | Knights of Cydonia (0.000273) |
+| Honeybee (0.871) | Learn to Fly (1.83e-05) |
+| What Sarah Said (0.801) | Smells Like Teen Spirit (2.55e-05) |
+| Pyramid Song (0.786) | American Idiot (2.64e-05) |
+| Hurt (0.773) | Everlong (5.99e-05) |
+| Weird Fishes/ Arpeggi (0.772) | End Of All Hope (6.14e-05) |
+| Brass Goggles (0.736) | Let Down (0.000121) |
+| The Scientist (0.731) | Nemo (0.000185) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -412,10 +414,10 @@
 | 1979 - Remastered 2012 (0.964) | What Sarah Said (0.0401) |
 | Black Horse And The Cherry Tree (0.917) | A Better Son/Daughter (0.0473) |
 | Maps (0.879) | Everything In Its Right Place (0.0629) |
-| This Love (0.809) | Pyramid Song (0.0686) |
-| Jigsaw Falling Into Place (0.807) | Hurt (0.0826) |
-| Sunday Morning (0.805) | All I Need (0.0997) |
-| Supermassive Black Hole (0.782) | The Night We Met (0.1) |
-| Reptilia (0.77) | Creep (0.104) |
-| American Idiot (0.769) | No Surprises (0.118) |
-| My Happy Ending (0.74) | Gimme Sympathy (0.119) |
+| Can't Stop (0.875) | Pyramid Song (0.0686) |
+| This Love (0.809) | Hurt (0.0826) |
+| Jigsaw Falling Into Place (0.807) | All I Need (0.0997) |
+| Sunday Morning (0.805) | The Night We Met (0.1) |
+| Supermassive Black Hole (0.782) | Creep (0.104) |
+| Reptilia (0.77) | No Surprises (0.118) |
+| American Idiot (0.769) | Gimme Sympathy (0.119) |

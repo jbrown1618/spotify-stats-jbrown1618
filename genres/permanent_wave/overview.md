@@ -1,6 +1,6 @@
 # permanent wave
 
-[57 songs](tracks.md)
+[55 songs](tracks.md)
 
 ## Top Artists
 
@@ -12,8 +12,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 5 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 
@@ -54,11 +54,10 @@
 
 
 <details>
-<summary>See all 38 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 2 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
@@ -83,9 +82,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 1 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" alt="" width="50" /> | 1 | 0 | Dookie | 1994-02-01 | [🔗](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 1 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
 
 </details>
 
@@ -103,7 +102,7 @@
 | 4 | 2 | Parlophone UK |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Cult Records |
-| 5 | 0 | [Reprise](../../labels/reprise/overview.md) |
+| 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 0 | Island Records |
 | 1 | 0 | Work |
 
@@ -138,10 +137,10 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="Mylo Xyloto" width="50" /> <span>Mylo Xyloto (2011-10-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> <span>Good Vibrations (1993)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="Viva La Vida or Death and All His Friends" width="50" /> <span>Viva La Vida or Death and All His Friends (2008-05-26)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> <span>Pablo Honey (1993-02-22)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> <span>In Rainbows (2007-12-28)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner's Tales" width="50" /> <span>Ten Summoner's Tales (1993-03-09)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience & Grace" width="50" /> <span>Echoes, Silence, Patience & Grace (2007-09-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" alt="Dookie" width="50" /> <span>Dookie (1994-02-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> <span>Black Holes and Revelations (2006-06-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span>Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> <span>Stadium Arcadium (2006-05-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span>The Bends (1995-03-13)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> <span>Eyes Open (2006-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> <span>Tidal (1996-07-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience & Grace" width="50" /> <span>Echoes, Silence, Patience & Grace (2007-09-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> <span>Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> <span>Black Holes and Revelations (2006-06-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> <span>The Bends (1995-03-13)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> <span>Stadium Arcadium (2006-05-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> <span>Tidal (1996-07-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> <span>Eyes Open (2006-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> <span>The Colour And The Shape (1997-05-20)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -162,13 +161,13 @@
 | American Idiot (0.988) | The Boxer (0.0802) |
 | Knights of Cydonia (0.963) | Fake Plastic Trees (0.229) |
 | The Pretender (0.959) | Exit Music (For A Film) (0.276) |
-| Basket Case (0.943) | Pyramid Song (0.335) |
-| Best of You (0.94) | Fields Of Gold (0.339) |
-| Can't Stop (0.938) | Slow Cheetah (0.344) |
-| Supermassive Black Hole (0.921) | High and Dry (0.383) |
-| Learn to Fly (0.919) | No Surprises (0.393) |
-| Dani California (0.913) | Madness (0.417) |
-| Smells Like Teen Spirit (0.912) | Fix You (0.417) |
+| Best of You (0.94) | Pyramid Song (0.335) |
+| Can't Stop (0.938) | Fields Of Gold (0.339) |
+| Supermassive Black Hole (0.921) | Slow Cheetah (0.344) |
+| Learn to Fly (0.919) | High and Dry (0.383) |
+| Dani California (0.913) | No Surprises (0.393) |
+| Smells Like Teen Spirit (0.912) | Madness (0.417) |
+| Mr. Brightside (0.911) | Fix You (0.417) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -177,11 +176,11 @@
 | Madness (0.0718) | High and Dry (0.0256) |
 | Best of You (0.0696) | Karma Police (0.0258) |
 | American Idiot (0.0639) | Reckoner (0.0262) |
-| Basket Case (0.0602) | Paradise (0.0268) |
-| Paranoid Android (0.0579) | Californication (0.027) |
-| Speed of Sound (0.0577) | Chasing Cars (0.0274) |
-| Smells Like Teen Spirit (0.0564) | No Surprises (0.0278) |
-| Take on Me (0.054) | Clocks (0.0279) |
+| Paranoid Android (0.0579) | Paradise (0.0268) |
+| Speed of Sound (0.0577) | Californication (0.027) |
+| Smells Like Teen Spirit (0.0564) | Chasing Cars (0.0274) |
+| Take on Me (0.054) | No Surprises (0.0278) |
+| You Can Call Me Al (0.0534) | Clocks (0.0279) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -201,13 +200,13 @@
 | Animals (0.796) | Mr. Brightside (0.0) |
 | Weird Fishes/ Arpeggi (0.756) | Shadowboxer (0.0) |
 | Reptilia (0.713) | Can't Stop (0.0) |
-| Street Spirit (Fade Out) (0.694) | Wake Me up When September Ends (0.0) |
-| 1979 - Remastered 2012 (0.583) | Good Riddance (Time of Your Life) (0.0) |
-| There, There (0.52) | Someday (0.0) |
-| All I Need (0.428) | The Pretender (0.0) |
-| Pyramid Song (0.427) | Viva La Vida (3.23e-06) |
-| Reckoner (0.16) | Dani California (8.59e-06) |
-| Exit Music (For A Film) (0.122) | Basket Case (8.71e-06) |
+| Street Spirit (Fade Out) (0.694) | Good Riddance (Time of Your Life) (0.0) |
+| 1979 - Remastered 2012 (0.583) | Someday (0.0) |
+| There, There (0.52) | The Pretender (0.0) |
+| All I Need (0.428) | Viva La Vida (3.23e-06) |
+| Pyramid Song (0.427) | Dani California (8.59e-06) |
+| Reckoner (0.16) | The Scientist (1.46e-05) |
+| Exit Music (For A Film) (0.122) | The Boxer (1.59e-05) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -230,7 +229,7 @@
 | You Can Call Me Al (0.82) | Creep (0.104) |
 | Jigsaw Falling Into Place (0.807) | No Surprises (0.118) |
 | Supermassive Black Hole (0.782) | Fix You (0.124) |
-| Basket Case (0.781) | Street Spirit (Fade Out) (0.131) |
-| Reptilia (0.77) | Fake Plastic Trees (0.135) |
-| American Idiot (0.769) | Let Down (0.143) |
-| Dani California (0.73) | Chasing Cars (0.144) |
+| Reptilia (0.77) | Street Spirit (Fade Out) (0.131) |
+| American Idiot (0.769) | Fake Plastic Trees (0.135) |
+| Dani California (0.73) | Let Down (0.143) |
+| Smells Like Teen Spirit (0.72) | Chasing Cars (0.144) |
