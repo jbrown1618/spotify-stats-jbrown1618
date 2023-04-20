@@ -89,7 +89,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 1 | 0 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 1 | 0 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 1 | 0 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 0 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="" width="50" /> | 1 | 0 | Gayla Peevey | [🔗](https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ) |
@@ -287,7 +287,7 @@
 | 34 | 7 | [k-pop](../../genres/k_pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 15 | 1 | [pop](../../genres/pop/overview.md) |
+| 16 | 1 | [pop](../../genres/pop/overview.md) |
 | 14 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 12 | 0 | lounge |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
@@ -297,7 +297,7 @@
 
 
 <details>
-<summary>See all 64 genres</summary>
+<summary>See all 62 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -305,7 +305,6 @@
 | 5 | 0 | soul |
 | 4 | 0 | novelty |
 | 4 | 0 | jazz pop |
-| 4 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | swing |
 | 3 | 0 | motown |
 | 2 | 0 | urban contemporary |
@@ -314,6 +313,7 @@
 | 2 | 0 | movie tunes |
 | 2 | 0 | jazz blues |
 | 2 | 0 | jazz |
+| 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | yodeling |
 | 1 | 0 | western swing |
 | 1 | 0 | ukrainian classical |
@@ -328,10 +328,8 @@
 | 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 1 | 0 | seattle indie |
 | 1 | 0 | retro soul |
-| 1 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 0 | post-romantic era |
 | 1 | 0 | pop soul |
-| 1 | 0 | oklahoma country |
 | 1 | 0 | nyc pop |
 | 1 | 0 | new wave pop |
 | 1 | 0 | new wave |

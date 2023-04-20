@@ -22,7 +22,7 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 28 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 29 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 55 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 53 |
@@ -293,7 +293,6 @@
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 84 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 84 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 52 |
 | Carey | Blue | Joni Mitchell | 0 | 1 | 56 |
@@ -306,7 +305,7 @@
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
-| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
+| Like | 2 Cool 4 Skool | BTS | 1 | 0 | 91 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
@@ -331,10 +330,12 @@
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 56 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Don't Stop Believin' | BOCA 2008: Best Of College A Cappella | The Clef Hangers | 0 | 0 | 25 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 41 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 52 |
@@ -344,7 +345,7 @@
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
 | Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 51 |
-| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
+| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 91 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 91 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
@@ -358,8 +359,9 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
+| Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
@@ -367,7 +369,7 @@
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 2 | 66 |
-| Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 2 | 64 |
+| Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 2 | 63 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 2 | 66 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 2 | 66 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
@@ -375,13 +377,14 @@
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 83 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
-| Rollin' | Rollin' | Brave Girls | 1 | 0 | 52 |
-| Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 44 |
+| Rollin' | Rollin' | Brave Girls | 1 | 0 | 51 |
+| Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 43 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 78 |
+| Some Nights | The Mallard | The Clef Hangers | 0 | 0 | 25 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 55 |
@@ -391,7 +394,7 @@
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 64 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 63 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 91 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |

@@ -41,15 +41,14 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 13 | 10 | [pop](../../genres/pop/overview.md) |
-| 12 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
+| 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 4 | talent show |
-| 6 | 4 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 4 | girl group |
 | 3 | 3 | uk pop |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | canadian pop |
 
-![Bar chart of top 8 genres](../../images/labels/syco_music/genres.png)
+![Bar chart of top 7 genres](../../images/labels/syco_music/genres.png)
 
 ## Tracks released under Syco Music
 

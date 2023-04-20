@@ -324,10 +324,10 @@
 | 8 | 6 | idol rock |
 | 8 | 6 | comic metal |
 | 9 | 4 | latin pop |
+| 7 | 4 | [pop](../../genres/pop/overview.md) |
 | 4 | 4 | japanese electropop |
 | 6 | 3 | japanese teen pop |
 | 6 | 3 | indonesian pop |
-| 3 | 3 | sunnlensk tonlist |
 
 
 <details>
@@ -335,9 +335,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 3 | 3 | sunnlensk tonlist |
 | 3 | 3 | icelandic pop |
 | 6 | 2 | anime rock |
-| 5 | 2 | [pop](../../genres/pop/overview.md) |
 | 5 | 2 | japanese singer-songwriter |
 | 5 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 5 | 2 | colombian pop |

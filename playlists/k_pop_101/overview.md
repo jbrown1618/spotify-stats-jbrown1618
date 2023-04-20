@@ -180,7 +180,7 @@
 | 41 | 37 | [k-pop](../../genres/k_pop/overview.md) |
 | 19 | 17 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 16 | 15 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 2 | 2 | [pop](../../genres/pop/overview.md) |
+| 3 | 3 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | anime |

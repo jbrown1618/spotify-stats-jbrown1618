@@ -78,8 +78,6 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 11 | 8 | [pop](../../genres/pop/overview.md) |
-| 10 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
-| 2 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 2 | indie pop |
 | 5 | 1 | lounge |
 | 5 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -87,15 +85,15 @@ Appears as:
 | 3 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 2 | 1 | indie poptimism |
 | 2 | 1 | etherpop |
+| 2 | 1 | electropop |
+| 1 | 1 | swing |
 
 
 <details>
-<summary>See all 24 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 1 | electropop |
-| 1 | 1 | swing |
 | 1 | 1 | soul |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | boy band |
@@ -112,7 +110,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 24 genres](../../images/labels/capitol_records/genres.png)
+![Bar chart of top 22 genres](../../images/labels/capitol_records/genres.png)
 
 ## Tracks released under Capitol Records
 

@@ -132,22 +132,21 @@ Appears as:
 |---:|---:|:---|
 | 125 | 77 | [k-pop](../../genres/k_pop/overview.md) |
 | 74 | 49 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 58 | 39 | [pop](../../genres/pop/overview.md) |
 | 51 | 28 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 16 | 9 | [pop](../../genres/pop/overview.md) |
 | 3 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
-| 2 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | uk pop |
 | 1 | 1 | puerto rican pop |
 | 1 | 1 | metropopolis |
 | 1 | 1 | latin pop |
+| 1 | 1 | indietronica |
 
 
 <details>
-<summary>See all 18 genres</summary>
+<summary>See all 17 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | indietronica |
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian contemporary r&b |
 | 2 | 0 | rap |
@@ -159,7 +158,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 18 genres](../../images/labels/republic_records/genres.png)
+![Bar chart of top 17 genres](../../images/labels/republic_records/genres.png)
 
 ## Tracks released under Republic Records
 

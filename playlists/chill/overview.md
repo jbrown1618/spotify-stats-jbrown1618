@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6255cdc7eb41e77dfed9fd2c" alt="" width="50" /> | 3 | 3 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 3 | 3 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 4 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 3 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 3 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | 2 | 2 | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | 2 | 2 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 2 | 2 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -348,7 +348,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 124 | 99 | [k-pop](../../genres/k_pop/overview.md) |
-| 33 | 31 | [pop](../../genres/pop/overview.md) |
+| 34 | 31 | [pop](../../genres/pop/overview.md) |
 | 33 | 25 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 26 | 22 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 18 | 12 | korean pop |
@@ -379,7 +379,6 @@
 | 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | k-indie |
 | 2 | 2 | japanese teen pop |
-| 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | british soul |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | uk contemporary r&b |
@@ -403,6 +402,7 @@
 | 1 | 1 | funk |
 | 1 | 1 | etherpop |
 | 1 | 1 | disco |
+| 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian contemporary r&b |
 | 1 | 1 | bedroom soul |

@@ -139,7 +139,7 @@ Appears as:
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -154,7 +154,6 @@ Appears as:
 | 8 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 2 | funk rock |
 | 6 | 2 | yacht rock |
-| 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 1 | funk metal |
 | 6 | 1 | alternative rock |
 | 3 | 1 | metal |

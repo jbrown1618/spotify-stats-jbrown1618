@@ -207,9 +207,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 14 | 7 | [pop](../../genres/pop/overview.md) |
-| 8 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
-| 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 15 | 9 | [pop](../../genres/pop/overview.md) |
+| 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | korean pop |
 | 2 | 2 | korean indie rock |
 | 2 | 2 | k-rock |
@@ -217,14 +216,14 @@
 | 5 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 3 | 1 | rap |
 | 3 | 1 | canadian pop |
+| 2 | 1 | pop dance |
 
 
 <details>
-<summary>See all 42 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 1 | pop dance |
 | 2 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 2 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 1 | indie r&b |
@@ -232,7 +231,6 @@
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk pop |
 | 1 | 1 | trot |
-| 1 | 1 | tropical house |
 | 1 | 1 | talent show |
 | 1 | 1 | social media pop |
 | 1 | 1 | scandipop |

@@ -230,28 +230,27 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 49 | 37 | [pop](../../genres/pop/overview.md) |
+| 50 | 38 | [pop](../../genres/pop/overview.md) |
 | 34 | 22 | [art pop](../../genres/art_pop/overview.md) |
-| 32 | 21 | electropop |
+| 30 | 20 | electropop |
 | 23 | 19 | [modern rock](../../genres/modern_rock/overview.md) |
 | 18 | 15 | baroque pop |
 | 17 | 15 | uk alternative pop |
-| 15 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 10 | australian pop |
 | 16 | 9 | nz pop |
 | 16 | 9 | bergen indie |
+| 11 | 8 | metropopolis |
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 8 | metropopolis |
 | 9 | 8 | indie pop |
 | 8 | 8 | australian dance |
 | 9 | 7 | etherpop |
-| 7 | 6 | pop dance |
+| 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 5 | [lilith](../../genres/lilith/overview.md) |
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |
@@ -263,7 +262,6 @@
 | 4 | 1 | deep acoustic pop |
 | 2 | 1 | uk pop |
 | 2 | 1 | shiver pop |
-| 2 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 1 | gauze pop |
 | 2 | 1 | candy pop |
 | 2 | 1 | canadian pop |

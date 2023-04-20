@@ -362,16 +362,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 299 | 215 | [pop](../../genres/pop/overview.md) |
-| 173 | 128 | [dance pop](../../genres/dance_pop/overview.md) |
-| 42 | 31 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 303 | 217 | [pop](../../genres/pop/overview.md) |
+| 122 | 89 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 18 | uk pop |
 | 23 | 18 | urban contemporary |
-| 18 | 14 | electropop |
+| 17 | 13 | electropop |
 | 14 | 12 | neo soul |
 | 14 | 12 | barbadian pop |
 | 11 | 11 | australian pop |
+| 12 | 10 | atl hip hop |
 
 
 <details>
@@ -379,15 +379,13 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 12 | 10 | atl hip hop |
+| 12 | 9 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 11 | 9 | [r&b](../../genres/r_b/overview.md) |
 | 11 | 9 | [modern rock](../../genres/modern_rock/overview.md) |
-| 11 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
-| 10 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 10 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 8 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
+| 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
-| 13 | 7 | pop dance |
 | 11 | 7 | canadian pop |
 | 10 | 7 | rap |
 | 9 | 7 | metropopolis |
@@ -395,9 +393,10 @@
 | 11 | 6 | british soul |
 | 8 | 6 | boy band |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
+| 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 10 | 5 | pop soul |
 | 8 | 5 | uk dance |
-| 7 | 5 | talent show |
+| 6 | 5 | talent show |
 | 6 | 5 | girl group |
 | 5 | 5 | uk funky |
 | 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
@@ -427,8 +426,8 @@
 | 2 | 2 | electro |
 | 2 | 2 | colombian pop |
 | 2 | 2 | [adult standards](../../genres/adult_standards/overview.md) |
+| 7 | 1 | pop dance |
 | 7 | 1 | edm |
-| 3 | 1 | tropical house |
 | 3 | 1 | etherpop |
 | 2 | 1 | shiver pop |
 | 2 | 1 | indy indie |
@@ -469,6 +468,7 @@
 | 2 | 0 | dutch edm |
 | 1 | 0 | wonky |
 | 1 | 0 | urbano latino |
+| 1 | 0 | tropical house |
 
 </details>
 

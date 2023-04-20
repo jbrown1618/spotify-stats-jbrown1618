@@ -1,6 +1,6 @@
 # viral pop
 
-[57 songs](tracks.md)
+[54 songs](tracks.md)
 
 ## Top Artists
 
@@ -9,32 +9,30 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | 3 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 2 | 2 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb002eedc44fefe085daae10e4" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 
 
 <details>
-<summary>See all 17 artists</summary>
+<summary>See all 15 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | 1 | 0 | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 0 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 
 </details>
 
 
-![Bar chart of top 17 artists](../../images/genres/viral_pop/artists.png)
+![Bar chart of top 15 artists](../../images/genres/viral_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/viral_pop/artists_comparison.png)
 ## Top Albums
@@ -49,16 +47,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | 3 | 2 | PTX Vol. IV - Classics | 2017-04-07 | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 23 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | 1 | 1 | Voicenotes | 2018-05-11 | [🔗](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 1 | 1 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="" width="50" /> | 1 | 1 | Nine Track Mind | 2016-01-29 | [🔗](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) |
@@ -68,7 +65,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | 1 | 1 | CHARLIE | 2022-10-06 | [🔗](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="" width="50" /> | 1 | 1 | Blueberry Eyes (feat. SUGA of BTS) | 2020-09-15 | [🔗](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | 1 | 1 | Blue Neighbourhood (Deluxe) | 2015-12-04 | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | 1 | 0 | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | 1 | 0 | The Sound of Silence | 2019-02-15 | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | 1 | 0 | Shawn Mendes | 2018-05-25 | [🔗](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
@@ -77,37 +73,36 @@
 </details>
 
 
-![Bar chart of top 25 albums](../../images/genres/viral_pop/albums.png)
+![Bar chart of top 23 albums](../../images/genres/viral_pop/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 43 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 4 | 4 | [Epic](../../labels/epic/overview.md) |
-| 2 | 2 | Phonogenic |
+| 2 | 2 | [Epic](../../labels/epic/overview.md) |
 | 2 | 2 | Artist Partner |
 | 3 | 1 | Island Records |
-| 2 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | [Syco Music](../../labels/syco_music/overview.md) |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Silent Records |
 | 1 | 1 | Giant Little Man |
+| 1 | 1 | EMI Recorded Music Australia Pty Ltd |
+| 1 | 1 | Colour Vision Records |
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 12 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 1 | EMI Recorded Music Australia Pty Ltd |
-| 1 | 1 | Colour Vision Records |
+| 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | Shawn Mendes LP4-5 PS |
 
 </details>
 
 
-![Bar chart of top 13 record labels](../../images/genres/viral_pop/labels.png)
+![Bar chart of top 12 record labels](../../images/genres/viral_pop/labels.png)
 
 ## Years
 
@@ -115,16 +110,16 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span>CHARLIE (2022-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="The Script" width="50" /> <span>The Script (2008-07-14)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="Monster" width="50" /> <span>Monster (2020-11-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="lovestrong." width="50" /> <span>lovestrong. (2011-05-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="Blueberry Eyes (feat. SUGA of BTS)" width="50" /> <span>Blueberry Eyes (feat. SUGA of BTS) (2020-09-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> <span>PTX, Vol. 1 (2012-06-26)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="Romance" width="50" /> <span>Romance (2019-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="PTXmas (Deluxe Edition)" width="50" /> <span>PTXmas (Deluxe Edition) (2012-11-12)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> <span>The Sound of Silence (2019-02-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> <span>PTX, Vol. 2 (2013-11-05)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> <span>Christmas Is Here! (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="Shawn Mendes" width="50" /> <span>Shawn Mendes (2018-05-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span>Is There Anybody Out There? (2014-01-20)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="Voicenotes" width="50" /> <span>Voicenotes (2018-05-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="PTX" width="50" /> <span>PTX (2014-09-19)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> <span>PTX Presents: Top Pop, Vol. I (2018-04-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> <span>PTX, Vol. III (2014-09-23)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> <span>A Pentatonix Christmas Deluxe (2017-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="Pentatonix (Deluxe Version)" width="50" /> <span>Pentatonix (Deluxe Version) (2015-10-16)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span>CHARLIE (2022-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> <span>PTX, Vol. 1 (2012-06-26)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="Monster" width="50" /> <span>Monster (2020-11-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="PTXmas (Deluxe Edition)" width="50" /> <span>PTXmas (Deluxe Edition) (2012-11-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="Blueberry Eyes (feat. SUGA of BTS)" width="50" /> <span>Blueberry Eyes (feat. SUGA of BTS) (2020-09-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> <span>PTX, Vol. 2 (2013-11-05)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="Romance" width="50" /> <span>Romance (2019-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> <span>The Sound of Silence (2019-02-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span>Is There Anybody Out There? (2014-01-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> <span>Christmas Is Here! (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="PTX" width="50" /> <span>PTX (2014-09-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="Shawn Mendes" width="50" /> <span>Shawn Mendes (2018-05-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> <span>PTX, Vol. III (2014-09-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="Voicenotes" width="50" /> <span>Voicenotes (2018-05-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="Pentatonix (Deluxe Version)" width="50" /> <span>Pentatonix (Deluxe Version) (2015-10-16)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> <span>PTX Presents: Top Pop, Vol. I (2018-04-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That's Christmas To Me (Deluxe Edition)" width="50" /> <span>That's Christmas To Me (Deluxe Edition) (2015-10-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> <span>A Pentatonix Christmas Deluxe (2017-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span>Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
@@ -135,10 +130,10 @@
 | Finesse (0.763) | Over The Rainbow (0.266) |
 | Señorita (0.759) | Can't Help Falling In Love (0.272) |
 | Blueberry Eyes (feat. SUGA of BTS) (0.746) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.317) |
-| Sleigh Ride (0.745) | Jar of Hearts (0.349) |
-| Can't Sleep Love (feat. Tink) (0.734) | Hallelujah (0.364) |
-| Can't Sleep Love (0.73) | O Come, O Come Emmanuel (0.387) |
-| We Don't Talk Anymore (feat. Selena Gomez) (0.728) | The Baddest Girl (0.394) |
+| Sleigh Ride (0.745) | Hallelujah (0.364) |
+| Can't Sleep Love (feat. Tink) (0.734) | O Come, O Come Emmanuel (0.387) |
+| Can't Sleep Love (0.73) | The Baddest Girl (0.394) |
+| We Don't Talk Anymore (feat. Selena Gomez) (0.728) | If I Ever Fall In Love (feat. Jason Derulo) (0.403) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -150,21 +145,21 @@
 | YOUTH (0.737) | Say Something (0.248) |
 | In My Blood (0.712) | Imagine (0.287) |
 | Natural Disaster (0.71) | Mary, Did You Know? (0.312) |
-| Breakeven (0.696) | O Come, O Come Emmanuel (0.329) |
-| Starships (0.681) | Jar of Hearts (0.348) |
+| Starships (0.681) | O Come, O Come Emmanuel (0.329) |
+| Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.673) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.355) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Hey Momma / Hit the Road Jack (0.433) | Breakeven (0.0242) |
-| Light Switch (0.308) | It's the Most Wonderful Time of the Year (0.0256) |
-| We Don't Talk Anymore (feat. Selena Gomez) (0.134) | Mary, Did You Know? (0.0269) |
-| Attention (0.107) | The Sound of Silence (0.0273) |
-| Blueberry Eyes (feat. SUGA of BTS) (0.101) | The Man Who Can't Be Moved (0.0279) |
-| Starships (0.0944) | Havana (0.0287) |
-| Na Na Na (0.0833) | Señorita (0.0287) |
-| Problem (Ariana Grande Cover) (0.0785) | Sleigh Ride (0.029) |
-| We Are Young (0.0735) | Over The Rainbow (0.0292) |
-| Natural Disaster (0.0718) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.0294) |
+| Hey Momma / Hit the Road Jack (0.433) | It's the Most Wonderful Time of the Year (0.0256) |
+| Light Switch (0.308) | Mary, Did You Know? (0.0269) |
+| We Don't Talk Anymore (feat. Selena Gomez) (0.134) | The Sound of Silence (0.0273) |
+| Attention (0.107) | Havana (0.0287) |
+| Blueberry Eyes (feat. SUGA of BTS) (0.101) | Señorita (0.0287) |
+| Starships (0.0944) | Sleigh Ride (0.029) |
+| Na Na Na (0.0833) | Over The Rainbow (0.0292) |
+| Problem (Ariana Grande Cover) (0.0785) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.0294) |
+| We Are Young (0.0735) | Standing By (0.0297) |
+| Natural Disaster (0.0718) | See Through (0.0298) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -173,24 +168,24 @@
 | Valentine (0.806) | Me And My Broken Heart (0.00489) |
 | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.755) | The Baddest Girl (0.00637) |
 | Can't Help Falling In Love (0.729) | Starships (0.0176) |
-| Jar of Hearts (0.726) | We Are Young (0.02) |
-| O Come, O Come Emmanuel (0.725) | Hey Momma / Hit the Road Jack (0.0214) |
-| Say Something (0.71) | Show You How to Love (0.0304) |
-| Imagine (0.697) | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) (0.033) |
-| Over The Rainbow (0.651) | See Through (0.0362) |
+| O Come, O Come Emmanuel (0.725) | We Are Young (0.02) |
+| Say Something (0.71) | Hey Momma / Hit the Road Jack (0.0214) |
+| Imagine (0.697) | Show You How to Love (0.0304) |
+| Over The Rainbow (0.651) | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) (0.033) |
+| We Don't Talk Anymore (feat. Selena Gomez) (0.621) | See Through (0.0362) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Dance of the Sugar Plum Fairy (0.079) | Natural Disaster (0.0) |
 | Blueberry Eyes (feat. SUGA of BTS) (0.000922) | Sleigh Ride (0.0) |
-| O Come, O Come Emmanuel (0.000413) | Jar of Hearts (0.0) |
-| Light Switch (0.000321) | Hallelujah (0.0) |
-| Standing By (5.54e-05) | The Sound of Silence (0.0) |
-| Havana (3.23e-05) | Show You How to Love (0.0) |
-| Valentine (3e-05) | Love Again (0.0) |
-| Attention (2.33e-05) | Can't Sleep Love (feat. Tink) (0.0) |
-| Hey Momma / Hit the Road Jack (1.74e-05) | Imagine (0.0) |
-| Problem (Ariana Grande Cover) (5.92e-06) | Run to You (0.0) |
+| O Come, O Come Emmanuel (0.000413) | Hallelujah (0.0) |
+| Light Switch (0.000321) | The Sound of Silence (0.0) |
+| Standing By (5.54e-05) | Show You How to Love (0.0) |
+| Havana (3.23e-05) | Love Again (0.0) |
+| Valentine (3e-05) | Can't Sleep Love (feat. Tink) (0.0) |
+| Attention (2.33e-05) | Imagine (0.0) |
+| Hey Momma / Hit the Road Jack (1.74e-05) | Run to You (0.0) |
+| Problem (Ariana Grande Cover) (5.92e-06) | YOUTH (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -202,18 +197,18 @@
 | Hallelujah (0.339) | YOUTH (0.0777) |
 | Dance of the Sugar Plum Fairy (0.334) | There's Nothing Holdin' Me Back (0.0779) |
 | Aha! (0.32) | Monster (Shawn Mendes & Justin Bieber) (0.0828) |
-| If I Ever Fall In Love (feat. Jason Derulo) (0.314) | Breakeven (0.0835) |
-| Radioactive (0.298) | Sweater Weather (0.0879) |
+| If I Ever Fall In Love (feat. Jason Derulo) (0.314) | Sweater Weather (0.0879) |
+| Radioactive (0.298) | Light Switch (0.0905) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | There's Nothing Holdin' Me Back (0.969) | Say Something (0.0765) |
 | Light Switch (0.905) | Say Something (0.0812) |
-| Finesse (0.903) | Jar of Hearts (0.0886) |
-| Sleigh Ride (0.87) | Can't Help Falling In Love (0.142) |
-| Na Na Na (0.862) | Standing By (0.159) |
-| Natural Disaster (0.819) | Imagine (0.161) |
-| Rockin' Around the Christmas Tree (0.809) | Run to You (0.176) |
-| Attention (0.797) | Mary, Did You Know? (0.177) |
-| Havana (0.749) | Somebody That I Used to Know (0.202) |
-| Señorita (0.74) | Over The Rainbow (0.24) |
+| Finesse (0.903) | Can't Help Falling In Love (0.142) |
+| Sleigh Ride (0.87) | Standing By (0.159) |
+| Na Na Na (0.862) | Imagine (0.161) |
+| Natural Disaster (0.819) | Run to You (0.176) |
+| Rockin' Around the Christmas Tree (0.809) | Mary, Did You Know? (0.177) |
+| Attention (0.797) | Somebody That I Used to Know (0.202) |
+| Havana (0.749) | Over The Rainbow (0.24) |
+| Señorita (0.74) | The Sound of Silence (0.26) |

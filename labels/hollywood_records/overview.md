@@ -40,9 +40,8 @@ Appears as:
 | 14 | 11 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 1 | [pop](../../genres/pop/overview.md) |
-| 2 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 
-![Bar chart of top 6 genres](../../images/labels/hollywood_records/genres.png)
+![Bar chart of top 5 genres](../../images/labels/hollywood_records/genres.png)
 
 ## Tracks released under Hollywood Records
 

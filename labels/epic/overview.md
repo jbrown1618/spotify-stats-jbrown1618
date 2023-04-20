@@ -103,16 +103,16 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 64 | 44 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 62 | 44 | [pop rock](../../genres/pop_rock/overview.md) |
-| 62 | 44 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 60 | 42 | [pop rock](../../genres/pop_rock/overview.md) |
+| 60 | 42 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 59 | 41 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 59 | 41 | [lilith](../../genres/lilith/overview.md) |
 | 59 | 41 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 24 | 16 | [pop](../../genres/pop/overview.md) |
-| 14 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
+| 15 | 11 | [pop](../../genres/pop/overview.md) |
+| 9 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 6 | [r&b](../../genres/r_b/overview.md) |
 | 8 | 5 | soul |
-| 4 | 4 | [viral pop](../../genres/viral_pop/overview.md) |
+| 3 | 2 | latin pop |
 
 
 <details>
@@ -120,8 +120,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 2 | latin pop |
 | 3 | 2 | colombian pop |
+| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | celtic rock |
 | 5 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 4 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |

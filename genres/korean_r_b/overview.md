@@ -1,6 +1,6 @@
 # korean r&b
 
-[40 songs](tracks.md)
+[41 songs](tracks.md)
 
 ## Top Artists
 
@@ -11,15 +11,15 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 4 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd63cdcec79b1864df268c7bf" alt="" width="50" /> | 3 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39720ff6218e58ce147490dc" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 3 | 2 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 3 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 3 | 2 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 2 | 2 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | 2 | 2 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 30 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -39,6 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58590979d60df6fb6d6a837" alt="" width="50" /> | 1 | 0 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb18c434d49d7d2f82199fde6d" alt="" width="50" /> | 1 | 0 | Sam Kim | [🔗](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | 1 | 0 | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44c99b9e1082a8273fd7c495" alt="" width="50" /> | 1 | 0 | SUMIN | [🔗](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
@@ -46,7 +47,7 @@
 </details>
 
 
-![Bar chart of top 29 artists](../../images/genres/korean_r_b/artists.png)
+![Bar chart of top 30 artists](../../images/genres/korean_r_b/artists.png)
 
 ![Comparison of Artist](../../images/genres/korean_r_b/artists_comparison.png)
 ## Top Albums
@@ -66,7 +67,7 @@
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -90,6 +91,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 1 | 1 | 130 Mood : TRBL | 2016-03-25 | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | 1 | 0 | Worldwide | 2015-11-05 | [🔗](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="" width="50" /> | 1 | 0 | The King: Eternal Monarch (Original Television Soundtrack), Pt. 10 | 2020-05-16 | [🔗](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | 1 | 0 | Sun And Moon | 2018-11-22 | [🔗](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="" width="50" /> | 1 | 0 | Somebody | 2022-07-25 | [🔗](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309d6e79558799f3c5bccc189" alt="" width="50" /> | 1 | 0 | POOL[pu:l] | 2018-05-12 | [🔗](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | 1 | 0 | Lyricist | 2020-06-10 | [🔗](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) |
@@ -120,7 +122,7 @@
 
 
 <details>
-<summary>See all 24 labels</summary>
+<summary>See all 25 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -137,12 +139,13 @@
 | 1 | 0 | YUEHUA Entertainment |
 | 1 | 0 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 0 | FNC인베스트먼트 |
+| 1 | 0 | Antenna |
 | 1 | 0 | AOMG |
 
 </details>
 
 
-![Bar chart of top 24 record labels](../../images/genres/korean_r_b/labels.png)
+![Bar chart of top 25 record labels](../../images/genres/korean_r_b/labels.png)
 
 ## Years
 
@@ -183,10 +186,10 @@
 | And July (0.852) | Very, Slowly (0.423) |
 | Sour candy (0.843) | POOL(Feat. Sumin) (0.453) |
 | One way love (0.817) | Don’t (0.488) |
-| Into You (0.805) | 눈,코,입 (Eyes, Nose, Lips) (0.516) |
-| Say Yes (0.778) | Running Through The Night (0.532) |
-| D (Half Moon) (0.765) | Heartbeat (0.541) |
-| Three Dopeboyz (Feat. Zion.T) (0.757) | Animal Farm (0.542) |
+| Into You (0.805) | Make Up (Feat. Crush) (0.497) |
+| Say Yes (0.778) | 눈,코,입 (Eyes, Nose, Lips) (0.516) |
+| D (Half Moon) (0.765) | Running Through The Night (0.532) |
+| Three Dopeboyz (Feat. Zion.T) (0.757) | Heartbeat (0.541) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -212,20 +215,20 @@
 | Can't Stop This Party (0.608) | One way love (0.0577) |
 | Don’t (0.552) | Sour candy (0.0681) |
 | My Day Is Full Of You (0.532) | Three Dopeboyz (Feat. Zion.T) (0.078) |
-| Love Story (Feat. CRUSH) (0.499) | VIBE (feat. Jimin of BTS) (0.0801) |
+| Make Up (Feat. Crush) (0.502) | VIBE (feat. Jimin of BTS) (0.0801) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | VingleVingle (Prod. R.Tee) (0.00676) | And July (0.0) |
 | Very, Slowly (0.00148) | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
-| Can't Stop This Party (0.00125) | MOMMAE (0.0) |
-| BIBI Vengeance (0.000128) | HAPPEN (0.0) |
-| LAW (Prod. Czaer) (0.000111) | Only Look At Me (나만 바라봐) (0.0) |
-| First Sight (1.88e-05) | KAZINO (0.0) |
-| Wicked (1.2e-05) | Say Yes (0.0) |
-| Lyricist (1.14e-05) | Somebody! (0.0) |
-| POOL(Feat. Sumin) (7.6e-06) | All I Wanna Do (0.0) |
-| WAITING (7.02e-06) | My Day Is Full Of You (0.0) |
+| Can't Stop This Party (0.00125) | Make Up (Feat. Crush) (0.0) |
+| BIBI Vengeance (0.000128) | MOMMAE (0.0) |
+| LAW (Prod. Czaer) (0.000111) | HAPPEN (0.0) |
+| First Sight (1.88e-05) | Only Look At Me (나만 바라봐) (0.0) |
+| Wicked (1.2e-05) | KAZINO (0.0) |
+| Lyricist (1.14e-05) | Say Yes (0.0) |
+| POOL(Feat. Sumin) (7.6e-06) | Somebody! (0.0) |
+| WAITING (7.02e-06) | All I Wanna Do (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

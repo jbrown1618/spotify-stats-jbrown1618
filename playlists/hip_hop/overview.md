@@ -175,9 +175,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 28 | 12 | rap |
-| 12 | 9 | [pop](../../genres/pop/overview.md) |
 | 22 | 8 | hip hop |
-| 8 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
+| 8 | 6 | [pop](../../genres/pop/overview.md) |
+| 7 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 3 | conscious hip hop |
 | 4 | 3 | detroit hip hop |
 | 5 | 2 | southern hip hop |
@@ -187,7 +187,7 @@
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 32 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -196,7 +196,6 @@
 | 2 | 2 | dirty south rap |
 | 12 | 1 | pop rap |
 | 5 | 1 | trap |
-| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |
 | 1 | 1 | north carolina hip hop |

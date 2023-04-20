@@ -132,6 +132,7 @@
 |---:|---:|:---|
 | 28 | 26 | [k-pop](../../genres/k_pop/overview.md) |
 | 26 | 23 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 10 | 10 | [pop](../../genres/pop/overview.md) |
 | 8 | 7 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 4 | anime |
 | 1 | 0 | mandopop |
@@ -139,7 +140,7 @@
 | 1 | 0 | k-pop reality show |
 | 1 | 0 | chinese idol pop |
 
-![Bar chart of top 8 genres](../../images/playlists/aegyo/genres.png)
+![Bar chart of top 9 genres](../../images/playlists/aegyo/genres.png)
 
 ## Years
 

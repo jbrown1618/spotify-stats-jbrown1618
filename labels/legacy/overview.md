@@ -92,14 +92,13 @@ Appears as:
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 2 | 1 | soul |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 1 | progressive rock |
-| 2 | 1 | [pop](../../genres/pop/overview.md) |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
 | 3 | 0 | bebop |
@@ -115,7 +114,6 @@ Appears as:
 | 1 | 0 | rap |
 | 1 | 0 | pop rap |
 | 1 | 0 | outlaw country |
-| 1 | 0 | oklahoma country |
 | 1 | 0 | hip hop |
 | 1 | 0 | hardcore hip hop |
 | 1 | 0 | glam metal |

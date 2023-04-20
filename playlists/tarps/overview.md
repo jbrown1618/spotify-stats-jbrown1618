@@ -219,19 +219,19 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 19 | 10 | [pop](../../genres/pop/overview.md) |
-| 15 | 8 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
+| 11 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 6 | 5 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 5 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 4 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
+| 4 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 4 | 3 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 3 | 3 | stomp and holler |
 
 
 <details>
-<summary>See all 83 genres</summary>
+<summary>See all 82 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -241,20 +241,20 @@
 | 3 | 3 | british invasion |
 | 3 | 3 | beatlesque |
 | 6 | 2 | urban contemporary |
-| 5 | 2 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 2 | pop soul |
 | 3 | 2 | new americana |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
-| 3 | 2 | indie folk |
 | 3 | 2 | heartland rock |
 | 3 | 2 | british soul |
 | 3 | 2 | atl hip hop |
 | 2 | 2 | soul |
 | 2 | 2 | motown |
+| 2 | 2 | indie folk |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
+| 4 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 1 | folk |
 | 2 | 1 | uk pop |
 | 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
@@ -272,7 +272,6 @@
 | 1 | 1 | progressive bluegrass |
 | 1 | 1 | pop rap |
 | 1 | 1 | piano rock |
-| 1 | 1 | oklahoma country |
 | 1 | 1 | nz pop |
 | 1 | 1 | memphis soul |
 | 1 | 1 | melancholia |

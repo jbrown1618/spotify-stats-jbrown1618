@@ -165,16 +165,16 @@ Appears as:
 | 33 | 23 | [classic rock](../../genres/classic_rock/overview.md) |
 | 31 | 22 | [soft rock](../../genres/soft_rock/overview.md) |
 | 31 | 22 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 35 | 20 | [pop](../../genres/pop/overview.md) |
+| 36 | 21 | [pop](../../genres/pop/overview.md) |
 | 27 | 17 | [album rock](../../genres/album_rock/overview.md) |
 | 26 | 17 | heartland rock |
 | 23 | 16 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 22 | 15 | piano rock |
-| 20 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
+| 18 | 8 | [dance pop](../../genres/dance_pop/overview.md) |
 
 
 <details>
-<summary>See all 68 genres</summary>
+<summary>See all 66 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -194,9 +194,7 @@ Appears as:
 | 2 | 2 | filter house |
 | 2 | 2 | electro |
 | 2 | 1 | uk pop |
-| 2 | 1 | pop dance |
 | 2 | 1 | lgbtq+ hip hop |
-| 2 | 1 | edm |
 | 2 | 1 | british soul |
 | 1 | 1 | tropical house |
 | 1 | 1 | r&b en espanol |
@@ -223,15 +221,15 @@ Appears as:
 | 1 | 0 | uk dance |
 | 1 | 0 | traditional country |
 | 1 | 0 | progressive house |
+| 1 | 0 | pop dance |
 | 1 | 0 | outlaw country |
-| 1 | 0 | oklahoma country |
 | 1 | 0 | new americana |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | [lilith](../../genres/lilith/overview.md) |
-| 1 | 0 | indie folk |
 | 1 | 0 | house |
 | 1 | 0 | girl group |
 | 1 | 0 | electro house |
+| 1 | 0 | edm |
 | 1 | 0 | ectofolk |
 | 1 | 0 | cowboy western |
 | 1 | 0 | arkansas country |

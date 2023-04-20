@@ -167,11 +167,11 @@
 | 15 | 8 | [rock](../../genres/rock/overview.md) |
 | 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 13 | 7 | motown |
-| 11 | 7 | [pop](../../genres/pop/overview.md) |
 | 8 | 6 | folk rock |
 | 8 | 6 | folk |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 8 | 5 | [r&b](../../genres/r_b/overview.md) |
+| 5 | 5 | melancholia |
 
 
 <details>
@@ -179,12 +179,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 5 | 5 | melancholia |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 3 | new wave pop |
 | 6 | 2 | piano rock |
 | 6 | 2 | glam rock |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
+| 3 | 2 | [pop](../../genres/pop/overview.md) |
 | 3 | 2 | lounge |
 | 3 | 2 | disco |
 | 5 | 1 | memphis soul |

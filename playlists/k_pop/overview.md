@@ -29,7 +29,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 19 | 15 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="" width="50" /> | 16 | 15 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 16 | 13 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 14 | 12 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 14 | 12 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | 16 | 11 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 13 | 10 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
@@ -365,17 +365,17 @@
 | 805 | 597 | [k-pop](../../genres/k_pop/overview.md) |
 | 389 | 298 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 232 | 162 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 65 | 50 | [pop](../../genres/pop/overview.md) |
+| 105 | 82 | [pop](../../genres/pop/overview.md) |
 | 22 | 19 | anime |
 | 21 | 13 | k-rap |
 | 13 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 8 | 8 | korean ost |
-| 8 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 6 | korean pop |
+| 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -392,14 +392,13 @@
 | 1 | 1 | electropop |
 | 1 | 1 | danish pop |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
-| 1 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 0 | k-rock |
 | 1 | 0 | j-pop |
 
 </details>
 
 
-![Bar chart of top 26 genres](../../images/playlists/k_pop/genres.png)
+![Bar chart of top 25 genres](../../images/playlists/k_pop/genres.png)
 
 ## Years
 

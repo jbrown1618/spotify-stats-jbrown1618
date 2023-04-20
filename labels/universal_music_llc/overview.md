@@ -128,7 +128,7 @@ Appears as:
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 20 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -138,7 +138,6 @@ Appears as:
 | 2 | 2 | bitpop |
 | 2 | 1 | anime |
 | 1 | 1 | uk pop |
-| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | metropopolis |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | japanese teen pop |
@@ -147,7 +146,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 genres](../../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 20 genres](../../images/labels/universal_music_llc/genres.png)
 
 ## Tracks released under Universal Music LLC
 

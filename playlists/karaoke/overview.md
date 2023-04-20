@@ -212,13 +212,13 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 17 | 17 | [rock](../../genres/rock/overview.md) |
-| 19 | 15 | [pop](../../genres/pop/overview.md) |
+| 20 | 16 | [pop](../../genres/pop/overview.md) |
 | 14 | 14 | [classic rock](../../genres/classic_rock/overview.md) |
 | 13 | 12 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 11 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
-| 10 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
+| 9 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
+| 9 | 8 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 8 | piano rock |
 
@@ -228,8 +228,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 7 | 7 | [lilith](../../genres/lilith/overview.md) |
+| 6 | 6 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 6 | heartland rock |
 | 5 | 5 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 5 | 5 | psychedelic rock |

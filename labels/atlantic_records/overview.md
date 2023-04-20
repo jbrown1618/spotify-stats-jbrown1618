@@ -128,25 +128,22 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 21 | 18 | [pop](../../genres/pop/overview.md) |
-| 19 | 16 | [dance pop](../../genres/dance_pop/overview.md) |
+| 16 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
 | 46 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 41 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 10 | 2 | vocal jazz |
 | 4 | 2 | rap |
-| 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 3 | 2 | pop dance |
-| 3 | 2 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 2 | washington indie |
+| 2 | 2 | trap queen |
+| 2 | 2 | seattle indie |
+| 2 | 2 | [neo mellow](../../genres/neo_mellow/overview.md) |
 
 
 <details>
-<summary>See all 53 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 2 | trap queen |
-| 2 | 2 | seattle indie |
-| 2 | 2 | [pop rock](../../genres/pop_rock/overview.md) |
 | 2 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | minnesota hip hop |
 | 2 | 2 | indietronica |
@@ -155,13 +152,13 @@ Appears as:
 | 2 | 2 | chamber pop |
 | 2 | 2 | alternative rock |
 | 2 | 2 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 2 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 1 | [a cappella](../../genres/a_cappella/overview.md) |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk pop |
 | 1 | 1 | uk funky |
 | 1 | 1 | uk dance |
+| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | metropopolis |
-| 1 | 1 | electropop |
 | 1 | 1 | candy pop |
 | 1 | 1 | bedroom soul |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
@@ -176,9 +173,9 @@ Appears as:
 | 2 | 0 | hip hop |
 | 2 | 0 | alternative hip hop |
 | 1 | 0 | trance |
-| 1 | 0 | talent show |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
+| 1 | 0 | pop dance |
 | 1 | 0 | pittsburgh rap |
 | 1 | 0 | new orleans rap |
 | 1 | 0 | [k-pop](../../genres/k_pop/overview.md) |

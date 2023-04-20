@@ -135,24 +135,23 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 18 | [dance pop](../../genres/dance_pop/overview.md) |
-| 24 | 18 | [pop](../../genres/pop/overview.md) |
+| 26 | 19 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
+| 15 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | australian pop |
 | 8 | 8 | australian dance |
 | 8 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
-| 5 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
+| 7 | 2 | [rock](../../genres/rock/overview.md) |
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 2 | [rock](../../genres/rock/overview.md) |
 | 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 7 | 2 | alternative rock |
 | 3 | 2 | rap |

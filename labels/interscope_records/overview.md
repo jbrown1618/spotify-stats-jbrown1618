@@ -131,8 +131,8 @@ Appears as:
 | 32 | 27 | [k-pop](../../genres/k_pop/overview.md) |
 | 23 | 19 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 22 | 16 | [art pop](../../genres/art_pop/overview.md) |
-| 24 | 15 | [dance pop](../../genres/dance_pop/overview.md) |
 | 11 | 9 | electropop |
+| 12 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 2 | rap |
 | 2 | 2 | west coast rap |
 | 2 | 2 | [rock](../../genres/rock/overview.md) |
@@ -140,7 +140,7 @@ Appears as:
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 26 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -148,7 +148,6 @@ Appears as:
 | 2 | 2 | hip hop |
 | 2 | 2 | conscious hip hop |
 | 2 | 1 | pop rap |
-| 1 | 1 | tropical house |
 | 1 | 1 | pop dance |
 | 1 | 1 | ohio hip hop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -165,7 +164,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 27 genres](../../images/labels/interscope_records/genres.png)
+![Bar chart of top 26 genres](../../images/labels/interscope_records/genres.png)
 
 ## Tracks released under Interscope Records
 

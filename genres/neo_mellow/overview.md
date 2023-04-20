@@ -1,6 +1,6 @@
 # neo mellow
 
-[91 songs](tracks.md)
+[88 songs](tracks.md)
 
 ## Top Artists
 
@@ -11,26 +11,24 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | 4 | 2 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 3 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 2 | 2 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 
 
 <details>
-<summary>See all 21 artists</summary>
+<summary>See all 19 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/2d695c3269ba763e82b0a24789bc59d92834b125" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | 2 | 0 | Mandy Moore | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | 1 | 0 | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | 1 | 0 | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
@@ -38,7 +36,7 @@
 </details>
 
 
-![Bar chart of top 21 artists](../../images/genres/neo_mellow/artists.png)
+![Bar chart of top 19 artists](../../images/genres/neo_mellow/artists.png)
 
 ![Comparison of Artist](../../images/genres/neo_mellow/artists_comparison.png)
 ## Top Albums
@@ -58,12 +56,11 @@
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 25 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | 2 | 2 | Barton Hollow | 2011-02-01 | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 2 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0" alt="" width="50" /> | 1 | 1 | Trading Snakeoil for Wolftickets | 2001-01-01 | [🔗](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) |
@@ -73,7 +70,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdebae610076f51e8b7b20f4" alt="" width="50" /> | 1 | 1 | Birdy | 2011-11-04 | [🔗](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | 1 | 1 | Babel (Deluxe Version) | 2012-09-25 | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | 1 | 0 | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | 1 | 0 | PINES | 2012-01-01 | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="" width="50" /> | 1 | 0 | Indiana | 2007-01-01 | [🔗](https://open.spotify.com/album/2UpO4j1Zpptiwk3wbUIWmU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
@@ -83,30 +79,29 @@
 </details>
 
 
-![Bar chart of top 27 albums](../../images/genres/neo_mellow/albums.png)
+![Bar chart of top 25 albums](../../images/genres/neo_mellow/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 62 | 44 | [Epic](../../labels/epic/overview.md) |
+| 60 | 42 | [Epic](../../labels/epic/overview.md) |
 | 10 | 5 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 4 | 2 | Glassnote Entertainment Group LLC |
-| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | sensibility recordings |
-| 2 | 2 | Phonogenic |
+| 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | ATG |
 | 3 | 1 | Relentless |
 | 2 | 1 | Island Def Jam |
 | 1 | 1 | Mercury Records |
+| 1 | 1 | Maverick |
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 15 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 1 | Maverick |
 | 1 | 1 | Down Up Down Music |
 | 1 | 1 | Atlantic Records UK |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
@@ -116,7 +111,7 @@
 </details>
 
 
-![Bar chart of top 16 record labels](../../images/genres/neo_mellow/labels.png)
+![Bar chart of top 15 record labels](../../images/genres/neo_mellow/labels.png)
 
 ## Years
 
@@ -165,15 +160,15 @@
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Electric Twist (0.125) | Satellite Call (0.0241) |
-| Opening Up (0.0936) | Breakeven (0.0242) |
-| Kaleidoscope Heart (0.0927) | Whisper (0.0252) |
-| Come Round Soon (0.0776) | Machine Gun (0.0268) |
-| Bad Idea (feat. Jason Mraz) (0.0704) | Orpheus (0.0269) |
-| Black Horse And The Cherry Tree (0.0641) | Little Lion Man (0.0272) |
-| Everybody Talks (0.0586) | Chasing Cars (0.0274) |
-| Fire (0.057) | Sweet As Whole (0.0275) |
-| Eden (0.0562) | Breathe Again (0.0278) |
-| You Oughta Know (0.0557) | The Man Who Can't Be Moved (0.0279) |
+| Opening Up (0.0936) | Whisper (0.0252) |
+| Kaleidoscope Heart (0.0927) | Machine Gun (0.0268) |
+| Come Round Soon (0.0776) | Orpheus (0.0269) |
+| Bad Idea (feat. Jason Mraz) (0.0704) | Little Lion Man (0.0272) |
+| Black Horse And The Cherry Tree (0.0641) | Chasing Cars (0.0274) |
+| Everybody Talks (0.0586) | Sweet As Whole (0.0275) |
+| Fire (0.057) | Breathe Again (0.0278) |
+| Eden (0.0562) | Islands (0.0284) |
+| You Oughta Know (0.0557) | Poison & Wine (0.0288) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -195,11 +190,11 @@
 | Islands (0.0261) | Sweet As Whole (0.0) |
 | Armor (0.0145) | Chariot (0.0) |
 | I Will Wait (0.00717) | You Oughta Know (0.0) |
-| Breathe Again (0.00655) | Jar of Hearts (0.0) |
-| Miss Simone (0.00407) | Lucky (0.0) |
-| The Light (0.00375) | Come Round Soon (0.0) |
-| No Such Thing (0.00175) | Black Horse And The Cherry Tree (0.0) |
-| Whisper (0.00168) | Kaleidoscope Heart (0.0) |
+| Breathe Again (0.00655) | Lucky (0.0) |
+| Miss Simone (0.00407) | Come Round Soon (0.0) |
+| The Light (0.00375) | Black Horse And The Cherry Tree (0.0) |
+| No Such Thing (0.00175) | Kaleidoscope Heart (0.0) |
+| Whisper (0.00168) | Everything Changes (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -219,10 +214,10 @@
 | I Choose You (0.947) | Once Upon Another Time (0.0551) |
 | Black Horse And The Cherry Tree (0.917) | Say Something (0.0765) |
 | Blow Away (0.891) | Islands (0.0863) |
-| Electric Twist (0.858) | Jar of Hearts (0.0886) |
-| Say You're Sorry (0.846) | Timshel (0.0954) |
-| King of Anything (0.81) | Everything Changes (0.0983) |
-| Lie To Me (0.795) | We All Need Saving (0.117) |
-| I Didn't Plan It (0.787) | Chasing Cars (0.144) |
-| Bad Idea (feat. Jason Mraz) (0.787) | Bluebird (0.161) |
-| Morningside (0.785) | What's Inside (0.162) |
+| Electric Twist (0.858) | Timshel (0.0954) |
+| Say You're Sorry (0.846) | Everything Changes (0.0983) |
+| King of Anything (0.81) | We All Need Saving (0.117) |
+| Lie To Me (0.795) | Chasing Cars (0.144) |
+| I Didn't Plan It (0.787) | Bluebird (0.161) |
+| Bad Idea (feat. Jason Mraz) (0.787) | What's Inside (0.162) |
+| Morningside (0.785) | Almost Lover (0.167) |

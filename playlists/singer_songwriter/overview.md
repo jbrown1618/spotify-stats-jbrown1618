@@ -213,8 +213,8 @@
 | 73 | 49 | [lilith](../../genres/lilith/overview.md) |
 | 71 | 49 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 79 | 48 | [pop](../../genres/pop/overview.md) |
-| 61 | 43 | [pop rock](../../genres/pop_rock/overview.md) |
 | 59 | 41 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 59 | 41 | [pop rock](../../genres/pop_rock/overview.md) |
 | 35 | 22 | piano rock |
 | 34 | 22 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 31 | 18 | [mellow gold](../../genres/mellow_gold/overview.md) |
@@ -222,7 +222,7 @@
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 46 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -258,7 +258,6 @@
 | 1 | 0 | neo soul |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | indie rock |
-| 1 | 0 | indie folk |
 | 1 | 0 | ectofolk |
 | 1 | 0 | dark pop |
 | 1 | 0 | canadian pop |

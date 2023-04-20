@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 14 | 14 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 14 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 13 | 13 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb64884416b862c19ec9a465d3" alt="" width="50" /> | 12 | 12 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 12 | 12 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="" width="50" /> | 11 | 11 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 11 | 11 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 11 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
@@ -360,15 +360,15 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 658 | 658 | [k-pop](../../genres/k_pop/overview.md) |
-| 303 | 303 | [pop](../../genres/pop/overview.md) |
+| 331 | 331 | [pop](../../genres/pop/overview.md) |
 | 300 | 300 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 166 | 166 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 152 | 152 | [dance pop](../../genres/dance_pop/overview.md) |
 | 121 | 121 | [rock](../../genres/rock/overview.md) |
+| 110 | 110 | [dance pop](../../genres/dance_pop/overview.md) |
 | 78 | 78 | [classic rock](../../genres/classic_rock/overview.md) |
-| 72 | 72 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 60 | 60 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 58 | 58 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 57 | 57 | [lilith](../../genres/lilith/overview.md) |
+| 55 | 55 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 
 
 <details>
@@ -376,8 +376,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 55 | 55 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 50 | 50 | [pop rock](../../genres/pop_rock/overview.md) |
+| 47 | 47 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 46 | 46 | [pop rock](../../genres/pop_rock/overview.md) |
 | 42 | 42 | [modern rock](../../genres/modern_rock/overview.md) |
 | 37 | 37 | [soft rock](../../genres/soft_rock/overview.md) |
 | 37 | 37 | [album rock](../../genres/album_rock/overview.md) |
@@ -385,13 +385,13 @@
 | 33 | 33 | [art pop](../../genres/art_pop/overview.md) |
 | 31 | 31 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 30 | 30 | british invasion |
-| 27 | 27 | [viral pop](../../genres/viral_pop/overview.md) |
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 25 | 25 | [viral pop](../../genres/viral_pop/overview.md) |
 | 25 | 25 | piano rock |
 | 24 | 24 | heartland rock |
-| 24 | 24 | electropop |
 | 23 | 23 | [r&b](../../genres/r_b/overview.md) |
+| 23 | 23 | electropop |
 | 23 | 23 | beatlesque |
 | 22 | 22 | psychedelic rock |
 | 22 | 22 | merseybeat |
@@ -427,7 +427,6 @@
 | 10 | 10 | [adult standards](../../genres/adult_standards/overview.md) |
 | 9 | 9 | lounge |
 | 9 | 9 | bergen indie |
-| 8 | 8 | pop dance |
 | 8 | 8 | modern alternative rock |
 | 8 | 8 | j-pop |
 | 8 | 8 | hip hop |
@@ -466,6 +465,7 @@
 | 4 | 4 | korean talent show |
 | 4 | 4 | k-indie |
 | 4 | 4 | japanese electropop |
+| 4 | 4 | glam metal |
 
 </details>
 

@@ -216,7 +216,7 @@
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 36 | 20 | alternative rock |
 | 32 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
-| 24 | 18 | [pop](../../genres/pop/overview.md) |
+| 25 | 19 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
@@ -231,18 +231,15 @@
 |---:|---:|:---|
 | 7 | 7 | indietronica |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
-| 9 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
-| 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 6 | 5 | la indie |
 | 6 | 5 | indie pop |
 | 5 | 5 | modern alternative rock |
-| 6 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
-| 4 | 4 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 3 | 3 | [viral pop](../../genres/viral_pop/overview.md) |
+| 5 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 3 | 3 | steampunk |
 | 3 | 3 | candy pop |
 | 4 | 2 | symphonic metal |
 | 4 | 2 | power metal |
+| 4 | 2 | [pop rock](../../genres/pop_rock/overview.md) |
 | 4 | 2 | opera metal |
 | 4 | 2 | gothic symphonic metal |
 | 4 | 2 | gothic metal |
@@ -267,7 +264,9 @@
 | 2 | 1 | thrash metal |
 | 2 | 1 | old school thrash |
 | 2 | 1 | hard rock |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
+| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | neo-synthpop |
 | 1 | 1 | metropopolis |
 | 1 | 1 | japanese emo |
@@ -281,6 +280,7 @@
 | 1 | 1 | indie folk |
 | 1 | 1 | folk-pop |
 | 1 | 1 | electronic rock |
+| 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | cyberpunk |
 | 1 | 1 | canadian rock |
 | 1 | 1 | canadian pop |
