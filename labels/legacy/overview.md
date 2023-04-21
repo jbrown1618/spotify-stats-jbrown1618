@@ -92,7 +92,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -119,6 +119,7 @@ Appears as:
 | 1 | 0 | glam metal |
 | 1 | 0 | east coast hip hop |
 | 1 | 0 | cowboy western |
+| 1 | 0 | classic oklahoma country |
 | 1 | 0 | arkansas country |
 
 </details>

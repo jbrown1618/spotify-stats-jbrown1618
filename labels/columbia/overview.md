@@ -174,7 +174,7 @@ Appears as:
 
 
 <details>
-<summary>See all 66 genres</summary>
+<summary>See all 67 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -232,6 +232,7 @@ Appears as:
 | 1 | 0 | edm |
 | 1 | 0 | ectofolk |
 | 1 | 0 | cowboy western |
+| 1 | 0 | classic oklahoma country |
 | 1 | 0 | arkansas country |
 | 1 | 0 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 

@@ -231,7 +231,7 @@
 
 
 <details>
-<summary>See all 82 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -285,6 +285,7 @@
 | 1 | 1 | deep indie singer-songwriter |
 | 1 | 1 | country road |
 | 1 | 1 | classic soul |
+| 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |
 | 1 | 1 | bergen indie |

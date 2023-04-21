@@ -102,17 +102,18 @@
 | 6 | 4 | stomp and holler |
 | 6 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 5 | 3 | classic oklahoma country |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 5 | 2 | folk-pop |
 | 4 | 2 | uk americana |
-| 4 | 2 | [rock](../../genres/rock/overview.md) |
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 23 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 4 | 2 | [rock](../../genres/rock/overview.md) |
 | 4 | 2 | outlaw country |
 | 4 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 2 | modern folk rock |
@@ -129,7 +130,7 @@
 </details>
 
 
-![Bar chart of top 22 genres](../../images/playlists/country_folk/genres.png)
+![Bar chart of top 23 genres](../../images/playlists/country_folk/genres.png)
 
 ## Years
 

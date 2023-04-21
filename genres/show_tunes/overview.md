@@ -1,6 +1,6 @@
 # show tunes
 
-[52 songs](tracks.md)
+[54 songs](tracks.md)
 
 ## Top Artists
 
@@ -19,13 +19,14 @@
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 26 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 5 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccc2fd86f64d13368998de" alt="" width="50" /> | 3 | 0 | Jonathan Groff | [🔗](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 2 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 2 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | 1 | 0 | Students | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273170e79548d280867ef12742b" alt="" width="50" /> | 1 | 0 | Les Misérables Cast | [🔗](https://open.spotify.com/artist/71wy5iisVKXLZgoPxdFi8A) |
@@ -42,7 +43,7 @@
 </details>
 
 
-![Bar chart of top 25 artists](../../images/genres/show_tunes/artists.png)
+![Bar chart of top 26 artists](../../images/genres/show_tunes/artists.png)
 
 ![Comparison of Artist](../../images/genres/show_tunes/artists_comparison.png)
 ## Top Albums
@@ -51,11 +52,12 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 46 | 3 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | 3 | 0 | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 2 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
 
-![Bar chart of top 5 albums](../../images/genres/show_tunes/albums.png)
+![Bar chart of top 6 albums](../../images/genres/show_tunes/albums.png)
 
 ## Top Record Labels
 
@@ -64,9 +66,10 @@
 | 46 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
+| 2 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 
-![Bar chart of top 4 record labels](../../images/genres/show_tunes/labels.png)
+![Bar chart of top 5 record labels](../../images/genres/show_tunes/labels.png)
 
 ## Years
 
@@ -74,38 +77,39 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span>Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span>Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span>Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span>Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span>Holiday Wishes (2014-10-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span>Holiday Wishes (2014-10-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span>Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span>Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span>Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span>Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span>Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span>Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span>Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span>Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span>Holiday Wishes (2014-10-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span>Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> <span>Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> <span>Holiday Wishes (2014-10-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> <span>Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> <span>Hamilton (Original Broadway Cast Recording) (2015-09-25)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> <span>Les Misérables (Original Broadway Cast Recording) (1987-05-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> <span>Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15)</span></div> |
 ## Audio Features
 
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Ten Duel Commandments (0.887) | Into the Unknown (0.323) |
-| Washington on Your Side (0.884) | Do You Hear The People Sing? (0.328) |
-| A Winter's Ball (0.854) | On My Own (0.338) |
-| Blow Us All Away (0.82) | Who Lives, Who Dies, Who Tells Your Story (0.353) |
-| The Adams Administration (0.8) | Empty Chairs At Empty Tables (0.386) |
-| Farmer Refuted (0.795) | History Has Its Eyes on You (0.438) |
-| Non-Stop (0.77) | One Last Time (0.449) |
-| Yorktown (The World Turned Upside Down) (0.76) | Hurricane (0.453) |
-| Say No to This (0.754) | It's Quiet Uptown (0.484) |
-| Cabinet Battle #2 (0.753) | The Story of Tonight (0.494) |
+| Ten Duel Commandments (0.887) | On My Own (0.321) |
+| Washington on Your Side (0.884) | Into the Unknown (0.323) |
+| A Winter's Ball (0.854) | A Little Fall Of Rain (0.324) |
+| Blow Us All Away (0.82) | Do You Hear The People Sing? (0.328) |
+| The Adams Administration (0.8) | On My Own (0.338) |
+| Farmer Refuted (0.795) | Who Lives, Who Dies, Who Tells Your Story (0.353) |
+| Non-Stop (0.77) | Empty Chairs At Empty Tables (0.386) |
+| Yorktown (The World Turned Upside Down) (0.76) | History Has Its Eyes on You (0.438) |
+| Say No to This (0.754) | One Last Time (0.449) |
+| Cabinet Battle #2 (0.753) | Hurricane (0.453) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
-| Yorktown (The World Turned Upside Down) (0.883) | Empty Chairs At Empty Tables (0.0688) |
-| The Schuyler Sisters (0.727) | Best of Wives and Best of Women (0.115) |
-| Guns and Ships (0.666) | On My Own (0.119) |
-| Cabinet Battle #1 (0.658) | It's Quiet Uptown (0.187) |
-| My Shot (0.649) | That Would Be Enough (0.2) |
-| Meet Me Inside (0.643) | Dear Theodosia (0.221) |
-| Schuyler Defeated (0.597) | The Story of Tonight (0.237) |
-| Satisfied (0.593) | Stay Alive - Reprise (0.246) |
-| What'd I Miss (0.577) | What Comes Next? (0.302) |
-| The Reynolds Pamphlet (0.573) | The Story of Tonight - Reprise (0.305) |
+| Yorktown (The World Turned Upside Down) (0.883) | A Little Fall Of Rain (0.0291) |
+| The Schuyler Sisters (0.727) | Empty Chairs At Empty Tables (0.0688) |
+| Guns and Ships (0.666) | On My Own (0.0816) |
+| Cabinet Battle #1 (0.658) | Best of Wives and Best of Women (0.115) |
+| My Shot (0.649) | On My Own (0.119) |
+| Meet Me Inside (0.643) | It's Quiet Uptown (0.187) |
+| Schuyler Defeated (0.597) | That Would Be Enough (0.2) |
+| Satisfied (0.593) | Dear Theodosia (0.221) |
+| What'd I Miss (0.577) | The Story of Tonight (0.237) |
+| The Reynolds Pamphlet (0.573) | Stay Alive - Reprise (0.246) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -114,37 +118,37 @@
 | The World Was Wide Enough (0.648) | Let It Go - From "Frozen"/Soundtrack Version (0.0305) |
 | The Adams Administration (0.544) | That Would Be Enough (0.0355) |
 | Cabinet Battle #2 (0.537) | Do You Hear The People Sing? (0.0379) |
-| We Know (0.523) | Into the Unknown (0.0413) |
-| A Winter's Ball (0.507) | It's Quiet Uptown (0.0423) |
-| Your Obedient Servant (0.502) | Empty Chairs At Empty Tables (0.0496) |
-| Right Hand Man (0.492) | Burn (0.0516) |
-| Meet Me Inside (0.474) | The Story of Tonight (0.0517) |
+| We Know (0.523) | On My Own (0.0381) |
+| A Winter's Ball (0.507) | A Little Fall Of Rain (0.0405) |
+| Your Obedient Servant (0.502) | Into the Unknown (0.0413) |
+| Right Hand Man (0.492) | It's Quiet Uptown (0.0423) |
+| Meet Me Inside (0.474) | Empty Chairs At Empty Tables (0.0496) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Empty Chairs At Empty Tables (0.944) | The Reynolds Pamphlet (0.0277) |
-| Dear Theodosia (0.907) | Cabinet Battle #2 (0.0582) |
-| Do You Hear The People Sing? (0.886) | Ten Duel Commandments (0.0691) |
-| On My Own (0.883) | Cabinet Battle #1 (0.0859) |
-| Into the Unknown (0.849) | Wait for It (0.124) |
-| The Story of Tonight (0.835) | My Shot (0.15) |
-| That Would Be Enough (0.819) | Washington on Your Side (0.165) |
-| History Has Its Eyes on You (0.803) | What'd I Miss (0.169) |
-| It's Quiet Uptown (0.796) | Right Hand Man (0.177) |
-| Who Lives, Who Dies, Who Tells Your Story (0.777) | The Schuyler Sisters (0.187) |
+| On My Own (0.967) | The Reynolds Pamphlet (0.0277) |
+| A Little Fall Of Rain (0.955) | Cabinet Battle #2 (0.0582) |
+| Empty Chairs At Empty Tables (0.944) | Ten Duel Commandments (0.0691) |
+| Dear Theodosia (0.907) | Cabinet Battle #1 (0.0859) |
+| Do You Hear The People Sing? (0.886) | Wait for It (0.124) |
+| On My Own (0.883) | My Shot (0.15) |
+| Into the Unknown (0.849) | Washington on Your Side (0.165) |
+| The Story of Tonight (0.835) | What'd I Miss (0.169) |
+| That Would Be Enough (0.819) | Right Hand Man (0.177) |
+| History Has Its Eyes on You (0.803) | The Schuyler Sisters (0.187) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Into the Unknown (0.000544) | Schuyler Defeated (0.0) |
-| Dear Theodosia (4.19e-05) | Baby It's Cold Outside (with Michael Bublé) (0.0) |
-| Empty Chairs At Empty Tables (1.22e-05) | One Last Time (0.0) |
-| Wait for It (4.04e-06) | The Election of 1800 (0.0) |
-| Non-Stop (0.0) | The Story of Tonight (0.0) |
-| Guns and Ships (0.0) | The World Was Wide Enough (0.0) |
-| Who Lives, Who Dies, Who Tells Your Story (0.0) | Do You Hear The People Sing? (0.0) |
-| The Reynolds Pamphlet (0.0) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
-| Yorktown (The World Turned Upside Down) (0.0) | Hurricane (0.0) |
-| The Schuyler Sisters (0.0) | The Story of Tonight - Reprise (0.0) |
+| On My Own (0.000126) | Baby It's Cold Outside (with Michael Bublé) (0.0) |
+| Dear Theodosia (4.19e-05) | One Last Time (0.0) |
+| Empty Chairs At Empty Tables (1.22e-05) | The Election of 1800 (0.0) |
+| A Little Fall Of Rain (6.51e-06) | The Story of Tonight (0.0) |
+| Wait for It (4.04e-06) | The World Was Wide Enough (0.0) |
+| Non-Stop (0.0) | Do You Hear The People Sing? (0.0) |
+| Guns and Ships (0.0) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
+| Who Lives, Who Dies, Who Tells Your Story (0.0) | Hurricane (0.0) |
+| The Reynolds Pamphlet (0.0) | The Story of Tonight - Reprise (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -162,12 +166,12 @@
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Schuyler Defeated (0.842) | Empty Chairs At Empty Tables (0.115) |
-| Ten Duel Commandments (0.828) | Who Lives, Who Dies, Who Tells Your Story (0.156) |
-| The Schuyler Sisters (0.792) | That Would Be Enough (0.185) |
-| The Adams Administration (0.792) | On My Own (0.205) |
-| Helpless (0.737) | It's Quiet Uptown (0.227) |
-| We Know (0.692) | Burn (0.255) |
-| A Winter's Ball (0.688) | History Has Its Eyes on You (0.274) |
-| Blow Us All Away (0.665) | Dear Theodosia (0.274) |
-| The Election of 1800 (0.645) | Into the Unknown (0.274) |
-| Meet Me Inside (0.644) | What Comes Next? (0.277) |
+| Ten Duel Commandments (0.828) | On My Own (0.155) |
+| The Schuyler Sisters (0.792) | Who Lives, Who Dies, Who Tells Your Story (0.156) |
+| The Adams Administration (0.792) | That Would Be Enough (0.185) |
+| Helpless (0.737) | On My Own (0.205) |
+| We Know (0.692) | It's Quiet Uptown (0.227) |
+| A Winter's Ball (0.688) | Burn (0.255) |
+| Blow Us All Away (0.665) | A Little Fall Of Rain (0.264) |
+| The Election of 1800 (0.645) | History Has Its Eyes on You (0.274) |
+| Meet Me Inside (0.644) | Dear Theodosia (0.274) |
