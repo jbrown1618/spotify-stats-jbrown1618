@@ -1,13 +1,13 @@
 # Liked Tracks
 
-[1501 songs](tracks.md)
+[1500 songs](tracks.md)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 48 | 48 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 43 | 43 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 42 | 42 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 37 | 37 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 32 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 26 | 26 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
@@ -164,7 +164,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 5 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 5 | 5 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | 5 | 5 | Queendom - The 6th Mini Album | 2021-08-16 | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 5 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 5 | 5 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 5 | 5 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
@@ -180,6 +179,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 4 | 4 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 4 | 4 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 4 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 4 | 4 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 4 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | 4 | 4 | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 4 | 4 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
@@ -244,9 +244,9 @@
 |---:|---:|:---|
 | 174 | 174 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 87 | 87 | [Republic Records](../../labels/republic_records/overview.md) |
-| 61 | 61 | [Epic](../../labels/epic/overview.md) |
 | 60 | 60 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 60 | 60 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 60 | 60 | [Epic](../../labels/epic/overview.md) |
 | 57 | 57 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 55 | 55 | [Columbia](../../labels/columbia/overview.md) |
 | 51 | 51 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -366,9 +366,9 @@
 | 121 | 121 | [rock](../../genres/rock/overview.md) |
 | 110 | 110 | [dance pop](../../genres/dance_pop/overview.md) |
 | 78 | 78 | [classic rock](../../genres/classic_rock/overview.md) |
-| 58 | 58 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 57 | 57 | [lilith](../../genres/lilith/overview.md) |
-| 55 | 55 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 57 | 57 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 56 | 56 | [lilith](../../genres/lilith/overview.md) |
+| 54 | 54 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 
 
 <details>
@@ -376,8 +376,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 47 | 47 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 46 | 46 | [pop rock](../../genres/pop_rock/overview.md) |
+| 46 | 46 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 45 | 45 | [pop rock](../../genres/pop_rock/overview.md) |
 | 42 | 42 | [modern rock](../../genres/modern_rock/overview.md) |
 | 37 | 37 | [soft rock](../../genres/soft_rock/overview.md) |
 | 37 | 37 | [album rock](../../genres/album_rock/overview.md) |
@@ -491,7 +491,7 @@
 | [2015](2015.md) | 56 |
 | [2014](2014.md) | 44 |
 | [2013](2013.md) | 49 |
-| [2012](2012.md) | 51 |
+| [2012](2012.md) | 50 |
 | [2011](2011.md) | 36 |
 | [2010](2010.md) | 40 |
 | [2009](2009.md) | 29 |
@@ -599,15 +599,15 @@
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | when the party's over (0.978) | The Phantom Of The Opera (7.33e-06) |
-| Bright Lights and Cityscapes (0.977) | Kagerou (3.1e-05) |
-| Mad World (0.976) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
-| Manhattan (0.972) | Poison (9.27e-05) |
-| Nature Boy (0.971) | Let Down (0.000121) |
-| The Night We Met (0.969) | Mr. Simple (0.000219) |
-| I Had a King (0.968) | Tamed-Dashed (0.000253) |
-| The Dawntreader (0.957) | Gimme Chocolate!! (0.000282) |
-| Take It All (0.957) | Oh Sorry Ya (0.000315) |
-| Skinny Love (0.952) | Misery (0.000315) |
+| Mad World (0.976) | Kagerou (3.1e-05) |
+| Manhattan (0.972) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
+| Nature Boy (0.971) | Poison (9.27e-05) |
+| The Night We Met (0.969) | Let Down (0.000121) |
+| I Had a King (0.968) | Mr. Simple (0.000219) |
+| The Dawntreader (0.957) | Tamed-Dashed (0.000253) |
+| Take It All (0.957) | Gimme Chocolate!! (0.000282) |
+| Skinny Love (0.952) | Oh Sorry Ya (0.000315) |
+| Lullabye (Goodnight, My Angel) (0.948) | Misery (0.000315) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

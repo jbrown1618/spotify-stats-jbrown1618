@@ -1,6 +1,6 @@
 # r&b
 
-[42 songs](tracks.md)
+[43 songs](tracks.md)
 
 ## Top Artists
 
@@ -19,12 +19,14 @@
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | 1 | 1 | Robin Thicke | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf4710a4c927b222cfa785257" alt="" width="50" /> | 1 | 0 | Estelle | [🔗](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 1 | 0 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 1 | 0 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
@@ -39,7 +41,7 @@
 </details>
 
 
-![Bar chart of top 22 artists](../../images/genres/r_b/artists.png)
+![Bar chart of top 24 artists](../../images/genres/r_b/artists.png)
 
 ![Comparison of Artist](../../images/genres/r_b/artists_comparison.png)
 ## Top Albums
@@ -59,7 +61,7 @@
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 29 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -73,6 +75,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 0 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | 1 | 0 | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341f88fe3e004e7be469c2ae3" alt="" width="50" /> | 1 | 0 | Shine | 2008-03-31 | [🔗](https://open.spotify.com/album/2zQdtROzQxwRLRbOS4mNx2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | 0 | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | 1 | 0 | Fanmail | 1999-02-23 | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
@@ -85,7 +88,7 @@
 </details>
 
 
-![Bar chart of top 28 albums](../../images/genres/r_b/albums.png)
+![Bar chart of top 29 albums](../../images/genres/r_b/albums.png)
 
 ## Top Record Labels
 
@@ -104,11 +107,12 @@
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 18 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 1 | 1 | Nu America Music |
+| 1 | 0 | Woah Dad! |
 | 1 | 0 | Not So Fast |
 | 1 | 0 | Def Soul |
 | 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
@@ -119,7 +123,7 @@
 </details>
 
 
-![Bar chart of top 17 record labels](../../images/genres/r_b/labels.png)
+![Bar chart of top 18 record labels](../../images/genres/r_b/labels.png)
 
 ## Years
 
@@ -169,14 +173,14 @@
 |:---|:---|
 | Hold Up (0.405) | Ave Maria (0.0279) |
 | Irreplaceable (0.382) | Me & U (0.0294) |
-| So Sick (0.31) | If I Were a Boy (0.0313) |
-| Bootylicious (0.284) | I'd Rather Go Blind (0.032) |
-| Partition (0.283) | Best Thing I Never Had (0.0324) |
-| Cravin (feat. G-Eazy) (0.246) | I Was Here (0.0335) |
-| Crazy In Love (feat. Jay-Z) (0.226) | Man in the Mirror - 2012 Remaster (0.0381) |
-| Daddy Lessons (0.216) | Wet The Bed (feat. Ludacris) (0.0429) |
-| Make Me Feel (0.182) | Beat It (0.0449) |
-| I Don't Mind (feat. Juicy J) (0.178) | Wanna Be Startin' Somethin' (0.0455) |
+| American Boy (0.378) | If I Were a Boy (0.0313) |
+| So Sick (0.31) | I'd Rather Go Blind (0.032) |
+| Bootylicious (0.284) | Best Thing I Never Had (0.0324) |
+| Partition (0.283) | I Was Here (0.0335) |
+| Cravin (feat. G-Eazy) (0.246) | Man in the Mirror - 2012 Remaster (0.0381) |
+| Crazy In Love (feat. Jay-Z) (0.226) | Wet The Bed (feat. Ludacris) (0.0429) |
+| Daddy Lessons (0.216) | Beat It (0.0449) |
+| Make Me Feel (0.182) | Wanna Be Startin' Somethin' (0.0455) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -202,7 +206,7 @@
 | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (0.000868) | Wet The Bed (feat. Ludacris) (0.0) |
 | No Scrubs (0.000717) | Bootylicious (0.0) |
 | Sincerely, Jane (0.000649) | Halo (0.0) |
-| P.Y.T. (Pretty Young Thing) (0.000363) | Countdown (0.0) |
+| P.Y.T. (Pretty Young Thing) (0.000363) | American Boy (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

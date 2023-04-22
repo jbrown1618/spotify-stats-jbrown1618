@@ -44,7 +44,7 @@
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 3 | 0 | Pyotr Ilyich Tchaikovsky | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eae59411940f7fe22c7cf0f" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/7117adc3585d0c275a20343fd6e6d6824e622498" alt="" width="50" /> | 2 | 0 | Richard Marlow | [🔗](https://open.spotify.com/artist/7rrfp80BJeAa0lpBnNgRNK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6d81612f113bff8713ef6975" alt="" width="50" /> | 2 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07c9d549505f2fe573026810" alt="" width="50" /> | 2 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a68a328440fd75546e32b42c" alt="" width="50" /> | 2 | 0 | Gregorio Allegri | [🔗](https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG) |
 | <img src="https://i.scdn.co/image/b1e56021e0af6da7c4dad6e677318c716f66a4c3" alt="" width="50" /> | 2 | 0 | Henry Purcell | [🔗](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq) |
 | <img src="https://i.scdn.co/image/c8a584082d1e4aa421717edb8c149a52daf4da4d" alt="" width="50" /> | 2 | 0 | Thomas Allen | [🔗](https://open.spotify.com/artist/2SFBZgfO2H1nVSgjxzJLUy) |

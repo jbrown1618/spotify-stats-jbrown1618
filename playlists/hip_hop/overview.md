@@ -3,14 +3,14 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27331aafa752187cb0284307200ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[37 songs (18 liked)](tracks.md)
+[38 songs (18 liked)](tracks.md)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 3 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 5 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 6 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 4 | 2 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
@@ -22,7 +22,7 @@
 
 
 <details>
-<summary>See all 42 artists</summary>
+<summary>See all 43 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -48,6 +48,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41e4a3b8c1d45a9e49b6de21" alt="" width="50" /> | 1 | 0 | Marshmello | [🔗](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f9eab124df9f1ff148ebfe5" alt="" width="50" /> | 1 | 0 | Jhené Aiko | [🔗](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf4710a4c927b222cfa785257" alt="" width="50" /> | 1 | 0 | Estelle | [🔗](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63aded6f4bf4d06d1377106" alt="" width="50" /> | 1 | 0 | Lil Wayne | [🔗](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 1 | 0 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e61ab05b365a172d51b5568" alt="" width="50" /> | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
@@ -83,7 +84,7 @@
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -101,6 +102,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="" width="50" /> | 1 | 0 | The College Dropout | 2004-02-10 | [🔗](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="" width="50" /> | 1 | 0 | The Blueprint 3 | 2009-09-08 | [🔗](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="" width="50" /> | 1 | 0 | Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors) | 2016-06-24 | [🔗](https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341f88fe3e004e7be469c2ae3" alt="" width="50" /> | 1 | 0 | Shine | 2008-03-31 | [🔗](https://open.spotify.com/album/2zQdtROzQxwRLRbOS4mNx2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 1 | 0 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | 1 | 0 | Pretty Girls Like Trap Music | 2017-06-16 | [🔗](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) |
@@ -136,7 +138,7 @@
 
 
 <details>
-<summary>See all 34 labels</summary>
+<summary>See all 35 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -150,6 +152,7 @@
 | 1 | 1 | A&M |
 | 1 | 1 | 3H |
 | 4 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
+| 1 | 0 | Woah Dad! |
 | 1 | 0 | Victor Victor Worldwide |
 | 1 | 0 | RocAFella |
 | 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
@@ -187,7 +190,7 @@
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -205,7 +208,9 @@
 | 4 | 0 | east coast hip hop |
 | 3 | 0 | gangster rap |
 | 3 | 0 | dmv rap |
+| 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | new orleans rap |
+| 1 | 0 | neo soul |
 | 1 | 0 | lgbtq+ hip hop |
 | 1 | 0 | k-rap |
 | 1 | 0 | [k-pop](../../genres/k_pop/overview.md) |
@@ -270,13 +275,13 @@
 | United In Grief (0.404) | Everyday (0.0378) |
 | Homicide (feat. Eminem) (0.398) | Can't Tell Me Nothing (0.039) |
 | Empire State Of Mind (0.392) | No Hands (feat. Roscoe Dash & Wale) (0.0391) |
-| WAP (feat. Megan Thee Stallion) (0.375) | 1-800-273-8255 (0.0479) |
-| Dior (0.351) | Get Low (0.067) |
-| Gold Digger (0.348) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
-| Momma I Hit A Lick (feat. Kendrick Lamar) (0.34) | The Monster (0.0715) |
-| Jesus Walks (0.323) | All Of The Lights (0.0717) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.317) | Crank That (Soulja Boy) (0.0786) |
-| Ni**as In Paris (0.311) | We Made You (0.0792) |
+| American Boy (0.378) | 1-800-273-8255 (0.0479) |
+| WAP (feat. Megan Thee Stallion) (0.375) | Get Low (0.067) |
+| Dior (0.351) | INDUSTRY BABY (feat. Jack Harlow) (0.0672) |
+| Gold Digger (0.348) | The Monster (0.0715) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (0.34) | All Of The Lights (0.0717) |
+| Jesus Walks (0.323) | Crank That (Soulja Boy) (0.0786) |
+| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.317) | We Made You (0.0792) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -310,12 +315,12 @@
 | Hello Good Morning (0.669) | INDUSTRY BABY (feat. Jack Harlow) (0.0476) |
 | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.65) | Gold Digger (0.0554) |
 | Super Bass (0.601) | Break Ya Neck (0.0613) |
-| Numb / Encore (0.582) | Everyday (0.0761) |
-| Love The Way You Lie (0.52) | WAP (feat. Megan Thee Stallion) (0.0824) |
-| Empire State Of Mind (0.46) | Alright (0.0827) |
-| Dior (0.408) | Baby Got Back (0.0887) |
-| Lose Yourself (0.365) | on the street (with J. Cole) (0.0921) |
-| Ni**as In Paris (0.349) | Don't Cha (0.0959) |
+| Numb / Encore (0.582) | American Boy (0.07) |
+| Love The Way You Lie (0.52) | Everyday (0.0761) |
+| Empire State Of Mind (0.46) | WAP (feat. Megan Thee Stallion) (0.0824) |
+| Dior (0.408) | Alright (0.0827) |
+| Lose Yourself (0.365) | Baby Got Back (0.0887) |
+| Ni**as In Paris (0.349) | on the street (with J. Cole) (0.0921) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

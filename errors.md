@@ -261,8 +261,8 @@
 | Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 56 |
 | Amazing Grace | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
 | Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 64 |
-| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 67 |
+| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 63 |
+| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
@@ -285,7 +285,7 @@
 | Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 35 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 41 |
+| The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 40 |
 | The Prayer | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | Imagine | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
 | You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
@@ -306,7 +306,7 @@
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
-| Like | 2 Cool 4 Skool | BTS | 1 | 0 | 91 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
@@ -338,7 +338,7 @@
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
-| Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 41 |
+| Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 40 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 52 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
@@ -354,7 +354,7 @@
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 73 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 73 |
 | Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
-| Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 41 |
+| Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 40 |
 | Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
 | Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
@@ -362,6 +362,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
+| Butter | Butter | BTS | 2 | 1 | 91 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 54 |
@@ -380,7 +381,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 51 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 43 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
