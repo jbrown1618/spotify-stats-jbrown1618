@@ -22,8 +22,8 @@
 | Supermassive Black Hole (0.921) | Feeling Good (0.418) |
 | Learn to Fly (0.919) | Between Two Lungs (0.418) |
 | Mr. Brightside (0.911) | Good Riddance (Time of Your Life) (0.432) |
-| Misery Business (0.906) | What Sarah Said (0.439) |
-| Ain't It Fun (0.893) | Little Lion Man (0.481) |
+| Everlong (0.881) | What Sarah Said (0.439) |
+| Delilah (0.87) | Little Lion Man (0.481) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -33,10 +33,10 @@
 | Believer (0.128) | Chasing Cars (0.0274) |
 | Kiss With A Fist (0.114) | Boulevard of Broken Dreams (0.0294) |
 | Heat Waves (0.0944) | Someday (0.0299) |
-| Ain't It Fun (0.0921) | Good Riddance (Time of Your Life) (0.0302) |
-| Dog Days Are Over (0.0788) | Animals (0.0307) |
-| Mr. Brightside (0.0747) | Lover To Lover (0.0309) |
-| Misery Business (0.0735) | Feeling Good (0.0316) |
+| Dog Days Are Over (0.0788) | Good Riddance (Time of Your Life) (0.0302) |
+| Mr. Brightside (0.0747) | Animals (0.0307) |
+| Madness (0.0718) | Lover To Lover (0.0309) |
+| Best of You (0.0696) | Feeling Good (0.0316) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -66,16 +66,16 @@
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Animals (0.696) | Ain't It Fun (0.021) |
-| Radioactive (0.668) | The Pretender (0.028) |
-| Feel Good Inc. (0.613) | Seven Devils (0.0477) |
-| No Light, No Light (0.444) | still feel. (0.0492) |
-| Never Let Me Go (0.383) | Boulevard of Broken Dreams (0.0589) |
-| American Idiot (0.368) | Stressed Out (0.0602) |
-| Someday (0.367) | The Other Side Of Paradise (0.0649) |
-| Lover To Lover (0.347) | Kiss With A Fist (0.0654) |
-| The Adults Are Talking (0.314) | Everlong (0.0805) |
-| Everybody Talks (0.313) | Believer (0.081) |
+| Animals (0.696) | The Pretender (0.028) |
+| Radioactive (0.668) | Seven Devils (0.0477) |
+| Feel Good Inc. (0.613) | still feel. (0.0492) |
+| No Light, No Light (0.444) | Boulevard of Broken Dreams (0.0589) |
+| Never Let Me Go (0.383) | Stressed Out (0.0602) |
+| American Idiot (0.368) | The Other Side Of Paradise (0.0649) |
+| Someday (0.367) | Kiss With A Fist (0.0654) |
+| Lover To Lover (0.347) | Everlong (0.0805) |
+| The Adults Are Talking (0.314) | Believer (0.081) |
+| Everybody Talks (0.313) | HandClap (0.0828) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -83,9 +83,9 @@
 | Feel Good Inc. (0.772) | Free (0.0494) |
 | Reptilia (0.77) | How Big, How Blue, How Beautiful (0.0825) |
 | American Idiot (0.769) | Timshel (0.0954) |
-| Misery Business (0.731) | Chasing Cars (0.144) |
-| Everybody Talks (0.725) | No Light, No Light (0.162) |
-| HandClap (0.715) | What The Water Gave Me (0.184) |
-| still feel. (0.715) | All These Things That I've Done (0.206) |
-| White Winter Hymnal (0.711) | Seven Devils (0.211) |
-| Someday (0.679) | Knights of Cydonia (0.211) |
+| Everybody Talks (0.725) | Chasing Cars (0.144) |
+| HandClap (0.715) | No Light, No Light (0.162) |
+| still feel. (0.715) | What The Water Gave Me (0.184) |
+| White Winter Hymnal (0.711) | All These Things That I've Done (0.206) |
+| Someday (0.679) | Seven Devils (0.211) |
+| Believer (0.666) | Knights of Cydonia (0.211) |

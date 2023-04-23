@@ -44,15 +44,14 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 14 | 10 | [pop](../../genres/pop/overview.md) |
 | 14 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
-| 11 | 7 | [pop](../../genres/pop/overview.md) |
 | 6 | 5 | boy band |
-| 3 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | rap |
 
-![Bar chart of top 7 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 6 genres](../../images/labels/jive/genres.png)
 
 ## Tracks released under Jive
 

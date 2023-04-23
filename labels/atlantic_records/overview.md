@@ -130,7 +130,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 21 | 18 | [pop](../../genres/pop/overview.md) |
-| 16 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
+| 13 | 11 | [dance pop](../../genres/dance_pop/overview.md) |
 | 46 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 41 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 10 | 2 | vocal jazz |

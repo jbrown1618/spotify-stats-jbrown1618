@@ -38,7 +38,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 1 | 1 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 1 | 0 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb589ffbfcd3d3c9daeaffc36c" alt="" width="50" /> | 1 | 0 | Social House | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
@@ -133,10 +133,10 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 125 | 77 | [k-pop](../../genres/k_pop/overview.md) |
+| 101 | 62 | [pop](../../genres/pop/overview.md) |
 | 74 | 49 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 58 | 39 | [pop](../../genres/pop/overview.md) |
 | 51 | 28 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 3 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | uk pop |
 | 1 | 1 | puerto rican pop |
 | 1 | 1 | metropopolis |

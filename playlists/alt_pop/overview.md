@@ -245,14 +245,13 @@
 
 
 <details>
-<summary>See all 54 genres</summary>
+<summary>See all 53 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 9 | 8 | indie pop |
 | 8 | 8 | australian dance |
 | 9 | 7 | etherpop |
-| 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 5 | [lilith](../../genres/lilith/overview.md) |
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |

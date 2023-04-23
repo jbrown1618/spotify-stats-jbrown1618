@@ -53,9 +53,10 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 16 | 14 | [k-pop](../../genres/k_pop/overview.md) |
+| 14 | 12 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 
-
+![Bar chart of top 3 genres](../../images/labels/kakao_entertainment/genres.png)
 
 ## Tracks released under Kakao Entertainment
 

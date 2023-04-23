@@ -130,7 +130,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 60 | 46 | [pop](../../genres/pop/overview.md) |
-| 32 | 27 | [k-pop](../../genres/k_pop/overview.md) |
+| 33 | 28 | [k-pop](../../genres/k_pop/overview.md) |
 | 23 | 19 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 22 | 16 | [art pop](../../genres/art_pop/overview.md) |
 | 11 | 9 | electropop |

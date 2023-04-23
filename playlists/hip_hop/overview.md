@@ -181,9 +181,9 @@
 |---:|---:|:---|
 | 28 | 12 | rap |
 | 22 | 8 | hip hop |
-| 8 | 6 | [pop](../../genres/pop/overview.md) |
-| 7 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
+| 7 | 6 | [pop](../../genres/pop/overview.md) |
 | 7 | 3 | conscious hip hop |
+| 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | detroit hip hop |
 | 5 | 2 | southern hip hop |
 | 5 | 2 | atl hip hop |

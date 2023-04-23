@@ -220,9 +220,9 @@
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
-| 9 | 8 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 8 | piano rock |
+| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 
 
 <details>
@@ -230,7 +230,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
+| 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 6 | heartland rock |
 | 5 | 5 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |

@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 3 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 2 | 2 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 2 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 2 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
 
 <details>
@@ -233,10 +233,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 57 | 40 | [pop](../../genres/pop/overview.md) |
-| 54 | 37 | [dance pop](../../genres/dance_pop/overview.md) |
+| 56 | 39 | [pop](../../genres/pop/overview.md) |
+| 28 | 19 | [dance pop](../../genres/dance_pop/overview.md) |
 | 30 | 18 | [r&b](../../genres/r_b/overview.md) |
-| 25 | 17 | urban contemporary |
+| 24 | 17 | urban contemporary |
 | 12 | 11 | neo soul |
 | 11 | 10 | barbadian pop |
 | 10 | 8 | atl hip hop |
@@ -258,7 +258,6 @@
 | 3 | 2 | canadian contemporary r&b |
 | 2 | 2 | lgbtq+ hip hop |
 | 4 | 1 | memphis soul |
-| 2 | 1 | talent show |
 | 2 | 1 | pop rap |
 | 2 | 1 | hip pop |
 | 1 | 1 | vocal jazz |
@@ -268,6 +267,7 @@
 | 1 | 1 | trap queen |
 | 1 | 1 | torch song |
 | 1 | 1 | thai indie pop |
+| 1 | 1 | talent show |
 | 1 | 1 | soul blues |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | quiet storm |

@@ -361,12 +361,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 658 | 658 | [k-pop](../../genres/k_pop/overview.md) |
-| 331 | 331 | [pop](../../genres/pop/overview.md) |
-| 299 | 299 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 166 | 166 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 698 | 698 | [k-pop](../../genres/k_pop/overview.md) |
+| 381 | 381 | [pop](../../genres/pop/overview.md) |
+| 301 | 301 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 167 | 167 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 121 | 121 | [rock](../../genres/rock/overview.md) |
-| 110 | 110 | [dance pop](../../genres/dance_pop/overview.md) |
+| 78 | 78 | [dance pop](../../genres/dance_pop/overview.md) |
 | 78 | 78 | [classic rock](../../genres/classic_rock/overview.md) |
 | 57 | 57 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 56 | 56 | [lilith](../../genres/lilith/overview.md) |
@@ -378,9 +378,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 46 | 46 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 45 | 45 | [pop rock](../../genres/pop_rock/overview.md) |
-| 42 | 42 | [modern rock](../../genres/modern_rock/overview.md) |
+| 43 | 43 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 40 | 40 | [modern rock](../../genres/modern_rock/overview.md) |
 | 37 | 37 | [soft rock](../../genres/soft_rock/overview.md) |
 | 37 | 37 | [album rock](../../genres/album_rock/overview.md) |
 | 35 | 35 | [mellow gold](../../genres/mellow_gold/overview.md) |
@@ -389,8 +389,8 @@
 | 30 | 30 | british invasion |
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 25 | 25 | [viral pop](../../genres/viral_pop/overview.md) |
 | 25 | 25 | piano rock |
+| 24 | 24 | [viral pop](../../genres/viral_pop/overview.md) |
 | 24 | 24 | heartland rock |
 | 23 | 23 | [r&b](../../genres/r_b/overview.md) |
 | 23 | 23 | electropop |
@@ -443,7 +443,6 @@
 | 7 | 7 | country dawn |
 | 7 | 7 | country |
 | 7 | 7 | contemporary country |
-| 7 | 7 | comic metal |
 | 7 | 7 | chamber pop |
 | 7 | 7 | canadian singer-songwriter |
 | 7 | 7 | british soul |
@@ -468,6 +467,7 @@
 | 4 | 4 | k-indie |
 | 4 | 4 | japanese electropop |
 | 4 | 4 | glam metal |
+| 4 | 4 | escape room |
 
 </details>
 

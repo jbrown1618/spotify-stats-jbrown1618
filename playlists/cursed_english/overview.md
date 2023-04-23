@@ -104,7 +104,7 @@
 | 26 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 18 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 7 | 0 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 3 | 0 | [pop](../../genres/pop/overview.md) |
+| 5 | 0 | [pop](../../genres/pop/overview.md) |
 | 1 | 0 | korean city pop |
 | 1 | 0 | chinese idol pop |
 

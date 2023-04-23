@@ -1,6 +1,6 @@
 # viral pop
 
-[54 songs](tracks.md)
+[53 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,11 +21,10 @@
 
 
 <details>
-<summary>See all 15 artists</summary>
+<summary>See all 14 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090" alt="" width="50" /> | 1 | 1 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
@@ -34,7 +33,7 @@
 </details>
 
 
-![Bar chart of top 15 artists](../../images/genres/viral_pop/artists.png)
+![Bar chart of top 14 artists](../../images/genres/viral_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/viral_pop/artists_comparison.png)
 ## Top Albums
@@ -54,14 +53,13 @@
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 22 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | 1 | 1 | Voicenotes | 2018-05-11 | [🔗](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 1 | 1 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="" width="50" /> | 1 | 1 | Nine Track Mind | 2016-01-29 | [🔗](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | 1 | 1 | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 1 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | 1 | 1 | CHARLIE | 2022-10-06 | [🔗](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) |
@@ -75,7 +73,7 @@
 </details>
 
 
-![Bar chart of top 23 albums](../../images/genres/viral_pop/albums.png)
+![Bar chart of top 22 albums](../../images/genres/viral_pop/albums.png)
 
 ## Top Record Labels
 
@@ -87,24 +85,12 @@
 | 3 | 1 | Island Records |
 | 1 | 1 | [Syco Music](../../labels/syco_music/overview.md) |
 | 1 | 1 | Sony Music Entertainment |
-| 1 | 1 | Silent Records |
-| 1 | 1 | Giant Little Man |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | 1 | Colour Vision Records |
-
-
-<details>
-<summary>See all 12 labels</summary>
-
-| Tracks | 💚 | Label |
-|---:|---:|:---|
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | Shawn Mendes LP4-5 PS |
 
-</details>
-
-
-![Bar chart of top 12 record labels](../../images/genres/viral_pop/labels.png)
+![Bar chart of top 10 record labels](../../images/genres/viral_pop/labels.png)
 
 ## Years
 
@@ -115,10 +101,10 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span>CHARLIE (2022-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> <span>PTX, Vol. 1 (2012-06-26)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="Monster" width="50" /> <span>Monster (2020-11-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="PTXmas (Deluxe Edition)" width="50" /> <span>PTXmas (Deluxe Edition) (2012-11-12)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="Blueberry Eyes (feat. SUGA of BTS)" width="50" /> <span>Blueberry Eyes (feat. SUGA of BTS) (2020-09-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> <span>PTX, Vol. 2 (2013-11-05)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="Romance" width="50" /> <span>Romance (2019-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> <span>The Sound of Silence (2019-02-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span>Is There Anybody Out There? (2014-01-20)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> <span>Christmas Is Here! (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="PTX" width="50" /> <span>PTX (2014-09-19)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="Shawn Mendes" width="50" /> <span>Shawn Mendes (2018-05-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> <span>PTX, Vol. III (2014-09-23)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="Voicenotes" width="50" /> <span>Voicenotes (2018-05-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="Pentatonix (Deluxe Version)" width="50" /> <span>Pentatonix (Deluxe Version) (2015-10-16)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> <span>PTX Presents: Top Pop, Vol. I (2018-04-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That's Christmas To Me (Deluxe Edition)" width="50" /> <span>That's Christmas To Me (Deluxe Edition) (2015-10-30)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> <span>A Pentatonix Christmas Deluxe (2017-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span>Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="Romance" width="50" /> <span>Romance (2019-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> <span>Is There Anybody Out There? (2014-01-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> <span>The Sound of Silence (2019-02-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="PTX" width="50" /> <span>PTX (2014-09-19)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> <span>Christmas Is Here! (2018-10-19)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> <span>PTX, Vol. III (2014-09-23)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="Shawn Mendes" width="50" /> <span>Shawn Mendes (2018-05-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="Pentatonix (Deluxe Version)" width="50" /> <span>Pentatonix (Deluxe Version) (2015-10-16)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="Voicenotes" width="50" /> <span>Voicenotes (2018-05-11)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That's Christmas To Me (Deluxe Edition)" width="50" /> <span>That's Christmas To Me (Deluxe Edition) (2015-10-30)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> <span>PTX Presents: Top Pop, Vol. I (2018-04-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> <span>Blue Neighbourhood (Deluxe) (2015-12-04)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> <span>A Pentatonix Christmas Deluxe (2017-12-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="Nine Track Mind" width="50" /> <span>Nine Track Mind (2016-01-29)</span></div> |

@@ -49,7 +49,7 @@
 | Starry Night (0.656) | DALLA DALLA (0.00116) |
 | Wind flower (0.656) | SWIPE (0.00151) |
 | Moonlight Melody (0.654) | Up & Down (0.00189) |
-| 세가지 소원 Wish Tree (0.643) | Pirate (0.00195) |
+| Cupid (0.652) | Pirate (0.00195) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

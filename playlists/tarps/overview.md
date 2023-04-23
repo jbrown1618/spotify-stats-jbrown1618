@@ -220,16 +220,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 10 | [pop](../../genres/pop/overview.md) |
+| 20 | 11 | [pop](../../genres/pop/overview.md) |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
-| 11 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 6 | 5 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 9 | 4 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
-| 4 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 4 | 3 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 3 | 3 | stomp and holler |
+| 3 | 3 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 
 
 <details>
@@ -237,12 +237,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 3 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 3 | 3 | neo soul |
 | 3 | 3 | merseybeat |
 | 3 | 3 | british invasion |
 | 3 | 3 | beatlesque |
-| 6 | 2 | urban contemporary |
+| 5 | 2 | urban contemporary |
+| 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 2 | pop soul |
 | 3 | 2 | new americana |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -295,9 +295,9 @@
 | 1 | 1 | australian pop |
 | 1 | 1 | australian dance |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
-| 2 | 0 | talent show |
 | 2 | 0 | rock-and-roll |
 | 2 | 0 | [r&b](../../genres/r_b/overview.md) |
+| 1 | 0 | talent show |
 | 1 | 0 | swedish pop |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rhythm and blues |

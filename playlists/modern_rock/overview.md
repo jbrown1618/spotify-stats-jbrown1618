@@ -219,8 +219,8 @@
 | 53 | 32 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 36 | 20 | alternative rock |
-| 32 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
-| 25 | 19 | [pop](../../genres/pop/overview.md) |
+| 26 | 20 | [pop](../../genres/pop/overview.md) |
+| 30 | 18 | [modern rock](../../genres/modern_rock/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
@@ -229,7 +229,7 @@
 
 
 <details>
-<summary>See all 87 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -249,6 +249,7 @@
 | 4 | 2 | gothic metal |
 | 4 | 2 | finnish power metal |
 | 4 | 2 | finnish metal |
+| 4 | 2 | fantasy metal |
 | 3 | 2 | garage rock |
 | 2 | 2 | washington indie |
 | 2 | 2 | stomp and holler |
@@ -264,12 +265,9 @@
 | 4 | 1 | metal |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
-| 3 | 1 | ectofolk |
 | 2 | 1 | thrash metal |
 | 2 | 1 | old school thrash |
 | 2 | 1 | hard rock |
-| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
-| 1 | 1 | teen pop |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | neo-synthpop |
@@ -285,7 +283,6 @@
 | 1 | 1 | indie folk |
 | 1 | 1 | folk-pop |
 | 1 | 1 | electronic rock |
-| 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | cyberpunk |
 | 1 | 1 | canadian rock |
 | 1 | 1 | canadian pop |

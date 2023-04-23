@@ -76,7 +76,6 @@ Appears as:
 |---:|---:|:---|
 | 14 | 12 | [pop](../../genres/pop/overview.md) |
 | 13 | 11 | urban contemporary |
-| 13 | 11 | [dance pop](../../genres/dance_pop/overview.md) |
 | 13 | 11 | barbadian pop |
 | 1 | 1 | canadian pop |
 | 4 | 0 | rap |
@@ -84,14 +83,14 @@ Appears as:
 | 4 | 0 | hip hop |
 | 3 | 0 | dmv rap |
 | 3 | 0 | conscious hip hop |
+| 1 | 0 | trap |
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | trap |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
@@ -100,7 +99,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 15 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 14 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Tracks released under Def Jam Recordings
 

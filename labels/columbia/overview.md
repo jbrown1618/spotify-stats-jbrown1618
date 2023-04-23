@@ -167,20 +167,19 @@ Appears as:
 | 33 | 23 | [classic rock](../../genres/classic_rock/overview.md) |
 | 31 | 22 | [soft rock](../../genres/soft_rock/overview.md) |
 | 31 | 22 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 36 | 21 | [pop](../../genres/pop/overview.md) |
+| 34 | 20 | [pop](../../genres/pop/overview.md) |
 | 27 | 17 | [album rock](../../genres/album_rock/overview.md) |
 | 26 | 17 | heartland rock |
 | 23 | 16 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 22 | 15 | piano rock |
-| 18 | 8 | [dance pop](../../genres/dance_pop/overview.md) |
+| 16 | 8 | [r&b](../../genres/r_b/overview.md) |
 
 
 <details>
-<summary>See all 67 genres</summary>
+<summary>See all 66 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 8 | [r&b](../../genres/r_b/overview.md) |
 | 7 | 6 | folk |
 | 6 | 6 | folk rock |
 | 5 | 5 | melancholia |
@@ -214,6 +213,7 @@ Appears as:
 | 1 | 1 | afro dancehall |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
+| 3 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | bebop |
 | 2 | 0 | lounge |
 | 2 | 0 | easy listening |
@@ -223,7 +223,6 @@ Appears as:
 | 1 | 0 | uk dance |
 | 1 | 0 | traditional country |
 | 1 | 0 | progressive house |
-| 1 | 0 | pop dance |
 | 1 | 0 | outlaw country |
 | 1 | 0 | new americana |
 | 1 | 0 | modern folk rock |

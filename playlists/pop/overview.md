@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 3 | 2 | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 3 | 2 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 3 | 2 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379" alt="" width="50" /> | 3 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 3 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | 2 | 2 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 2 | 2 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
@@ -364,8 +364,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 303 | 217 | [pop](../../genres/pop/overview.md) |
-| 122 | 89 | [dance pop](../../genres/dance_pop/overview.md) |
+| 304 | 219 | [pop](../../genres/pop/overview.md) |
+| 94 | 66 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 18 | uk pop |
 | 23 | 18 | urban contemporary |
@@ -381,15 +381,15 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 12 | 9 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 11 | 9 | [r&b](../../genres/r_b/overview.md) |
 | 11 | 9 | [modern rock](../../genres/modern_rock/overview.md) |
-| 10 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
 | 11 | 7 | canadian pop |
 | 10 | 7 | rap |
+| 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 9 | 7 | [viral pop](../../genres/viral_pop/overview.md) |
 | 9 | 7 | metropopolis |
 | 7 | 7 | alternative r&b |
 | 11 | 6 | british soul |
@@ -428,15 +428,14 @@
 | 2 | 2 | electro |
 | 2 | 2 | colombian pop |
 | 2 | 2 | [adult standards](../../genres/adult_standards/overview.md) |
-| 7 | 1 | pop dance |
 | 7 | 1 | edm |
+| 5 | 1 | pop dance |
 | 3 | 1 | etherpop |
 | 2 | 1 | shiver pop |
 | 2 | 1 | indy indie |
 | 2 | 1 | gauze pop |
 | 1 | 1 | vapor pop |
 | 1 | 1 | thai indie pop |
-| 1 | 1 | teen pop |
 | 1 | 1 | social media pop |
 | 1 | 1 | puerto rican pop |
 | 1 | 1 | proto-hyperpop |
@@ -471,6 +470,7 @@
 | 1 | 0 | wonky |
 | 1 | 0 | urbano latino |
 | 1 | 0 | tropical house |
+| 1 | 0 | trap latino |
 
 </details>
 

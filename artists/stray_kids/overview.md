@@ -63,6 +63,7 @@
 
 - [k-pop](../../genres/k_pop)
 - [k-pop boy group](../../genres/k_pop_boy_group)
+- [pop](../../genres/pop)
 
 ## Tracks
 

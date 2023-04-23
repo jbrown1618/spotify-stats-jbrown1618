@@ -33,9 +33,10 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 18 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 20 | 18 | [k-pop](../../genres/k_pop/overview.md) |
 | 20 | 18 | anime |
 
-
+![Bar chart of top 3 genres](../../images/labels/belift_lab/genres.png)
 
 ## Tracks released under BELIFT LAB
 

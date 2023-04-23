@@ -37,7 +37,6 @@
 
 ## Genres
 
-- [dance pop](../../genres/dance_pop)
 - [pop](../../genres/pop)
 - [r&b](../../genres/r_b)
 

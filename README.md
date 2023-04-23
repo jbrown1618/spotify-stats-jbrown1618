@@ -81,8 +81,8 @@ Top Artists
 | 6 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="50" /> <span>IVE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="TWICE" width="50" /> <span>TWICE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="IU" width="50" /> <span>IU</span></div> |
 | 7 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="aespa" width="50" /> <span>aespa</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="TAEYEON" width="50" /> <span>TAEYEON</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="Stray Kids" width="50" /> <span>Stray Kids</span></div> |
 | 8 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="Billlie" width="50" /> <span>Billlie</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="aespa" width="50" /> <span>aespa</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="TAEYEON" width="50" /> <span>TAEYEON</span></div> |
-| 9 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="ITZY" width="50" /> <span>ITZY</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="50" /> <span>(G)I-DLE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="50" /> <span>(G)I-DLE</span></div> |
-| 10 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="50" /> <span>ENHYPEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="50" /> <span>ENHYPEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="50" /> <span>MAMAMOO</span></div> |
+| 9 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="ITZY" width="50" /> <span>ITZY</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="50" /> <span>(G)I-DLE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="50" /> <span>MAMAMOO</span></div> |
+| 10 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="50" /> <span>ENHYPEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="50" /> <span>ENHYPEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="50" /> <span>(G)I-DLE</span></div> |
 
 
 <details>
@@ -94,19 +94,19 @@ Top Artists
 | 12 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="50" /> <span>MAMAMOO</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="50" /> <span>STAYC</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb848461f60f0f337dadbf396f" alt="aespa" width="50" /> <span>aespa</span></div> |
 | 13 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="BLACKPINK" width="50" /> <span>BLACKPINK</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="NCT 127" width="50" /> <span>NCT 127</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="SEVENTEEN" width="50" /> <span>SEVENTEEN</span></div> |
 | 14 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="50" /> <span>Girls' Generation</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="NewJeans" width="50" /> <span>NewJeans</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="50" /> <span>ENHYPEN</span></div> |
-| 15 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="50" /> <span>STAYC</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="GOT the beat" width="50" /> <span>GOT the beat</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="50" /> <span>Girls' Generation</span></div> |
-| 16 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="50" /> <span>(G)I-DLE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="50" /> <span>MAMAMOO</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="LeeHi" width="50" /> <span>LeeHi</span></div> |
-| 17 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="NMIXX" width="50" /> <span>NMIXX</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="Billlie" width="50" /> <span>Billlie</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="50" /> <span>CHUNG HA</span></div> |
-| 18 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="LeeHi" width="50" /> <span>LeeHi</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="50" /> <span>IVE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="EXO" width="50" /> <span>EXO</span></div> |
-| 19 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="SEVENTEEN" width="50" /> <span>SEVENTEEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="LE SSERAFIM" width="50" /> <span>LE SSERAFIM</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="NCT 127" width="50" /> <span>NCT 127</span></div> |
-| 20 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="HEIZE" width="50" /> <span>HEIZE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="50" /> <span>CHUNG HA</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="EVERGLOW" width="50" /> <span>EVERGLOW</span></div> |
-| 21 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="NewJeans" width="50" /> <span>NewJeans</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="BTS" width="50" /> <span>BTS</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="50" /> <span>IVE</span></div> |
-| 22 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="WENDY" width="50" /> <span>WENDY</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="SEULGI" width="50" /> <span>SEULGI</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="Sara Bareilles" width="50" /> <span>Sara Bareilles</span></div> |
-| 23 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="NCT DREAM" width="50" /> <span>NCT DREAM</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="Taylor Swift" width="50" /> <span>Taylor Swift</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="50" /> <span>STAYC</span></div> |
-| 24 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="50" /> <span>CHUNG HA</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="NMIXX" width="50" /> <span>NMIXX</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="NCT DREAM" width="50" /> <span>NCT DREAM</span></div> |
-| 25 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="BTS" width="50" /> <span>BTS</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="SEVENTEEN" width="50" /> <span>SEVENTEEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="Pentatonix" width="50" /> <span>Pentatonix</span></div> |
-| 26 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="EXO" width="50" /> <span>EXO</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="Jackson Wang" width="50" /> <span>Jackson Wang</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="Dreamcatcher" width="50" /> <span>Dreamcatcher</span></div> |
-| 27 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="AKMU" width="50" /> <span>AKMU</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="50" /> <span>Girls' Generation</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="Billlie" width="50" /> <span>Billlie</span></div> |
+| 15 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="50" /> <span>STAYC</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="50" /> <span>MAMAMOO</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="50" /> <span>Girls' Generation</span></div> |
+| 16 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="50" /> <span>(G)I-DLE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="Billlie" width="50" /> <span>Billlie</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="LeeHi" width="50" /> <span>LeeHi</span></div> |
+| 17 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="NMIXX" width="50" /> <span>NMIXX</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="50" /> <span>IVE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="50" /> <span>CHUNG HA</span></div> |
+| 18 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="LeeHi" width="50" /> <span>LeeHi</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="LE SSERAFIM" width="50" /> <span>LE SSERAFIM</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="EXO" width="50" /> <span>EXO</span></div> |
+| 19 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="SEVENTEEN" width="50" /> <span>SEVENTEEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="50" /> <span>CHUNG HA</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="NCT 127" width="50" /> <span>NCT 127</span></div> |
+| 20 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="HEIZE" width="50" /> <span>HEIZE</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="BTS" width="50" /> <span>BTS</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="EVERGLOW" width="50" /> <span>EVERGLOW</span></div> |
+| 21 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="NewJeans" width="50" /> <span>NewJeans</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="SEULGI" width="50" /> <span>SEULGI</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="50" /> <span>IVE</span></div> |
+| 22 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="WENDY" width="50" /> <span>WENDY</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="Taylor Swift" width="50" /> <span>Taylor Swift</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="Sara Bareilles" width="50" /> <span>Sara Bareilles</span></div> |
+| 23 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="NCT DREAM" width="50" /> <span>NCT DREAM</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="NMIXX" width="50" /> <span>NMIXX</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="50" /> <span>STAYC</span></div> |
+| 24 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="50" /> <span>CHUNG HA</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="SEVENTEEN" width="50" /> <span>SEVENTEEN</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="NCT DREAM" width="50" /> <span>NCT DREAM</span></div> |
+| 25 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="BTS" width="50" /> <span>BTS</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="Jackson Wang" width="50" /> <span>Jackson Wang</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="Pentatonix" width="50" /> <span>Pentatonix</span></div> |
+| 26 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="EXO" width="50" /> <span>EXO</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="50" /> <span>Girls' Generation</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="Dreamcatcher" width="50" /> <span>Dreamcatcher</span></div> |
+| 27 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="AKMU" width="50" /> <span>AKMU</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="GOT the beat" width="50" /> <span>GOT the beat</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="Billlie" width="50" /> <span>Billlie</span></div> |
 | 28 | <div><img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="Florence + The Machine" width="50" /> <span>Florence + The Machine</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="Sara Bareilles" width="50" /> <span>Sara Bareilles</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="WENDY" width="50" /> <span>WENDY</span></div> |
 | 29 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="BABYMETAL" width="50" /> <span>BABYMETAL</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="Radiohead" width="50" /> <span>Radiohead</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="JEON SOYEON" width="50" /> <span>JEON SOYEON</span></div> |
 | 30 | <div><img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="SUNMI" width="50" /> <span>SUNMI</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="NCT DREAM" width="50" /> <span>NCT DREAM</span></div> | <div><img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="LE SSERAFIM" width="50" /> <span>LE SSERAFIM</span></div> |
@@ -318,12 +318,12 @@ Top Artists
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 936 | 658 | [k-pop](genres/k_pop/overview.md) |
-| 498 | 331 | [pop](genres/pop/overview.md) |
-| 417 | 299 | [k-pop girl group](genres/k_pop_girl_group/overview.md) |
-| 255 | 166 | [k-pop boy group](genres/k_pop_boy_group/overview.md) |
+| 985 | 698 | [k-pop](genres/k_pop/overview.md) |
+| 571 | 381 | [pop](genres/pop/overview.md) |
+| 419 | 301 | [k-pop girl group](genres/k_pop_girl_group/overview.md) |
+| 256 | 167 | [k-pop boy group](genres/k_pop_boy_group/overview.md) |
 | 199 | 121 | [rock](genres/rock/overview.md) |
-| 172 | 110 | [dance pop](genres/dance_pop/overview.md) |
+| 126 | 78 | [dance pop](genres/dance_pop/overview.md) |
 | 126 | 78 | [classic rock](genres/classic_rock/overview.md) |
 | 88 | 57 | [neo mellow](genres/neo_mellow/overview.md) |
 | 87 | 56 | [lilith](genres/lilith/overview.md) |
@@ -335,9 +335,9 @@ Top Artists
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 71 | 46 | [post-teen pop](genres/post_teen_pop/overview.md) |
 | 69 | 45 | [pop rock](genres/pop_rock/overview.md) |
-| 62 | 42 | [modern rock](genres/modern_rock/overview.md) |
+| 68 | 43 | [post-teen pop](genres/post_teen_pop/overview.md) |
+| 60 | 40 | [modern rock](genres/modern_rock/overview.md) |
 | 69 | 37 | [album rock](genres/album_rock/overview.md) |
 | 64 | 37 | [soft rock](genres/soft_rock/overview.md) |
 | 59 | 35 | [mellow gold](genres/mellow_gold/overview.md) |
@@ -346,8 +346,8 @@ Top Artists
 | 39 | 30 | british invasion |
 | 55 | 27 | [permanent wave](genres/permanent_wave/overview.md) |
 | 47 | 27 | [singer-songwriter](genres/singer_songwriter/overview.md) |
-| 54 | 25 | [viral pop](genres/viral_pop/overview.md) |
 | 39 | 25 | piano rock |
+| 53 | 24 | [viral pop](genres/viral_pop/overview.md) |
 | 39 | 24 | heartland rock |
 | 43 | 23 | [r&b](genres/r_b/overview.md) |
 | 35 | 23 | electropop |
@@ -357,7 +357,7 @@ Top Artists
 | 29 | 22 | korean pop |
 | 36 | 20 | alternative rock |
 | 35 | 20 | uk pop |
-| 31 | 19 | urban contemporary |
+| 30 | 19 | urban contemporary |
 | 29 | 19 | anime |
 | 21 | 19 | melancholia |
 | 31 | 18 | hard rock |
@@ -402,13 +402,12 @@ Top Artists
 | 9 | 7 | kawaii metal |
 | 9 | 7 | j-metal |
 | 9 | 7 | idol rock |
-| 9 | 7 | comic metal |
 | 9 | 7 | canadian singer-songwriter |
 | 9 | 7 | boy band |
 | 7 | 7 | alternative r&b |
 | 13 | 6 | pop soul |
-| 10 | 6 | talent show |
 | 9 | 6 | uk dance |
+| 9 | 6 | talent show |
 | 9 | 6 | stomp and holler |
 | 7 | 6 | la indie |
 | 6 | 6 | filter house |
@@ -425,6 +424,7 @@ Top Artists
 | 5 | 4 | korean talent show |
 | 5 | 4 | k-indie |
 | 5 | 4 | glam metal |
+| 5 | 4 | escape room |
 
 </details>
 

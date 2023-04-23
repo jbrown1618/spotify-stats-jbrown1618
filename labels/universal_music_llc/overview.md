@@ -117,7 +117,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 30 | 17 | [k-pop](../../genres/k_pop/overview.md) |
+| 31 | 18 | [k-pop](../../genres/k_pop/overview.md) |
 | 17 | 11 | [pop](../../genres/pop/overview.md) |
 | 18 | 8 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 6 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -136,7 +136,6 @@ Appears as:
 |---:|---:|:---|
 | 2 | 2 | j-pop girl group |
 | 2 | 2 | j-idol |
-| 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | bitpop |
 | 2 | 1 | anime |
 | 1 | 1 | uk pop |
@@ -144,6 +143,7 @@ Appears as:
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | japanese teen pop |
 | 1 | 1 | indietronica |
+| 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 
 </details>
 

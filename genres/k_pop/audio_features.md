@@ -42,14 +42,14 @@
 |:---|:---|
 | Silent Night (0.92) | Easy (0.000219) |
 | 그대라는 시 (0.914) | Mr. Simple (0.000219) |
-| How can I love the heartbreak, you're the one I love (0.91) | Cyberpunk (0.000265) |
-| The Magic of Christmas Time (0.898) | Oh Sorry Ya (0.000315) |
-| ONLY (0.892) | Red Light (0.000457) |
-| 내 맘을 볼 수 있나요 (0.884) | Adios (0.000588) |
-| Deep end (Felix) (0.879) | HALAZIA (0.000677) |
-| Boy in time - HUI Solo (0.876) | Cherry Bomb (0.000759) |
-| THE CHRISTMAS SONG (0.874) | Favorite (Vampire) (0.000831) |
-| Goodbye (0.861) | RUN2U (0.000835) |
+| How can I love the heartbreak, you're the one I love (0.91) | Tamed-Dashed (0.000253) |
+| The Magic of Christmas Time (0.898) | Cyberpunk (0.000265) |
+| ONLY (0.892) | Oh Sorry Ya (0.000315) |
+| 내 맘을 볼 수 있나요 (0.884) | Red Light (0.000457) |
+| Deep end (Felix) (0.879) | Attention, please! (0.000483) |
+| Boy in time - HUI Solo (0.876) | Adios (0.000588) |
+| THE CHRISTMAS SONG (0.874) | HALAZIA (0.000677) |
+| Goodbye (0.861) | Drunk-Dazed (0.000707) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -74,8 +74,8 @@
 | I Like That (0.737) | YEPPI YEPPI (0.029) |
 | 행복 (Happiness) (0.725) | Holiday Party (0.0294) |
 | LP (0.714) | Ice Cream (with Selena Gomez) (0.0311) |
-| Genie (0.714) | Up! (0.0326) |
-| NUNU NANA (0.708) | Beatbox (0.0334) |
+| Genie (0.714) | POP! (0.0321) |
+| NUNU NANA (0.708) | Up! (0.0326) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

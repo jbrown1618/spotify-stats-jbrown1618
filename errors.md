@@ -306,8 +306,8 @@
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
-| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
-| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 91 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
+| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 62 |
@@ -327,9 +327,9 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 79 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 59 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 91 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 56 |
 | Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
 | Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
@@ -347,8 +347,8 @@
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
 | Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 51 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 91 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 91 |
+| War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
+| Danger | Dark & Wild | BTS | 0 | 0 | 90 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 73 |
@@ -362,7 +362,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
-| Butter | Butter | BTS | 2 | 1 | 91 |
+| Butter | Butter | BTS | 2 | 1 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 54 |
@@ -397,11 +397,11 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 63 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 91 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 56 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 91 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 77 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |

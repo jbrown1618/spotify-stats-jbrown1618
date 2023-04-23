@@ -329,11 +329,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 127 | 126 | [k-pop](../../genres/k_pop/overview.md) |
+| 135 | 134 | [k-pop](../../genres/k_pop/overview.md) |
 | 73 | 73 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 57 | 55 | [pop](../../genres/pop/overview.md) |
+| 65 | 63 | [pop](../../genres/pop/overview.md) |
 | 43 | 42 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 20 | 19 | [dance pop](../../genres/dance_pop/overview.md) |
+| 14 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [modern rock](../../genres/modern_rock/overview.md) |
 | 6 | 6 | anime |
 | 6 | 5 | kawaii metal |
@@ -342,11 +342,10 @@
 
 
 <details>
-<summary>See all 64 genres</summary>
+<summary>See all 63 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 6 | 5 | comic metal |
 | 5 | 5 | urban contemporary |
 | 4 | 4 | [rock](../../genres/rock/overview.md) |
 | 4 | 4 | barbadian pop |

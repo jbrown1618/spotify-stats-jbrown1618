@@ -101,13 +101,13 @@ Appears as:
 | 22 | 12 | [pop](../../genres/pop/overview.md) |
 | 17 | 9 | [art pop](../../genres/art_pop/overview.md) |
 | 6 | 3 | uk pop |
-| 6 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 5 | 2 | indietronica |
 | 4 | 2 | metropopolis |
 | 2 | 2 | [rock](../../genres/rock/overview.md) |
 | 2 | 2 | hard rock |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | british invasion |
+| 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 
 
 <details>
@@ -115,8 +115,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 3 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
+| 2 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | uk alternative pop |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | disco |

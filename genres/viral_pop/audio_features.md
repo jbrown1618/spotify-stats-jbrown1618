@@ -16,14 +16,14 @@
 |:---|:---|
 | Finesse (0.836) | Run to You (0.0622) |
 | There's Nothing Holdin' Me Back (0.813) | Say Something (0.147) |
-| Me And My Broken Heart (0.783) | Over The Rainbow (0.155) |
-| Hey Momma / Hit the Road Jack (0.767) | Can't Help Falling In Love (0.16) |
-| Aha! (0.761) | Standing By (0.246) |
-| YOUTH (0.737) | Say Something (0.248) |
-| In My Blood (0.712) | Imagine (0.287) |
-| Natural Disaster (0.71) | Mary, Did You Know? (0.312) |
-| Starships (0.681) | O Come, O Come Emmanuel (0.329) |
-| Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.673) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.355) |
+| Hey Momma / Hit the Road Jack (0.767) | Over The Rainbow (0.155) |
+| Aha! (0.761) | Can't Help Falling In Love (0.16) |
+| YOUTH (0.737) | Standing By (0.246) |
+| In My Blood (0.712) | Say Something (0.248) |
+| Natural Disaster (0.71) | Imagine (0.287) |
+| Starships (0.681) | Mary, Did You Know? (0.312) |
+| Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.673) | O Come, O Come Emmanuel (0.329) |
+| We Are Young (0.639) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.355) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -42,14 +42,14 @@
 |:---|:---|
 | Run to You (0.858) | I Need Your Love (0.00319) |
 | Say Something (0.857) | Daft Punk (0.00403) |
-| Valentine (0.806) | Me And My Broken Heart (0.00489) |
-| The Christmas Song (Chestnuts Roasting on an Open Fire) (0.755) | The Baddest Girl (0.00637) |
-| Can't Help Falling In Love (0.729) | Starships (0.0176) |
-| O Come, O Come Emmanuel (0.725) | We Are Young (0.02) |
-| Say Something (0.71) | Hey Momma / Hit the Road Jack (0.0214) |
-| Imagine (0.697) | Show You How to Love (0.0304) |
-| Over The Rainbow (0.651) | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) (0.033) |
-| We Don't Talk Anymore (feat. Selena Gomez) (0.621) | See Through (0.0362) |
+| Valentine (0.806) | The Baddest Girl (0.00637) |
+| The Christmas Song (Chestnuts Roasting on an Open Fire) (0.755) | Starships (0.0176) |
+| Can't Help Falling In Love (0.729) | We Are Young (0.02) |
+| O Come, O Come Emmanuel (0.725) | Hey Momma / Hit the Road Jack (0.0214) |
+| Say Something (0.71) | Show You How to Love (0.0304) |
+| Imagine (0.697) | La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup) (0.033) |
+| Over The Rainbow (0.651) | See Through (0.0362) |
+| We Don't Talk Anymore (feat. Selena Gomez) (0.621) | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.0373) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|

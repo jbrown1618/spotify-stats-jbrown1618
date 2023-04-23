@@ -80,7 +80,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 39 | 27 | [k-pop](../../genres/k_pop/overview.md) |
+| 41 | 28 | [k-pop](../../genres/k_pop/overview.md) |
 | 34 | 23 | [pop](../../genres/pop/overview.md) |
 | 34 | 23 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 11 | 8 | k-rap |

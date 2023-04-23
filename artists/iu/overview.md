@@ -64,6 +64,7 @@
 ## Genres
 
 - [k-pop](../../genres/k_pop)
+- [pop](../../genres/pop)
 
 ## Tracks
 

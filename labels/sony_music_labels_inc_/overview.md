@@ -71,6 +71,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 2 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 8 | 1 | j-pop |
@@ -80,14 +81,14 @@ Appears as:
 | 2 | 0 | j-rock |
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
-| 1 | 0 | renaissance |
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 0 | renaissance |
 | 1 | 0 | japanese post-hardcore |
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
@@ -103,7 +104,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 genres](../../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 22 genres](../../images/labels/sony_music_labels_inc_/genres.png)
 
 ## Tracks released under Sony Music Labels Inc.
 

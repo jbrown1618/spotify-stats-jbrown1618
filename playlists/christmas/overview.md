@@ -286,10 +286,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 34 | 7 | [k-pop](../../genres/k_pop/overview.md) |
+| 35 | 7 | [k-pop](../../genres/k_pop/overview.md) |
+| 21 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 16 | 1 | [pop](../../genres/pop/overview.md) |
 | 14 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 12 | 0 | lounge |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |

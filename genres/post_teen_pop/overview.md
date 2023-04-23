@@ -1,6 +1,6 @@
 # post-teen pop
 
-[71 songs](tracks.md)
+[68 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -9,7 +9,6 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 59 | 40 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | 3 | 3 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6659b1cb61936bd7bcb229a2" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
@@ -18,14 +17,14 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | 1 | 0 | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | 1 | 0 | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
 
 
 <details>
-<summary>See all 14 artists</summary>
+<summary>See all 13 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | 1 | 0 | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee452efcf24aa4124fb28d94" alt="" width="50" /> | 1 | 0 | A$AP Rocky | [🔗](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -33,7 +32,7 @@
 </details>
 
 
-![Bar chart of top 14 artists](../../images/genres/post_teen_pop/artists.png)
+![Bar chart of top 13 artists](../../images/genres/post_teen_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/post_teen_pop/artists_comparison.png)
 ## Top Albums
@@ -46,18 +45,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 4 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 3 | 3 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 2 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | 1 | 1 | Low Key (feat. Tyga) | 2019-01-31 | [🔗](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | 1 | 1 | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | 1 | 1 | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
 
 
 <details>
-<summary>See all 16 albums</summary>
+<summary>See all 15 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | 1 | 1 | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="" width="50" /> | 1 | 0 | Revival (Deluxe) | 2015-10-09 | [🔗](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | 1 | 0 | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | 1 | 0 | Hot Mess | 2009-07-07 | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
@@ -67,14 +65,13 @@
 </details>
 
 
-![Bar chart of top 16 albums](../../images/genres/post_teen_pop/albums.png)
+![Bar chart of top 15 albums](../../images/genres/post_teen_pop/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 59 | 40 | [Epic](../../labels/epic/overview.md) |
-| 3 | 3 | [Jive](../../labels/jive/overview.md) |
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 1 | Silent Records |
 | 1 | 1 | Latium |
@@ -83,20 +80,20 @@
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | Selena Gomez PS |
 | 1 | 0 | Fueled By Ramen |
+| 1 | 0 | Decaydance |
 
 
 <details>
-<summary>See all 12 labels</summary>
+<summary>See all 11 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 0 | Decaydance |
 | 1 | 0 | 19 Recordings Limited |
 
 </details>
 
 
-![Bar chart of top 12 record labels](../../images/genres/post_teen_pop/labels.png)
+![Bar chart of top 11 record labels](../../images/genres/post_teen_pop/labels.png)
 
 ## Years
 
@@ -104,13 +101,13 @@
 
 | 10 newest albums | 10 oldest albums |
 |:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> <span>Amidst the Chaos (Bonus Version) (2019-05-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span>No Strings Attached (2000-03-21)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="Low Key (feat. Tyga)" width="50" /> <span>Low Key (feat. Tyga) (2019-01-31)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> <span>Little Voice (2007-07-03)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span>What's Inside: Songs from Waitress (2015-11-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> <span>Jordin Sparks (2007-11-20)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> <span>Revival (Deluxe) (2015-10-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> <span>Hot Mess (2009-07-07)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="Confident" width="50" /> <span>Confident (2015-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span>Tangled (2010-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> <span>Kaleidoscope Heart (2010-09-07)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span>Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> <span>Once Upon Another Time (2012-05-22)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span>The Blessed Unrest (2013-07-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> <span>Demi (2013-01-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> <span>Demi (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span>The Blessed Unrest (2013-07-16)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> <span>Once Upon Another Time (2012-05-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span>Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> <span>Amidst the Chaos (Bonus Version) (2019-05-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> <span>Little Voice (2007-07-03)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="Low Key (feat. Tyga)" width="50" /> <span>Low Key (feat. Tyga) (2019-01-31)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> <span>Jordin Sparks (2007-11-20)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What's Inside: Songs from Waitress" width="50" /> <span>What's Inside: Songs from Waitress (2015-11-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> <span>Hot Mess (2009-07-07)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> <span>Revival (Deluxe) (2015-10-09)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> <span>Tangled (2010-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="Confident" width="50" /> <span>Confident (2015-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> <span>Kaleidoscope Heart (2010-09-07)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> <span>Once Upon Another Time (2012-05-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span>Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> <span>Demi (2013-01-01)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span>The Blessed Unrest (2013-07-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> <span>The Blessed Unrest (2013-07-16)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> <span>Demi (2013-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> <span>Brave Enough: Live at the Variety Playhouse (2013-10-22)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> <span>Once Upon Another Time (2012-05-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> <span>Let The Road (2014-01-01)</span></div> |

@@ -324,20 +324,19 @@
 | 8 | 6 | kawaii metal |
 | 8 | 6 | j-metal |
 | 8 | 6 | idol rock |
-| 8 | 6 | comic metal |
 | 9 | 4 | latin pop |
-| 7 | 4 | [pop](../../genres/pop/overview.md) |
 | 4 | 4 | japanese electropop |
+| 6 | 3 | [pop](../../genres/pop/overview.md) |
 | 6 | 3 | japanese teen pop |
 | 6 | 3 | indonesian pop |
+| 3 | 3 | sunnlensk tonlist |
 
 
 <details>
-<summary>See all 90 genres</summary>
+<summary>See all 89 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 3 | sunnlensk tonlist |
 | 3 | 3 | icelandic pop |
 | 6 | 2 | anime rock |
 | 5 | 2 | japanese singer-songwriter |
