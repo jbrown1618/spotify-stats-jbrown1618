@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="Sara Bareilles" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

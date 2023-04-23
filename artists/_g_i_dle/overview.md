@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -12,6 +14,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 4 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | 3 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 3 | [Cursed English](../../playlists/cursed_english/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 2 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 ## Top Albums
 

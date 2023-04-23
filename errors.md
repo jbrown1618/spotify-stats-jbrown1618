@@ -318,7 +318,7 @@
 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 40 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 39 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 40 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
 | Elastic Heart | RISE | The Nor'easters | 0 | 0 | 32 |
@@ -366,7 +366,7 @@
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 54 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 57 |
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
@@ -390,8 +390,8 @@
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 55 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 76 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 0 | 75 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 0 | 76 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 55 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |

@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="Lin-Manuel Miranda" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

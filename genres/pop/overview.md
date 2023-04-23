@@ -2,6 +2,8 @@
 
 [498 songs](tracks.md)
 
+[See Audio Features](audio_features.md)
+
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
@@ -50,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 4 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 4 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20f403024d10bdf47bc00194" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | 4 | 2 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 4 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -98,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9bc0756eb16b241111bbc72b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb73462adec54d5201d5a4bf09" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
@@ -358,95 +360,3 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> <span>Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> <span>Survivor (2001-05-01)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> <span>Guitar Songs (2022-07-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span>Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> <span>Proof (2022-06-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="Songs About Jane: 10th Anniversary Edition" width="50" /> <span>Songs About Jane: 10th Anniversary Edition (2002)</span></div> |
-## Audio Features
-
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| SexyBack (feat. Timbaland) (0.967) | Born To Die (0.18) |
-| Anaconda (0.964) | Already Gone (0.209) |
-| WAP (feat. Megan Thee Stallion) (0.935) | Fix You (0.209) |
-| Typa Girl (0.915) | Norman fucking Rockwell (0.215) |
-| Pretty Please (0.906) | Shades Of Cool (0.262) |
-| bury a friend (0.905) | La Vie En Rose (0.276) |
-| Sally Walker (0.905) | exile (feat. Bon Iver) (0.298) |
-| Coño (0.899) | Radio (0.312) |
-| Scandal (0.898) | tolerate it (0.316) |
-| I Think He Knows (0.897) | Young And Beautiful (0.324) |
-
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| War of Hormone (0.993) | when the party's over (0.111) |
-| Larger Than Life (0.973) | xanny (0.125) |
-| Feel Special (0.959) | Julia (0.128) |
-| Boss Bitch (0.955) | Come Home (0.155) |
-| Forever Young (0.949) | Sweet Nothing (0.156) |
-| Boy in Luv (0.947) | Have Yourself A Merry Little Christmas (0.178) |
-| Heart Shaker (0.944) | Your Song (0.195) |
-| My Happy Ending (0.936) | Norman fucking Rockwell (0.203) |
-| This Is What You Came For (0.927) | No Time To Die (0.219) |
-| See U Later (0.926) | everything i wanted (0.225) |
-
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| No More Dream (0.472) | Breakeven (0.0242) |
-| Youngblood (0.463) | All Too Well (0.0243) |
-| boyfriend (with Social House) (0.461) | The Scientist (0.0243) |
-| Hold Up (0.405) | Set Fire to the Rain (0.0249) |
-| Vigilante Shit (0.39) | Chasing Pavements (0.0251) |
-| Irreplaceable (0.382) | Show Me the Meaning of Being Lonely (0.0252) |
-| WAP (feat. Megan Thee Stallion) (0.375) | Put A Little Love On Me (0.0262) |
-| bad guy (0.375) | Begin Again (0.0263) |
-| Ice Cream (with Selena Gomez) (0.365) | no body, no crime (feat. HAIM) (0.0264) |
-| Bubblegum (feat. Tyga) (0.34) | Paradise (0.0268) |
-
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| when the party's over (0.978) | Sk8er Boi (6.79e-05) |
-| Norman fucking Rockwell (0.968) | Pon de Replay (0.000155) |
-| Sweet Nothing (0.964) | Misery (0.000315) |
-| Have Yourself A Merry Little Christmas (0.957) | Coño (0.000554) |
-| Take It All (0.957) | Danger (0.000907) |
-| Come Home (0.947) | Out Of The Woods (0.00103) |
-| Stay (0.945) | My Happy Ending (0.00136) |
-| Your Song (0.936) | Blinding Lights (0.00146) |
-| lovely (with Khalid) (0.934) | Maniac (0.00162) |
-| When I Was Your Man (0.932) | Butter (Holiday Remix) (0.00188) |
-
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| everything i wanted (0.657) | Sk8er Boi (0.0) |
-| Swan Song (0.421) | Leave The Door Open (0.0) |
-| you should see me in a crown (0.219) | Clean (0.0) |
-| bury a friend (0.162) | This Is Why We Can't Have Nice Things (0.0) |
-| GOLDWING (0.159) | Shut Down (0.0) |
-| Therefore I Am (0.135) | SCIENTIST (0.0) |
-| bad guy (0.13) | Love Me Like You Do (0.0) |
-| This Is What You Came For (0.119) | React (0.0) |
-| Bel Air (0.0875) | TiK ToK (0.0) |
-| Partition (0.0707) | Jar of Hearts (0.0) |
-
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Bel Air (0.901) | Ain't It Fun (0.021) |
-| La Vie En Rose (0.706) | Finesse - Remix; feat. Cardi B (0.0215) |
-| Radioactive (0.668) | Finesse (0.0232) |
-| What Now (0.628) | Oh My God (0.0264) |
-| Typa Girl (0.628) | Ice Cream (with Selena Gomez) (0.0311) |
-| FANCY (0.627) | Flowers (0.0322) |
-| Larger Than Life (0.617) | Run BTS (0.0358) |
-| Love On Top (0.604) | One Step At a Time (0.0384) |
-| Super Bass (0.601) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
-| See U Later (0.582) | I Knew You Were Trouble. (0.0398) |
-
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Material Girl (0.978) | Maroon (0.0374) |
-| Like a Virgin (0.97) | Swan Song (0.0392) |
-| There's Nothing Holdin' Me Back (0.969) | Delicate (0.0499) |
-| SexyBack (feat. Timbaland) (0.964) | No Time To Die (0.0517) |
-| I'm a Slave 4 U (0.963) | xanny (0.0528) |
-| Sucker (0.952) | Falling (0.0592) |
-| Me Enamoré (0.948) | Yellow Flicker Beat (0.0597) |
-| Really (0.947) | I'll Show You (0.0789) |
-| Tick Tock (feat. 24kGoldn) (0.946) | Skyfall (0.0789) |
-| Peacock (0.945) | Dress (0.0851) |

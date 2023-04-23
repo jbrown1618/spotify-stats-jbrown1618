@@ -2,6 +2,8 @@
 
 47 songs
 
+[See Audio Features](audio_features.md)
+
 Appears as:
 - BIGHIT MUSIC (36 tracks)
 - BIGHIT MUSIC / HYBE (11 tracks)
@@ -11,7 +13,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 34 | 23 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb365158d123c641da282b2433" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 6 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 4 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 2 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f97c0f27aa7ae7f8351e47a" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |

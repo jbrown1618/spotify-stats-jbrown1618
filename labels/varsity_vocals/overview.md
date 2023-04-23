@@ -2,6 +2,8 @@
 
 59 songs
 
+[See Audio Features](audio_features.md)
+
 Appears as:
 - Varsity Vocals (59 tracks)
 
@@ -57,7 +59,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd55a2b176b231382b54f5e33" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd6758093c92bc8d0c21ba72" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb205fd3a3b91de152e22a7078" alt="" width="50" /> | 1 | 0 | Mixed Emotions | [🔗](https://open.spotify.com/artist/2BoHcRUfryDNxa9HQxXSpr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | 1 | 0 | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |

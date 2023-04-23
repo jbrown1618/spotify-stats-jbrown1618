@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="Pentatonix" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

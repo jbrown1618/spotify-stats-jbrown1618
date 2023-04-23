@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="Daveed Diggs" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

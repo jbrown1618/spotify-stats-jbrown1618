@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="MAMAMOO" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -11,6 +13,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |

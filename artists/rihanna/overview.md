@@ -4,11 +4,14 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="Rihanna" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 15 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 11 | [R&B](../../playlists/r_b/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 2 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27331aafa752187cb0284307200ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 2 | [Hip Hop](../../playlists/hip_hop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 1 | [Modern Rock](../../playlists/modern_rock/overview.md) |

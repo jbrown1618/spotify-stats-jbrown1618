@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273b47bb04577839c77f2e300bd" alt="Phillipa Soo" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

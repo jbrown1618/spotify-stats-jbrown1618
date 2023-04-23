@@ -2,6 +2,8 @@
 
 30 songs
 
+[See Audio Features](audio_features.md)
+
 Appears as:
 - EMI Catalogue (30 tracks)
 
@@ -47,7 +49,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 30 | 21 | [rock](../../genres/rock/overview.md) |
-| 30 | 21 | psychedelic rock |
+| 30 | 21 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 30 | 21 | merseybeat |
 | 30 | 21 | [classic rock](../../genres/classic_rock/overview.md) |
 | 30 | 21 | british invasion |

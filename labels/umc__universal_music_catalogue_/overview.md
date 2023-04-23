@@ -2,6 +2,8 @@
 
 15 songs
 
+[See Audio Features](audio_features.md)
+
 Appears as:
 - UMC (Universal Music Catalogue) (15 tracks)
 
@@ -43,7 +45,7 @@ Appears as:
 | 3 | 2 | glam rock |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | british invasion |
-| 1 | 1 | psychedelic rock |
+| 1 | 1 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 1 | merseybeat |
 | 1 | 1 | hard rock |
 | 1 | 1 | beatlesque |

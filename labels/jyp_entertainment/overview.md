@@ -2,6 +2,8 @@
 
 31 songs
 
+[See Audio Features](audio_features.md)
+
 Appears as:
 - JYP Entertainment (30 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
@@ -29,7 +31,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | 1 | 1 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb97b1b52f4710da5d65369b09" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a91656db6afb7a3dd398f22" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bacc03160970480ac75c26c0" alt="" width="50" /> | 1 | 1 | SUPERBEE | [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c10d90fee3240f733c26f161f" alt="" width="50" /> | 2 | 0 | Rain | [🔗](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 1 | 0 | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |

@@ -2,6 +2,8 @@
 
 [417 songs](tracks.md)
 
+[See Audio Features](audio_features.md)
+
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
@@ -30,8 +32,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | 6 | 6 | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 8 | 5 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 8 | 5 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 6 | 5 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 5 | 5 | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 6 | 4 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 6 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 5 | 4 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 5 | 4 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
@@ -140,7 +142,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 3 | 1 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | 3 | 1 | Bloom | 2022-04-06 | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 2 | 2 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | 2 | 2 | [12:00] | 2020-10-19 | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | 2 | 2 | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | 2 | 2 | SQUARE ONE | 2016-08-08 | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
@@ -154,6 +155,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | 2 | 2 | Dear OHMYGIRL | 2021-05-10 | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | 2 | 2 | AH YEAH | 2015-04-14 | [🔗](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | 2 | 1 | [12:00] | 2020-10-19 | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | 2 | 1 | Summer Special [Flip That] | 2022-06-20 | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | 2 | 1 | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | 2 | 1 | STEREOTYPE | 2021-09-06 | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
@@ -230,7 +232,7 @@
 | 6 | 4 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 5 | 4 | Riot Games |
 | 4 | 4 | WM Japan |
-| 4 | 4 | BlockBerryCreative |
+| 4 | 3 | BlockBerryCreative |
 | 3 | 3 | MLD ENTERTAINMENT |
 | 3 | 2 | 마이돌엔터테인먼트 |
 | 3 | 2 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
@@ -294,95 +296,3 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> <span>[REASON] (2023-01-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="A Class" width="50" /> <span>A Class (2011-07-18)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans 'OMG'" width="50" /> <span>NewJeans 'OMG' (2023-01-02)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> <span>The Boys - The 3rd Album (2011-10-19)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> <span>2022 Winter SMTOWN : SMCU PALACE (2022-12-26)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734a6d5da9e8c6bb38a2e62f6f" alt="COLLECTION" width="50" /> <span>COLLECTION (2012-03-28)</span></div> |
-## Audio Features
-
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| #Twenty (0.956) | HWAA (0.384) |
-| SNEAKERS (0.935) | O.O (0.39) |
-| SNEAKERS (English Ver.) (0.92) | Where Are We Now (0.407) |
-| Typa Girl (0.915) | Feel My Rhythm (0.412) |
-| Scandal (0.898) | 7월 7일 One Of These Nights (0.436) |
-| Time Slip (0.897) | You Better Run (0.436) |
-| Louder (0.886) | Poison (0.442) |
-| The Boys (0.885) | Addicted (0.463) |
-| Nobody (0.882) | Merry Christmas (0.466) |
-| So Hot (0.879) | Life's Too Short (English Version) (0.472) |
-
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Hit That Drum (0.984) | The Happiest Girl (0.374) |
-| Girls (0.974) | Hope Not (0.423) |
-| Abracadabra (0.973) | HANN (Alone in winter) (0.429) |
-| Heart Attack (0.97) | STAY (0.432) |
-| Secret (0.969) | You Never Know (0.435) |
-| Oh! (0.966) | Hurt (0.446) |
-| Mr.Mr. (0.964) | Moonlight Melody (0.482) |
-| Panorama (0.963) | Where Are We Now (0.494) |
-| Very Very Very (0.963) | 7월 7일 One Of These Nights (0.509) |
-| Alone (0.961) | Hello, Sunset (0.531) |
-
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Addicted (0.419) | Moonlight Melody (0.0269) |
-| Freedom (0.388) | 세가지 소원 Wish Tree (0.0273) |
-| Free Fall (0.376) | Gee (0.0274) |
-| Ice Cream (with Selena Gomez) (0.365) | Hope Not (0.0274) |
-| Signal (0.334) | YOUNG LUV (0.0277) |
-| You Better Run (0.326) | LOVE FOOL (0.0281) |
-| Girls (0.325) | In My Dreams (0.0283) |
-| Be Natural (0.316) | Something (0.0285) |
-| Love So Sweet (0.308) | Merry Christmas (0.0292) |
-| O.O (0.293) | ESCAPE (0.0295) |
-
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| HANN (Alone in winter) (0.814) | Poison (9.27e-05) |
-| Rainy Season (0.806) | Red Light (0.000457) |
-| Where Are We Now (0.744) | Adios (0.000588) |
-| Hurt (0.731) | RUN2U (0.000835) |
-| Jazz Bar (0.704) | DALLA DALLA - English Ver. (0.00102) |
-| ZOOM (0.696) | LA DI DA (0.00108) |
-| Starry Night (0.656) | DALLA DALLA (0.00116) |
-| Wind flower (0.656) | SWIPE (0.00151) |
-| Moonlight Melody (0.654) | Up & Down (0.00189) |
-| 세가지 소원 Wish Tree (0.643) | Pirate (0.00195) |
-
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Next Level - Habstrakt Remix (0.201) | Shut Down (0.0) |
-| You and I (Park Bom) (0.0837) | SCIENTIST (0.0) |
-| Adios (0.0794) | TOMBOY (0.0) |
-| YEPPI YEPPI (0.0391) | Hush (0.0) |
-| So Hot (0.00976) | Typa Girl (0.0) |
-| I Am The Best (0.00834) | Talk that Talk (0.0) |
-| Power Up (0.00745) | Pirate (0.0) |
-| BBoom BBoom (0.00666) | So Good (0.0) |
-| In My Dreams (0.0066) | Love So Sweet (0.0) |
-| FIRE (0.00643) | Hype Boy (0.0) |
-
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Heart Attack (0.887) | SNEAKERS (0.0223) |
-| Piano Man (0.807) | SNEAKERS (English Ver.) (0.0242) |
-| You Better Run (0.803) | YEPPI YEPPI (0.029) |
-| I Like That (0.737) | Ice Cream (with Selena Gomez) (0.0311) |
-| 행복 (Happiness) (0.725) | DARK (X-file) (0.0372) |
-| LP (0.714) | BLACK DRESS (0.0386) |
-| Genie (0.714) | Red Light (0.0414) |
-| STEREOTYPE (0.659) | Wings (0.0428) |
-| 5th Season (SSFWL) (0.635) | I’m So Hot (0.0437) |
-| Say! Yes (0.634) | ELEVEN (0.048) |
-
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Pepe (0.966) | 7월 7일 One Of These Nights (0.11) |
-| So Hot (0.963) | Lucid Dream (0.146) |
-| Miniskirt (0.963) | Body Talk (0.158) |
-| Twinkle (0.962) | Hope Not (0.179) |
-| Lion Heart (0.961) | In My Dreams (0.179) |
-| Give it to me (0.961) | Ditto (0.183) |
-| 러시안 룰렛 Russian Roulette (0.958) | Ditto (0.183) |
-| Nobody (0.95) | LION (0.187) |
-| Really (0.947) | POSE (0.195) |
-| Devil (0.946) | MORE (0.199) |

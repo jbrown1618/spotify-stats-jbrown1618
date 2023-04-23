@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="TAEYEON" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -14,6 +16,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="" width="50" /> | 2 | [K-OST](../../playlists/k_ost/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |

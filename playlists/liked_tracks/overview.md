@@ -1,6 +1,8 @@
 # Liked Tracks
 
-[1500 songs](tracks.md)
+[1499 songs](tracks.md)
+
+[See Audio Features](audio_features.md)
 
 ## Top Artists
 
@@ -89,7 +91,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 5 | 5 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 5 | 5 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 5 | 5 | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 5 | 5 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 5 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 5 | 5 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
@@ -100,7 +101,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 4 | 4 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 4 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 4 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb365158d123c641da282b2433" alt="" width="50" /> | 4 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 4 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 4 | 4 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 4 | 4 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 4 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 4 | 4 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
@@ -324,7 +326,6 @@
 | 4 | 4 | Fave Entertainment |
 | 4 | 4 | Elektra |
 | 4 | 4 | Daft Life Ltd. |
-| 4 | 4 | BlockBerryCreative |
 | 4 | 4 | Beluga Heights |
 | 4 | 4 | Arista |
 | 4 | 4 | Aftermath |
@@ -349,6 +350,7 @@
 | 3 | 3 | Kemosabe Records |
 | 3 | 3 | Island UK |
 | 3 | 3 | Island Records |
+| 3 | 3 | Casablanca Records |
 
 </details>
 
@@ -359,9 +361,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 659 | 659 | [k-pop](../../genres/k_pop/overview.md) |
+| 658 | 658 | [k-pop](../../genres/k_pop/overview.md) |
 | 331 | 331 | [pop](../../genres/pop/overview.md) |
-| 300 | 300 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 299 | 299 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 166 | 166 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 121 | 121 | [rock](../../genres/rock/overview.md) |
 | 110 | 110 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -393,7 +395,7 @@
 | 23 | 23 | [r&b](../../genres/r_b/overview.md) |
 | 23 | 23 | electropop |
 | 23 | 23 | beatlesque |
-| 22 | 22 | psychedelic rock |
+| 22 | 22 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 22 | 22 | merseybeat |
 | 22 | 22 | korean pop |
 | 20 | 20 | uk pop |
@@ -483,7 +485,7 @@
 | [2023](2023.md) | 57 |
 | [2022](2022.md) | 239 |
 | [2021](2021.md) | 180 |
-| [2020](2020.md) | 132 |
+| [2020](2020.md) | 131 |
 | [2019](2019.md) | 116 |
 | [2018](2018.md) | 81 |
 | [2017](2017.md) | 71 |
@@ -555,95 +557,3 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> <span>ME (2023-03-31)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span>The Temptations Sing Smokey (1965-03-22)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> <span>Hold On Tight (2023-03-30)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span>Out Of Our Heads (1965-07-30)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> <span>ACT 1, SCENE 1 (2023-03-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
-## Audio Features
-
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| SexyBack (feat. Timbaland) (0.967) | Pyramid Song (0.127) |
-| Anaconda (0.964) | Bridge Over Troubled Water (0.149) |
-| Cold Blooded (0.961) | Amore (0.167) |
-| #Twenty (0.956) | The End (Interlude) (0.176) |
-| FACE (0.954) | Born To Die (0.18) |
-| WAP (feat. Megan Thee Stallion) (0.935) | You Take My Breath Away (0.192) |
-| Billie Jean (0.932) | Lights (0.193) |
-| RUN (HAN) (0.929) | Nature Boy (0.203) |
-| Another One Bites The Dust (0.926) | A Case of You (0.205) |
-| Baby Got Back (0.926) | Fix You (0.209) |
-
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| チョコレイト・ディスコ (0.99) | Kaleidoscope Heart (0.0516) |
-| When Doves Cry (0.989) | Mad World (0.0585) |
-| Shanti Shanti Shanti (0.988) | Run to You (0.0622) |
-| Rondo of Nightmare (0.987) | And So It Goes (0.0871) |
-| RING X RING (0.987) | Nature Boy (0.0895) |
-| Headbangeeeeerrrrr!!!!! (0.985) | Used (0.0938) |
-| Gimme Chocolate!! (0.985) | The Dawntreader (0.103) |
-| Hit That Drum (0.984) | when the party's over (0.111) |
-| KARATE (0.982) | xanny (0.125) |
-| だいじょばない (0.982) | Blackbird - Remastered 2009 (0.127) |
-
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Youngblood (0.463) | With (0.0228) |
-| I Don't Need You (0.422) | Satellite Call (0.0241) |
-| MANIAC (0.411) | 情非得已 (0.0241) |
-| Mambo No. 5 (a Little Bit of...) (0.408) | Breakeven (0.0242) |
-| United In Grief (0.404) | All Too Well (0.0243) |
-| Free Fall (0.376) | The Scientist (0.0243) |
-| WAP (feat. Megan Thee Stallion) (0.375) | Old Fashioned (0.0246) |
-| bad guy (0.375) | I'd Rather Go Blind (0.0247) |
-| I GOT IT (HAN) (0.365) | Set Fire to the Rain (0.0249) |
-| Ice Cream (with Selena Gomez) (0.365) | Sweet Night (0.025) |
-
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| when the party's over (0.978) | The Phantom Of The Opera (7.33e-06) |
-| Mad World (0.976) | Kagerou (3.1e-05) |
-| Manhattan (0.972) | Headbangeeeeerrrrr!!!!! (7.67e-05) |
-| Nature Boy (0.971) | Poison (9.27e-05) |
-| The Night We Met (0.969) | Let Down (0.000121) |
-| I Had a King (0.968) | Mr. Simple (0.000219) |
-| The Dawntreader (0.957) | Tamed-Dashed (0.000253) |
-| Take It All (0.957) | Gimme Chocolate!! (0.000282) |
-| Skinny Love (0.952) | Oh Sorry Ya (0.000315) |
-| Lullabye (Goodnight, My Angel) (0.948) | Misery (0.000315) |
-
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Digital Love (0.867) | Leave The Door Open (0.0) |
-| だいじょばない (0.844) | Gangnam Style (강남스타일) (0.0) |
-| Animals (0.796) | Traffic light (0.0) |
-| Reptilia (0.713) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
-| Street Spirit (Fade Out) (0.694) | Sweet As Whole (0.0) |
-| A Fifth Of Beethoven (0.69) | GGBB (0.0) |
-| everything i wanted (0.657) | The Lighthouse's Tale (0.0) |
-| Instant Crush (feat. Julian Casablancas) (0.619) | Clean (0.0) |
-| There, There (0.52) | To the moon (0.0) |
-| Smooth Criminal - 2012 Remaster (0.468) | Shut Down (0.0) |
-
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Bel Air (0.901) | PING PONG (0.0202) |
-| Thriller (0.89) | Ain't It Fun (0.021) |
-| XS (0.869) | Finesse - Remix; feat. Cardi B (0.0215) |
-| Can't Tell Me Nothing (0.82) | CASE 143 (0.0222) |
-| Piano Man (0.807) | Finesse (0.0232) |
-| You Better Run (0.803) | That That (prod. & feat. SUGA of BTS) (0.0272) |
-| Red Lipstick (feat. Yoonmirae) (0.792) | memeM (0.0287) |
-| MAKE U DANCE (feat. EUNHA) (0.792) | YEPPI YEPPI (0.029) |
-| Sticker (0.742) | Holiday Party (0.0294) |
-| You Oughta Know (0.736) | Ice Cream (with Selena Gomez) (0.0311) |
-
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Sour candy (0.98) | You Take My Breath Away (0.0384) |
-| Big Yellow Taxi (0.97) | What Sarah Said (0.0401) |
-| Like a Virgin (0.97) | Free (0.0494) |
-| There's Nothing Holdin' Me Back (0.969) | Delicate (0.0499) |
-| Twenty-three (0.968) | No Time To Die (0.0517) |
-| Devil (0.968) | xanny (0.0528) |
-| Mercy (0.964) | Once Upon Another Time (0.0551) |
-| SexyBack (feat. Timbaland) (0.964) | Crystallize (0.0563) |
-| I'm a Slave 4 U (0.963) | Lose Yourself (0.059) |
-| Miniskirt (0.963) | Falling (0.0592) |

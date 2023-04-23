@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebb35dba51746ae3ebb2d8958b" alt="Leslie Odom Jr." width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

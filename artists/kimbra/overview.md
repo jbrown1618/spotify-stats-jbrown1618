@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="Kimbra" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

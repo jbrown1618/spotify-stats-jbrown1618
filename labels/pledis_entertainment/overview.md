@@ -2,6 +2,8 @@
 
 20 songs
 
+[See Audio Features](audio_features.md)
+
 Appears as:
 - PLEDIS Entertainment (15 tracks)
 - PLEDIS ENTERTAINMENT (5 tracks)

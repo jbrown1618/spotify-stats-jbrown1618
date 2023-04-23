@@ -4,6 +4,8 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="The Beatles" width="100" />
 
+[See Audio Features](audio_features.md)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -51,7 +53,7 @@
 - british invasion
 - [classic rock](../../genres/classic_rock)
 - merseybeat
-- psychedelic rock
+- [psychedelic rock](../../genres/psychedelic_rock)
 - [rock](../../genres/rock)
 
 ## Tracks
