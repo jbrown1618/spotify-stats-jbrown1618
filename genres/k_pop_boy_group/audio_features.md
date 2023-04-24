@@ -9,8 +9,8 @@
 | Christmas EveL (0.878) | No More Dream (0.436) |
 | Love is New Gravity (0.878) | Just A Little Bit (0.441) |
 | 10 Months (0.876) | Side Effects (0.444) |
-| BFF (Best Friends Forever) (0.872) | Tap Tap (0.445) |
-| Feelin' Like (0.868) | Butterfly (0.448) |
+| U (0.873) | Tap Tap (0.445) |
+| BFF (Best Friends Forever) (0.872) | Butterfly (0.448) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|

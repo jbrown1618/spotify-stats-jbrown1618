@@ -23,7 +23,7 @@
 | Just Dance (0.739) | TV (0.236) |
 | Off To The Races (0.722) | Video Games (0.255) |
 | Yoü And I (0.709) | lovely (with Khalid) (0.296) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.704) | GOLDWING (0.303) |
+| Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix (0.704) | GOLDWING (0.303) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -67,7 +67,7 @@
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Bel Air (0.901) | Therefore I Am (0.0583) |
-| La Vie En Rose (0.706) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| La Vie En Rose (0.706) | Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix (0.0585) |
 | Sour Candy (with BLACKPINK) (0.489) | Good Ones (0.0806) |
 | Off To The Races (0.4) | No Time To Die (0.0827) |
 | Cherry (0.384) | ocean eyes (0.084) |
@@ -80,7 +80,7 @@
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | LoveGame (0.844) | Swan Song (0.0392) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | No Time To Die (0.0517) |
+| Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix (0.824) | No Time To Die (0.0517) |
 | Good Ones (0.789) | xanny (0.0528) |
 | Poker Face (0.787) | Yellow Flicker Beat (0.0597) |
 | Sour Candy (with BLACKPINK) (0.784) | Shades Of Cool (0.0878) |

@@ -333,7 +333,7 @@
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 90 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -374,6 +374,7 @@
 | 1 | 1 | latin viral pop |
 | 1 | 1 | latin talent show |
 | 1 | 1 | latin hip hop |
+| 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | j-acoustic |
 | 1 | 1 | italian adult pop |
 | 1 | 1 | g-house |

@@ -37,7 +37,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 9 | 8 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 3 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | korean ost |
 

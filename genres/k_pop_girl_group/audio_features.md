@@ -5,12 +5,12 @@
 | SNEAKERS (0.935) | O.O (0.39) |
 | SNEAKERS (English Ver.) (0.92) | Where Are We Now (0.407) |
 | Typa Girl (0.915) | Feel My Rhythm (0.412) |
-| Scandal (0.898) | 7월 7일 One Of These Nights (0.436) |
-| Time Slip (0.897) | You Better Run (0.436) |
-| Louder (0.886) | Poison (0.442) |
-| The Boys (0.885) | Addicted (0.463) |
-| Nobody (0.882) | Merry Christmas (0.466) |
-| So Hot (0.879) | Life's Too Short (English Version) (0.472) |
+| Tippy Toes (0.913) | 7월 7일 One Of These Nights (0.436) |
+| Scandal (0.898) | You Better Run (0.436) |
+| Time Slip (0.897) | Poison (0.442) |
+| Louder (0.886) | Addicted (0.463) |
+| The Boys (0.885) | Merry Christmas (0.466) |
+| Nobody (0.882) | Life's Too Short (English Version) (0.472) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -54,15 +54,15 @@
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Next Level - Habstrakt Remix (0.201) | Shut Down (0.0) |
-| You and I (Park Bom) (0.0837) | SCIENTIST (0.0) |
-| Adios (0.0794) | TOMBOY (0.0) |
-| YEPPI YEPPI (0.0391) | Hush (0.0) |
-| So Hot (0.00976) | Typa Girl (0.0) |
-| I Am The Best (0.00834) | Talk that Talk (0.0) |
-| Power Up (0.00745) | Pirate (0.0) |
-| BBoom BBoom (0.00666) | So Good (0.0) |
-| In My Dreams (0.0066) | Love So Sweet (0.0) |
-| FIRE (0.00643) | Hype Boy (0.0) |
+| Tippy Toes (0.106) | SCIENTIST (0.0) |
+| You and I (Park Bom) (0.0837) | TOMBOY (0.0) |
+| Adios (0.0794) | Hush (0.0) |
+| YEPPI YEPPI (0.0391) | Typa Girl (0.0) |
+| So Hot (0.00976) | Talk that Talk (0.0) |
+| I Am The Best (0.00834) | Pirate (0.0) |
+| Power Up (0.00745) | So Good (0.0) |
+| BBoom BBoom (0.00666) | Love So Sweet (0.0) |
+| In My Dreams (0.0066) | Hype Boy (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

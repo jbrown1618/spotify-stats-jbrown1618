@@ -22,8 +22,8 @@
 | Believe (0.917) | La Vie En Rose (0.405) |
 | Levitating (0.884) | Lucky (0.414) |
 | Material Girl (0.883) | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.42) |
-| Don't Call Me Up (0.881) | Million Reasons (0.423) |
-| Me Enamoré (0.879) | I'm Yours (0.444) |
+| Me Enamoré (0.879) | Million Reasons (0.423) |
+| Everybody (Backstreet's Back) - Radio Edit (0.873) | I'm Yours (0.444) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -87,5 +87,5 @@
 | Finesse (0.939) | Need to Know (0.194) |
 | Finesse - Remix; feat. Cardi B (0.926) | I Thought She Knew (0.198) |
 | Toxic (0.924) | Who You Are (0.215) |
-| Levitating (feat. DaBaby) (0.915) | Don't Call Me Up (0.234) |
-| Levitating (0.914) | Womanizer (0.235) |
+| Levitating (feat. DaBaby) (0.915) | Womanizer (0.235) |
+| Levitating (0.914) | Never Be the Same (0.243) |

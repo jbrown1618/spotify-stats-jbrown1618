@@ -185,8 +185,8 @@
 | 3 | 3 | new wave pop |
 | 6 | 2 | piano rock |
 | 6 | 2 | glam rock |
+| 4 | 2 | [pop](../../genres/pop/overview.md) |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
-| 3 | 2 | [pop](../../genres/pop/overview.md) |
 | 3 | 2 | lounge |
 | 3 | 2 | disco |
 | 5 | 1 | memphis soul |

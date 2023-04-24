@@ -2,6 +2,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d260ec7b7ace5ca6bd69c86a" alt="" width="50" /> | Lone Digger | <|º_º|> | Caravan Palace | Le Plan Recordings | | [🔗](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0" alt="" width="50" /> | Peaches En Regalia | Hot Rats | Frank Zappa | Frank Zappa Catalog | | [🔗](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385b05f4bb3c88cf252f96b68" alt="" width="50" /> | Don't Eat The Yellow Snow | Apostrophe(') | Frank Zappa | Frank Zappa Catalog | | [🔗](https://open.spotify.com/track/1QY4TdhuNIOX2SHLdElzd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385b05f4bb3c88cf252f96b68" alt="" width="50" /> | Uncle Remus | Apostrophe(') | Frank Zappa | Frank Zappa Catalog | | [🔗](https://open.spotify.com/track/4PPwkLq2ld1k09Bl5NkyZB) |

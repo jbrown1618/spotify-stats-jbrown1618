@@ -329,11 +329,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 135 | 134 | [k-pop](../../genres/k_pop/overview.md) |
-| 73 | 73 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 136 | 135 | [k-pop](../../genres/k_pop/overview.md) |
+| 75 | 75 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 65 | 63 | [pop](../../genres/pop/overview.md) |
-| 43 | 42 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 14 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
+| 44 | 43 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 13 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [modern rock](../../genres/modern_rock/overview.md) |
 | 6 | 6 | anime |
 | 6 | 5 | kawaii metal |

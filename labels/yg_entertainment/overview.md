@@ -103,10 +103,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 65 | 56 | [k-pop](../../genres/k_pop/overview.md) |
+| 71 | 60 | [k-pop](../../genres/k_pop/overview.md) |
 | 29 | 24 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 28 | 23 | [pop](../../genres/pop/overview.md) |
-| 8 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | k-rap |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |

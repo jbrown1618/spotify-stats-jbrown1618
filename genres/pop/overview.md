@@ -1,6 +1,6 @@
 # pop
 
-[571 songs](tracks.md)
+[572 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -252,7 +252,7 @@
 | 26 | 19 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 33 | 18 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 21 | 18 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
-| 21 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
+| 22 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
 
 
 <details>
@@ -360,10 +360,10 @@
 | <div><img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> <span>READY TO BE (2023-03-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> <span>Like a Virgin (1984-11-12)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> <span>There (2023-02-15)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> <span>A Very Special Christmas (1987-10-20)</span></div> |
 | <div><img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> <span>Flowers (2023-01-13)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> <span>Merry Christmas (1994-10-28)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> <span>SKZ-REPLAY (2022-12-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span>...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> <span>Midnights (2022-10-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span>Millennium (1999-05-18)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> <span>MAXIDENT (2022-10-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span>No Strings Attached (2000-03-21)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span>CHARLIE (2022-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span>Oops!... I Did It Again (2000-05-16)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="Unholy (feat. Kim Petras)" width="50" /> <span>Unholy (feat. Kim Petras) (2022-09-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span>Parachutes (2000-07-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> <span>Street Man Fighter Original Vol.4 (Crew Songs) (2022-09-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> <span>Survivor (2001-05-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span>BORN PINK (2022-09-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> <span>Britney (Digital Deluxe Version) (2001-10-31)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> <span>SKZ-REPLAY (2022-12-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> <span>Believe (1998)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> <span>Midnights (2022-10-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> <span>...Baby One More Time (Digital Deluxe Version) (1999-01-12)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> <span>MAXIDENT (2022-10-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> <span>Millennium (1999-05-18)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> <span>CHARLIE (2022-10-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> <span>No Strings Attached (2000-03-21)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="Unholy (feat. Kim Petras)" width="50" /> <span>Unholy (feat. Kim Petras) (2022-09-22)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> <span>Oops!... I Did It Again (2000-05-16)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> <span>Street Man Fighter Original Vol.4 (Crew Songs) (2022-09-20)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> <span>Parachutes (2000-07-10)</span></div> |
+| <div><img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> <span>BORN PINK (2022-09-16)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> <span>Survivor (2001-05-01)</span></div> |

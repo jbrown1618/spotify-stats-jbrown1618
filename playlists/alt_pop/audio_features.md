@@ -70,7 +70,7 @@
 | Whatever We Feel (0.75) | still feel. (0.0492) |
 | Saw It Coming (0.456) | Icarus (0.0582) |
 | No Light, No Light (0.444) | Therefore I Am (0.0583) |
-| Darling (0.441) | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.0585) |
+| Darling (0.441) | Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix (0.0585) |
 | Off To The Races (0.4) | Say My Name (0.0596) |
 | Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | replay! (0.063) |
 | Cherry (0.384) | The Other Side Of Paradise (0.0649) |
@@ -84,7 +84,7 @@
 | Come On Closer (0.928) | No Time To Die (0.0517) |
 | That Man (0.903) | xanny (0.0528) |
 | Good Intent (0.834) | Waltz Me to the Grave (0.0748) |
-| Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (0.824) | How Big, How Blue, How Beautiful (0.0825) |
+| Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix (0.824) | How Big, How Blue, How Beautiful (0.0825) |
 | Flesh & Bone (0.824) | Shades Of Cool (0.0878) |
 | Kick It to Me (0.82) | Hide and Seek (0.0901) |
 | Icarus (0.795) | The Good War (0.0928) |

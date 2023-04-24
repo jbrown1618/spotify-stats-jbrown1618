@@ -128,8 +128,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 22 | 14 | [pop](../../genres/pop/overview.md) |
 | 22 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
-| 21 | 14 | [pop](../../genres/pop/overview.md) |
 | 24 | 10 | [rock](../../genres/rock/overview.md) |
 | 13 | 8 | nz pop |
 | 13 | 8 | electropop |
