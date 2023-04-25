@@ -185,10 +185,10 @@
 | 7 | 3 | conscious hip hop |
 | 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | detroit hip hop |
+| 13 | 2 | pop rap |
 | 5 | 2 | southern hip hop |
 | 5 | 2 | atl hip hop |
 | 4 | 2 | chicago rap |
-| 3 | 2 | west coast rap |
 
 
 <details>
@@ -196,10 +196,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 3 | 2 | west coast rap |
 | 2 | 2 | queens hip hop |
 | 2 | 2 | hip pop |
 | 2 | 2 | dirty south rap |
-| 12 | 1 | pop rap |
 | 5 | 1 | trap |
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |

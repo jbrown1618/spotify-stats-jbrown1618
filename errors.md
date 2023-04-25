@@ -246,21 +246,21 @@
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
-| Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
+| Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 35 |
-| Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| The Fox | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
+| Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
+| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
+| The Fox | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
-| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| Scarborough Fair | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
+| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
+| Scarborough Fair | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 49 |
-| The Parting Glass | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| The Water is Wide | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| Shenandoah | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
+| The Parting Glass | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
+| The Water is Wide | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
+| Shenandoah | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 56 |
-| Amazing Grace | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
-| Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 52 |
+| Amazing Grace | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
+| Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 63 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
@@ -269,38 +269,38 @@
 | Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 32 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 61 |
-| Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
+| Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
+| Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 35 |
-| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
+| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
-| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 33 |
-| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| Into The West | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
-| Gollum's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 52 |
+| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
+| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
+| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
+| Into The West | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
+| Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
+| Gollum's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 54 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 35 |
-| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
+| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 40 |
-| The Prayer | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| Imagine | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
-| Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 52 |
+| The Prayer | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
+| Imagine | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
+| You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
+| Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
+| Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 84 |
 | Enter Sandman | Metallica | Metallica | 2 | 2 | 84 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
-| The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 52 |
+| The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 51 |
 | Carey | Blue | Joni Mitchell | 0 | 1 | 56 |
 | Blue | Blue | Joni Mitchell | 0 | 1 | 56 |
 | A Case of You | Blue | Joni Mitchell | 1 | 1 | 56 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 35 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 47 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
@@ -311,7 +311,7 @@
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 62 |
-| PLAY | PLAY | CHANGMO | 0 | 0 | 59 |
+| PLAY | PLAY | CHANGMO | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
@@ -339,9 +339,9 @@
 | Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 40 |
-| Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 52 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
+| Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 51 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
 | Let it Be | III | The Nor'easters | 0 | 0 | 32 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
@@ -353,10 +353,10 @@
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 73 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 73 |
-| Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
+| Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 40 |
-| Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
-| Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 52 |
+| Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
+| Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
@@ -381,7 +381,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 51 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 43 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
@@ -393,8 +393,8 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 0 | 75 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 0 | 76 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 55 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 41 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 45 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 63 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
