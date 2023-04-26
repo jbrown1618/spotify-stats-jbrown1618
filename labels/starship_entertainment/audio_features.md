@@ -9,21 +9,21 @@
 | Alone (0.769) | Say! Yes (0.674) |
 | Babyface (0.752) | After LIKE (0.68) |
 | GAMBLER (0.752) | I AM (0.683) |
-| Beautiful Liar (0.736) | Secret (0.692) |
-| Adrenaline (0.734) | LOVE DIVE (0.703) |
+| NOT YOUR GIRL (0.743) | Secret (0.692) |
+| Beautiful Liar (0.736) | LOVE DIVE (0.703) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Secret (0.969) | LOVE DIVE (0.709) |
 | Alone (0.961) | Blue Blood (0.709) |
 | Hmph! (0.958) | 섬찟 (Hypnosis) (0.718) |
-| Give it to me (0.945) | ELEVEN (0.731) |
-| Super Yuppers! (0.931) | Lips (0.779) |
-| Adrenaline (0.929) | Babyface (0.803) |
-| Pantomime (0.929) | One way love (0.817) |
-| After LIKE (0.922) | Say! Yes (0.839) |
-| Touch my body (0.915) | ROYAL (0.85) |
-| UNNATURAL (0.914) | GAMBLER (0.861) |
+| NOT YOUR GIRL (0.949) | ELEVEN (0.731) |
+| Give it to me (0.945) | Lips (0.779) |
+| Super Yuppers! (0.931) | Babyface (0.803) |
+| Adrenaline (0.929) | One way love (0.817) |
+| Pantomime (0.929) | Say! Yes (0.839) |
+| After LIKE (0.922) | ROYAL (0.85) |
+| Touch my body (0.915) | GAMBLER (0.861) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -47,9 +47,9 @@
 | Say! Yes (0.174) | I AM (0.0115) |
 | Last Sequence (0.174) | Adrenaline (0.0238) |
 | Secret (0.167) | After LIKE - Holiday Remix (0.0372) |
-| Pantomime (0.119) | Babyface (0.0376) |
-| After LIKE (0.103) | Touch my body (0.0437) |
-| I Like That (0.0952) | Lips (0.0555) |
+| NOT YOUR GIRL (0.133) | Babyface (0.0376) |
+| Pantomime (0.119) | Touch my body (0.0437) |
+| After LIKE (0.103) | Lips (0.0555) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -59,10 +59,10 @@
 | GAMBLER (5.84e-06) | Secret (0.0) |
 | After LIKE - Holiday Remix (4.92e-06) | UNNATURAL (0.0) |
 | ROYAL (3.39e-06) | Give it to me (0.0) |
-| ELEVEN (0.0) | 섬찟 (Hypnosis) (0.0) |
-| I AM (0.0) | One way love (0.0) |
-| Babyface (0.0) | After LIKE (0.0) |
-| Say! Yes (0.0) | Super Yuppers! (0.0) |
+| NOT YOUR GIRL (2.87e-06) | 섬찟 (Hypnosis) (0.0) |
+| ELEVEN (0.0) | One way love (0.0) |
+| I AM (0.0) | After LIKE (0.0) |
+| Babyface (0.0) | Super Yuppers! (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -74,8 +74,8 @@
 | LOVE DIVE (0.333) | After LIKE (0.0877) |
 | Secret (0.301) | Hmph! (0.088) |
 | Super Yuppers! (0.296) | Last Sequence (0.0894) |
-| Babyface (0.221) | UNNATURAL (0.104) |
-| ROYAL (0.205) | Adrenaline (0.107) |
+| NOT YOUR GIRL (0.267) | UNNATURAL (0.104) |
+| Babyface (0.221) | Adrenaline (0.107) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -86,6 +86,6 @@
 | I Like That (0.882) | Beautiful Liar (0.574) |
 | Lips (0.881) | After LIKE - Holiday Remix (0.58) |
 | Super Yuppers! (0.879) | ELEVEN (0.587) |
-| Say! Yes (0.8) | GAMBLER (0.595) |
-| After LIKE (0.799) | Touch my body (0.622) |
-| Pantomime (0.773) | Babyface (0.663) |
+| NOT YOUR GIRL (0.848) | GAMBLER (0.595) |
+| Say! Yes (0.8) | Touch my body (0.622) |
+| After LIKE (0.799) | Babyface (0.663) |

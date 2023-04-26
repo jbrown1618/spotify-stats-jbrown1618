@@ -6,11 +6,11 @@
 | Dreams - 2004 Remaster (0.828) | Fat Bottomed Girls (0.253) |
 | Eye of the Tiger (0.817) | Across The Universe - Remastered 2009 (0.257) |
 | Get Back - Remastered 2009 (0.761) | The Trooper - 2015 Remaster (0.285) |
+| Don't Eat The Yellow Snow (0.747) | Set the Controls for the Heart of the Sun (0.297) |
 | Sara - 2015 Remaster (0.743) | Dream On (0.307) |
 | When Doves Cry (0.729) | Back In Black (0.31) |
-| (I Can't Get No) Satisfaction - Mono Version (0.723) | Come Sail Away (0.324) |
-| Rhiannon (0.723) | Because - Remastered 2009 (0.328) |
-| When I'm Sixty Four - Remastered 2009 (0.704) | Yesterday - Remastered 2009 (0.332) |
+| (I Can't Get No) Satisfaction - Mono Version (0.723) | Brain Damage (0.324) |
+| Rhiannon (0.723) | Come Sail Away (0.324) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -22,21 +22,21 @@
 | The Trooper - 2015 Remaster (0.908) | Desperado - 2013 Remaster (0.224) |
 | 25 or 6 to 4 (0.869) | When I'm Sixty Four - Remastered 2009 (0.241) |
 | Black Dog - Remaster (0.864) | Because - Remastered 2009 (0.249) |
-| (I Can't Get No) Satisfaction - Mono Version (0.863) | Eleanor Rigby - Remastered 2009 (0.28) |
-| Won't Get Fooled Again - Remix (0.841) | Moondance - 2013 Remaster (0.282) |
+| (I Can't Get No) Satisfaction - Mono Version (0.863) | Brain Damage (0.265) |
+| Won't Get Fooled Again - Remix (0.841) | Eleanor Rigby - Remastered 2009 (0.28) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Don't Stop Me Now (0.192) | Fields Of Gold (0.0246) |
 | Strawberry Fields Forever - Remastered 2009 (0.178) | Octopus's Garden - Remastered 2009 (0.0247) |
-| Another One Bites The Dust (0.122) | Hotel California - 2013 Remaster (0.027) |
-| Crazy Love - 2013 Remaster (0.0959) | Cold as Ice (0.0271) |
-| Paint It, Black (0.0926) | Because - Remastered 2009 (0.0272) |
-| Black Dog - Remaster (0.0904) | Carry That Weight - Remastered 2009 (0.0274) |
-| Love Me Do - Remastered 2009 (0.0806) | Dreams - 2004 Remaster (0.0276) |
-| Iron Man (0.0765) | Save Me (0.0276) |
-| We Will Rock You (0.0719) | Golden Slumbers - Remastered 2009 (0.0277) |
-| Paranoid - 2012 - Remaster (0.0708) | Dust in the Wind (0.0283) |
+| Money (0.144) | Hotel California - 2013 Remaster (0.027) |
+| Another One Bites The Dust (0.122) | Cold as Ice (0.0271) |
+| Don't Eat The Yellow Snow (0.112) | Because - Remastered 2009 (0.0272) |
+| Crazy Love - 2013 Remaster (0.0959) | Carry That Weight - Remastered 2009 (0.0274) |
+| Paint It, Black (0.0926) | Dreams - 2004 Remaster (0.0276) |
+| Black Dog - Remaster (0.0904) | Save Me (0.0276) |
+| Love Me Do - Remastered 2009 (0.0806) | Golden Slumbers - Remastered 2009 (0.0277) |
+| Iron Man (0.0765) | Dust in the Wind (0.0283) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -48,21 +48,21 @@
 | Blackbird - Remastered 2009 (0.754) | Hotel California - 2013 Remaster (0.00574) |
 | Because - Remastered 2009 (0.754) | The Chain - 2004 Remaster (0.009) |
 | I'm a Believer - 2006 Remaster (0.707) | When Doves Cry (0.0102) |
-| Let It Be - Remastered 2009 (0.631) | Back In Black (0.011) |
-| We Will Rock You (0.629) | Walk This Way (0.0114) |
+| Set the Controls for the Heart of the Sun (0.673) | Back In Black (0.011) |
+| Let It Be - Remastered 2009 (0.631) | Walk This Way (0.0114) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Smoke on the Water (0.581) | We Will Rock You (0.0) |
-| Come Together - Remastered 2009 (0.248) | Killer Queen (0.0) |
-| Won't Get Fooled Again - Remix (0.235) | Crazy Little Thing Called Love (0.0) |
-| I Want You (She's So Heavy) - Remastered 2009 (0.205) | Yesterday - Remastered 2009 (0.0) |
-| Baba O'Riley (0.185) | Good Old Fashioned Lover Boy (0.0) |
-| Immigrant Song - Remaster (0.169) | Brown Eyed Girl (0.0) |
-| Another One Bites The Dust (0.136) | Don't Stop Believin' (0.0) |
-| You Never Give Me Your Money - Remastered 2009 (0.136) | All My Loving - Remastered 2009 (0.0) |
-| Rhiannon (0.0946) | We Are The Champions (0.0) |
-| Sweet Child O' Mine (0.0857) | Yellow Submarine - Remastered 2009 (0.0) |
+| Set the Controls for the Heart of the Sun (0.905) | We Will Rock You (0.0) |
+| Peaches En Regalia (0.835) | Killer Queen (0.0) |
+| Breathe (In the Air) (0.728) | Crazy Little Thing Called Love (0.0) |
+| Smoke on the Water (0.581) | Yesterday - Remastered 2009 (0.0) |
+| Brain Damage (0.341) | Good Old Fashioned Lover Boy (0.0) |
+| Come Together - Remastered 2009 (0.248) | Brown Eyed Girl (0.0) |
+| Won't Get Fooled Again - Remix (0.235) | Don't Stop Believin' (0.0) |
+| I Want You (She's So Heavy) - Remastered 2009 (0.205) | All My Loving - Remastered 2009 (0.0) |
+| Baba O'Riley (0.185) | We Are The Champions (0.0) |
+| Immigrant Song - Remaster (0.169) | Yellow Submarine - Remastered 2009 (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -88,4 +88,4 @@
 | Smoke on the Water (0.89) | We Are The Champions (0.189) |
 | Across The Universe - Remastered 2009 (0.858) | Purple Rain (0.189) |
 | When Doves Cry (0.84) | Stairway to Heaven - Remaster (0.197) |
-| Go Your Own Way - 2004 Remaster (0.831) | You Never Give Me Your Money - Remastered 2009 (0.223) |
+| Go Your Own Way - 2004 Remaster (0.831) | Brain Damage (0.208) |

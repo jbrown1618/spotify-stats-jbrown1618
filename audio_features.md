@@ -4,13 +4,13 @@
 | Bando (0.97) | String Quartet No. 8 in C Minor, Op. 110: V. Largo (0.0592) |
 | SexyBack (feat. Timbaland) (0.967) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0601) |
 | Anaconda (0.964) | Ave Maria (Franz Biebl) (0.0611) |
-| Cold Blooded (0.961) | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile (0.062) |
-| #Twenty (0.956) | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif (0.0623) |
-| FACE (0.954) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
-| WAP (feat. Megan Thee Stallion) (0.935) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
-| SNEAKERS (0.935) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" (0.0663) |
-| Idle song (0.933) | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.0668) |
-| Billie Jean (0.932) | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante (0.0683) |
+| Fire (0.963) | Symphony No. 9 In D Minor, Op. 125 - "Choral": 3. Adagio molto e cantabile (0.062) |
+| Cold Blooded (0.961) | String Quartet in G Minor, Op. 10: III. Andantino, doucement expressif (0.0623) |
+| #Twenty (0.956) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
+| FACE (0.954) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
+| WAP (feat. Megan Thee Stallion) (0.935) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" (0.0663) |
+| SNEAKERS (0.935) | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.0668) |
+| Idle song (0.933) | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante (0.0683) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -72,10 +72,10 @@
 | Thriller (0.89) | Finesse - Remix; feat. Cardi B (0.0215) |
 | Heart Attack (0.887) | CASE 143 (0.0222) |
 | XS (0.869) | SNEAKERS (0.0223) |
-| Wish You Were Here (0.832) | Finesse (0.0232) |
-| Can't Tell Me Nothing (0.82) | SNEAKERS (English Ver.) (0.0242) |
-| I Saw Mommy Kissing Santa Claus (0.817) | Oh My God (0.0264) |
-| Piano Man (0.807) | That That (prod. & feat. SUGA of BTS) (0.0272) |
+| Can't Tell Me Nothing (0.82) | Finesse (0.0232) |
+| I Saw Mommy Kissing Santa Claus (0.817) | SNEAKERS (English Ver.) (0.0242) |
+| Piano Man (0.807) | Oh My God (0.0264) |
+| You Better Run (0.803) | That That (prod. & feat. SUGA of BTS) (0.0272) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

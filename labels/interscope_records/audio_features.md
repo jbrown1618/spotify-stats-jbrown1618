@@ -5,12 +5,12 @@
 | bury a friend (0.905) | Happier Than Ever (0.332) |
 | LoveGame (0.894) | when the party's over (0.367) |
 | Therefore I Am (0.879) | No Time To Die (0.38) |
-| Poker Face (0.851) | Til It Happens To You (0.401) |
-| DUMB DUMB (0.851) | TV (0.412) |
-| FLOWER (0.841) | Radioactive (0.448) |
-| MONEY (0.831) | You Never Know (0.477) |
-| Telephone (0.824) | Yoü And I (0.518) |
-| Just Dance (0.822) | Come Home (0.521) |
+| Poker Face (0.851) | Seed (0.395) |
+| DUMB DUMB (0.851) | Til It Happens To You (0.401) |
+| FLOWER (0.841) | TV (0.412) |
+| MONEY (0.831) | Radioactive (0.448) |
+| Telephone (0.824) | You Never Know (0.477) |
+| Just Dance (0.822) | Yoü And I (0.518) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -23,7 +23,7 @@
 | This Love (0.862) | TV (0.236) |
 | This Love (0.862) | Lonely (with benny blanco) (0.239) |
 | Rain On Me (with Ariana Grande) (0.855) | GOLDWING (0.303) |
-| United In Grief (0.845) | Therefore I Am (0.365) |
+| United In Grief (0.845) | Seed (0.33) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -48,21 +48,21 @@
 | TV (0.83) | Lovesick Girls (0.00559) |
 | Happier Than Ever (0.767) | LoveGame (0.00569) |
 | Mushroom Chocolate (with 6LACK) (0.765) | Hard to Love (0.00616) |
-| GOLDWING (0.755) | Tally (0.00777) |
-| xanny (0.751) | Pretty Savage (0.00886) |
+| GOLDWING (0.755) | Nightfall (feat. Bryan Chase) (0.00677) |
+| xanny (0.751) | Tally (0.00777) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | everything i wanted (0.657) | Shut Down (0.0) |
-| you should see me in a crown (0.219) | Typa Girl (0.0) |
-| bury a friend (0.162) | Til It Happens To You (0.0) |
-| GOLDWING (0.159) | Tally (0.0) |
-| Therefore I Am (0.135) | Believer (0.0) |
-| bad guy (0.13) | Bad Things (with Camila Cabello) (0.0) |
-| No Time To Die (0.0104) | The Happiest Girl (0.0) |
-| TV (0.00653) | Sunday Morning (0.0) |
-| Happier Than Ever (0.00349) | See U Later (0.0) |
-| Kill This Love (0.00221) | Really (0.0) |
+| you should see me in a crown (0.219) | Nightfall (feat. Bryan Chase) (0.0) |
+| bury a friend (0.162) | Typa Girl (0.0) |
+| GOLDWING (0.159) | Til It Happens To You (0.0) |
+| Therefore I Am (0.135) | Tally (0.0) |
+| bad guy (0.13) | Believer (0.0) |
+| No Time To Die (0.0104) | Bad Things (with Camila Cabello) (0.0) |
+| TV (0.00653) | The Happiest Girl (0.0) |
+| Happier Than Ever (0.00349) | Sunday Morning (0.0) |
+| Kill This Love (0.00221) | See U Later (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -71,11 +71,11 @@
 | Typa Girl (0.628) | Crank That (Soulja Boy) (0.0468) |
 | See U Later (0.582) | Therefore I Am (0.0583) |
 | Sour Candy (with BLACKPINK) (0.489) | Maps (0.059) |
-| Payphone (0.37) | Sunday Morning (0.0595) |
-| Rain On Me (with Ariana Grande) (0.323) | How You Like That (0.0601) |
-| LoveGame (0.317) | Yeah Yeah Yeah (0.0628) |
-| Moves Like Jagger - Studio Recording From "The Voice" Performance (0.308) | FLOWER (0.0735) |
-| Really (0.277) | Kick It (0.0736) |
+| Shoong! (feat. LISA of BLACKPINK) (0.409) | Sunday Morning (0.0595) |
+| Payphone (0.37) | How You Like That (0.0601) |
+| Rain On Me (with Ariana Grande) (0.323) | Yeah Yeah Yeah (0.0628) |
+| LoveGame (0.317) | FLOWER (0.0735) |
+| Moves Like Jagger - Studio Recording From "The Voice" Performance (0.308) | Kick It (0.0736) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -86,6 +86,6 @@
 | LALISA (0.85) | Til It Happens To You (0.15) |
 | LoveGame (0.844) | Million Reasons (0.154) |
 | This Love (0.809) | Come Home (0.16) |
-| This Love (0.809) | GOLDWING (0.168) |
-| Sunday Morning (0.805) | Hope Not (0.179) |
-| Crank That (Soulja Boy) (0.803) | bury a friend (0.196) |
+| This Love (0.809) | Nightfall (feat. Bryan Chase) (0.168) |
+| Sunday Morning (0.805) | GOLDWING (0.168) |
+| Crank That (Soulja Boy) (0.803) | Hope Not (0.179) |

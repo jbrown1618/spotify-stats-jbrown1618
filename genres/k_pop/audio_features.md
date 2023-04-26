@@ -1,16 +1,16 @@
 # Audio Features for k-pop
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| Cold Blooded (0.961) | U (0.301) |
-| #Twenty (0.956) | Miracle (0.302) |
-| FACE (0.954) | On The Ground (0.311) |
-| SNEAKERS (0.935) | Silent Night (0.333) |
-| Idle song (0.933) | My sea (0.353) |
-| RUN (HAN) (0.929) | Fine (0.36) |
-| Jelly (0.921) | Like Water (0.365) |
-| SNEAKERS (English Ver.) (0.92) | Epilogue (0.366) |
-| Weather (0.915) | Clockwork (0.37) |
-| Typa Girl (0.915) | MY LOVE (0.375) |
+| Fire (0.963) | U (0.301) |
+| Cold Blooded (0.961) | Miracle (0.302) |
+| #Twenty (0.956) | On The Ground (0.311) |
+| FACE (0.954) | Silent Night (0.333) |
+| SNEAKERS (0.935) | My sea (0.353) |
+| Idle song (0.933) | Fine (0.36) |
+| RUN (HAN) (0.929) | Like Water (0.365) |
+| Jelly (0.921) | Epilogue (0.366) |
+| SNEAKERS (English Ver.) (0.92) | Clockwork (0.37) |
+| Weather (0.915) | MY LOVE (0.375) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -60,9 +60,9 @@
 | pporappippam (0.0652) | Shut Down (0.0) |
 | Badster (0.0444) | SCIENTIST (0.0) |
 | YEPPI YEPPI (0.0391) | Winter Falls (0.0) |
-| Cherry Blossom (0.0171) | Beatbox (0.0) |
-| So Hot (0.00976) | Why Can't You Love Me? (0.0) |
-| GingaMingaYo (the strange world) (0.00955) | Ridin' (0.0) |
+| Cherry Blossom (0.0171) | Nightfall (feat. Bryan Chase) (0.0) |
+| So Hot (0.00976) | Beatbox (0.0) |
+| GingaMingaYo (the strange world) (0.00955) | Why Can't You Love Me? (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

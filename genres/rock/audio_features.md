@@ -67,15 +67,15 @@
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (0.893) | Ain't It Fun (0.021) |
-| Wish You Were Here (0.832) | The Pretender (0.028) |
-| Animals (0.696) | Iron Man (0.0372) |
-| Purple Rain (0.689) | The Chain - 2004 Remaster (0.0451) |
-| Radioactive (0.668) | 1979 - Remastered 2012 (0.0513) |
-| Revolution 1 - Remastered 2009 (0.621) | Smoke on the Water (0.0535) |
-| Feel Good Inc. (0.613) | Paranoid Android (0.0545) |
-| Get Back - Remastered 2009 (0.61) | My Life (0.0555) |
-| Uptown Girl (0.601) | Blackbird - Remastered 2009 (0.0573) |
-| I Am The Walrus - Remastered 2009 (0.589) | Hotel California - 2013 Remaster (0.0575) |
+| Animals (0.696) | The Pretender (0.028) |
+| Purple Rain (0.689) | Iron Man (0.0372) |
+| Radioactive (0.668) | The Chain - 2004 Remaster (0.0451) |
+| Revolution 1 - Remastered 2009 (0.621) | 1979 - Remastered 2012 (0.0513) |
+| Feel Good Inc. (0.613) | Smoke on the Water (0.0535) |
+| Get Back - Remastered 2009 (0.61) | Paranoid Android (0.0545) |
+| Uptown Girl (0.601) | My Life (0.0555) |
+| I Am The Walrus - Remastered 2009 (0.589) | Blackbird - Remastered 2009 (0.0573) |
+| Don't Stop Me Now (0.558) | Hotel California - 2013 Remaster (0.0575) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

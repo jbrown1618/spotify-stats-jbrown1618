@@ -9,9 +9,8 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 14 | [Classic Rock](../../playlists/classic_rock/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 15 | [Classic Rock](../../playlists/classic_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27385b05f4bb3c88cf252f96b68ab67616d0000b273885d9d53e458006a99de2642ab67616d0000b273aa7ac662f49e6ac185cba6beab67616d0000b273ee314008c5ae6e98904ebfe0" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -20,8 +19,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27346493b86589030cc39ce1bf2" alt="" width="50" /> | 2 | 2 | News Of The World | 1977-10-28 | [🔗](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 2 | 2 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | 2 | 2 | A Night At The Opera | 1975-11-21 | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | 2 | 1 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | 2 | 1 | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | 2 | 0 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | 1 | 1 | Sheer Heart Attack | 1974-11-08 | [🔗](https://open.spotify.com/album/4yO8TpSaJtUKkkjmsA4VXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
 
@@ -29,7 +28,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 15 | 11 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+| 15 | 12 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 
 ## Genres
 
@@ -61,7 +60,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | Crazy Little Thing Called Love | The Game | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/2NpKgRCZfFb8fVmvk16iMx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bf7ee0ed15bef2699900a6b" alt="" width="50" /> | Save Me | The Game | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/5xDFYRukUOamdjnFoM3RoW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | I Want To Break Free | The Works | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/1IVZX29ZuEXng3ChRnp3tL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/1dG4lTOVFu8RkSzybolp7o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/1dG4lTOVFu8RkSzybolp7o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | The Show Must Go On | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP) |
 
 </details>

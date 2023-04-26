@@ -21,9 +21,9 @@
 | Any Way You Want It (0.932) | Landslide (0.161) |
 | Scenes from an Italian Restaurant (0.931) | The Great Gig in the Sky (0.217) |
 | Movin' Out (Anthony's Song) (0.88) | Desperado - 2013 Remaster (0.224) |
-| The Stranger (0.878) | Wish You Were Here (0.262) |
-| Only the Good Die Young (0.872) | Brain Damage (0.265) |
-| 25 or 6 to 4 (0.869) | Dust in the Wind (0.322) |
+| The Stranger (0.878) | Brain Damage (0.265) |
+| Only the Good Die Young (0.872) | Dust in the Wind (0.322) |
+| 25 or 6 to 4 (0.869) | She's Always a Woman (0.324) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -48,8 +48,8 @@
 | Landslide (0.883) | Hotel California - 2013 Remaster (0.00574) |
 | She's Always a Woman (0.797) | The Chain - 2004 Remaster (0.009) |
 | The Great Gig in the Sky (0.767) | Walk This Way (0.0114) |
-| Wish You Were Here (0.735) | Immigrant Song - Remaster (0.013) |
-| I'm a Believer - 2006 Remaster (0.707) | Pressure (0.0148) |
+| I'm a Believer - 2006 Remaster (0.707) | Immigrant Song - Remaster (0.013) |
+| Just the Way You Are (0.703) | Pressure (0.0148) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -66,16 +66,16 @@
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Wish You Were Here (0.832) | Iron Man (0.0372) |
-| Uptown Girl (0.601) | The Chain - 2004 Remaster (0.0451) |
-| Don't Stop Believin' (0.447) | Smoke on the Water (0.0535) |
-| Carry on Wayward Son (0.446) | My Life (0.0555) |
-| Paint It, Black (0.399) | Hotel California - 2013 Remaster (0.0575) |
-| Captain Jack (0.374) | Won't Get Fooled Again - Remix (0.0584) |
-| Brain Damage (0.366) | Movin' Out (Anthony's Song) (0.0591) |
-| We Didn't Start the Fire (0.356) | Who Are You (0.0655) |
-| Immigrant Song - Remaster (0.349) | The River of Dreams (0.0667) |
-| Lights (0.332) | Go Your Own Way - 2004 Remaster (0.068) |
+| Uptown Girl (0.601) | Iron Man (0.0372) |
+| Don't Stop Believin' (0.447) | The Chain - 2004 Remaster (0.0451) |
+| Carry on Wayward Son (0.446) | Smoke on the Water (0.0535) |
+| Paint It, Black (0.399) | My Life (0.0555) |
+| Captain Jack (0.374) | Hotel California - 2013 Remaster (0.0575) |
+| Brain Damage (0.366) | Won't Get Fooled Again - Remix (0.0584) |
+| We Didn't Start the Fire (0.356) | Movin' Out (Anthony's Song) (0.0591) |
+| Immigrant Song - Remaster (0.349) | Who Are You (0.0655) |
+| Lights (0.332) | The River of Dreams (0.0667) |
+| Dream On (0.332) | Go Your Own Way - 2004 Remaster (0.068) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

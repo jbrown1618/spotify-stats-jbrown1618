@@ -8,9 +8,9 @@
 | WAP (feat. Megan Thee Stallion) (0.935) | KARATE (0.381) |
 | RUN (HAN) (0.929) | Hello (0.392) |
 | Baby Got Back (0.926) | Radioactive (0.448) |
-| We Made You (0.924) | Everybody Talks (0.471) |
-| Typa Girl (0.915) | LA DI DA (0.477) |
-| BOOM (0.914) | Shatter Me Featuring Lzzy Hale (0.483) |
+| Typa Girl (0.915) | Everybody Talks (0.471) |
+| BOOM (0.914) | LA DI DA (0.477) |
+| Mr. Simple (0.913) | Shatter Me Featuring Lzzy Hale (0.483) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -36,7 +36,7 @@
 | Gas Me Up (0.286) | チョコレイト・ディスコ (0.0351) |
 | Crazy (0.279) | ASAP (0.0351) |
 | Back Door (0.272) | Up & Down (0.0351) |
-| KARATE (0.271) | 쏘리 쏘리 Sorry, Sorry (0.0352) |
+| KARATE (0.271) | 러시안 룰렛 Russian Roulette (0.0357) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -82,10 +82,10 @@
 | Devil (0.968) | One Last Time (0.104) |
 | SexyBack (feat. Timbaland) (0.964) | Youngblood (0.152) |
 | チョコレイト・ディスコ (0.963) | Outlaw (0.218) |
-| 쏘리 쏘리 Sorry, Sorry (0.962) | Daechwita (0.223) |
-| Give it to me (0.961) | KARATE (0.23) |
-| 러시안 룰렛 Russian Roulette (0.958) | Don't Call Me Up (0.234) |
-| Left & Right (0.95) | Radioactive (0.236) |
-| Uptown Funk (feat. Bruno Mars) (0.928) | Alter Ego (0.26) |
-| The Feels (0.922) | Rondo of Nightmare (0.264) |
-| Levitating (feat. DaBaby) (0.915) | Headbangeeeeerrrrr!!!!! (0.275) |
+| Give it to me (0.961) | Daechwita (0.223) |
+| 러시안 룰렛 Russian Roulette (0.958) | KARATE (0.23) |
+| Left & Right (0.95) | Don't Call Me Up (0.234) |
+| Uptown Funk (feat. Bruno Mars) (0.928) | Radioactive (0.236) |
+| The Feels (0.922) | Alter Ego (0.26) |
+| Levitating (feat. DaBaby) (0.915) | Rondo of Nightmare (0.264) |
+| Power Up (0.898) | Headbangeeeeerrrrr!!!!! (0.275) |

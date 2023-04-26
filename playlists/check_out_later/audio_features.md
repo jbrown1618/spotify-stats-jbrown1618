@@ -1,91 +1,91 @@
 # Audio Features for Check Out Later
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
-| HUMBLE. (0.908) | The Great Gig in the Sky (0.274) |
-| Lone Digger (0.769) | Set the Controls for the Heart of the Sun (0.297) |
-| Don't Eat The Yellow Snow (0.747) | Brain Damage (0.324) |
-| Another Brick in the Wall, Pt. 2 (0.693) | Innuendo (0.339) |
-| Bobby Brown Goes Down (0.594) | Peaches En Regalia (0.385) |
-| Wherever I May Roam (Remastered) (0.539) | Breathe (In the Air) (0.431) |
-| Watermelon In Easter Hay (0.486) | Money (0.468) |
-| Uncle Remus (0.484) | Comfortably Numb (0.472) |
-| Wish You Were Here (0.481) | Wish You Were Here (0.481) |
-| Comfortably Numb (0.472) | Uncle Remus (0.484) |
+| Fire (0.963) | The Great Gig in the Sky (0.274) |
+| Lone Digger (0.769) | Seed (0.395) |
+| Shoong! (feat. LISA of BLACKPINK) (0.763) | Comfortably Numb (0.472) |
+| April shower (0.756) | Uncle Remus (0.484) |
+| F*ck My Life (0.736) | Watermelon In Easter Hay (0.486) |
+| Another Brick in the Wall, Pt. 2 (0.693) | Dust (0.497) |
+| Inspiration (feat. Beenzino) (0.692) | Wherever I May Roam (Remastered) (0.539) |
+| I Don't Understand But I Luv U (0.651) | Nightfall (feat. Bryan Chase) (0.593) |
+| Bobby Brown Goes Down (0.594) | Bobby Brown Goes Down (0.594) |
+| Nightfall (feat. Bryan Chase) (0.593) | I Don't Understand But I Luv U (0.651) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | Lone Digger (0.924) | The Great Gig in the Sky (0.217) |
-| Wherever I May Roam (Remastered) (0.834) | Wish You Were Here (0.262) |
-| Peaches En Regalia (0.689) | Brain Damage (0.265) |
-| Don't Eat The Yellow Snow (0.672) | Set the Controls for the Heart of the Sun (0.327) |
-| Uncle Remus (0.66) | Comfortably Numb (0.366) |
-| HUMBLE. (0.621) | Breathe (In the Air) (0.373) |
-| Bobby Brown Goes Down (0.565) | Another Brick in the Wall, Pt. 2 (0.394) |
-| Money (0.536) | Watermelon In Easter Hay (0.433) |
-| Innuendo (0.449) | Innuendo (0.449) |
-| Watermelon In Easter Hay (0.433) | Money (0.536) |
+| Dust (0.862) | Seed (0.33) |
+| Wherever I May Roam (Remastered) (0.834) | Comfortably Numb (0.366) |
+| I Don't Understand But I Luv U (0.786) | Another Brick in the Wall, Pt. 2 (0.394) |
+| Inspiration (feat. Beenzino) (0.766) | Watermelon In Easter Hay (0.433) |
+| Nightfall (feat. Bryan Chase) (0.725) | Bobby Brown Goes Down (0.565) |
+| Shoong! (feat. LISA of BLACKPINK) (0.699) | Uncle Remus (0.66) |
+| F*ck My Life (0.685) | April shower (0.663) |
+| Fire (0.666) | Fire (0.666) |
+| April shower (0.663) | F*ck My Life (0.685) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
-| Bobby Brown Goes Down (0.175) | Comfortably Numb (0.0286) |
-| Money (0.144) | Peaches En Regalia (0.0294) |
-| Don't Eat The Yellow Snow (0.112) | Brain Damage (0.0302) |
-| HUMBLE. (0.102) | The Great Gig in the Sky (0.0345) |
-| Lone Digger (0.051) | Breathe (In the Air) (0.0346) |
-| Set the Controls for the Heart of the Sun (0.0482) | Uncle Remus (0.0358) |
-| Watermelon In Easter Hay (0.0439) | Wherever I May Roam (Remastered) (0.0364) |
-| Another Brick in the Wall, Pt. 2 (0.0428) | Innuendo (0.0393) |
-| Wish You Were Here (0.0414) | Wish You Were Here (0.0414) |
-| Innuendo (0.0393) | Another Brick in the Wall, Pt. 2 (0.0428) |
+| Fire (0.274) | Comfortably Numb (0.0286) |
+| Bobby Brown Goes Down (0.175) | The Great Gig in the Sky (0.0345) |
+| Dust (0.0836) | Seed (0.0358) |
+| F*ck My Life (0.0604) | Uncle Remus (0.0358) |
+| April shower (0.0558) | Wherever I May Roam (Remastered) (0.0364) |
+| Shoong! (feat. LISA of BLACKPINK) (0.0554) | Nightfall (feat. Bryan Chase) (0.0376) |
+| Lone Digger (0.051) | I Don't Understand But I Luv U (0.0381) |
+| Inspiration (feat. Beenzino) (0.046) | Another Brick in the Wall, Pt. 2 (0.0428) |
+| Watermelon In Easter Hay (0.0439) | Watermelon In Easter Hay (0.0439) |
+| Another Brick in the Wall, Pt. 2 (0.0428) | Inspiration (feat. Beenzino) (0.046) |
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| The Great Gig in the Sky (0.767) | HUMBLE. (0.000282) |
-| Wish You Were Here (0.735) | Wherever I May Roam (Remastered) (0.000646) |
-| Set the Controls for the Heart of the Sun (0.673) | Money (0.024) |
-| Lone Digger (0.596) | Uncle Remus (0.034) |
-| Breathe (In the Air) (0.389) | Brain Damage (0.0732) |
-| Peaches En Regalia (0.262) | Another Brick in the Wall, Pt. 2 (0.0782) |
-| Bobby Brown Goes Down (0.245) | Innuendo (0.0976) |
-| Watermelon In Easter Hay (0.192) | Comfortably Numb (0.15) |
-| Don't Eat The Yellow Snow (0.187) | Don't Eat The Yellow Snow (0.187) |
-| Comfortably Numb (0.15) | Watermelon In Easter Hay (0.192) |
+| The Great Gig in the Sky (0.767) | Wherever I May Roam (Remastered) (0.000646) |
+| Lone Digger (0.596) | Nightfall (feat. Bryan Chase) (0.00677) |
+| Seed (0.454) | Shoong! (feat. LISA of BLACKPINK) (0.00789) |
+| Dust (0.301) | Inspiration (feat. Beenzino) (0.0277) |
+| I Don't Understand But I Luv U (0.296) | Uncle Remus (0.034) |
+| Bobby Brown Goes Down (0.245) | Another Brick in the Wall, Pt. 2 (0.0782) |
+| Watermelon In Easter Hay (0.192) | F*ck My Life (0.0849) |
+| Comfortably Numb (0.15) | Fire (0.0864) |
+| April shower (0.109) | April shower (0.109) |
+| Fire (0.0864) | Comfortably Numb (0.15) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Set the Controls for the Heart of the Sun (0.905) | Bobby Brown Goes Down (0.0) |
-| The Great Gig in the Sky (0.896) | HUMBLE. (5.39e-05) |
-| Peaches En Regalia (0.835) | Innuendo (0.000219) |
-| Breathe (In the Air) (0.728) | Wherever I May Roam (Remastered) (0.000516) |
-| Brain Damage (0.341) | Another Brick in the Wall, Pt. 2 (0.000694) |
-| Comfortably Numb (0.312) | Money (0.00199) |
-| Uncle Remus (0.0812) | Wish You Were Here (0.0114) |
-| Don't Eat The Yellow Snow (0.0459) | Lone Digger (0.0156) |
-| Watermelon In Easter Hay (0.031) | Watermelon In Easter Hay (0.031) |
-| Lone Digger (0.0156) | Don't Eat The Yellow Snow (0.0459) |
+| The Great Gig in the Sky (0.896) | Nightfall (feat. Bryan Chase) (0.0) |
+| Comfortably Numb (0.312) | Fire (0.0) |
+| Uncle Remus (0.0812) | I Don't Understand But I Luv U (0.0) |
+| Watermelon In Easter Hay (0.031) | F*ck My Life (0.0) |
+| Lone Digger (0.0156) | Seed (0.0) |
+| Another Brick in the Wall, Pt. 2 (0.000694) | Bobby Brown Goes Down (0.0) |
+| Wherever I May Roam (Remastered) (0.000516) | Shoong! (feat. LISA of BLACKPINK) (0.0) |
+| Dust (0.0) | Inspiration (feat. Beenzino) (0.0) |
+| April shower (0.0) | April shower (0.0) |
+| Inspiration (feat. Beenzino) (0.0) | Dust (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Wish You Were Here (0.832) | Set the Controls for the Heart of the Sun (0.0786) |
-| Brain Damage (0.366) | The Great Gig in the Sky (0.0832) |
-| Money (0.269) | Comfortably Numb (0.0837) |
-| Another Brick in the Wall, Pt. 2 (0.247) | Peaches En Regalia (0.0848) |
-| Breathe (In the Air) (0.143) | Uncle Remus (0.0893) |
-| Watermelon In Easter Hay (0.124) | HUMBLE. (0.0958) |
-| Bobby Brown Goes Down (0.123) | Lone Digger (0.114) |
-| Don't Eat The Yellow Snow (0.122) | Innuendo (0.114) |
-| Wherever I May Roam (Remastered) (0.119) | Wherever I May Roam (Remastered) (0.119) |
-| Innuendo (0.114) | Don't Eat The Yellow Snow (0.122) |
+| Shoong! (feat. LISA of BLACKPINK) (0.409) | Fire (0.0723) |
+| I Don't Understand But I Luv U (0.296) | The Great Gig in the Sky (0.0832) |
+| Another Brick in the Wall, Pt. 2 (0.247) | Comfortably Numb (0.0837) |
+| April shower (0.211) | Uncle Remus (0.0893) |
+| Dust (0.14) | F*ck My Life (0.0955) |
+| Inspiration (feat. Beenzino) (0.125) | Seed (0.11) |
+| Nightfall (feat. Bryan Chase) (0.125) | Lone Digger (0.114) |
+| Watermelon In Easter Hay (0.124) | Wherever I May Roam (Remastered) (0.119) |
+| Bobby Brown Goes Down (0.123) | Bobby Brown Goes Down (0.123) |
+| Wherever I May Roam (Remastered) (0.119) | Watermelon In Easter Hay (0.124) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Lone Digger (0.88) | Comfortably Numb (0.171) |
-| Money (0.785) | The Great Gig in the Sky (0.181) |
-| Peaches En Regalia (0.777) | Brain Damage (0.208) |
-| Bobby Brown Goes Down (0.755) | Breathe (In the Air) (0.253) |
-| Uncle Remus (0.742) | Innuendo (0.254) |
-| Don't Eat The Yellow Snow (0.742) | Watermelon In Easter Hay (0.295) |
-| Another Brick in the Wall, Pt. 2 (0.721) | Set the Controls for the Heart of the Sun (0.334) |
-| HUMBLE. (0.421) | Wherever I May Roam (Remastered) (0.339) |
-| Wish You Were Here (0.375) | Wish You Were Here (0.375) |
-| Wherever I May Roam (Remastered) (0.339) | HUMBLE. (0.421) |
+| Lone Digger (0.88) | Nightfall (feat. Bryan Chase) (0.168) |
+| F*ck My Life (0.857) | Comfortably Numb (0.171) |
+| Fire (0.771) | The Great Gig in the Sky (0.181) |
+| Bobby Brown Goes Down (0.755) | Seed (0.215) |
+| Uncle Remus (0.742) | Shoong! (feat. LISA of BLACKPINK) (0.255) |
+| Another Brick in the Wall, Pt. 2 (0.721) | Watermelon In Easter Hay (0.295) |
+| April shower (0.641) | Wherever I May Roam (Remastered) (0.339) |
+| Inspiration (feat. Beenzino) (0.627) | Dust (0.574) |
+| I Don't Understand But I Luv U (0.576) | I Don't Understand But I Luv U (0.576) |
+| Dust (0.574) | Inspiration (feat. Beenzino) (0.627) |

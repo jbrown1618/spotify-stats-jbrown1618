@@ -2,15 +2,15 @@
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Cold Blooded (0.961) | On The Ground (0.311) |
-| #Twenty (0.956) | My sea (0.353) |
-| SNEAKERS (0.935) | Fine (0.36) |
-| Idle song (0.933) | Like Water (0.365) |
-| RUN (HAN) (0.929) | Epilogue (0.366) |
-| Jelly (0.921) | Clockwork (0.37) |
-| Weather (0.915) | CHEESE (0.376) |
-| Typa Girl (0.915) | HWAA (0.384) |
-| BOOM (0.914) | Boy in time - HUI Solo (0.385) |
-| Mr. Simple (0.913) | O.O (0.39) |
+| #Twenty (0.956) | AMYGDALA (0.311) |
+| SNEAKERS (0.935) | My sea (0.353) |
+| Idle song (0.933) | Fine (0.36) |
+| RUN (HAN) (0.929) | Like Water (0.365) |
+| Jelly (0.921) | Epilogue (0.366) |
+| Weather (0.915) | Clockwork (0.37) |
+| Typa Girl (0.915) | CHEESE (0.376) |
+| BOOM (0.914) | HWAA (0.384) |
+| Mr. Simple (0.913) | Boy in time - HUI Solo (0.385) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|

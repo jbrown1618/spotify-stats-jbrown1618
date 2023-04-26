@@ -4,6 +4,8 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 0 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 0 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 81 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 73 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 82 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 91 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 83 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
@@ -243,6 +245,14 @@
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 39 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 39 |
+| Nightfall (feat. Bryan Chase) | Down to Earth | TAEYANG | 0 | 0 | 68 |
+| Seed | Down to Earth | TAEYANG | 0 | 0 | 68 |
+| VIBE (feat. Jimin of BTS) | Down to Earth | Jimin | 0 | 0 | 86 |
+| VIBE (feat. Jimin of BTS) | Down to Earth | TAEYANG | 0 | 0 | 68 |
+| Shoong! (feat. LISA of BLACKPINK) | Down to Earth | LISA | 0 | 0 | 72 |
+| Shoong! (feat. LISA of BLACKPINK) | Down to Earth | TAEYANG | 0 | 0 | 68 |
+| Inspiration (feat. Beenzino) | Down to Earth | TAEYANG | 0 | 0 | 68 |
+| Inspiration (feat. Beenzino) | Down to Earth | Beenzino | 0 | 0 | 53 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
@@ -293,18 +303,17 @@
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 84 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 84 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 51 |
-| Carey | Blue | Joni Mitchell | 0 | 1 | 56 |
-| Blue | Blue | Joni Mitchell | 0 | 1 | 56 |
-| A Case of You | Blue | Joni Mitchell | 1 | 1 | 56 |
+| Carey | Blue | Joni Mitchell | 0 | 2 | 56 |
+| Blue | Blue | Joni Mitchell | 0 | 2 | 56 |
+| A Case of You | Blue | Joni Mitchell | 2 | 2 | 56 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 35 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 47 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
-| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
@@ -320,7 +329,7 @@
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 69 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 39 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 40 |
-| Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
+| Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 28 |
 | Elastic Heart | RISE | The Nor'easters | 0 | 0 | 32 |
 | Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 32 |
 | Alive | RISE | The Nor'easters | 0 | 0 | 32 |
@@ -335,8 +344,14 @@
 | Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
 | Don't Stop Believin' | BOCA 2008: Best Of College A Cappella | The Clef Hangers | 0 | 0 | 25 |
-| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
 | Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
+| Fire | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
+| Super | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
+| I Don't Understand But I Luv U | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
+| F*ck My Life | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
+| April shower | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
+| Dust | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 40 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 51 |
@@ -345,11 +360,11 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 32 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
-| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 51 |
+| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 50 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 90 |
-| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 73 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 73 |
@@ -362,7 +377,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Butter | Butter | BTS | 2 | 1 | 90 |
+| Butter | Butter | BTS | 2 | 0 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 54 |
@@ -370,9 +385,9 @@
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
-| Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 2 | 66 |
+| Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 2 | 65 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 2 | 63 |
-| Happier (feat. Crush) | PSY 9th | PSY | 0 | 2 | 66 |
+| Happier (feat. Crush) | PSY 9th | PSY | 0 | 2 | 65 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 2 | 66 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 85 |
@@ -381,7 +396,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 51 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 43 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
@@ -405,7 +420,7 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 77 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 74 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 56 |

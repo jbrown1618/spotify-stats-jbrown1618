@@ -66,16 +66,16 @@
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Wish You Were Here (0.832) | Iron Man (0.0372) |
-| Revolution 1 - Remastered 2009 (0.621) | The Chain - 2004 Remaster (0.0451) |
-| Get Back - Remastered 2009 (0.61) | Smoke on the Water (0.0535) |
-| Uptown Girl (0.601) | My Life (0.0555) |
-| I Am The Walrus - Remastered 2009 (0.589) | Blackbird - Remastered 2009 (0.0573) |
-| Don't Stop Me Now (0.558) | Hotel California - 2013 Remaster (0.0575) |
-| Don't Stop Believin' (0.447) | Won't Get Fooled Again - Remix (0.0584) |
-| Carry on Wayward Son (0.446) | Movin' Out (Anthony's Song) (0.0591) |
-| Yellow Submarine - Remastered 2009 (0.438) | The Boxer (0.0619) |
-| Brown Eyed Girl (0.406) | Good Old Fashioned Lover Boy (0.0638) |
+| Revolution 1 - Remastered 2009 (0.621) | Iron Man (0.0372) |
+| Get Back - Remastered 2009 (0.61) | The Chain - 2004 Remaster (0.0451) |
+| Uptown Girl (0.601) | Smoke on the Water (0.0535) |
+| I Am The Walrus - Remastered 2009 (0.589) | My Life (0.0555) |
+| Don't Stop Me Now (0.558) | Blackbird - Remastered 2009 (0.0573) |
+| Don't Stop Believin' (0.447) | Hotel California - 2013 Remaster (0.0575) |
+| Carry on Wayward Son (0.446) | Won't Get Fooled Again - Remix (0.0584) |
+| Yellow Submarine - Remastered 2009 (0.438) | Movin' Out (Anthony's Song) (0.0591) |
+| Brown Eyed Girl (0.406) | The Boxer (0.0619) |
+| Paint It, Black (0.399) | Good Old Fashioned Lover Boy (0.0638) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

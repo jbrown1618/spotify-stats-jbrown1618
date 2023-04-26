@@ -5,12 +5,12 @@
 | WAP (feat. Megan Thee Stallion) (0.935) | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.502) |
 | Baby Got Back (0.926) | Get Low (0.521) |
 | We Made You (0.924) | United In Grief (0.529) |
-| Sally Walker (0.905) | All Of The Lights (0.531) |
-| Don't Cha (0.877) | Dior (0.548) |
-| Where Is The Love? (0.834) | Can't Tell Me Nothing (0.596) |
-| Work Out (0.831) | Hello Good Morning (0.616) |
-| It's A Vibe (0.822) | 1-800-273-8255 (0.62) |
-| Break Ya Neck (0.82) | Gold Digger (0.629) |
+| HUMBLE. (0.908) | All Of The Lights (0.531) |
+| Sally Walker (0.905) | Dior (0.548) |
+| Don't Cha (0.877) | Can't Tell Me Nothing (0.596) |
+| Where Is The Love? (0.834) | Hello Good Morning (0.616) |
+| Work Out (0.831) | 1-800-273-8255 (0.62) |
+| It's A Vibe (0.822) | Gold Digger (0.629) |
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -40,16 +40,16 @@
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
-| Count Me Out (0.671) | Baby Got Back (0.0051) |
-| Jesus Walks (0.614) | Don't Cha (0.00516) |
-| 1-800-273-8255 (0.569) | No Hands (feat. Roscoe Dash & Wale) (0.00544) |
-| on the street (with J. Cole) (0.532) | Lose Yourself (0.00922) |
-| Crank That (Soulja Boy) (0.515) | Can't Tell Me Nothing (0.0122) |
-| Break Ya Neck (0.443) | Sally Walker (0.0177) |
-| Super Bass (0.269) | WAP (feat. Megan Thee Stallion) (0.0194) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.255) | Gold Digger (0.0195) |
-| United In Grief (0.244) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
-| Love The Way You Lie (0.241) | Empire State Of Mind (0.0295) |
+| Count Me Out (0.671) | HUMBLE. (0.000282) |
+| Jesus Walks (0.614) | Baby Got Back (0.0051) |
+| 1-800-273-8255 (0.569) | Don't Cha (0.00516) |
+| on the street (with J. Cole) (0.532) | No Hands (feat. Roscoe Dash & Wale) (0.00544) |
+| Crank That (Soulja Boy) (0.515) | Lose Yourself (0.00922) |
+| Break Ya Neck (0.443) | Can't Tell Me Nothing (0.0122) |
+| Super Bass (0.269) | Sally Walker (0.0177) |
+| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.255) | WAP (feat. Megan Thee Stallion) (0.0194) |
+| United In Grief (0.244) | Gold Digger (0.0195) |
+| Love The Way You Lie (0.241) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -58,11 +58,11 @@
 | It's A Vibe (0.000887) | Get Low (0.0) |
 | Lose Yourself (0.00072) | Where Is The Love? (0.0) |
 | Dior (0.000389) | Love The Way You Lie (0.0) |
-| Momma I Hit A Lick (feat. Kendrick Lamar) (3.32e-05) | Gold Digger (0.0) |
-| All Of The Lights (1.71e-05) | Baby Got Back (0.0) |
-| Anaconda (7.78e-06) | Sally Walker (0.0) |
-| Super Bass (5.11e-06) | Empire State Of Mind (0.0) |
-| Don't Cha (2.5e-06) | Work Out (0.0) |
+| HUMBLE. (5.39e-05) | Gold Digger (0.0) |
+| Momma I Hit A Lick (feat. Kendrick Lamar) (3.32e-05) | Baby Got Back (0.0) |
+| All Of The Lights (1.71e-05) | Sally Walker (0.0) |
+| Anaconda (7.78e-06) | Empire State Of Mind (0.0) |
+| Super Bass (5.11e-06) | Work Out (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

@@ -58,11 +58,11 @@
 | YEPPI YEPPI (0.0391) | Clockwork (0.0) |
 | Power Up (0.00745) | Beatbox (0.0) |
 | In My Dreams (0.0066) | Why Can't You Love Me? (0.0) |
-| Los Angeles (0.00448) | Ridin' (0.0) |
-| Lion Heart (0.00274) | BOSS (0.0) |
-| Peek-A-Boo (0.00257) | Best Friend (with SEULGI) (0.0) |
-| Mr. Simple (0.00208) | Gold Dust (0.0) |
-| Parade (0.00131) | Paradise (0.0) |
+| Lion Heart (0.00274) | Ridin' (0.0) |
+| Peek-A-Boo (0.00257) | BOSS (0.0) |
+| Mr. Simple (0.00208) | Best Friend (with SEULGI) (0.0) |
+| Parade (0.00131) | Gold Dust (0.0) |
+| Black Mamba (0.000946) | Paradise (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|

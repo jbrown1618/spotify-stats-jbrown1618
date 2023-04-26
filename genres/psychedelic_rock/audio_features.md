@@ -20,10 +20,10 @@
 | Peaches En Regalia (0.689) | The Great Gig in the Sky (0.217) |
 | Don't Eat The Yellow Snow (0.672) | When I'm Sixty Four - Remastered 2009 (0.241) |
 | Uncle Remus (0.66) | Because - Remastered 2009 (0.249) |
-| Oh! Darling - Remastered 2009 (0.656) | Wish You Were Here (0.262) |
-| While My Guitar Gently Weeps - Remastered 2009 (0.654) | Brain Damage (0.265) |
-| Revolution 1 - Remastered 2009 (0.626) | Eleanor Rigby - Remastered 2009 (0.28) |
-| Sexy Sadie - Remastered 2009 (0.624) | Set the Controls for the Heart of the Sun (0.327) |
+| Oh! Darling - Remastered 2009 (0.656) | Brain Damage (0.265) |
+| While My Guitar Gently Weeps - Remastered 2009 (0.654) | Eleanor Rigby - Remastered 2009 (0.28) |
+| Revolution 1 - Remastered 2009 (0.626) | Set the Controls for the Heart of the Sun (0.327) |
+| Sexy Sadie - Remastered 2009 (0.624) | Something - Remastered 2009 (0.338) |
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -45,11 +45,11 @@
 | The Great Gig in the Sky (0.767) | I Want You (She's So Heavy) - Remastered 2009 (0.0233) |
 | Blackbird - Remastered 2009 (0.754) | Money (0.024) |
 | Because - Remastered 2009 (0.754) | Come Together - Remastered 2009 (0.0302) |
-| Wish You Were Here (0.735) | Uncle Remus (0.034) |
-| Set the Controls for the Heart of the Sun (0.673) | Brain Damage (0.0732) |
-| Let It Be - Remastered 2009 (0.631) | Another Brick in the Wall, Pt. 2 (0.0782) |
-| When I'm Sixty Four - Remastered 2009 (0.625) | Revolution 1 - Remastered 2009 (0.0785) |
-| Yellow Submarine - Remastered 2009 (0.531) | I Am The Walrus - Remastered 2009 (0.0828) |
+| Set the Controls for the Heart of the Sun (0.673) | Uncle Remus (0.034) |
+| Let It Be - Remastered 2009 (0.631) | Brain Damage (0.0732) |
+| When I'm Sixty Four - Remastered 2009 (0.625) | Another Brick in the Wall, Pt. 2 (0.0782) |
+| Yellow Submarine - Remastered 2009 (0.531) | Revolution 1 - Remastered 2009 (0.0785) |
+| Get Back - Remastered 2009 (0.492) | I Am The Walrus - Remastered 2009 (0.0828) |
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -66,16 +66,16 @@
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
-| Wish You Were Here (0.832) | Blackbird - Remastered 2009 (0.0573) |
-| Revolution 1 - Remastered 2009 (0.621) | Across The Universe - Remastered 2009 (0.0702) |
-| Get Back - Remastered 2009 (0.61) | Strawberry Fields Forever - Remastered 2009 (0.0713) |
-| I Am The Walrus - Remastered 2009 (0.589) | Set the Controls for the Heart of the Sun (0.0786) |
-| Yellow Submarine - Remastered 2009 (0.438) | The Great Gig in the Sky (0.0832) |
-| Brain Damage (0.366) | Comfortably Numb (0.0837) |
-| All My Loving - Remastered 2009 (0.343) | Got To Get You Into My Life - Remastered 2009 (0.0838) |
-| Eleanor Rigby - Remastered 2009 (0.305) | Peaches En Regalia (0.0848) |
-| Carry That Weight - Remastered 2009 (0.298) | When I'm Sixty Four - Remastered 2009 (0.0868) |
-| All You Need Is Love - Remastered 2009 (0.286) | Yesterday - Remastered 2009 (0.0886) |
+| Revolution 1 - Remastered 2009 (0.621) | Blackbird - Remastered 2009 (0.0573) |
+| Get Back - Remastered 2009 (0.61) | Across The Universe - Remastered 2009 (0.0702) |
+| I Am The Walrus - Remastered 2009 (0.589) | Strawberry Fields Forever - Remastered 2009 (0.0713) |
+| Yellow Submarine - Remastered 2009 (0.438) | Set the Controls for the Heart of the Sun (0.0786) |
+| Brain Damage (0.366) | The Great Gig in the Sky (0.0832) |
+| All My Loving - Remastered 2009 (0.343) | Comfortably Numb (0.0837) |
+| Eleanor Rigby - Remastered 2009 (0.305) | Got To Get You Into My Life - Remastered 2009 (0.0838) |
+| Carry That Weight - Remastered 2009 (0.298) | Peaches En Regalia (0.0848) |
+| All You Need Is Love - Remastered 2009 (0.286) | When I'm Sixty Four - Remastered 2009 (0.0868) |
+| Money (0.269) | Yesterday - Remastered 2009 (0.0886) |
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|

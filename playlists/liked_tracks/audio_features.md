@@ -53,16 +53,16 @@
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
-| Digital Love (0.867) | Leave The Door Open (0.0) |
-| だいじょばない (0.844) | Gangnam Style (강남스타일) (0.0) |
-| Animals (0.796) | Traffic light (0.0) |
-| Reptilia (0.713) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
-| Street Spirit (Fade Out) (0.694) | Sweet As Whole (0.0) |
-| A Fifth Of Beethoven (0.69) | GGBB (0.0) |
-| everything i wanted (0.657) | The Lighthouse's Tale (0.0) |
-| Instant Crush (feat. Julian Casablancas) (0.619) | Clean (0.0) |
-| There, There (0.52) | To the moon (0.0) |
-| Smooth Criminal - 2012 Remaster (0.468) | Shut Down (0.0) |
+| Set the Controls for the Heart of the Sun (0.905) | Leave The Door Open (0.0) |
+| Digital Love (0.867) | Gangnam Style (강남스타일) (0.0) |
+| だいじょばない (0.844) | Traffic light (0.0) |
+| Animals (0.796) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
+| Breathe (In the Air) (0.728) | Sweet As Whole (0.0) |
+| Reptilia (0.713) | GGBB (0.0) |
+| Street Spirit (Fade Out) (0.694) | The Lighthouse's Tale (0.0) |
+| A Fifth Of Beethoven (0.69) | Clean (0.0) |
+| everything i wanted (0.657) | To the moon (0.0) |
+| Instant Crush (feat. Julian Casablancas) (0.619) | Shut Down (0.0) |
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
