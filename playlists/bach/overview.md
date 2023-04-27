@@ -65,7 +65,7 @@
 
 
 
-| 5 newest albums | 5 oldest albums |
-|:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> <span>Bach, J.S.: Brandenburg Concertos etc. (1995-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> <span>Bach: Unaccompanied Cello Suites (Remastered) (1983)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> <span>Bach: Unaccompanied Cello Suites (Remastered) (1983)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> <span>Bach, J.S.: Brandenburg Concertos etc. (1995-01-01)</span></div> |
+| ​ | 5 newest albums | ​​ | 5 oldest albums |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> | Bach, J.S.: Brandenburg Concertos etc. (1995-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) (1983) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) (1983) | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> | Bach, J.S.: Brandenburg Concertos etc. (1995-01-01) |

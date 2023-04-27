@@ -59,7 +59,7 @@
 
 
 
-| 5 newest albums | 5 oldest albums |
-|:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> <span>Vivaldi: Four Seasons (2008-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> <span>Vivaldi: The Four Seasons. (2007-10-01)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> <span>Vivaldi: The Four Seasons. (2007-10-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> <span>Vivaldi: Four Seasons (2008-01-01)</span></div> |
+| ​ | 5 newest albums | ​​ | 5 oldest albums |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) |

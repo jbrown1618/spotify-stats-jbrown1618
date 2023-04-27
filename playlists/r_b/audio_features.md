@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Coño (0.899) | I'd Rather Go Blind (0.326) |
-| Yeah! (feat. Lil Jon & Ludacris) (0.894) | Ave Maria (0.35) |
-| I Don't Mind (feat. Juicy J) (0.87) | Unknown (To You) (0.367) |
-| Make Me Feel (0.859) | Half Of Me (0.391) |
-| Bubblegum (feat. Tyga) (0.856) | What Now (0.402) |
-| That's What I Like (0.853) | Partition (0.418) |
-| Bootylicious (0.835) | All of Me (0.422) |
-| Crazy (0.835) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
-| Don't Stop The Music (0.835) | Irreplaceable (0.447) |
-| You Right (0.828) | So Sick (0.452) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (0.899) | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="Music From The Motion Picture Cadillac Records" width="50" /> | I'd Rather Go Blind (0.326) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Yeah! (feat. Lil Jon & Ludacris) (0.894) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.35) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don't Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) (0.87) | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) (0.367) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Make Me Feel (0.859) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Half Of Me (0.391) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="Tattoos (Deluxe Edition)" width="50" /> | Bubblegum (feat. Tyga) (0.856) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | What Now (0.402) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.853) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.418) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Bootylicious (0.835) | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> | All of Me (0.422) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="St. Elsewhere" width="50" /> | Crazy (0.835) | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B'Day Deluxe Edition" width="50" /> | Listen (From the Motion Picture "Dreamgirls") (0.432) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Don't Stop The Music (0.835) | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B'Day Deluxe Edition" width="50" /> | Irreplaceable (0.447) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> | You Right (0.828) | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | So Sick (0.452) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Boss Bitch (0.955) | All of Me (0.264) |
-| Green Light (feat. André 3000) (0.882) | When I Was Your Man (0.28) |
-| DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | Stay (0.31) |
-| Finesse - Remix; feat. Cardi B (0.859) | Thinkin Bout You (0.339) |
-| When I Get You Alone (0.857) | Best Part (feat. H.E.R.) (0.364) |
-| Bootylicious (0.833) | Easy (0.384) |
-| Umbrella (0.829) | Hold Up (0.397) |
-| Isn't She Lovely (0.826) | Ave Maria (0.403) |
-| Sweet Dreams (0.825) | Papa Was A Rollin' Stone - Single Version (0.405) |
-| Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.817) | Make Me Feel (0.413) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | Boss Bitch (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> | All of Me (0.264) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="Evolver" width="50" /> | Green Light (feat. André 3000) (0.882) | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="Raymond v Raymond (Expanded Edition)" width="50" /> | DJ Got Us Fallin' In Love (feat. Pitbull) (0.861) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Stay (0.31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.859) | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="channel ORANGE" width="50" /> | Thinkin Bout You (0.339) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | When I Get You Alone (0.857) | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> | Best Part (feat. H.E.R.) (0.364) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Bootylicious (0.833) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy (0.384) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Umbrella (0.829) | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (0.397) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Isn't She Lovely (0.826) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.403) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Sweet Dreams (0.825) | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> | Papa Was A Rollin' Stone - Single Version (0.405) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="Swalla (feat. Nicki Minaj & Ty Dolla $ign)" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.817) | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Make Me Feel (0.413) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Hold Up (0.405) | I'd Rather Go Blind (0.0247) |
-| Irreplaceable (0.382) | Ave Maria (0.0279) |
-| Bubblegum (feat. Tyga) (0.34) | Stay (0.0283) |
-| So Sick (0.31) | One Step At a Time (0.0289) |
-| Bootylicious (0.284) | Build Me Up Buttercup (0.0293) |
-| Partition (0.283) | Me & U (0.0294) |
-| Trumpets (0.258) | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
-| Talk Dirty (feat. 2 Chainz) (0.232) | Love's Train (0.031) |
-| Crazy In Love (feat. Jay-Z) (0.226) | If I Were a Boy (0.0313) |
-| Boss Bitch (0.222) | I'd Rather Go Blind (0.032) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (0.405) | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> | I'd Rather Go Blind (0.0247) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B'Day Deluxe Edition" width="50" /> | Irreplaceable (0.382) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.0279) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="Tattoos (Deluxe Edition)" width="50" /> | Bubblegum (feat. Tyga) (0.34) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Stay (0.0283) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | So Sick (0.31) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | One Step At a Time (0.0289) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Bootylicious (0.284) | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | Build Me Up Buttercup (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.283) | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Me & U (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="Talk Dirty" width="50" /> | Trumpets (0.258) | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops & Hooligans" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="Talk Dirty" width="50" /> | Talk Dirty (feat. 2 Chainz) (0.232) | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> | Love's Train (0.031) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Crazy In Love (feat. Jay-Z) (0.226) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | If I Were a Boy (0.0313) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | Boss Bitch (0.222) | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="Music From The Motion Picture Cadillac Records" width="50" /> | I'd Rather Go Blind (0.032) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Stay (0.945) | Coño (0.000554) |
-| When I Was Your Man (0.932) | Blinding Lights (0.00146) |
-| All of Me (0.922) | Bootylicious (0.00247) |
-| Unknown (To You) (0.895) | Crazy In Love (feat. Jay-Z) (0.00249) |
-| Best Part (feat. H.E.R.) (0.808) | Watch n' Learn (0.00304) |
-| Ave Maria (0.786) | Finesse (0.00781) |
-| At My Worst (0.777) | Umbrella (0.00864) |
-| Mushroom Chocolate (with 6LACK) (0.765) | If I Go (0.00959) |
-| How Can I (0.759) | S&M (0.0113) |
-| Hold Up (0.745) | That's What I Like (0.013) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Stay (0.945) | <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (0.000554) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights (0.00146) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> | All of Me (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Bootylicious (0.00247) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) (0.895) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Crazy In Love (feat. Jay-Z) (0.00249) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> | Best Part (feat. H.E.R.) (0.808) | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | Watch n' Learn (0.00304) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.786) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.00781) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst (0.777) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Umbrella (0.00864) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> | Mushroom Chocolate (with 6LACK) (0.765) | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> | If I Go (0.00959) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="How Can I" width="50" /> | How Can I (0.759) | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | S&M (0.0113) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (0.745) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.013) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Partition (0.0707) | Leave The Door Open (0.0) |
-| Crazy (0.0577) | That's What I Like (0.0) |
-| Papa Was A Rollin' Stone - Single Version (0.0507) | What Now (0.0) |
-| Coño (0.0101) | When I Was Your Man (0.0) |
-| Superstition - Single Version (0.0064) | At My Worst (0.0) |
-| Tomboy (0.00512) | Hold Up (0.0) |
-| Isn't She Lovely (0.00352) | Bubblegum (feat. Tyga) (0.0) |
-| I Like That (0.00243) | Best Part (feat. H.E.R.) (0.0) |
-| You Right (0.00233) | Ave Maria (0.0) |
-| Thinkin Bout You (0.00153) | When I Get You Alone (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.0707) | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | Leave The Door Open (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="St. Elsewhere" width="50" /> | Crazy (0.0577) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> | Papa Was A Rollin' Stone - Single Version (0.0507) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | What Now (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (0.0101) | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version (0.0064) | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> | Tomboy (0.00512) | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Isn't She Lovely (0.00352) | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="Tattoos (Deluxe Edition)" width="50" /> | Bubblegum (feat. Tyga) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | I Like That (0.00243) | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> | Best Part (feat. H.E.R.) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> | You Right (0.00233) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="channel ORANGE" width="50" /> | Thinkin Bout You (0.00153) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | When I Get You Alone (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| What Now (0.628) | Finesse - Remix; feat. Cardi B (0.0215) |
-| Love On Top (0.604) | Finesse (0.0232) |
-| For Once In My Life (0.523) | One Step At a Time (0.0384) |
-| Hold Up (0.521) | Superstition - Single Version (0.0385) |
-| MONTERO (Call Me By Your Name) (0.384) | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
-| Half Of Me (0.36) | Umbrella (0.0426) |
-| The Way You Do The Things You Do (0.358) | Papa Was A Rollin' Stone - Single Version (0.0468) |
-| If I Were a Boy (0.354) | Baby Powder (0.0518) |
-| Daddy Lessons (0.349) | Don't Stop The Music (0.0535) |
-| Make Me Feel (0.334) | When I Get You Alone (0.0549) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | What Now (0.628) | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.0215) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="4" width="50" /> | Love On Top (0.604) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.0232) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> | For Once In My Life (0.523) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | One Step At a Time (0.0384) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (0.521) | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version (0.0385) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> | MONTERO (Call Me By Your Name) (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Half Of Me (0.36) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Umbrella (0.0426) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> | The Way You Do The Things You Do (0.358) | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> | Papa Was A Rollin' Stone - Single Version (0.0468) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | If I Were a Boy (0.354) | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder (0.0518) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Daddy Lessons (0.349) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Don't Stop The Music (0.0535) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Make Me Feel (0.334) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | When I Get You Alone (0.0549) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Finesse (0.939) | Stay (0.125) |
-| Ain't Too Proud To Beg (0.926) | I Like That (0.17) |
-| Finesse - Remix; feat. Cardi B (0.926) | Partition (0.172) |
-| Papa Was A Rollin' Stone - Single Version (0.898) | Listen (From the Motion Picture "Dreamgirls") (0.187) |
-| Superstition - Single Version (0.872) | Thinkin Bout You (0.2) |
-| Locked out of Heaven (0.867) | Ave Maria (0.201) |
-| That's What I Like (0.86) | What Now (0.227) |
-| Build Me Up Buttercup (0.855) | I Was Here (0.235) |
-| For Once In My Life (0.847) | Grenade (0.245) |
-| S&M (0.833) | There Goes My Baby (0.257) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.939) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Stay (0.125) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin' Ready (Expanded Edition)" width="50" /> | Ain't Too Proud To Beg (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | I Like That (0.17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.172) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s" width="50" /> | Papa Was A Rollin' Stone - Single Version (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B'Day Deluxe Edition" width="50" /> | Listen (From the Motion Picture "Dreamgirls") (0.187) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="channel ORANGE" width="50" /> | Thinkin Bout You (0.2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | Locked out of Heaven (0.867) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.201) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.86) | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | What Now (0.227) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | Build Me Up Buttercup (0.855) | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="4" width="50" /> | I Was Here (0.235) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> | For Once In My Life (0.847) | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops & Hooligans" width="50" /> | Grenade (0.245) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | S&M (0.833) | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="Raymond v Raymond (Expanded Edition)" width="50" /> | There Goes My Baby (0.257) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| What Now (180.158) | When I Was Your Man (72.795) |
-| MONTERO (Call Me By Your Name) (178.818) | Best Part (feat. H.E.R.) (75.24) |
-| Partition (175.928) | There Goes My Baby (77.468) |
-| Irreplaceable (175.868) | Green Light (feat. André 3000) (77.506) |
-| Umbrella (174.028) | Tomboy (77.998) |
-| Love On The Brain (172.006) | Baby Powder (78.456) |
-| How Can I (171.81) | Halo (79.983) |
-| Blinding Lights (171.005) | Hold Up (80.744) |
-| Watch n' Learn (168.01) | Sure Thing (81.001) |
-| Tightrope (feat. Big Boi) - Big Boi Vocal Edit (167.978) | Trumpets (82.142) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | What Now (180.158) | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (72.795) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> | MONTERO (Call Me By Your Name) (178.818) | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> | Best Part (feat. H.E.R.) (75.24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (175.928) | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="Raymond v Raymond (Expanded Edition)" width="50" /> | There Goes My Baby (77.468) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B'Day Deluxe Edition" width="50" /> | Irreplaceable (175.868) | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="Evolver" width="50" /> | Green Light (feat. André 3000) (77.506) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Umbrella (174.028) | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> | Tomboy (77.998) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="ANTI (Deluxe)" width="50" /> | Love On The Brain (172.006) | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder (78.456) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="How Can I" width="50" /> | How Can I (171.81) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Halo (79.983) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights (171.005) | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (80.744) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | Watch n' Learn (168.01) | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing (81.001) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="The ArchAndroid" width="50" /> | Tightrope (feat. Big Boi) - Big Boi Vocal Edit (167.978) | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="Talk Dirty" width="50" /> | Trumpets (82.142) |

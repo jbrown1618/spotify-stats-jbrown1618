@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| My Life (0.741) | She's Always a Woman (0.292) |
-| A Matter of Trust (0.738) | Piano Man (0.334) |
-| We Didn't Start the Fire (0.712) | And So It Goes (0.351) |
-| Uptown Girl (0.701) | Captain Jack (0.392) |
-| Don't Ask Me Why (0.691) | Scenes from an Italian Restaurant (0.415) |
-| The Stranger (0.664) | And So It Goes (0.433) |
-| Movin' Out (Anthony's Song) (0.664) | Lullabye (Goodnight, My Angel) (0.442) |
-| The Longest Time (0.637) | She's Got a Way (0.495) |
-| The River of Dreams (0.631) | New York State of Mind (0.506) |
-| Just the Way You Are (0.589) | Big Shot (0.52) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.741) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (0.292) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (0.738) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.334) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.712) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.351) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.701) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Captain Jack (0.392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.691) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (0.415) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.433) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.442) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.637) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.495) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | The River of Dreams (0.631) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.506) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Just the Way You Are (0.589) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (0.52) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| We Didn't Start the Fire (0.967) | And So It Goes (0.0387) |
-| Uptown Girl (0.944) | And So It Goes (0.0871) |
-| Scenes from an Italian Restaurant (0.931) | She's Got a Way (0.142) |
-| Movin' Out (Anthony's Song) (0.88) | Lullabye (Goodnight, My Angel) (0.157) |
-| The Stranger (0.878) | She's Always a Woman (0.324) |
-| Only the Good Die Young (0.872) | The Longest Time (0.333) |
-| The River of Dreams (0.749) | New York State of Mind (0.373) |
-| Big Shot (0.737) | Just the Way You Are (0.453) |
-| Don't Ask Me Why (0.726) | Piano Man (0.477) |
-| Pressure (0.68) | Vienna (0.495) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.967) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.0387) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.944) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.0871) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.142) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.157) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (0.324) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.333) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | The River of Dreams (0.749) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.373) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (0.737) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Just the Way You Are (0.453) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.726) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.477) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (0.68) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.495) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Only the Good Die Young (0.159) | The Longest Time (0.0262) |
-| Scenes from an Italian Restaurant (0.126) | A Matter of Trust (0.0268) |
-| Big Shot (0.0972) | Piano Man (0.0276) |
-| The Stranger (0.0837) | Lullabye (Goodnight, My Angel) (0.0324) |
-| The River of Dreams (0.0576) | Movin' Out (Anthony's Song) (0.0326) |
-| Don't Ask Me Why (0.0543) | And So It Goes (0.0341) |
-| Pressure (0.0474) | Vienna (0.0343) |
-| We Didn't Start the Fire (0.047) | She's Always a Woman (0.0346) |
-| Uptown Girl (0.0455) | New York State of Mind (0.0347) |
-| Captain Jack (0.0447) | And So It Goes (0.0361) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (0.159) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.0262) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (0.126) | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (0.0268) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (0.0972) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.0276) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (0.0837) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.0324) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | The River of Dreams (0.0576) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (0.0326) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.0543) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.0341) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (0.0474) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.0343) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.047) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (0.0346) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.0455) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.0347) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Captain Jack (0.0447) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.0361) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| She's Got a Way (0.97) | Pressure (0.0148) |
-| Lullabye (Goodnight, My Angel) (0.948) | A Matter of Trust (0.0589) |
-| And So It Goes (0.941) | Uptown Girl (0.0755) |
-| And So It Goes (0.91) | We Didn't Start the Fire (0.0771) |
-| She's Always a Woman (0.797) | My Life (0.108) |
-| Just the Way You Are (0.703) | Don't Ask Me Why (0.138) |
-| Vienna (0.659) | Big Shot (0.156) |
-| Piano Man (0.618) | Only the Good Die Young (0.159) |
-| Captain Jack (0.562) | The Stranger (0.165) |
-| New York State of Mind (0.499) | The Longest Time (0.181) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (0.0148) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (0.0589) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.941) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.0755) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.91) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.0771) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (0.797) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.108) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Just the Way You Are (0.703) | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.138) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.659) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (0.156) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.618) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (0.159) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Captain Jack (0.562) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (0.165) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.499) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.181) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| My Life (0.00139) | And So It Goes (0.0) |
-| Pressure (0.000949) | Only the Good Die Young (0.0) |
-| Scenes from an Italian Restaurant (0.000501) | We Didn't Start the Fire (0.0) |
-| She's Always a Woman (0.000473) | Lullabye (Goodnight, My Angel) (0.0) |
-| Captain Jack (6.12e-05) | The Longest Time (0.0) |
-| A Matter of Trust (4.54e-05) | Uptown Girl (0.0) |
-| New York State of Mind (4.05e-05) | Don't Ask Me Why (0.0) |
-| Just the Way You Are (2.54e-05) | Vienna (0.0) |
-| And So It Goes (1.98e-05) | She's Got a Way (1.93e-06) |
-| Movin' Out (Anthony's Song) (1.63e-05) | Piano Man (4.17e-06) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.00139) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (0.000949) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (0.000501) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (0.000473) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Captain Jack (6.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (4.54e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (4.05e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Just the Way You Are (2.54e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (1.98e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (1.93e-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (1.63e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (4.17e-06) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Uptown Girl (0.601) | My Life (0.0555) |
-| Captain Jack (0.374) | Movin' Out (Anthony's Song) (0.0591) |
-| We Didn't Start the Fire (0.356) | The River of Dreams (0.0667) |
-| New York State of Mind (0.323) | Vienna (0.0754) |
-| Piano Man (0.312) | The Stranger (0.0812) |
-| A Matter of Trust (0.306) | Big Shot (0.0866) |
-| Lullabye (Goodnight, My Angel) (0.224) | Pressure (0.0877) |
-| The Longest Time (0.147) | Only the Good Die Young (0.0935) |
-| And So It Goes (0.139) | Don't Ask Me Why (0.11) |
-| Just the Way You Are (0.134) | And So It Goes (0.113) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.601) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.0555) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Captain Jack (0.374) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (0.0591) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.356) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | The River of Dreams (0.0667) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.323) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.0754) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.312) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (0.0812) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (0.306) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (0.0866) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.224) | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (0.0877) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.147) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (0.0935) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.139) | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Just the Way You Are (0.134) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.113) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Movin' Out (Anthony's Song) (0.895) | New York State of Mind (0.194) |
-| We Didn't Start the Fire (0.895) | She's Got a Way (0.196) |
-| A Matter of Trust (0.88) | Lullabye (Goodnight, My Angel) (0.22) |
-| Don't Ask Me Why (0.868) | The Stranger (0.222) |
-| Pressure (0.851) | And So It Goes (0.24) |
-| My Life (0.804) | Vienna (0.308) |
-| Uptown Girl (0.792) | And So It Goes (0.336) |
-| Only the Good Die Young (0.761) | Scenes from an Italian Restaurant (0.339) |
-| Big Shot (0.728) | She's Always a Woman (0.384) |
-| The Longest Time (0.588) | Piano Man (0.405) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (0.895) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.194) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.895) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.196) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (0.222) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (0.851) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | And So It Goes (0.24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.804) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.308) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.336) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (0.761) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (0.339) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (0.728) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (0.384) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (0.588) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.405) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Piano Man (179.239) | She's Got a Way (75.859) |
-| She's Always a Woman (176.631) | Only the Good Die Young (76.214) |
-| Big Shot (149.861) | Lullabye (Goodnight, My Angel) (76.48) |
-| Pressure (148.494) | The Longest Time (84.347) |
-| Captain Jack (146.657) | The River of Dreams (89.646) |
-| We Didn't Start the Fire (145.024) | The Stranger (91.881) |
-| Just the Way You Are (139.148) | Scenes from an Italian Restaurant (97.953) |
-| And So It Goes (135.498) | Don't Ask Me Why (98.418) |
-| Movin' Out (Anthony's Song) (133.898) | A Matter of Trust (110.304) |
-| My Life (131.097) | New York State of Mind (121.289) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (179.239) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (75.859) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | She's Always a Woman (176.631) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (76.214) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | Big Shot (149.861) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (76.48) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | Pressure (148.494) | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | The Longest Time (84.347) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Captain Jack (146.657) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | The River of Dreams (89.646) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (145.024) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (91.881) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Just the Way You Are (139.148) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (97.953) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (135.498) | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | Don't Ask Me Why (98.418) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (133.898) | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | A Matter of Trust (110.304) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (131.097) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (121.289) |

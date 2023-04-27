@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1505 songs](tracks.md)
+[1504 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 26 | 26 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="" width="50" /> | 26 | 26 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 25 | 25 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 25 | 25 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 24 | 24 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 23 | 23 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 22 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 
@@ -262,7 +262,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 41 | 41 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 32 | 32 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 31 | 31 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 26 | 26 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 26 | 26 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 24 | 24 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
@@ -301,7 +301,6 @@
 | 6 | 6 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 6 | 6 | [UNI](../../labels/uni/overview.md) |
 | 6 | 6 | Sire |
-| 6 | 6 | [HYBE](../../labels/hybe/overview.md) |
 | 6 | 6 | EDAM Entertainment |
 | 6 | 6 | Bad Boy |
 | 5 | 5 | Studio MaumC |
@@ -309,6 +308,7 @@
 | 5 | 5 | Parkwood Entertainment |
 | 5 | 5 | KQ Entertainment |
 | 5 | 5 | Hwa&Dam pictures |
+| 5 | 5 | [HYBE](../../labels/hybe/overview.md) |
 | 5 | 5 | Fueled By Ramen |
 | 5 | 5 | Atlantic Records UK |
 | 5 | 5 | Aftermath |
@@ -361,10 +361,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 703 | 703 | [k-pop](../../genres/k_pop/overview.md) |
-| 381 | 381 | [pop](../../genres/pop/overview.md) |
+| 702 | 702 | [k-pop](../../genres/k_pop/overview.md) |
+| 380 | 380 | [pop](../../genres/pop/overview.md) |
 | 309 | 309 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 172 | 172 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 171 | 171 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 125 | 125 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
 | 77 | 77 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -491,7 +491,7 @@
 | [2017](2017.md) | 71 |
 | [2016](2016.md) | 76 |
 | [2015](2015.md) | 56 |
-| [2014](2014.md) | 44 |
+| [2014](2014.md) | 43 |
 | [2013](2013.md) | 49 |
 | [2012](2012.md) | 50 |
 | [2011](2011.md) | 36 |
@@ -545,15 +545,15 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/liked_tracks/years.png)
 
-| 10 newest albums | 10 oldest albums |
-|:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> <span>Down to Earth (2023-04-25)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> <span>Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="SEVENTEEN 10th Mini Album 'FML'" width="50" /> <span>SEVENTEEN 10th Mini Album 'FML' (2023-04-24)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> <span>Ring Of Fire: The Best Of Johnny Cash (1963-08-06)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> <span>D-DAY (2023-04-21)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> <span>With The Beatles (Remastered) (1963-11-22)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> <span>Over The Moon (2023-04-12)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> <span>Mary Wells Sings My Guy (1964)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I've IVE" width="50" /> <span>I've IVE (2023-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> <span>Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="LOVESTRUCK!" width="50" /> <span>LOVESTRUCK! (2023-04-10)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> <span>A Hard Day's Night (Remastered) (1964-07-10)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="Golden Hour - SM STATION : NCT LAB" width="50" /> <span>Golden Hour - SM STATION : NCT LAB (2023-04-07)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> <span>Wednesday Morning, 3 A.M. (1964-10-19)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="BOYS PLANET - ARTIST BATTLE" width="50" /> <span>BOYS PLANET - ARTIST BATTLE (2023-04-06)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> <span>The Temptations Sing Smokey (1965-03-22)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> <span>VingleVingle (2023-04-05)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> <span>Out Of Our Heads (1965-07-30)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> <span>ME (2023-03-31)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> <span>Help! (Remastered) (1965-08-06)</span></div> |
+| ​ | 10 newest albums | ​​ | 10 oldest albums |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="SEVENTEEN 10th Mini Album 'FML'" width="50" /> | SEVENTEEN 10th Mini Album 'FML' (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | D-DAY (2023-04-21) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> | Over The Moon (2023-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I've IVE" width="50" /> | I've IVE (2023-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="LOVESTRUCK!" width="50" /> | LOVESTRUCK! (2023-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day's Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="Golden Hour - SM STATION : NCT LAB" width="50" /> | Golden Hour - SM STATION : NCT LAB (2023-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="BOYS PLANET - ARTIST BATTLE" width="50" /> | BOYS PLANET - ARTIST BATTLE (2023-04-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> | ME (2023-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |

@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Waltz No.11 Op.70-1 G Flat Major (0.46) | Nocturne No.4 Op.15-1 F Major (0.182) |
-| Nocturne No.6 Op.15-3 G Minor (0.437) | Nocturne No.5 Op.15-2 F Sharp Major (0.213) |
-| Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.434) | Waltz No.10 Op.69-2 B Minor (0.22) |
-| Nocturne No.9 Op.32-1 B Major (0.395) | Waltz No.5 Io,42 A Flat Major (0.239) |
-| Waltz No.9 Op.69-1 A Flat Major (0.386) | Nocturne No.2 Op.9-2 E Flat Major (0.249) |
-| Waltz No.12 Op.70-2 F Minor (0.348) | Waltz No.8 Op.64-3 A Flat Major (0.259) |
-| Waltz No.7 Op.64-2 C Sharp Minor (0.317) | Nocturne No.10 Op.32-2 A Flat Major (0.278) |
-| Nocturne No.8 Op.27-2 D Flat Major (0.309) | Nocturne No.8 Op.27-2 D Flat Major (0.309) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.278) | Waltz No.7 Op.64-2 C Sharp Minor (0.317) |
-| Waltz No.8 Op.64-3 A Flat Major (0.259) | Waltz No.12 Op.70-2 F Minor (0.348) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.46) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.182) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.437) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.213) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.434) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.395) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.239) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.386) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.249) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.348) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.259) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.317) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.278) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.309) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.309) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.278) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.317) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.259) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.348) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0792) | Nocturne No.6 Op.15-3 G Minor (0.00191) |
-| Waltz No.8 Op.64-3 A Flat Major (0.0637) | Nocturne No.2 Op.9-2 E Flat Major (0.00265) |
-| Waltz No.5 Io,42 A Flat Major (0.0586) | Nocturne No.9 Op.32-1 B Major (0.00323) |
-| Waltz No.10 Op.69-2 B Minor (0.042) | Nocturne No.4 Op.15-1 F Major (0.00408) |
-| Waltz No.12 Op.70-2 F Minor (0.037) | Nocturne No.8 Op.27-2 D Flat Major (0.00426) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.0166) | Nocturne No.5 Op.15-2 F Sharp Major (0.00786) |
-| Waltz No.11 Op.70-1 G Flat Major (0.0162) | Waltz No.9 Op.69-1 A Flat Major (0.0137) |
-| Waltz No.7 Op.64-2 C Sharp Minor (0.0151) | Waltz No.7 Op.64-2 C Sharp Minor (0.0151) |
-| Waltz No.9 Op.69-1 A Flat Major (0.0137) | Waltz No.11 Op.70-1 G Flat Major (0.0162) |
-| Nocturne No.5 Op.15-2 F Sharp Major (0.00786) | Nocturne No.10 Op.32-2 A Flat Major (0.0166) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0792) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.00191) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.0637) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.00265) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.0586) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.00323) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.042) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.00408) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.037) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.00426) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.0166) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.00786) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.0162) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.0137) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.0151) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.0151) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.0137) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.0162) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.00786) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.0166) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Nocturne No.6 Op.15-3 G Minor (0.0557) | Nocturne No.8 Op.27-2 D Flat Major (0.0386) |
-| Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0509) | Waltz No.7 Op.64-2 C Sharp Minor (0.0392) |
-| Waltz No.10 Op.69-2 B Minor (0.0496) | Waltz No.8 Op.64-3 A Flat Major (0.04) |
-| Nocturne No.9 Op.32-1 B Major (0.0489) | Waltz No.5 Io,42 A Flat Major (0.0404) |
-| Waltz No.12 Op.70-2 F Minor (0.0483) | Nocturne No.5 Op.15-2 F Sharp Major (0.0407) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.0482) | Nocturne No.2 Op.9-2 E Flat Major (0.0408) |
-| Waltz No.9 Op.69-1 A Flat Major (0.045) | Nocturne No.4 Op.15-1 F Major (0.0409) |
-| Waltz No.11 Op.70-1 G Flat Major (0.0442) | Waltz No.11 Op.70-1 G Flat Major (0.0442) |
-| Nocturne No.4 Op.15-1 F Major (0.0409) | Waltz No.9 Op.69-1 A Flat Major (0.045) |
-| Nocturne No.2 Op.9-2 E Flat Major (0.0408) | Nocturne No.10 Op.32-2 A Flat Major (0.0482) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.0557) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.0386) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0509) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.0392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.0496) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.0489) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.0404) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.0483) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.0407) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.0482) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.0408) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.045) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.0409) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.0442) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.0442) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.0409) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.045) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.0408) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.0482) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Waltz No.9 Op.69-1 A Flat Major (0.995) | Nocturne No.2 Op.9-2 E Flat Major (0.98) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.995) | Waltz No.8 Op.64-3 A Flat Major (0.99) |
-| Nocturne No.9 Op.32-1 B Major (0.994) | Waltz No.10 Op.69-2 B Minor (0.991) |
-| Waltz No.12 Op.70-2 F Minor (0.994) | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.991) |
-| Waltz No.11 Op.70-1 G Flat Major (0.994) | Waltz No.7 Op.64-2 C Sharp Minor (0.992) |
-| Waltz No.5 Io,42 A Flat Major (0.993) | Nocturne No.5 Op.15-2 F Sharp Major (0.992) |
-| Nocturne No.4 Op.15-1 F Major (0.993) | Nocturne No.6 Op.15-3 G Minor (0.993) |
-| Nocturne No.8 Op.27-2 D Flat Major (0.993) | Nocturne No.8 Op.27-2 D Flat Major (0.993) |
-| Nocturne No.6 Op.15-3 G Minor (0.993) | Nocturne No.4 Op.15-1 F Major (0.993) |
-| Nocturne No.5 Op.15-2 F Sharp Major (0.992) | Waltz No.5 Io,42 A Flat Major (0.993) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.98) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.99) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.991) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.991) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.992) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.993) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.992) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.993) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.993) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.993) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.992) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.993) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Nocturne No.2 Op.9-2 E Flat Major (0.953) | Waltz No.10 Op.69-2 B Minor (0.847) |
-| Nocturne No.6 Op.15-3 G Minor (0.952) | Waltz No.5 Io,42 A Flat Major (0.874) |
-| Nocturne No.5 Op.15-2 F Sharp Major (0.936) | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.877) |
-| Nocturne No.9 Op.32-1 B Major (0.935) | Waltz No.9 Op.69-1 A Flat Major (0.884) |
-| Nocturne No.4 Op.15-1 F Major (0.926) | Waltz No.7 Op.64-2 C Sharp Minor (0.887) |
-| Nocturne No.8 Op.27-2 D Flat Major (0.921) | Waltz No.12 Op.70-2 F Minor (0.891) |
-| Waltz No.11 Op.70-1 G Flat Major (0.919) | Nocturne No.10 Op.32-2 A Flat Major (0.902) |
-| Waltz No.8 Op.64-3 A Flat Major (0.912) | Waltz No.8 Op.64-3 A Flat Major (0.912) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.902) | Waltz No.11 Op.70-1 G Flat Major (0.919) |
-| Waltz No.12 Op.70-2 F Minor (0.891) | Nocturne No.8 Op.27-2 D Flat Major (0.921) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.953) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.847) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.952) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.874) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.877) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.884) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.887) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.891) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.919) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.902) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.912) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.902) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.919) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.891) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.921) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Waltz No.8 Op.64-3 A Flat Major (0.119) | Nocturne No.6 Op.15-3 G Minor (0.05) |
-| Waltz No.5 Io,42 A Flat Major (0.111) | Nocturne No.5 Op.15-2 F Sharp Major (0.0511) |
-| Waltz No.12 Op.70-2 F Minor (0.102) | Nocturne No.2 Op.9-2 E Flat Major (0.0558) |
-| Waltz No.7 Op.64-2 C Sharp Minor (0.0926) | Nocturne No.8 Op.27-2 D Flat Major (0.0567) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.0914) | Nocturne No.4 Op.15-1 F Major (0.0637) |
-| Waltz No.9 Op.69-1 A Flat Major (0.0904) | Nocturne No.9 Op.32-1 B Major (0.0736) |
-| Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0886) | Waltz No.10 Op.69-2 B Minor (0.0795) |
-| Waltz No.11 Op.70-1 G Flat Major (0.0873) | Waltz No.11 Op.70-1 G Flat Major (0.0873) |
-| Waltz No.10 Op.69-2 B Minor (0.0795) | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0886) |
-| Nocturne No.9 Op.32-1 B Major (0.0736) | Waltz No.9 Op.69-1 A Flat Major (0.0904) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.119) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.111) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.0511) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.102) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.0558) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.0926) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.0567) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.0914) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.0637) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.0904) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.0736) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0886) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.0795) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.0873) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.0873) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.0795) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.0886) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.0736) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.0904) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.383) | Nocturne No.4 Op.15-1 F Major (0.0536) |
-| Waltz No.8 Op.64-3 A Flat Major (0.371) | Nocturne No.8 Op.27-2 D Flat Major (0.0586) |
-| Waltz No.12 Op.70-2 F Minor (0.37) | Nocturne No.5 Op.15-2 F Sharp Major (0.0725) |
-| Waltz No.10 Op.69-2 B Minor (0.291) | Waltz No.7 Op.64-2 C Sharp Minor (0.0891) |
-| Waltz No.11 Op.70-1 G Flat Major (0.181) | Nocturne No.2 Op.9-2 E Flat Major (0.0899) |
-| Waltz No.5 Io,42 A Flat Major (0.168) | Nocturne No.6 Op.15-3 G Minor (0.106) |
-| Waltz No.9 Op.69-1 A Flat Major (0.162) | Nocturne No.9 Op.32-1 B Major (0.116) |
-| Nocturne No.10 Op.32-2 A Flat Major (0.139) | Nocturne No.10 Op.32-2 A Flat Major (0.139) |
-| Nocturne No.9 Op.32-1 B Major (0.116) | Waltz No.9 Op.69-1 A Flat Major (0.162) |
-| Nocturne No.6 Op.15-3 G Minor (0.106) | Waltz No.5 Io,42 A Flat Major (0.168) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (0.383) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (0.0536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (0.371) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (0.0586) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (0.0725) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (0.291) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (0.0891) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (0.181) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (0.0899) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.168) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.106) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.162) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.116) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.139) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (0.139) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (0.116) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (0.162) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (0.106) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (0.168) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/the_music_factory/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Waltz No.10 Op.69-2 B Minor (174.212) | Nocturne No.10 Op.32-2 A Flat Major (63.993) |
-| Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (125.417) | Nocturne No.4 Op.15-1 F Major (66.65) |
-| Nocturne No.8 Op.27-2 D Flat Major (100.983) | Nocturne No.2 Op.9-2 E Flat Major (68.87) |
-| Nocturne No.6 Op.15-3 G Minor (98.962) | Waltz No.9 Op.69-1 A Flat Major (70.686) |
-| Nocturne No.5 Op.15-2 F Sharp Major (80.957) | Nocturne No.9 Op.32-1 B Major (70.763) |
-| Waltz No.7 Op.64-2 C Sharp Minor (79.426) | Waltz No.8 Op.64-3 A Flat Major (72.349) |
-| Waltz No.11 Op.70-1 G Flat Major (75.69) | Waltz No.5 Io,42 A Flat Major (73.458) |
-| Waltz No.12 Op.70-2 F Minor (74.232) | Waltz No.12 Op.70-2 F Minor (74.232) |
-| Waltz No.5 Io,42 A Flat Major (73.458) | Waltz No.11 Op.70-1 G Flat Major (75.69) |
-| Waltz No.8 Op.64-3 A Flat Major (72.349) | Waltz No.7 Op.64-2 C Sharp Minor (79.426) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor (174.212) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.10 Op.32-2 A Flat Major (63.993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.1 Op.18 E Flat Major 'Grande Valse Brilliante' (125.417) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.4 Op.15-1 F Major (66.65) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.8 Op.27-2 D Flat Major (100.983) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.2 Op.9-2 E Flat Major (68.87) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.6 Op.15-3 G Minor (98.962) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.9 Op.69-1 A Flat Major (70.686) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.5 Op.15-2 F Sharp Major (80.957) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Nocturne No.9 Op.32-1 B Major (70.763) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (79.426) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (72.349) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (75.69) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (73.458) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (74.232) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.12 Op.70-2 F Minor (74.232) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.5 Io,42 A Flat Major (73.458) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.11 Op.70-1 G Flat Major (75.69) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.8 Op.64-3 A Flat Major (72.349) | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes & Nocturnes" width="50" /> | Waltz No.7 Op.64-2 C Sharp Minor (79.426) |

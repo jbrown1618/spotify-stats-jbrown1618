@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| #Twenty (0.956) | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.575) |
-| SNEAKERS (0.935) | RACER (0.619) |
-| SNEAKERS (English Ver.) (0.92) | Free Fall (0.623) |
-| Louder (0.886) | Sorry Not Sorry (0.645) |
-| WHAT I WANT (0.865) | DOMINO (0.709) |
-| SHOOT! (0.852) | Gas Me Up (0.727) |
-| TENNIS (0:0) (0.85) | LOCO - English Ver. (0.736) |
-| In the morning (0.846) | Sooo LUCKY (0.746) |
-| SURF (0.843) | Voltage (0.753) |
-| Blah Blah Blah (0.842) | LOCO (0.759) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | #Twenty (0.956) | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="Street Dance Girls Fighter(SGF) Special" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.575) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | RACER (0.619) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | Free Fall (0.623) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | Sorry Not Sorry (0.645) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | WHAT I WANT (0.865) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | DOMINO (0.709) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | SHOOT! (0.852) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (0.727) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | TENNIS (0:0) (0.85) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.736) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | In the morning (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Sooo LUCKY (0.746) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | SURF (0.843) | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="Voltage" width="50" /> | Voltage (0.753) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="Blah Blah Blah" width="50" /> | Blah Blah Blah (0.842) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (0.759) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Free Fall (0.95) | CHERRY (0.559) |
-| Louder (0.936) | TENNIS (0:0) (0.665) |
-| Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.931) | Freaky (0.684) |
-| WHAT I WANT (0.926) | Be In Love (0.711) |
-| WANNABE (0.911) | #Twenty (0.714) |
-| Not Shy (0.911) | DOMINO (0.755) |
-| ICY (0.904) | SWIPE (0.757) |
-| Not Shy - English Ver. (0.902) | SHOOT! (0.762) |
-| WANNABE - English Ver. (0.902) | KIDDING ME (0.77) |
-| ICY - English Ver. (0.901) | In the morning - English Ver. (0.786) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | Free Fall (0.95) | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | CHERRY (0.559) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | TENNIS (0:0) (0.665) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="Street Dance Girls Fighter(SGF) Special" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Freaky (0.684) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | WHAT I WANT (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Be In Love (0.711) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="IT'z ME" width="50" /> | WANNABE (0.911) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | #Twenty (0.714) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Not Shy (0.911) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | DOMINO (0.755) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | ICY (0.904) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.757) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (0.902) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | SHOOT! (0.762) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.902) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | KIDDING ME (0.77) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.901) | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.786) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Free Fall (0.376) | KIDDING ME (0.0367) |
-| Gas Me Up (0.286) | Snowy (0.0384) |
-| LOCO - English Ver. (0.216) | SURF (0.0475) |
-| #Twenty (0.197) | SHOOT! (0.0487) |
-| Blah Blah Blah (0.192) | Louder (0.0496) |
-| LOCO (0.187) | Cheshire (0.0501) |
-| In the morning - English Ver. (0.168) | Sooo LUCKY (0.0519) |
-| In the morning (0.149) | TENNIS (0:0) (0.0522) |
-| Not Shy (0.131) | SWIPE (0.0547) |
-| Freaky (0.118) | WANNABE - English Ver. (0.0587) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | Free Fall (0.376) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | KIDDING ME (0.0367) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (0.286) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Snowy (0.0384) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.216) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | SURF (0.0475) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | #Twenty (0.197) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | SHOOT! (0.0487) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="Blah Blah Blah" width="50" /> | Blah Blah Blah (0.192) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.0496) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (0.187) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Cheshire (0.0501) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.168) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Sooo LUCKY (0.0519) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | In the morning (0.149) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | TENNIS (0:0) (0.0522) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Not Shy (0.131) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.0547) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Freaky (0.118) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.0587) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Freaky (0.358) | DALLA DALLA - English Ver. (0.00102) |
-| SHOOT! (0.333) | DALLA DALLA (0.00116) |
-| Cheshire (0.332) | SWIPE (0.00151) |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.297) | WANNABE - English Ver. (0.00392) |
-| Not Shy - English Ver. (0.283) | LOCO - English Ver. (0.00781) |
-| KIDDING ME (0.215) | WANNABE (0.00795) |
-| Louder (0.173) | Gas Me Up (0.00958) |
-| Not Shy (0.155) | LOCO (0.0103) |
-| TENNIS (0:0) (0.126) | CHERRY (0.0111) |
-| Snowy (0.115) | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.0162) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Freaky (0.358) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.00102) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | SHOOT! (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="IT'z Different" width="50" /> | DALLA DALLA (0.00116) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Cheshire (0.332) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.00151) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.297) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.00392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (0.283) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.00781) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | KIDDING ME (0.215) | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="IT'z ME" width="50" /> | WANNABE (0.00795) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.173) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (0.00958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Not Shy (0.155) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (0.0103) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | TENNIS (0:0) (0.126) | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | CHERRY (0.0111) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Snowy (0.115) | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="Street Dance Girls Fighter(SGF) Special" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.0162) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Louder (0.00146) | #Twenty (0.0) |
-| In the morning (0.00094) | Boys Like You (0.0) |
-| WANNABE (0.000179) | Snowy (0.0) |
-| WANNABE - English Ver. (0.000102) | WHAT I WANT (0.0) |
-| Be In Love (7.07e-05) | SNEAKERS (0.0) |
-| DALLA DALLA (4.23e-05) | DOMINO (0.0) |
-| ICY (3.1e-05) | Gas Me Up (0.0) |
-| In the morning - English Ver. (2.21e-05) | Sorry Not Sorry (0.0) |
-| LOCO (2.04e-05) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.0) |
-| LOCO - English Ver. (1.63e-05) | SWIPE (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.00146) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | #Twenty (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | In the morning (0.00094) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Boys Like You (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="IT'z ME" width="50" /> | WANNABE (0.000179) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Snowy (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.000102) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | WHAT I WANT (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Be In Love (7.07e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="IT'z Different" width="50" /> | DALLA DALLA (4.23e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | DOMINO (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | ICY (3.1e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (2.21e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | Sorry Not Sorry (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (2.04e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (1.63e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.417) | SNEAKERS (0.0223) |
-| WHAT I WANT (0.366) | SNEAKERS (English Ver.) (0.0242) |
-| RACER (0.362) | CHERRY (0.0561) |
-| Cheshire (0.357) | SURF (0.0575) |
-| LOCO - English Ver. (0.351) | Boys Like You (0.0597) |
-| Blah Blah Blah (0.345) | #Twenty (0.069) |
-| LOCO (0.342) | In the morning - English Ver. (0.0701) |
-| DALLA DALLA (0.329) | Louder (0.0761) |
-| DALLA DALLA - English Ver. (0.329) | Be In Love (0.0781) |
-| Snowy (0.29) | DOMINO (0.0831) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="Street Dance Girls Fighter(SGF) Special" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.417) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (0.0223) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | WHAT I WANT (0.366) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.0242) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | RACER (0.362) | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | CHERRY (0.0561) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Cheshire (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | SURF (0.0575) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.351) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Boys Like You (0.0597) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="Blah Blah Blah" width="50" /> | Blah Blah Blah (0.345) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | #Twenty (0.069) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (0.342) | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.0701) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="IT'z Different" width="50" /> | DALLA DALLA (0.329) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.0761) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.329) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Be In Love (0.0781) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Snowy (0.29) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | DOMINO (0.0831) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| SHOOT! (0.907) | Gas Me Up (0.33) |
-| Blah Blah Blah (0.881) | Voltage (0.386) |
-| Boys Like You (0.874) | KIDDING ME (0.415) |
-| Louder (0.853) | Free Fall (0.486) |
-| ICY - English Ver. (0.815) | LOCO (0.489) |
-| ICY (0.814) | DOMINO (0.511) |
-| Snowy (0.813) | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.521) |
-| SURF (0.787) | CHERRY (0.532) |
-| In the morning - English Ver. (0.757) | LOCO - English Ver. (0.534) |
-| Cheshire (0.738) | WHAT I WANT (0.541) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | SHOOT! (0.907) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (0.33) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ab556e89033a67954311bb9" alt="Blah Blah Blah" width="50" /> | Blah Blah Blah (0.881) | <img src="https://i.scdn.co/image/ab67616d0000b273aecb87fd2574ad79b05cc024" alt="Voltage" width="50" /> | Voltage (0.386) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Boys Like You (0.874) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | KIDDING ME (0.415) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Louder (0.853) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | Free Fall (0.486) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.815) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (0.489) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | ICY (0.814) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | DOMINO (0.511) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Snowy (0.813) | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="Street Dance Girls Fighter(SGF) Special" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.521) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | SURF (0.787) | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | CHERRY (0.532) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.534) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Cheshire (0.738) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | WHAT I WANT (0.541) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Gas Me Up (177.17) | CHERRY (94.991) |
-| Free Fall (177.092) | Freaky (95.022) |
-| RACER (171.975) | Be In Love (95.023) |
-| Weapon (With Newnion, FLOOR) (Prod.Czaer) (168.024) | SWIPE (96.009) |
-| Sorry Not Sorry (158.032) | Cheshire (98.966) |
-| TENNIS (0:0) (142.026) | Not Shy - English Ver. (100.988) |
-| DOMINO (141.905) | Not Shy (101.027) |
-| In the morning - English Ver. (140.108) | LOCO - English Ver. (101.957) |
-| In the morning (140.055) | LOCO (102.065) |
-| KIDDING ME (137.973) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (104.958) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (177.17) | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="IT'z ICY" width="50" /> | CHERRY (94.991) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | Free Fall (177.092) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Freaky (95.022) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | RACER (171.975) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Be In Love (95.023) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="Street Dance Girls Fighter(SGF) Special" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) (168.024) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (96.009) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | Sorry Not Sorry (158.032) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Cheshire (98.966) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | TENNIS (0:0) (142.026) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (100.988) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | DOMINO (141.905) | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="Not Shy" width="50" /> | Not Shy (101.027) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (140.108) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (101.957) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | In the morning (140.055) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO (102.065) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | KIDDING ME (137.973) | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (104.958) |

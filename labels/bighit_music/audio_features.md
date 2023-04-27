@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Chicken Noodle Soup (feat. Becky G) (0.826) | AMYGDALA (0.311) |
-| Anpanman (0.813) | No More Dream (0.436) |
-| Telepathy (0.787) | Butterfly (0.448) |
-| Pandora's Box (0.785) | Boy in Luv (0.491) |
-| MORE (0.783) | Spring Day (0.539) |
-| Filter (0.779) | Lie (0.541) |
-| Singularity (0.775) | FAKE LOVE (0.557) |
-| Airplane pt.2 (0.77) | Life Goes On (0.566) |
-| People (0.76) | The Truth Untold (feat. Steve Aoki) (0.571) |
-| Butter (0.759) | Mikrokosmos (0.579) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="Chicken Noodle Soup (feat. Becky G)" width="50" /> | Chicken Noodle Soup (feat. Becky G) (0.826) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | AMYGDALA (0.311) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Anpanman (0.813) | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.436) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Telepathy (0.787) | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="The Most Beautiful Moment in Life Pt.2" width="50" /> | Butterfly (0.448) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | Pandora's Box (0.785) | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.491) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | MORE (0.783) | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="You Never Walk Alone" width="50" /> | Spring Day (0.539) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | Filter (0.779) | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Lie (0.541) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | Singularity (0.775) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | FAKE LOVE (0.557) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Airplane pt.2 (0.77) | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Life Goes On (0.566) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | People (0.76) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | The Truth Untold (feat. Steve Aoki) (0.571) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="Butter" width="50" /> | Butter (0.759) | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | Mikrokosmos (0.579) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| War of Hormone (0.993) | Singularity (0.272) |
-| Boy in Luv (0.947) | The Truth Untold (feat. Steve Aoki) (0.422) |
-| Dope (0.896) | Butter (0.459) |
-| MIC Drop (0.889) | People Pt.2 (feat. IU) (0.574) |
-| Blood Sweat & Tears (0.885) | Strange (feat. RM) (0.662) |
-| Anpanman (0.876) | Telepathy (0.669) |
-| Dynamite - Holiday Remix (0.873) | People (0.682) |
-| No More Dream (0.869) | Life Goes On (0.716) |
-| Danger (0.868) | FAKE LOVE (0.719) |
-| Boy With Luv (feat. Halsey) (0.862) | MORE (0.722) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark & Wild" width="50" /> | War of Hormone (0.993) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | Singularity (0.272) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.947) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | The Truth Untold (feat. Steve Aoki) (0.422) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Dope (0.896) | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="Butter" width="50" /> | Butter (0.459) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="Love Yourself 承 'Her'" width="50" /> | MIC Drop (0.889) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | People Pt.2 (feat. IU) (0.574) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Blood Sweat & Tears (0.885) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Strange (feat. RM) (0.662) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Anpanman (0.876) | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Telepathy (0.669) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="Dynamite (Holiday Remix)" width="50" /> | Dynamite - Holiday Remix (0.873) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | People (0.682) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.869) | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Life Goes On (0.716) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark & Wild" width="50" /> | Danger (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | FAKE LOVE (0.719) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | Boy With Luv (feat. Halsey) (0.862) | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | MORE (0.722) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| No More Dream (0.472) | Lie (0.033) |
-| Boy in Luv (0.306) | Airplane pt.2 (0.0339) |
-| Haegeum (0.304) | Spring Day (0.0354) |
-| War of Hormone (0.24) | MORE (0.0357) |
-| Dope (0.225) | People (0.0371) |
-| Moonlight (0.225) | FAKE LOVE (0.0371) |
-| Strange (feat. RM) (0.203) | Like Crazy (0.0419) |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition (0.183) | The Truth Untold (feat. Steve Aoki) (0.0422) |
-| Pandora's Box (0.178) | Life Goes On (0.0424) |
-| Run BTS (0.168) | HOME (0.0427) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.472) | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Lie (0.033) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.306) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Airplane pt.2 (0.0339) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | Haegeum (0.304) | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="You Never Walk Alone" width="50" /> | Spring Day (0.0354) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark & Wild" width="50" /> | War of Hormone (0.24) | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | MORE (0.0357) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Dope (0.225) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | People (0.0371) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Moonlight (0.225) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | FAKE LOVE (0.0371) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Strange (feat. RM) (0.203) | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> | Like Crazy (0.0419) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | MIC Drop (Steve Aoki Remix) - Full Length Edition (0.183) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | The Truth Untold (feat. Steve Aoki) (0.0422) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | Pandora's Box (0.178) | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Life Goes On (0.0424) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Run BTS (0.168) | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | HOME (0.0427) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Singularity (0.56) | Danger (0.000907) |
-| on the street (with J. Cole) (0.532) | Butter (Holiday Remix) (0.00188) |
-| People Pt.2 (feat. IU) (0.391) | Strange (feat. RM) (0.00236) |
-| The Truth Untold (feat. Steve Aoki) (0.374) | Like Crazy (0.0025) |
-| Haegeum (0.313) | Boy in Luv (0.00261) |
-| Moonlight (0.273) | FAKE LOVE (0.00267) |
-| Like (0.271) | Butter (0.00323) |
-| AMYGDALA (0.226) | Lie (0.00338) |
-| Pandora's Box (0.198) | IDOL (0.00481) |
-| dimple (0.142) | Chicken Noodle Soup (feat. Becky G) (0.00502) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | Singularity (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark & Wild" width="50" /> | Danger (0.000907) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (0.532) | <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="Butter (Holiday Remix)" width="50" /> | Butter (Holiday Remix) (0.00188) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | People Pt.2 (feat. IU) (0.391) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Strange (feat. RM) (0.00236) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | The Truth Untold (feat. Steve Aoki) (0.374) | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> | Like Crazy (0.0025) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | Haegeum (0.313) | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.00261) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Moonlight (0.273) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | FAKE LOVE (0.00267) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | Like (0.271) | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="Butter" width="50" /> | Butter (0.00323) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | AMYGDALA (0.226) | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Lie (0.00338) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | Pandora's Box (0.198) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | IDOL (0.00481) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="Love Yourself 承 'Her'" width="50" /> | dimple (0.142) | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="Chicken Noodle Soup (feat. Becky G)" width="50" /> | Chicken Noodle Soup (feat. Becky G) (0.00502) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Singularity (0.00278) | Moonlight (0.0) |
-| MORE (0.00209) | ON (0.0) |
-| on the street (with J. Cole) (0.00111) | Mikrokosmos (0.0) |
-| Danger (0.000215) | Like (0.0) |
-| Airplane pt.2 (0.000103) | Daechwita (0.0) |
-| Chicken Noodle Soup (feat. Becky G) (1.09e-05) | IDOL (0.0) |
-| = (Equal Sign) (5.44e-06) | Set Me Free Pt.2 (0.0) |
-| Burn It (feat. MAX) (2.1e-06) | Lie (0.0) |
-| Spring Day (1.71e-06) | Black Swan (0.0) |
-| No More Dream (1.6e-06) | Pandora's Box (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | Singularity (0.00278) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Moonlight (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | MORE (0.00209) | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | ON (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (0.00111) | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | Mikrokosmos (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark & Wild" width="50" /> | Danger (0.000215) | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | Like (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Airplane pt.2 (0.000103) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Daechwita (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="Chicken Noodle Soup (feat. Becky G)" width="50" /> | Chicken Noodle Soup (feat. Becky G) (1.09e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | IDOL (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | = (Equal Sign) (5.44e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> | Set Me Free Pt.2 (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Burn It (feat. MAX) (2.1e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Lie (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="You Never Walk Alone" width="50" /> | Spring Day (1.71e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | Black Swan (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (1.6e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | Pandora's Box (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| No More Dream (0.494) | Run BTS (0.0358) |
-| Haegeum (0.471) | Mikrokosmos (0.0502) |
-| Life Goes On (0.37) | Dynamite - Holiday Remix (0.0526) |
-| Like Crazy (0.357) | Moonlight (0.059) |
-| Blood Sweat & Tears (0.357) | DNA (0.0677) |
-| Dope (0.352) | Save Me (0.0783) |
-| = (Equal Sign) (0.348) | MIC Drop (0.0816) |
-| Boy in Luv (0.34) | Airplane pt.2 (0.084) |
-| ON (0.338) | Butter (0.0906) |
-| Pandora's Box (0.326) | on the street (with J. Cole) (0.0921) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.494) | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Run BTS (0.0358) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | Haegeum (0.471) | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | Mikrokosmos (0.0502) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Life Goes On (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="Dynamite (Holiday Remix)" width="50" /> | Dynamite - Holiday Remix (0.0526) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="FACE" width="50" /> | Like Crazy (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Moonlight (0.059) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Blood Sweat & Tears (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="Love Yourself 承 'Her'" width="50" /> | DNA (0.0677) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Dope (0.352) | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Save Me (0.0783) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | = (Equal Sign) (0.348) | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="Love Yourself 承 'Her'" width="50" /> | MIC Drop (0.0816) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.34) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Airplane pt.2 (0.084) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | ON (0.338) | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="Butter" width="50" /> | Butter (0.0906) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | Pandora's Box (0.326) | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (0.0921) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Butter (Holiday Remix) (0.87) | AMYGDALA (0.16) |
-| Airplane pt.2 (0.866) | Chicken Noodle Soup (feat. Becky G) (0.168) |
-| Filter (0.859) | The Truth Untold (feat. Steve Aoki) (0.169) |
-| Haegeum (0.831) | Singularity (0.198) |
-| on the street (with J. Cole) (0.813) | Strange (feat. RM) (0.207) |
-| Boy With Luv (feat. Halsey) (0.803) | Daechwita (0.223) |
-| Moonlight (0.773) | Pandora's Box (0.228) |
-| Like (0.768) | Butterfly (0.294) |
-| Anpanman (0.757) | MORE (0.306) |
-| Dynamite (0.737) | Burn It (feat. MAX) (0.336) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="Butter (Holiday Remix)" width="50" /> | Butter (Holiday Remix) (0.87) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | AMYGDALA (0.16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Airplane pt.2 (0.866) | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="Chicken Noodle Soup (feat. Becky G)" width="50" /> | Chicken Noodle Soup (feat. Becky G) (0.168) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | Filter (0.859) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | The Truth Untold (feat. Steve Aoki) (0.169) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | Haegeum (0.831) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | Singularity (0.198) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (0.813) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Strange (feat. RM) (0.207) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | Boy With Luv (feat. Halsey) (0.803) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Daechwita (0.223) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Moonlight (0.773) | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | Pandora's Box (0.228) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | Like (0.768) | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="The Most Beautiful Moment in Life Pt.2" width="50" /> | Butterfly (0.294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | Anpanman (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="Jack In The Box" width="50" /> | MORE (0.306) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Dynamite (0.737) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Burn It (feat. MAX) (0.336) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Mikrokosmos (174.043) | Run BTS (77.004) |
-| MIC Drop (Steve Aoki Remix) - Full Length Edition (170.01) | FAKE LOVE (77.502) |
-| MIC Drop (169.959) | AMYGDALA (78.265) |
-| No More Dream (167.766) | Life Goes On (81.068) |
-| Boy in Luv (166.236) | Haegeum (85.097) |
-| Dope (153.991) | People Pt.2 (feat. IU) (88.94) |
-| Butterfly (149.806) | Strange (feat. RM) (90.008) |
-| Black Swan (147.024) | Blood Sweat & Tears (92.9) |
-| Daechwita (144.995) | Lie (94.069) |
-| HOME (142.991) | on the street (with J. Cole) (94.074) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | Mikrokosmos (174.043) | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Run BTS (77.004) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 'Answer'" width="50" /> | MIC Drop (Steve Aoki Remix) - Full Length Edition (170.01) | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 'Tear'" width="50" /> | FAKE LOVE (77.502) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="Love Yourself 承 'Her'" width="50" /> | MIC Drop (169.959) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | AMYGDALA (78.265) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (167.766) | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Life Goes On (81.068) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (166.236) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | Haegeum (85.097) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Dope (153.991) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | People Pt.2 (feat. IU) (88.94) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="The Most Beautiful Moment in Life Pt.2" width="50" /> | Butterfly (149.806) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Strange (feat. RM) (90.008) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | Black Swan (147.024) | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Blood Sweat & Tears (92.9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Daechwita (144.995) | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | Lie (94.069) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | HOME (142.991) | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (94.074) |

@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| You Don't Know Me (0.877) | Born To Die (0.18) |
-| Mercy (0.793) | All I Ask Of You - Reprise (0.191) |
-| I Will Survive - Single Version (0.777) | Norman fucking Rockwell (0.215) |
-| Heat Waves (0.761) | All I Ask Of You (0.222) |
-| Slow Grenade (0.758) | Overture (0.224) |
-| Lights - Single Version (0.683) | Entr'Acte (0.231) |
-| Don't Call Me Up (0.674) | The Music Of The Night (0.239) |
-| Something In The Way You Move (0.658) | The Point Of No Return (0.251) |
-| Doin' Time (0.641) | I Dreamed A Dream - From "Les Misérables" (0.256) |
-| Prologue (0.626) | Shades Of Cool (0.262) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="You Don't Know Me" width="50" /> | You Don't Know Me (0.877) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Born To Die (0.18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (0.793) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise (0.191) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version (0.777) | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Norman fucking Rockwell (0.215) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.761) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You (0.222) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (0.758) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Overture (0.224) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Lights - Single Version (0.683) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Entr'Acte (0.231) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="Ivy To Roses (Mixtape)" width="50" /> | Don't Call Me Up (0.674) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Music Of The Night (0.239) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move (0.658) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Point Of No Return (0.251) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Doin' Time (0.641) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | I Dreamed A Dream - From "Les Misérables" (0.256) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Prologue (0.626) | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | Shades Of Cool (0.262) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Don't Call Me Up (0.881) | Magical Lasso (0.0314) |
-| Mercy (0.859) | All I Ask Of You - Reprise (0.0679) |
-| Radio (0.841) | Empty Chairs At Empty Tables (0.0688) |
-| Something In The Way You Move (0.814) | I Dreamed A Dream - From "Les Misérables" (0.0739) |
-| Lights - Single Version (0.789) | Angel Of Music (0.0808) |
-| I Will Survive - Single Version (0.725) | I Remember / Stranger Than You Dreamt It (0.0817) |
-| Baba O'Riley (0.724) | In My Life (0.091) |
-| Off To The Races (0.722) | The Music Of The Night (0.0961) |
-| Free (0.696) | Wishing You Were Somehow Here Again (0.102) |
-| Brooklyn Baby (0.664) | Think Of Me (0.114) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="Ivy To Roses (Mixtape)" width="50" /> | Don't Call Me Up (0.881) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Magical Lasso (0.0314) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (0.859) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise (0.0679) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Radio (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Empty Chairs At Empty Tables (0.0688) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move (0.814) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | I Dreamed A Dream - From "Les Misérables" (0.0739) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Lights - Single Version (0.789) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Angel Of Music (0.0808) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | I Remember / Stranger Than You Dreamt It (0.0817) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who's Next (Deluxe Edition)" width="50" /> | Baba O'Riley (0.724) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | In My Life (0.091) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Off To The Races (0.722) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Music Of The Night (0.0961) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Free (0.696) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Wishing You Were Somehow Here Again (0.102) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | Brooklyn Baby (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Think Of Me (0.114) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Prologue (0.748) | Chasing Cars (0.0274) |
-| Don't Call Me Up (0.147) | Love (0.0277) |
-| You Don't Know Me (0.132) | Swan Song (0.0294) |
-| Poor Fool, He Makes Me Laugh (0.111) | Bel Air (0.0298) |
-| In My Life (0.108) | Video Games (0.0299) |
-| Heat Waves (0.0944) | Shades Of Cool (0.0302) |
-| Notes / Twisted Every Way (0.0895) | Your Song (0.0311) |
-| Wandering Child / Bravo, Monsieur (0.0874) | Mercy (0.0332) |
-| Radio (0.0846) | Summertime Sadness (0.0334) |
-| Slow Grenade (0.0771) | Behind Blue Eyes (0.0336) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Prologue (0.748) | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> | Chasing Cars (0.0274) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="Ivy To Roses (Mixtape)" width="50" /> | Don't Call Me Up (0.147) | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="Lust For Life" width="50" /> | Love (0.0277) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="You Don't Know Me" width="50" /> | You Don't Know Me (0.132) | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="Honeymoon" width="50" /> | Swan Song (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Poor Fool, He Makes Me Laugh (0.111) | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="Paradise" width="50" /> | Bel Air (0.0298) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | In My Life (0.108) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Video Games (0.0299) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.0944) | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | Shades Of Cool (0.0302) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Twisted Every Way (0.0895) | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Your Song (0.0311) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Wandering Child / Bravo, Monsieur (0.0874) | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (0.0332) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Radio (0.0846) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Summertime Sadness (0.0334) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (0.0771) | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who's Next (Deluxe Edition)" width="50" /> | Behind Blue Eyes (0.0336) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Norman fucking Rockwell (0.968) | Overture (0.00451) |
-| Empty Chairs At Empty Tables (0.944) | Free (0.00777) |
-| I Dreamed A Dream - From "Les Misérables" (0.937) | I Will Survive - Single Version (0.0131) |
-| Your Song (0.936) | Lights - Single Version (0.0283) |
-| In My Life (0.935) | Something In The Way You Move (0.0401) |
-| Magical Lasso (0.934) | Summertime Sadness (0.0456) |
-| Angel Of Music (0.931) | Cherry (0.048) |
-| All I Ask Of You - Reprise (0.911) | The Phantom Of The Opera (0.0533) |
-| Think Of Me (0.905) | Off To The Races (0.061) |
-| Wishing You Were Somehow Here Again (0.898) | Slow Grenade (0.0996) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Norman fucking Rockwell (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Overture (0.00451) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Empty Chairs At Empty Tables (0.944) | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Free (0.00777) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | I Dreamed A Dream - From "Les Misérables" (0.937) | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version (0.0131) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Your Song (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Lights - Single Version (0.0283) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | In My Life (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move (0.0401) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Magical Lasso (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Summertime Sadness (0.0456) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Angel Of Music (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="Lust For Life" width="50" /> | Cherry (0.048) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise (0.911) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Phantom Of The Opera (0.0533) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Think Of Me (0.905) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Off To The Races (0.061) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Wishing You Were Somehow Here Again (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (0.0996) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Swan Song (0.421) | Do You Hear The People Sing? (0.0) |
-| Entr'Acte (0.42) | Dark Paradise (0.0) |
-| Overture (0.245) | Prologue (0.0) |
-| Baba O'Riley (0.185) | You Don't Know Me (0.0) |
-| Bel Air (0.0875) | Masquerade / Why So Silent (0.0) |
-| Norman fucking Rockwell (0.0585) | In My Life (0.0) |
-| Lights - Single Version (0.0492) | On My Own (0.0) |
-| All I Ask Of You - Reprise (0.0315) | Summertime Sadness (0.0) |
-| West Coast (0.0194) | Slow Grenade (0.0) |
-| Shades Of Cool (0.0161) | Something In The Way You Move (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="Honeymoon" width="50" /> | Swan Song (0.421) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Do You Hear The People Sing? (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Entr'Acte (0.42) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Dark Paradise (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Overture (0.245) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Prologue (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who's Next (Deluxe Edition)" width="50" /> | Baba O'Riley (0.185) | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="You Don't Know Me" width="50" /> | You Don't Know Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="Paradise" width="50" /> | Bel Air (0.0875) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Masquerade / Why So Silent (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Norman fucking Rockwell (0.0585) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | In My Life (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Lights - Single Version (0.0492) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | On My Own (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise (0.0315) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Summertime Sadness (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | West Coast (0.0194) | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | Shades Of Cool (0.0161) | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Bel Air (0.901) | All I Ask Of You - Reprise (0.0754) |
-| The Point Of No Return (0.503) | Don't Call Me Up (0.0793) |
-| Off To The Races (0.4) | Radio (0.0876) |
-| Entr'Acte (0.386) | In My Life (0.0881) |
-| Cherry (0.384) | Wishing You Were Somehow Here Again (0.0882) |
-| Down Once More / Track Down This Murderer (0.341) | Video Games (0.0887) |
-| I Remember / Stranger Than You Dreamt It (0.31) | Behind Blue Eyes (0.0892) |
-| Baba O'Riley (0.287) | West Coast (0.0907) |
-| Masquerade / Why So Silent (0.261) | I Dreamed A Dream - From "Les Misérables" (0.0907) |
-| Swan Song (0.259) | Heat Waves (0.0921) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="Paradise" width="50" /> | Bel Air (0.901) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise (0.0754) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Point Of No Return (0.503) | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="Ivy To Roses (Mixtape)" width="50" /> | Don't Call Me Up (0.0793) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Off To The Races (0.4) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Radio (0.0876) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Entr'Acte (0.386) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | In My Life (0.0881) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="Lust For Life" width="50" /> | Cherry (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Wishing You Were Somehow Here Again (0.0882) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer (0.341) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Video Games (0.0887) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | I Remember / Stranger Than You Dreamt It (0.31) | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who's Next (Deluxe Edition)" width="50" /> | Behind Blue Eyes (0.0892) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who's Next (Deluxe Edition)" width="50" /> | Baba O'Riley (0.287) | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | West Coast (0.0907) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Masquerade / Why So Silent (0.261) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | I Dreamed A Dream - From "Les Misérables" (0.0907) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="Honeymoon" width="50" /> | Swan Song (0.259) | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.0921) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Mercy (0.964) | Wishing You Were Somehow Here Again (0.0374) |
-| Lights - Single Version (0.809) | Swan Song (0.0392) |
-| You Don't Know Me (0.693) | Wandering Child / Bravo, Monsieur (0.0392) |
-| Slow Grenade (0.581) | Little Lotte / The Mirror (Angel Of Music) (0.0465) |
-| Heat Waves (0.531) | Free (0.0494) |
-| I Will Survive - Single Version (0.529) | Down Once More / Track Down This Murderer (0.0529) |
-| Doin' Time (0.523) | I Remember / Stranger Than You Dreamt It (0.0574) |
-| Do You Hear The People Sing? (0.504) | All I Ask Of You - Reprise (0.0624) |
-| West Coast (0.461) | Why Have You Brought Me Here (0.0742) |
-| Your Song (0.41) | The Point Of No Return (0.0757) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Wishing You Were Somehow Here Again (0.0374) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Lights - Single Version (0.809) | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="Honeymoon" width="50" /> | Swan Song (0.0392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="You Don't Know Me" width="50" /> | You Don't Know Me (0.693) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Wandering Child / Bravo, Monsieur (0.0392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (0.581) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Little Lotte / The Mirror (Angel Of Music) (0.0465) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.531) | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Free (0.0494) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version (0.529) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer (0.0529) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Doin' Time (0.523) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | I Remember / Stranger Than You Dreamt It (0.0574) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Do You Hear The People Sing? (0.504) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise (0.0624) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | West Coast (0.461) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Why Have You Brought Me Here (0.0742) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Your Song (0.41) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Point Of No Return (0.0757) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Free (174.806) | On My Own (71.842) |
-| Off To The Races (160.065) | Radio (75.112) |
-| Doin' Time (144.982) | In My Life (75.556) |
-| Slow Grenade (142.035) | Born To Die (75.632) |
-| All I Ask Of You (139.404) | Magical Lasso (76.381) |
-| Shades Of Cool (137.918) | Do You Hear The People Sing? (76.744) |
-| Your Song (133.604) | Norman fucking Rockwell (78.287) |
-| Masquerade / Why So Silent (130.502) | Why Have You Brought Me Here (78.337) |
-| Fuck it I love you (129.974) | The Point Of No Return (80.215) |
-| Mercy (129.911) | Heat Waves (80.87) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Free (174.806) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | On My Own (71.842) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Off To The Races (160.065) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Radio (75.112) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Doin' Time (144.982) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | In My Life (75.556) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (142.035) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Born To Die (75.632) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You (139.404) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Magical Lasso (76.381) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | Shades Of Cool (137.918) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Do You Hear The People Sing? (76.744) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Your Song (133.604) | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Norman fucking Rockwell (78.287) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Masquerade / Why So Silent (130.502) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Why Have You Brought Me Here (78.337) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Fuck it I love you (129.974) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Point Of No Return (80.215) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (129.911) | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (80.87) |

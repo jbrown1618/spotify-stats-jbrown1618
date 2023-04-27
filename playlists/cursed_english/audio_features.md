@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| SNEAKERS (English Ver.) (0.92) | Life's Too Short (English Version) (0.472) |
-| Cat & Dog (English Version) (0.841) | Levanter - English Ver. (0.581) |
-| Do It Like This - English Version (0.837) | HWAA - English Version (0.606) |
-| In the morning - English Ver. (0.834) | I CAN'T STOP ME (English Version) (0.645) |
-| WANNABE - English Ver. (0.822) | HELICOPTER - English Version (0.651) |
-| ICY - English Ver. (0.82) | Highway to Heaven - English Version (0.676) |
-| DALLA DALLA - English Ver. (0.813) | DOMINO - English Ver. (0.68) |
-| LATATA - English Ver. (0.801) | Bewitched - Eng Ver. (0.696) |
-| Oh my god - English Version (0.794) | RBB (Really Bad Boy) - English Version (0.717) |
-| Not Shy - English Ver. (0.766) | Bad Boy - English Version, Bonus Track (0.723) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Life's Too Short (English Version) (0.472) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> | Cat & Dog (English Version) (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.581) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (0.837) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.606) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.834) | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.645) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.822) | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (0.651) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.82) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (0.676) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.813) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.68) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.801) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (0.696) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (0.717) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (0.766) | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (0.723) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| LUNATIC (English Ver.) (0.943) | Love Talk - English Version (0.719) |
-| Bewitched - Eng Ver. (0.909) | Bad Boy - English Version, Bonus Track (0.726) |
-| Not Shy - English Ver. (0.902) | Levanter - English Ver. (0.727) |
-| WANNABE - English Ver. (0.902) | Highway to Heaven - English Version (0.74) |
-| ICY - English Ver. (0.901) | Regular - English Version (0.747) |
-| HELICOPTER - English Version (0.89) | Oh my god - English Version (0.756) |
-| I CAN'T STOP ME (English Version) (0.881) | Do It Like This - English Version (0.785) |
-| DOMINO - English Ver. (0.877) | In the morning - English Ver. (0.786) |
-| RBB (Really Bad Boy) - English Version (0.867) | Cat & Dog (English Version) (0.8) |
-| LOCO - English Ver. (0.867) | Life's Too Short (English Version) (0.8) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) (0.943) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk - English Version (0.719) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (0.909) | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (0.726) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (0.902) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.727) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.902) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (0.74) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.901) | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | Regular - English Version (0.747) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (0.89) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.756) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.881) | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (0.785) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.877) | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.786) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (0.867) | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> | Cat & Dog (English Version) (0.8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.867) | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Life's Too Short (English Version) (0.8) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Life's Too Short (English Version) (0.265) | RBB (Really Bad Boy) - English Version (0.0319) |
-| LATATA - English Ver. (0.231) | Love Talk - English Version (0.0373) |
-| LOCO - English Ver. (0.216) | Oh my god - English Version (0.0402) |
-| SET ME FREE (ENG) (0.207) | DOMINO - English Ver. (0.0425) |
-| In the morning - English Ver. (0.168) | Bad Boy - English Version, Bonus Track (0.043) |
-| Make A Wish (Birthday Song) - English Version (0.144) | Highway to Heaven - English Version (0.0494) |
-| Bewitched - Eng Ver. (0.115) | Levanter - English Ver. (0.0566) |
-| ICY - English Ver. (0.111) | WANNABE - English Ver. (0.0587) |
-| Do It Like This - English Version (0.108) | SNEAKERS (English Ver.) (0.0588) |
-| I CAN'T STOP ME (English Version) (0.107) | MORE & MORE (English Version) (0.0613) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Life's Too Short (English Version) (0.265) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (0.0319) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.231) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk - English Version (0.0373) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.216) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.0402) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | SET ME FREE (ENG) (0.207) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.0425) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.168) | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (0.043) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="NCT RESONANCE Pt. 1 - The 2nd Album" width="50" /> | Make A Wish (Birthday Song) - English Version (0.144) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (0.0494) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (0.115) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.0566) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.111) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.0587) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (0.108) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.0588) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.107) | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE & MORE (English Version)" width="50" /> | MORE & MORE (English Version) (0.0613) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Life's Too Short (English Version) (0.289) | DALLA DALLA - English Ver. (0.00102) |
-| Not Shy - English Ver. (0.283) | Highway to Heaven - English Version (0.00257) |
-| Regular - English Version (0.263) | WANNABE - English Ver. (0.00392) |
-| Bad Boy - English Version, Bonus Track (0.21) | LOCO - English Ver. (0.00781) |
-| I CAN'T STOP ME (English Version) (0.173) | Levanter - English Ver. (0.00912) |
-| Love Talk - English Version (0.142) | RBB (Really Bad Boy) - English Version (0.0117) |
-| SET ME FREE (ENG) (0.127) | LATATA - English Ver. (0.015) |
-| LUNATIC (English Ver.) (0.0835) | SNEAKERS (English Ver.) (0.0188) |
-| In the morning - English Ver. (0.0672) | Bewitched - Eng Ver. (0.0258) |
-| Make A Wish (Birthday Song) - English Version (0.0582) | DOMINO - English Ver. (0.0277) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Life's Too Short (English Version) (0.289) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.00102) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (0.283) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (0.00257) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | Regular - English Version (0.263) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.00392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (0.21) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.00781) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.173) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.00912) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk - English Version (0.142) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (0.0117) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | SET ME FREE (ENG) (0.127) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.015) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) (0.0835) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.0188) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.0672) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (0.0258) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="NCT RESONANCE Pt. 1 - The 2nd Album" width="50" /> | Make A Wish (Birthday Song) - English Version (0.0582) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.0277) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Oh my god - English Version (0.000351) | DOMINO - English Ver. (0.0) |
-| WANNABE - English Ver. (0.000102) | Make A Wish (Birthday Song) - English Version (0.0) |
-| RBB (Really Bad Boy) - English Version (5.46e-05) | Love Talk - English Version (0.0) |
-| In the morning - English Ver. (2.21e-05) | Life's Too Short (English Version) (0.0) |
-| LOCO - English Ver. (1.63e-05) | HELICOPTER - English Version (0.0) |
-| Highway to Heaven - English Version (1.59e-05) | I CAN'T STOP ME (English Version) (0.0) |
-| DALLA DALLA - English Ver. (9.42e-06) | Do It Like This - English Version (0.0) |
-| Cat & Dog (English Version) (6.73e-06) | Levanter - English Ver. (0.0) |
-| Regular - English Version (5.15e-06) | Bewitched - Eng Ver. (0.0) |
-| SNEAKERS (English Ver.) (4.61e-06) | SET ME FREE (ENG) (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.000351) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.000102) | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="NCT RESONANCE Pt. 1 - The 2nd Album" width="50" /> | Make A Wish (Birthday Song) - English Version (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (5.46e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk - English Version (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (2.21e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Life's Too Short (English Version) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (1.63e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (1.59e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (9.42e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> | Cat & Dog (English Version) (6.73e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | Regular - English Version (5.15e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (4.61e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | SET ME FREE (ENG) (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Levanter - English Ver. (0.544) | SNEAKERS (English Ver.) (0.0242) |
-| I CAN'T STOP ME (English Version) (0.427) | Make A Wish (Birthday Song) - English Version (0.0528) |
-| HELICOPTER - English Version (0.425) | Bad Boy - English Version, Bonus Track (0.061) |
-| LOCO - English Ver. (0.351) | SET ME FREE (ENG) (0.0632) |
-| DALLA DALLA - English Ver. (0.329) | In the morning - English Ver. (0.0701) |
-| LATATA - English Ver. (0.3) | DOMINO - English Ver. (0.0731) |
-| Regular - English Version (0.266) | Highway to Heaven - English Version (0.0782) |
-| Oh my god - English Version (0.253) | HWAA - English Version (0.0803) |
-| ICY - English Ver. (0.215) | Do It Like This - English Version (0.117) |
-| WANNABE - English Ver. (0.192) | LUNATIC (English Ver.) (0.117) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.544) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.0242) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.427) | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="NCT RESONANCE Pt. 1 - The 2nd Album" width="50" /> | Make A Wish (Birthday Song) - English Version (0.0528) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (0.425) | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (0.061) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.351) | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | SET ME FREE (ENG) (0.0632) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.329) | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.0701) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.3) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.0731) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | Regular - English Version (0.266) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (0.0782) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.253) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.0803) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.215) | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (0.117) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.192) | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) (0.117) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| LUNATIC (English Ver.) (0.894) | HWAA - English Version (0.235) |
-| Bad Boy - English Version, Bonus Track (0.839) | RBB (Really Bad Boy) - English Version (0.376) |
-| Regular - English Version (0.831) | Cat & Dog (English Version) (0.382) |
-| ICY - English Ver. (0.815) | Bewitched - Eng Ver. (0.401) |
-| I CAN'T STOP ME (English Version) (0.76) | Do It Like This - English Version (0.406) |
-| In the morning - English Ver. (0.757) | Love Talk - English Version (0.437) |
-| SET ME FREE (ENG) (0.731) | Levanter - English Ver. (0.448) |
-| DALLA DALLA - English Ver. (0.696) | Highway to Heaven - English Version (0.497) |
-| WANNABE - English Ver. (0.69) | Oh my god - English Version (0.518) |
-| DOMINO - English Ver. (0.69) | LOCO - English Ver. (0.534) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) (0.894) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.235) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (0.839) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (0.376) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | Regular - English Version (0.831) | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> | Cat & Dog (English Version) (0.382) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | ICY - English Ver. (0.815) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (0.401) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (0.76) | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (0.406) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk - English Version (0.437) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | SET ME FREE (ENG) (0.731) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (0.448) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.696) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven - English Version (0.497) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.69) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.518) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (0.69) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (0.534) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| DOMINO - English Ver. (160.063) | Life's Too Short (English Version) (72.203) |
-| Cat & Dog (English Version) (159.926) | Do It Like This - English Version (95.046) |
-| HELICOPTER - English Version (155.035) | HWAA - English Version (95.889) |
-| RBB (Really Bad Boy) - English Version (150.109) | Love Talk - English Version (98.01) |
-| Bad Boy - English Version, Bonus Track (150.011) | LATATA - English Ver. (98.015) |
-| Levanter - English Ver. (149.971) | Not Shy - English Ver. (100.988) |
-| I CAN'T STOP ME (English Version) (149.959) | Make A Wish (Birthday Song) - English Version (101.005) |
-| In the morning - English Ver. (140.108) | LOCO - English Ver. (101.957) |
-| Regular - English Version (134.039) | MORE & MORE (English Version) (106.998) |
-| DALLA DALLA - English Ver. (125.014) | Bewitched - Eng Ver. (109.942) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | DOMINO - English Ver. (160.063) | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Life's Too Short (English Version) (72.203) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat & Dog (English Version)" width="50" /> | Cat & Dog (English Version) (159.926) | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This - English Version (95.046) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (155.035) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (95.889) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (150.109) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk - English Version (98.01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Bad Boy - English Version, Bonus Track (150.011) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (98.015) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Levanter - English Ver. (149.971) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | Not Shy - English Ver. (100.988) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN'T STOP ME (English Version)" width="50" /> | I CAN'T STOP ME (English Version) (149.959) | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="NCT RESONANCE Pt. 1 - The 2nd Album" width="50" /> | Make A Wish (Birthday Song) - English Version (101.005) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning - English Ver. (140.108) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | LOCO - English Ver. (101.957) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | Regular - English Version (134.039) | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE & MORE (English Version)" width="50" /> | MORE & MORE (English Version) (106.998) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (125.014) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. (109.942) |

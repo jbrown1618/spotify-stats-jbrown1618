@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Bad Boy (0.822) | Good Night My Princess (0.446) |
-| Demente (feat. Guaynaa) (0.802) | Gotta Go (0.531) |
-| Snapping (0.746) | Crazy Like You (feat. BIBI) (0.536) |
-| BAD GIRL (Prod. Czaer) (0.725) | Sparkling (0.6) |
-| When I Get Old (0.723) | Stay Tonight (0.625) |
-| Killing Me (0.722) | Bicycle (0.625) |
-| Wow Thing (0.703) | PLAY (0.637) |
-| Dream of You (with R3HAB) (0.659) | Masquerade (0.645) |
-| Masquerade (0.645) | Dream of You (with R3HAB) (0.659) |
-| PLAY (0.637) | Wow Thing (0.703) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.822) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.446) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.802) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.531) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (0.746) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.723) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.625) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.722) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.625) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.703) | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.637) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.659) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.645) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.645) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.659) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.637) | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.703) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| PLAY (0.94) | Good Night My Princess (0.475) |
-| Sparkling (0.923) | Bad Boy (0.574) |
-| Bicycle (0.903) | Crazy Like You (feat. BIBI) (0.639) |
-| Wow Thing (0.894) | When I Get Old (0.641) |
-| Killing Me (0.851) | Snapping (0.726) |
-| Demente (feat. Guaynaa) (0.851) | BAD GIRL (Prod. Czaer) (0.729) |
-| Masquerade (0.844) | Dream of You (with R3HAB) (0.738) |
-| Stay Tonight (0.831) | Gotta Go (0.83) |
-| Gotta Go (0.83) | Stay Tonight (0.831) |
-| Dream of You (with R3HAB) (0.738) | Masquerade (0.844) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.475) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.923) | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.574) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.903) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.639) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.894) | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.641) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.851) | <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (0.726) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.851) | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.729) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.738) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.831) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.83) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.83) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.831) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.738) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.844) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Wow Thing (0.281) | Good Night My Princess (0.0293) |
-| Killing Me (0.264) | When I Get Old (0.0315) |
-| Sparkling (0.105) | Masquerade (0.0383) |
-| PLAY (0.101) | Snapping (0.0394) |
-| BAD GIRL (Prod. Czaer) (0.0829) | Gotta Go (0.0446) |
-| Dream of You (with R3HAB) (0.0659) | Crazy Like You (feat. BIBI) (0.0447) |
-| Bicycle (0.0594) | Bad Boy (0.0461) |
-| Demente (feat. Guaynaa) (0.0563) | Stay Tonight (0.0554) |
-| Stay Tonight (0.0554) | Demente (feat. Guaynaa) (0.0563) |
-| Bad Boy (0.0461) | Bicycle (0.0594) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.281) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.264) | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.0315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.105) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.0383) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.101) | <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (0.0394) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.0829) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.0446) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.0659) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.0447) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.0594) | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.0461) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.0563) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.0554) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.0554) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.0563) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.0461) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.0594) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Good Night My Princess (0.522) | Bicycle (0.006) |
-| Bad Boy (0.351) | Masquerade (0.0261) |
-| Killing Me (0.35) | Dream of You (with R3HAB) (0.0347) |
-| When I Get Old (0.257) | Demente (feat. Guaynaa) (0.0398) |
-| Stay Tonight (0.199) | Snapping (0.0706) |
-| PLAY (0.17) | Gotta Go (0.0741) |
-| Sparkling (0.166) | BAD GIRL (Prod. Czaer) (0.0815) |
-| Wow Thing (0.115) | Crazy Like You (feat. BIBI) (0.0957) |
-| Crazy Like You (feat. BIBI) (0.0957) | Wow Thing (0.115) |
-| BAD GIRL (Prod. Czaer) (0.0815) | Sparkling (0.166) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.522) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.006) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.351) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.0261) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.35) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.0347) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.257) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.0398) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.199) | <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (0.0706) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.17) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.0741) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.166) | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.0815) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.115) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.0957) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.0957) | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.115) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.0815) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.166) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Stay Tonight (0.000612) | Crazy Like You (feat. BIBI) (0.0) |
-| Demente (feat. Guaynaa) (0.000335) | Good Night My Princess (0.0) |
-| Masquerade (0.000238) | Bad Boy (0.0) |
-| PLAY (2.67e-05) | Gotta Go (0.0) |
-| Snapping (3.43e-06) | Killing Me (0.0) |
-| Dream of You (with R3HAB) (2.26e-06) | BAD GIRL (Prod. Czaer) (0.0) |
-| Bicycle (0.0) | Wow Thing (0.0) |
-| Sparkling (0.0) | When I Get Old (0.0) |
-| When I Get Old (0.0) | Sparkling (0.0) |
-| Wow Thing (0.0) | Bicycle (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.000612) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.000335) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.000238) | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (2.67e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (3.43e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (2.26e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Wow Thing (0.363) | Demente (feat. Guaynaa) (0.0618) |
-| Sparkling (0.32) | Killing Me (0.0661) |
-| Snapping (0.278) | Masquerade (0.0767) |
-| Bad Boy (0.245) | Stay Tonight (0.0805) |
-| Bicycle (0.235) | Good Night My Princess (0.0859) |
-| Crazy Like You (feat. BIBI) (0.209) | Gotta Go (0.0993) |
-| When I Get Old (0.203) | BAD GIRL (Prod. Czaer) (0.107) |
-| PLAY (0.152) | Dream of You (with R3HAB) (0.114) |
-| Dream of You (with R3HAB) (0.114) | PLAY (0.152) |
-| BAD GIRL (Prod. Czaer) (0.107) | When I Get Old (0.203) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.363) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.0618) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.32) | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.0661) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (0.278) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.0767) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.245) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.0805) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.235) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.0859) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.209) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.0993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.203) | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.107) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.152) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.114) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.114) | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.152) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.107) | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.203) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| PLAY (0.884) | Good Night My Princess (0.112) |
-| BAD GIRL (Prod. Czaer) (0.829) | Gotta Go (0.419) |
-| Bicycle (0.825) | Crazy Like You (feat. BIBI) (0.502) |
-| Killing Me (0.763) | Stay Tonight (0.513) |
-| Bad Boy (0.743) | Snapping (0.578) |
-| Wow Thing (0.737) | Dream of You (with R3HAB) (0.615) |
-| Masquerade (0.731) | When I Get Old (0.658) |
-| Sparkling (0.712) | Demente (feat. Guaynaa) (0.697) |
-| Demente (feat. Guaynaa) (0.697) | Sparkling (0.712) |
-| When I Get Old (0.658) | Masquerade (0.731) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (0.112) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (0.829) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.419) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (0.825) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (0.502) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (0.763) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (0.513) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (0.743) | <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (0.578) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (0.737) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (0.615) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.731) | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.658) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.712) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.697) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (0.697) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (0.712) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.658) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (0.731) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Crazy Like You (feat. BIBI) (170.94) | BAD GIRL (Prod. Czaer) (92.0) |
-| Sparkling (160.025) | Demente (feat. Guaynaa) (100.019) |
-| Bicycle (145.97) | Gotta Go (101.903) |
-| Masquerade (143.957) | PLAY (103.934) |
-| Good Night My Princess (139.267) | Wow Thing (104.043) |
-| When I Get Old (127.418) | Snapping (104.961) |
-| Killing Me (122.012) | Bad Boy (116.987) |
-| Stay Tonight (121.029) | Dream of You (with R3HAB) (117.081) |
-| Dream of You (with R3HAB) (117.081) | Stay Tonight (121.029) |
-| Bad Boy (116.987) | Killing Me (122.012) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Crazy Like You (feat. BIBI) (170.94) | <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="Street Woman Fighter(SWF) Special" width="50" /> | BAD GIRL (Prod. Czaer) (92.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Sparkling (160.025) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Demente (feat. Guaynaa) (100.019) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Bicycle (145.97) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (101.903) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Masquerade (143.957) | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (103.934) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&Rare, Pt. 1" width="50" /> | Good Night My Princess (139.267) | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="Wow Thing" width="50" /> | Wow Thing (104.043) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (127.418) | <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="Flourishing" width="50" /> | Snapping (104.961) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (122.012) | <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (116.987) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (121.029) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (117.081) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Dream of You (with R3HAB) (117.081) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Stay Tonight (121.029) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="Bad Boy" width="50" /> | Bad Boy (116.987) | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="Killing Me" width="50" /> | Killing Me (122.012) |

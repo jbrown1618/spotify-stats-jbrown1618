@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Locked Inside A Door (0.757) | REASON (0.474) |
-| Black Or White (0.746) | Starlight (0.548) |
-| Scream (0.704) | BEcause (0.55) |
-| Red Sun (0.701) | VISION (0.582) |
-| MAISON (0.686) | Jazz Bar (0.683) |
-| Jazz Bar (0.683) | MAISON (0.686) |
-| VISION (0.582) | Red Sun (0.701) |
-| BEcause (0.55) | Scream (0.704) |
-| Starlight (0.548) | Black Or White (0.746) |
-| REASON (0.474) | Locked Inside A Door (0.757) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.474) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.746) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.548) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.704) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.55) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.701) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.582) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.686) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.683) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.683) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.686) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.582) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.701) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.55) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.704) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.548) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.746) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.474) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.757) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| MAISON (0.955) | Locked Inside A Door (0.661) |
-| Scream (0.94) | Jazz Bar (0.707) |
-| BEcause (0.932) | Black Or White (0.793) |
-| Red Sun (0.92) | VISION (0.855) |
-| REASON (0.901) | Starlight (0.898) |
-| Starlight (0.898) | REASON (0.901) |
-| VISION (0.855) | Red Sun (0.92) |
-| Black Or White (0.793) | BEcause (0.932) |
-| Jazz Bar (0.707) | Scream (0.94) |
-| Locked Inside A Door (0.661) | MAISON (0.955) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.661) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.707) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.793) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.855) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.901) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.898) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.901) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.855) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.92) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.793) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.932) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.707) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.94) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.661) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.955) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| REASON (0.254) | Starlight (0.0484) |
-| MAISON (0.159) | Locked Inside A Door (0.0518) |
-| Scream (0.158) | VISION (0.0561) |
-| Red Sun (0.157) | Black Or White (0.0794) |
-| Jazz Bar (0.128) | BEcause (0.0855) |
-| BEcause (0.0855) | Jazz Bar (0.128) |
-| Black Or White (0.0794) | Red Sun (0.157) |
-| VISION (0.0561) | Scream (0.158) |
-| Locked Inside A Door (0.0518) | MAISON (0.159) |
-| Starlight (0.0484) | REASON (0.254) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.254) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.0484) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.159) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.0518) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.158) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.0561) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.157) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.0794) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.128) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.0855) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.0855) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.128) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.0794) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.157) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.0561) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.158) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.0518) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.159) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.0484) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.254) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Jazz Bar (0.704) | Starlight (0.00244) |
-| Red Sun (0.351) | REASON (0.00513) |
-| Locked Inside A Door (0.276) | BEcause (0.0183) |
-| MAISON (0.129) | VISION (0.0308) |
-| Black Or White (0.125) | Scream (0.0312) |
-| Scream (0.0312) | Black Or White (0.125) |
-| VISION (0.0308) | MAISON (0.129) |
-| BEcause (0.0183) | Locked Inside A Door (0.276) |
-| REASON (0.00513) | Red Sun (0.351) |
-| Starlight (0.00244) | Jazz Bar (0.704) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.704) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.00244) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.351) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.00513) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.276) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.0183) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.129) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.0308) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.125) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.0312) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.0312) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.125) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.0308) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.129) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.0183) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.276) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.00513) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.351) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.00244) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.704) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Red Sun (0.0) | Black Or White (0.0) |
-| Starlight (0.0) | MAISON (0.0) |
-| Jazz Bar (0.0) | VISION (0.0) |
-| Scream (0.0) | REASON (0.0) |
-| Locked Inside A Door (0.0) | BEcause (0.0) |
-| BEcause (0.0) | Locked Inside A Door (0.0) |
-| REASON (0.0) | Scream (0.0) |
-| VISION (0.0) | Jazz Bar (0.0) |
-| MAISON (0.0) | Starlight (0.0) |
-| Black Or White (0.0) | Red Sun (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| BEcause (0.344) | Locked Inside A Door (0.0717) |
-| REASON (0.343) | MAISON (0.0782) |
-| Jazz Bar (0.335) | Black Or White (0.0839) |
-| Scream (0.29) | VISION (0.144) |
-| Starlight (0.165) | Red Sun (0.149) |
-| Red Sun (0.149) | Starlight (0.165) |
-| VISION (0.144) | Scream (0.29) |
-| Black Or White (0.0839) | Jazz Bar (0.335) |
-| MAISON (0.0782) | REASON (0.343) |
-| Locked Inside A Door (0.0717) | BEcause (0.344) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.344) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.0717) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.343) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.0782) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.335) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.0839) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.29) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.144) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.165) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.149) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.149) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.165) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.144) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.0839) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.335) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.0782) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.343) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.0717) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.344) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Locked Inside A Door (0.815) | Scream (0.311) |
-| Jazz Bar (0.72) | Starlight (0.346) |
-| Black Or White (0.686) | VISION (0.355) |
-| Red Sun (0.567) | REASON (0.404) |
-| MAISON (0.496) | BEcause (0.45) |
-| BEcause (0.45) | MAISON (0.496) |
-| REASON (0.404) | Red Sun (0.567) |
-| VISION (0.355) | Black Or White (0.686) |
-| Starlight (0.346) | Jazz Bar (0.72) |
-| Scream (0.311) | Locked Inside A Door (0.815) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.815) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.311) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.72) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.346) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.686) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.355) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.567) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.404) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.496) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.45) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (0.45) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (0.496) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (0.404) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (0.567) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (0.686) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (0.346) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (0.72) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (0.311) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (0.815) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| REASON (176.083) | Red Sun (79.454) |
-| BEcause (170.012) | Jazz Bar (93.936) |
-| Starlight (149.97) | VISION (94.958) |
-| Scream (137.909) | Locked Inside A Door (97.968) |
-| MAISON (120.007) | Black Or White (99.983) |
-| Black Or White (99.983) | MAISON (120.007) |
-| Locked Inside A Door (97.968) | Scream (137.909) |
-| VISION (94.958) | Starlight (149.97) |
-| Jazz Bar (93.936) | BEcause (170.012) |
-| Red Sun (79.454) | REASON (176.083) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (176.083) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (79.454) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (170.012) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (93.936) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (149.97) | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (94.958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (137.909) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (97.968) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (120.007) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (99.983) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Black Or White (99.983) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | MAISON (120.007) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Locked Inside A Door (97.968) | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Scream (137.909) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="[Apocalypse : Follow us]" width="50" /> | VISION (94.958) | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="[Apocalypse : Save us]" width="50" /> | Starlight (149.97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Jazz Bar (93.936) | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="[Summer Holiday]" width="50" /> | BEcause (170.012) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | Red Sun (79.454) | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="[REASON]" width="50" /> | REASON (176.083) |

@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Problem (0.834) | We Found Love (0.203) |
-| Sexyback (0.782) | Gravity (0.231) |
-| Smooth Criminal (0.729) | Woods (0.293) |
-| They (0.717) | Sound Of Silence (0.293) |
-| Eine kleine Nachtmusik (0.706) | She Used to Be Mine (0.296) |
-| Domino (0.704) | Aha! (0.297) |
-| Talk Dirty (0.677) | All Time Low (0.299) |
-| Put Your Records On (0.663) | Breathe Again (0.313) |
-| First Train Home (0.663) | Manwa Laage (0.317) |
-| Here (In Your Arms) (0.658) | All of Me (0.322) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Problem (0.834) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love (0.203) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Sexyback (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity (0.231) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Smooth Criminal (0.729) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Woods (0.293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | They (0.717) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence (0.293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.706) | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | She Used to Be Mine (0.296) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Domino (0.704) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Aha! (0.297) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Talk Dirty (0.677) | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | All Time Low (0.299) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Put Your Records On (0.663) | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Breathe Again (0.313) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | First Train Home (0.663) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Manwa Laage (0.317) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Here (In Your Arms) (0.658) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | All of Me (0.322) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Smooth Criminal (0.889) | Woods (0.0582) |
-| Misery Business (0.888) | Skinny Love (0.139) |
-| Valerie (0.847) | when the party's over (0.144) |
-| Hit 'Em Up Style (0.829) | Phoenix (0.206) |
-| My Happy Ending (0.828) | Gravity (0.243) |
-| Bang Bang (0.809) | She Used to Be Mine (0.278) |
-| Don't Stop Believin' (0.809) | All of Me (0.28) |
-| Brand New Jones (0.799) | Sound Of Silence (0.307) |
-| Manwa Laage (0.791) | Latch (0.315) |
-| Domino (0.757) | Eine kleine Nachtmusik (0.32) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Smooth Criminal (0.889) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Woods (0.0582) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Misery Business (0.888) | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Skinny Love (0.139) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Valerie (0.847) | <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="BOCA 2020: Best of College A Cappella" width="50" /> | when the party's over (0.144) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | Hit 'Em Up Style (0.829) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Phoenix (0.206) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending (0.828) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity (0.243) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Bang Bang (0.809) | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | She Used to Be Mine (0.278) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Don't Stop Believin' (0.809) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | All of Me (0.28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones (0.799) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence (0.307) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Manwa Laage (0.791) | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | Latch (0.315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Domino (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.32) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Movin' On (0.183) | Latch (0.0277) |
-| Brand New Jones (0.145) | All of Me (0.0293) |
-| I Write Sins Not Tragedies (0.133) | First Train Home (0.0294) |
-| Valerie (0.126) | Apologize (0.0303) |
-| Talk Dirty (0.123) | Phoenix (0.0313) |
-| Tightrope (0.118) | Aha! (0.0314) |
-| Sexyback (0.117) | Wrecking Ball (0.0316) |
-| Problem (0.114) | Don't Stop Believin' (0.0318) |
-| Bang Bang (0.11) | There Goes My Baby (0.0319) |
-| Manwa Laage (0.102) | Eine kleine Nachtmusik (0.0319) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Movin' On (0.183) | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | Latch (0.0277) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones (0.145) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | All of Me (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | I Write Sins Not Tragedies (0.133) | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | First Train Home (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Valerie (0.126) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Apologize (0.0303) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Talk Dirty (0.123) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Phoenix (0.0313) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Tightrope (0.118) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Aha! (0.0314) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Sexyback (0.117) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Wrecking Ball (0.0316) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Problem (0.114) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Don't Stop Believin' (0.0318) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Bang Bang (0.11) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | There Goes My Baby (0.0319) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Manwa Laage (0.102) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.0319) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Woods (0.942) | Domino (0.0113) |
-| when the party's over (0.918) | Chandelier (0.0115) |
-| Gravity (0.918) | Talk Dirty (0.017) |
-| All of Me (0.884) | Problem (0.0204) |
-| Breathe Again (0.873) | Wrecking Ball (0.0208) |
-| We Found Love (0.872) | Sexyback (0.0246) |
-| Eine kleine Nachtmusik (0.844) | Counting Stars (0.0311) |
-| Sound Of Silence (0.838) | Don't You Worry Child (0.0603) |
-| Skinny Love (0.838) | Sweater Weather (0.0751) |
-| Listen (0.807) | Bang Bang (0.0888) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Woods (0.942) | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Domino (0.0113) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="BOCA 2020: Best of College A Cappella" width="50" /> | when the party's over (0.918) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Chandelier (0.0115) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity (0.918) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Talk Dirty (0.017) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | All of Me (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Problem (0.0204) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Breathe Again (0.873) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Wrecking Ball (0.0208) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Sexyback (0.0246) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Counting Stars (0.0311) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence (0.838) | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Don't You Worry Child (0.0603) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Skinny Love (0.838) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Sweater Weather (0.0751) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Listen (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Bang Bang (0.0888) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Eine kleine Nachtmusik (0.653) | Brand New Jones (0.0) |
-| Here (In Your Arms) (0.0273) | Phoenix (0.0) |
-| Home (0.00371) | Gravity (0.0) |
-| Break Free (0.000898) | Apologize (0.0) |
-| Don't You Worry Child (0.000568) | They (0.0) |
-| We Found Love (0.000108) | Wrecking Ball (0.0) |
-| First Train Home (1.7e-05) | Problem (0.0) |
-| Sweater Weather (6.46e-06) | Who Are You (0.0) |
-| Sound Of Silence (3.48e-06) | Valerie (0.0) |
-| Aha! (2.58e-06) | Say (All I Need) (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.653) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Here (In Your Arms) (0.0273) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Phoenix (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Home (0.00371) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Break Free (0.000898) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Apologize (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Don't You Worry Child (0.000568) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | They (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love (0.000108) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Wrecking Ball (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | First Train Home (1.7e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Problem (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Sweater Weather (6.46e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Who Are You (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence (3.48e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Valerie (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Aha! (2.58e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Say (All I Need) (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Brand New Jones (0.926) | I Write Sins Not Tragedies (0.0582) |
-| Sound Of Silence (0.731) | Sexyback (0.0589) |
-| Talk Dirty (0.53) | All Time Low (0.062) |
-| Chandelier (0.374) | There Goes My Baby (0.0677) |
-| That's What You Get (0.354) | Problem (0.0711) |
-| Listen (0.353) | God is a Woman (0.0721) |
-| Smooth Criminal (0.346) | Apologize (0.0779) |
-| Counting Stars (0.307) | Valerie (0.0779) |
-| First Train Home (0.304) | We Found Love (0.0797) |
-| Tightrope (0.302) | Eine kleine Nachtmusik (0.0802) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | I Write Sins Not Tragedies (0.0582) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence (0.731) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Sexyback (0.0589) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Talk Dirty (0.53) | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | All Time Low (0.062) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Chandelier (0.374) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | There Goes My Baby (0.0677) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | That's What You Get (0.354) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Problem (0.0711) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Listen (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | God is a Woman (0.0721) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Smooth Criminal (0.346) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Apologize (0.0779) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Counting Stars (0.307) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Valerie (0.0779) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | First Train Home (0.304) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Tightrope (0.302) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.0802) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Domino (0.86) | Skinny Love (0.0387) |
-| Sexyback (0.815) | Phoenix (0.0658) |
-| Bang Bang (0.803) | We Found Love (0.0814) |
-| Brand New Jones (0.784) | Gravity (0.0845) |
-| Everybody Talks (0.769) | Latch (0.0988) |
-| Valerie (0.765) | Sound Of Silence (0.1) |
-| Problem (0.757) | Breathe Again (0.116) |
-| Movin' On (0.754) | Woods (0.118) |
-| My Happy Ending (0.74) | Don't You Worry Child (0.129) |
-| Eine kleine Nachtmusik (0.688) | Listen (0.142) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Domino (0.86) | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Skinny Love (0.0387) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Sexyback (0.815) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Phoenix (0.0658) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Bang Bang (0.803) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love (0.0814) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones (0.784) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity (0.0845) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Everybody Talks (0.769) | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | Latch (0.0988) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Valerie (0.765) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence (0.1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Problem (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Breathe Again (0.116) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Movin' On (0.754) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Woods (0.118) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending (0.74) | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Don't You Worry Child (0.129) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Eine kleine Nachtmusik (0.688) | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Listen (0.142) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Gunpowder & Lead (187.614) | There Goes My Baby (77.996) |
-| My Happy Ending (175.719) | We Found Love (78.559) |
-| Chandelier (173.893) | Manwa Laage (81.432) |
-| Misery Business (171.956) | Does He Love You? (81.96) |
-| I Write Sins Not Tragedies (169.807) | Breathe Again (82.123) |
-| Gravity (167.19) | Home (83.467) |
-| Tightrope (160.944) | Oops!...I Did It Again (84.712) |
-| Everybody Talks (160.597) | Aha! (86.112) |
-| Who Are You (155.943) | Latch (86.523) |
-| Bang Bang (151.134) | All Time Low (87.701) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Gunpowder & Lead (187.614) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | There Goes My Baby (77.996) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending (175.719) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love (78.559) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Chandelier (173.893) | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Manwa Laage (81.432) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Misery Business (171.956) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Does He Love You? (81.96) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | I Write Sins Not Tragedies (169.807) | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Breathe Again (82.123) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity (167.19) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Home (83.467) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Tightrope (160.944) | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | Oops!...I Did It Again (84.712) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="BOCA 2014: Best Of College A Cappella" width="50" /> | Everybody Talks (160.597) | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Aha! (86.112) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | Who Are You (155.943) | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | Latch (86.523) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="BOCA 2016: Best Of College A Cappella" width="50" /> | Bang Bang (151.134) | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | All Time Low (87.701) |

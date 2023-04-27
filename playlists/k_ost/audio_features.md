@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Heartbeat (0.679) | U (0.301) |
-| ONCE AGAIN (0.663) | Stardust love song (0.394) |
-| Starlight (0.643) | 내 맘을 볼 수 있나요 (0.397) |
-| From now on (0.641) | Love, Maybe (0.402) |
-| Love, Maybe (Acoustic Ver.) (0.614) | Your Existence (0.418) |
-| Show Your Heart 너를 보여줘 (0.601) | Goodbye (0.46) |
-| With (0.565) | Sweet Night (0.462) |
-| Stay With Me (0.558) | Done For Me (0.467) |
-| My Day Is Full Of You (0.557) | Yours (0.488) |
-| If (0.538) | Adrenaline (0.491) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (0.679) | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (0.301) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (0.663) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.394) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.643) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.397) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.641) | <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.402) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (0.614) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (0.418) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.601) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.46) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With (0.565) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (0.462) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.558) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.467) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.557) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.488) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.538) | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (0.491) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Starlight (0.735) | 내 맘을 볼 수 있나요 (0.166) |
-| Love, Maybe (0.731) | Stardust love song (0.241) |
-| From now on (0.729) | 그대라는 시 (0.292) |
-| Adrenaline (0.719) | Goodbye (0.316) |
-| Show Your Heart 너를 보여줘 (0.662) | Sweet Night (0.339) |
-| Your Existence (0.603) | If (0.346) |
-| My Day Is Full Of You (0.59) | Very, Slowly (0.423) |
-| Heartbeat (0.541) | Yours (0.427) |
-| Stay With Me (0.526) | Done For Me (0.453) |
-| Love, Maybe (Acoustic Ver.) (0.513) | With (0.461) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.735) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.166) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.731) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.241) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.729) | <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.292) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (0.719) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.316) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.662) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (0.339) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (0.603) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.346) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.59) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (0.423) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (0.541) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.427) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.526) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.453) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (0.513) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With (0.461) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Your Existence (0.204) | With (0.0228) |
-| Love, Maybe (0.0693) | Sweet Night (0.025) |
-| Show Your Heart 너를 보여줘 (0.0671) | Very, Slowly (0.0264) |
-| ONCE AGAIN (0.0472) | Love, Maybe (Acoustic Ver.) (0.0291) |
-| From now on (0.0468) | If (0.0294) |
-| Done For Me (0.0405) | Starlight (0.0302) |
-| Yours (0.0382) | Stardust love song (0.031) |
-| 그대라는 시 (0.0364) | Goodbye (0.0317) |
-| U (0.036) | Stay With Me (0.033) |
-| 내 맘을 볼 수 있나요 (0.0349) | Heartbeat (0.0332) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (0.204) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With (0.0228) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.0693) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (0.025) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.0671) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (0.0264) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (0.0472) | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (0.0291) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.0468) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.0405) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.0302) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.0382) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.031) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.0364) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.0317) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (0.036) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.033) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.0349) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (0.0332) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| 그대라는 시 (0.914) | Adrenaline (0.028) |
-| 내 맘을 볼 수 있나요 (0.884) | Starlight (0.0786) |
-| Goodbye (0.861) | From now on (0.157) |
-| U (0.834) | Yours (0.354) |
-| If (0.827) | Stay With Me (0.431) |
-| Stardust love song (0.758) | Love, Maybe (Acoustic Ver.) (0.482) |
-| Done For Me (0.694) | Sweet Night (0.495) |
-| Very, Slowly (0.678) | Love, Maybe (0.508) |
-| Heartbeat (0.662) | With (0.525) |
-| Show Your Heart 너를 보여줘 (0.618) | My Day Is Full Of You (0.532) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.914) | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (0.028) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.0786) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.861) | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.157) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (0.834) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.354) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.827) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.431) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.758) | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (0.482) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.694) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (0.495) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (0.678) | <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.508) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (0.662) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With (0.525) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.618) | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.532) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Very, Slowly (0.00148) | Done For Me (0.0) |
-| From now on (0.000374) | Yours (0.0) |
-| Your Existence (2.52e-05) | Stay With Me (0.0) |
-| U (1.75e-05) | My Day Is Full Of You (0.0) |
-| With (1.37e-05) | Love, Maybe (0.0) |
-| Sweet Night (8.15e-06) | 내 맘을 볼 수 있나요 (0.0) |
-| Adrenaline (1.02e-06) | Goodbye (0.0) |
-| Show Your Heart 너를 보여줘 (0.0) | Heartbeat (0.0) |
-| Starlight (0.0) | Love, Maybe (Acoustic Ver.) (0.0) |
-| If (0.0) | Stardust love song (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (0.00148) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.000374) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (2.52e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (1.75e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With (1.37e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (8.15e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (1.02e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Show Your Heart 너를 보여줘 (0.37) | Yours (0.0797) |
-| Heartbeat (0.338) | Sweet Night (0.0893) |
-| Very, Slowly (0.167) | ONCE AGAIN (0.0906) |
-| Love, Maybe (0.146) | Adrenaline (0.0965) |
-| My Day Is Full Of You (0.133) | If (0.0973) |
-| Stay With Me (0.126) | 내 맘을 볼 수 있나요 (0.1) |
-| Stardust love song (0.125) | Starlight (0.101) |
-| U (0.122) | Your Existence (0.11) |
-| From now on (0.121) | Done For Me (0.111) |
-| 그대라는 시 (0.118) | Goodbye (0.111) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (0.338) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (0.0893) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (0.167) | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (0.0906) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.146) | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (0.0965) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.133) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.0973) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.126) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.125) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.101) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (0.122) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (0.11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.121) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.111) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.118) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.111) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| From now on (0.749) | 내 맘을 볼 수 있나요 (0.131) |
-| Your Existence (0.657) | U (0.137) |
-| Love, Maybe (0.631) | Sweet Night (0.149) |
-| Show Your Heart 너를 보여줘 (0.579) | Stardust love song (0.149) |
-| Goodbye (0.51) | Yours (0.157) |
-| Starlight (0.502) | Adrenaline (0.175) |
-| ONCE AGAIN (0.481) | Stay With Me (0.202) |
-| 그대라는 시 (0.472) | Done For Me (0.241) |
-| My Day Is Full Of You (0.39) | Very, Slowly (0.249) |
-| Love, Maybe (Acoustic Ver.) (0.336) | If (0.266) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.749) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (0.131) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (0.657) | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (0.137) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (0.631) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (0.149) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.149) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (0.51) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (0.157) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (0.502) | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (0.175) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (0.481) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.202) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.472) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (0.241) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.39) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (0.249) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (0.336) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.266) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| From now on (184.059) | Yours (72.035) |
-| Love, Maybe (171.594) | With (76.0) |
-| If (145.714) | My Day Is Full Of You (77.815) |
-| Adrenaline (138.152) | Love, Maybe (Acoustic Ver.) (86.005) |
-| U (136.095) | ONCE AGAIN (86.01) |
-| Very, Slowly (135.917) | Sweet Night (92.106) |
-| 그대라는 시 (135.624) | Show Your Heart 너를 보여줘 (98.927) |
-| Done For Me (135.302) | Your Existence (100.171) |
-| 내 맘을 볼 수 있나요 (134.708) | Heartbeat (111.784) |
-| Goodbye (128.913) | Starlight (111.961) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (184.059) | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Yours (72.035) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (171.594) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With (76.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (145.714) | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (77.815) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | Adrenaline (138.152) | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (Acoustic Ver.) (86.005) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (136.095) | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (86.01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Very, Slowly (135.917) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | Sweet Night (92.106) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (135.624) | <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 (98.927) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me (135.302) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence (100.171) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | 내 맘을 볼 수 있나요 (134.708) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Heartbeat (111.784) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | Goodbye (128.913) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight (111.961) |

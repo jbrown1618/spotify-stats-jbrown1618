@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Feel Good Inc. (0.818) | What Kind Of Man (0.313) |
-| still feel. (0.779) | Feeling Good (0.345) |
-| Believer (0.776) | Mr. Brightside (0.352) |
-| Heat Waves (0.761) | Best of You (0.366) |
-| Stressed Out (0.734) | Knights of Cydonia (0.366) |
-| Hunger (0.729) | Kiss With A Fist (0.367) |
-| Tessellate (0.702) | Seven Devils (0.368) |
-| Young Folks (0.699) | How Big, How Blue, How Beautiful (0.372) |
-| The Other Side Of Paradise (0.689) | American Idiot (0.38) |
-| Supermassive Black Hole (0.668) | Everlong (0.413) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. (0.818) | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | What Kind Of Man (0.313) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="Now, Not Yet" width="50" /> | still feel. (0.779) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Feeling Good (0.345) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer (0.776) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside (0.352) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.761) | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | Best of You (0.366) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Stressed Out (0.734) | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia (0.366) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | Hunger (0.729) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Kiss With A Fist (0.367) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> | Tessellate (0.702) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Seven Devils (0.368) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer's Block" width="50" /> | Young Folks (0.699) | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (0.372) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise (0.689) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (0.38) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Supermassive Black Hole (0.668) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | Everlong (0.413) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| American Idiot (0.988) | I Will Follow You into the Dark (0.206) |
-| Knights of Cydonia (0.963) | Timshel (0.265) |
-| The Pretender (0.959) | The Other Side Of Paradise (0.338) |
-| Best of You (0.94) | Work Song (0.363) |
-| Everybody Talks (0.924) | Madness (0.417) |
-| Supermassive Black Hole (0.921) | Feeling Good (0.418) |
-| Learn to Fly (0.919) | Between Two Lungs (0.418) |
-| Mr. Brightside (0.911) | Good Riddance (Time of Your Life) (0.432) |
-| Everlong (0.881) | What Sarah Said (0.439) |
-| Delilah (0.87) | Little Lion Man (0.481) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (0.988) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (0.206) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | Timshel (0.265) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience & Grace" width="50" /> | The Pretender (0.959) | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise (0.338) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | Best of You (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Work Song (0.363) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness (0.417) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Supermassive Black Hole (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Feeling Good (0.418) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | Learn to Fly (0.919) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Between Two Lungs (0.418) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside (0.911) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Good Riddance (Time of Your Life) (0.432) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | Everlong (0.881) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.439) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | Delilah (0.87) | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | Little Lion Man (0.481) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Feel Good Inc. (0.177) | What Sarah Said (0.0268) |
-| Knights of Cydonia (0.142) | White Winter Hymnal (0.0268) |
-| Stressed Out (0.141) | Little Lion Man (0.0272) |
-| Believer (0.128) | Chasing Cars (0.0274) |
-| Kiss With A Fist (0.114) | Boulevard of Broken Dreams (0.0294) |
-| Heat Waves (0.0944) | Someday (0.0299) |
-| Dog Days Are Over (0.0788) | Good Riddance (Time of Your Life) (0.0302) |
-| Mr. Brightside (0.0747) | Animals (0.0307) |
-| Madness (0.0718) | Lover To Lover (0.0309) |
-| Best of You (0.0696) | Feeling Good (0.0316) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. (0.177) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0268) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia (0.142) | <img src="https://i.scdn.co/image/ab67616d0000b2735a6f22825fd502166c181564" alt="Fleet Foxes" width="50" /> | White Winter Hymnal (0.0268) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Stressed Out (0.141) | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | Little Lion Man (0.0272) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer (0.128) | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> | Chasing Cars (0.0274) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Kiss With A Fist (0.114) | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> | Boulevard of Broken Dreams (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.0944) | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday (0.0299) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Dog Days Are Over (0.0788) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Good Riddance (Time of Your Life) (0.0302) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside (0.0747) | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Animals (0.0307) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness (0.0718) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Lover To Lover (0.0309) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | Best of You (0.0696) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Feeling Good (0.0316) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| I Will Follow You into the Dark (0.924) | Learn to Fly (1.83e-05) |
-| Timshel (0.856) | American Idiot (2.64e-05) |
-| What Sarah Said (0.801) | Everlong (5.99e-05) |
-| Work Song (0.749) | Knights of Cydonia (0.000273) |
-| Take Me to Church (0.634) | Reptilia (0.000603) |
-| How Big, How Blue, How Beautiful (0.605) | Best of You (0.000769) |
-| Hunger (0.53) | The Pretender (0.000917) |
-| Heat Waves (0.44) | Mr. Brightside (0.00121) |
-| White Winter Hymnal (0.438) | All These Things That I've Done (0.00245) |
-| I'm Not Calling You A Liar (0.369) | Kiss With A Fist (0.00254) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | Learn to Fly (1.83e-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | Timshel (0.856) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (2.64e-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.801) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | Everlong (5.99e-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Work Song (0.749) | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia (0.000273) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church (0.634) | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Reptilia (0.000603) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (0.605) | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | Best of You (0.000769) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | Hunger (0.53) | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience & Grace" width="50" /> | The Pretender (0.000917) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (0.44) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside (0.00121) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a6f22825fd502166c181564" alt="Fleet Foxes" width="50" /> | White Winter Hymnal (0.438) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | All These Things That I've Done (0.00245) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | I'm Not Calling You A Liar (0.369) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Kiss With A Fist (0.00254) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Animals (0.796) | Mr. Brightside (0.0) |
-| Reptilia (0.713) | You've Got The Love (0.0) |
-| The Adults Are Talking (0.106) | Believer (0.0) |
-| Tessellate (0.0271) | Take Me to Church (0.0) |
-| What Sarah Said (0.0217) | Ride (0.0) |
-| Sweater Weather (0.0177) | What Kind Of Man (0.0) |
-| Knights of Cydonia (0.0122) | Everybody Talks (0.0) |
-| I Will Wait (0.00717) | White Winter Hymnal (0.0) |
-| Supermassive Black Hole (0.00517) | I Will Follow You into the Dark (0.0) |
-| Madness (0.00419) | Delilah (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Animals (0.796) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Reptilia (0.713) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | You've Got The Love (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The Adults Are Talking (0.106) | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> | Tessellate (0.0271) | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0217) | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Ride (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="I Love You." width="50" /> | Sweater Weather (0.0177) | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | What Kind Of Man (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia (0.0122) | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="Babel (Deluxe Version)" width="50" /> | I Will Wait (0.00717) | <img src="https://i.scdn.co/image/ab67616d0000b2735a6f22825fd502166c181564" alt="Fleet Foxes" width="50" /> | White Winter Hymnal (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Supermassive Black Hole (0.00517) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness (0.00419) | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | Delilah (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Animals (0.696) | The Pretender (0.028) |
-| Radioactive (0.668) | Seven Devils (0.0477) |
-| Feel Good Inc. (0.613) | still feel. (0.0492) |
-| No Light, No Light (0.444) | Boulevard of Broken Dreams (0.0589) |
-| Never Let Me Go (0.383) | Stressed Out (0.0602) |
-| American Idiot (0.368) | The Other Side Of Paradise (0.0649) |
-| Someday (0.367) | Kiss With A Fist (0.0654) |
-| Lover To Lover (0.347) | Everlong (0.0805) |
-| The Adults Are Talking (0.314) | Believer (0.081) |
-| Everybody Talks (0.313) | HandClap (0.0828) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Animals (0.696) | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience & Grace" width="50" /> | The Pretender (0.028) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="Night Visions" width="50" /> | Radioactive (0.668) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Seven Devils (0.0477) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. (0.613) | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="Now, Not Yet" width="50" /> | still feel. (0.0492) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | No Light, No Light (0.444) | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> | Boulevard of Broken Dreams (0.0589) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Never Let Me Go (0.383) | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Stressed Out (0.0602) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (0.368) | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise (0.0649) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday (0.367) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Kiss With A Fist (0.0654) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Lover To Lover (0.347) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | Everlong (0.0805) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The Adults Are Talking (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer (0.081) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks (0.313) | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> | HandClap (0.0828) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Supermassive Black Hole (0.782) | What Sarah Said (0.0401) |
-| Feel Good Inc. (0.772) | Free (0.0494) |
-| Reptilia (0.77) | How Big, How Blue, How Beautiful (0.0825) |
-| American Idiot (0.769) | Timshel (0.0954) |
-| Everybody Talks (0.725) | Chasing Cars (0.144) |
-| HandClap (0.715) | No Light, No Light (0.162) |
-| still feel. (0.715) | What The Water Gave Me (0.184) |
-| White Winter Hymnal (0.711) | All These Things That I've Done (0.206) |
-| Someday (0.679) | Seven Devils (0.211) |
-| Believer (0.666) | Knights of Cydonia (0.211) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Supermassive Black Hole (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0401) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. (0.772) | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Free (0.0494) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Reptilia (0.77) | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (0.0825) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (0.769) | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | Timshel (0.0954) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> | Chasing Cars (0.144) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> | HandClap (0.715) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | No Light, No Light (0.162) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="Now, Not Yet" width="50" /> | still feel. (0.715) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | What The Water Gave Me (0.184) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a6f22825fd502166c181564" alt="Fleet Foxes" width="50" /> | White Winter Hymnal (0.711) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | All These Things That I've Done (0.206) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday (0.679) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Seven Devils (0.211) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer (0.666) | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia (0.211) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| American Idiot (186.113) | Seven Devils (58.534) |
-| Madness (180.301) | Ride (74.989) |
-| Free (174.806) | I Will Follow You into the Dark (80.401) |
-| The Pretender (172.984) | Heat Waves (80.87) |
-| Animals (169.987) | Timshel (82.965) |
-| Stressed Out (169.977) | Good Riddance (Time of Your Life) (94.605) |
-| Delilah (169.946) | Chasing Cars (104.011) |
-| Boulevard of Broken Dreams (167.06) | Someday (106.035) |
-| The Adults Are Talking (164.959) | Kiss With A Fist (107.13) |
-| Everlong (158.066) | Shake It Out (107.486) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (186.113) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Seven Devils (58.534) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness (180.301) | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Ride (74.989) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Free (174.806) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (80.401) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience & Grace" width="50" /> | The Pretender (172.984) | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves (80.87) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Animals (169.987) | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | Timshel (82.965) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Stressed Out (169.977) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Good Riddance (Time of Your Life) (94.605) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | Delilah (169.946) | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> | Chasing Cars (104.011) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> | Boulevard of Broken Dreams (167.06) | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday (106.035) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The Adults Are Talking (164.959) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Kiss With A Fist (107.13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | Everlong (158.066) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Shake It Out (107.486) |

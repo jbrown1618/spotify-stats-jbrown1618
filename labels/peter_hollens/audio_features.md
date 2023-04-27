@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Hobbit Drinking Medley (0.559) | Gollum's Song (0.0835) |
-| Song of the Lonely Mountain (0.509) | Arwen's Song (0.157) |
-| I See Fire (0.43) | Phantom of the Opera Medley (0.207) |
-| Over the Rainbow (0.422) | Misty Mountains (0.224) |
-| Hamilton Medley (0.41) | The Prayer (0.227) |
-| Imagine (0.397) | Les Miserables Medley (0.231) |
-| Fields of Gold (0.387) | Bridge Over Troubled Water (0.25) |
-| Into The West (0.366) | You Raise Me Up - A Cappella (0.273) |
-| Mad World (0.366) | Edge of Night (0.3) |
-| The Sound of Silence (0.323) | Lullaby (0.315) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.559) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.0835) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.509) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.157) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.43) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.207) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.422) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.224) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.41) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.227) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (0.397) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.231) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.387) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (0.366) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.273) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (0.366) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.323) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.315) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Hobbit Drinking Medley (0.8) | Edge of Night (0.0787) |
-| Song of the Lonely Mountain (0.556) | Mad World (0.184) |
-| Hamilton Medley (0.497) | Les Miserables Medley (0.212) |
-| The Prayer (0.427) | Gollum's Song (0.225) |
-| I See Fire (0.365) | Arwen's Song (0.232) |
-| Phantom of the Opera Medley (0.348) | Imagine (0.238) |
-| Into The West (0.335) | Misty Mountains (0.24) |
-| Fields of Gold (0.314) | The Sound of Silence (0.248) |
-| Bridge Over Troubled Water (0.298) | Lullaby (0.252) |
-| You Raise Me Up - A Cappella (0.275) | Over the Rainbow (0.255) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.8) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.0787) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.556) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (0.184) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.497) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.212) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.427) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.225) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.365) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.232) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.348) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (0.238) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (0.335) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.248) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.298) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.252) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.275) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.255) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Hobbit Drinking Medley (0.378) | Fields of Gold (0.027) |
-| Hamilton Medley (0.231) | I See Fire (0.0282) |
-| Edge of Night (0.0458) | Imagine (0.0293) |
-| Gollum's Song (0.0415) | Into The West (0.0294) |
-| Bridge Over Troubled Water (0.038) | Misty Mountains (0.0308) |
-| Over the Rainbow (0.0375) | Lullaby (0.0322) |
-| Les Miserables Medley (0.036) | You Raise Me Up - A Cappella (0.0333) |
-| Song of the Lonely Mountain (0.0359) | Arwen's Song (0.0344) |
-| The Sound of Silence (0.0353) | The Prayer (0.0345) |
-| Mad World (0.035) | Phantom of the Opera Medley (0.0345) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.378) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.027) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.231) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.0282) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.0458) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.0415) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.038) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.0308) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.0375) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.0322) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.036) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.0333) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.0359) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.0344) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.0353) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.0345) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (0.035) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.0345) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Les Miserables Medley (0.96) | Into The West (0.382) |
-| Mad World (0.956) | Hobbit Drinking Medley (0.589) |
-| Edge of Night (0.956) | Hamilton Medley (0.639) |
-| The Sound of Silence (0.946) | I See Fire (0.689) |
-| Lullaby (0.935) | Misty Mountains (0.763) |
-| Arwen's Song (0.932) | Imagine (0.789) |
-| Over the Rainbow (0.921) | Bridge Over Troubled Water (0.836) |
-| Gollum's Song (0.898) | Song of the Lonely Mountain (0.837) |
-| Phantom of the Opera Medley (0.886) | The Prayer (0.854) |
-| Fields of Gold (0.872) | You Raise Me Up - A Cappella (0.871) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.96) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (0.382) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (0.956) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.589) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.956) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.639) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.689) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.763) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (0.789) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.836) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.837) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.854) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.871) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Gollum's Song (0.00108) | Fields of Gold (0.0) |
-| Misty Mountains (0.000414) | The Sound of Silence (0.0) |
-| Edge of Night (0.000285) | Bridge Over Troubled Water (0.0) |
-| Song of the Lonely Mountain (0.000279) | The Prayer (0.0) |
-| Arwen's Song (0.000129) | Les Miserables Medley (0.0) |
-| Imagine (1.83e-05) | I See Fire (0.0) |
-| Into The West (1.35e-06) | Hobbit Drinking Medley (0.0) |
-| Mad World (1.09e-06) | You Raise Me Up - A Cappella (0.0) |
-| Hamilton Medley (0.0) | Lullaby (0.0) |
-| Phantom of the Opera Medley (0.0) | Over the Rainbow (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.00108) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.000414) | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.000285) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.000279) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.000129) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (1.83e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (1.35e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (1.09e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Hobbit Drinking Medley (0.353) | Hamilton Medley (0.0995) |
-| I See Fire (0.339) | Misty Mountains (0.102) |
-| Phantom of the Opera Medley (0.305) | The Prayer (0.102) |
-| The Sound of Silence (0.251) | Into The West (0.106) |
-| Edge of Night (0.24) | Fields of Gold (0.107) |
-| Over the Rainbow (0.137) | You Raise Me Up - A Cappella (0.11) |
-| Bridge Over Troubled Water (0.126) | Song of the Lonely Mountain (0.111) |
-| Gollum's Song (0.12) | Imagine (0.113) |
-| Arwen's Song (0.117) | Les Miserables Medley (0.114) |
-| Mad World (0.116) | Lullaby (0.115) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.0995) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.339) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.102) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.305) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.102) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.251) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (0.106) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.24) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.107) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.137) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.126) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.111) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.12) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (0.113) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.117) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.114) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (0.116) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.115) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Hobbit Drinking Medley (0.817) | Gollum's Song (0.0366) |
-| Over the Rainbow (0.437) | Arwen's Song (0.0448) |
-| I See Fire (0.345) | Into The West (0.0758) |
-| Hamilton Medley (0.324) | Les Miserables Medley (0.0892) |
-| Fields of Gold (0.286) | Edge of Night (0.134) |
-| Song of the Lonely Mountain (0.284) | You Raise Me Up - A Cappella (0.151) |
-| Bridge Over Troubled Water (0.281) | Imagine (0.152) |
-| Mad World (0.266) | Misty Mountains (0.164) |
-| Phantom of the Opera Medley (0.223) | Lullaby (0.188) |
-| The Prayer (0.193) | The Sound of Silence (0.19) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (0.817) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (0.0366) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (0.437) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (0.0448) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (0.345) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (0.0758) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (0.324) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (0.0892) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (0.286) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (0.134) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (0.284) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (0.151) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (0.281) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (0.152) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (0.266) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (0.164) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (0.223) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (0.188) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (0.193) | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (0.19) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/peter_hollens/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| You Raise Me Up - A Cappella (133.258) | Gollum's Song (49.588) |
-| Edge of Night (127.667) | The Prayer (62.132) |
-| Bridge Over Troubled Water (126.04) | Imagine (75.811) |
-| Song of the Lonely Mountain (123.863) | Hamilton Medley (75.822) |
-| Mad World (118.157) | Les Miserables Medley (75.97) |
-| Over the Rainbow (114.426) | I See Fire (76.016) |
-| Hobbit Drinking Medley (109.768) | Phantom of the Opera Medley (76.857) |
-| Fields of Gold (102.19) | The Sound of Silence (80.526) |
-| Lullaby (98.657) | Arwen's Song (85.131) |
-| Misty Mountains (97.419) | Into The West (94.764) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | You Raise Me Up - A Cappella (133.258) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Gollum's Song (49.588) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Edge of Night (127.667) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | The Prayer (62.132) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Bridge Over Troubled Water (126.04) | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Imagine (75.811) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Song of the Lonely Mountain (123.863) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Hamilton Medley (75.822) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Mad World (118.157) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="Peter Hollens" width="50" /> | Les Miserables Medley (75.97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Over the Rainbow (114.426) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | I See Fire (76.016) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Hobbit Drinking Medley (109.768) | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="Covers, Vol. III" width="50" /> | Phantom of the Opera Medley (76.857) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Fields of Gold (102.19) | <img src="https://i.scdn.co/image/ab67616d0000b2732787a9e5a9a46d8d566209c8" alt="The Sound of Silence" width="50" /> | The Sound of Silence (80.526) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="Legendary Covers, Vol. 1" width="50" /> | Lullaby (98.657) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Arwen's Song (85.131) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Misty Mountains (97.419) | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings" width="50" /> | Into The West (94.764) |

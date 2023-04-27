@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| WAP (feat. Megan Thee Stallion) (0.935) | Stairway to Heaven - Remaster (0.338) |
-| Ten Duel Commandments (0.887) | Jar of Hearts (0.349) |
-| Washington on Your Side (0.884) | Who Lives, Who Dies, Who Tells Your Story (0.353) |
-| A Winter's Ball (0.854) | Black Dog - Remaster (0.437) |
-| That's What I Like (0.853) | History Has Its Eyes on You (0.438) |
-| About Damn Time (0.836) | One Last Time (0.449) |
-| Blow Us All Away (0.82) | Hurricane (0.453) |
-| 24K Magic (0.818) | It's Quiet Uptown (0.484) |
-| At My Worst (0.813) | The Story of Tonight (0.494) |
-| The Adams Administration (0.8) | That Would Be Enough (0.499) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Stairway to Heaven - Remaster (0.338) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Ten Duel Commandments (0.887) | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="lovestrong." width="50" /> | Jar of Hearts (0.349) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Washington on Your Side (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Who Lives, Who Dies, Who Tells Your Story (0.353) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | A Winter's Ball (0.854) | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Black Dog - Remaster (0.437) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.853) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | History Has Its Eyes on You (0.438) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> | About Damn Time (0.836) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time (0.449) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Blow Us All Away (0.82) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hurricane (0.453) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | 24K Magic (0.818) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | It's Quiet Uptown (0.484) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst (0.813) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Story of Tonight (0.494) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Adams Administration (0.8) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | That Would Be Enough (0.499) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Boss Bitch (0.955) | Best of Wives and Best of Women (0.115) |
-| Wonderland (From “American Song Contest”) (0.935) | It's Quiet Uptown (0.187) |
-| Immigrant Song - Remaster (0.932) | That Would Be Enough (0.2) |
-| Yorktown (The World Turned Upside Down) (0.883) | I Will Follow You into the Dark (0.206) |
-| Black Dog - Remaster (0.864) | Dear Theodosia (0.221) |
-| Finesse - Remix; feat. Cardi B (0.859) | The Story of Tonight (0.237) |
-| Hot In It (0.841) | Stay Alive - Reprise (0.246) |
-| The Other Side (feat. CeeLo Green and B.o.B) (0.814) | When I Was Your Man (0.28) |
-| 24K Magic (0.803) | The 12 Days of Christmas (0.293) |
-| Finesse (0.798) | What Comes Next? (0.302) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | Boss Bitch (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Best of Wives and Best of Women (0.115) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a13e33d4a6ef59d51603a6c" alt="Wonderland (From “American Song Contest”)" width="50" /> | Wonderland (From “American Song Contest”) (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | It's Quiet Uptown (0.187) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Led Zeppelin III (Remaster)" width="50" /> | Immigrant Song - Remaster (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | That Would Be Enough (0.2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Yorktown (The World Turned Upside Down) (0.883) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (0.206) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Black Dog - Remaster (0.864) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Dear Theodosia (0.221) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.859) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Story of Tonight (0.237) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> | Hot In It (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Stay Alive - Reprise (0.246) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops & Hooligans" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) (0.814) | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | 24K Magic (0.803) | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="Christmas Cheers (Deluxe)" width="50" /> | The 12 Days of Christmas (0.293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.798) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | What Comes Next? (0.302) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Aaron Burr, Sir (0.818) | What Sarah Said (0.0268) |
-| Ten Duel Commandments (0.658) | History Has Its Eyes on You (0.0291) |
-| The World Was Wide Enough (0.648) | Good Ones (0.0293) |
-| The Adams Administration (0.544) | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
-| Cabinet Battle #2 (0.537) | Dear Theodosia (0.0303) |
-| We Know (0.523) | Love's Train (0.031) |
-| A Winter's Ball (0.507) | Jar of Hearts (0.0316) |
-| Your Obedient Servant (0.502) | Leave The Door Open (0.0324) |
-| Right Hand Man (0.492) | Stairway to Heaven - Remaster (0.0339) |
-| Meet Me Inside (0.474) | At My Worst (0.0349) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Aaron Burr, Sir (0.818) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0268) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Ten Duel Commandments (0.658) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | History Has Its Eyes on You (0.0291) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The World Was Wide Enough (0.648) | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Good Ones (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Adams Administration (0.544) | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops & Hooligans" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Cabinet Battle #2 (0.537) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Dear Theodosia (0.0303) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | We Know (0.523) | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> | Love's Train (0.031) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | A Winter's Ball (0.507) | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="lovestrong." width="50" /> | Jar of Hearts (0.0316) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Your Obedient Servant (0.502) | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | Leave The Door Open (0.0324) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Right Hand Man (0.492) | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Stairway to Heaven - Remaster (0.0339) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Meet Me Inside (0.474) | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst (0.0349) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| When I Was Your Man (0.932) | Hot In It (0.00445) |
-| I Will Follow You into the Dark (0.924) | Finesse (0.00781) |
-| Dear Theodosia (0.907) | That's What I Like (0.013) |
-| The Story of Tonight (0.835) | Immigrant Song - Remaster (0.013) |
-| The 12 Days of Christmas (0.831) | Finesse - Remix; feat. Cardi B (0.0185) |
-| That Would Be Enough (0.819) | WAP (feat. Megan Thee Stallion) (0.0194) |
-| History Has Its Eyes on You (0.803) | The Reynolds Pamphlet (0.0277) |
-| What Sarah Said (0.801) | 24K Magic (0.034) |
-| It's Quiet Uptown (0.796) | Love's Train (0.0396) |
-| Who Lives, Who Dies, Who Tells Your Story (0.777) | Locked out of Heaven (0.049) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> | Hot In It (0.00445) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.00781) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Dear Theodosia (0.907) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.013) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Story of Tonight (0.835) | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Led Zeppelin III (Remaster)" width="50" /> | Immigrant Song - Remaster (0.013) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="Christmas Cheers (Deluxe)" width="50" /> | The 12 Days of Christmas (0.831) | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.0185) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | That Would Be Enough (0.819) | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.0194) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | History Has Its Eyes on You (0.803) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Reynolds Pamphlet (0.0277) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.801) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | 24K Magic (0.034) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | It's Quiet Uptown (0.796) | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> | Love's Train (0.0396) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Who Lives, Who Dies, Who Tells Your Story (0.777) | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | Locked out of Heaven (0.049) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Immigrant Song - Remaster (0.169) | Leave The Door Open (0.0) |
-| Black Dog - Remaster (0.0314) | Schuyler Defeated (0.0) |
-| What Sarah Said (0.0217) | Jar of Hearts (0.0) |
-| Stairway to Heaven - Remaster (0.0032) | Lucky (0.0) |
-| Light Switch (0.000321) | One Last Time (0.0) |
-| Dear Theodosia (4.19e-05) | That's What I Like (0.0) |
-| Love's Train (2.29e-05) | The Election of 1800 (0.0) |
-| Wait for It (4.04e-06) | The Story of Tonight (0.0) |
-| The Other Side (feat. CeeLo Green and B.o.B) (3.7e-06) | The World Was Wide Enough (0.0) |
-| Good Ones (3.32e-06) | Please Me (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Led Zeppelin III (Remaster)" width="50" /> | Immigrant Song - Remaster (0.169) | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | Leave The Door Open (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Black Dog - Remaster (0.0314) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Schuyler Defeated (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0217) | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="lovestrong." width="50" /> | Jar of Hearts (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Stairway to Heaven - Remaster (0.0032) | <img src="https://i.scdn.co/image/ab67616d0000b2730f2e51f7121539e221c51161" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (0.000321) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Dear Theodosia (4.19e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> | Love's Train (2.29e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Election of 1800 (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Wait for It (4.04e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Story of Tonight (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops & Hooligans" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) (3.7e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The World Was Wide Enough (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Good Ones (3.32e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Yorktown (The World Turned Upside Down) (0.727) | Finesse - Remix; feat. Cardi B (0.0215) |
-| I Know Him (0.722) | Finesse (0.0232) |
-| The Room Where It Happens (0.664) | Hot In It (0.0413) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.65) | Your Obedient Servant (0.042) |
-| The Story of Tonight (0.648) | Farmer Refuted (0.0548) |
-| The Schuyler Sisters (0.627) | See You Again (feat. Charlie Puth) (0.0649) |
-| Ten Duel Commandments (0.617) | Dear Theodosia (0.0723) |
-| Blow Us All Away (0.563) | Washington on Your Side (0.0756) |
-| Cabinet Battle #1 (0.489) | It's Quiet Uptown (0.0785) |
-| The 12 Days of Christmas (0.378) | Stay Alive - Reprise (0.0801) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Yorktown (The World Turned Upside Down) (0.727) | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.0215) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | I Know Him (0.722) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.0232) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Room Where It Happens (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> | Hot In It (0.0413) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" width="50" /> | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.65) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Your Obedient Servant (0.042) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Story of Tonight (0.648) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Farmer Refuted (0.0548) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Schuyler Sisters (0.627) | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="See You Again (feat. Charlie Puth)" width="50" /> | See You Again (feat. Charlie Puth) (0.0649) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Ten Duel Commandments (0.617) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Dear Theodosia (0.0723) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Blow Us All Away (0.563) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Washington on Your Side (0.0756) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Cabinet Battle #1 (0.489) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | It's Quiet Uptown (0.0785) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="Christmas Cheers (Deluxe)" width="50" /> | The 12 Days of Christmas (0.378) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Stay Alive - Reprise (0.0801) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Finesse (0.939) | What Sarah Said (0.0401) |
-| Finesse - Remix; feat. Cardi B (0.926) | Jar of Hearts (0.0886) |
-| Light Switch (0.905) | Who Lives, Who Dies, Who Tells Your Story (0.156) |
-| Locked out of Heaven (0.867) | That Would Be Enough (0.185) |
-| That's What I Like (0.86) | Stairway to Heaven - Remaster (0.197) |
-| Schuyler Defeated (0.842) | It's Quiet Uptown (0.227) |
-| Ten Duel Commandments (0.828) | Grenade (0.245) |
-| Love's Train (0.807) | Burn (0.255) |
-| The Schuyler Sisters (0.792) | History Has Its Eyes on You (0.274) |
-| The Adams Administration (0.792) | Dear Theodosia (0.274) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.939) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0401) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="lovestrong." width="50" /> | Jar of Hearts (0.0886) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (0.905) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Who Lives, Who Dies, Who Tells Your Story (0.156) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | Locked out of Heaven (0.867) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | That Would Be Enough (0.185) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | That's What I Like (0.86) | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Stairway to Heaven - Remaster (0.197) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Schuyler Defeated (0.842) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | It's Quiet Uptown (0.227) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Ten Duel Commandments (0.828) | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops & Hooligans" width="50" /> | Grenade (0.245) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> | Love's Train (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Burn (0.255) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Schuyler Sisters (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | History Has Its Eyes on You (0.274) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Adams Administration (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Dear Theodosia (0.274) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Light Switch (184.008) | The Election of 1800 (67.426) |
-| My Shot (180.466) | When I Was Your Man (72.795) |
-| What'd I Miss (177.787) | Jar of Hearts (74.541) |
-| One Last Time (176.989) | Who Lives, Who Dies, Who Tells Your Story (75.5) |
-| The Room Where It Happens (173.552) | History Has Its Eyes on You (77.415) |
-| Hurricane (171.289) | Farmer Refuted (77.879) |
-| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (169.021) | Ten Duel Commandments (77.977) |
-| Your Obedient Servant (165.908) | Helpless (79.009) |
-| Aaron Burr, Sir (160.387) | See You Again (feat. Charlie Puth) (80.025) |
-| Stay Alive - Reprise (160.031) | I Will Follow You into the Dark (80.401) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (184.008) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Election of 1800 (67.426) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | My Shot (180.466) | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (72.795) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | What'd I Miss (177.787) | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="lovestrong." width="50" /> | Jar of Hearts (74.541) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time (176.989) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Who Lives, Who Dies, Who Tells Your Story (75.5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Room Where It Happens (173.552) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | History Has Its Eyes on You (77.415) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hurricane (171.289) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Farmer Refuted (77.879) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)" width="50" /> | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (169.021) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Ten Duel Commandments (77.977) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Your Obedient Servant (165.908) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Helpless (79.009) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Aaron Burr, Sir (160.387) | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="See You Again (feat. Charlie Puth)" width="50" /> | See You Again (feat. Charlie Puth) (80.025) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Stay Alive - Reprise (160.031) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | I Will Follow You into the Dark (80.401) |

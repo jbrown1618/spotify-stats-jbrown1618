@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.57) | Ave Maria (Franz Biebl) (0.0611) |
-| Requiem In D Minor, K.626: 2. Kyrie (0.428) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.427) | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.0668) |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.357) | Requiem In D Minor, K.626: 7. Agnus Dei (0.0749) |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.296) | Three Songs Of Faith: Hope Faith Life Love (0.0771) |
-| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.276) | Lux Aurumque (0.0783) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.266) | Vespers, Op. 37: V. "Nyne otpushchayeshi" (0.0806) |
-| Loch Lomond (0.266) | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (0.0963) |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.258) | Vespers, Op. 37: IV. "Svete tikhyi" (0.103) |
-| Scarborough Fair (0.249) | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.104) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.57) | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart's Joy: A Chanticleer Christmas" width="50" /> | Ave Maria (Franz Biebl) (0.0611) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 2. Kyrie (0.428) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0636) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.427) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.0668) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 7. Agnus Dei (0.0749) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Three Songs Of Faith: Hope Faith Life Love (0.0771) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.276) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Lux Aurumque (0.0783) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.266) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: V. "Nyne otpushchayeshi" (0.0806) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond (0.266) | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (0.0963) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.258) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IV. "Svete tikhyi" (0.103) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair (0.249) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.104) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.542) | Quatre Motets: Ubi Caritas (0.0152) |
-| Vespers, Op. 37: XV. "Vzbrannoy voevode" (0.488) | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.0179) |
-| Requiem In D Minor, K.626: 5. Sanctus (0.363) | Vespers, Op. 37: III. "Blazhen muzh" (0.0184) |
-| Requiem In D Minor, K.626: 2. Kyrie (0.33) | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (0.0185) |
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.296) | Requiem in D Minor, Op. 48: VII. In Paradisum (0.0195) |
-| Requiem In D Minor, K.626: 8.Communio: Lux aeterna (0.25) | Miserere mei, Deus (0.0199) |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.242) | The Seal Lullaby (0.0217) |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.241) | Vespers, Op. 37: V. "Nyne otpushchayeshi" (0.0223) |
-| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.183) | Hear my prayer, O Lord (0.0236) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.154) | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.0246) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.542) | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="Fauré/Duruflé/Messiaen" width="50" /> | Quatre Motets: Ubi Caritas (0.0152) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XV. "Vzbrannoy voevode" (0.488) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.0179) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 5. Sanctus (0.363) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: III. "Blazhen muzh" (0.0184) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 2. Kyrie (0.33) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (0.0185) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: VII. In Paradisum (0.0195) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 8.Communio: Lux aeterna (0.25) | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Miserere mei, Deus (0.0199) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.242) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | The Seal Lullaby (0.0217) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.241) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: V. "Nyne otpushchayeshi" (0.0223) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.183) | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Hear my prayer, O Lord (0.0236) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.154) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.0246) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.0568) | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.0293) |
-| Greensleeves (0.0545) | Requiem In D Minor, K.626: 5. Sanctus (0.0301) |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.053) | Requiem In D Minor, K.626: 2. Kyrie (0.0304) |
-| Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0498) | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.0315) |
-| Lux Aurumque (0.0489) | Requiem In D Minor, K.626: 4. Offertorium: Hostias (0.0316) |
-| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 (0.0486) | Requiem In D Minor, K.626: 8.Communio: Lux aeterna (0.0317) |
-| Vespers, Op. 37: II. "Blagoslovi dushe moya" (0.0485) | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.0325) |
-| Vespers, Op. 37: XI. "Velichit dusha moya Gospoda" (0.0481) | Vespers, Op. 37: III. "Blazhen muzh" (0.0362) |
-| Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (0.0467) | Requiem In D Minor, K.626: 1. Introitus: Requiem (0.0363) |
-| Loch Lomond (0.0467) | Scarborough Fair (0.037) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.0568) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Greensleeves (0.0545) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 5. Sanctus (0.0301) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.053) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 2. Kyrie (0.0304) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0498) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.0315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Lux Aurumque (0.0489) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Hostias (0.0316) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 (0.0486) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 8.Communio: Lux aeterna (0.0317) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: II. "Blagoslovi dushe moya" (0.0485) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.0325) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XI. "Velichit dusha moya Gospoda" (0.0481) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: III. "Blazhen muzh" (0.0362) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (0.0467) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 1. Introitus: Requiem (0.0363) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond (0.0467) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair (0.037) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.995) | Ave Maria (Franz Biebl) (0.897) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.995) | Requiem In D Minor, K.626: 5. Sanctus (0.927) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (0.995) | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.936) |
-| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 (0.995) | Scarborough Fair (0.951) |
-| Vespers, Op. 37: XV. "Vzbrannoy voevode" (0.995) | Danny Boy (0.953) |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.995) | Loch Lomond (0.959) |
-| Vespers, Op. 37: I. "Priidite, poklonimsya" (0.995) | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.969) |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.995) | Requiem in D Minor, Op. 48: III. Sanctus (0.969) |
-| Alleluia (0.994) | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.973) |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.994) | Miserere (0.974) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart's Joy: A Chanticleer Christmas" width="50" /> | Ave Maria (Franz Biebl) (0.897) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 5. Sanctus (0.927) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.936) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair (0.951) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XV. "Vzbrannoy voevode" (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Danny Boy (0.953) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond (0.959) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: I. "Priidite, poklonimsya" (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: II. Offertorium. Domine Jesu Christe (0.969) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: III. Sanctus (0.969) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> | Alleluia (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.973) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> | Miserere (0.974) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Vespers, Op. 37: XIV. "Voskrez iz groba" (0.98) | Danny Boy (3.77e-05) |
-| Vespers, Op. 37: VI. "Bogoroditse Devo" (0.979) | Loch Lomond (6.04e-05) |
-| Requiem in D Minor, Op. 48: VII. In Paradisum (0.971) | Scarborough Fair (8.48e-05) |
-| Lux Aurumque (0.964) | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.000134) |
-| Requiem in D Minor, Op. 48: III. Sanctus (0.953) | Requiem In D Minor, K.626: 3. Sequentia: Recordare (0.000349) |
-| Requiem In D Minor, K.626: 3. Sequentia: Confutatis (0.944) | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (0.0004) |
-| Requiem in D Minor, Op. 48: IV. Pie Jesu (0.934) | Quatre Motets: Ubi Caritas (0.000426) |
-| Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.923) | Requiem In D Minor, K.626: 6. Benedictus (0.000441) |
-| Requiem In D Minor, K.626: 7. Agnus Dei (0.923) | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.00129) |
-| Vespers, Op. 37: IV. "Svete tikhyi" (0.921) | Miserere (0.00266) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.98) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Danny Boy (3.77e-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VI. "Bogoroditse Devo" (0.979) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond (6.04e-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: VII. In Paradisum (0.971) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair (8.48e-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Lux Aurumque (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.000134) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: III. Sanctus (0.953) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Recordare (0.000349) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (0.944) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (0.0004) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="Fauré/Duruflé/Messiaen" width="50" /> | Quatre Motets: Ubi Caritas (0.000426) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.923) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 6. Benedictus (0.000441) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 7. Agnus Dei (0.923) | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.00129) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IV. "Svete tikhyi" (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> | Miserere (0.00266) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Requiem In D Minor, K.626: 3. Sequentia: Recordare (0.541) | Requiem in D Minor, Op. 48: VII. In Paradisum (0.0565) |
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.444) | Ave María, WAB 6 (0.0571) |
-| Leonardo Dreams Of His Flying Machine (0.239) | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 (0.0575) |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.176) | Unicornis Captivatur (0.0615) |
-| Sleep (0.175) | Vespers, Op. 37: II. "Blagoslovi dushe moya" (0.0651) |
-| Three Songs Of Faith: I Will Wade Out (0.174) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0666) |
-| Requiem In D Minor, K.626: 4. Offertorium: Hostias (0.167) | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 (0.0684) |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.144) | Requiem In D Minor, K.626: 8.Communio: Lux aeterna (0.0716) |
-| Vespers, Op. 37: XIII. "Dnes spaseniye" (0.139) | Vespers, Op. 37: I. "Priidite, poklonimsya" (0.0735) |
-| Danny Boy (0.136) | Alleluia (0.0738) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Recordare (0.541) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: VII. In Paradisum (0.0565) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.444) | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor & Motets" width="50" /> | Ave María, WAB 6 (0.0571) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Leonardo Dreams Of His Flying Machine (0.239) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 (0.0575) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.176) | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="Rachmaninoff & Poulenc: Blue Bird" width="50" /> | Unicornis Captivatur (0.0615) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Sleep (0.175) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: II. "Blagoslovi dushe moya" (0.0651) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Three Songs Of Faith: I Will Wade Out (0.174) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (0.0666) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Hostias (0.167) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 (0.0684) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.144) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 8.Communio: Lux aeterna (0.0716) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XIII. "Dnes spaseniye" (0.139) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: I. "Priidite, poklonimsya" (0.0735) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Danny Boy (0.136) | <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> | Alleluia (0.0738) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.596) | Lux Aurumque (0.0241) |
-| Requiem In D Minor, K.626: 2. Kyrie (0.544) | Three Songs Of Faith: Hope Faith Life Love (0.0285) |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.521) | Miserere mei, Deus (0.031) |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.227) | Sleep (0.0311) |
-| Scarborough Fair (0.191) | Three Songs Of Faith: I Thank You God For Most This Amazing Day (0.0315) |
-| Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.186) | Water Night (0.0321) |
-| Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.176) | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.0321) |
-| Requiem In D Minor, K.626: 5. Sanctus (0.172) | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.0329) |
-| Requiem In D Minor, K.626: 6. Benedictus (0.153) | Vespers, Op. 37: IV. "Svete tikhyi" (0.0331) |
-| Greensleeves (0.149) | Ave María, WAB 6 (0.0332) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.596) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Lux Aurumque (0.0241) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 2. Kyrie (0.544) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Three Songs Of Faith: Hope Faith Life Love (0.0285) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.521) | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Miserere mei, Deus (0.031) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.227) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Sleep (0.0311) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair (0.191) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Three Songs Of Faith: I Thank You God For Most This Amazing Day (0.0315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.186) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Water Night (0.0321) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.176) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.0321) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 5. Sanctus (0.172) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.0329) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 6. Benedictus (0.153) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IV. "Svete tikhyi" (0.0331) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Greensleeves (0.149) | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor & Motets" width="50" /> | Ave María, WAB 6 (0.0332) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Three Songs Of Faith: Hope Faith Life Love (177.027) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (59.288) |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (168.573) | Requiem in D Minor, Op. 48: III. Sanctus (62.242) |
-| Ave María, WAB 6 (145.594) | Ave Maria (Franz Biebl) (64.509) |
-| Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (138.199) | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (65.236) |
-| Purcell: Hear My Prayer, O Lord, Z. 15 (137.358) | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" (65.552) |
-| Hear my prayer, O Lord (136.328) | Vespers, Op. 37: III. "Blazhen muzh" (66.348) |
-| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 (135.948) | The Seal Lullaby (66.349) |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (134.757) | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (66.871) |
-| Loch Lomond (132.519) | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (68.266) |
-| Miserere mei, Deus (131.849) | Requiem In D Minor, K.626: 5. Sanctus (68.345) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | Three Songs Of Faith: Hope Faith Life Love (177.027) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (59.288) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (168.573) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: III. Sanctus (62.242) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor & Motets" width="50" /> | Ave María, WAB 6 (145.594) | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart's Joy: A Chanticleer Christmas" width="50" /> | Ave Maria (Franz Biebl) (64.509) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (138.199) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (65.236) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell : Anthems & Sacred Songs [Evening Prayer]" width="50" /> | Purcell: Hear My Prayer, O Lord, Z. 15 (137.358) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" (65.552) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Hear my prayer, O Lord (136.328) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: III. "Blazhen muzh" (66.348) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 (135.948) | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light & Gold" width="50" /> | The Seal Lullaby (66.349) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (134.757) | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (66.871) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond (132.519) | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (68.266) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Miserere mei, Deus (131.849) | <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Requiem In D Minor, K.626: 5. Sanctus (68.345) |

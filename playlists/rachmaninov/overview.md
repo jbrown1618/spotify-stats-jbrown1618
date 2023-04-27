@@ -66,7 +66,7 @@
 
 
 
-| 5 newest albums | 5 oldest albums |
-|:---|:---|
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> <span>Rachmaninov: Piano Concerto No.2 (2012-01-01)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> <span>Rachmaninov: Preludes for Piano (Complete) (2007-05-29)</span></div> |
-| <div><img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> <span>Rachmaninov: Preludes for Piano (Complete) (2007-05-29)</span></div> | <div><img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> <span>Rachmaninov: Piano Concerto No.2 (2012-01-01)</span></div> |
+| ​ | 5 newest albums | ​​ | 5 oldest albums |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> | Rachmaninov: Piano Concerto No.2 (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> | Rachmaninov: Preludes for Piano (Complete) (2007-05-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> | Rachmaninov: Preludes for Piano (Complete) (2007-05-29) | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> | Rachmaninov: Piano Concerto No.2 (2012-01-01) |

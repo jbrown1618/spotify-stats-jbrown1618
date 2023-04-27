@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| I Wan'na Be Like You (The Monkey Song) (0.746) | Nature Boy (0.203) |
-| Baby It's Cold Outside (0.724) | The Christmas Song (0.226) |
-| Everything (0.686) | Can't Help Falling in Love (0.234) |
-| Someday (feat. Meghan Trainor) (0.671) | Strangers In The Night (0.259) |
-| Fly Me To The Moon (In Other Words) (0.668) | Unforgettable (0.286) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) | White Christmas (0.317) |
-| The Best Is yet to Come (0.647) | The Christmas Song (Merry Christmas To You) (0.319) |
-| The Way You Look Tonight (0.642) | It's Beginning to Look a Lot like Christmas (0.339) |
-| Santa Baby (0.641) | Unforgettable (0.349) |
-| Call Me Irresponsible (0.639) | Let It Snow! Let It Snow! Let It Snow! (0.451) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | I Wan'na Be Like You (The Monkey Song) (0.746) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.203) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside (0.724) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | The Christmas Song (0.226) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Everything (0.686) | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Can't Help Falling in Love (0.234) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (0.671) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.259) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.668) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable (0.286) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) | <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | White Christmas (0.317) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | The Best Is yet to Come (0.647) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) (0.319) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | The Way You Look Tonight (0.642) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | It's Beginning to Look a Lot like Christmas (0.339) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Santa Baby (0.641) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (0.349) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (0.639) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (0.451) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Can't Take My Eyes off You (0.764) | Baby It's Cold Outside (0.0813) |
-| Haven't Met You Yet (0.733) | Nature Boy (0.0895) |
-| Everything (0.688) | Santa Baby (0.0964) |
-| Moondance (0.614) | White Christmas (0.158) |
-| Frosty the Snowman (feat. The Puppini Sisters) (0.591) | The Christmas Song (0.17) |
-| Feeling Good (0.548) | Unforgettable (0.182) |
-| Someday (feat. Meghan Trainor) (0.539) | L-O-V-E - 2000 Remaster (0.187) |
-| Cry Me a River (0.483) | Baby, It's Cold Outside (0.196) |
-| The Way You Look Tonight (0.483) | The Christmas Song (Merry Christmas To You) (0.21) |
-| Strangers In The Night (0.473) | It's Beginning To Look Like Christmas (0.212) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli & The 4 Seasons" width="50" /> | Can't Take My Eyes off You (0.764) | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside (0.0813) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Haven't Met You Yet (0.733) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.0895) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Everything (0.688) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Santa Baby (0.0964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | Moondance (0.614) | <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | White Christmas (0.158) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) (0.591) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | The Christmas Song (0.17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It's Time" width="50" /> | Feeling Good (0.548) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (0.182) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (0.539) | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster (0.187) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Cry Me a River (0.483) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Baby, It's Cold Outside (0.196) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | The Way You Look Tonight (0.483) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) (0.21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.473) | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="White Christmas" width="50" /> | It's Beginning To Look Like Christmas (0.212) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) | Everything (0.0254) |
-| I Wan'na Be Like You (The Monkey Song) (0.0995) | Unforgettable (0.028) |
-| L-O-V-E - 2000 Remaster (0.0928) | The Way You Look Tonight (0.028) |
-| Can't Take My Eyes off You (0.0746) | Call Me Irresponsible (0.0292) |
-| Moondance (0.0737) | Can't Help Falling in Love (0.0293) |
-| That's Life (0.0729) | La vie en rose (feat. Cécile McLorin Salvant) (0.0294) |
-| The Best Is yet to Come (0.0691) | Strangers In The Night (0.0295) |
-| Fly Me To The Moon - 2008 Remastered (0.06) | Home (0.0301) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) | Unforgettable (0.031) |
-| Baby, It's Cold Outside (0.0571) | Sunny (0.0331) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Everything (0.0254) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | I Wan'na Be Like You (The Monkey Song) (0.0995) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable (0.028) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster (0.0928) | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | The Way You Look Tonight (0.028) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli & The 4 Seasons" width="50" /> | Can't Take My Eyes off You (0.0746) | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (0.0292) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | Moondance (0.0737) | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Can't Help Falling in Love (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.0729) | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | The Best Is yet to Come (0.0691) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.0295) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.06) | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It's Time" width="50" /> | Home (0.0301) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (0.031) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Baby, It's Cold Outside (0.0571) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.0331) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Nature Boy (0.971) | Easy (0.112) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) | Haven't Met You Yet (0.152) |
-| Baby It's Cold Outside (0.931) | Someday (feat. Meghan Trainor) (0.18) |
-| Unforgettable (0.92) | The Best Is yet to Come (0.355) |
-| The Christmas Song (Merry Christmas To You) (0.92) | Everything (0.39) |
-| Let It Snow! Let It Snow! Let It Snow! (0.912) | I've Got You Under My Skin - Remastered 1998 (0.452) |
-| It's Beginning to Look a Lot like Christmas (0.908) | Fly Me To The Moon (In Other Words) (0.453) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) | Sunny (0.494) |
-| Baby, It's Cold Outside (0.882) | Feeling Good (0.533) |
-| The Christmas Song (0.872) | L-O-V-E (0.543) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.971) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy (0.112) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Haven't Met You Yet (0.152) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (0.18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | The Best Is yet to Come (0.355) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Everything (0.39) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.452) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | It's Beginning to Look a Lot like Christmas (0.908) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.453) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.494) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Baby, It's Cold Outside (0.882) | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It's Time" width="50" /> | Feeling Good (0.533) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | The Christmas Song (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | L-O-V-E (0.543) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| White Christmas (0.353) | The Way You Look Tonight (0.0) |
-| Nature Boy (0.0213) | Someday (feat. Meghan Trainor) (0.0) |
-| Unforgettable (0.0152) | La vie en rose (feat. Cécile McLorin Salvant) (0.0) |
-| Can't Help Falling in Love (0.0111) | Moondance (0.0) |
-| The Way You Look Tonight (0.000282) | Frosty the Snowman (feat. The Puppini Sisters) (0.0) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | Rockin' Around The Christmas Tree (0.0) |
-| I Wan'na Be Like You (The Monkey Song) (0.000238) | It's Beginning To Look Like Christmas (0.0) |
-| Unforgettable (0.000138) | That's Life (0.0) |
-| The Christmas Song (0.000119) | Baby, It's Cold Outside (0.0) |
-| Call Me Irresponsible (8.68e-05) | Haven't Met You Yet (0.0) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | White Christmas (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.0213) | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (0.0152) | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Can't Help Falling in Love (0.0111) | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | Moondance (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | The Way You Look Tonight (0.000282) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="Merry Christmas From Brenda Lee" width="50" /> | Rockin' Around The Christmas Tree (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | I Wan'na Be Like You (The Monkey Song) (0.000238) | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="White Christmas" width="50" /> | It's Beginning To Look Like Christmas (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable (0.000138) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | The Christmas Song (0.000119) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Baby, It's Cold Outside (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (8.68e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Haven't Met You Yet (0.0) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) | Baby, It's Cold Outside (0.0513) |
-| Rockin' Around The Christmas Tree (0.505) | Easy (0.0596) |
-| Moondance (0.401) | Fly Me To The Moon (In Other Words) (0.0621) |
-| Sunny (0.37) | Can't Take My Eyes off You (0.0692) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.362) | Someday (feat. Meghan Trainor) (0.0748) |
-| That's Life (0.346) | Cry Me a River (0.0754) |
-| It's Beginning to Look a Lot like Christmas (0.341) | L-O-V-E - 2000 Remaster (0.0792) |
-| White Christmas (0.338) | Fly Me To The Moon - 2008 Remastered (0.0797) |
-| The Best Is yet to Come (0.296) | Unforgettable (0.0798) |
-| I Wan'na Be Like You (The Monkey Song) (0.281) | Can't Help Falling in Love (0.0922) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Baby, It's Cold Outside (0.0513) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="Merry Christmas From Brenda Lee" width="50" /> | Rockin' Around The Christmas Tree (0.505) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy (0.0596) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | Moondance (0.401) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0621) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli & The 4 Seasons" width="50" /> | Can't Take My Eyes off You (0.0692) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.362) | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (0.0748) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.346) | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Cry Me a River (0.0754) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | It's Beginning to Look a Lot like Christmas (0.341) | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster (0.0792) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | White Christmas (0.338) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | The Best Is yet to Come (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable (0.0798) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | I Wan'na Be Like You (The Monkey Song) (0.281) | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Can't Help Falling in Love (0.0922) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Someday (feat. Meghan Trainor) (0.934) | Can't Help Falling in Love (0.0969) |
-| Rockin' Around The Christmas Tree (0.898) | Nature Boy (0.115) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | Unforgettable (0.142) |
-| Frosty the Snowman (feat. The Puppini Sisters) (0.829) | The Christmas Song (0.162) |
-| Haven't Met You Yet (0.796) | Unforgettable (0.178) |
-| I Wan'na Be Like You (The Monkey Song) (0.795) | The Christmas Song (Merry Christmas To You) (0.209) |
-| L-O-V-E - 2000 Remaster (0.728) | White Christmas (0.247) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) | Sunny (0.296) |
-| Let It Snow! Let It Snow! Let It Snow! (0.701) | Home (0.34) |
-| That's Life (0.664) | La vie en rose (feat. Cécile McLorin Salvant) (0.342) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Can't Help Falling in Love (0.0969) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="Merry Christmas From Brenda Lee" width="50" /> | Rockin' Around The Christmas Tree (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.115) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable (0.142) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) (0.829) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | The Christmas Song (0.162) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Haven't Met You Yet (0.796) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (0.178) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | I Wan'na Be Like You (The Monkey Song) (0.795) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) (0.209) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster (0.728) | <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | White Christmas (0.247) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.296) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (0.701) | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It's Time" width="50" /> | Home (0.34) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) (0.342) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Can't Help Falling in Love (174.036) | La vie en rose (feat. Cécile McLorin Salvant) (63.378) |
-| Nature Boy (173.451) | Come Fly With Me - Remastered 1998 (67.008) |
-| The Christmas Song (163.863) | Rockin' Around The Christmas Tree (67.196) |
-| L-O-V-E - 2000 Remaster (157.47) | Santa Baby (76.273) |
-| Sleigh Ride (154.759) | The Christmas Song (Merry Christmas To You) (78.696) |
-| Frosty the Snowman (feat. The Puppini Sisters) (147.381) | L-O-V-E (78.884) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) | Unforgettable (85.691) |
-| Moondance (140.736) | Strangers In The Night (90.348) |
-| Unforgettable (136.094) | It's Beginning to Look a Lot like Christmas (94.775) |
-| Let It Snow! Let It Snow! Let It Snow! (134.009) | Someday (feat. Meghan Trainor) (94.98) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Can't Help Falling in Love (174.036) | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) (63.378) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (173.451) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (67.008) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | The Christmas Song (163.863) | <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="Merry Christmas From Brenda Lee" width="50" /> | Rockin' Around The Christmas Tree (67.196) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster (157.47) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Santa Baby (76.273) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Sleigh Ride (154.759) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) (78.696) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) (147.381) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | L-O-V-E (78.884) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable (85.691) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | Moondance (140.736) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (90.348) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (136.094) | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | It's Beginning to Look a Lot like Christmas (94.775) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (134.009) | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Someday (feat. Meghan Trainor) (94.98) |

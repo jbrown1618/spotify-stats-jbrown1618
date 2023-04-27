@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Études, L. 136: II. Pour les Accords (0.464) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.398) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0986) |
-| Préludes Book 1, L. 117: IV. Minstrels (0.389) | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.191) |
-| Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.376) | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.196) |
-| Préludes Book 2, L. 123: I. General Lavine (0.376) | La Plus que Lente, L. 121 (0.219) |
-| Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.365) | Masques, L. 105 (0.224) |
-| La Fille aux Cheveux de Lin, L. 33 (0.362) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.241) |
-| Suite Bergamasque, L. 75: Passepied (0.337) | Children's Corner, L. 113: II. The Snow is Dancing (0.25) |
-| Clair de Lune, L. 32 (0.335) | Estampes, L. 100: Jardins sous La Pluie (0.257) |
-| Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.333) | Images, Set 1, L. 110: Reflets dans L'eau (0.272) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.464) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.398) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0986) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (0.389) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.191) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.376) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.196) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (0.376) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.219) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.365) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Masques, L. 105 (0.224) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.362) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (0.241) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Suite Bergamasque, L. 75: Passepied (0.337) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: II. The Snow is Dancing (0.25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.335) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (0.257) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (0.272) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.163) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.000594) |
-| La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.149) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.00104) |
-| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.132) | Préludes Book 2, L. 123: II. Canope (0.00148) |
-| Études, L. 136: II. Pour les Accords (0.109) | La Fille aux Cheveux de Lin, L. 33 (0.00218) |
-| La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0725) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.00259) |
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.0686) | Clair de Lune, L. 32 (0.00532) |
-| Préludes Book 2, L. 123: III. Feux d'Artifice (0.0651) | Images, Set 1, L. 110: Reflets dans L'eau (0.00658) |
-| Estampes, L. 100: Jardins sous La Pluie (0.0593) | La Plus que Lente, L. 121 (0.00851) |
-| Masques, L. 105 (0.0584) | Préludes Book 2, L. 123: I. General Lavine (0.0126) |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0529) | Études, L. 136: I. Pour les Arpeges Composes (0.0175) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.163) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.000594) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.149) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.00104) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.132) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: II. Canope (0.00148) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.109) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.00218) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0725) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.00259) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.0686) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.00532) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0651) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (0.00658) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (0.0593) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.00851) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Masques, L. 105 (0.0584) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (0.0126) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0529) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (0.0175) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Préludes Book 2, L. 123: II. Canope (0.0681) | Préludes Book 1, L. 117: IV. Minstrels (0.0315) |
-| Études, L. 136: II. Pour les Accords (0.0664) | Suite Bergamasque, L. 75: Passepied (0.0335) |
-| Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.0663) | Masques, L. 105 (0.0356) |
-| La Fille aux Cheveux de Lin, L. 33 (0.0543) | Études, L. 136: I. Pour les Arpeges Composes (0.0358) |
-| Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.0528) | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.0361) |
-| Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0527) | Children's Corner, L. 113: II. The Snow is Dancing (0.0362) |
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.051) | Estampes, L. 100: Jardins sous La Pluie (0.0363) |
-| La Plus que Lente, L. 121 (0.0499) | Clair de Lune, L. 32 (0.0376) |
-| La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.0435) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0394) |
-| Préludes Book 2, L. 123: I. General Lavine (0.0432) | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0398) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: II. Canope (0.0681) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (0.0315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.0664) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Suite Bergamasque, L. 75: Passepied (0.0335) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.0663) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Masques, L. 105 (0.0356) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.0543) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (0.0358) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.0528) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.0361) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0527) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: II. The Snow is Dancing (0.0362) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.051) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (0.0363) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.0499) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.0376) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.0435) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0394) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (0.0432) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0398) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| La Plus que Lente, L. 121 (0.995) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.886) |
-| La Fille aux Cheveux de Lin, L. 33 (0.995) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.914) |
-| Études, L. 136: II. Pour les Accords (0.994) | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.956) |
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.994) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.988) |
-| Clair de Lune, L. 32 (0.994) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.988) |
-| Études, L. 136: I. Pour les Arpeges Composes (0.994) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.989) |
-| Préludes Book 1, L. 117: IV. Minstrels (0.994) | Préludes Book 2, L. 123: II. Canope (0.99) |
-| Suite Bergamasque, L. 75: Passepied (0.994) | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.992) |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.994) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.992) |
-| Estampes, L. 100: Jardins sous La Pluie (0.993) | Images, Set 1, L. 110: Reflets dans L'eau (0.992) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.886) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.995) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.914) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.956) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.988) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.988) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.989) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: II. Canope (0.99) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Suite Bergamasque, L. 75: Passepied (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.992) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.994) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (0.992) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (0.993) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (0.992) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Estampes, L. 100: Jardins sous La Pluie (0.948) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.435) |
-| Études, L. 136: I. Pour les Arpeges Composes (0.946) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.629) |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.946) | Images, Set 1, L. 110: Reflets dans L'eau (0.787) |
-| La Fille aux Cheveux de Lin, L. 33 (0.945) | Études, L. 136: II. Pour les Accords (0.812) |
-| Children's Corner, L. 113: II. The Snow is Dancing (0.942) | La Plus que Lente, L. 121 (0.833) |
-| Préludes Book 2, L. 123: II. Canope (0.942) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.87) |
-| Préludes Book 1, L. 117: IV. Minstrels (0.926) | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.871) |
-| Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.925) | Masques, L. 105 (0.882) |
-| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.921) | Préludes Book 2, L. 123: I. General Lavine (0.885) |
-| Clair de Lune, L. 32 (0.912) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.887) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (0.435) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.629) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (0.787) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.945) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.812) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: II. The Snow is Dancing (0.942) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.833) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: II. Canope (0.942) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.87) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.871) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.925) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Masques, L. 105 (0.882) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (0.885) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.887) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.192) | Préludes Book 2, L. 123: II. Canope (0.0553) |
-| Préludes Book 2, L. 123: I. General Lavine (0.137) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.0588) |
-| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.135) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.0589) |
-| Images, Set 1, L. 110: Reflets dans L'eau (0.123) | Études, L. 136: II. Pour les Accords (0.0614) |
-| La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.115) | Clair de Lune, L. 32 (0.0621) |
-| Estampes, L. 100: Jardins sous La Pluie (0.108) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0627) |
-| La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.107) | La Fille aux Cheveux de Lin, L. 33 (0.064) |
-| La Plus que Lente, L. 121 (0.095) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0667) |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0905) | Préludes Book 1, L. 117: IV. Minstrels (0.0675) |
-| Suite Bergamasque, L. 75: Passepied (0.0898) | Études, L. 136: I. Pour les Arpeges Composes (0.071) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.192) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: II. Canope (0.0553) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (0.137) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.0588) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.135) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.0589) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (0.123) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.0614) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.115) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.0621) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (0.108) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0627) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.107) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.064) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.095) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0667) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0905) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (0.0675) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Suite Bergamasque, L. 75: Passepied (0.0898) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (0.071) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.414) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0327) |
-| Préludes Book 2, L. 123: I. General Lavine (0.223) | Images, Set 1, L. 110: Reflets dans L'eau (0.0331) |
-| Préludes Book 1, L. 117: IV. Minstrels (0.215) | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.0333) |
-| Suite Bergamasque, L. 75: Passepied (0.192) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0351) |
-| La Fille aux Cheveux de Lin, L. 33 (0.182) | Masques, L. 105 (0.0367) |
-| Children's Corner, L. 113: II. The Snow is Dancing (0.149) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0368) |
-| Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.105) | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.0375) |
-| La Plus que Lente, L. 121 (0.105) | Études, L. 136: II. Pour les Accords (0.0382) |
-| Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0853) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0383) |
-| Études, L. 136: I. Pour les Arpeges Composes (0.0539) | Clair de Lune, L. 32 (0.0397) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.414) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0327) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (0.223) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (0.0331) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (0.215) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.0333) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Suite Bergamasque, L. 75: Passepied (0.192) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0351) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (0.182) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Masques, L. 105 (0.0367) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: II. The Snow is Dancing (0.149) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0368) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.105) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.0375) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (0.105) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (0.0382) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0853) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0383) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (0.0539) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (0.0397) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Études, L. 136: I. Pour les Arpeges Composes (139.878) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (61.399) |
-| La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (113.292) | Clair de Lune, L. 32 (65.832) |
-| La Fille aux Cheveux de Lin, L. 33 (109.601) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (66.573) |
-| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (106.359) | Images, Set 1, L. 110: Reflets dans L'eau (69.004) |
-| Children's Corner, L. 113: II. The Snow is Dancing (105.073) | La Plus que Lente, L. 121 (70.119) |
-| Estampes, L. 100: Jardins sous La Pluie (104.424) | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (72.406) |
-| Études, L. 136: II. Pour les Accords (100.118) | Préludes Book 2, L. 123: II. Canope (74.461) |
-| Préludes Book 2, L. 123: I. General Lavine (95.819) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (80.257) |
-| Préludes Book 1, L. 117: IV. Minstrels (94.043) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (81.577) |
-| Préludes Book 2, L. 123: III. Feux d'Artifice (92.939) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (82.914) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: I. Pour les Arpeges Composes (139.878) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (61.399) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (113.292) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Clair de Lune, L. 32 (65.832) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Fille aux Cheveux de Lin, L. 33 (109.601) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (66.573) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (106.359) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 1, L. 110: Reflets dans L'eau (69.004) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: II. The Snow is Dancing (105.073) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | La Plus que Lente, L. 121 (70.119) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Estampes, L. 100: Jardins sous La Pluie (104.424) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (72.406) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Études, L. 136: II. Pour les Accords (100.118) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: II. Canope (74.461) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: I. General Lavine (95.819) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (80.257) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: IV. Minstrels (94.043) | <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 1, L. 117: I. Des Pas sur La Neige (81.577) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e7bb273ff9cb1de1e1d4d0a" alt="Debussy: Clair De Lune and Other Piano Favourites" width="50" /> | Préludes Book 2, L. 123: III. Feux d'Artifice (92.939) | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (82.914) |

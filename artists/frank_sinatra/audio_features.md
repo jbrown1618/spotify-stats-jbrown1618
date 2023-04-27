@@ -4,134 +4,134 @@
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_danceability/distribution.png)
 
-| 10 most Danceable tracks | 10 least Danceable tracks |
-|:---|:---|
-| Fly Me To The Moon (In Other Words) (0.668) | Strangers In The Night (0.259) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) | Sunny (0.468) |
-| The Way You Look Tonight (0.622) | That's Life (0.56) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.594) | Come Fly With Me - Remastered 1998 (0.574) |
-| Fly Me To The Moon - 2008 Remastered (0.591) | I've Got You Under My Skin - Remastered 1998 (0.585) |
-| I've Got You Under My Skin - Remastered 1998 (0.585) | Fly Me To The Moon - 2008 Remastered (0.591) |
-| Come Fly With Me - Remastered 1998 (0.574) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.594) |
-| That's Life (0.56) | The Way You Look Tonight (0.622) |
-| Sunny (0.468) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) |
-| Strangers In The Night (0.259) | Fly Me To The Moon (In Other Words) (0.668) |
+| ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.668) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.259) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.468) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.622) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.56) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.594) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.574) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.591) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.585) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.585) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.591) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.574) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.594) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.622) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.468) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.259) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.668) |
 
 ## Energy
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_energy/distribution.png)
 
-| 10 most Energetic tracks | 10 least Energetic tracks |
-|:---|:---|
-| Strangers In The Night (0.473) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.239) |
-| That's Life (0.434) | The Way You Look Tonight (0.24) |
-| Come Fly With Me - Remastered 1998 (0.338) | Sunny (0.246) |
-| Fly Me To The Moon - 2008 Remastered (0.298) | I've Got You Under My Skin - Remastered 1998 (0.247) |
-| Fly Me To The Moon (In Other Words) (0.26) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.259) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.259) | Fly Me To The Moon (In Other Words) (0.26) |
-| I've Got You Under My Skin - Remastered 1998 (0.247) | Fly Me To The Moon - 2008 Remastered (0.298) |
-| Sunny (0.246) | Come Fly With Me - Remastered 1998 (0.338) |
-| The Way You Look Tonight (0.24) | That's Life (0.434) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.239) | Strangers In The Night (0.473) |
+| ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.473) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.239) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.434) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.338) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.246) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.298) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.247) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.26) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.259) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.259) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.247) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.298) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.246) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.338) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.24) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.434) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.239) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.473) |
 
 ## Speechiness
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_speechiness/distribution.png)
 
-| 10 most Speechy tracks | 10 least Speechy tracks |
-|:---|:---|
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) | Strangers In The Night (0.0295) |
-| That's Life (0.0729) | Sunny (0.0331) |
-| Fly Me To The Moon - 2008 Remastered (0.06) | The Way You Look Tonight (0.0363) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) | I've Got You Under My Skin - Remastered 1998 (0.04) |
-| Fly Me To The Moon (In Other Words) (0.0523) | Come Fly With Me - Remastered 1998 (0.042) |
-| Come Fly With Me - Remastered 1998 (0.042) | Fly Me To The Moon (In Other Words) (0.0523) |
-| I've Got You Under My Skin - Remastered 1998 (0.04) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) |
-| The Way You Look Tonight (0.0363) | Fly Me To The Moon - 2008 Remastered (0.06) |
-| Sunny (0.0331) | That's Life (0.0729) |
-| Strangers In The Night (0.0295) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) |
+| ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.0295) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.0729) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.0331) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.06) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.0363) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0523) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.042) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.042) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0523) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.04) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0595) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.0363) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.0331) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.0729) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.0295) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) |
 
 ## Acousticness
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_acousticness/distribution.png)
 
-| 10 most Acoustic tracks | 10 least Acoustic tracks |
-|:---|:---|
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) | I've Got You Under My Skin - Remastered 1998 (0.452) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) | Fly Me To The Moon (In Other Words) (0.453) |
-| Come Fly With Me - Remastered 1998 (0.845) | Sunny (0.494) |
-| The Way You Look Tonight (0.798) | Fly Me To The Moon - 2008 Remastered (0.549) |
-| Strangers In The Night (0.592) | That's Life (0.55) |
-| That's Life (0.55) | Strangers In The Night (0.592) |
-| Fly Me To The Moon - 2008 Remastered (0.549) | The Way You Look Tonight (0.798) |
-| Sunny (0.494) | Come Fly With Me - Remastered 1998 (0.845) |
-| Fly Me To The Moon (In Other Words) (0.453) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) |
-| I've Got You Under My Skin - Remastered 1998 (0.452) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) |
+| ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.452) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.453) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.845) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.494) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.798) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.549) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.592) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.55) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.55) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.592) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.549) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.798) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.494) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.845) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.453) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.452) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) |
 
 ## Instrumentalness
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_instrumentalness/distribution.png)
 
-| 10 most Instrumental tracks | 10 least Instrumental tracks |
-|:---|:---|
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | The Way You Look Tonight (0.0) |
-| I've Got You Under My Skin - Remastered 1998 (8.85e-06) | That's Life (0.0) |
-| Fly Me To The Moon - 2008 Remastered (2.22e-06) | Come Fly With Me - Remastered 1998 (0.0) |
-| Strangers In The Night (0.0) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0) |
-| Sunny (0.0) | Fly Me To The Moon (In Other Words) (0.0) |
-| Fly Me To The Moon (In Other Words) (0.0) | Sunny (0.0) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0) | Strangers In The Night (0.0) |
-| Come Fly With Me - Remastered 1998 (0.0) | Fly Me To The Moon - 2008 Remastered (2.22e-06) |
-| That's Life (0.0) | I've Got You Under My Skin - Remastered 1998 (8.85e-06) |
-| The Way You Look Tonight (0.0) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) |
+| ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (8.85e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (2.22e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (2.22e-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (8.85e-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) |
 
 ## Liveness
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_liveness/distribution.png)
 
-| 10 most Live tracks | 10 least Live tracks |
-|:---|:---|
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) | Fly Me To The Moon (In Other Words) (0.0621) |
-| Sunny (0.37) | Fly Me To The Moon - 2008 Remastered (0.0797) |
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.362) | I've Got You Under My Skin - Remastered 1998 (0.107) |
-| That's Life (0.346) | The Way You Look Tonight (0.142) |
-| Strangers In The Night (0.201) | Come Fly With Me - Remastered 1998 (0.165) |
-| Come Fly With Me - Remastered 1998 (0.165) | Strangers In The Night (0.201) |
-| The Way You Look Tonight (0.142) | That's Life (0.346) |
-| I've Got You Under My Skin - Remastered 1998 (0.107) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.362) |
-| Fly Me To The Moon - 2008 Remastered (0.0797) | Sunny (0.37) |
-| Fly Me To The Moon (In Other Words) (0.0621) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) |
+| ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0621) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.362) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.107) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.346) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.142) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.201) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.165) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.165) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.201) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.142) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.346) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.107) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.362) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.37) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.0621) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) |
 
 ## Valence
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_valence/distribution.png)
 
-| 10 most Happy tracks | 10 least Happy tracks |
-|:---|:---|
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | Sunny (0.296) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) | Fly Me To The Moon (In Other Words) (0.368) |
-| That's Life (0.664) | Fly Me To The Moon - 2008 Remastered (0.372) |
-| I've Got You Under My Skin - Remastered 1998 (0.591) | Come Fly With Me - Remastered 1998 (0.493) |
-| The Way You Look Tonight (0.587) | Strangers In The Night (0.539) |
-| Strangers In The Night (0.539) | The Way You Look Tonight (0.587) |
-| Come Fly With Me - Remastered 1998 (0.493) | I've Got You Under My Skin - Remastered 1998 (0.591) |
-| Fly Me To The Moon - 2008 Remastered (0.372) | That's Life (0.664) |
-| Fly Me To The Moon (In Other Words) (0.368) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) |
-| Sunny (0.296) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) |
+| ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.296) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.368) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.372) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.591) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.493) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.587) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.539) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (0.539) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (0.587) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (0.493) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (0.591) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.372) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (0.664) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (0.368) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) |
 
 ## Tempo
 
 ![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_tempo/distribution.png)
 
-| 10 most Fast tracks | 10 least Fast tracks |
-|:---|:---|
-| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) | Come Fly With Me - Remastered 1998 (67.008) |
-| The Way You Look Tonight (132.234) | Strangers In The Night (90.348) |
-| Baby, It's Cold Outside (with Dorothy Kirsten) (127.892) | That's Life (112.803) |
-| I've Got You Under My Skin - Remastered 1998 (127.15) | Sunny (113.969) |
-| Fly Me To The Moon - 2008 Remastered (119.954) | Fly Me To The Moon (In Other Words) (119.416) |
-| Fly Me To The Moon (In Other Words) (119.416) | Fly Me To The Moon - 2008 Remastered (119.954) |
-| Sunny (113.969) | I've Got You Under My Skin - Remastered 1998 (127.15) |
-| That's Life (112.803) | Baby, It's Cold Outside (with Dorothy Kirsten) (127.892) |
-| Strangers In The Night (90.348) | The Way You Look Tonight (132.234) |
-| Come Fly With Me - Remastered 1998 (67.008) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) |
+| ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (67.008) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (132.234) | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (90.348) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (127.892) | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (112.803) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (127.15) | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (113.969) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (119.954) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (119.416) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Fly Me To The Moon (In Other Words) (119.416) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (119.954) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="Francis A. & Edward K." width="50" /> | Sunny (113.969) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin' Lovers! (Remastered)" width="50" /> | I've Got You Under My Skin - Remastered 1998 (127.15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="That's Life" width="50" /> | That's Life (112.803) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) (127.892) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | Strangers In The Night (90.348) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | The Way You Look Tonight (132.234) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me - Remastered 1998 (67.008) | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="Christmas Songs by Sinatra" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) |
