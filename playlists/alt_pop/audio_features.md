@@ -1,4 +1,9 @@
 # Audio Features for Alt-Pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fidelity (0.923) | Born To Die (0.18) |
@@ -11,6 +16,10 @@
 | Dreamer (0.802) | Happier Than Ever (0.332) |
 | Rather Be (feat. Jess Glynne) (0.799) | Swan Song (0.34) |
 | still feel. (0.779) | Bel Air (0.346) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Young Folks (0.812) | Dreamer (0.223) |
 | That Man (0.812) | Icarus (0.225) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | bad guy (0.375) | Speeding Cars (0.0247) |
@@ -37,6 +50,10 @@
 | Eye of the Needle (0.144) | Good Ones (0.0293) |
 | That Man (0.138) | Swan Song (0.0294) |
 | Like They Do on the TV (0.134) | First Train Home (0.0295) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Hide and Seek (0.909) | Seven Devils (0.00913) |
 | everything i wanted (0.902) | What The Water Gave Me (0.00933) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | everything i wanted (0.657) | You've Got The Love (0.0) |
@@ -63,6 +84,10 @@
 | GOLDWING (0.159) | The Feeling (0.0) |
 | Therefore I Am (0.135) | YOUTH (0.0) |
 | bad guy (0.13) | Odi Et Amo (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Never Let Me Go (0.383) | Kiss With A Fist (0.0654) |
 | Billions (0.374) | Coal Miners (0.0674) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Tick Tock (feat. 24kGoldn) (0.946) | Swan Song (0.0392) |
@@ -89,3 +118,20 @@
 | Kick It to Me (0.82) | Hide and Seek (0.0901) |
 | Icarus (0.795) | The Good War (0.0928) |
 | Rockabye (feat. Sean Paul & Anne-Marie) (0.792) | Old Flame (0.0932) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/alt_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| That Man (207.029) | Seven Devils (58.534) |
+| Like They Do on the TV (199.23) | No Time To Die (73.537) |
+| That's Where I Am (181.299) | Radio (75.112) |
+| Free (174.806) | Born To Die (75.632) |
+| I Feel It All (172.046) | Old Flame (77.61) |
+| Delilah (169.946) | SILENCE (77.995) |
+| Closing In (167.982) | Tomboy (77.998) |
+| Limbo (165.02) | Norman fucking Rockwell (78.287) |
+| Say My Name (164.035) | Heat Waves (80.87) |
+| Big Girls Cry (161.996) | Happier Than Ever (81.055) |

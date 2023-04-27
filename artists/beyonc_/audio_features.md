@@ -1,4 +1,9 @@
 # Audio Features for Beyoncé
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Telephone (0.824) | I'd Rather Go Blind (0.326) |
@@ -11,6 +16,10 @@
 | Best Thing I Never Had (0.546) | I Was Here (0.525) |
 | I Was Here (0.525) | Best Thing I Never Had (0.546) |
 | Hold Up (0.524) | If I Were a Boy (0.632) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Listen (From the Motion Picture "Dreamgirls") (0.637) | Best Thing I Never Had (0.649) |
 | I Was Here (0.627) | Irreplaceable (0.694) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hold Up (0.405) | Ave Maria (0.0279) |
@@ -37,6 +50,10 @@
 | Love On Top (0.0886) | Halo (0.0628) |
 | Halo (0.0628) | Love On Top (0.0886) |
 | Listen (From the Motion Picture "Dreamgirls") (0.0475) | Sweet Dreams (0.111) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Best Thing I Never Had (0.143) | I'd Rather Go Blind (0.159) |
 | If I Were a Boy (0.107) | Halo (0.272) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Partition (0.0707) | Hold Up (0.0) |
@@ -63,6 +84,10 @@
 | I Was Here (0.0) | Crazy In Love (feat. Jay-Z) (0.0) |
 | Crazy In Love (feat. Jay-Z) (0.0) | I Was Here (0.0) |
 | Listen (From the Motion Picture "Dreamgirls") (0.0) | Daddy Lessons (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Listen (From the Motion Picture "Dreamgirls") (0.113) | Ave Maria (0.12) |
 | Telephone (0.112) | Irreplaceable (0.167) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sweet Dreams (0.788) | Partition (0.172) |
@@ -89,3 +118,20 @@
 | Irreplaceable (0.509) | Halo (0.472) |
 | Halo (0.472) | Irreplaceable (0.509) |
 | If I Were a Boy (0.427) | Hold Up (0.552) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/beyonc_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Partition (175.928) | Halo (79.983) |
+| Irreplaceable (175.868) | Hold Up (80.744) |
+| Countdown (167.351) | If I Were a Boy (90.007) |
+| I'd Rather Go Blind (166.213) | Daddy Lessons (90.886) |
+| Listen (From the Motion Picture "Dreamgirls") (122.394) | Love On Top (94.103) |
+| Telephone (122.014) | Best Thing I Never Had (99.05) |
+| Sweet Dreams (121.949) | Crazy In Love (feat. Jay-Z) (99.165) |
+| I Was Here (111.026) | Ave Maria (104.957) |
+| Ave Maria (104.957) | I Was Here (111.026) |
+| Crazy In Love (feat. Jay-Z) (99.165) | Sweet Dreams (121.949) |

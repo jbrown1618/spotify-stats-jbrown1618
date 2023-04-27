@@ -1,4 +1,9 @@
 # Audio Features for Frank Sinatra
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fly Me To The Moon (In Other Words) (0.668) | Strangers In The Night (0.259) |
@@ -11,6 +16,10 @@
 | That's Life (0.56) | The Way You Look Tonight (0.622) |
 | Sunny (0.468) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.652) |
 | Strangers In The Night (0.259) | Fly Me To The Moon (In Other Words) (0.668) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | The Way You Look Tonight (0.24) | That's Life (0.434) |
 | Baby, It's Cold Outside (with Dorothy Kirsten) (0.239) | Strangers In The Night (0.473) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) | Strangers In The Night (0.0295) |
@@ -37,6 +50,10 @@
 | The Way You Look Tonight (0.0363) | Fly Me To The Moon - 2008 Remastered (0.06) |
 | Sunny (0.0331) | That's Life (0.0729) |
 | Strangers In The Night (0.0295) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Fly Me To The Moon (In Other Words) (0.453) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.903) |
 | I've Got You Under My Skin - Remastered 1998 (0.452) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.963) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) | The Way You Look Tonight (0.0) |
@@ -63,6 +84,10 @@
 | Come Fly With Me - Remastered 1998 (0.0) | Fly Me To The Moon - 2008 Remastered (2.22e-06) |
 | That's Life (0.0) | I've Got You Under My Skin - Remastered 1998 (8.85e-06) |
 | The Way You Look Tonight (0.0) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.000253) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Fly Me To The Moon - 2008 Remastered (0.0797) | Sunny (0.37) |
 | Fly Me To The Moon (In Other Words) (0.0621) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.706) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) | Sunny (0.296) |
@@ -89,3 +118,20 @@
 | Fly Me To The Moon - 2008 Remastered (0.372) | That's Life (0.664) |
 | Fly Me To The Moon (In Other Words) (0.368) | Baby, It's Cold Outside (with Dorothy Kirsten) (0.703) |
 | Sunny (0.296) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (0.836) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/frank_sinatra/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) | Come Fly With Me - Remastered 1998 (67.008) |
+| The Way You Look Tonight (132.234) | Strangers In The Night (90.348) |
+| Baby, It's Cold Outside (with Dorothy Kirsten) (127.892) | That's Life (112.803) |
+| I've Got You Under My Skin - Remastered 1998 (127.15) | Sunny (113.969) |
+| Fly Me To The Moon - 2008 Remastered (119.954) | Fly Me To The Moon (In Other Words) (119.416) |
+| Fly Me To The Moon (In Other Words) (119.416) | Fly Me To The Moon - 2008 Remastered (119.954) |
+| Sunny (113.969) | I've Got You Under My Skin - Remastered 1998 (127.15) |
+| That's Life (112.803) | Baby, It's Cold Outside (with Dorothy Kirsten) (127.892) |
+| Strangers In The Night (90.348) | The Way You Look Tonight (132.234) |
+| Come Fly With Me - Remastered 1998 (67.008) | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) (142.169) |

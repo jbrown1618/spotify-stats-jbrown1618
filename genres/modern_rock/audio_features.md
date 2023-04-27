@@ -1,4 +1,9 @@
 # Audio Features for modern rock
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Feel Good Inc. (0.818) | What Kind Of Man (0.313) |
@@ -11,6 +16,10 @@
 | Young Folks (0.699) | How Big, How Blue, How Beautiful (0.372) |
 | The Other Side Of Paradise (0.689) | American Idiot (0.38) |
 | Supermassive Black Hole (0.668) | Everlong (0.413) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Everlong (0.881) | What Sarah Said (0.439) |
 | Delilah (0.87) | Little Lion Man (0.481) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Feel Good Inc. (0.177) | What Sarah Said (0.0268) |
@@ -37,6 +50,10 @@
 | Mr. Brightside (0.0747) | Animals (0.0307) |
 | Madness (0.0718) | Lover To Lover (0.0309) |
 | Best of You (0.0696) | Feeling Good (0.0316) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | White Winter Hymnal (0.438) | All These Things That I've Done (0.00245) |
 | I'm Not Calling You A Liar (0.369) | Kiss With A Fist (0.00254) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Animals (0.796) | Mr. Brightside (0.0) |
@@ -63,6 +84,10 @@
 | I Will Wait (0.00717) | White Winter Hymnal (0.0) |
 | Supermassive Black Hole (0.00517) | I Will Follow You into the Dark (0.0) |
 | Madness (0.00419) | Delilah (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | The Adults Are Talking (0.314) | Believer (0.081) |
 | Everybody Talks (0.313) | HandClap (0.0828) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Supermassive Black Hole (0.782) | What Sarah Said (0.0401) |
@@ -89,3 +118,20 @@
 | White Winter Hymnal (0.711) | All These Things That I've Done (0.206) |
 | Someday (0.679) | Seven Devils (0.211) |
 | Believer (0.666) | Knights of Cydonia (0.211) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| American Idiot (186.113) | Seven Devils (58.534) |
+| Madness (180.301) | Ride (74.989) |
+| Free (174.806) | I Will Follow You into the Dark (80.401) |
+| The Pretender (172.984) | Heat Waves (80.87) |
+| Animals (169.987) | Timshel (82.965) |
+| Stressed Out (169.977) | Good Riddance (Time of Your Life) (94.605) |
+| Delilah (169.946) | Chasing Cars (104.011) |
+| Boulevard of Broken Dreams (167.06) | Someday (106.035) |
+| The Adults Are Talking (164.959) | Kiss With A Fist (107.13) |
+| Everlong (158.066) | Shake It Out (107.486) |

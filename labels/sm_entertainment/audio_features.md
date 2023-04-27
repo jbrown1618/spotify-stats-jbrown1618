@@ -1,4 +1,9 @@
 # Audio Features for SM Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | BOOM (0.914) | Miracle (0.302) |
@@ -11,6 +16,10 @@
 | Saturday Drip (0.848) | Floral Sense (0.411) |
 | Pose (0.841) | Feel My Rhythm (0.412) |
 | Peek-A-Boo (0.839) | This Christmas (0.413) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Feel My Rhythm (0.94) | Moonlight Melody (0.482) |
 | Stress (0.94) | Grey Suit (0.482) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Freedom (0.388) | Moonlight Melody (0.0269) |
@@ -37,6 +50,10 @@
 | Drip Drop (0.278) | Snow Dream 2021 (0.0293) |
 | I GOT A BOY (0.272) | Je T'aime (0.0295) |
 | Tiger Inside (0.266) | This Christmas (0.0297) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | 11:11 (0.677) | Up & Down (0.00279) |
 | Moonlight Melody (0.654) | Zimzalabim (0.0028) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Next Level - Habstrakt Remix (0.201) | Miracle (0.0) |
@@ -63,6 +84,10 @@
 | Mr. Simple (0.00208) | Best Friend (with SEULGI) (0.0) |
 | Parade (0.00131) | Gold Dust (0.0) |
 | Black Mamba (0.000946) | Paradise (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Growl (0.556) | View (0.0415) |
 | I GOT A BOY (0.538) | Baby Don’t Stop (0.043) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Devil (0.968) | The Road (0.073) |
@@ -89,3 +118,20 @@
 | I Just (0.906) | Criminal (0.161) |
 | Power Up (0.898) | Favorite (Vampire) (0.178) |
 | Love Theory (0.888) | In My Dreams (0.179) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/sm_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Freedom (203.833) | Dream (48.973) |
+| 11:11 (203.155) | Bambi (61.45) |
+| Merry Christmas (197.918) | Run Devil Run (64.927) |
+| About Love (191.908) | Clockwork (68.045) |
+| Birthday (191.769) | Hello, Sunset (71.999) |
+| Time After Time (188.781) | Wine (72.022) |
+| Rover (186.022) | Rose (74.703) |
+| Body Talk (185.946) | Sweet Love (74.751) |
+| Hello (185.869) | Devil (74.898) |
+| Universe (Let's Play Ball) (179.975) | Rain (76.024) |

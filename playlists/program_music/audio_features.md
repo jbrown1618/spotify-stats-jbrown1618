@@ -1,4 +1,9 @@
 # Audio Features for Program Music
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.614) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0601) |
@@ -11,6 +16,10 @@
 | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace (0.438) | Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev (0.143) |
 | Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens (0.422) | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum) (0.144) |
 | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 8, Andante (0.387) | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age (0.153) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.163) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 7, Nocturne. Con moto tranquillo (0.0115) |
 | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.149) | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age (0.0136) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo (0.676) | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo (0.0311) |
@@ -37,6 +50,10 @@
 | Pictures at an Exhibition (Orch. Ravel): I. Gnomus (0.0571) | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua (0.0375) |
 | Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks (0.0532) | The Planets, Op. 32: 1. Mars, the Bringer of War (0.0381) |
 | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 5, Allegro appassionato (0.0502) | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age (0.0382) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Pictures at an Exhibition (Orch. Ravel): Promenade I (0.979) | A Midsummer Night's Dream, Incidental Music, Op. 61: Finale. Allegro di molto (0.891) |
 | Pictures at an Exhibition (Orch. Ravel): Promenade III (0.975) | The Planets, Op. 32: 6. Uranus, the Magician (0.899) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo (0.983) | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (0.0) |
@@ -63,6 +84,10 @@
 | Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev (0.903) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 5, Allegro appassionato (0.00512) |
 | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle (0.895) | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum) (0.0557) |
 | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.89) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 9, Hochzeitmarsch "Wedding March" - No. 12, Allegro vivace come primo (0.0798) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle (0.386) | Overture to "A Midsummer Night's Dream", Op. 21: Allegro di molto (0.0936) |
 | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo (0.354) | Pictures at an Exhibition (Orch. Ravel): Promenade II (0.0992) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks (0.869) | The Planets, Op. 32: 2. Venus, the Bringer of Peace (0.0301) |
@@ -89,3 +118,20 @@
 | Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens (0.224) | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.0375) |
 | Pictures at an Exhibition (Orch. Ravel): IX. The Hut on Chicken's Legs (0.221) | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua (0.038) |
 | Pictures at an Exhibition (Orch. Ravel): Promenade II (0.215) | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum) (0.0386) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/program_music/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| A Midsummer Night's Dream, Incidental Music, Op. 61: Finale. Allegro di molto (175.796) | The Planets, Op. 32: 7. Neptune, the Mystic (57.624) |
+| Pictures at an Exhibition (Orch. Ravel): IX. The Hut on Chicken's Legs (165.944) | Pictures at an Exhibition (Orch. Ravel): I. Gnomus (60.214) |
+| The Planets, Op. 32: 1. Mars, the Bringer of War (148.689) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (61.399) |
+| Overture to "A Midsummer Night's Dream", Op. 21: Tempo primo (140.454) | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua (68.548) |
+| The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity (139.855) | Night on Bald Mountain (68.687) |
+| Overture to "A Midsummer Night's Dream", Op. 21: Allegro di molto (137.416) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 7, Nocturne. Con moto tranquillo (68.74) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2a, Allegro vivace (137.327) | Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev (69.224) |
+| A Midsummer Night's Dream, Incidental Music, Op. 61: No. 1, Scherzo (134.158) | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" (69.651) |
+| Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges (123.495) | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum) (71.322) |
+| Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle (113.888) | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo (77.716) |

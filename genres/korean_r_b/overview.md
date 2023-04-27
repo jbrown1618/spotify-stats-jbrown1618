@@ -117,7 +117,7 @@
 |---:|---:|:---|
 | 17 | 13 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 13 | 9 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
-| 3 | 3 | 88rising Music |
+| 3 | 3 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 2 | 2 | Million Market |
 | 2 | 2 | Feel Ghood Music |

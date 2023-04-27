@@ -1,4 +1,9 @@
 # Audio Features for K-Pop Favorites
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Typa Girl (0.915) | My sea (0.353) |
@@ -11,6 +16,10 @@
 | Phase Me (0.857) | Time After Time (0.415) |
 | DUMB DUMB (0.851) | Sparkling Night (0.422) |
 | In the morning (0.846) | 7월 7일 One Of These Nights (0.436) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Sparkling Night (0.935) | 7월 7일 One Of These Nights (0.509) |
 | Hype Boy (0.935) | 눈,코,입 (Eyes, Nose, Lips) (0.516) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | MANIAC (0.411) | Spark (0.0283) |
@@ -37,6 +50,10 @@
 | Hold On Tight (0.283) | RBB (Really Bad Boy) (0.0317) |
 | Sticker (0.28) | HOLD MY HAND (0.0317) |
 | Crazy (0.279) | Get You Alone (0.0319) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Like Water (0.648) | Doom Du Doom (0.00356) |
 | Je T'aime (0.601) | LOVE DIVE (0.00379) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | YEPPI YEPPI (0.0391) | Traffic light (0.0) |
@@ -63,6 +84,10 @@
 | Stay Tonight (0.000612) | Hype Boy (0.0) |
 | Girls (0.000594) | How People Move (0.0) |
 | MAGO (0.000578) | DARARI (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | I GOT A BOY (0.538) | Devil (0.052) |
 | Monster (0.537) | Bad Boy (0.0553) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Devil (0.968) | 7월 7일 One Of These Nights (0.11) |
@@ -89,3 +118,20 @@
 | CALL ME BABY (0.879) | Can't Control Myself (0.229) |
 | The Boys (0.878) | Cold As Hell (0.236) |
 | Feelin' Like (0.861) | Still Life (0.239) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_favorites/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| O.O (200.263) | Dream (48.973) |
+| Birthday (191.769) | Run Devil Run (64.927) |
+| Time After Time (188.781) | FEVER (72.999) |
+| Hello (185.869) | Devil (74.898) |
+| Pink Venom (180.169) | Run BTS (77.004) |
+| HOLO (179.914) | 무제(無題) (Untitled, 2014) (79.826) |
+| TANK (179.905) | Gone (79.936) |
+| BLAME IT ON ME (177.713) | Deja Vu (80.017) |
+| Crazy (176.019) | Don't Call Me (82.026) |
+| Thunderous (172.156) | BEAUTIFUL MONSTER (82.321) |

@@ -1,4 +1,9 @@
 # Audio Features for ENHYPEN
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 10 Months (0.876) | Just A Little Bit (0.441) |
@@ -11,6 +16,10 @@
 | Future Perfect (Pass the MIC) (0.658) | Drunk-Dazed (0.599) |
 | Flicker (0.656) | FEVER (0.6) |
 | Given-Taken (0.631) | Blessed-Cursed (0.604) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | ParadoXXX Invasion (0.863) | Always (0.771) |
 | Go Big or Go Home (0.844) | Let Me In (20 CUBE) (0.795) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Future Perfect (Pass the MIC) (0.264) | TFW (That Feeling When) (0.0354) |
@@ -37,6 +50,10 @@
 | I Need The Light (0.0728) | Go Big or Go Home (0.0575) |
 | One In A Billion (0.0674) | Always (0.059) |
 | SHOUT OUT (0.0671) | FEVER (0.0592) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Not For Sale (0.0612) | 10 Months (0.0345) |
 | Go Big or Go Home (0.0502) | Future Perfect (Pass the MIC) (0.0364) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Tamed-Dashed (3.33e-05) | FEVER (0.0) |
@@ -63,6 +84,10 @@
 | Future Perfect (Pass the MIC) (0.0) | Attention, please! (0.0) |
 | Go Big or Go Home (0.0) | SHOUT OUT (0.0) |
 | I Need The Light (0.0) | Polaroid Love (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Attention, please! (0.279) | FEVER (0.142) |
 | Go Big or Go Home (0.269) | Tamed-Dashed (0.151) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | TFW (That Feeling When) (0.902) | Blessed-Cursed (0.401) |
@@ -89,3 +118,20 @@
 | 10 Months (0.709) | Future Perfect (Pass the MIC) (0.526) |
 | Tamed-Dashed (0.709) | Flicker (0.549) |
 | Let Me In (20 CUBE) (0.685) | Not For Sale (0.56) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/enhypen/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Not For Sale (192.13) | FEVER (72.999) |
+| Let Me In (20 CUBE) (171.853) | Just A Little Bit (84.633) |
+| SHOUT OUT (159.989) | Flicker (85.149) |
+| Mixed Up (156.889) | ParadoXXX Invasion (94.952) |
+| Future Perfect (Pass the MIC) (156.096) | Upper Side Dreamin’ (106.02) |
+| Tamed-Dashed (155.029) | Given-Taken (108.07) |
+| I Need The Light (152.113) | 10 Months (110.006) |
+| Attention, please! (150.035) | Always (110.014) |
+| Polaroid Love (138.055) | TFW (That Feeling When) (116.024) |
+| Drunk-Dazed (132.889) | One In A Billion (119.957) |

@@ -1,4 +1,9 @@
 # Audio Features for Daveed Diggs
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Washington on Your Side (0.884) | The Story of Tonight (0.494) |
@@ -11,6 +16,10 @@
 | Aaron Burr, Sir (0.646) | We Know (0.718) |
 | The Room Where It Happens (0.638) | Guns and Ships (0.72) |
 | Alexander Hamilton (0.609) | The Story of Tonight - Reprise (0.724) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Aaron Burr, Sir (0.439) | Cabinet Battle #2 (0.539) |
 | Alexander Hamilton (0.435) | What'd I Miss (0.577) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Aaron Burr, Sir (0.818) | The Story of Tonight (0.0517) |
@@ -37,6 +50,10 @@
 | What'd I Miss (0.386) | Cabinet Battle #1 (0.423) |
 | Washington on Your Side (0.348) | The Room Where It Happens (0.426) |
 | Guns and Ships (0.328) | The Election of 1800 (0.462) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | What'd I Miss (0.169) | The Election of 1800 (0.319) |
 | Washington on Your Side (0.165) | Guns and Ships (0.399) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Guns and Ships (0.0) | The Election of 1800 (0.0) |
@@ -63,6 +84,10 @@
 | The Room Where It Happens (0.0) | Cabinet Battle #1 (0.0) |
 | Washington on Your Side (0.0) | Alexander Hamilton (0.0) |
 | We Know (0.0) | My Shot (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Alexander Hamilton (0.118) | The Election of 1800 (0.306) |
 | Aaron Burr, Sir (0.0945) | Cabinet Battle #2 (0.353) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | We Know (0.692) | What'd I Miss (0.319) |
@@ -89,3 +118,20 @@
 | Cabinet Battle #2 (0.519) | Alexander Hamilton (0.552) |
 | Cabinet Battle #1 (0.513) | My Shot (0.568) |
 | The Room Where It Happens (0.511) | The Story of Tonight - Reprise (0.594) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/daveed_diggs/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| My Shot (180.466) | The Election of 1800 (67.426) |
+| What'd I Miss (177.787) | The Story of Tonight - Reprise (81.874) |
+| The Room Where It Happens (173.552) | Cabinet Battle #1 (87.043) |
+| Aaron Burr, Sir (160.387) | The Story of Tonight (95.219) |
+| Guns and Ships (138.03) | Cabinet Battle #2 (99.455) |
+| Washington on Your Side (134.051) | We Know (113.855) |
+| Alexander Hamilton (131.995) | Alexander Hamilton (131.995) |
+| We Know (113.855) | Washington on Your Side (134.051) |
+| Cabinet Battle #2 (99.455) | Guns and Ships (138.03) |
+| The Story of Tonight (95.219) | Aaron Burr, Sir (160.387) |

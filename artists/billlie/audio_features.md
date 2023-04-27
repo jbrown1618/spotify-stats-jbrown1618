@@ -1,4 +1,9 @@
 # Audio Features for Billlie
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | GingaMingaYo (the strange world) (0.888) | RING X RING (0.565) |
@@ -11,6 +16,10 @@
 | B’rave ~ a song for Matilda (0.681) | B’rave ~ a song for Matilda (0.681) |
 | everybody's got a $ECRET (0.664) | nevertheless (0.687) |
 | a sign ~ anonymous (0.643) | enchanted night ~ white night (0.701) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | B’rave ~ a song for Matilda (0.795) | snowy night (0.812) |
 | overlap (1/1) (0.793) | a sign ~ anonymous (0.845) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | flipp!ng a coin (0.176) | snowy night (0.0367) |
@@ -37,6 +50,10 @@
 | enchanted night ~ white night (0.0793) | enchanted night ~ white night (0.0793) |
 | GingaMingaYo (the strange world) (0.079) | lionheart (the real me) (0.088) |
 | B’rave ~ a song for Matilda (0.0755) | RING ma Bell (what a wonderful world) (0.0886) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | the eleventh day (0.0492) | B’rave ~ a song for Matilda (0.127) |
 | RING X RING (0.0386) | nevertheless (0.137) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | GingaMingaYo (the strange world) (0.00955) | enchanted night ~ white night (0.0) |
@@ -63,6 +84,10 @@
 | EUNOIA (0.0) | EUNOIA (0.0) |
 | the eleventh day (0.0) | B’rave ~ a song for Matilda (0.0) |
 | everybody's got a $ECRET (0.0) | snowy night (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | overlap (1/1) (0.125) | RING ma Bell (what a wonderful world) (0.132) |
 | flipp!ng a coin (0.122) | snowy night (0.194) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | overlap (1/1) (0.861) | lionheart (the real me) (0.545) |
@@ -89,3 +118,20 @@
 | B’rave ~ a song for Matilda (0.699) | B’rave ~ a song for Matilda (0.699) |
 | GingaMingaYo (the strange world) (0.65) | nevertheless (0.723) |
 | RING X RING (0.647) | snowy night (0.736) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/billlie/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| RING X RING (171.968) | a sign ~ anonymous (98.04) |
+| the eleventh day (170.123) | nevertheless (99.942) |
+| Mcguffins ~ who’s the Joker? (145.942) | snowy night (99.971) |
+| everybody's got a $ECRET (139.773) | lionheart (the real me) (101.998) |
+| RING ma Bell (what a wonderful world) (137.024) | EUNOIA (108.033) |
+| B’rave ~ a song for Matilda (130.019) | enchanted night ~ white night (110.027) |
+| flipp!ng a coin (124.96) | overlap (1/1) (116.042) |
+| GingaMingaYo (the strange world) (121.997) | GingaMingaYo (the strange world) (121.997) |
+| overlap (1/1) (116.042) | flipp!ng a coin (124.96) |
+| enchanted night ~ white night (110.027) | B’rave ~ a song for Matilda (130.019) |

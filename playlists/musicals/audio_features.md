@@ -1,4 +1,9 @@
 # Audio Features for Musicals
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Ten Duel Commandments (0.887) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.169) |
@@ -11,6 +16,10 @@
 | Yorktown (The World Turned Upside Down) (0.76) | Overture (0.224) |
 | Say No to This (0.754) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.227) |
 | Cabinet Battle #2 (0.753) | Entr'Acte (0.231) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Meet Me Inside (0.643) | Empty Chairs At Empty Tables (0.0688) |
 | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (0.608) | Come To Me (Fantine's Death) (0.0698) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Aaron Burr, Sir (0.818) | History Has Its Eyes on You (0.0291) |
@@ -37,6 +50,10 @@
 | A Winter's Ball (0.507) | That Would Be Enough (0.0355) |
 | Your Obedient Servant (0.502) | I Didn't Plan It (0.0365) |
 | Right Hand Man (0.492) | The Music Of The Night (0.0367) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.954) | I Didn't Plan It (0.0951) |
 | Come To Me (Fantine's Death) (0.953) | Opening Up (0.111) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Entr'Acte (0.42) | Schuyler Defeated (0.0) |
@@ -63,6 +84,10 @@
 | The Point Of No Return (0.00348) | Everything Changes (0.0) |
 | Little Lotte / The Mirror (Angel Of Music) (0.0025) | In My Life (0.0) |
 | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.000737) | Hurricane (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Ten Duel Commandments (0.617) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0798) |
 | Blow Us All Away (0.563) | Stay Alive - Reprise (0.0801) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Schuyler Defeated (0.842) | Wishing You Were Somehow Here Again (0.0374) |
@@ -89,3 +118,20 @@
 | We Know (0.692) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.071) |
 | A Winter's Ball (0.688) | Why Have You Brought Me Here (0.0742) |
 | Blow Us All Away (0.665) | The Point Of No Return (0.0757) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/musicals/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| My Shot (180.466) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (46.168) |
+| What'd I Miss (177.787) | What's Inside (63.218) |
+| One Last Time (176.989) | A Little Fall Of Rain (63.337) |
+| Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (175.838) | A Heart Full Of Love (65.684) |
+| The Room Where It Happens (173.552) | Stars (66.03) |
+| Hurricane (171.289) | The Election of 1800 (67.426) |
+| Bad Idea (feat. Jason Mraz) (167.936) | On My Own (71.842) |
+| I Dreamed A Dream (167.711) | Who Lives, Who Dies, Who Tells Your Story (75.5) |
+| Your Obedient Servant (165.908) | In My Life (75.556) |
+| Opening Up (161.071) | Building the Barricade / On My Own - Live (76.194) |

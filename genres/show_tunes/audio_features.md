@@ -1,4 +1,9 @@
 # Audio Features for show tunes
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Ten Duel Commandments (0.887) | On My Own (0.321) |
@@ -11,6 +16,10 @@
 | Yorktown (The World Turned Upside Down) (0.76) | History Has Its Eyes on You (0.438) |
 | Say No to This (0.754) | One Last Time (0.449) |
 | Cabinet Battle #2 (0.753) | Hurricane (0.453) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | What'd I Miss (0.577) | The Story of Tonight (0.237) |
 | The Reynolds Pamphlet (0.573) | Stay Alive - Reprise (0.246) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Aaron Burr, Sir (0.818) | History Has Its Eyes on You (0.0291) |
@@ -37,6 +50,10 @@
 | Your Obedient Servant (0.502) | Into the Unknown (0.0413) |
 | Right Hand Man (0.492) | It's Quiet Uptown (0.0423) |
 | Meet Me Inside (0.474) | Empty Chairs At Empty Tables (0.0496) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | That Would Be Enough (0.819) | Right Hand Man (0.177) |
 | History Has Its Eyes on You (0.803) | The Schuyler Sisters (0.187) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Into the Unknown (0.000544) | Schuyler Defeated (0.0) |
@@ -63,6 +84,10 @@
 | Guns and Ships (0.0) | Let It Go - From "Frozen"/Soundtrack Version (0.0) |
 | Who Lives, Who Dies, Who Tells Your Story (0.0) | Hurricane (0.0) |
 | The Reynolds Pamphlet (0.0) | The Story of Tonight - Reprise (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Meet Me Inside (0.363) | Best of Wives and Best of Women (0.0858) |
 | Cabinet Battle #2 (0.353) | A Winter's Ball (0.0889) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Schuyler Defeated (0.842) | Empty Chairs At Empty Tables (0.115) |
@@ -89,3 +118,20 @@
 | Blow Us All Away (0.665) | A Little Fall Of Rain (0.264) |
 | The Election of 1800 (0.645) | History Has Its Eyes on You (0.274) |
 | Meet Me Inside (0.644) | Dear Theodosia (0.274) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/show_tunes/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| My Shot (180.466) | A Little Fall Of Rain (63.337) |
+| What'd I Miss (177.787) | The Election of 1800 (67.426) |
+| One Last Time (176.989) | On My Own (71.842) |
+| The Room Where It Happens (173.552) | Who Lives, Who Dies, Who Tells Your Story (75.5) |
+| Hurricane (171.289) | Do You Hear The People Sing? (76.744) |
+| Your Obedient Servant (165.908) | History Has Its Eyes on You (77.415) |
+| Aaron Burr, Sir (160.387) | Farmer Refuted (77.879) |
+| Stay Alive - Reprise (160.031) | Ten Duel Commandments (77.977) |
+| Stay Alive (159.65) | Helpless (79.009) |
+| Right Hand Man (158.576) | Say No to This (81.035) |

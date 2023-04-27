@@ -1,4 +1,9 @@
 # Audio Features for Jive
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | SexyBack (feat. Timbaland) (0.967) | I Thought She Knew (0.397) |
@@ -11,6 +16,10 @@
 | If U Seek Amy (0.717) | I Want It That Way (0.689) |
 | I Want It That Way (0.689) | If U Seek Amy (0.717) |
 | Sure Thing (0.684) | Womanizer (0.724) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Womanizer (0.695) | ...Baby One More Time (0.699) |
 | I Want It That Way (0.694) | Oops!...I Did It Again (0.834) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.147) | Show Me the Meaning of Being Lonely (0.0252) |
@@ -37,6 +50,10 @@
 | Bye Bye Bye (0.0479) | Oops!...I Did It Again (0.0437) |
 | Oops!...I Did It Again (0.0437) | Bye Bye Bye (0.0479) |
 | Wet The Bed (feat. Ludacris) (0.0429) | Womanizer (0.0622) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Womanizer (0.073) | Larger Than Life (0.11) |
 | SexyBack (feat. Timbaland) (0.0584) | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.119) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Toxic (0.025) | SexyBack (feat. Timbaland) (0.0) |
@@ -63,6 +84,10 @@
 | It's Gonna Be Me (1.27e-06) | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.0) |
 | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.0) | It's Gonna Be Me (1.27e-06) |
 | Womanizer (0.0) | Larger Than Life (1.74e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | I Thought She Knew (0.143) | I Want It That Way (0.148) |
 | I'm a Slave 4 U (0.107) | Wet The Bed (feat. Ludacris) (0.174) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | SexyBack (feat. Timbaland) (0.964) | I Thought She Knew (0.198) |
@@ -89,3 +118,20 @@
 | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.837) | Larger Than Life (0.75) |
 | Larger Than Life (0.75) | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.837) |
 | Show Me the Meaning of Being Lonely (0.683) | Bye Bye Bye (0.861) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/jive/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Bye Bye Bye (172.638) | I Thought She Knew (79.416) |
+| Show Me the Meaning of Being Lonely (167.998) | Sure Thing (81.001) |
+| It's Gonna Be Me (165.071) | ...Baby One More Time (92.96) |
+| Toxic (143.04) | Oops!...I Did It Again (95.053) |
+| Womanizer (139.0) | I Want It That Way (99.039) |
+| If U Seek Amy (129.954) | Larger Than Life (108.037) |
+| Wet The Bed (feat. Ludacris) (123.801) | (I Got That) Boom Boom (feat. Ying Yang Twins) (109.987) |
+| SexyBack (feat. Timbaland) (117.0) | I'm a Slave 4 U (110.027) |
+| I'm a Slave 4 U (110.027) | SexyBack (feat. Timbaland) (117.0) |
+| (I Got That) Boom Boom (feat. Ying Yang Twins) (109.987) | Wet The Bed (feat. Ludacris) (123.801) |

@@ -1,4 +1,9 @@
 # Audio Features for UME - Global Clearing House
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Gentleman (0.882) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" (0.0663) |
@@ -11,6 +16,10 @@
 | L-O-V-E - 2000 Remaster (0.451) | Mass In C, K.317 "Coronation": 1. Kyrie (0.117) |
 | Serenade in G, K.525 "Eine kleine Nachtmusik": 1. Allegro (0.449) | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (0.118) |
 | Divertimento No. 11 in D, K.251 "Nannerl-Septett": Allegro molto (0.444) | Symphony No. 35 in D Major, K. 385 "Haffner": 2. Andante (0.124) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Symphony No. 40 In G Minor, K.550: 4. Finale (Allegro assai) (0.295) | Divertimento in D, K.334 - Orchestral Version: 3. Menuetto - Trio - Menuetto (0.0268) |
 | Symphony No. 40 In G Minor, K.550: 1. Molto allegro (0.295) | Die Zauberflöte, K.620 / Act 1: "Bei Männern, welche Liebe fühlen" (0.0301) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Gentleman (0.116) | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.0293) |
@@ -37,6 +50,10 @@
 | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno) (0.0522) | Mass In C, K.317 "Coronation": 4. Sanctus (0.0321) |
 | Die Zauberflöte, K.620 / Act 2: Der Hölle Rache kocht in meinem Herzen (Königin der Nacht) (0.0521) | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.0325) |
 | Die Zauberflöte, K.620 / Act 2: "Pa-Pa-Pa-Pa-Pa-Pa-Papagena!" (0.052) | Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese (0.0334) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Horn Concerto No. 2 in E-Flat Major, K. 417: I. Allegro maestoso (0.989) | Symphony No. 40 In G Minor, K.550: 1. Molto allegro (0.917) |
 | Requiem In D Minor, K.626: 4. Offertorium: Hostias (0.989) | Divertimento No. 15 in B-Flat Major, K. 287: 4. Adagio (0.919) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Divertimento No. 11 in D, K.251 "Nannerl-Septett": Menuetto (Tema con variazioni) (0.958) | Gentleman (0.0) |
@@ -63,6 +84,10 @@
 | Divertimento in D, K.334 - Orchestral Version: 6. Rondo (Allegro) (0.934) | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos) (5.9e-05) |
 | Symphony No. 32 in G Major, K. 318: 1. Allegro - 2. Andante - 3. Tempo I (0.933) | Requiem In D Minor, K.626: 3. Sequentia: Recordare (0.000349) |
 | Divertimento No. 11 in D, K.251 "Nannerl-Septett": Rondeau (Allegro assai) (0.931) | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (0.0004) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Die Zauberflöte, K.620 / Act 2: "Seid uns zum zweiten Mal willkommen" (0.386) | Mass In C, K.317 "Coronation": 7. Agnus Dei. Dona nobis pacem - Allegro con spirito (0.0764) |
 | Symphony No. 41 In C, K.551 - "Jupiter": 3. Menuetto (Allegretto) (0.384) | Die Zauberflöte, K.620 / Act 2: Ach, ich fühl's, es ist verschwunden (Pamina) (0.0785) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Die Zauberflöte, K.620 / Act 2: Alles fühlt der Liebe Freuden (Monostatos) (0.792) | Requiem In D Minor, K.626: 7. Agnus Dei (0.0338) |
@@ -89,3 +118,20 @@
 | Requiem In D Minor, K.626: 2. Kyrie (0.544) | Symphony No. 40 In G Minor, K.550: 2. Andante (0.0392) |
 | Serenade in G, K.525 "Eine kleine Nachtmusik": 1. Allegro (0.524) | Requiem In D Minor, K.626: 3. Sequentia: Lacrimosa (0.0394) |
 | Die Zauberflöte, K.620 / Act 1: Der Vogelfänger bin ich ja (Papageno) (0.504) | Divertimento in D, K.334 - Orchestral Version: 4. Adagio (0.04) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/ume___global_clearing_house/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Divertimento in D, K.334 - Orchestral Version: 4. Adagio (168.802) | Divertimento No. 15 in B Flat Major, K. 287: IV. Adagio (56.647) |
+| Symphony No. 33 in B flat, K.319: 2. Andante moderato (165.957) | Mass In C, K.317 "Coronation": 5. Benedictus (57.355) |
+| Symphony No. 33 in B flat, K.319: 1. Allegro assai (165.933) | Horn Concerto No. 4 in E-Flat Major, K. 495: III. Rondo. Allegro vivace (63.172) |
+| L-O-V-E - 2000 Remaster (157.47) | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (65.236) |
+| Divertimento No. 15 in B Flat Major, K. 287: I. Allegro (153.666) | Requiem In D Minor, K.626: 5. Sanctus (68.345) |
+| Serenade In G, K.525 "Eine kleine Nachtmusik": 2. Romance (Andante) (153.555) | Die Zauberflöte, K.620 / Act 1: Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen) (70.475) |
+| Symphony No. 39 in E flat, K.543: 1. Adagio - Allegro (153.184) | Die Zauberflöte, K.620 / Act 2: "O Isis und Osiris, welche Wonne!" (73.462) |
+| Mass In C, K.317 "Coronation": 2. Gloria (152.459) | Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza. Andante (73.634) |
+| Horn Concerto No. 2 in E-Flat Major, K. 417: III. Rondo (144.224) | Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante (73.943) |
+| Symphony No. 41 In C, K.551 - "Jupiter": 4. Molto allegro (144.103) | Mass In C, K.317 "Coronation": 1. Kyrie (74.589) |

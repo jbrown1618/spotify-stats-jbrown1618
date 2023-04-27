@@ -1,4 +1,9 @@
 # Audio Features for Decca Music Group Ltd.
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.753) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
@@ -11,6 +16,10 @@
 | Piano Sonata No. 11 in A Major, K. 331: 3. Alla Turca. Allegretto (0.55) | Vespers, Op. 37: II. "Blagoslovi dushe moya" (0.108) |
 | Brandenburg Concerto No. 1 in F, BWV 1046: 5. Polacca; Trio II (0.534) | Brandenburg Concerto No. 6 in B flat, BWV 1051: 2. Adagio ma non tanto (0.115) |
 | Brandenburg Concerto No. 6 in B flat, BWV 1051: 3. Allegro (0.528) | 24 Préludes, Op. 28: No. 13 in F-Sharp Major: Lento (0.124) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.296) | 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai (0.00399) |
 | Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto (0.286) | Piano Sonata No. 25 in G, Op. 79: 2. Andante (0.00446) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.592) | Polonaise No. 6 in A flat, Op. 53 -"Heroic" (0.0308) |
@@ -37,6 +50,10 @@
 | Piano Sonata No. 4 in E flat, Op. 7: 2. Largo, con gran espressione (0.0615) | Piano Sonata No. 22 in F, Op. 54: 2. Allegretto (0.034) |
 | 24 Préludes, Op. 28: No. 4 in E Minor: Largo (0.0613) | 24 Préludes, Op. 28: No. 19 in E-Flat Major: Vivace (0.034) |
 | 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai (0.0605) | Piano Sonata No. 9 in E, Op. 14 No. 1: 3. Rondo (Allegro comodo) (0.0342) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Nocturne No. 11 in G minor, Op. 37 No. 1 (0.995) | Brandenburg Concerto No. 2 in F, BWV 1047: 1. (Allegro) (0.888) |
 | Nocturne No. 6 in G Minor, Op. 15 No. 3 (0.995) | Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai (0.89) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.98) | Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro (0.0047) |
@@ -63,6 +84,10 @@
 | Piano Sonata No. 16 in C, K.545 "Sonata facile": 1. Allegro (0.949) | Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto (0.321) |
 | Waltz No. 15 in E Major, Op. posth. (0.949) | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.352) |
 | Prélude No.26 in A Flat, Op.posth. (0.949) | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" (0.379) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | 24 Préludes, Op. 28: No. 16 in B-Flat Minor: Presto con fuoco (0.208) | Piano Sonata No. 3 in C, Op. 2 No. 3: 4. Allegro assai (0.0615) |
 | Polonaise in B flat, Op. posth. (0.201) | Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 3. Adagio sostenuto (0.0616) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Brandenburg Concerto No. 2 in F, BWV 1047: 3. Allegro assai (0.931) | 24 Préludes, Op. 28: No. 7 in A Major: Andantino (0.0) |
@@ -89,3 +118,20 @@
 | Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro (0.786) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0351) |
 | Brandenburg Concerto No. 1 in F, BWV 1046: 1. (Allegro) (0.755) | 24 Préludes, Op. 28: No. 4 in E Minor: Largo (0.0354) |
 | Brandenburg Concerto No. 4 in G, BWV 1049: 3. Presto (0.752) | Requiem in D Minor, Op. 48: VII. In Paradisum (0.0354) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/decca_music_group_ltd_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai (203.905) | 24 Préludes, Op. 28: No. 20 in C Minor: Largo (34.105) |
+| Piano Sonata No. 29 in B flat, Op. 106 -"Hammerklavier": 2. Scherzo (Assai vivace - Presto - Prestissimo - Tempo I) (203.867) | 24 Préludes, Op. 28: No. 8 in F-Sharp Minor: Molto agitato (53.925) |
+| Brandenburg Concerto No. 2 in F, BWV 1047: 2. Andante (177.194) | Piano Concerto No. 2 in C Minor, Op. 18: 1. Moderato (54.898) |
+| Brandenburg Concerto No. 4 in G, BWV 1049: 1. Allegro (175.012) | Waltz No. 11 in G-Flat Major, Op. 70 No. 1 (58.131) |
+| 24 Préludes, Op. 28: No. 19 in E-Flat Major: Vivace (174.421) | 24 Préludes, Op. 28: No. 7 in A Major: Andantino (59.272) |
+| Brandenburg Concerto No. 1 in F, BWV 1046: 3. Allegro (172.615) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (59.288) |
+| Piano Sonata No. 9 in E, Op. 14 No. 1: 1. Allegro (172.047) | 24 Préludes, Op. 28: No. 18 in F Minor: Molto allegro (59.67) |
+| Waltz No. 12 in F Minor, Op. 70 No. 2 (170.339) | Piano Sonata No. 13 in E flat, Op. 27 No. 1: 3. Adagio con espressione (60.671) |
+| Waltz No. 3 in A Minor, Op. 34 No. 2 (169.24) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (61.399) |
+| Piano Sonata No. 19 in G minor, Op. 49 No. 1: 2. Rondo (Allegro) (167.389) | Requiem in D Minor, Op. 48: III. Sanctus (62.242) |

@@ -1,4 +1,9 @@
 # Audio Features for pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | SexyBack (feat. Timbaland) (0.967) | Born To Die (0.18) |
@@ -11,6 +16,10 @@
 | Sally Walker (0.905) | Radio (0.312) |
 | Coño (0.899) | tolerate it (0.316) |
 | Scandal (0.898) | Young And Beautiful (0.324) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Forever Young (0.949) | i hate to admit (Bang Chan) (0.217) |
 | Boy in Luv (0.947) | No Time To Die (0.219) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | No More Dream (0.472) | Breakeven (0.0242) |
@@ -37,6 +50,10 @@
 | WAP (feat. Megan Thee Stallion) (0.375) | Begin Again (0.0263) |
 | bad guy (0.375) | no body, no crime (feat. HAIM) (0.0264) |
 | I GOT IT (HAN) (0.365) | Paradise (0.0268) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | lovely (with Khalid) (0.934) | Blinding Lights (0.00146) |
 | When I Was Your Man (0.932) | Maniac (0.00162) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | everything i wanted (0.657) | Sk8er Boi (0.0) |
@@ -63,6 +84,10 @@
 | This Is What You Came For (0.119) | Winter Falls (0.0) |
 | Bel Air (0.0875) | Love Me Like You Do (0.0) |
 | Partition (0.0707) | React (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Love On Top (0.604) | Run BTS (0.0358) |
 | Super Bass (0.601) | HEYDAY (Prod. Czaer) (0.0363) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Material Girl (0.978) | Maroon (0.0374) |
@@ -89,3 +118,20 @@
 | Me Enamoré (0.948) | I'll Show You (0.0789) |
 | Really (0.947) | Skyfall (0.0789) |
 | Tick Tock (feat. 24kGoldn) (0.946) | Dress (0.0851) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | My Everything (61.975) |
+| Last Christmas (205.945) | imagine (62.52) |
+| That's My Girl (202.049) | Winter Sleep (68.045) |
+| Awkward Silence (199.981) | Lover (68.534) |
+| Santa Tell Me (191.9) | When I Was Your Man (72.795) |
+| I'll Show You (191.812) | miss you (Hyunjin) (72.96) |
+| boyfriend (with Social House) (190.097) | No Time To Die (73.537) |
+| Good Thing (with Kehlani) (185.913) | Jar of Hearts (74.541) |
+| Light Switch (184.008) | tolerate it (74.952) |
+| ME! (feat. Brendon Urie of Panic! At The Disco) (182.162) | Ride (74.989) |

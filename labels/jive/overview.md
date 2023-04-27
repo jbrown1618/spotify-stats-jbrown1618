@@ -48,10 +48,9 @@ Appears as:
 | 14 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 5 | boy band |
 | 2 | 2 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 1 | urban contemporary |
 | 1 | 1 | rap |
 
-![Bar chart of top 6 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 5 genres](../../images/labels/jive/genres.png)
 
 ## Tracks released under Jive
 

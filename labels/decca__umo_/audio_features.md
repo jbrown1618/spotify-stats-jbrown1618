@@ -1,4 +1,9 @@
 # Audio Features for Decca (UMO)
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Geronimo (0.705) | Three Songs Of Faith: Hope Faith Life Love (0.0771) |
@@ -11,6 +16,10 @@
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) (0.489) | Three Songs Of Faith: I Thank You God For Most This Amazing Day (0.171) |
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto (0.444) | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo (0.181) |
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro (0.44) | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) (0.197) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) (0.156) | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio (0.048) |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) (0.154) | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo (0.054) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Geronimo (0.0805) | Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) (0.0336) |
@@ -37,6 +50,10 @@
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) (0.0477) | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro (0.0402) |
 | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo (0.0467) | The Seal Lullaby (0.0413) |
 | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro (0.0466) | Three Songs Of Faith: Hope Faith Life Love (0.0414) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo (0.902) | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro (0.79) |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) (0.896) | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro (0.794) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Lux Aurumque (0.964) | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo (0.0) |
@@ -63,6 +84,10 @@
 | Sleep (0.0524) | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro (0.000308) |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo (0.0406) | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio (0.000318) |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) (0.0279) | Geronimo (0.00152) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro (0.139) | Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro (0.0903) |
 | Water Night (0.128) | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo (0.0907) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) (0.688) | Lux Aurumque (0.0241) |
@@ -89,3 +118,20 @@
 | Geronimo (0.457) | Three Songs Of Faith: I Will Wade Out (0.0364) |
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro (0.355) | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo (0.056) |
 | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) (0.349) | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) (0.0571) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/decca__umo_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Three Songs Of Faith: Hope Faith Life Love (177.027) | The Seal Lullaby (66.349) |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio (169.019) | Lux Aurumque (71.984) |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) (163.261) | Leonardo Dreams Of His Flying Machine (78.661) |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto (160.272) | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo (78.889) |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) (148.655) | Three Songs Of Faith: I Will Wade Out (80.473) |
+| Geronimo (142.028) | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo (83.291) |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro (140.775) | Water Night (94.101) |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro (133.726) | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro (99.139) |
+| Sleep (126.634) | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) (99.661) |
+| Three Songs Of Faith: I Thank You God For Most This Amazing Day (126.033) | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo (100.326) |

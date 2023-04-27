@@ -1,4 +1,9 @@
 # Audio Features for A Cappella Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Toxic (0.764) | Falling Slowly (0.218) |
@@ -11,6 +16,10 @@
 | Got To Get You Into My Life (0.646) | Russian Roulette (0.419) |
 | You And I (0.644) | Landslide (0.425) |
 | Breakeven (0.617) | Samson (0.507) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Got To Get You Into My Life (0.602) | Home (0.394) |
 | Machine Gun (0.589) | Wait It Out (0.428) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | I'd Like To (0.213) | Samson (0.0256) |
@@ -37,6 +50,10 @@
 | Africa (0.045) | Wally (0.0298) |
 | Disturbia (0.0402) | Speechless (0.0299) |
 | Because of You (0.0361) | Breakeven (0.0303) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Cough Syrup (0.812) | You And I (0.368) |
 | Falling Slowly (0.796) | Breakeven (0.371) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Falling Slowly (0.019) | Without Your Love (0.0) |
@@ -63,6 +84,10 @@
 | Wally (1.1e-05) | Shake It Out (0.0) |
 | Blown Away (1.04e-05) | Let it Be (0.0) |
 | Happy Ending (5.09e-06) | Only the Good Die Young (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Wait It Out (0.154) | Morning Comes (0.0964) |
 | You And I (0.141) | Easy (0.0999) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Toxic (0.842) | Wait It Out (0.104) |
@@ -89,3 +118,20 @@
 | Africa (0.573) | Morning Comes (0.175) |
 | Machine Gun (0.494) | Happy Ending (0.18) |
 | Disturbia (0.424) | Home (0.181) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/a_cappella_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Morning Comes (174.708) | Speechless (72.971) |
+| Wanted (169.683) | Cry Me a River (72.975) |
+| Only the Good Die Young (162.862) | Russian Roulette (73.947) |
+| Wait It Out (147.729) | Halo (74.98) |
+| Wally (147.123) | Demons (84.005) |
+| Because of You (143.998) | Let it Be (85.839) |
+| Toxic (142.902) | I'd Like To (88.013) |
+| Falling Slowly (139.601) | Samson (89.415) |
+| Landslide (139.1) | Without Your Love (89.982) |
+| Easy (138.784) | Africa (90.972) |

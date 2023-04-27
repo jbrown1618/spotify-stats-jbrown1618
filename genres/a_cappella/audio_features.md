@@ -1,4 +1,9 @@
 # Audio Features for a cappella
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Uptown Funk (0.847) | Bluebird (0.184) |
@@ -11,6 +16,10 @@
 | Havana (0.726) | Lullabye (Goodnight My Angel) (0.257) |
 | Problem (Ariana Grande Cover) (0.721) | Over The Rainbow (0.266) |
 | Santa Baby (0.72) | Can't Help Falling In Love (0.272) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Aha! (0.761) | Colder Weather (0.172) |
 | Chandelier (0.756) | Bluebird (0.198) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack (0.433) | It's the Most Wonderful Time of the Year (0.0256) |
@@ -37,6 +50,10 @@
 | Attention (0.107) | Landslide (0.0289) |
 | Manwa Laage (0.102) | Sleigh Ride (0.029) |
 | Starships (0.0944) | Over The Rainbow (0.0292) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Santa Baby (0.915) | Sexyback (0.0246) |
 | God Only Knows (0.904) | Show You How to Love (0.0304) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Prelude No.1 in C Major (0.977) | Natural Disaster (0.0) |
@@ -63,6 +84,10 @@
 | O Come, O Come Emmanuel (0.000413) | Love Again (0.0) |
 | River (6.41e-05) | Wrecking Ball (0.0) |
 | Standing By (5.54e-05) | Who Are You (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | See Through (0.37) | Rather Be (Clean Bandit Cover) (0.0748) |
 | The Sound of Silence (0.368) | Eine kleine Nachtmusik (0.0802) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Attention (0.907) | Lullabye (Goodnight My Angel) (0.0673) |
@@ -89,3 +118,20 @@
 | Rockin' Around the Christmas Tree (0.809) | Shake It Out (0.136) |
 | Everybody Talks (0.769) | River (0.137) |
 | Havana (0.749) | God Only Knows (0.138) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/a_cappella/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Attention (204.19) | Bluebird (66.753) |
+| Hey Momma / Hit the Road Jack (203.068) | Lullabye (Goodnight My Angel) (72.925) |
+| On The 4th Of July (199.616) | Bang Bang (74.451) |
+| Gunpowder & Lead (187.614) | Rockin' Around the Christmas Tree (75.523) |
+| My Happy Ending (175.719) | The Baddest Girl (77.861) |
+| Chandelier (173.893) | The Christmas Song (Chestnuts Roasting on an Open Fire) (78.918) |
+| Aha! (172.015) | Daddy Lessons (79.98) |
+| Carol of the Bells (171.857) | Prelude No.1 in C Major (80.208) |
+| Gravity (167.19) | Manwa Laage (81.432) |
+| Everybody Talks (160.597) | Over The Rainbow (83.736) |

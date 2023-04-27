@@ -1,4 +1,9 @@
 # Audio Features for Cursed English
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | SNEAKERS (English Ver.) (0.92) | Life's Too Short (English Version) (0.472) |
@@ -11,6 +16,10 @@
 | LATATA - English Ver. (0.801) | Bewitched - Eng Ver. (0.696) |
 | Oh my god - English Version (0.794) | RBB (Really Bad Boy) - English Version (0.717) |
 | Not Shy - English Ver. (0.766) | Bad Boy - English Version, Bonus Track (0.723) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | RBB (Really Bad Boy) - English Version (0.867) | Cat & Dog (English Version) (0.8) |
 | LOCO - English Ver. (0.867) | Life's Too Short (English Version) (0.8) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Life's Too Short (English Version) (0.265) | RBB (Really Bad Boy) - English Version (0.0319) |
@@ -37,6 +50,10 @@
 | ICY - English Ver. (0.111) | WANNABE - English Ver. (0.0587) |
 | Do It Like This - English Version (0.108) | SNEAKERS (English Ver.) (0.0588) |
 | I CAN'T STOP ME (English Version) (0.107) | MORE & MORE (English Version) (0.0613) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | In the morning - English Ver. (0.0672) | Bewitched - Eng Ver. (0.0258) |
 | Make A Wish (Birthday Song) - English Version (0.0582) | DOMINO - English Ver. (0.0277) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Oh my god - English Version (0.000351) | DOMINO - English Ver. (0.0) |
@@ -63,6 +84,10 @@
 | Cat & Dog (English Version) (6.73e-06) | Levanter - English Ver. (0.0) |
 | Regular - English Version (5.15e-06) | Bewitched - Eng Ver. (0.0) |
 | SNEAKERS (English Ver.) (4.61e-06) | SET ME FREE (ENG) (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | ICY - English Ver. (0.215) | Do It Like This - English Version (0.117) |
 | WANNABE - English Ver. (0.192) | LUNATIC (English Ver.) (0.117) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | LUNATIC (English Ver.) (0.894) | HWAA - English Version (0.235) |
@@ -89,3 +118,20 @@
 | DALLA DALLA - English Ver. (0.696) | Highway to Heaven - English Version (0.497) |
 | WANNABE - English Ver. (0.69) | Oh my god - English Version (0.518) |
 | DOMINO - English Ver. (0.69) | LOCO - English Ver. (0.534) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/cursed_english/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| DOMINO - English Ver. (160.063) | Life's Too Short (English Version) (72.203) |
+| Cat & Dog (English Version) (159.926) | Do It Like This - English Version (95.046) |
+| HELICOPTER - English Version (155.035) | HWAA - English Version (95.889) |
+| RBB (Really Bad Boy) - English Version (150.109) | Love Talk - English Version (98.01) |
+| Bad Boy - English Version, Bonus Track (150.011) | LATATA - English Ver. (98.015) |
+| Levanter - English Ver. (149.971) | Not Shy - English Ver. (100.988) |
+| I CAN'T STOP ME (English Version) (149.959) | Make A Wish (Birthday Song) - English Version (101.005) |
+| In the morning - English Ver. (140.108) | LOCO - English Ver. (101.957) |
+| Regular - English Version (134.039) | MORE & MORE (English Version) (106.998) |
+| DALLA DALLA - English Ver. (125.014) | Bewitched - Eng Ver. (109.942) |

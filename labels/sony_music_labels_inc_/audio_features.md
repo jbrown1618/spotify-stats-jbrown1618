@@ -1,4 +1,9 @@
 # Audio Features for Sony Music Labels Inc.
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Make you happy (0.78) | Ave Maria (0.15) |
@@ -11,6 +16,10 @@
 | 炎 (0.477) | 砂の惑星 ( + 初音ミク ) (0.507) |
 | ドライフラワー (0.463) | 白日 (0.599) |
 | Good Vibrations (0.415) | 恋人じゃなくなった日 (0.636) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | ドライフラワー (0.603) | 炎 (0.685) |
 | PINK BLOOD (0.534) | CIRCUS (0.809) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | There (0.122) | ドライフラワー (0.0276) |
@@ -37,6 +50,10 @@
 | ベテルギウス (0.0478) | abnormalize (0.0702) |
 | Ave Maria (0.0411) | PINK BLOOD (0.0893) |
 | All I Ask of You (0.0377) | 砂の惑星 ( + 初音ミク ) (0.0927) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | There (0.19) | ドライフラワー (0.495) |
 | 炎 (0.105) | 恋人じゃなくなった日 (0.549) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | abnormalize (0.151) | 炎 (0.0) |
@@ -63,6 +84,10 @@
 | There (0.0) | 恋人じゃなくなった日 (0.0) |
 | ドライフラワー (0.0) | Make you happy (2.8e-05) |
 | ベテルギウス (0.0) | PINK BLOOD (3.57e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | There (0.106) | PINK BLOOD (0.179) |
 | Make you happy (0.105) | Ave Maria (0.208) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 砂の惑星 ( + 初音ミク ) (0.917) | Ave Maria (0.0558) |
@@ -89,3 +118,20 @@
 | ドライフラワー (0.477) | 恋人じゃなくなった日 (0.487) |
 | abnormalize (0.369) | PINK BLOOD (0.617) |
 | Good Vibrations (0.362) | CIRCUS (0.69) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/sony_music_labels_inc_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| ベテルギウス (179.833) | Good Vibrations (74.177) |
+| Make you happy (160.087) | 恋人じゃなくなった日 (74.996) |
+| 炎 (152.04) | There (79.984) |
+| ドライフラワー (148.089) | abnormalize (87.477) |
+| Ave Maria (102.448) | 白日 (93.029) |
+| PINK BLOOD (100.0) | 砂の惑星 ( + 初音ミク ) (94.874) |
+| CIRCUS (97.958) | All I Ask of You (95.485) |
+| All I Ask of You (95.485) | CIRCUS (97.958) |
+| 砂の惑星 ( + 初音ミク ) (94.874) | PINK BLOOD (100.0) |
+| 白日 (93.029) | Ave Maria (102.448) |

@@ -1,4 +1,9 @@
 # Audio Features for Syco Music
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Worth It (feat. Kid Ink) (0.884) | Consequences (0.455) |
@@ -11,6 +16,10 @@
 | Salute (0.641) | My Oh My (feat. DaBaby) (0.724) |
 | Never Be the Same (0.637) | Living Proof (0.735) |
 | All I Want for Christmas Is You (0.607) | Señorita (0.759) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Señorita (0.539) | Cry for Me (0.805) |
 | Havana (feat. Young Thug) (0.523) | All I Want for Christmas Is You (0.807) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Power (0.211) | Señorita (0.0287) |
@@ -37,6 +50,10 @@
 | Consequences (0.0563) | Never Be the Same (0.0747) |
 | Salute (0.0509) | Living Proof (0.082) |
 | All I Want for Christmas Is You (0.0472) | Worth It (feat. Kid Ink) (0.0882) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Señorita (0.0376) | Living Proof (0.109) |
 | Power (0.0372) | All I Want for Christmas Is You (0.156) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Never Be the Same (0.000637) | Salute (0.0) |
@@ -63,6 +84,10 @@
 | All I Want for Christmas Is You (0.0) | Worth It (feat. Kid Ink) (7.04e-06) |
 | Black Magic (0.0) | My Oh My (feat. DaBaby) (1.29e-05) |
 | Living Proof (0.0) | That's My Girl (3.19e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Havana (feat. Young Thug) (0.132) | All I Want for Christmas Is You (0.241) |
 | Worth It (feat. Kid Ink) (0.118) | Salute (0.285) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Black Magic (0.849) | Never Be the Same (0.243) |
@@ -89,3 +118,20 @@
 | Power (0.517) | All I Want for Christmas Is You (0.53) |
 | Consequences (0.43) | Worth It (feat. Kid Ink) (0.594) |
 | Havana (feat. Young Thug) (0.394) | That's My Girl (0.612) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/syco_music/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| That's My Girl (202.049) | Living Proof (77.566) |
+| Power (172.966) | Salute (82.027) |
+| All I Want for Christmas Is You (151.02) | Consequences (84.339) |
+| Never Be the Same (129.923) | Worth It (feat. Kid Ink) (99.987) |
+| Cry for Me (118.058) | Havana (feat. Young Thug) (104.988) |
+| Señorita (116.959) | My Oh My (feat. DaBaby) (105.046) |
+| Black Magic (111.988) | Black Magic (111.988) |
+| My Oh My (feat. DaBaby) (105.046) | Señorita (116.959) |
+| Havana (feat. Young Thug) (104.988) | Cry for Me (118.058) |
+| Worth It (feat. Kid Ink) (99.987) | Never Be the Same (129.923) |

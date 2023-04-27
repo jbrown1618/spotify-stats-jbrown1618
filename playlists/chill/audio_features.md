@@ -1,4 +1,9 @@
 # Audio Features for Chill
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | I Do (0.898) | Fix You (0.209) |
@@ -11,6 +16,10 @@
 | Heart Burn (0.84) | MY LOVE (0.375) |
 | To the moon (0.835) | Skinny Love (0.379) |
 | Bye (0.824) | Boy in time - HUI Solo (0.385) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | SAY SOMETHING (0.841) | My Everything (0.265) |
 | Stars and Raindrops (Seungmin) (0.827) | Take It All (0.266) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | I Don't Need You (0.422) | With (0.0228) |
@@ -37,6 +50,10 @@
 | GANADARA (Feat. IU) (0.244) | ドライフラワー (0.0276) |
 | Your Existence (0.204) | LOVE FOOL (0.0281) |
 | Not For Sale (0.203) | Yellow (0.0281) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | ONLY (0.892) | Heart Burn (0.0287) |
 | My Everything (0.88) | Sour (0.0334) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | The Night We Met (0.267) | Leave The Door Open (0.0) |
@@ -63,6 +84,10 @@
 | Fix You (0.00196) | For You (0.0) |
 | willow (0.00179) | Done For Me (0.0) |
 | Thinkin Bout You (0.00153) | UN Village (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | NEON (0.379) | Blueming (0.0667) |
 | Show Your Heart 너를 보여줘 (0.37) | All I Got (0.0672) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Cupid (0.943) | Delicate (0.0499) |
@@ -89,3 +118,20 @@
 | Only Look At Me (나만 바라봐) (0.859) | U (0.137) |
 | What Do I Call You (0.835) | Gravity (0.142) |
 | I Got Love (0.828) | Lucid Dream (0.146) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/chill/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| 11:11 (203.155) | Dream (48.973) |
+| Sweet (195.738) | Bambi (61.45) |
+| Not For Sale (192.13) | My Everything (61.975) |
+| I’ll BE THERE (185.657) | imagine (62.52) |
+| Automatic (179.938) | MISSING U (71.967) |
+| HOLO (179.914) | Hello, Sunset (71.999) |
+| Hurt (179.877) | Wine (72.022) |
+| HANN (Alone in winter) (179.855) | Life's Too Short (English Version) (72.203) |
+| BUTTERFLY (179.851) | miss you (Hyunjin) (72.96) |
+| I Love You 3000 II (179.727) | Rose (74.703) |

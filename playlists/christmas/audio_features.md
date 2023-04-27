@@ -1,4 +1,9 @@
 # Audio Features for Christmas
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Christmas EveL (0.878) | The Christmas Song (0.226) |
@@ -11,6 +16,10 @@
 | Grandma Got Run over by a Reindeer (0.781) | All I Want for Christmas Is You (0.336) |
 | This Christmas (0.769) | It's Beginning to Look a Lot like Christmas (0.339) |
 | Snowy (0.766) | Lover (0.359) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Candy Cane (0.848) | Walking in the Air (0.184) |
 | Butter (Holiday Remix) (0.838) | A Holly Jolly Christmas (0.186) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | You're A Mean One, Mr. Grinch (0.318) | It's the Most Wonderful Time of the Year (0.0256) |
@@ -37,6 +50,10 @@
 | Lover (0.0919) | Sleigh Ride (0.0287) |
 | Christmassy! (0.0772) | 24 to 25 (0.0288) |
 | When It Snows mmm (feat. Wheein) (0.0768) | Sleigh Ride (0.029) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Let It Snow! Let It Snow! Let It Snow! (0.912) | Santa Tell Me (0.0489) |
 | It's Beginning to Look a Lot like Christmas (0.908) | Santa Baby (0.0501) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | White Christmas (0.353) | Winter Falls (0.0) |
@@ -63,6 +84,10 @@
 | A Holly Jolly Christmas (0.00314) | All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey (0.0) |
 | Blue Christmas (0.00104) | Christmassy! (0.0) |
 | O Come, O Come Emmanuel (0.000413) | Beautiful Christmas (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | The 12 Days of Christmas (0.378) | Silent Night (0.0735) |
 | Santa Baby (0.364) | A Holly Jolly Christmas - Single Version (0.076) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version (0.976) | Santa Claus Is Comin' to Town (0.0815) |
@@ -89,3 +118,20 @@
 | A Holly Jolly Christmas - Single Version (0.888) | Merry-Chri (0.235) |
 | Christmas EveL (0.878) | White Christmas (0.247) |
 | Butter (Holiday Remix) (0.87) | Solo Christmas (0.248) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/christmas/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Last Christmas (205.945) | Carol of the Bells (46.718) |
+| Merry Christmas (197.918) | Rockin' Around The Christmas Tree (67.196) |
+| Santa Tell Me (191.9) | Winter Sleep (68.045) |
+| Carol of the Bells (171.857) | Lover (68.534) |
+| The First Snow - Chinese Version (165.978) | THE CHRISTMAS SONG (74.004) |
+| The Christmas Song (163.863) | Have Yourself A Merry Little Christmas (75.248) |
+| Mistletoe (161.993) | Rockin' Around the Christmas Tree (75.523) |
+| Sleigh Ride (154.759) | Santa Baby (76.273) |
+| Merry & Happy (154.077) | Silent Night (77.58) |
+| All I Want for Christmas Is You (151.02) | The Christmas Song (Merry Christmas To You) (78.696) |

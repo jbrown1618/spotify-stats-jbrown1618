@@ -1,4 +1,9 @@
 # Audio Features for LeeHi
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 1, 2, 3, 4 (0.905) | MY LOVE (0.375) |
@@ -11,6 +16,10 @@
 | Red Lipstick (feat. Yoonmirae) (0.761) | BREATHE (0.616) |
 | FXXK WIT US (0.761) | NO ONE (0.745) |
 | Rose (0.756) | Intentions (0.745) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | HOLD MY HAND (0.64) | MISSING U (0.552) |
 | It's Over (0.64) | NO ONE (0.613) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | FXXK WIT US (0.163) | HOLO (0.0295) |
@@ -37,6 +50,10 @@
 | Bittersweet (feat. LeeHi) (0.0425) | Rose (0.0374) |
 | Intentions (0.0416) | Savior (feat. B.I) (0.0377) |
 | MY STAR (0.039) | BREATHE (0.038) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | For You (Holiday Remix) - Spotify Singles Holiday (0.567) | Waterride (0.227) |
 | Bittersweet (feat. LeeHi) (0.425) | 1, 2, 3, 4 (0.368) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Savior (feat. B.I) (1.53e-05) | For You (0.0) |
@@ -63,6 +84,10 @@
 | FXXK WIT US (0.0) | HOLO (0.0) |
 | ONLY (0.0) | MY LOVE (0.0) |
 | Rose (0.0) | MISSING U (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Intentions (0.117) | 1, 2, 3, 4 (0.0881) |
 | For You (0.107) | FXXK WIT US (0.0936) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 1, 2, 3, 4 (0.955) | ONLY (0.151) |
@@ -89,3 +118,20 @@
 | Intentions (0.698) | FXXK WIT US (0.397) |
 | It's Over (0.614) | Savior (feat. B.I) (0.401) |
 | NO ONE (0.542) | Rose (0.401) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/leehi/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| HOLO (179.914) | MISSING U (71.967) |
+| NO WAY (136.258) | FXXK WIT US (80.037) |
+| Intentions (131.881) | For You (83.936) |
+| Rose (124.977) | Waterride (90.002) |
+| BREATHE (123.802) | For You (Holiday Remix) - Spotify Singles Holiday (91.777) |
+| ONLY (122.907) | NO ONE (91.996) |
+| MY LOVE (121.879) | Savior (feat. B.I) (94.958) |
+| It's Over (120.006) | Bye (103.994) |
+| 1, 2, 3, 4 (115.962) | Red Lipstick (feat. Yoonmirae) (107.021) |
+| MY STAR (114.978) | HOLD MY HAND (109.966) |

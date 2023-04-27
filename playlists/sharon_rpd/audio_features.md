@@ -1,4 +1,9 @@
 # Audio Features for Sharon RPD
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | ANTIFRAGILE (0.882) | Black Mamba (0.52) |
@@ -11,6 +16,10 @@
 | Ditto (0.814) | MIC Drop (Steve Aoki Remix) - Full Length Edition (0.606) |
 | Attention (0.811) | Missing You (0.633) |
 | LALISA (0.806) | Step Back (0.636) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | GAMBLER (0.861) | LALISA (0.653) |
 | Break My Heart Myself (feat. Travis Barker) (0.857) | Psycho (0.666) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Ice Cream (with Selena Gomez) (0.365) | ASAP (0.0351) |
@@ -37,6 +50,10 @@
 | GAMBLER (0.152) | OMG (0.0433) |
 | Pink Venom (0.145) | Psycho (0.0446) |
 | FEARLESS (0.135) | Illusion (0.0468) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Queendom (0.179) | Holiday Party (0.00846) |
 | ASAP (0.102) | Pretty Savage (0.00886) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | FEARLESS (0.00324) | Shut Down (0.0) |
@@ -63,6 +84,10 @@
 | Doom Du Doom (4.82e-05) | Ay-Yo (0.0) |
 | LOCO (2.04e-05) | Attention (0.0) |
 | Illusion (1.75e-05) | Missing You (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Ay-Yo (0.317) | Attention (0.0761) |
 | Hype Boy (0.286) | Break My Heart Myself (feat. Travis Barker) (0.0801) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Ice Cream (with Selena Gomez) (0.91) | Ditto (0.183) |
@@ -89,3 +118,20 @@
 | City Girls (0.815) | Holiday Party (0.417) |
 | Boy With Luv (feat. Halsey) (0.803) | DUMB DUMB (0.424) |
 | Thunderous (0.79) | FEARLESS (0.432) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/sharon_rpd/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Pink Venom (180.169) | FEVER (72.999) |
+| Thunderous (172.156) | Run BTS (77.004) |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition (170.01) | Holiday Party (87.993) |
+| Missing You (168.05) | Ay-Yo (90.002) |
+| Step Back (161.897) | Illusion (90.027) |
+| Ice Cream (with Selena Gomez) (159.972) | Black Mamba (90.069) |
+| Dope (153.991) | BAD GIRL (Prod. Czaer) (92.0) |
+| Pretty Savage (152.045) | City Girls (92.033) |
+| LALISA (150.058) | Alcohol-Free (97.097) |
+| Psycho (139.987) | PLAYING WITH FIRE (97.098) |

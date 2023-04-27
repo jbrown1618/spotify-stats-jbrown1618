@@ -1,4 +1,9 @@
 # Audio Features for WM Korea
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | POSE (0.823) | Solo Christmas (0.416) |
@@ -11,6 +16,10 @@
 | What You Wanted (0.709) | NANANA (0.706) |
 | NANANA (0.706) | What You Wanted (0.709) |
 | When It Snows mmm (feat. Wheein) (0.69) | Movie Star (0.718) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | I Don't Need You (0.744) | What You Wanted (0.77) |
 | POSE (0.72) | Pity Party (0.792) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | I Don't Need You (0.422) | NANANA (0.0277) |
@@ -37,6 +50,10 @@
 | Running Through The Night (0.0562) | Movie Star (0.0553) |
 | Movie Star (0.0553) | Running Through The Night (0.0562) |
 | Jungle (0.0539) | Flip That (0.0569) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Sugarcoat (0.105) | Movie Star (0.107) |
 | Pity Party (0.0933) | Jungle (0.142) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | POSE (0.000172) | Jungle (0.0) |
@@ -63,6 +84,10 @@
 | Movie Star (0.0) | Excalibur (0.0) |
 | Excalibur (0.0) | Movie Star (0.0) |
 | Mr. Santa (0.0) | Solo Christmas (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Jungle (0.198) | Make Me Happy (0.205) |
 | Solo Christmas (0.187) | Running Through The Night (0.266) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pity Party (0.749) | POSE (0.195) |
@@ -89,3 +118,20 @@
 | NANANA (0.601) | What You Wanted (0.586) |
 | What You Wanted (0.586) | NANANA (0.601) |
 | Mr. Santa (0.517) | BREATHE (0.605) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/wm_korea/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Jungle (146.065) | Excalibur (87.891) |
+| What You Wanted (145.921) | When It Snows mmm (feat. Wheein) (87.971) |
+| I Don't Need You (143.059) | Running Through The Night (92.039) |
+| NANANA (137.006) | Mr. Santa (99.936) |
+| Solo Christmas (131.072) | Make Me Happy (104.055) |
+| Pity Party (124.988) | Sugarcoat (109.964) |
+| BREATHE (124.954) | Movie Star (111.967) |
+| POSE (120.007) | Flip That (112.045) |
+| Flip That (112.045) | POSE (120.007) |
+| Movie Star (111.967) | BREATHE (124.954) |

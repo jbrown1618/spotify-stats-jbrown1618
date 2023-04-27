@@ -1,4 +1,9 @@
 # Audio Features for Debussy
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Études, L. 136: II. Pour les Accords (0.464) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (0.0633) |
@@ -11,6 +16,10 @@
 | Suite Bergamasque, L. 75: Passepied (0.337) | Children's Corner, L. 113: II. The Snow is Dancing (0.25) |
 | Clair de Lune, L. 32 (0.335) | Estampes, L. 100: Jardins sous La Pluie (0.257) |
 | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.333) | Images, Set 1, L. 110: Reflets dans L'eau (0.272) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Masques, L. 105 (0.0584) | Préludes Book 2, L. 123: I. General Lavine (0.0126) |
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0529) | Études, L. 136: I. Pour les Arpeges Composes (0.0175) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Préludes Book 2, L. 123: II. Canope (0.0681) | Préludes Book 1, L. 117: IV. Minstrels (0.0315) |
@@ -37,6 +50,10 @@
 | La Plus que Lente, L. 121 (0.0499) | Clair de Lune, L. 32 (0.0376) |
 | La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (0.0435) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (0.0394) |
 | Préludes Book 2, L. 123: I. General Lavine (0.0432) | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0398) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.994) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.992) |
 | Estampes, L. 100: Jardins sous La Pluie (0.993) | Images, Set 1, L. 110: Reflets dans L'eau (0.992) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Estampes, L. 100: Jardins sous La Pluie (0.948) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.435) |
@@ -63,6 +84,10 @@
 | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.925) | Masques, L. 105 (0.882) |
 | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.921) | Préludes Book 2, L. 123: I. General Lavine (0.885) |
 | Clair de Lune, L. 32 (0.912) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.887) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0905) | Préludes Book 1, L. 117: IV. Minstrels (0.0675) |
 | Suite Bergamasque, L. 75: Passepied (0.0898) | Études, L. 136: I. Pour les Arpeges Composes (0.071) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.414) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0327) |
@@ -89,3 +118,20 @@
 | La Plus que Lente, L. 121 (0.105) | Études, L. 136: II. Pour les Accords (0.0382) |
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0853) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.0383) |
 | Études, L. 136: I. Pour les Arpeges Composes (0.0539) | Clair de Lune, L. 32 (0.0397) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/debussy/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Études, L. 136: I. Pour les Arpeges Composes (139.878) | La Mer, L.109: 1. From Dawn Till Noon On The Sea (De l'aube à midi sur la mer) (61.399) |
+| La Mer, L.109: 2. Play of the Waves (Jeux de vagues) (113.292) | Clair de Lune, L. 32 (65.832) |
+| La Fille aux Cheveux de Lin, L. 33 (109.601) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (66.573) |
+| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (106.359) | Images, Set 1, L. 110: Reflets dans L'eau (69.004) |
+| Children's Corner, L. 113: II. The Snow is Dancing (105.073) | La Plus que Lente, L. 121 (70.119) |
+| Estampes, L. 100: Jardins sous La Pluie (104.424) | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (72.406) |
+| Études, L. 136: II. Pour les Accords (100.118) | Préludes Book 2, L. 123: II. Canope (74.461) |
+| Préludes Book 2, L. 123: I. General Lavine (95.819) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (80.257) |
+| Préludes Book 1, L. 117: IV. Minstrels (94.043) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (81.577) |
+| Préludes Book 2, L. 123: III. Feux d'Artifice (92.939) | La Mer, L.109: 3. Dialogue Of The Wind And The Sea (82.914) |

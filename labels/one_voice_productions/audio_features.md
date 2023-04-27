@@ -1,4 +1,9 @@
 # Audio Features for One Voice Productions
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | The Fox (0.758) | Greensleeves (0.173) |
@@ -11,6 +16,10 @@
 | Scarborough Fair (0.29) | Loch Lomond (0.381) |
 | Danny Boy (0.205) | Shenandoah (0.398) |
 | Amazing Grace (0.187) | Poor Wayfaring Stranger (0.414) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Greensleeves (0.168) | Shenandoah (0.281) |
 | Danny Boy (0.147) | The Parting Glass (0.34) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | The Parting Glass (0.0419) | Loch Lomond (0.0274) |
@@ -37,6 +50,10 @@
 | At the Beginning (0.0328) | Poor Wayfaring Stranger (0.0352) |
 | Amazing Grace (0.0328) | The Fox (0.038) |
 | Loch Lomond (0.0324) | Scarborough Fair (0.0389) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Poor Wayfaring Stranger (0.782) | Loch Lomond (0.903) |
 | Amazing Grace (0.731) | Loch Lomond (0.911) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Shenandoah (0.00336) | Poor Wayfaring Stranger (0.0) |
@@ -63,6 +84,10 @@
 | Loch Lomond (0.0) | The Water is Wide (0.0) |
 | The Fox (0.0) | Amazing Grace (0.0) |
 | Loch Lomond (0.0) | Danny Boy (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Poor Wayfaring Stranger (0.111) | Danny Boy (0.141) |
 | Loch Lomond (0.103) | The Parting Glass (0.152) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | The Fox (0.849) | Loch Lomond (0.101) |
@@ -89,3 +118,20 @@
 | Shenandoah (0.226) | Amazing Grace (0.292) |
 | Scarborough Fair (0.208) | Loch Lomond (0.319) |
 | Greensleeves (0.208) | Danny Boy (0.349) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/one_voice_productions/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Danny Boy (174.825) | The Water is Wide (72.35) |
+| The Parting Glass (147.917) | Amazing Grace (75.97) |
+| Loch Lomond (144.108) | Greensleeves (77.72) |
+| Loch Lomond (136.283) | Shenandoah (86.034) |
+| Scarborough Fair (121.875) | At the Beginning (93.934) |
+| Poor Wayfaring Stranger (121.586) | The Fox (119.763) |
+| The Fox (119.763) | Poor Wayfaring Stranger (121.586) |
+| At the Beginning (93.934) | Scarborough Fair (121.875) |
+| Shenandoah (86.034) | Loch Lomond (136.283) |
+| Greensleeves (77.72) | Loch Lomond (144.108) |

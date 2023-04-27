@@ -1,4 +1,9 @@
 # Audio Features for Stray Kids
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | RUN (HAN) (0.929) | CHEESE (0.376) |
@@ -11,6 +16,10 @@
 | CASE 143 (0.812) | MIROH (0.564) |
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.79) | Awkward Silence (0.577) |
 | Charmer (0.786) | Levanter - English Ver. (0.581) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | DOMINO - English Ver. (0.877) | Drive (Bang Chan, Lee Know) (0.703) |
 | Silent Cry (0.876) | Levanter - English Ver. (0.727) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | MANIAC (0.411) | 24 to 25 (0.0288) |
@@ -37,6 +50,10 @@
 | RUN (HAN) (0.238) | Maknae On Top (I.N) (0.0465) |
 | Thunderous (0.234) | DOMINO (0.0466) |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix) (0.231) | Chronosaurus (0.0488) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Chronosaurus (0.289) | Voices (0.0205) |
 | Awkward Silence (0.288) | Side Effects (0.0219) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Maknae On Top (I.N) (1.97e-05) | SUPER BOARD (0.0) |
@@ -63,6 +84,10 @@
 | Give Me Your TMI (0.0) | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.0) |
 | Awkward Silence (0.0) | Drive (Bang Chan, Lee Know) (0.0) |
 | There (0.0) | Thunderous (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Blueprint (0.287) | MANIAC (0.0697) |
 | Silent Cry (0.281) | Hug Me (I.N) (0.0716) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.916) | Side Effects (0.118) |
@@ -89,3 +118,20 @@
 | Thunderous (0.79) | 24 to 25 (0.376) |
 | Awkward Silence (0.765) | Easy (0.388) |
 | RUN (HAN) (0.749) | Mixtape : Time Out (0.389) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/stray_kids/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Awkward Silence (199.981) | miss you (Hyunjin) (72.96) |
+| District 9 (179.987) | I GOT IT (HAN) (75.698) |
+| Thunderous (172.156) | Hellevator (78.17) |
+| DOMINO (160.066) | There (79.984) |
+| DOMINO - English Ver. (160.063) | CHEESE (89.657) |
+| Mixtape : Time Out (160.006) | Muddy Water (Changbin, Hyunjin, HAN, Felix) (89.989) |
+| FREEZE (159.874) | Drive (Bang Chan, Lee Know) (89.998) |
+| God’s Menu (157.052) | i hate to admit (Bang Chan) (90.013) |
+| Levanter - English Ver. (149.971) | Charmer (90.963) |
+| Voices (149.967) | 24 to 25 (92.01) |

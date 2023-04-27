@@ -1,4 +1,9 @@
 # Audio Features for BIGHIT MUSIC
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Chicken Noodle Soup (feat. Becky G) (0.826) | AMYGDALA (0.311) |
@@ -11,6 +16,10 @@
 | Airplane pt.2 (0.77) | Life Goes On (0.566) |
 | People (0.76) | The Truth Untold (feat. Steve Aoki) (0.571) |
 | Butter (0.759) | Mikrokosmos (0.579) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Danger (0.868) | FAKE LOVE (0.719) |
 | Boy With Luv (feat. Halsey) (0.862) | MORE (0.722) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | No More Dream (0.472) | Lie (0.033) |
@@ -37,6 +50,10 @@
 | MIC Drop (Steve Aoki Remix) - Full Length Edition (0.183) | The Truth Untold (feat. Steve Aoki) (0.0422) |
 | Pandora's Box (0.178) | Life Goes On (0.0424) |
 | Run BTS (0.168) | HOME (0.0427) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Pandora's Box (0.198) | IDOL (0.00481) |
 | dimple (0.142) | Chicken Noodle Soup (feat. Becky G) (0.00502) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Singularity (0.00278) | Moonlight (0.0) |
@@ -63,6 +84,10 @@
 | Burn It (feat. MAX) (2.1e-06) | Lie (0.0) |
 | Spring Day (1.71e-06) | Black Swan (0.0) |
 | No More Dream (1.6e-06) | Pandora's Box (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | ON (0.338) | Butter (0.0906) |
 | Pandora's Box (0.326) | on the street (with J. Cole) (0.0921) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Butter (Holiday Remix) (0.87) | AMYGDALA (0.16) |
@@ -89,3 +118,20 @@
 | Like (0.768) | Butterfly (0.294) |
 | Anpanman (0.757) | MORE (0.306) |
 | Dynamite (0.737) | Burn It (feat. MAX) (0.336) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/bighit_music/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Mikrokosmos (174.043) | Run BTS (77.004) |
+| MIC Drop (Steve Aoki Remix) - Full Length Edition (170.01) | FAKE LOVE (77.502) |
+| MIC Drop (169.959) | AMYGDALA (78.265) |
+| No More Dream (167.766) | Life Goes On (81.068) |
+| Boy in Luv (166.236) | Haegeum (85.097) |
+| Dope (153.991) | People Pt.2 (feat. IU) (88.94) |
+| Butterfly (149.806) | Strange (feat. RM) (90.008) |
+| Black Swan (147.024) | Blood Sweat & Tears (92.9) |
+| Daechwita (144.995) | Lie (94.069) |
+| HOME (142.991) | on the street (with J. Cole) (94.074) |

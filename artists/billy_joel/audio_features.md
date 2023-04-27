@@ -1,4 +1,9 @@
 # Audio Features for Billy Joel
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | My Life (0.741) | She's Always a Woman (0.292) |
@@ -11,6 +16,10 @@
 | The Longest Time (0.637) | She's Got a Way (0.495) |
 | The River of Dreams (0.631) | New York State of Mind (0.506) |
 | Just the Way You Are (0.589) | Big Shot (0.52) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Don't Ask Me Why (0.726) | Piano Man (0.477) |
 | Pressure (0.68) | Vienna (0.495) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Only the Good Die Young (0.159) | The Longest Time (0.0262) |
@@ -37,6 +50,10 @@
 | We Didn't Start the Fire (0.047) | She's Always a Woman (0.0346) |
 | Uptown Girl (0.0455) | New York State of Mind (0.0347) |
 | Captain Jack (0.0447) | And So It Goes (0.0361) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Captain Jack (0.562) | The Stranger (0.165) |
 | New York State of Mind (0.499) | The Longest Time (0.181) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | My Life (0.00139) | And So It Goes (0.0) |
@@ -63,6 +84,10 @@
 | Just the Way You Are (2.54e-05) | Vienna (0.0) |
 | And So It Goes (1.98e-05) | She's Got a Way (1.93e-06) |
 | Movin' Out (Anthony's Song) (1.63e-05) | Piano Man (4.17e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | And So It Goes (0.139) | Don't Ask Me Why (0.11) |
 | Just the Way You Are (0.134) | And So It Goes (0.113) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Movin' Out (Anthony's Song) (0.895) | New York State of Mind (0.194) |
@@ -89,3 +118,20 @@
 | Only the Good Die Young (0.761) | Scenes from an Italian Restaurant (0.339) |
 | Big Shot (0.728) | She's Always a Woman (0.384) |
 | The Longest Time (0.588) | Piano Man (0.405) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/billy_joel/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Piano Man (179.239) | She's Got a Way (75.859) |
+| She's Always a Woman (176.631) | Only the Good Die Young (76.214) |
+| Big Shot (149.861) | Lullabye (Goodnight, My Angel) (76.48) |
+| Pressure (148.494) | The Longest Time (84.347) |
+| Captain Jack (146.657) | The River of Dreams (89.646) |
+| We Didn't Start the Fire (145.024) | The Stranger (91.881) |
+| Just the Way You Are (139.148) | Scenes from an Italian Restaurant (97.953) |
+| And So It Goes (135.498) | Don't Ask Me Why (98.418) |
+| Movin' Out (Anthony's Song) (133.898) | A Matter of Trust (110.304) |
+| My Life (131.097) | New York State of Mind (121.289) |

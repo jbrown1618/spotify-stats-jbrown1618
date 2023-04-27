@@ -1,4 +1,9 @@
 # Audio Features for R&B
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Coño (0.899) | I'd Rather Go Blind (0.326) |
@@ -11,6 +16,10 @@
 | Crazy (0.835) | Listen (From the Motion Picture "Dreamgirls") (0.432) |
 | Don't Stop The Music (0.835) | Irreplaceable (0.447) |
 | You Right (0.828) | So Sick (0.452) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Sweet Dreams (0.825) | Papa Was A Rollin' Stone - Single Version (0.405) |
 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) (0.817) | Make Me Feel (0.413) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hold Up (0.405) | I'd Rather Go Blind (0.0247) |
@@ -37,6 +50,10 @@
 | Talk Dirty (feat. 2 Chainz) (0.232) | Love's Train (0.031) |
 | Crazy In Love (feat. Jay-Z) (0.226) | If I Were a Boy (0.0313) |
 | Boss Bitch (0.222) | I'd Rather Go Blind (0.032) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | How Can I (0.759) | S&M (0.0113) |
 | Hold Up (0.745) | That's What I Like (0.013) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Partition (0.0707) | Leave The Door Open (0.0) |
@@ -63,6 +84,10 @@
 | I Like That (0.00243) | Best Part (feat. H.E.R.) (0.0) |
 | You Right (0.00233) | Ave Maria (0.0) |
 | Thinkin Bout You (0.00153) | When I Get You Alone (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Daddy Lessons (0.349) | Don't Stop The Music (0.0535) |
 | Make Me Feel (0.334) | When I Get You Alone (0.0549) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Finesse (0.939) | Stay (0.125) |
@@ -89,3 +118,20 @@
 | Build Me Up Buttercup (0.855) | I Was Here (0.235) |
 | For Once In My Life (0.847) | Grenade (0.245) |
 | S&M (0.833) | There Goes My Baby (0.257) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/r_b/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| What Now (180.158) | When I Was Your Man (72.795) |
+| MONTERO (Call Me By Your Name) (178.818) | Best Part (feat. H.E.R.) (75.24) |
+| Partition (175.928) | There Goes My Baby (77.468) |
+| Irreplaceable (175.868) | Green Light (feat. André 3000) (77.506) |
+| Umbrella (174.028) | Tomboy (77.998) |
+| Love On The Brain (172.006) | Baby Powder (78.456) |
+| How Can I (171.81) | Halo (79.983) |
+| Blinding Lights (171.005) | Hold Up (80.744) |
+| Watch n' Learn (168.01) | Sure Thing (81.001) |
+| Tightrope (feat. Big Boi) - Big Boi Vocal Edit (167.978) | Trumpets (82.142) |

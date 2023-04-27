@@ -1,4 +1,9 @@
 # Audio Features for A Cappella
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Uptown Funk (0.847) | Gollum's Song (0.0835) |
@@ -11,6 +16,10 @@
 | Finesse (0.763) | The End (Interlude) (0.176) |
 | bad guy (0.76) | Bluebird (0.184) |
 | The Fox (0.758) | Amazing Grace (0.187) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Finesse (0.836) | Run to You (0.0622) |
 | Telephone (0.832) | All I Ask of You (0.0636) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack (0.433) | We Found Love (0.0244) |
@@ -37,6 +50,10 @@
 | Hamilton Medley (0.231) | We All Need Saving (0.0273) |
 | I'd Like To (0.213) | Loch Lomond (0.0274) |
 | Cry Me a River (0.19) | Demons (0.0276) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] (0.973) | Problem (0.0204) |
 | Prelude No.1 in C Major (0.972) | Wrecking Ball (0.0208) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Prelude No.1 in C Major (0.977) | Say Something (0.0) |
@@ -63,6 +84,10 @@
 | Falling Slowly (0.019) | Poor Wayfaring Stranger (0.0) |
 | Shenandoah - Arr. Bob Chilcott (0.0127) | Greensleeves (0.0) |
 | Ave Maria (0.00671) | Phoenix (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Bei Mir Bist Du Schön (0.391) | I Knew You Were Trouble (0.0531) |
 | Havana (0.385) | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.0551) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Big Yellow Taxi (0.924) | Shenandoah - Arr. Bob Chilcott (0.0364) |
@@ -89,3 +118,20 @@
 | The Fox (0.849) | The Sound of Silence (0.0476) |
 | Toxic (0.842) | Ave Maria (0.0558) |
 | I'd Like To (0.831) | The Music of the Night (0.0584) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/a_cappella/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Attention (204.19) | Gollum's Song (49.588) |
+| Hey Momma / Hit the Road Jack (203.068) | The Prayer (62.132) |
+| On The 4th Of July (199.616) | Bluebird (66.753) |
+| Crazy In Love (198.465) | Shenandoah - Arr. Bob Chilcott (67.944) |
+| The Man Who Can't Be Moved (198.008) | The Music of the Night (70.887) |
+| Gunpowder & Lead (187.614) | Lullabye (Goodnight, My Angel) (72.306) |
+| The Boxer (181.849) | The Water is Wide (72.35) |
+| Carolina State of Mind (180.209) | Lullabye (Goodnight My Angel) (72.925) |
+| Bring Him Home (179.945) | Speechless (72.971) |
+| My Happy Ending (175.719) | Cry Me a River (72.975) |

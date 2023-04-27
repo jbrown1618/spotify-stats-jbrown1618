@@ -1,4 +1,9 @@
 # Audio Features for Taylor Swift
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | I Think He Knows (0.897) | exile (feat. Bon Iver) (0.298) |
@@ -11,6 +16,10 @@
 | the 1 (0.777) | Begin Again (0.53) |
 | Look What You Made Me Do (0.766) | august (0.532) |
 | Santa Baby (0.759) | no body, no crime (feat. HAIM) (0.546) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | You Belong With Me (0.783) | tolerate it (0.361) |
 | Last Christmas (0.77) | Midnight Rain (0.363) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Vigilante Shit (0.39) | All Too Well (0.0243) |
@@ -37,6 +50,10 @@
 | Cruel Summer (0.157) | Back To December (0.0303) |
 | ...Ready For It? (0.136) | Love Story (0.031) |
 | Gorgeous (0.135) | Welcome To New York (0.0324) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | the 1 (0.757) | London Boy (0.0246) |
 | False God (0.736) | Dress (0.0329) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Wildest Dreams (0.00593) | Clean (0.0) |
@@ -63,6 +84,10 @@
 | Delicate (0.000357) | illicit affairs (0.0) |
 | I Think He Knows (0.000353) | ME! (feat. Brendon Urie of Panic! At The Disco) (0.0) |
 | cardigan (0.000345) | Death By A Thousand Cuts (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Welcome To New York (0.304) | Bejeweled (0.0887) |
 | Question...? (0.296) | Red (0.091) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Shake It Off (0.943) | Maroon (0.0374) |
@@ -89,3 +118,20 @@
 | Last Christmas (0.685) | epiphany (0.113) |
 | I Knew You Were Trouble. (0.679) | exile (feat. Bon Iver) (0.152) |
 | Forever & Always (Taylor’s Version) (0.673) | Vigilante Shit (0.163) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/taylor_swift/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| ME! (feat. Brendon Urie of Panic! At The Disco) (182.162) | Lover (68.534) |
+| Sweet Nothing (176.655) | tolerate it (74.952) |
+| Cruel Summer (169.994) | exile (feat. Bon Iver) (75.602) |
+| Bejeweled (163.999) | I Knew You Were Trouble. (77.019) |
+| Mean (163.974) | no body, no crime (feat. HAIM) (79.015) |
+| This Is Why We Can't Have Nice Things (163.96) | Begin Again (79.025) |
+| Call It What You Want (163.954) | Vigilante Shit (79.846) |
+| Dancing With Our Hands Tied (160.024) | False God (79.97) |
+| Shake It Off (160.015) | willow (81.112) |
+| ...Ready For It? (160.015) | I Did Something Bad (82.989) |

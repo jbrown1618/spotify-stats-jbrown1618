@@ -1,4 +1,9 @@
 # Audio Features for BAEKHYUN
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Get You Alone (0.777) | U (0.301) |
@@ -11,6 +16,10 @@
 | Stars (0.62) | Bungee (0.676) |
 | Bambi (0.438) | Cry For Love (0.706) |
 | All I Got (0.417) | Dream (0.718) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Amusement Park (0.562) | Bungee (0.758) |
 | Dream (0.476) | Candy (0.767) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Dream (0.139) | Get You Alone (0.0319) |
@@ -37,6 +50,10 @@
 | Stars (0.0365) | Cry For Love (0.0483) |
 | U (0.036) | UN Village (0.112) |
 | Amusement Park (0.0333) | All I Got (0.127) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | All I Got (0.249) | Bungee (0.611) |
 | Candy (0.24) | U (0.834) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | U (1.75e-05) | UN Village (0.0) |
@@ -63,6 +84,10 @@
 | All I Got (0.0) | Bambi (0.0) |
 | Amusement Park (0.0) | Candy (0.0) |
 | Stars (0.0) | Bungee (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Dream (0.0876) | Bambi (0.214) |
 | Bungee (0.085) | Stars (0.233) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | All I Got (0.719) | U (0.137) |
@@ -89,3 +118,20 @@
 | Dream (0.448) | Stars (0.591) |
 | Bambi (0.386) | Get You Alone (0.604) |
 | Amusement Park (0.299) | Candy (0.608) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/baekhyun/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| All I Got (150.055) | Dream (48.973) |
+| Candy (149.918) | Bambi (61.45) |
+| U (136.095) | UN Village (83.985) |
+| Cry For Love (136.078) | Amusement Park (84.925) |
+| Get You Alone (110.055) | Stars (91.028) |
+| Bungee (93.979) | Bungee (93.979) |
+| Stars (91.028) | Get You Alone (110.055) |
+| Amusement Park (84.925) | Cry For Love (136.078) |
+| UN Village (83.985) | U (136.095) |
+| Bambi (61.45) | Candy (149.918) |

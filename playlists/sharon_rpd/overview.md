@@ -153,7 +153,7 @@
 | 1 | 1 | PLAY M ENTERTAINMENT CORP. |
 | 1 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 1 | 1 | Epidemic Sound |
-| 1 | 1 | 88rising Music |
+| 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 1 | 0 | THEBLACKLABEL |
 | 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |

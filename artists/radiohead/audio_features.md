@@ -1,4 +1,9 @@
 # Audio Features for Radiohead
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | All I Need (0.67) | Pyramid Song (0.127) |
@@ -11,6 +16,10 @@
 | Jigsaw Falling Into Place (0.462) | High and Dry (0.419) |
 | High and Dry (0.419) | Jigsaw Falling Into Place (0.462) |
 | Karma Police (0.36) | Fake Plastic Trees (0.463) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Everything In Its Right Place (0.463) | All I Need (0.478) |
 | Street Spirit (Fade Out) (0.454) | Karma Police (0.501) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Paranoid Android (0.0579) | High and Dry (0.0256) |
@@ -37,6 +50,10 @@
 | Pyramid Song (0.0329) | There, There (0.0323) |
 | There, There (0.0323) | Pyramid Song (0.0329) |
 | Let Down (0.0313) | Exit Music (For A Film) (0.0349) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Jigsaw Falling Into Place (0.108) | Fake Plastic Trees (0.167) |
 | High and Dry (0.0724) | Exit Music (For A Film) (0.224) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Weird Fishes/ Arpeggi (0.756) | Karma Police (9.32e-05) |
@@ -63,6 +84,10 @@
 | Let Down (0.113) | Fake Plastic Trees (0.0997) |
 | Fake Plastic Trees (0.0997) | Let Down (0.113) |
 | Everything In Its Right Place (0.0482) | Exit Music (For A Film) (0.122) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Pyramid Song (0.111) | No Surprises (0.113) |
 | There, There (0.108) | Creep (0.129) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Jigsaw Falling Into Place (0.807) | Everything In Its Right Place (0.0629) |
@@ -89,3 +118,20 @@
 | Exit Music (For A Film) (0.195) | Let Down (0.143) |
 | Let Down (0.143) | Exit Music (For A Film) (0.195) |
 | Fake Plastic Trees (0.135) | Weird Fishes/ Arpeggi (0.199) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/radiohead/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Jigsaw Falling Into Place (165.653) | Fake Plastic Trees (73.543) |
+| Paranoid Android (163.709) | Karma Police (74.807) |
+| Weird Fishes/ Arpeggi (152.958) | No Surprises (76.426) |
+| Street Spirit (Fade Out) (138.076) | Pyramid Song (77.078) |
+| There, There (126.482) | High and Dry (87.568) |
+| Everything In Its Right Place (123.943) | All I Need (88.014) |
+| Exit Music (For A Film) (121.603) | Creep (91.844) |
+| Reckoner (104.271) | Let Down (102.46) |
+| Let Down (102.46) | Reckoner (104.271) |
+| Creep (91.844) | Exit Music (For A Film) (121.603) |

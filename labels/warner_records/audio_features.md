@@ -1,16 +1,25 @@
 # Audio Features for Warner Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Pretty Please (0.906) | Does He Love You? (0.317) |
-| Bubblegum (feat. Tyga) (0.856) | Iron Man (0.332) |
-| Good Intent (0.851) | Feeling Good (0.345) |
-| Dreams - 2004 Remaster (0.828) | Knights of Cydonia (0.366) |
-| Don't Start Now (0.793) | Purple Rain (0.367) |
-| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | Strip My Mind (0.387) |
-| Like a Virgin (0.771) | Slow Cheetah (0.39) |
-| Recovery (0.767) | Waltz Me to the Grave (0.394) |
-| Settle Down (0.763) | Paranoid - 2012 - Remaster (0.412) |
-| Lingo (0.763) | Landslide (0.414) |
+| Cheetah (0.885) | Iron Man (0.332) |
+| Slow (with Ciara) (0.863) | Feeling Good (0.345) |
+| Bubblegum (feat. Tyga) (0.856) | Knights of Cydonia (0.366) |
+| Good Intent (0.851) | Purple Rain (0.367) |
+| Dreams - 2004 Remaster (0.828) | Strip My Mind (0.387) |
+| Don't Start Now (0.793) | Slow Cheetah (0.39) |
+| Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.771) | Waltz Me to the Grave (0.394) |
+| Like a Virgin (0.771) | Paranoid - 2012 - Remaster (0.412) |
+| Recovery (0.767) | Landslide (0.414) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Dani California (0.913) | Feeling Good (0.418) |
 | Like They Do on the TV (0.911) | Purple Rain (0.452) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Bubblegum (feat. Tyga) (0.34) | Californication (0.027) |
@@ -32,11 +45,15 @@
 | Life's Too Short (English Version) (0.265) | Smoke on the Water (0.0284) |
 | Trumpets (0.258) | Silver Lining (0.0288) |
 | Talk Dirty (feat. 2 Chainz) (0.232) | Rhiannon (0.0296) |
-| Pretty Please (0.194) | Sara - 2015 Remaster (0.0303) |
-| Numb / Encore (0.166) | Animals (0.0307) |
-| Knights of Cydonia (0.142) | Purple Rain (0.0307) |
-| Hallucinate (0.139) | Cruel (0.0309) |
-| Kiss and Make Up (0.137) | Feeling Good (0.0316) |
+| Cheetah (0.225) | Sara - 2015 Remaster (0.0303) |
+| Pretty Please (0.194) | Animals (0.0307) |
+| Numb / Encore (0.166) | Purple Rain (0.0307) |
+| Knights of Cydonia (0.142) | Cruel (0.0309) |
+| Hallucinate (0.139) | Feeling Good (0.0316) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Moondance - 2013 Remaster (0.501) | Blow (0.00437) |
 | Life's Too Short (0.376) | No Hands (feat. Roscoe Dash & Wale) (0.00544) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Animals (0.796) | No Hands (feat. Roscoe Dash & Wale) (0.0) |
@@ -64,6 +85,10 @@
 | Portions for Foxes (0.0121) | Baby, I'm Jealous (feat. Doja Cat) (0.0) |
 | Supermassive Black Hole (0.00517) | Believe (0.0) |
 
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_liveness/distribution.png)
+
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Animals (0.696) | Iron Man (0.0372) |
@@ -72,10 +97,14 @@
 | When Doves Cry (0.443) | Smoke on the Water (0.0535) |
 | I Love You 3000 II (0.412) | Come Alive (0.0627) |
 | ICU (0.365) | Levitating (feat. DaBaby) (0.0674) |
-| Break My Heart (0.349) | Go Your Own Way - 2004 Remaster (0.068) |
-| Dani California (0.346) | Like a Virgin (0.0685) |
-| Illusion (0.322) | Slow Cheetah (0.0715) |
-| Baby, I'm Jealous (feat. Doja Cat) (0.32) | Lightyears (0.0731) |
+| Cheetah (0.35) | Go Your Own Way - 2004 Remaster (0.068) |
+| Break My Heart (0.349) | Like a Virgin (0.0685) |
+| Dani California (0.346) | Slow Cheetah (0.0715) |
+| Illusion (0.322) | Lightyears (0.0731) |
+
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_valence/distribution.png)
 
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
@@ -89,3 +118,20 @@
 | Good Intent (0.834) | Like a Prayer (0.257) |
 | Go Your Own Way - 2004 Remaster (0.831) | Strip My Mind (0.262) |
 | Blow (0.823) | Feeling Good (0.267) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/warner_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Like They Do on the TV (199.23) | Moondance - 2013 Remaster (67.409) |
+| Madness (180.301) | Life's Too Short (English Version) (72.203) |
+| I Love You 3000 II (179.727) | Crazy Love - 2013 Remaster (77.464) |
+| Slow Cheetah (178.102) | Old Flame (77.61) |
+| Girls (171.958) | Does He Love You? (78.983) |
+| Animals (169.987) | Cruel (78.99) |
+| Limbo (165.02) | Trumpets (82.142) |
+| Paranoid - 2012 - Remaster (163.071) | Life's Too Short (83.311) |
+| Landslide (159.375) | Plain Gold Ring (85.304) |
+| Iron Man (157.378) | Illusion (90.027) |

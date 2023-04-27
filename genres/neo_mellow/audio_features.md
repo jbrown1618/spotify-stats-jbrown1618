@@ -1,4 +1,9 @@
 # Audio Features for neo mellow
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Little Black Dress (0.787) | Stay (0.262) |
@@ -11,6 +16,10 @@
 | I Didn't Plan It (0.695) | Come Round Soon (0.338) |
 | Let The Rain (0.694) | Bluebird (0.34) |
 | Lie To Me (0.683) | Bright Lights and Cityscapes (0.343) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Love On the Rocks (0.819) | Bluebird (0.203) |
 | Come Round Soon (0.819) | Once Upon Another Time (0.216) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Electric Twist (0.125) | Satellite Call (0.0241) |
@@ -37,6 +50,10 @@
 | Fire (0.057) | Breathe Again (0.0278) |
 | Eden (0.0562) | Islands (0.0284) |
 | You Oughta Know (0.0557) | Poison & Wine (0.0288) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Once Upon Another Time (0.896) | Gonna Get Over You (0.0199) |
 | Miss Simone (0.859) | Love Song (0.0208) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Now Is The Start (0.0353) | Say You're Sorry (0.0) |
@@ -63,6 +84,10 @@
 | The Light (0.00375) | Black Horse And The Cherry Tree (0.0) |
 | No Such Thing (0.00175) | Kaleidoscope Heart (0.0) |
 | Whisper (0.00168) | Everything Changes (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Let The Rain (0.297) | Whisper (0.0708) |
 | Not Alone (0.256) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I Choose You (0.947) | Once Upon Another Time (0.0551) |
@@ -89,3 +118,20 @@
 | I Didn't Plan It (0.787) | Bluebird (0.161) |
 | Bad Idea (feat. Jason Mraz) (0.787) | What's Inside (0.162) |
 | Morningside (0.785) | Almost Lover (0.167) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Uncharted (203.962) | What's Inside (63.218) |
+| Brave (185.063) | Bright Lights and Cityscapes (66.509) |
+| Wicked Love (179.894) | We All Need Saving (74.717) |
+| Mad World (174.149) | Come Round Soon (74.751) |
+| Say You're Sorry (170.016) | Basket Case (76.196) |
+| Breathe Again (169.677) | Armor (78.784) |
+| Gravity (168.964) | Vegas (79.999) |
+| Bad Idea (feat. Jason Mraz) (167.936) | Islands (80.023) |
+| Chariot (167.172) | Other Side Of The World (80.039) |
+| Skinny Love (166.467) | Orpheus (80.365) |

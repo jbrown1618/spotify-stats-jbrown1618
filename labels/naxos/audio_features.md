@@ -1,4 +1,9 @@
 # Audio Features for Naxos
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (0.437) | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace (0.177) |
@@ -11,6 +16,10 @@
 | 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo (0.373) | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro (0.288) |
 | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto (0.373) | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro (0.29) |
 | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace (0.338) | 13 Preludes, Op. 32: No. 10 in B Minor: Lento (0.291) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato (0.123) | 13 Preludes, Op. 32: No. 10 in B Minor: Lento (0.0382) |
 | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro (0.106) | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto (0.0483) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo (0.0614) | 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato (0.0304) |
@@ -37,6 +50,10 @@
 | 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio (0.0416) | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto (0.0358) |
 | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace (0.0408) | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato (0.0364) |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro (0.04) | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (0.0364) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (0.994) | 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia (0.992) |
 | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile (0.994) | 10 Preludes, Op. 23: No. 7 in C Minor: Allegro (0.992) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | 13 Preludes, Op. 32: No. 5 in G Major: Moderato (0.944) | 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace (0.732) |
@@ -63,6 +84,10 @@
 | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo (0.916) | 13 Preludes, Op. 32: No. 10 in B Minor: Lento (0.891) |
 | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile (0.916) | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo (0.895) |
 | 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo (0.914) | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace (0.898) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace (0.0931) | 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio (0.0849) |
 | 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante (0.0918) | 13 Preludes, Op. 32: No. 10 in B Minor: Lento (0.0862) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (0.345) | 13 Preludes, Op. 32: No. 10 in B Minor: Lento (0.0374) |
@@ -89,3 +118,20 @@
 | 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia (0.134) | 13 Preludes, Op. 32: No. 5 in G Major: Moderato (0.066) |
 | 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo (0.121) | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato (0.0701) |
 | 13 Preludes, Op. 32: No. 11 in B Major: Allegretto (0.119) | 13 Preludes, Op. 32: No. 7 in F Major: Moderato (0.0927) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/naxos/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace (165.488) | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro (63.387) |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto (132.844) | 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante (68.123) |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo (126.619) | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro (69.581) |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto (125.898) | 13 Preludes, Op. 32: No. 7 in F Major: Moderato (69.643) |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo (125.513) | 13 Preludes, Op. 32: No. 10 in B Minor: Lento (70.858) |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia (114.233) | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile (72.343) |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace (109.836) | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato (73.308) |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato (108.929) | 13 Preludes, Op. 32: No. 8 in A Minor: Vivo (78.582) |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato (95.586) | 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto (78.934) |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio (92.033) | 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso (79.242) |

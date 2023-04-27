@@ -1,4 +1,9 @@
 # Audio Features for Starship Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | ELEVEN (0.828) | I Like That (0.564) |
@@ -11,6 +16,10 @@
 | GAMBLER (0.752) | I AM (0.683) |
 | NOT YOUR GIRL (0.743) | Secret (0.692) |
 | Beautiful Liar (0.736) | LOVE DIVE (0.703) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | After LIKE (0.922) | ROYAL (0.85) |
 | Touch my body (0.915) | GAMBLER (0.861) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Beautiful Liar (0.186) | One way love (0.0306) |
@@ -37,6 +50,10 @@
 | ELEVEN (0.111) | LOVE DIVE (0.0433) |
 | Touch my body (0.106) | I AM (0.0549) |
 | Super Yuppers! (0.102) | Secret (0.0678) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Pantomime (0.119) | Touch my body (0.0437) |
 | After LIKE (0.103) | Lips (0.0555) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Hmph! (0.000423) | Lips (0.0) |
@@ -63,6 +84,10 @@
 | ELEVEN (0.0) | One way love (0.0) |
 | I AM (0.0) | After LIKE (0.0) |
 | Babyface (0.0) | Super Yuppers! (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | NOT YOUR GIRL (0.267) | UNNATURAL (0.104) |
 | Babyface (0.221) | Adrenaline (0.107) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Give it to me (0.961) | I AM (0.384) |
@@ -89,3 +118,20 @@
 | NOT YOUR GIRL (0.848) | GAMBLER (0.595) |
 | Say! Yes (0.8) | Touch my body (0.622) |
 | After LIKE (0.799) | Babyface (0.663) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/starship_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| 섬찟 (Hypnosis) (164.918) | Say! Yes (95.043) |
+| Super Yuppers! (156.052) | GAMBLER (97.968) |
+| I Like That (154.882) | Blue Blood (98.949) |
+| Give it to me (136.045) | ROYAL (109.922) |
+| Lips (135.964) | One way love (109.952) |
+| Beautiful Liar (129.947) | Secret (111.495) |
+| Touch my body (128.033) | Alone (114.982) |
+| Hmph! (127.979) | Adrenaline (115.05) |
+| Pantomime (127.024) | LOVE DIVE (117.941) |
+| After LIKE (125.014) | ELEVEN (119.978) |

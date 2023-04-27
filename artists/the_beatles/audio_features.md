@@ -1,4 +1,9 @@
 # Audio Features for The Beatles
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Get Back - Remastered 2009 (0.761) | Across The Universe - Remastered 2009 (0.257) |
@@ -11,6 +16,10 @@
 | A Hard Day's Night - Remastered 2009 (0.59) | Strawberry Fields Forever - Remastered 2009 (0.39) |
 | Eleanor Rigby - Remastered 2009 (0.581) | Something - Remastered 2009 (0.396) |
 | Sexy Sadie - Remastered 2009 (0.577) | All You Need Is Love - Remastered 2009 (0.4) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | All My Loving - Remastered 2009 (0.563) | Come Together - Remastered 2009 (0.376) |
 | I Am The Walrus - Remastered 2009 (0.556) | Let It Be - Remastered 2009 (0.403) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Strawberry Fields Forever - Remastered 2009 (0.178) | Octopus's Garden - Remastered 2009 (0.0247) |
@@ -37,6 +50,10 @@
 | Come Together - Remastered 2009 (0.0393) | All My Loving - Remastered 2009 (0.0298) |
 | Yellow Submarine - Remastered 2009 (0.0389) | Got To Get You Into My Life - Remastered 2009 (0.0302) |
 | Eleanor Rigby - Remastered 2009 (0.0381) | Something - Remastered 2009 (0.0304) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Got To Get You Into My Life - Remastered 2009 (0.42) | Octopus's Garden - Remastered 2009 (0.155) |
 | Love Me Do - Remastered 2009 (0.386) | Dear Prudence - Remastered 2009 (0.16) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Come Together - Remastered 2009 (0.248) | Yesterday - Remastered 2009 (0.0) |
@@ -63,6 +84,10 @@
 | Get Back - Remastered 2009 (0.00626) | Because - Remastered 2009 (5.77e-06) |
 | Sexy Sadie - Remastered 2009 (0.00622) | Got To Get You Into My Life - Remastered 2009 (9.27e-06) |
 | While My Guitar Gently Weeps - Remastered 2009 (0.00395) | Blackbird - Remastered 2009 (1.41e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Oh! Darling - Remastered 2009 (0.268) | A Hard Day's Night - Remastered 2009 (0.0996) |
 | Love Me Do - Remastered 2009 (0.227) | Dear Prudence - Remastered 2009 (0.108) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | All My Loving - Remastered 2009 (0.9) | Because - Remastered 2009 (0.162) |
@@ -89,3 +118,20 @@
 | Got To Get You Into My Life - Remastered 2009 (0.711) | Dear Prudence - Remastered 2009 (0.332) |
 | Carry That Weight - Remastered 2009 (0.704) | Blackbird - Remastered 2009 (0.372) |
 | While My Guitar Gently Weeps - Remastered 2009 (0.702) | Something - Remastered 2009 (0.377) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/the_beatles/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Norwegian Wood (This Bird Has Flown) - Remastered 2009 (176.625) | Sexy Sadie - Remastered 2009 (75.478) |
+| You Never Give Me Your Money - Remastered 2009 (174.464) | All My Loving - Remastered 2009 (77.56) |
+| Oh! Darling - Remastered 2009 (173.93) | Golden Slumbers - Remastered 2009 (80.608) |
+| Come Together - Remastered 2009 (165.007) | Because - Remastered 2009 (81.257) |
+| Across The Universe - Remastered 2009 (152.126) | Carry That Weight - Remastered 2009 (84.319) |
+| Dear Prudence - Remastered 2009 (150.721) | I Am The Walrus - Remastered 2009 (85.206) |
+| Love Me Do - Remastered 2009 (147.997) | Octopus's Garden - Remastered 2009 (92.225) |
+| Let It Be - Remastered 2009 (143.462) | Blackbird - Remastered 2009 (93.699) |
+| When I'm Sixty Four - Remastered 2009 (140.411) | Yesterday - Remastered 2009 (96.529) |
+| A Hard Day's Night - Remastered 2009 (138.514) | Strawberry Fields Forever - Remastered 2009 (97.871) |

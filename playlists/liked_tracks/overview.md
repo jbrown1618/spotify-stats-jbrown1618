@@ -297,7 +297,7 @@
 | 7 | 7 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 7 | 7 | [MOTOWN](../../labels/motown/overview.md) |
 | 7 | 7 | Cooking Vinyl Limited |
-| 7 | 7 | 88rising Music |
+| 7 | 7 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 6 | 6 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 6 | 6 | [UNI](../../labels/uni/overview.md) |
 | 6 | 6 | Sire |
@@ -338,7 +338,7 @@
 | 3 | 3 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 3 | 3 | Sony Music Entertainment |
 | 3 | 3 | Sony BMG Music UK |
-| 3 | 3 | Pink Floyd Records |
+| 3 | 3 | [Pink Floyd Records](../../labels/pink_floyd_records/overview.md) |
 | 3 | 3 | Parlophone UK |
 | 3 | 3 | Parlophone Records Limited |
 | 3 | 3 | Parlophone Denmark |
@@ -400,9 +400,9 @@
 | 22 | 22 | korean pop |
 | 20 | 20 | uk pop |
 | 20 | 20 | alternative rock |
-| 19 | 19 | urban contemporary |
 | 19 | 19 | melancholia |
 | 19 | 19 | anime |
+| 18 | 18 | urban contemporary |
 | 18 | 18 | rap |
 | 18 | 18 | hard rock |
 | 17 | 17 | k-rap |

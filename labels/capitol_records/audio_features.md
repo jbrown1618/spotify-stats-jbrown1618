@@ -1,4 +1,9 @@
 # Audio Features for Capitol Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Peacock (0.816) | Nature Boy (0.203) |
@@ -11,6 +16,10 @@
 | Youngblood (0.596) | Lemon Love (0.538) |
 | I Can't Make You Love Me (0.588) | Gotta Get Over You (0.542) |
 | I've Got You Under My Skin - Remastered 1998 (0.585) | SUGA's Interlude (0.55) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | California Gurls (0.753) | Without Me (0.488) |
 | Peacock (0.751) | Lemon Love (0.514) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Youngblood (0.463) | Lemon Love (0.0244) |
@@ -37,6 +50,10 @@
 | Light On (0.0542) | I've Got You Under My Skin - Remastered 1998 (0.04) |
 | California Gurls (0.0536) | Nature Boy (0.0404) |
 | That's Where I Am (0.0534) | Have Yourself A Merry Little Christmas (0.0414) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Tiger Inside (0.303) | Wide Awake (0.0749) |
 | Without Me (0.297) | SUGA's Interlude (0.0864) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Nature Boy (0.0213) | Peacock (0.0) |
@@ -63,6 +84,10 @@
 | Teenage Dream (2.34e-06) | California Gurls (0.0) |
 | E.T. (0.0) | That's Where I Am (0.0) |
 | SUGA's Interlude (0.0) | Baby, It's Cold Outside (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Peacock (0.166) | Tiger Inside (0.11) |
 | Come Fly With Me - Remastered 1998 (0.165) | Youngblood (0.124) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Peacock (0.945) | I Can't Make You Love Me (0.113) |
@@ -89,3 +118,20 @@
 | Wide Awake (0.575) | Have Yourself A Merry Little Christmas (0.344) |
 | Tiger Inside (0.543) | Wally (0.362) |
 | Baby, It's Cold Outside (0.537) | Light On (0.399) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/capitol_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| That's Where I Am (181.299) | Come Fly With Me - Remastered 1998 (67.008) |
+| Nature Boy (173.451) | Have Yourself A Merry Little Christmas (75.248) |
+| Tiger Inside (170.21) | Put A Little Love On Me (95.969) |
+| Wide Awake (159.814) | Light On (102.054) |
+| SUGA's Interlude (153.836) | Teenage Dream (120.011) |
+| E.T. (150.183) | Youngblood (120.274) |
+| Wally (149.356) | I Can't Make You Love Me (124.689) |
+| Peacock (139.981) | California Gurls (125.005) |
+| Lemon Love (139.809) | I've Got You Under My Skin - Remastered 1998 (127.15) |
+| Gotta Get Over You (137.807) | I Kissed A Girl (129.996) |

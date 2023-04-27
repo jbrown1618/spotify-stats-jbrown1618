@@ -1,4 +1,9 @@
 # Audio Features for k-pop boy group
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fire (0.963) | CHEESE (0.376) |
@@ -11,6 +16,10 @@
 | Love is New Gravity (0.878) | Side Effects (0.444) |
 | 10 Months (0.876) | Tap Tap (0.445) |
 | U (0.873) | Butterfly (0.448) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | District 9 (0.956) | Butter (0.459) |
 | One In A Billion (0.952) | Anti-Romantic (0.489) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | No More Dream (0.472) | She′s In The Rain (0.0264) |
@@ -37,6 +50,10 @@
 | 3RACHA (Bang Chan, Changbin, HAN) (0.301) | Don't Wanna Cry (0.0325) |
 | Sparkling Night (0.299) | Stars and Raindrops (Seungmin) (0.0329) |
 | Cherry Bomb (0.287) | Lie (0.033) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Singularity (0.56) | Favorite (Vampire) (0.000831) |
 | Back 2 U (AM 01:27) (0.548) | Danger (0.000907) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Fairy of Shampoo (0.00673) | SUPER BOARD (0.0) |
@@ -63,6 +84,10 @@
 | Airplane pt.2 (0.000103) | Paradise (0.0) |
 | Sour (8.35e-05) | BLACK MIRROR (0.0) |
 | Doom Du Doom (4.82e-05) | Red Lights (Bang Chan, Hyunjin) (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | SHOUT OUT (0.459) | Saturday Drip (0.0379) |
 | Upper Side Dreamin’ (0.446) | Universe (Let's Play Ball) (0.0402) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Devil (0.968) | Side Effects (0.118) |
@@ -89,3 +118,20 @@
 | BLACK MIRROR (0.896) | Deep end (Felix) (0.257) |
 | Muddy Water (Changbin, Hyunjin, HAN, Felix) (0.888) | Hellevator (0.288) |
 | Pretty U (0.884) | HALA HALA (Hearts Awakened, Live Alive) (0.294) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Adore U (203.802) | miss you (Hyunjin) (72.96) |
+| Awkward Silence (199.981) | FEVER (72.999) |
+| Strawberry Cake (199.943) | I GOT IT (HAN) (75.698) |
+| Not For Sale (192.13) | Run BTS (77.004) |
+| Guerrilla (181.963) | FAKE LOVE (77.502) |
+| District 9 (179.987) | Cherry Bomb (78.027) |
+| Universe (Let's Play Ball) (179.975) | Hellevator (78.17) |
+| Runaway (179.848) | MMM (79.976) |
+| 우리집 My House (176.021) | There (79.984) |
+| Mikrokosmos (174.043) | Deja Vu (80.017) |

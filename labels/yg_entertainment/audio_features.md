@@ -1,4 +1,9 @@
 # Audio Features for YG Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Typa Girl (0.915) | On The Ground (0.311) |
@@ -11,6 +16,10 @@
 | WHISTLE (0.818) | 무제(無題) (Untitled, 2014) (0.583) |
 | It's Over (0.817) | Forever Young (0.605) |
 | NAKKA (with IU) (0.816) | BREATHE (0.616) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | As If It's Your Last (0.852) | You Never Know (0.435) |
 | LET'S NOT FALL IN LOVE (0.846) | Whale (0.447) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Ice Cream (with Selena Gomez) (0.365) | Hope Not (0.0274) |
@@ -37,6 +50,10 @@
 | DADDY (0.13) | The Happiest Girl (0.0328) |
 | WHISTLE (0.114) | Only Look At Me (나만 바라봐) (0.0336) |
 | Hello Bitches (0.113) | Still Life (0.034) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | STAY (0.551) | Tally (0.00777) |
 | DARARI (0.486) | Pretty Savage (0.00886) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | You and I (Park Bom) (0.0837) | Shut Down (0.0) |
@@ -63,6 +84,10 @@
 | Crazy Over You (0.000119) | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
 | Ice Cream (with Selena Gomez) (8.06e-05) | BOOMBAYAH (0.0) |
 | MONEY (6.12e-05) | KILLING ME (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Only Look At Me (나만 바라봐) (0.332) | Fantastic Baby (0.0652) |
 | LOVE SCENARIO (0.294) | NO ONE (0.0664) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 1, 2, 3, 4 (0.955) | FREEDOM (0.152) |
@@ -89,3 +118,20 @@
 | How People Move (0.848) | On The Ground (0.286) |
 | CROOKED (0.782) | You Never Know (0.322) |
 | HOLD MY HAND (0.75) | Pretty Savage (0.333) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/yg_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| On The Ground (188.7) | MISSING U (71.967) |
+| Pink Venom (180.169) | 무제(無題) (Untitled, 2014) (79.826) |
+| Love To Hate Me (162.225) | Gone (79.936) |
+| You and I (Park Bom) (161.838) | MMM (79.976) |
+| Ice Cream (with Selena Gomez) (159.972) | FXXK WIT US (80.037) |
+| Pretty Savage (152.045) | DARARI (84.955) |
+| LALISA (150.058) | STAY (87.959) |
+| Hello Bitches (145.074) | LOSER (89.846) |
+| You Never Know (144.144) | The Happiest Girl (91.058) |
+| 눈,코,입 (Eyes, Nose, Lips) (143.786) | NO ONE (91.996) |

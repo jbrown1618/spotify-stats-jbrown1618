@@ -1,4 +1,9 @@
 # Audio Features for singer-songwriter
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | You Can Call Me Al (0.776) | She's Always a Woman (0.292) |
@@ -11,6 +16,10 @@
 | Don't Ask Me Why (0.691) | The Pirate of Penance (0.429) |
 | The Stranger (0.664) | And So It Goes (0.433) |
 | Movin' Out (Anthony's Song) (0.664) | I Had a King (0.439) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | You Can Call Me Al (0.763) | Lullabye (Goodnight, My Angel) (0.157) |
 | The River of Dreams (0.749) | So Far Away (0.172) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Only the Good Die Young (0.159) | The Longest Time (0.0262) |
@@ -37,6 +50,10 @@
 | You Oughta Know (0.0557) | I Feel the Earth Move (0.0305) |
 | Don't Ask Me Why (0.0543) | I Can't Make You Love Me (0.0319) |
 | You Can Call Me Al (0.0534) | Lullabye (Goodnight, My Angel) (0.0324) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | And So It Goes (0.91) | The Stranger (0.165) |
 | A Case of You (0.9) | The Longest Time (0.181) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | I Had a King (0.0108) | You Oughta Know (0.0) |
@@ -63,6 +84,10 @@
 | She's Always a Woman (0.000473) | We Didn't Start the Fire (0.0) |
 | The Dawntreader (0.000153) | White Winter Hymnal (0.0) |
 | I Can't Make You Love Me (9.65e-05) | Brown Eyed Girl (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | A Matter of Trust (0.306) | You Can Call Me Al (0.077) |
 | Crazy Love (0.27) | The Stranger (0.0812) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Big Yellow Taxi (0.97) | I Can't Make You Love Me (0.113) |
@@ -89,3 +118,20 @@
 | Pressure (0.851) | Shadowboxer (0.223) |
 | You Can Call Me Al (0.82) | The Dawntreader (0.235) |
 | My Life (0.804) | And So It Goes (0.24) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| The Boxer (181.849) | Moondance - 2013 Remaster (67.409) |
+| Piano Man (179.239) | Shadowboxer (74.131) |
+| She's Always a Woman (176.631) | Carey (75.368) |
+| Brown Eyed Girl (150.566) | She's Got a Way (75.859) |
+| Big Shot (149.861) | Only the Good Die Young (76.214) |
+| Pressure (148.494) | Lullabye (Goodnight, My Angel) (76.48) |
+| Captain Jack (146.657) | Crazy Love - 2013 Remaster (77.464) |
+| We Didn't Start the Fire (145.024) | Crazy Love (77.539) |
+| So Far Away (143.837) | Cat's in the Cradle (78.111) |
+| Just the Way You Are (139.148) | I'm a Believer - 2006 Remaster (80.106) |

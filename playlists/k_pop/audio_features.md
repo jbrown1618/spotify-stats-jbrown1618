@@ -1,4 +1,9 @@
 # Audio Features for K-Pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Cold Blooded (0.961) | On The Ground (0.311) |
@@ -12,6 +17,10 @@
 | BOOM (0.914) | HWAA (0.384) |
 | Mr. Simple (0.913) | Boy in time - HUI Solo (0.385) |
 
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_energy/distribution.png)
+
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
 | War of Hormone (0.993) | i hate to admit (Bang Chan) (0.217) |
@@ -22,8 +31,12 @@
 | Side Effects (0.977) | Singularity (0.272) |
 | 소방차 Fire Truck (0.976) | Flower Way (Prod. By ZICO) (0.282) |
 | Girls (0.974) | Through the Night (0.313) |
-| Abracadabra (0.973) | Rose (0.352) |
-| 쏘리 쏘리 Sorry, Sorry (0.972) | The Happiest Girl (0.374) |
+| Abracadabra (0.973) | Seed (0.33) |
+| 쏘리 쏘리 Sorry, Sorry (0.972) | Rose (0.352) |
+
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_speechiness/distribution.png)
 
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
@@ -38,6 +51,10 @@
 | VENOM (0.339) | In My Dreams (0.0283) |
 | Signal (0.334) | Something (0.0285) |
 
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_acousticness/distribution.png)
+
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
 | Deep end (Felix) (0.879) | Poison (9.27e-05) |
@@ -50,6 +67,10 @@
 | HANN (Alone in winter) (0.814) | Attention, please! (0.000483) |
 | Rainy Season (0.806) | KNOCK (0.000545) |
 | When This Rain Stops (0.805) | Adios (0.000588) |
+
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_instrumentalness/distribution.png)
 
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
@@ -64,6 +85,10 @@
 | So Hot (0.00976) | Winter Falls (0.0) |
 | GingaMingaYo (the strange world) (0.00955) | Beatbox (0.0) |
 
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_liveness/distribution.png)
+
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
 | Heart Attack (0.887) | PING PONG (0.0202) |
@@ -77,6 +102,10 @@
 | Genie (0.714) | POP! (0.0321) |
 | NUNU NANA (0.708) | Up! (0.0326) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Twenty-three (0.968) | The Road (0.073) |
@@ -89,3 +118,20 @@
 | Lion Heart (0.961) | Time After Time (0.123) |
 | Give it to me (0.961) | Gravity (0.142) |
 | Weather (0.96) | Lucid Dream (0.146) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | Dream (48.973) |
+| Freedom (203.833) | Bambi (61.45) |
+| Adore U (203.802) | Run Devil Run (64.927) |
+| Every night (203.639) | Over Me (67.998) |
+| 11:11 (203.155) | Clockwork (68.045) |
+| O.O (200.263) | Winter Sleep (68.045) |
+| Awkward Silence (199.981) | Hello, Sunset (71.999) |
+| Strawberry Cake (199.943) | Wine (72.022) |
+| Not For Sale (192.13) | Life's Too Short (English Version) (72.203) |
+| About Love (191.908) | Raise y_our glass (72.798) |

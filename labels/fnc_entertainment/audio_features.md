@@ -1,4 +1,9 @@
 # Audio Features for FNC ENTERTAINMENT
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | BFF (Best Friends Forever) (0.872) | Good Luck (0.603) |
@@ -11,6 +16,10 @@
 | Excuse Me (0.744) | Doom Du Doom (0.764) |
 | Heart Attack (0.661) | Back Down (0.809) |
 | Secret Sauce (0.651) | Do It Like This (0.838) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Love So Sweet (0.811) | BFF (Best Friends Forever) (0.885) |
 | Doom Du Doom (0.797) | Bing Bing (0.93) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Love So Sweet (0.308) | Excuse Me (0.0365) |
@@ -37,6 +50,10 @@
 | Bing Bing (0.0547) | BFF (Best Friends Forever) (0.145) |
 | Miniskirt (0.0464) | Secret Sauce (0.187) |
 | Back Down (0.0447) | Good Luck (0.25) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Back Down (0.0734) | BFF (Best Friends Forever) (0.306) |
 | Do It Like This (0.0456) | Miniskirt (0.43) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Doom Du Doom (4.82e-05) | Love So Sweet (0.0) |
@@ -63,6 +84,10 @@
 | Secret Sauce (0.0) | Miniskirt (0.0) |
 | Excuse Me (0.0) | Back Down (0.0) |
 | Do It Like This (0.0) | Heart Attack (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Back Down (0.0822) | Bing Bing (0.334) |
 | Doom Du Doom (0.0811) | Good Luck (0.447) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Miniskirt (0.963) | Do It Like This (0.389) |
@@ -89,3 +118,20 @@
 | BFF (Best Friends Forever) (0.726) | Doom Du Doom (0.846) |
 | Back Down (0.614) | Good Luck (0.887) |
 | Secret Sauce (0.492) | Bing Bing (0.943) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/fnc_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Good Luck (187.936) | Do It Like This (95.019) |
+| Love So Sweet (149.966) | Back Down (99.957) |
+| Heart Attack (125.993) | Secret Sauce (103.834) |
+| Excuse Me (123.938) | Bing Bing (104.971) |
+| Doom Du Doom (123.114) | BFF (Best Friends Forever) (105.021) |
+| Miniskirt (119.992) | Miniskirt (119.992) |
+| BFF (Best Friends Forever) (105.021) | Doom Du Doom (123.114) |
+| Bing Bing (104.971) | Excuse Me (123.938) |
+| Secret Sauce (103.834) | Heart Attack (125.993) |
+| Back Down (99.957) | Love So Sweet (149.966) |

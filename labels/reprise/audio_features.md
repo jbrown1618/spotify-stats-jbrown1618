@@ -1,4 +1,9 @@
 # Audio Features for Reprise
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Everything (0.686) | The Christmas Song (0.226) |
@@ -11,6 +16,10 @@
 | Home (0.608) | Good Riddance (Time of Your Life) (0.475) |
 | Moondance (0.583) | Frosty the Snowman (feat. The Puppini Sisters) (0.49) |
 | Feeling Good (0.535) | Boulevard of Broken Dreams (0.496) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Someday (feat. Meghan Trainor) (0.539) | Good Riddance (Time of Your Life) (0.432) |
 | Cry Me a River (0.483) | The Way You Look Tonight (0.483) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | The Motherload (0.0776) | Everything (0.0254) |
@@ -37,6 +50,10 @@
 | It's Beginning to Look a Lot like Christmas (0.0375) | Good Riddance (Time of Your Life) (0.0302) |
 | Feeling Good (0.037) | Haven't Met You Yet (0.0335) |
 | Cry Me a River (0.0366) | The Christmas Song (0.0336) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Cry Me a River (0.624) | Feeling Good (0.533) |
 | Call Me Irresponsible (0.585) | The Way You Look Tonight (0.549) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Can't Help Falling in Love (0.0111) | Someday (feat. Meghan Trainor) (0.0) |
@@ -63,6 +84,10 @@
 | Boulevard of Broken Dreams (2.94e-05) | Everything (1.03e-06) |
 | Home (1.04e-05) | Feeling Good (1.48e-06) |
 | It's Beginning to Look a Lot like Christmas (7.47e-06) | Cry Me a River (5.62e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | La vie en rose (feat. Cécile McLorin Salvant) (0.119) | Haven't Met You Yet (0.109) |
 | Home (0.114) | Santa Baby (0.11) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Someday (feat. Meghan Trainor) (0.934) | Can't Help Falling in Love (0.0969) |
@@ -89,3 +118,20 @@
 | The Best Is yet to Come (0.484) | Call Me Irresponsible (0.39) |
 | Moondance (0.482) | The Way You Look Tonight (0.452) |
 | Feeling Good (0.477) | Boulevard of Broken Dreams (0.474) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/reprise/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| American Idiot (186.113) | La vie en rose (feat. Cécile McLorin Salvant) (63.378) |
+| Can't Help Falling in Love (174.036) | Santa Baby (76.273) |
+| Boulevard of Broken Dreams (167.06) | Good Riddance (Time of Your Life) (94.605) |
+| The Christmas Song (163.863) | It's Beginning to Look a Lot like Christmas (94.775) |
+| Frosty the Snowman (feat. The Puppini Sisters) (147.381) | Someday (feat. Meghan Trainor) (94.98) |
+| The Motherload (146.018) | Cry Me a River (104.823) |
+| Moondance (140.736) | Call Me Irresponsible (107.996) |
+| Home (127.593) | The Way You Look Tonight (109.995) |
+| Everything (123.125) | Feeling Good (115.144) |
+| Haven't Met You Yet (122.58) | The Best Is yet to Come (121.026) |

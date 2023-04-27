@@ -351,7 +351,7 @@
 | 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 | 1 | 1 | Access Records |
 | 1 | 1 | ATL |
-| 1 | 1 | 88rising Music |
+| 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 0 | JVKE |
 | 1 | 0 | Warner Bros. |
 
@@ -368,7 +368,7 @@
 | 93 | 65 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 18 | uk pop |
-| 23 | 18 | urban contemporary |
+| 22 | 17 | urban contemporary |
 | 17 | 13 | electropop |
 | 14 | 12 | neo soul |
 | 14 | 12 | barbadian pop |

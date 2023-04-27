@@ -1,4 +1,9 @@
 # Audio Features for Varsity Vocals
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Problem (0.834) | We Found Love (0.203) |
@@ -11,6 +16,10 @@
 | Put Your Records On (0.663) | Breathe Again (0.313) |
 | First Train Home (0.663) | Manwa Laage (0.317) |
 | Here (In Your Arms) (0.658) | All of Me (0.322) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Manwa Laage (0.791) | Latch (0.315) |
 | Domino (0.757) | Eine kleine Nachtmusik (0.32) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Movin' On (0.183) | Latch (0.0277) |
@@ -37,6 +50,10 @@
 | Problem (0.114) | Don't Stop Believin' (0.0318) |
 | Bang Bang (0.11) | There Goes My Baby (0.0319) |
 | Manwa Laage (0.102) | Eine kleine Nachtmusik (0.0319) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Skinny Love (0.838) | Sweater Weather (0.0751) |
 | Listen (0.807) | Bang Bang (0.0888) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Eine kleine Nachtmusik (0.653) | Brand New Jones (0.0) |
@@ -63,6 +84,10 @@
 | Sweater Weather (6.46e-06) | Who Are You (0.0) |
 | Sound Of Silence (3.48e-06) | Valerie (0.0) |
 | Aha! (2.58e-06) | Say (All I Need) (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | First Train Home (0.304) | We Found Love (0.0797) |
 | Tightrope (0.302) | Eine kleine Nachtmusik (0.0802) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Domino (0.86) | Skinny Love (0.0387) |
@@ -89,3 +118,20 @@
 | Movin' On (0.754) | Woods (0.118) |
 | My Happy Ending (0.74) | Don't You Worry Child (0.129) |
 | Eine kleine Nachtmusik (0.688) | Listen (0.142) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/varsity_vocals/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Gunpowder & Lead (187.614) | There Goes My Baby (77.996) |
+| My Happy Ending (175.719) | We Found Love (78.559) |
+| Chandelier (173.893) | Manwa Laage (81.432) |
+| Misery Business (171.956) | Does He Love You? (81.96) |
+| I Write Sins Not Tragedies (169.807) | Breathe Again (82.123) |
+| Gravity (167.19) | Home (83.467) |
+| Tightrope (160.944) | Oops!...I Did It Again (84.712) |
+| Everybody Talks (160.597) | Aha! (86.112) |
+| Who Are You (155.943) | Latch (86.523) |
+| Bang Bang (151.134) | All Time Low (87.701) |

@@ -1,4 +1,9 @@
 # Audio Features for Anthony Ramos
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Ten Duel Commandments (0.887) | The Story of Tonight (0.494) |
@@ -11,6 +16,10 @@
 | Alexander Hamilton (0.609) | Meet Me Inside (0.732) |
 | Take a Break (0.552) | Schuyler Defeated (0.745) |
 | Stay Alive - Reprise (0.546) | Blow Us All Away (0.82) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | The Story of Tonight - Reprise (0.305) | Schuyler Defeated (0.597) |
 | Stay Alive - Reprise (0.246) | Meet Me Inside (0.643) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Aaron Burr, Sir (0.818) | The Story of Tonight (0.0517) |
@@ -37,6 +50,10 @@
 | The Story of Tonight - Reprise (0.257) | Blow Us All Away (0.461) |
 | Schuyler Defeated (0.257) | Meet Me Inside (0.474) |
 | Take a Break (0.227) | Ten Duel Commandments (0.658) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Schuyler Defeated (0.236) | Take a Break (0.587) |
 | My Shot (0.15) | The Story of Tonight - Reprise (0.68) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Meet Me Inside (0.0) | Schuyler Defeated (0.0) |
@@ -63,6 +84,10 @@
 | Take a Break (0.0) | My Shot (0.0) |
 | The Story of Tonight - Reprise (0.0) | Aaron Burr, Sir (0.0) |
 | The Story of Tonight (0.0) | Blow Us All Away (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Aaron Burr, Sir (0.0945) | Blow Us All Away (0.563) |
 | My Shot (0.0903) | Ten Duel Commandments (0.617) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Schuyler Defeated (0.842) | Stay Alive - Reprise (0.427) |
@@ -89,3 +118,20 @@
 | My Shot (0.568) | Meet Me Inside (0.644) |
 | Alexander Hamilton (0.552) | Blow Us All Away (0.665) |
 | Aaron Burr, Sir (0.528) | Ten Duel Commandments (0.828) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/anthony_ramos/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| My Shot (180.466) | Ten Duel Commandments (77.977) |
+| Aaron Burr, Sir (160.387) | Take a Break (81.548) |
+| Stay Alive - Reprise (160.031) | The Story of Tonight - Reprise (81.874) |
+| Alexander Hamilton (131.995) | Meet Me Inside (88.543) |
+| Schuyler Defeated (102.108) | Blow Us All Away (88.566) |
+| The Story of Tonight (95.219) | The Story of Tonight (95.219) |
+| Blow Us All Away (88.566) | Schuyler Defeated (102.108) |
+| Meet Me Inside (88.543) | Alexander Hamilton (131.995) |
+| The Story of Tonight - Reprise (81.874) | Stay Alive - Reprise (160.031) |
+| Take a Break (81.548) | Aaron Burr, Sir (160.387) |

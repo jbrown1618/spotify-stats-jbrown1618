@@ -1,4 +1,9 @@
 # Audio Features for Singer-Songwriter
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fidelity (0.923) | Born To Die (0.18) |
@@ -11,6 +16,10 @@
 | Dreamer (0.802) | She's Always a Woman (0.292) |
 | Gorgeous (0.8) | Shadowboxer (0.298) |
 | Vigilante Shit (0.798) | exile (feat. Bon Iver) (0.298) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Morningside (0.88) | Sweet Nothing (0.156) |
 | The Stranger (0.878) | Lullabye (Goodnight, My Angel) (0.157) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Vigilante Shit (0.39) | Satellite Call (0.0241) |
@@ -37,6 +50,10 @@
 | Only the Good Die Young (0.159) | Begin Again (0.0263) |
 | Cruel Summer (0.157) | no body, no crime (feat. HAIM) (0.0264) |
 | ...Ready For It? (0.136) | Meant (0.0267) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.959) | I Think He Knows (0.00889) |
 | The Dawntreader (0.957) | We Are Never Ever Getting Back Together (0.00957) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Swan Song (0.421) | Say You're Sorry (0.0) |
@@ -63,6 +84,10 @@
 | Islands (0.0261) | Question...? (0.0) |
 | West Coast (0.0194) | Come Round Soon (0.0) |
 | Shades Of Cool (0.0161) | Dark Paradise (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Off To The Races (0.4) | Movin' Out (Anthony's Song) (0.0591) |
 | Cherry (0.384) | Crocodile Rock (0.0591) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Big Yellow Taxi (0.97) | Maroon (0.0374) |
@@ -89,3 +118,20 @@
 | We Didn't Start the Fire (0.895) | Islands (0.0863) |
 | Blow Away (0.891) | Shades Of Cool (0.0878) |
 | A Matter of Trust (0.88) | Hide and Seek (0.0901) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/singer_songwriter/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Uncharted (203.962) | What's Inside (63.218) |
+| Brave (185.063) | Bright Lights and Cityscapes (66.509) |
+| Wicked Love (179.894) | Lover (68.534) |
+| Piano Man (179.239) | Shadowboxer (74.131) |
+| Sweet Nothing (176.655) | We All Need Saving (74.717) |
+| She's Always a Woman (176.631) | Come Round Soon (74.751) |
+| I Feel It All (172.046) | tolerate it (74.952) |
+| Bobble Head (171.94) | Radio (75.112) |
+| Say You're Sorry (170.016) | Carey (75.368) |
+| Cruel Summer (169.994) | exile (feat. Bon Iver) (75.602) |

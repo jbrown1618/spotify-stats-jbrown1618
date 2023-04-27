@@ -1,4 +1,9 @@
 # Audio Features for rock
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Another One Bites The Dust (0.926) | Pyramid Song (0.127) |
@@ -9,8 +14,12 @@
 | Technologic (0.812) | Fat Bottomed Girls (0.253) |
 | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (0.81) | No Surprises (0.255) |
 | You Can Call Me Al (0.776) | Across The Universe - Remastered 2009 (0.257) |
-| Believer (0.776) | The Great Gig in the Sky (0.274) |
-| Instant Crush (feat. Julian Casablancas) (0.775) | The Trooper - 2015 Remaster (0.285) |
+| Believer (0.776) | Shine On You Crazy Diamond (Pts. 1-5) (0.264) |
+| Instant Crush (feat. Julian Casablancas) (0.775) | The Great Gig in the Sky (0.274) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Best of You (0.94) | Landslide (0.161) |
 | Can't Stop (0.938) | Yesterday - Remastered 2009 (0.179) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Technologic (0.224) | Octopus's Garden - Remastered 2009 (0.0247) |
@@ -37,6 +50,10 @@
 | Knights of Cydonia (0.142) | A Matter of Trust (0.0268) |
 | Stressed Out (0.141) | Hotel California - 2013 Remaster (0.027) |
 | One More Time (0.133) | Californication (0.027) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Landslide (0.883) | Reptilia (0.000603) |
 | Yesterday - Remastered 2009 (0.879) | Wherever I May Roam (Remastered) (0.000646) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Set the Controls for the Heart of the Sun (0.905) | Mr. Brightside (0.0) |
@@ -61,8 +82,12 @@
 | Breathe (In the Air) (0.728) | And So It Goes (0.0) |
 | Reptilia (0.713) | Crazy Little Thing Called Love (0.0) |
 | Street Spirit (Fade Out) (0.694) | Ride (0.0) |
-| Instant Crush (feat. Julian Casablancas) (0.619) | Only the Good Die Young (0.0) |
-| 1979 - Remastered 2012 (0.583) | Yesterday - Remastered 2009 (0.0) |
+| Shine On You Crazy Diamond (Pts. 1-5) (0.686) | Only the Good Die Young (0.0) |
+| Instant Crush (feat. Julian Casablancas) (0.619) | Yesterday - Remastered 2009 (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,15 +102,36 @@
 | I Am The Walrus - Remastered 2009 (0.589) | Blackbird - Remastered 2009 (0.0573) |
 | Don't Stop Me Now (0.558) | Hotel California - 2013 Remaster (0.0575) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
-| Crocodile Rock (0.968) | Everything In Its Right Place (0.0629) |
-| 1979 - Remastered 2012 (0.964) | Pyramid Song (0.0686) |
-| Hard To Handle (0.961) | Hurt (0.0826) |
-| Cecilia (0.954) | All I Need (0.0997) |
-| (I Can't Get No) Satisfaction - Mono Version (0.931) | Creep (0.104) |
-| Brown Eyed Girl (0.908) | The Show Must Go On (0.109) |
-| All My Loving - Remastered 2009 (0.9) | No Surprises (0.118) |
-| Movin' Out (Anthony's Song) (0.895) | Street Spirit (Fade Out) (0.131) |
-| We Didn't Start the Fire (0.895) | Fake Plastic Trees (0.135) |
-| Walk This Way (0.894) | Come Sail Away (0.141) |
+| Crocodile Rock (0.968) | Shine On You Crazy Diamond (Pts. 1-5) (0.0402) |
+| 1979 - Remastered 2012 (0.964) | Everything In Its Right Place (0.0629) |
+| Hard To Handle (0.961) | Pyramid Song (0.0686) |
+| Cecilia (0.954) | Hurt (0.0826) |
+| (I Can't Get No) Satisfaction - Mono Version (0.931) | All I Need (0.0997) |
+| Brown Eyed Girl (0.908) | Creep (0.104) |
+| All My Loving - Remastered 2009 (0.9) | The Show Must Go On (0.109) |
+| Movin' Out (Anthony's Song) (0.895) | No Surprises (0.118) |
+| We Didn't Start the Fire (0.895) | Street Spirit (Fade Out) (0.131) |
+| Walk This Way (0.894) | Fake Plastic Trees (0.135) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/rock/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Lights (205.422) | Desperado - 2013 Remaster (60.3) |
+| Back In Black (188.386) | Moondance - 2013 Remaster (67.409) |
+| American Idiot (186.113) | Innuendo (72.302) |
+| The Boxer (181.849) | Fake Plastic Trees (73.543) |
+| Madness (180.301) | Karma Police (74.807) |
+| Piano Man (179.239) | Ride (74.989) |
+| Slow Cheetah (178.102) | Sexy Sadie - Remastered 2009 (75.478) |
+| She's Always a Woman (176.631) | She's Got a Way (75.859) |
+| Norwegian Wood (This Bird Has Flown) - Remastered 2009 (176.625) | Only the Good Die Young (76.214) |
+| Fat Bottomed Girls (176.109) | No Surprises (76.426) |

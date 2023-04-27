@@ -1,4 +1,9 @@
 # Audio Features for Lana Del Rey
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Snow On The Beach (feat. Lana Del Rey) (0.663) | Born To Die (0.18) |
@@ -11,6 +16,10 @@
 | Love (0.527) | Video Games (0.39) |
 | Cherry (0.449) | Off To The Races (0.4) |
 | Brooklyn Baby (0.404) | Brooklyn Baby (0.404) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Doin' Time (0.559) | Shades Of Cool (0.482) |
 | Cherry (0.534) | Cherry (0.534) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Radio (0.0846) | Love (0.0277) |
@@ -37,6 +50,10 @@
 | West Coast (0.0396) | Doin' Time (0.0355) |
 | Snow On The Beach (feat. Lana Del Rey) (0.0375) | Fuck it I love you (0.0359) |
 | Young And Beautiful (0.0368) | Young And Beautiful (0.0368) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Love (0.487) | Young And Beautiful (0.262) |
 | Doin' Time (0.404) | Doin' Time (0.404) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Swan Song (0.421) | Dark Paradise (0.0) |
@@ -63,6 +84,10 @@
 | Love (0.0023) | Snow On The Beach (feat. Lana Del Rey) (0.000993) |
 | Off To The Races (0.00171) | Cherry (0.0011) |
 | Fuck it I love you (0.00165) | Fuck it I love you (0.00165) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Summertime Sadness (0.121) | Young And Beautiful (0.11) |
 | Snow On The Beach (feat. Lana Del Rey) (0.117) | Snow On The Beach (feat. Lana Del Rey) (0.117) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Doin' Time (0.523) | Swan Song (0.0392) |
@@ -89,3 +118,20 @@
 | Love (0.234) | Video Games (0.179) |
 | Summertime Sadness (0.216) | Radio (0.185) |
 | Snow On The Beach (feat. Lana Del Rey) (0.193) | Snow On The Beach (feat. Lana Del Rey) (0.193) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/lana_del_rey/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Off To The Races (160.065) | Radio (75.112) |
+| Doin' Time (144.982) | Born To Die (75.632) |
+| Shades Of Cool (137.918) | Norman fucking Rockwell (78.287) |
+| Fuck it I love you (129.974) | Swan Song (81.765) |
+| West Coast (123.167) | Bel Air (83.56) |
+| Video Games (122.056) | Cherry (94.261) |
+| Dark Paradise (120.015) | Love (98.994) |
+| Young And Beautiful (113.986) | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) (102.861) |
+| Summertime Sadness (111.931) | Brooklyn Baby (107.747) |
+| Snow On The Beach (feat. Lana Del Rey) (109.957) | Snow On The Beach (feat. Lana Del Rey) (109.957) |

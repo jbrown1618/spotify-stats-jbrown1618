@@ -1,4 +1,9 @@
 # Audio Features for Atlantic Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | WAP (feat. Megan Thee Stallion) (0.935) | Stairway to Heaven - Remaster (0.338) |
@@ -11,6 +16,10 @@
 | 24K Magic (0.818) | It's Quiet Uptown (0.484) |
 | At My Worst (0.813) | The Story of Tonight (0.494) |
 | The Adams Administration (0.8) | That Would Be Enough (0.499) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | 24K Magic (0.803) | The 12 Days of Christmas (0.293) |
 | Finesse (0.798) | What Comes Next? (0.302) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Aaron Burr, Sir (0.818) | What Sarah Said (0.0268) |
@@ -37,6 +50,10 @@
 | Your Obedient Servant (0.502) | Leave The Door Open (0.0324) |
 | Right Hand Man (0.492) | Stairway to Heaven - Remaster (0.0339) |
 | Meet Me Inside (0.474) | At My Worst (0.0349) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | It's Quiet Uptown (0.796) | Love's Train (0.0396) |
 | Who Lives, Who Dies, Who Tells Your Story (0.777) | Locked out of Heaven (0.049) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Immigrant Song - Remaster (0.169) | Leave The Door Open (0.0) |
@@ -63,6 +84,10 @@
 | Wait for It (4.04e-06) | The Story of Tonight (0.0) |
 | The Other Side (feat. CeeLo Green and B.o.B) (3.7e-06) | The World Was Wide Enough (0.0) |
 | Good Ones (3.32e-06) | Please Me (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Cabinet Battle #1 (0.489) | It's Quiet Uptown (0.0785) |
 | The 12 Days of Christmas (0.378) | Stay Alive - Reprise (0.0801) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Finesse (0.939) | What Sarah Said (0.0401) |
@@ -89,3 +118,20 @@
 | Love's Train (0.807) | Burn (0.255) |
 | The Schuyler Sisters (0.792) | History Has Its Eyes on You (0.274) |
 | The Adams Administration (0.792) | Dear Theodosia (0.274) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/atlantic_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Light Switch (184.008) | The Election of 1800 (67.426) |
+| My Shot (180.466) | When I Was Your Man (72.795) |
+| What'd I Miss (177.787) | Jar of Hearts (74.541) |
+| One Last Time (176.989) | Who Lives, Who Dies, Who Tells Your Story (75.5) |
+| The Room Where It Happens (173.552) | History Has Its Eyes on You (77.415) |
+| Hurricane (171.289) | Farmer Refuted (77.879) |
+| Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (169.021) | Ten Duel Commandments (77.977) |
+| Your Obedient Servant (165.908) | Helpless (79.009) |
+| Aaron Burr, Sir (160.387) | See You Again (feat. Charlie Puth) (80.025) |
+| Stay Alive - Reprise (160.031) | I Will Follow You into the Dark (80.401) |

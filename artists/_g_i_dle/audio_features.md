@@ -1,4 +1,9 @@
 # Audio Features for (G)I-DLE
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | LOVE (0.853) | HWAA (0.384) |
@@ -11,6 +16,10 @@
 | Uh-Oh (0.781) | Sculpture (0.65) |
 | LATATA (0.774) | MORE (0.66) |
 | i'M THE TREND (0.772) | ALREADY (0.663) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | MAZE (0.85) | LOVE (0.747) |
 | Change (0.842) | Oh my god - English Version (0.756) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | LIAR (0.289) | ESCAPE (0.0295) |
@@ -37,6 +50,10 @@
 | Never Stop Me (0.138) | Senorita (0.0362) |
 | TOMBOY (0.0936) | MOON (0.0363) |
 | VILLAIN DIES (0.0893) | Oh my god (0.0392) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | i'M THE TREND (0.138) | DUMDi DUMDi (0.025) |
 | MOON (0.135) | LION (0.0318) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Luv U (0.000423) | TOMBOY (0.0) |
@@ -63,6 +84,10 @@
 | i'M THE TREND (5.91e-06) | ESCAPE (0.0) |
 | HWAA (5.82e-06) | DARK (X-file) (0.0) |
 | DUMDi DUMDi (4.45e-06) | POP/STARS (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | THE BADDEST (0.254) | TOMBOY (0.0917) |
 | Oh my god - English Version (0.253) | HANN (Alone in winter) (0.105) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | $$$ (0.882) | LION (0.187) |
@@ -89,3 +118,20 @@
 | LIAR (0.656) | ESCAPE (0.309) |
 | Nxde (0.648) | Change (0.313) |
 | TOMBOY (0.645) | Luv U (0.336) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/_g_i_dle/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| HANN (Alone in winter) (179.855) | VILLAIN DIES (77.008) |
+| LIAR (173.73) | ALREADY (91.832) |
+| POP/STARS (170.036) | Uh-Oh (92.037) |
+| DARK (X-file) (165.924) | MY BAG (94.024) |
+| $$$ (151.115) | HWAA (95.027) |
+| THE BADDEST (149.981) | HWAA - English Version (95.889) |
+| Never Stop Me (149.939) | MOON (95.963) |
+| i'M THE TREND (145.102) | LATATA - English Ver. (98.015) |
+| MORE (142.018) | LATATA (98.1) |
+| Nxde (135.966) | MAZE (99.99) |

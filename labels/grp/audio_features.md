@@ -1,4 +1,9 @@
 # Audio Features for GRP
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Freedom At Midnight (0.78) | A Last Request (0.224) |
@@ -11,6 +16,10 @@
 | Along Love's Highway (0.621) | 6-String Poet (0.502) |
 | Morning Sojourn (0.614) | M.W.A. (Musicians With Attitude) (0.525) |
 | Along The Milky Way (0.608) | South East Quarter (0.54) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Passion Walk (0.45) | Tropical Breeze (0.395) |
 | Morning Sojourn (0.411) | The Man With The Panama Hat (0.402) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | M.W.A. (Musicians With Attitude) (0.0554) | Coconut Roads (0.0299) |
@@ -37,6 +50,10 @@
 | El Camino Real (0.0362) | Every Step Of The Way (0.0316) |
 | 6-String Poet (0.0359) | Passion Walk (0.0321) |
 | South East Quarter (0.0354) | Freedom At Midnight (0.0345) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Tropical Breeze (0.256) | M.W.A. (Musicians With Attitude) (0.191) |
 | 6-String Poet (0.227) | Morning Sojourn (0.201) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Deep Light (0.956) | Every Corner Of The World (0.0) |
@@ -63,6 +84,10 @@
 | Every Step Of The Way (0.545) | Del Sasser (0.16) |
 | South East Quarter (0.54) | Morning Sojourn (0.222) |
 | Coconut Roads (0.437) | El Camino Real (0.25) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | 6-String Poet (0.102) | Tropical Breeze (0.0916) |
 | Deep Light (0.101) | Every Step Of The Way (0.0951) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Freedom At Midnight (0.743) | Deep Light (0.0517) |
@@ -89,3 +118,20 @@
 | South East Quarter (0.533) | Every Step Of The Way (0.31) |
 | El Camino Real (0.507) | Along The Milky Way (0.312) |
 | Along Love's Highway (0.457) | Tropical Breeze (0.351) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/grp/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| M.W.A. (Musicians With Attitude) (203.958) | 6-String Poet (60.757) |
+| A Last Request (179.86) | Pieces Of Time (76.03) |
+| Kei's Song (144.886) | Along The Milky Way (82.022) |
+| Del Sasser (132.147) | The Last Goodbye (89.055) |
+| South East Quarter (127.941) | Along Love's Highway (90.068) |
+| Houston (119.976) | Deep Light (96.712) |
+| Freedom At Midnight (117.989) | Every Corner Of The World (100.442) |
+| Passion Walk (116.36) | Every Step Of The Way (102.832) |
+| El Camino Real (114.17) | The Man With The Panama Hat (103.266) |
+| Morning Sojourn (113.026) | Coconut Roads (105.244) |

@@ -1,4 +1,9 @@
 # Audio Features for 143
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Everything (0.686) | The Christmas Song (0.226) |
@@ -11,6 +16,10 @@
 | Moondance (0.583) | Home (0.608) |
 | Feeling Good (0.535) | Haven't Met You Yet (0.615) |
 | Frosty the Snowman (feat. The Puppini Sisters) (0.49) | Call Me Irresponsible (0.639) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Home (0.403) | Cry Me a River (0.483) |
 | The Best Is yet to Come (0.347) | Feeling Good (0.548) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Moondance (0.0737) | Everything (0.0254) |
@@ -37,6 +50,10 @@
 | The Christmas Song (0.0336) | Cry Me a River (0.0366) |
 | Haven't Met You Yet (0.0335) | Feeling Good (0.037) |
 | Home (0.0301) | It's Beginning to Look a Lot like Christmas (0.0375) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Call Me Irresponsible (0.585) | Frosty the Snowman (feat. The Puppini Sisters) (0.661) |
 | The Way You Look Tonight (0.549) | Can't Help Falling in Love (0.74) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Can't Help Falling in Love (0.0111) | Moondance (0.0) |
@@ -63,6 +84,10 @@
 | Cry Me a River (5.62e-06) | It's Beginning to Look a Lot like Christmas (7.47e-06) |
 | Feeling Good (1.48e-06) | Home (1.04e-05) |
 | Everything (1.03e-06) | Santa Baby (2.95e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Haven't Met You Yet (0.109) | Feeling Good (0.123) |
 | Call Me Irresponsible (0.109) | Frosty the Snowman (feat. The Puppini Sisters) (0.249) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Frosty the Snowman (feat. The Puppini Sisters) (0.829) | Can't Help Falling in Love (0.0969) |
@@ -89,3 +118,20 @@
 | The Way You Look Tonight (0.452) | Feeling Good (0.477) |
 | Call Me Irresponsible (0.39) | Moondance (0.482) |
 | It's Beginning to Look a Lot like Christmas (0.363) | The Best Is yet to Come (0.484) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/143/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Can't Help Falling in Love (174.036) | Santa Baby (76.273) |
+| The Christmas Song (163.863) | It's Beginning to Look a Lot like Christmas (94.775) |
+| Frosty the Snowman (feat. The Puppini Sisters) (147.381) | Cry Me a River (104.823) |
+| Moondance (140.736) | Call Me Irresponsible (107.996) |
+| Home (127.593) | The Way You Look Tonight (109.995) |
+| Everything (123.125) | Feeling Good (115.144) |
+| Haven't Met You Yet (122.58) | The Best Is yet to Come (121.026) |
+| The Best Is yet to Come (121.026) | Haven't Met You Yet (122.58) |
+| Feeling Good (115.144) | Everything (123.125) |
+| The Way You Look Tonight (109.995) | Home (127.593) |

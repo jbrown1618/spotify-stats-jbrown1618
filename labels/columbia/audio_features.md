@@ -1,4 +1,9 @@
 # Audio Features for Columbia
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | MALAMENTE - Cap.1: Augurio (0.893) | Bridge Over Troubled Water (0.149) |
@@ -11,6 +16,10 @@
 | Instant Crush (feat. Julian Casablancas) (0.775) | All I Want for Christmas Is You (0.336) |
 | Savage Love (Laxed – Siren Beat) [BTS Remix] (0.758) | Skyfall (0.346) |
 | Cecilia (0.755) | Ave Maria (0.35) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Cecilia (0.876) | All of Me (0.264) |
 | Only the Good Die Young (0.872) | Falling (0.267) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hold Up (0.405) | 情非得已 (0.0241) |
@@ -37,6 +50,10 @@
 | MONTERO (Call Me By Your Name) (0.152) | Landslide (0.0279) |
 | Countdown (0.151) | Skyfall (0.0282) |
 | Baby, It's Cold Outside (with Dorothy Kirsten) (0.131) | Dream On (0.029) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | The Sound of Silence - Acoustic Version (0.837) | INDUSTRY BABY (feat. Jack Harlow) (0.0221) |
 | Bridge Over Troubled Water (0.822) | Adore You (0.0237) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Unsquare Dance (0.88) | Travelin' Soldier (0.0) |
@@ -63,6 +84,10 @@
 | MALAMENTE - Cap.1: Augurio (0.0164) | If I Were a Boy (0.0) |
 | Back In Black (0.00965) | Preach (0.0) |
 | Lights (0.00711) | Only the Good Die Young (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | MONTERO (Call Me By Your Name) (0.384) | The River of Dreams (0.0667) |
 | Captain Jack (0.374) | Take Five (0.0675) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version (0.976) | Falling (0.0592) |
@@ -89,3 +118,20 @@
 | INDUSTRY BABY (feat. Jack Harlow) (0.892) | Lullabye (Goodnight, My Angel) (0.22) |
 | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (0.889) | Sign of the Times (0.222) |
 | A Matter of Trust (0.88) | The Stranger (0.222) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/columbia/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Lights (205.422) | She's Got a Way (75.859) |
+| Back In Black (188.386) | Skyfall (75.881) |
+| Wrap Me In Plastic (179.932) | Only the Good Die Young (76.214) |
+| Piano Man (179.239) | Lullabye (Goodnight, My Angel) (76.48) |
+| MONTERO (Call Me By Your Name) (178.818) | Green Light (feat. André 3000) (77.506) |
+| She's Always a Woman (176.631) | Bridge Over Troubled Water (79.764) |
+| Partition (175.928) | Halo (79.983) |
+| Irreplaceable (175.868) | Hold Up (80.744) |
+| Take Five (174.322) | Not Ready to Make Nice (83.917) |
+| Countdown (167.351) | The Longest Time (84.347) |

@@ -1,4 +1,9 @@
 # Audio Features for Aegyo
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 10 Months (0.876) | Hello (0.392) |
@@ -11,6 +16,10 @@
 | Gee (0.756) | Signal (0.62) |
 | Babyface (0.752) | Super Yuppers! (0.636) |
 | Very Very Very (0.744) | 9 and Three Quarters (Run Away) (0.639) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Super Yuppers! (0.931) | Life's Too Short (English Version) (0.8) |
 | Pretty U (0.931) | Babyface (0.803) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Signal (0.334) | Gee (0.0274) |
@@ -37,6 +50,10 @@
 | Power Up (0.144) | Polaroid Love (0.0439) |
 | CHEER UP (0.124) | Hello (0.0459) |
 | Super Yuppers! (0.102) | 10 Months (0.0492) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Dun Dun Dance (0.169) | 10 Months (0.0345) |
 | CHEER UP (0.139) | Babyface (0.0376) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Power Up (0.00745) | Gee (0.0) |
@@ -63,6 +84,10 @@
 | Like Ooh-Ahh (0.000105) | Dolphin (0.0) |
 | YES or YES (3.72e-06) | Blue Hour (0.0) |
 | Very Very Very (1.86e-06) | Hello (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Super Yuppers! (0.296) | Let Me In (20 CUBE) (0.0912) |
 | What is Love (0.264) | THRILL RIDE (0.0971) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Hmph! (0.926) | TT (0.396) |
@@ -89,3 +118,20 @@
 | Umpah Umpah (0.844) | 青春修炼手册 (0.564) |
 | BBoom BBoom (0.833) | What is Love (0.569) |
 | Banana Allergy Monkey (0.81) | Dolphin (0.621) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/aegyo/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | Life's Too Short (English Version) (72.203) |
+| Not For Sale (192.13) | THRILL RIDE (97.035) |
+| Hello (185.869) | Gee (99.988) |
+| CHEER UP (172.95) | Very Very Very (102.985) |
+| Let Me In (20 CUBE) (171.853) | Yummy Yummy Love (107.98) |
+| What is Love (169.966) | 10 Months (110.006) |
+| Heart Shaker (164.062) | Blue Hour (112.005) |
+| Power Up (159.998) | Dolphin (113.993) |
+| Super Yuppers! (156.052) | Dun Dun Dance (114.968) |
+| Pretty U (155.088) | Umpah Umpah (119.973) |

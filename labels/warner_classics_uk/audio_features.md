@@ -1,4 +1,9 @@
 # Audio Features for Warner Classics UK
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Brahms: Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso (0.321) | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo (0.0817) |
@@ -11,6 +16,10 @@
 | Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo (0.152) | Brahms: Symphony No. 3 in F Major, Op. 90: IV. Allegro (0.134) |
 | Brahms: Symphony No. 3 in F Major, Op. 90: IV. Allegro (0.134) | Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo (0.152) |
 | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio (0.132) | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (0.165) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso (0.121) | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo (0.126) |
 | Brahms: Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo (0.0931) | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro (0.142) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto (0.0466) | Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito (0.0325) |
@@ -37,6 +50,10 @@
 | Brahms: Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo (0.0399) | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto (0.0396) |
 | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto (0.0396) | Brahms: Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo (0.0399) |
 | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (0.0394) | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato (0.0403) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso (0.974) | Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo (0.974) |
 | Brahms: Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo (0.972) | Brahms: Symphony No. 3 in F Major, Op. 90: IV. Allegro (0.977) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso (0.928) | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto (0.829) |
@@ -63,6 +84,10 @@
 | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio (0.896) | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (0.893) |
 | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (0.893) | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio (0.896) |
 | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro (0.892) | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato (0.902) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Brahms: Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo (0.109) | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto (0.11) |
 | Brahms: Symphony No. 2 in D Major, Op. 73: III. Allegretto grazioso. Quasi andantino (0.109) | Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito (0.111) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Brahms: Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso (0.242) | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante (0.0345) |
@@ -89,3 +118,20 @@
 | Brahms: Symphony No. 3 in F Major, Op. 90: IV. Allegro (0.0487) | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (0.0415) |
 | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (0.0415) | Brahms: Symphony No. 3 in F Major, Op. 90: IV. Allegro (0.0487) |
 | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio (0.0395) | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro (0.0535) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics_uk/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Brahms: Symphony No. 1 in C Minor, Op. 68: IV. Finale. Adagio (134.592) | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante (60.218) |
+| Brahms: Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo (120.806) | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato (69.042) |
+| Brahms: Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso (118.069) | Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo (73.925) |
+| Brahms: Symphony No. 2 in D Major, Op. 73: IV. Allegro con spirito (101.371) | Brahms: Symphony No. 1 in C Minor, Op. 68: III. Un poco allegretto e grazioso (75.646) |
+| Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro (96.728) | Brahms: Symphony No. 3 in F Major, Op. 90: IV. Allegro (76.428) |
+| Brahms: Symphony No. 2 in D Major, Op. 73: III. Allegretto grazioso. Quasi andantino (88.225) | Brahms: Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto (76.601) |
+| Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (87.767) | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio (77.537) |
+| Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto (83.372) | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo (82.317) |
+| Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo (82.317) | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto (83.372) |
+| Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio (77.537) | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato (87.767) |

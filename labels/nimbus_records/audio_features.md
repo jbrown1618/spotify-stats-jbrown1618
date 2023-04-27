@@ -1,4 +1,9 @@
 # Audio Features for Nimbus Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Études, L. 136: II. Pour les Accords (0.464) | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.191) |
@@ -11,6 +16,10 @@
 | Suite Bergamasque, L. 75: Passepied (0.337) | Études, L. 136: I. Pour les Arpeges Composes (0.281) |
 | Clair de Lune, L. 32 (0.335) | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.294) |
 | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.333) | Préludes Book 2, L. 123: II. Canope (0.325) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Children's Corner, L. 113: II. The Snow is Dancing (0.0199) | Préludes Book 2, L. 123: I. General Lavine (0.0126) |
 | Préludes Book 1, L. 117: IV. Minstrels (0.0179) | Études, L. 136: I. Pour les Arpeges Composes (0.0175) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Préludes Book 2, L. 123: II. Canope (0.0681) | Préludes Book 1, L. 117: IV. Minstrels (0.0315) |
@@ -37,6 +50,10 @@
 | La Plus que Lente, L. 121 (0.0499) | Clair de Lune, L. 32 (0.0376) |
 | Préludes Book 2, L. 123: I. General Lavine (0.0432) | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0398) |
 | Images, Set 1, L. 110: Reflets dans L'eau (0.0414) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.04) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.994) | Préludes Book 2, L. 123: I. General Lavine (0.993) |
 | Estampes, L. 100: Jardins sous La Pluie (0.993) | Children's Corner, L. 113: II. The Snow is Dancing (0.993) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Estampes, L. 100: Jardins sous La Pluie (0.948) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.435) |
@@ -63,6 +84,10 @@
 | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (0.925) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (0.887) |
 | Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (0.921) | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.895) |
 | Clair de Lune, L. 32 (0.912) | Suite Bergamasque, L. 75: Passepied (0.909) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Masques, L. 105 (0.0887) | Préludes Book 1, L. 117: IV. Minstrels (0.0675) |
 | Children's Corner, L. 113: II. The Snow is Dancing (0.0768) | Études, L. 136: I. Pour les Arpeges Composes (0.071) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (0.414) | Préludes Book 2, L. 123: III. Feux d'Artifice (0.0327) |
@@ -89,3 +118,20 @@
 | La Plus que Lente, L. 121 (0.105) | Estampes, L. 100: Jardins sous La Pluie (0.0399) |
 | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (0.0853) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (0.0476) |
 | Études, L. 136: I. Pour les Arpeges Composes (0.0539) | Préludes Book 2, L. 123: II. Canope (0.0494) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/nimbus_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Études, L. 136: I. Pour les Arpeges Composes (139.878) | Clair de Lune, L. 32 (65.832) |
+| La Fille aux Cheveux de Lin, L. 33 (109.601) | Préludes Book 1, L. 117: III. La Cathedrale Engloutie (66.573) |
+| Préludes Book 1, L. 117: II. Ce qu'a vu Le Vent d'Ouest (106.359) | Images, Set 1, L. 110: Reflets dans L'eau (69.004) |
+| Children's Corner, L. 113: II. The Snow is Dancing (105.073) | La Plus que Lente, L. 121 (70.119) |
+| Estampes, L. 100: Jardins sous La Pluie (104.424) | Children's Corner, L. 113: III. Golliwogg's Cake-Walk (72.406) |
+| Études, L. 136: II. Pour les Accords (100.118) | Préludes Book 2, L. 123: II. Canope (74.461) |
+| Préludes Book 2, L. 123: I. General Lavine (95.819) | Images, Set 2, L. 111: et la Lune descend sur le Temple qui fut (80.257) |
+| Préludes Book 1, L. 117: IV. Minstrels (94.043) | Préludes Book 1, L. 117: I. Des Pas sur La Neige (81.577) |
+| Préludes Book 2, L. 123: III. Feux d'Artifice (92.939) | Children's Corner, L. 113: I. Doctor Gradus ad Parnassum (85.934) |
+| Masques, L. 105 (92.243) | Suite Bergamasque, L. 75: Passepied (89.813) |

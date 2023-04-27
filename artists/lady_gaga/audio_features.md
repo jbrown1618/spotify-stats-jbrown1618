@@ -1,4 +1,9 @@
 # Audio Features for Lady Gaga
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | LoveGame (0.894) | La Vie En Rose (0.276) |
@@ -11,6 +16,10 @@
 | Bad Romance (0.696) | Paparazzi (0.762) |
 | Rain On Me (with Ariana Grande) (0.672) | Just Dance (0.822) |
 | Million Reasons (0.666) | Telephone (0.824) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | LoveGame (0.678) | Poker Face (0.806) |
 | Til It Happens To You (0.539) | Telephone (0.836) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Poker Face (0.0787) | Just Dance (0.0311) |
@@ -37,6 +50,10 @@
 | Telephone (0.0404) | Million Reasons (0.043) |
 | Rain On Me (with Ariana Grande) (0.0397) | Paparazzi (0.0438) |
 | Bad Romance (0.0363) | Yoü And I (0.0476) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Just Dance (0.0264) | Poker Face (0.118) |
 | Rain On Me (with Ariana Grande) (0.021) | Look What I Found (0.456) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Telephone (0.000817) | Til It Happens To You (0.0) |
@@ -63,6 +84,10 @@
 | Rain On Me (with Ariana Grande) (0.0) | LoveGame (2.43e-06) |
 | Million Reasons (0.0) | Sour Candy (with BLACKPINK) (1.12e-05) |
 | Paparazzi (0.0) | Just Dance (4.26e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Million Reasons (0.106) | Just Dance (0.181) |
 | Paparazzi (0.094) | LoveGame (0.317) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | LoveGame (0.844) | Til It Happens To You (0.15) |
@@ -89,3 +118,20 @@
 | Yoü And I (0.514) | Bad Romance (0.714) |
 | Look What I Found (0.447) | Telephone (0.716) |
 | Paparazzi (0.397) | Just Dance (0.745) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/lady_gaga/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Million Reasons (129.89) | La Vie En Rose (76.18) |
+| Yoü And I (127.083) | Look What I Found (97.012) |
+| Rain On Me (with Ariana Grande) (123.056) | LoveGame (105.024) |
+| Telephone (122.014) | Til It Happens To You (113.87) |
+| Sour Candy (with BLACKPINK) (120.006) | Paparazzi (114.906) |
+| Bad Romance (119.001) | Just Dance (118.992) |
+| Poker Face (118.999) | Poker Face (118.999) |
+| Just Dance (118.992) | Bad Romance (119.001) |
+| Paparazzi (114.906) | Sour Candy (with BLACKPINK) (120.006) |
+| Til It Happens To You (113.87) | Telephone (122.014) |

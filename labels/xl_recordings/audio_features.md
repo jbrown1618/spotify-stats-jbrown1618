@@ -1,4 +1,9 @@
 # Audio Features for XL Recordings
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Rolling in the Deep (0.73) | Pyramid Song (0.127) |
@@ -11,6 +16,10 @@
 | Reckoner (0.523) | Karma Police (0.36) |
 | Creep (0.515) | Take It All (0.415) |
 | Street Spirit (Fade Out) (0.488) | High and Dry (0.419) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Skyfall (0.552) | Street Spirit (Fade Out) (0.454) |
 | Karma Police (0.501) | Everything In Its Right Place (0.463) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Paranoid Android (0.0579) | Set Fire to the Rain (0.0249) |
@@ -37,6 +50,10 @@
 | Pyramid Song (0.0329) | Skyfall (0.0282) |
 | There, There (0.0323) | Fake Plastic Trees (0.0297) |
 | Let Down (0.0313) | Rolling in the Deep (0.0298) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Street Spirit (Fade Out) (0.317) | Jigsaw Falling Into Place (0.108) |
 | Chasing Pavements (0.312) | Rolling in the Deep (0.138) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Weird Fishes/ Arpeggi (0.756) | Rolling in the Deep (0.0) |
@@ -63,6 +84,10 @@
 | Let Down (0.113) | Creep (0.000133) |
 | Fake Plastic Trees (0.0997) | No Surprises (0.00361) |
 | Everything In Its Right Place (0.0482) | Jigsaw Falling Into Place (0.00416) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Skyfall (0.114) | There, There (0.108) |
 | No Surprises (0.113) | Chasing Pavements (0.11) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Jigsaw Falling Into Place (0.807) | Everything In Its Right Place (0.0629) |
@@ -89,3 +118,20 @@
 | Someone Like You (0.294) | Fake Plastic Trees (0.135) |
 | Take It All (0.282) | Let Down (0.143) |
 | Reckoner (0.214) | Exit Music (For A Film) (0.195) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/xl_recordings/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Jigsaw Falling Into Place (165.653) | Fake Plastic Trees (73.543) |
+| Paranoid Android (163.709) | Karma Police (74.807) |
+| Weird Fishes/ Arpeggi (152.958) | Skyfall (75.881) |
+| Take It All (138.096) | No Surprises (76.426) |
+| Street Spirit (Fade Out) (138.076) | Pyramid Song (77.078) |
+| Someone Like You (135.187) | Chasing Pavements (80.027) |
+| There, There (126.482) | High and Dry (87.568) |
+| Everything In Its Right Place (123.943) | All I Need (88.014) |
+| Exit Music (For A Film) (121.603) | Creep (91.844) |
+| Set Fire to the Rain (107.993) | Let Down (102.46) |

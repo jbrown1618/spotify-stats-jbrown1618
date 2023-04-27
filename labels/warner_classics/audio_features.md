@@ -1,4 +1,9 @@
 # Audio Features for Warner Classics
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Traditional: Ciao, Bella, Ciao (0.74) | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato (0.0958) |
@@ -11,6 +16,10 @@
 | Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo (0.472) | Greensleeves (0.146) |
 | Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro (0.467) | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio (0.147) |
 | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12e, Divertissement. Dance of the Reed-Flutes (0.462) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers (0.149) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Tchaikovsky: Swan Lake, Op. 20, Act I: Introduction - No. 1, Scene. Allegro giusto (0.298) | Danny Boy (0.0284) |
 | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance (0.294) | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: II. Largo (0.0288) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro (0.0963) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella" (0.0332) |
@@ -37,6 +50,10 @@
 | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": III. Allegro "La caccia" (0.0533) | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 9, Finale. Andante (0.0353) |
 | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto (0.053) | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato (0.0364) |
 | Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 28, Scene. Allegro agitato (0.0523) | Mozart: Eine kleine Nachtmusik, K. 525: IV. Rondo. Allegro (0.0366) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 4, Dancing Scene. Arrival of Drosselmeyer (0.971) | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": I. Allegro (0.842) |
 | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 20, Hungarian Dance "Czárdás" (0.97) | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto (0.852) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Tchaikovsky: Swan Lake, Op. 20, Act IV: No. 26, Scene. Allegro ma non troppo (0.978) | Traditional: Ciao, Bella, Ciao (0.0) |
@@ -63,6 +84,10 @@
 | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers (0.928) | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto (0.0645) |
 | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto (0.927) | Mozart: Eine kleine Nachtmusik, K. 525: II. Romance. Andante (0.0789) |
 | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella" (0.926) | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto (0.0917) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": II. Adagio (0.293) | Mozart: Eine kleine Nachtmusik, K. 525: II. Romance. Andante (0.0798) |
 | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 24, Scene. Allegro - Valse - Allegro vivo (0.271) | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka (0.0802) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12a, Divertissement. Chocolate, Spanish Dance (0.879) | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto (0.0323) |
@@ -89,3 +118,20 @@
 | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto (0.579) | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 14, Scene. Moderato (0.0416) |
 | Mozart: Eine kleine Nachtmusik, K. 525: III. Menuetto. Allegretto (0.554) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14c, Pas de deux. Variation II "Dance of the Sugar Plum Fairy" (0.0463) |
 | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: I. Allegro aperto (0.544) | Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 6, Clara and the Nutcracker (0.0505) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/warner_classics/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 23, Mazurka (184.562) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers (47.362) |
+| Tchaikovsky: Swan Lake, Op. 20, Act I: No. 7, Sujet (181.794) | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato (58.303) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 22, Neapolitan Dance (159.829) | Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents (62.102) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance (157.195) | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 6, Pas d'action. Andantino, quasi moderato - Allegro (62.261) |
+| Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto (156.176) | Tchaikovsky: Swan Lake, Op. 20, Act I: No. 3, Scene. Allegro moderato (65.136) |
+| Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto (152.801) | Tchaikovsky: Swan Lake, Op. 20, Act II: No. 11, Scene. Allegro moderato - Moderato - Allegro vivo (68.297) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III, Appendix I: Pas de deux (152.712) | Tchaikovsky: Swan Lake, Op. 20, Act III: No. 24, Scene. Allegro - Valse - Allegro vivo (69.454) |
+| Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March (150.319) | Mozart: Eine kleine Nachtmusik, K. 525: II. Romance. Andante (69.457) |
+| Tchaikovsky: Swan Lake, Op. 20, Act III: No. 15, Scene. March - Allegro giusto (148.003) | Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 7, The Battle (72.131) |
+| Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": III. Allegro "La caccia" (147.262) | Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 11, Arrival of Clara and the Nutcracker (72.973) |

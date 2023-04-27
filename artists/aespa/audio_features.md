@@ -1,4 +1,9 @@
 # Audio Features for aespa
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Next Level - Habstrakt Remix (0.828) | Life's Too Short (English Version) (0.472) |
@@ -11,6 +16,10 @@
 | Beautiful Christmas (0.719) | Dreams Come True (0.686) |
 | Lucid Dream (0.7) | Lucid Dream (0.7) |
 | Dreams Come True (0.686) | Beautiful Christmas (0.719) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | ICONIC (0.842) | ICONIC (0.842) |
 | Next Level - Habstrakt Remix (0.816) | Next Level (0.852) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Girls (0.325) | Beautiful Christmas (0.0311) |
@@ -37,6 +50,10 @@
 | I'll Make You Cry (0.11) | Black Mamba (0.103) |
 | Next Level - Habstrakt Remix (0.106) | Next Level - Habstrakt Remix (0.106) |
 | Black Mamba (0.103) | I'll Make You Cry (0.11) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Hold On Tight (0.0911) | Hold On Tight (0.0911) |
 | I'll Make You Cry (0.0861) | Girls (0.115) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Next Level - Habstrakt Remix (0.201) | ICU (0.0) |
@@ -63,6 +84,10 @@
 | Savage (1.17e-05) | Next Level (5.94e-06) |
 | ICONIC (7.94e-06) | ICONIC (7.94e-06) |
 | Next Level (5.94e-06) | Savage (1.17e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Life's Too Short (0.149) | Life's Too Short (0.149) |
 | Lingo (0.145) | Life's Too Short (English Version) (0.149) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Next Level (0.82) | Lucid Dream (0.146) |
@@ -89,3 +118,20 @@
 | ICONIC (0.625) | Dreams Come True (0.571) |
 | Illusion (0.592) | Illusion (0.592) |
 | Dreams Come True (0.571) | ICONIC (0.625) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/aespa/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Girls (171.958) | Life's Too Short (English Version) (72.203) |
+| I'll Make You Cry (164.939) | Life's Too Short (83.311) |
+| ICONIC (152.991) | Illusion (90.027) |
+| Savage (146.959) | Black Mamba (90.069) |
+| YEPPI YEPPI (124.993) | Lingo (96.011) |
+| Hold On Tight (119.8) | Lucid Dream (97.998) |
+| Beautiful Christmas (109.98) | Dreams Come True (98.977) |
+| Next Level (109.036) | ICU (101.841) |
+| Next Level - Habstrakt Remix (109.017) | Next Level - Habstrakt Remix (109.017) |
+| ICU (101.841) | Next Level (109.036) |

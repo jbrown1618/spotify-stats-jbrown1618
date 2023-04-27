@@ -1,4 +1,9 @@
 # Audio Features for WM Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Selfish (0.88) | 5th Season (SSFWL) (0.557) |
@@ -11,6 +16,10 @@
 | SAY NO MORE (0.693) | Banana Allergy Monkey (0.815) |
 | Dun Dun Dance (0.647) | Dolphin (0.858) |
 | 5th Season (SSFWL) (0.557) | Selfish (0.88) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | My doll (0.671) | Nonstop (0.91) |
 | Ya! (feat. Whee In) (0.532) | Dun Dun Dance (0.957) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | My doll (0.211) | 5th Season (SSFWL) (0.0496) |
@@ -37,6 +50,10 @@
 | Nonstop (0.0517) | Dun Dun Dance (0.0819) |
 | Bon voyage (0.0509) | Selfish (0.178) |
 | 5th Season (SSFWL) (0.0496) | My doll (0.211) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Banana Allergy Monkey (0.108) | Selfish (0.403) |
 | SAY NO MORE (0.0534) | 5th Season (SSFWL) (0.453) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Bon voyage (3.84e-05) | Ya! (feat. Whee In) (0.0) |
@@ -63,6 +84,10 @@
 | Dolphin (0.0) | Selfish (5.65e-06) |
 | 5th Season (SSFWL) (0.0) | My doll (3.26e-05) |
 | Ya! (feat. Whee In) (0.0) | Bon voyage (3.84e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Bon voyage (0.117) | Selfish (0.426) |
 | Banana Allergy Monkey (0.101) | 5th Season (SSFWL) (0.635) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Selfish (0.955) | Bon voyage (0.273) |
@@ -89,3 +118,20 @@
 | 5th Season (SSFWL) (0.533) | Banana Allergy Monkey (0.81) |
 | My doll (0.513) | Nonstop (0.825) |
 | Bon voyage (0.273) | Selfish (0.955) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/wm_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| My doll (158.956) | Ya! (feat. Whee In) (88.015) |
+| Banana Allergy Monkey (130.034) | SAY NO MORE (102.072) |
+| 5th Season (SSFWL) (125.941) | Dolphin (113.993) |
+| Nonstop (123.983) | Dun Dun Dance (114.968) |
+| Selfish (120.028) | Bon voyage (119.793) |
+| Bon voyage (119.793) | Selfish (120.028) |
+| Dun Dun Dance (114.968) | Nonstop (123.983) |
+| Dolphin (113.993) | 5th Season (SSFWL) (125.941) |
+| SAY NO MORE (102.072) | Banana Allergy Monkey (130.034) |
+| Ya! (feat. Whee In) (88.015) | My doll (158.956) |

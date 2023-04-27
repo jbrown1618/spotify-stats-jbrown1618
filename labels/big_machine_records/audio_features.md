@@ -1,4 +1,9 @@
 # Audio Features for Big Machine Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Clean (0.81) | Back To December (0.529) |
@@ -11,6 +16,10 @@
 | Dress (0.719) | Call It What You Want (0.598) |
 | Last Christmas (0.702) | Style (0.598) |
 | I Did Something Bad (0.696) | Red (0.602) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | ...Ready For It? (0.764) | Gorgeous (0.535) |
 | I Know Places (0.763) | I Did Something Bad (0.602) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Dancing With Our Hands Tied (0.196) | All Too Well (0.0243) |
@@ -37,6 +50,10 @@
 | We Are Never Ever Getting Back Together (0.0916) | Clean (0.0349) |
 | Wildest Dreams (0.0747) | I Knew You Were Trouble. (0.0363) |
 | Call It What You Want (0.0731) | Last Christmas (0.0372) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Love Story (0.17) | ...Ready For It? (0.0527) |
 | You Belong With Me (0.162) | Shake It Off (0.0561) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Wildest Dreams (0.00593) | Clean (0.0) |
@@ -63,6 +84,10 @@
 | I Did Something Bad (2.11e-05) | I Know Places (0.0) |
 | Don’t Blame Me (1.76e-05) | Forever & Always (0.0) |
 | Look What You Made Me Do (1.41e-05) | Shake It Off (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Gorgeous (0.213) | Forever & Always (0.11) |
 | I Know Places (0.2) | Clean (0.113) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Shake It Off (0.943) | Delicate (0.0499) |
@@ -89,3 +118,20 @@
 | Welcome To New York (0.615) | Love Story (0.296) |
 | Blank Space (0.583) | I Did Something Bad (0.305) |
 | Forever & Always (0.544) | Begin Again (0.323) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/big_machine_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Mean (163.974) | I Knew You Were Trouble. (77.019) |
+| This Is Why We Can't Have Nice Things (163.96) | Begin Again (79.025) |
+| Call It What You Want (163.954) | I Did Something Bad (82.989) |
+| Dancing With Our Hands Tied (160.024) | We Are Never Ever Getting Back Together (85.984) |
+| Shake It Off (160.015) | Our Song (89.011) |
+| ...Ready For It? (160.015) | Out Of The Woods (91.991) |
+| I Know Places (159.958) | Gorgeous (92.027) |
+| Back To December (141.893) | All Too Well (93.06) |
+| Wildest Dreams (140.056) | Style (95.019) |
+| Don’t Blame Me (135.917) | Delicate (95.045) |

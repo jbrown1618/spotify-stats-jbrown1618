@@ -1,4 +1,9 @@
 # Audio Features for Kakao Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | BBIBBI (0.839) | Love poem (0.404) |
@@ -11,6 +16,10 @@
 | Friday (feat.Jang Yi-jeong) (0.681) | Merry Christmas ahead (feat.Chundung) (0.665) |
 | Merry Christmas ahead (feat.Chundung) (0.665) | Friday (feat.Jang Yi-jeong) (0.681) |
 | Good day (0.637) | BAAM (0.725) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Blueming (0.674) | BBoom BBoom (0.744) |
 | BBIBBI (0.617) | Merry Christmas ahead (feat.Chundung) (0.803) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | BBIBBI (0.331) | lost child (0.0365) |
@@ -37,6 +50,10 @@
 | BAAM (0.0435) | Glasses (0.043) |
 | Glasses (0.043) | BAAM (0.0435) |
 | Love poem (0.0413) | Friday (feat.Jang Yi-jeong) (0.0512) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | 4AM (0.267) | YOU&I (0.286) |
 | BBIBBI (0.241) | Merry Christmas ahead (feat.Chundung) (0.294) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | BBoom BBoom (0.00666) | Friday (feat.Jang Yi-jeong) (0.0) |
@@ -63,6 +84,10 @@
 | Glasses (0.0) | BBIBBI (0.0) |
 | BBIBBI (0.0) | Glasses (0.0) |
 | Blueming (0.0) | Merry Christmas ahead (feat.Chundung) (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Good day (0.0981) | YOU&I (0.0982) |
 | The Red Shoes (0.0898) | Friday (feat.Jang Yi-jeong) (0.103) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Twenty-three (0.968) | lost child (0.174) |
@@ -89,3 +118,20 @@
 | Glasses (0.608) | Good day (0.552) |
 | Good day (0.552) | Glasses (0.608) |
 | Friday (feat.Jang Yi-jeong) (0.551) | Pierrot laughs at us (0.659) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/kakao_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| above the time (147.961) | Friday (feat.Jang Yi-jeong) (80.052) |
+| BBIBBI (143.894) | 4AM (84.976) |
+| YOU&I (134.004) | Blueming (106.032) |
+| Good day (128.027) | Pierrot laughs at us (106.032) |
+| Merry Christmas ahead (feat.Chundung) (127.998) | Glasses (114.999) |
+| BAAM (127.051) | The Red Shoes (118.065) |
+| BBoom BBoom (126.018) | Love poem (119.994) |
+| lost child (123.937) | Twenty-three (122.952) |
+| Twenty-three (122.952) | lost child (123.937) |
+| Love poem (119.994) | BBoom BBoom (126.018) |

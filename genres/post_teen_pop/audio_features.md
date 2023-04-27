@@ -1,4 +1,9 @@
 # Audio Features for post-teen pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Low Key (feat. Tyga) (0.79) | Stay (0.262) |
@@ -11,6 +16,10 @@
 | Lie To Me (0.683) | Bright Lights and Cityscapes (0.343) |
 | No Such Thing (0.677) | Everything Changes (0.348) |
 | King of Anything (0.676) | Breathe Again (0.366) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | One Sweet Love (0.812) | Basket Case (0.273) |
 | Gonna Get Over You (0.799) | Gravity (0.275) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Heart Attack (0.104) | Satellite Call (0.0241) |
@@ -37,6 +50,10 @@
 | Fire (0.057) | If I Can't Have You (0.0297) |
 | Eden (0.0562) | The Light (0.0297) |
 | Little Black Dress (0.0554) | Gonna Get Over You (0.0301) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | I See the Light - From "Tangled" / Soundtrack Version (0.829) | Love Song (0.0208) |
 | Someone Who Loves Me (0.826) | Let The Rain (0.023) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Satellite Call (0.0318) | Say You're Sorry (0.0) |
@@ -63,6 +84,10 @@
 | Fire (0.00165) | Hercules (0.0) |
 | Stay (0.00154) | Heart Attack (0.0) |
 | December (0.00117) | Me And My Broken Heart (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Say You're Sorry (0.212) | Islands (0.0699) |
 | Armor (0.193) | I See the Light - From "Tangled" / Soundtrack Version (0.0725) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I Choose You (0.947) | Once Upon Another Time (0.0551) |
@@ -89,3 +118,20 @@
 | Brave (0.758) | She Used To Be Mine (0.172) |
 | Wicked Love (0.754) | Stay (0.181) |
 | Low Key (feat. Tyga) (0.748) | City (0.192) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Uncharted (203.962) | What's Inside (63.218) |
+| Brave (185.063) | Bright Lights and Cityscapes (66.509) |
+| Wicked Love (179.894) | Come Round Soon (74.751) |
+| Me And My Broken Heart (174.084) | Basket Case (76.196) |
+| Heart Attack (173.968) | Armor (78.784) |
+| Say You're Sorry (170.016) | Vegas (79.999) |
+| Breathe Again (169.677) | Islands (80.023) |
+| Gravity (168.964) | Orpheus (80.365) |
+| Bad Idea (feat. Jason Mraz) (167.936) | She Used To Be Mine (81.05) |
+| Eyes on You (165.97) | Poetry by Dead Men (81.971) |

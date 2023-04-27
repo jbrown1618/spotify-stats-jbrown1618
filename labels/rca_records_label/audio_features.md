@@ -1,4 +1,9 @@
 # Audio Features for RCA Records Label
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | I Don't Mind (feat. Juicy J) (0.87) | Never Enough (0.189) |
@@ -11,6 +16,10 @@
 | Finesse (0.763) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.317) |
 | Kiss Me More (feat. SZA) (0.762) | The Lion Sleeps Tonight (Wimoweh) (0.321) |
 | bad guy (0.76) | Hallelujah (0.364) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | TiK ToK (0.837) | bad guy (0.315) |
 | Finesse (0.836) | O Come, O Come Emmanuel (0.329) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack (0.433) | It's the Most Wonderful Time of the Year (0.0256) |
@@ -37,6 +50,10 @@
 | Say So (0.159) | Over The Rainbow (0.0292) |
 | Eye of the Needle (0.144) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.0294) |
 | TiK ToK (0.142) | First Train Home (0.0295) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Can't Help Falling In Love (0.729) | Someday (0.00425) |
 | O Come, O Come Emmanuel (0.725) | The Baddest Girl (0.00637) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Reptilia (0.713) | Natural Disaster (0.0) |
@@ -63,6 +84,10 @@
 | Cheap Thrills (0.00143) | Lost in Japan (0.0) |
 | Bird Set Free (0.000667) | Can't Sleep Love (feat. Tink) (0.0) |
 | Work Bitch (0.000628) | Imagine (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Señorita (0.338) | Chandelier (0.0685) |
 | Dance of the Sugar Plum Fairy (0.334) | I Need Your Love (0.0741) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Earth (0.938) | Say Something (0.0812) |
@@ -89,3 +118,20 @@
 | Natural Disaster (0.819) | Mary, Did You Know? (0.177) |
 | City Girls (0.815) | What About Us (0.193) |
 | Rockin' Around the Christmas Tree (0.809) | Need to Know (0.194) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/rca_records_label/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Attention (204.19) | Rockin' Around the Christmas Tree (75.523) |
+| Hey Momma / Hit the Road Jack (203.068) | The Baddest Girl (77.861) |
+| The Pretender (172.984) | Already Gone (78.139) |
+| Candyman (172.976) | Never Enough (78.702) |
+| Aha! (172.015) | The Christmas Song (Chestnuts Roasting on an Open Fire) (78.918) |
+| Carol of the Bells (171.857) | Over The Rainbow (83.736) |
+| The Adults Are Talking (164.959) | Run to You (85.495) |
+| Say My Name (164.035) | Natural Disaster (88.033) |
+| Big Girls Cry (161.996) | Aha! (88.492) |
+| Everlong (158.066) | Hallelujah (89.918) |

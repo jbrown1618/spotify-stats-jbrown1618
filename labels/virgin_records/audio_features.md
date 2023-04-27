@@ -1,4 +1,9 @@
 # Audio Features for Virgin Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Electric Twist (0.773) | Other Side Of The World (0.501) |
@@ -11,6 +16,10 @@
 | Now Is The Start (0.559) | What I Wouldn't Do (0.614) |
 | Almost Lover (0.549) | Blow Away (0.747) |
 | If I Go (0.545) | Black Horse And The Cherry Tree (0.748) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Electric Twist (0.646) | Now Is The Start (0.781) |
 | Ashes And Wine (0.494) | Black Horse And The Cherry Tree (0.786) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Electric Twist (0.125) | Whisper (0.0252) |
@@ -37,6 +50,10 @@
 | Now Is The Start (0.0332) | If I Go (0.0425) |
 | 1979 - Remastered 2012 (0.0331) | Blow Away (0.0429) |
 | Ashes And Wine (0.0329) | Suddenly I See (0.0449) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Blow Away (0.035) | What I Wouldn't Do (0.376) |
 | 1979 - Remastered 2012 (0.0163) | Other Side Of The World (0.485) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | 1979 - Remastered 2012 (0.583) | Black Horse And The Cherry Tree (0.0) |
@@ -63,6 +84,10 @@
 | Suddenly I See (0.0) | Electric Twist (0.000297) |
 | If I Go (0.0) | What I Wouldn't Do (0.00109) |
 | Other Side Of The World (0.0) | Whisper (0.00168) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Other Side Of The World (0.083) | Suddenly I See (0.112) |
 | Whisper (0.0708) | If I Go (0.172) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 1979 - Remastered 2012 (0.964) | Almost Lover (0.167) |
@@ -89,3 +118,20 @@
 | Other Side Of The World (0.369) | Suddenly I See (0.664) |
 | Whisper (0.26) | Electric Twist (0.858) |
 | Now Is The Start (0.227) | Blow Away (0.891) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/virgin_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| If I Go (147.927) | Other Side Of The World (80.039) |
+| Ashes And Wine (140.153) | Whisper (82.016) |
+| Blow Away (136.014) | Suddenly I See (100.38) |
+| Electric Twist (135.0) | Black Horse And The Cherry Tree (104.833) |
+| 1979 - Remastered 2012 (126.879) | Now Is The Start (114.962) |
+| Almost Lover (119.58) | What I Wouldn't Do (115.175) |
+| What I Wouldn't Do (115.175) | Almost Lover (119.58) |
+| Now Is The Start (114.962) | 1979 - Remastered 2012 (126.879) |
+| Black Horse And The Cherry Tree (104.833) | Electric Twist (135.0) |
+| Suddenly I See (100.38) | Blow Away (136.014) |

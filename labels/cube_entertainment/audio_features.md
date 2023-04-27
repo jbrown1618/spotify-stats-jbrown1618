@@ -1,4 +1,9 @@
 # Audio Features for CUBE ENTERTAINMENT
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Idle song (0.933) | Sparkling Night (0.422) |
@@ -11,6 +16,10 @@
 | Trouble Maker (0.838) | Like It (0.648) |
 | Senorita (0.782) | Sculpture (0.65) |
 | LATATA (0.774) | ALREADY (0.663) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Bubble Pop! (0.871) | Missing You (0.736) |
 | TOMBOY (0.87) | VILLAIN DIES (0.743) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Feelin' Like (0.353) | ESCAPE (0.0295) |
@@ -37,6 +50,10 @@
 | MY BAG (0.164) | Like It (0.043) |
 | Hate (0.163) | Change (0.0484) |
 | Sculpture (0.16) | Trouble Maker (0.0541) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Fiction (0.223) | Never Stop Me (0.0364) |
 | Sparkling Night (0.197) | Nxde (0.0413) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Bubble Pop! (0.00392) | TOMBOY (0.0) |
@@ -63,6 +84,10 @@
 | Crazy (4.11e-06) | ESCAPE (0.0) |
 | Trouble Maker (3.77e-06) | BLACK DRESS (0.0) |
 | Like It (1.43e-06) | Because It's Christmas (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Bubble Pop! (0.285) | Sparkling Night (0.0851) |
 | LATATA (0.283) | TOMBOY (0.0917) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pepe (0.966) | HANN (Alone) (0.24) |
@@ -89,3 +118,20 @@
 | MY BAG (0.759) | Hobgoblin (0.401) |
 | Jelly (0.729) | Senorita (0.42) |
 | No (0.687) | Because It's Christmas (0.452) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/cube_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Crazy (176.019) | VILLAIN DIES (77.008) |
+| LIAR (173.73) | ALREADY (91.832) |
+| Hobgoblin (169.91) | MY BAG (94.024) |
+| Sparkling Night (169.883) | Like It (97.021) |
+| Missing You (168.05) | LATATA (98.1) |
+| DARK (X-file) (165.924) | MAZE (99.99) |
+| $$$ (151.115) | HANN (Alone) (104.971) |
+| Shine (150.013) | LOVE (104.99) |
+| Hate (149.96) | BLACK DRESS (108.001) |
+| Never Stop Me (149.939) | Change (109.997) |

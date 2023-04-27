@@ -1,4 +1,9 @@
 # Audio Features for SOURCE MUSIC
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | ANTIFRAGILE (0.882) | Love Rain (Feat. SURAN) (0.469) |
@@ -11,6 +16,10 @@
 | No Celestial (0.618) | Impurities (0.715) |
 | I ≠ DOLL (0.618) | Sour Grapes (0.779) |
 | Rough (0.613) | Blue Flame (0.781) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Blue Flame (0.725) | Sour Grapes (0.801) |
 | Love Rain (Feat. SURAN) (0.631) | MAGO (0.821) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | FEARLESS (0.135) | MAGO (0.0364) |
@@ -37,6 +50,10 @@
 | Sour Grapes (0.0457) | ANTIFRAGILE (0.0819) |
 | Blue Flame (0.0452) | No Celestial (0.0825) |
 | Impurities (0.0373) | Love Rain (Feat. SURAN) (0.0926) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Blue Flame (0.0281) | Rough (0.152) |
 | No Celestial (0.0168) | Impurities (0.231) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | FEARLESS (0.00324) | I ≠ DOLL (0.0) |
@@ -63,6 +84,10 @@
 | Rough (0.0) | Sour Grapes (0.0) |
 | Blue Flame (0.0) | Impurities (0.0) |
 | NAVILLERA (0.0) | Raise y_our glass (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Rough (0.111) | I ≠ DOLL (0.146) |
 | Sour Grapes (0.108) | NAVILLERA (0.273) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | ANTIFRAGILE (0.824) | Raise y_our glass (0.184) |
@@ -89,3 +118,20 @@
 | Love Rain (Feat. SURAN) (0.643) | Sour Grapes (0.72) |
 | Impurities (0.464) | Rough (0.734) |
 | FEARLESS (0.432) | Blue Flame (0.765) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/source_music/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Love Rain (Feat. SURAN) (173.689) | Raise y_our glass (72.798) |
+| I ≠ DOLL (159.996) | Impurities (90.065) |
+| Sour Grapes (139.998) | FEARLESS (103.971) |
+| No Celestial (138.028) | ANTIFRAGILE (105.025) |
+| NAVILLERA (125.008) | Rough (112.005) |
+| MAGO (120.062) | Blue Flame (112.045) |
+| Blue Flame (112.045) | MAGO (120.062) |
+| Rough (112.005) | NAVILLERA (125.008) |
+| ANTIFRAGILE (105.025) | No Celestial (138.028) |
+| FEARLESS (103.971) | Sour Grapes (139.998) |

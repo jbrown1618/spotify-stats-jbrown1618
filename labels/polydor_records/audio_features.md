@@ -1,4 +1,9 @@
 # Audio Features for Polydor Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | You Don't Know Me (0.877) | Born To Die (0.18) |
@@ -11,6 +16,10 @@
 | Something In The Way You Move (0.658) | The Point Of No Return (0.251) |
 | Doin' Time (0.641) | I Dreamed A Dream - From "Les Misérables" (0.256) |
 | Prologue (0.626) | Shades Of Cool (0.262) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Free (0.696) | Wishing You Were Somehow Here Again (0.102) |
 | Brooklyn Baby (0.664) | Think Of Me (0.114) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Prologue (0.748) | Chasing Cars (0.0274) |
@@ -37,6 +50,10 @@
 | Wandering Child / Bravo, Monsieur (0.0874) | Mercy (0.0332) |
 | Radio (0.0846) | Summertime Sadness (0.0334) |
 | Slow Grenade (0.0771) | Behind Blue Eyes (0.0336) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Think Of Me (0.905) | Off To The Races (0.061) |
 | Wishing You Were Somehow Here Again (0.898) | Slow Grenade (0.0996) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Swan Song (0.421) | Do You Hear The People Sing? (0.0) |
@@ -63,6 +84,10 @@
 | All I Ask Of You - Reprise (0.0315) | Summertime Sadness (0.0) |
 | West Coast (0.0194) | Slow Grenade (0.0) |
 | Shades Of Cool (0.0161) | Something In The Way You Move (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Masquerade / Why So Silent (0.261) | I Dreamed A Dream - From "Les Misérables" (0.0907) |
 | Swan Song (0.259) | Heat Waves (0.0921) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Mercy (0.964) | Wishing You Were Somehow Here Again (0.0374) |
@@ -89,3 +118,20 @@
 | Do You Hear The People Sing? (0.504) | All I Ask Of You - Reprise (0.0624) |
 | West Coast (0.461) | Why Have You Brought Me Here (0.0742) |
 | Your Song (0.41) | The Point Of No Return (0.0757) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/polydor_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Free (174.806) | On My Own (71.842) |
+| Off To The Races (160.065) | Radio (75.112) |
+| Doin' Time (144.982) | In My Life (75.556) |
+| Slow Grenade (142.035) | Born To Die (75.632) |
+| All I Ask Of You (139.404) | Magical Lasso (76.381) |
+| Shades Of Cool (137.918) | Do You Hear The People Sing? (76.744) |
+| Your Song (133.604) | Norman fucking Rockwell (78.287) |
+| Masquerade / Why So Silent (130.502) | Why Have You Brought Me Here (78.337) |
+| Fuck it I love you (129.974) | The Point Of No Return (80.215) |
+| Mercy (129.911) | Heat Waves (80.87) |

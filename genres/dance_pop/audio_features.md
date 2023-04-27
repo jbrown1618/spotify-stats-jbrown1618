@@ -1,4 +1,9 @@
 # Audio Features for dance pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | SexyBack (feat. Timbaland) (0.967) | Already Gone (0.209) |
@@ -11,6 +16,10 @@
 | Don't Cha (0.877) | Consequences (0.455) |
 | I Don't Mind (feat. Juicy J) (0.87) | Undo It (0.476) |
 | FIRE (0.867) | What About Us (0.491) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Me Enamoré (0.879) | Million Reasons (0.423) |
 | Everybody (Backstreet's Back) - Radio Edit (0.873) | I'm Yours (0.444) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Bubblegum (feat. Tyga) (0.34) | Show Me the Meaning of Being Lonely (0.0252) |
@@ -37,6 +50,10 @@
 | Candyman (0.23) | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
 | Boss Bitch (0.222) | I See the Light - From "Tangled" / Soundtrack Version (0.0305) |
 | Pretty Please (0.194) | ...Baby One More Time (0.0307) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Trumpets (0.555) | I Am The Best (0.00767) |
 | Crank That (Soulja Boy) (0.515) | Finesse (0.00781) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | This Is What You Came For (0.119) | Leave The Door Open (0.0) |
@@ -63,6 +84,10 @@
 | Woman (0.00294) | Before He Cheats (0.0) |
 | You Right (0.00233) | I Thought She Knew (0.0) |
 | Like a Virgin (0.00197) | Til It Happens To You (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | F**kin' Perfect (0.362) | Believe (0.0509) |
 | Living Proof (0.359) | SexyBack (feat. Timbaland) (0.0519) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Material Girl (0.978) | Because of You (0.136) |
@@ -89,3 +118,20 @@
 | Toxic (0.924) | Who You Are (0.215) |
 | Levitating (feat. DaBaby) (0.915) | Womanizer (0.235) |
 | Levitating (0.914) | Never Be the Same (0.243) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Price Tag (175.038) | When I Was Your Man (72.795) |
+| Te Felicito (174.14) | La Vie En Rose (76.18) |
+| Candyman (172.976) | There Goes My Baby (77.468) |
+| Bye Bye Bye (172.638) | Living Proof (77.566) |
+| Show Me the Meaning of Being Lonely (167.998) | Already Gone (78.139) |
+| It's Gonna Be Me (165.071) | I Thought She Knew (79.416) |
+| You and I (Park Bom) (161.838) | Trumpets (82.142) |
+| Undo It (156.254) | Consequences (84.339) |
+| Meant to Be (feat. Florida Georgia Line) (153.995) | F**kin' Perfect (91.973) |
+| I'm Yours (150.96) | Me Gusta (92.007) |

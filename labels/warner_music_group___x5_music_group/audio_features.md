@@ -1,4 +1,9 @@
 # Audio Features for Warner Music Group - X5 Music Group
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Dominick the Donkey (The Italian Christmas Donkey) (0.807) | Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante (0.132) |
@@ -11,6 +16,10 @@
 | Piano Concerto No. 26 in D Major, K. 537 "Coronation": II. Larghetto (0.403) | Piano Concerto No. 5 in D Major, K. 175: II. Andante ma un poco adagio (0.289) |
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante (0.402) | Piano Concerto No. 20 in D Minor, K. 466: I. Allegro (0.297) |
 | Piano Sonata No. 18 in D Major, K. 576: I. Allegro (0.39) | Piano Concerto No. 23 in A Major, K. 488: I. Allegro (0.299) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Piano Sonata No. 18 in D Major, K. 576: I. Allegro (0.0629) | Piano Concerto No. 24 in C Minor, K. 491: II. Larghetto (0.0314) |
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": I. Allegro (0.057) | Piano Concerto No. 5 in D Major, K. 175: II. Andante ma un poco adagio (0.034) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile (0.0534) | Piano Concerto No. 20 in D Minor, K. 466: II. Romance (0.0344) |
@@ -37,6 +50,10 @@
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante (0.0453) | Piano Concerto No. 5 in D Major, K. 175: II. Andante ma un poco adagio (0.0379) |
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo (0.0432) | Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto (0.0387) |
 | Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato (0.0397) | Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante (0.0387) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo (0.993) | Piano Concerto No. 24 in C Minor, K. 491: I. Allegro (0.989) |
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": I. Allegro (0.992) | Piano Concerto No. 20 in D Minor, K. 466: II. Romance (0.989) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo (0.954) | Dominick the Donkey (The Italian Christmas Donkey) (0.0) |
@@ -63,6 +84,10 @@
 | Piano Concerto No. 24 in C Minor, K. 491: I. Allegro (0.917) | Piano Concerto No. 23 in A Major, K. 488: I. Allegro (0.883) |
 | Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante (0.913) | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione (0.889) |
 | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile (0.911) | Piano Concerto No. 23 in A Major, K. 488: II. Adagio (0.891) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Fauré Pavane (0.123) | Piano Concerto No. 26 in D Major, K. 537 "Coronation": II. Larghetto (0.102) |
 | Piano Concerto No. 23 in A Major, K. 488: II. Adagio (0.12) | Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante (0.103) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Dominick the Donkey (The Italian Christmas Donkey) (0.963) | Piano Concerto No. 23 in A Major, K. 488: II. Adagio (0.0519) |
@@ -89,3 +118,20 @@
 | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante (0.467) | Piano Concerto No. 20 in D Minor, K. 466: I. Allegro (0.114) |
 | Piano Sonata No. 14 in C Minor, K. 457: I. Molto allegro (0.4) | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile (0.142) |
 | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione (0.342) | Piano Concerto No. 26 in D Major, K. 537 "Coronation": II. Larghetto (0.175) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/warner_music_group___x5_music_group/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Piano Sonata No. 14 in C Minor, K. 457: I. Molto allegro (168.671) | Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto (74.798) |
+| Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato (141.45) | Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante (75.319) |
+| Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": I. Allegro (141.073) | Piano Concerto No. 23 in A Major, K. 488: II. Adagio (81.056) |
+| Piano Concerto No. 24 in C Minor, K. 491: I. Allegro (136.385) | Piano Concerto No. 20 in D Minor, K. 466: II. Romance (82.885) |
+| Piano Sonata No. 18 in D Major, K. 576: I. Allegro (131.445) | Fauré Pavane (83.35) |
+| Piano Concerto No. 23 in A Major, K. 488: I. Allegro (128.536) | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": II. Andante (90.283) |
+| Piano Concerto No. 20 in D Minor, K. 466: I. Allegro (128.477) | Piano Concerto No. 26 in D Major, K. 537 "Coronation": II. Larghetto (94.02) |
+| Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione (127.812) | Piano Sonata No. 16 in C Major, K. 545 "Sonata facile": III. Rondo (95.687) |
+| Dominick the Donkey (The Italian Christmas Donkey) (113.237) | Piano Sonata No. 10 in C Major, K. 330: II. Andante cantabile (100.332) |
+| Dominick the Donkey (The Italian Christmas Donkey) (113.237) | Piano Sonata No. 11 in A Major, K. 331 "Turkish March": III. Alla turca (103.346) |

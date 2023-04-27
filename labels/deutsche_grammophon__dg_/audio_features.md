@@ -1,4 +1,9 @@
 # Audio Features for Deutsche Grammophon (DG)
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.677) | The Planets, Op. 32: 7. Neptune, the Mystic (0.0601) |
@@ -11,6 +16,10 @@
 | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Glorification of the Chosen One (0.507) | Symphony No. 6 In F, Op. 68 -"Pastoral": 2. Szene am Bach: (Andante molto mosso) (0.103) |
 | Pictures at an Exhibition (Orch. Ravel): VII. The Market at Limoges (0.48) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Mystic Circles of the Young Girls (0.108) |
 | The Firebird (L'oiseau De Feu) - Suite (1919): 3. Variation Of The Firebird (0.458) | Concerto for Orchestra, Sz. 116: 3. Elegia (Andante, non troppo) (0.112) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of the Rival Tribes (0.435) | 24 Préludes, Op. 28: No. 6 in B Minor: Lento assai (0.00464) |
 | 24 Préludes, Op. 28: No. 24 in D Minor: Allegro appassionato (0.399) | 24 Préludes, Op. 28: No. 4 in E Minor (0.00572) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | 24 Préludes, Op. 28: No. 20 in C Minor: Largo (0.879) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Dance of the Earth (0.0292) |
@@ -37,6 +50,10 @@
 | The Firebird (L'oiseau De Feu) - Suite (1919): Infernal Dance Of King Kaschei (0.0689) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Ritual Action of the Ancestors (0.0319) |
 | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 3. Scherzo (Allegro vivace) (0.0634) | 24 Préludes, Op. 28: No. 22 in G Minor (0.0324) |
 | The Planets, Op. 32: 6. Uranus, the Magician (0.0633) | Symphony No. 8 in F Major, Op. 93: III. Tempo di menuetto (0.0332) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | 24 Préludes, Op. 28: No. 4 in E Minor (0.995) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 2: The Sacrifice: Introduction (0.861) |
 | Pictures at an Exhibition (Orch. Ravel): Promenade II (0.994) | The Firebird (L'oiseau De Feu) - Suite (1919): Berceuse (0.868) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo (0.983) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.000308) |
@@ -63,6 +84,10 @@
 | The Firebird (L'oiseau De Feu) - Suite (1919): Dance Of The Firebird (0.951) | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 3. Scherzo (Allegro vivace) (0.181) |
 | Pictures at an Exhibition (Orch. Ravel): VIIIb. Cum mortuis in lingua mortua (0.95) | String Quartet No. 1 In C Minor, Op. 51 No. 1: 4. Allegro - 2007 Recording (0.267) |
 | 24 Préludes, Op. 28: No. 3 in G Major: Vivace (0.949) | Symphony No. 1 In C, Op. 21: 2. Andante cantabile con moto (0.317) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Symphony No. 9 In D Minor, Op. 125 - "Choral" - Excerpt From 4th Movement: 4. Presto (0.535) | 24 Préludes, Op. 28: No. 7 in A Major (0.062) |
 | Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle (0.386) | Pictures at an Exhibition (Orch. Ravel): Promenade IV (0.0644) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks (0.869) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: The Sage (0.0) |
@@ -89,3 +118,20 @@
 | 24 Préludes, Op. 28: No. 16 in B-Flat Minor (0.495) | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle (0.0345) |
 | Symphony No. 8 in F Major, Op. 93: II. Allegretto scherzando (0.484) | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai) (0.0366) |
 | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Ritual of Abduction (0.453) | Ballade No. 4 in F Minor, Op. 52 (0.037) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/deutsche_grammophon__dg_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Nocturne No. 13 In C Minor, Op. 48 No. 1 (169.266) | Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording (55.543) |
+| Pictures at an Exhibition (Orch. Ravel): IX. The Hut on Chicken's Legs (165.944) | Piano Sonata No. 2 in B-Flat Minor, Op. 35: III. Marche funèbre (56.814) |
+| Symphony No. 8 in F Major, Op. 93: II. Allegretto scherzando (164.384) | The Planets, Op. 32: 7. Neptune, the Mystic (57.624) |
+| Symphony No. 3 In E Flat, Op. 55 -"Eroica": 3. Scherzo (Allegro vivace) (163.062) | Symphony No. 7 In A, Op. 92: 3. Presto - Assai meno presto (59.821) |
+| The Firebird (L'oiseau De Feu) - Suite (1919): Infernal Dance Of King Kaschei (162.033) | Pictures at an Exhibition (Orch. Ravel): I. Gnomus (60.214) |
+| Symphony No. 3 In E Flat, Op. 55 -"Eroica": 1. Allegro con brio (149.615) | Music To Goethe's Tragedy "Egmont" Op. 84: Ouverture - Sostenuto, ma non troppo - Allegro (62.227) |
+| The Planets, Op. 32: 1. Mars, the Bringer of War (148.689) | Symphony No. 3 In E Flat, Op. 55 -"Eroica": 2. Marcia funebre (Adagio assai) (62.976) |
+| Symphony No. 1 In C, Op. 21: 4. Finale (Adagio - Allegro molto e vivace) (148.485) | Piano Sonata No. 2 in B-Flat Minor, Op. 35: IV. Finale (63.671) |
+| Symphony No. 6 In F, Op. 68 -"Pastoral": 3. Lustiges Zusammensein der Landleute (Allegro) (141.916) | Symphony No. 4 In B Flat, Op. 60: 2. Adagio (63.776) |
+| Symphony No. 2 In D, Op. 36: 4. Allegro molto (141.272) | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds (64.022) |

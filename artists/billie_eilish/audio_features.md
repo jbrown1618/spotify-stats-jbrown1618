@@ -1,4 +1,9 @@
 # Audio Features for Billie Eilish
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | bury a friend (0.905) | Happier Than Ever (0.332) |
@@ -11,6 +16,10 @@
 | ocean eyes (0.511) | GOLDWING (0.654) |
 | TV (0.412) | you should see me in a crown (0.678) |
 | No Time To Die (0.38) | bad guy (0.701) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Happier Than Ever (0.225) | ocean eyes (0.363) |
 | everything i wanted (0.225) | Therefore I Am (0.365) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | bad guy (0.375) | lovely (with Khalid) (0.0333) |
@@ -37,6 +50,10 @@
 | Therefore I Am (0.0924) | everything i wanted (0.0994) |
 | ocean eyes (0.041) | GOLDWING (0.126) |
 | TV (0.0379) | you should see me in a crown (0.186) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | xanny (0.751) | TV (0.83) |
 | bury a friend (0.74) | everything i wanted (0.902) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | everything i wanted (0.657) | lovely (with Khalid) (0.0) |
@@ -63,6 +84,10 @@
 | No Time To Die (0.0104) | bad guy (0.13) |
 | TV (0.00653) | Therefore I Am (0.135) |
 | Happier Than Ever (0.00349) | GOLDWING (0.159) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | lovely (with Khalid) (0.095) | bury a friend (0.106) |
 | when the party's over (0.0897) | Happier Than Ever (0.128) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Therefore I Am (0.663) | No Time To Die (0.0517) |
@@ -89,3 +118,20 @@
 | ocean eyes (0.169) | when the party's over (0.198) |
 | GOLDWING (0.168) | everything i wanted (0.243) |
 | lovely (with Khalid) (0.12) | Happier Than Ever (0.297) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/billie_eilish/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| GOLDWING (160.095) | No Time To Die (73.537) |
+| you should see me in a crown (150.455) | Happier Than Ever (81.055) |
+| ocean eyes (144.892) | when the party's over (82.642) |
+| TV (140.214) | Therefore I Am (94.016) |
+| bad guy (135.128) | xanny (111.554) |
+| bury a friend (120.046) | lovely (with Khalid) (115.284) |
+| everything i wanted (120.006) | everything i wanted (120.006) |
+| lovely (with Khalid) (115.284) | bury a friend (120.046) |
+| xanny (111.554) | bad guy (135.128) |
+| Therefore I Am (94.016) | TV (140.214) |

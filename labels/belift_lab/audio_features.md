@@ -1,4 +1,9 @@
 # Audio Features for BELIFT LAB
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 10 Months (0.876) | Just A Little Bit (0.441) |
@@ -11,6 +16,10 @@
 | Flicker (0.656) | FEVER (0.6) |
 | Given-Taken (0.631) | Blessed-Cursed (0.604) |
 | Mixed Up (0.623) | Upper Side Dreamin’ (0.608) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Go Big or Go Home (0.844) | Let Me In (20 CUBE) (0.795) |
 | SHOUT OUT (0.844) | Tamed-Dashed (0.809) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Future Perfect (Pass the MIC) (0.264) | TFW (That Feeling When) (0.0354) |
@@ -37,6 +50,10 @@
 | One In A Billion (0.0674) | Go Big or Go Home (0.0575) |
 | SHOUT OUT (0.0671) | FEVER (0.0592) |
 | Drunk-Dazed (0.0618) | Blessed-Cursed (0.061) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Go Big or Go Home (0.0502) | 10 Months (0.0345) |
 | Mixed Up (0.0486) | Future Perfect (Pass the MIC) (0.0364) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Tamed-Dashed (3.33e-05) | FEVER (0.0) |
@@ -63,6 +84,10 @@
 | Go Big or Go Home (0.0) | Attention, please! (0.0) |
 | Given-Taken (0.0) | SHOUT OUT (0.0) |
 | One In A Billion (0.0) | Polaroid Love (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Go Big or Go Home (0.269) | Tamed-Dashed (0.151) |
 | Mixed Up (0.266) | Flicker (0.169) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | TFW (That Feeling When) (0.902) | Blessed-Cursed (0.401) |
@@ -89,3 +118,20 @@
 | Let Me In (20 CUBE) (0.685) | Future Perfect (Pass the MIC) (0.526) |
 | Polaroid Love (0.651) | Flicker (0.549) |
 | Attention, please! (0.613) | Not For Sale (0.56) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/belift_lab/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Not For Sale (192.13) | FEVER (72.999) |
+| Let Me In (20 CUBE) (171.853) | Just A Little Bit (84.633) |
+| SHOUT OUT (159.989) | Flicker (85.149) |
+| Mixed Up (156.889) | ParadoXXX Invasion (94.952) |
+| Future Perfect (Pass the MIC) (156.096) | Upper Side Dreamin’ (106.02) |
+| Tamed-Dashed (155.029) | Given-Taken (108.07) |
+| Attention, please! (150.035) | 10 Months (110.006) |
+| Polaroid Love (138.055) | TFW (That Feeling When) (116.024) |
+| Drunk-Dazed (132.889) | One In A Billion (119.957) |
+| Blessed-Cursed (127.098) | Go Big or Go Home (122.019) |

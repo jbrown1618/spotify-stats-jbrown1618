@@ -1,4 +1,9 @@
 # Audio Features for viral pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | There's Nothing Holdin' Me Back (0.866) | Run to You (0.24) |
@@ -11,6 +16,10 @@
 | Can't Sleep Love (feat. Tink) (0.734) | O Come, O Come Emmanuel (0.387) |
 | Can't Sleep Love (0.73) | The Baddest Girl (0.394) |
 | We Don't Talk Anymore (feat. Selena Gomez) (0.728) | If I Ever Fall In Love (feat. Jason Derulo) (0.403) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.673) | O Come, O Come Emmanuel (0.329) |
 | We Are Young (0.639) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.355) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack (0.433) | It's the Most Wonderful Time of the Year (0.0256) |
@@ -37,6 +50,10 @@
 | Problem (Ariana Grande Cover) (0.0785) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.0294) |
 | We Are Young (0.0735) | Standing By (0.0297) |
 | Natural Disaster (0.0718) | See Through (0.0298) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Over The Rainbow (0.651) | See Through (0.0362) |
 | We Don't Talk Anymore (feat. Selena Gomez) (0.621) | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.0373) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Dance of the Sugar Plum Fairy (0.079) | Natural Disaster (0.0) |
@@ -63,6 +84,10 @@
 | Attention (2.33e-05) | Imagine (0.0) |
 | Hey Momma / Hit the Road Jack (1.74e-05) | Run to You (0.0) |
 | Problem (Ariana Grande Cover) (5.92e-06) | YOUTH (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | If I Ever Fall In Love (feat. Jason Derulo) (0.314) | Sweater Weather (0.0879) |
 | Radioactive (0.298) | Light Switch (0.0905) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | There's Nothing Holdin' Me Back (0.969) | Say Something (0.0765) |
@@ -89,3 +118,20 @@
 | Attention (0.797) | Somebody That I Used to Know (0.202) |
 | Havana (0.749) | Over The Rainbow (0.24) |
 | Señorita (0.74) | The Sound of Silence (0.26) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Attention (204.19) | Rockin' Around the Christmas Tree (75.523) |
+| Hey Momma / Hit the Road Jack (203.068) | The Baddest Girl (77.861) |
+| Light Switch (184.008) | The Christmas Song (Chestnuts Roasting on an Open Fire) (78.918) |
+| Aha! (172.015) | Over The Rainbow (83.736) |
+| Carol of the Bells (171.857) | Run to You (85.495) |
+| Valentine (151.876) | Natural Disaster (88.033) |
+| Say Something (150.318) | Hallelujah (89.918) |
+| O Come, O Come Emmanuel (149.984) | The Sound of Silence (90.99) |
+| Blueberry Eyes (feat. SUGA of BTS) (149.967) | YOUTH (91.507) |
+| Dance of the Sugar Plum Fairy (149.876) | Can't Sleep Love (feat. Tink) (94.524) |

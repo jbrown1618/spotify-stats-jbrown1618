@@ -1,4 +1,9 @@
 # Audio Features for mellow gold
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | You Can Call Me Al (0.776) | Bridge Over Troubled Water (0.149) |
@@ -11,6 +16,10 @@
 | Don't Ask Me Why (0.691) | The Boxer (0.351) |
 | The Stranger (0.664) | Captain Jack (0.392) |
 | Movin' Out (Anthony's Song) (0.664) | Tiny Dancer (0.414) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | 25 or 6 to 4 (0.869) | Bridge Over Troubled Water (0.206) |
 | Crocodile Rock (0.8) | The Sound of Silence - Acoustic Version (0.216) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Only the Good Die Young (0.159) | The Longest Time (0.0262) |
@@ -37,6 +50,10 @@
 | The River of Dreams (0.0576) | Dust in the Wind (0.0283) |
 | Don't Ask Me Why (0.0543) | Rocket Man (I Think It's Going To Be A Long, Long Time) (0.0286) |
 | You Can Call Me Al (0.0534) | Candle In The Wind - Remastered 2014 (0.0288) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | I Can't Make You Love Me (0.846) | Uptown Girl (0.0755) |
 | Crazy Love - 2013 Remaster (0.841) | We Didn't Start the Fire (0.0771) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | 25 or 6 to 4 (0.0367) | And So It Goes (0.0) |
@@ -63,6 +84,10 @@
 | Pressure (0.000949) | The Longest Time (0.0) |
 | Bridge Over Troubled Water (0.000649) | The Sound of Silence - Acoustic Version (0.0) |
 | Dust in the Wind (0.00056) | Uptown Girl (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Piano Man (0.312) | Renegade (0.0723) |
 | A Matter of Trust (0.306) | Mrs. Robinson - From "The Graduate" Soundtrack (0.0747) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Crocodile Rock (0.968) | I Can't Make You Love Me (0.113) |
@@ -89,3 +118,20 @@
 | Don't Ask Me Why (0.868) | And So It Goes (0.24) |
 | Pressure (0.851) | Bridge Over Troubled Water (0.264) |
 | You Can Call Me Al (0.82) | Tiny Dancer (0.282) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Lights (205.422) | Desperado - 2013 Remaster (60.3) |
+| The Boxer (181.849) | Moondance - 2013 Remaster (67.409) |
+| Piano Man (179.239) | She's Got a Way (75.859) |
+| She's Always a Woman (176.631) | Only the Good Die Young (76.214) |
+| Brown Eyed Girl (150.566) | Lullabye (Goodnight, My Angel) (76.48) |
+| Crocodile Rock (149.91) | Crazy Love - 2013 Remaster (77.464) |
+| Big Shot (149.861) | Crazy Love (77.539) |
+| Pressure (148.494) | Cat's in the Cradle (78.111) |
+| 25 or 6 to 4 (147.502) | Bridge Over Troubled Water (79.764) |
+| Hotel California - 2013 Remaster (147.125) | I'm a Believer - 2006 Remaster (80.106) |

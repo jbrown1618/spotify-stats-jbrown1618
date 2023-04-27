@@ -1,4 +1,9 @@
 # Audio Features for UNI
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Papa Was A Rollin' Stone - Single Version (0.817) | I Want You Back (0.469) |
@@ -11,6 +16,10 @@
 | I'll Be There (0.51) | My Guy (0.691) |
 | Isn't She Lovely (0.481) | Santa Claus Is Coming To Town (0.696) |
 | I Want You Back (0.469) | Papa Was A Rollin' Stone - Single Version (0.817) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | My Girl (0.418) | I Saw Mommy Kissing Santa Claus (0.712) |
 | Papa Was A Rollin' Stone - Single Version (0.405) | Isn't She Lovely (0.826) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Isn't She Lovely (0.0851) | I'll Be There (0.0253) |
@@ -37,6 +50,10 @@
 | My Girl (0.0349) | Superstition - Single Version (0.0725) |
 | Signed, Sealed, Delivered (I'm Yours) (0.0337) | Papa Was A Rollin' Stone - Single Version (0.0811) |
 | I'll Be There (0.0253) | Isn't She Lovely (0.0851) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Signed, Sealed, Delivered (I'm Yours) (0.0534) | I'll Be There (0.593) |
 | Superstition - Single Version (0.038) | My Girl (0.635) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Papa Was A Rollin' Stone - Single Version (0.0507) | Signed, Sealed, Delivered (I'm Yours) (0.0) |
@@ -63,6 +84,10 @@
 | I Saw Mommy Kissing Santa Claus (1.02e-06) | Isn't She Lovely (0.00352) |
 | My Girl (0.0) | Superstition - Single Version (0.0064) |
 | Signed, Sealed, Delivered (I'm Yours) (0.0) | Papa Was A Rollin' Stone - Single Version (0.0507) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Papa Was A Rollin' Stone - Single Version (0.0468) | I'll Be There (0.654) |
 | Superstition - Single Version (0.0385) | I Saw Mommy Kissing Santa Claus (0.817) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Santa Claus Is Coming To Town (0.932) | I'll Be There (0.331) |
@@ -89,3 +118,20 @@
 | My Girl (0.694) | Papa Was A Rollin' Stone - Single Version (0.898) |
 | I Saw Mommy Kissing Santa Claus (0.614) | My Guy (0.91) |
 | I'll Be There (0.331) | Santa Claus Is Coming To Town (0.932) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/uni/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| I Want You Back (196.605) | I'll Be There (93.212) |
+| Santa Claus Is Coming To Town (146.709) | Superstition - Single Version (100.499) |
+| I Saw Mommy Kissing Santa Claus (128.897) | My Girl (104.566) |
+| My Guy (126.615) | Signed, Sealed, Delivered (I'm Yours) (108.875) |
+| Papa Was A Rollin' Stone - Single Version (121.467) | Isn't She Lovely (118.679) |
+| Isn't She Lovely (118.679) | Papa Was A Rollin' Stone - Single Version (121.467) |
+| Signed, Sealed, Delivered (I'm Yours) (108.875) | My Guy (126.615) |
+| My Girl (104.566) | I Saw Mommy Kissing Santa Claus (128.897) |
+| Superstition - Single Version (100.499) | Santa Claus Is Coming To Town (146.709) |
+| I'll Be There (93.212) | I Want You Back (196.605) |

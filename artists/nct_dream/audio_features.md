@@ -1,4 +1,9 @@
 # Audio Features for NCT DREAM
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | BOOM (0.914) | Hello Future (0.545) |
@@ -11,6 +16,10 @@
 | Glitch Mode (0.634) | Saturday Drip (0.848) |
 | Ridin' (0.549) | Beatbox (0.857) |
 | Hello Future (0.545) | BOOM (0.914) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Beatbox (0.7) | Hot Sauce (0.926) |
 | BOOM (0.516) | Candy (0.964) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Best Friend Ever (0.103) | Candy (0.0348) |
@@ -37,6 +50,10 @@
 | Ridin' (0.045) | BOOM (0.0918) |
 | JOY (0.0439) | Glitch Mode (0.0963) |
 | Candy (0.0348) | Best Friend Ever (0.103) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Glitch Mode (0.0164) | BOOM (0.131) |
 | Hot Sauce (0.0127) | Ridin' (0.178) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | BOOM (0.0) | Beatbox (0.0) |
@@ -63,6 +84,10 @@
 | Best Friend Ever (0.0) | Glitch Mode (0.0) |
 | Ridin' (0.0) | Hot Sauce (0.0) |
 | Beatbox (0.0) | BOOM (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Saturday Drip (0.0379) | Candy (0.245) |
 | Beatbox (0.0334) | Hot Sauce (0.285) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Candy (0.836) | Hello Future (0.5) |
@@ -89,3 +118,20 @@
 | Hot Sauce (0.551) | Beatbox (0.773) |
 | Ridin' (0.513) | Saturday Drip (0.802) |
 | Hello Future (0.5) | Candy (0.836) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/nct_dream/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Hello Future (170.006) | Beatbox (93.997) |
+| Glitch Mode (166.923) | Hot Sauce (100.034) |
+| Ridin' (150.009) | Best Friend Ever (107.977) |
+| Candy (120.008) | JOY (109.909) |
+| BOOM (119.969) | Saturday Drip (113.024) |
+| Saturday Drip (113.024) | BOOM (119.969) |
+| JOY (109.909) | Candy (120.008) |
+| Best Friend Ever (107.977) | Ridin' (150.009) |
+| Hot Sauce (100.034) | Glitch Mode (166.923) |
+| Beatbox (93.997) | Hello Future (170.006) |

@@ -1,4 +1,9 @@
 # Audio Features for Taylor Swift
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | I Think He Knows (0.897) | exile (feat. Bon Iver) (0.298) |
@@ -11,6 +16,10 @@
 | Lavender Haze (0.733) | no body, no crime (feat. HAIM) (0.546) |
 | Death By A Thousand Cuts (0.712) | Cruel Summer (0.552) |
 | Bejeweled (0.696) | illicit affairs (0.559) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Anti-Hero (0.643) | tolerate it (0.361) |
 | Cornelia Street (0.624) | Midnight Rain (0.363) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Vigilante Shit (0.39) | no body, no crime (feat. HAIM) (0.0264) |
@@ -37,6 +50,10 @@
 | Cornelia Street (0.0827) | cardigan (0.0424) |
 | Lavender Haze (0.08) | Forever & Always (Taylor’s Version) (0.0447) |
 | Midnight Rain (0.0767) | mad woman (0.0471) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | the 1 (0.757) | Cruel Summer (0.117) |
 | False God (0.736) | Anti-Hero (0.13) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | the last great american dynasty (0.0023) | Question...? (0.0) |
@@ -63,6 +84,10 @@
 | Cornelia Street (0.000189) | Maroon (1.03e-06) |
 | False God (0.000147) | Anti-Hero (1.8e-06) |
 | London Boy (0.000104) | the 1 (7.28e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | London Boy (0.133) | Maroon (0.101) |
 | Vigilante Shit (0.121) | no body, no crime (feat. HAIM) (0.103) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Paper Rings (0.865) | Maroon (0.0374) |
@@ -89,3 +118,20 @@
 | no body, no crime (feat. HAIM) (0.535) | the 1 (0.172) |
 | Anti-Hero (0.533) | Snow On The Beach (feat. Lana Del Rey) (0.193) |
 | willow (0.529) | tolerate it (0.221) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/taylor_swift/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| ME! (feat. Brendon Urie of Panic! At The Disco) (182.162) | Lover (68.534) |
+| Sweet Nothing (176.655) | tolerate it (74.952) |
+| Cruel Summer (169.994) | exile (feat. Bon Iver) (75.602) |
+| Bejeweled (163.999) | no body, no crime (feat. HAIM) (79.015) |
+| London Boy (157.925) | Vigilante Shit (79.846) |
+| peace (150.044) | False God (79.97) |
+| the last great american dynasty (147.922) | willow (81.112) |
+| mad woman (141.916) | invisible string (83.433) |
+| the 1 (139.883) | august (89.937) |
+| Midnight Rain (139.865) | Karma (90.02) |

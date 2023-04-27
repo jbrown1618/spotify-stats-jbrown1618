@@ -1,4 +1,9 @@
 # Audio Features for Republic Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | #Twenty (0.956) | CHEESE (0.376) |
@@ -11,6 +16,10 @@
 | Christmas EveL (0.878) | Blinding Lights (0.514) |
 | WHAT I WANT (0.865) | Hellevator (0.515) |
 | SHOOT! (0.852) | i hate to admit (Bang Chan) (0.523) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Louder (0.936) | break up with your girlfriend, i'm bored (0.554) |
 | WHAT I WANT (0.926) | Love Me Like You Do (0.597) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | boyfriend (with Social House) (0.461) | 24 to 25 (0.0288) |
@@ -37,6 +50,10 @@
 | Signal (0.334) | imagine (0.0364) |
 | 3RACHA (Bang Chan, Changbin, HAN) (0.301) | KIDDING ME (0.0367) |
 | Gas Me Up (0.286) | YES or YES (0.0374) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Likey (0.413) | Frost (0.00551) |
 | Merry & Happy (0.403) | SUPER BOARD (0.00653) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Fairy of Shampoo (0.00673) | SUPER BOARD (0.0) |
@@ -63,6 +84,10 @@
 | WANNABE (0.000179) | boyfriend (with Social House) (0.0) |
 | TT (0.00016) | i hate to admit (Bang Chan) (0.0) |
 | Like Ooh-Ahh (0.000105) | Back Door (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Dior (0.408) | SURF (0.0575) |
 | Christmas EveL (0.401) | LOVE FOOLISH (0.0576) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | The Feels (0.922) | Side Effects (0.118) |
@@ -89,3 +118,20 @@
 | Heart Shaker (0.857) | Voices (0.299) |
 | Louder (0.853) | miss you (Hyunjin) (0.306) |
 | Give Me Your TMI (0.824) | Love Me Like You Do (0.324) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/republic_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | imagine (62.52) |
+| Awkward Silence (199.981) | miss you (Hyunjin) (72.96) |
+| boyfriend (with Social House) (190.097) | I GOT IT (HAN) (75.698) |
+| District 9 (179.987) | Hellevator (78.17) |
+| Despacito - Remix (178.085) | 1, 3, 2 (JEONGYEON, MINA, TZUYU) (88.938) |
+| BLAME IT ON ME (177.713) | CHEESE (89.657) |
+| Gas Me Up (177.17) | Muddy Water (Changbin, Hyunjin, HAN, Felix) (89.989) |
+| Free Fall (177.092) | Drive (Bang Chan, Lee Know) (89.998) |
+| Price Tag (175.038) | i hate to admit (Bang Chan) (90.013) |
+| CHEER UP (172.95) | Charmer (90.963) |

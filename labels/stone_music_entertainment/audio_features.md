@@ -1,4 +1,9 @@
 # Audio Features for Stone Music Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Cold Blooded (0.961) | Sorry (0.388) |
@@ -11,6 +16,10 @@
 | MVSK (0.798) | ONLY (0.536) |
 | AHH OOP! (0.79) | 458 (0.537) |
 | Waterride (0.785) | My Day Is Full Of You (0.557) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Lxxk 2 U (0.913) | Savior (feat. B.I) (0.501) |
 | SMILEY(Feat. BIBI) (0.91) | ONCE AGAIN (0.502) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Lxxk 2 U (0.307) | She′s In The Rain (0.0264) |
@@ -37,6 +50,10 @@
 | MVSK (0.176) | Stay With Me (0.033) |
 | Love War (Feat. BE'O) (0.164) | Sorry (0.0337) |
 | Giddy (0.158) | My Day Is Full Of You (0.034) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | For You (Holiday Remix) - Spotify Singles Holiday (0.567) | HUSH RUSH (0.0225) |
 | Don’t (0.552) | Giddy (0.0334) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Adios (0.0794) | PHOTO (0.0) |
@@ -63,6 +84,10 @@
 | Wicked (1.2e-05) | MOMMAE (0.0) |
 | TIC TAC (1.06e-05) | HAPPEN (0.0) |
 | WAITING (7.02e-06) | Love War (Feat. BE'O) (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | HAPPEN (0.341) | GLASSY (0.0683) |
 | Lxxk 2 U (0.338) | Bye (0.0714) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sour candy (0.98) | ONLY (0.151) |
@@ -89,3 +118,20 @@
 | Red Lipstick (feat. Yoonmirae) (0.82) | Pirate (0.381) |
 | SMILEY(Feat. BIBI) (0.82) | For You (Holiday Remix) - Spotify Singles Holiday (0.385) |
 | Bye (0.809) | My Day Is Full Of You (0.39) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/stone_music_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| HOLO (179.914) | My Day Is Full Of You (77.815) |
+| Sorry (173.61) | 458 (79.893) |
+| LULLABY (168.068) | When Night Is Falling (84.978) |
+| Lxxk 2 U (164.836) | ONCE AGAIN (86.01) |
+| PHOTO (159.912) | SMARTPHONE (87.969) |
+| WAITING (158.179) | TIC TAC (89.043) |
+| SMILEY(Feat. BIBI) (155.967) | Waterride (90.002) |
+| I Need The Light (152.113) | For You (Holiday Remix) - Spotify Singles Holiday (91.777) |
+| FIRST (152.02) | Don’t (92.023) |
+| Bon Bon Chocolat (139.928) | She′s In The Rain (92.916) |

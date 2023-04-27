@@ -1,4 +1,9 @@
 # Audio Features for The Tarpeggios
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Settle Down (0.794) | The End (Interlude) (0.176) |
@@ -11,6 +16,10 @@
 | Chariot (0.528) | G Train (0.44) |
 | G Train (0.44) | Chariot (0.528) |
 | Wife You Up (0.433) | Carolina State of Mind (0.535) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | I Knew You Were Trouble (0.483) | G Train (0.492) |
 | Wife You Up (0.479) | Home (0.507) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Carolina State of Mind (0.101) | Chariot (0.0262) |
@@ -37,6 +50,10 @@
 | Before He Cheats (0.0371) | I Knew You Were Trouble (0.0356) |
 | I Knew You Were Trouble (0.0356) | Before He Cheats (0.0371) |
 | G Train (0.0344) | Home (0.0373) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | XS (0.346) | Settle Down (0.406) |
 | Before He Cheats (0.342) | Golden Slumbers / Carry That Weight (0.525) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | You Take My Breath Away (0.308) | Chariot (0.0) |
@@ -63,6 +84,10 @@
 | Home (0.0) | Sanctify (0.0) |
 | Sanctify (0.0) | Home (0.0) |
 | XS (0.0) | Carolina State of Mind (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Wife You Up (0.127) | You Take My Breath Away (0.142) |
 | Lullabye (Goodnight, My Angel) (0.127) | The End (Interlude) (0.147) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | XS (0.649) | You Take My Breath Away (0.0384) |
@@ -89,3 +118,20 @@
 | Chariot (0.341) | G Train (0.316) |
 | G Train (0.316) | Chariot (0.341) |
 | Home (0.305) | Carolina State of Mind (0.41) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/the_tarpeggios/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Carolina State of Mind (180.209) | Lullabye (Goodnight, My Angel) (72.306) |
+| G Train (169.964) | Before He Cheats (74.975) |
+| The Scientist (143.803) | I Knew You Were Trouble (77.05) |
+| The End (Interlude) (136.834) | Golden Slumbers / Carry That Weight (82.759) |
+| Wife You Up (123.101) | Chariot (83.998) |
+| XS (118.966) | Home (85.943) |
+| Kiss the Sky (113.065) | Settle Down (95.985) |
+| You Take My Breath Away (111.532) | Sanctify (104.985) |
+| Sanctify (104.985) | You Take My Breath Away (111.532) |
+| Settle Down (95.985) | Kiss the Sky (113.065) |

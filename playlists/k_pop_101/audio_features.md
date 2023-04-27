@@ -1,4 +1,9 @@
 # Audio Features for K-Pop 101
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | FEARLESS (0.863) | O.O (0.39) |
@@ -11,6 +16,10 @@
 | WANNABE (0.809) | Hype Boy (0.593) |
 | Oh my god (0.794) | DNA (0.598) |
 | HIP (0.782) | INVU (0.599) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | La Vie en Rose (0.907) | FEVER (0.713) |
 | Answer (0.903) | MOVE (0.713) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | BBIBBI (0.331) | HOLO (0.0295) |
@@ -37,6 +50,10 @@
 | Pretty U (0.163) | LO$ER=LO♡ER (0.0383) |
 | HIP (0.143) | Oh my god (0.0392) |
 | FEARLESS (0.135) | MIROTIC (0.0408) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | 딱 좋아(Just right) (0.233) | Hot Sauce (0.0127) |
 | Psycho (0.193) | MOVE (0.0153) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | I Am The Best (0.00834) | FEVER (0.0) |
@@ -63,6 +84,10 @@
 | Doom Du Doom (4.82e-05) | Amusement Park (0.0) |
 | HIP (3.15e-05) | MOVE (0.0) |
 | Next Level (5.94e-06) | Gotta Go (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Hype Boy (0.286) | MOVE (0.0857) |
 | Hot Sauce (0.285) | Love Shot (0.0889) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 쏘리 쏘리 Sorry, Sorry (0.962) | HOLO (0.206) |
@@ -89,3 +118,20 @@
 | Hype Boy (0.783) | INVU (0.399) |
 | FANCY (0.775) | Psycho (0.405) |
 | Bubble Pop! (0.767) | Gotta Go (0.419) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/k_pop_101/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| O.O (200.263) | FEVER (72.999) |
+| HOLO (179.914) | Amusement Park (84.925) |
+| Crazy (176.019) | Gashina (93.941) |
+| Odd Eye (160.061) | 딱 좋아(Just right) (95.97) |
+| Sticker (156.032) | Answer (97.968) |
+| Pretty U (155.088) | MOVE (99.964) |
+| Shine (150.013) | Hype Boy (99.976) |
+| Bubble Pop! (146.005) | Replay (99.977) |
+| Love Shot (145.883) | MIROTIC (99.985) |
+| BBIBBI (143.894) | Hot Sauce (100.034) |

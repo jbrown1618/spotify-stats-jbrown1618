@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[958 songs (709 liked)](tracks.md)
+[959 songs (709 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -75,6 +75,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 6 | 3 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | 5 | 3 | AOA | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 5 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 4 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83962d7c7c639d9d5c38a0e1" alt="" width="50" /> | 4 | 3 | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
@@ -87,7 +88,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | 3 | 3 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f3e8862a8c0f79fb3322b2" alt="" width="50" /> | 3 | 3 | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 3 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | 3 | 3 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 3 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
@@ -252,7 +252,7 @@
 | 56 | 45 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 46 | 32 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 44 | 30 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 34 | 29 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 35 | 29 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 36 | 28 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 32 | 25 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 32 | 24 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
@@ -282,7 +282,7 @@
 | 7 | 6 | EDAM Entertainment |
 | 8 | 5 | KQ Entertainment |
 | 7 | 5 | ADOR |
-| 6 | 5 | 88rising Music |
+| 6 | 5 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 5 | 5 | Abyss Company |
 | 7 | 4 | avex trax |
 | 6 | 4 | P NATION |
@@ -313,6 +313,7 @@
 | 2 | 2 | ALLART ENTERTAINMENT |
 | 2 | 1 | 해피트라이브엔터테인먼트 |
 | 2 | 1 | 올라트엔터테인먼트 |
+| 2 | 1 | THEBLACKLABEL |
 | 2 | 1 | Parlophone Denmark |
 | 2 | 1 | Klap |
 | 2 | 1 | JELLYFISH ENTERTAINMENT |
@@ -331,7 +332,6 @@
 | 1 | 1 | Wollim Entertainment |
 | 1 | 1 | Universal Republic Records |
 | 1 | 1 | Think Ent. |
-| 1 | 1 | THEBLACKLABEL |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Silent Records |
 | 1 | 1 | RADCOMM |
@@ -364,13 +364,13 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 861 | 641 | [k-pop](../../genres/k_pop/overview.md) |
+| 862 | 641 | [k-pop](../../genres/k_pop/overview.md) |
 | 400 | 307 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 240 | 168 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 174 | 130 | [pop](../../genres/pop/overview.md) |
 | 22 | 19 | anime |
 | 23 | 13 | k-rap |
-| 13 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 14 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 8 | 8 | korean ost |
 | 7 | 6 | korean pop |
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -410,7 +410,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 64 |
+| [2023](2023.md) | 65 |
 | [2022](2022.md) | 258 |
 | [2021](2021.md) | 185 |
 | [2020](2020.md) | 122 |

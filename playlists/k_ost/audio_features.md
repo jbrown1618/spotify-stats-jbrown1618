@@ -1,4 +1,9 @@
 # Audio Features for K-OST
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Heartbeat (0.679) | U (0.301) |
@@ -11,6 +16,10 @@
 | Stay With Me (0.558) | Done For Me (0.467) |
 | My Day Is Full Of You (0.557) | Yours (0.488) |
 | If (0.538) | Adrenaline (0.491) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Stay With Me (0.526) | Done For Me (0.453) |
 | Love, Maybe (Acoustic Ver.) (0.513) | With (0.461) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Your Existence (0.204) | With (0.0228) |
@@ -37,6 +50,10 @@
 | 그대라는 시 (0.0364) | Goodbye (0.0317) |
 | U (0.036) | Stay With Me (0.033) |
 | 내 맘을 볼 수 있나요 (0.0349) | Heartbeat (0.0332) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Heartbeat (0.662) | With (0.525) |
 | Show Your Heart 너를 보여줘 (0.618) | My Day Is Full Of You (0.532) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Very, Slowly (0.00148) | Done For Me (0.0) |
@@ -63,6 +84,10 @@
 | Show Your Heart 너를 보여줘 (0.0) | Heartbeat (0.0) |
 | Starlight (0.0) | Love, Maybe (Acoustic Ver.) (0.0) |
 | If (0.0) | Stardust love song (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | From now on (0.121) | Done For Me (0.111) |
 | 그대라는 시 (0.118) | Goodbye (0.111) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | From now on (0.749) | 내 맘을 볼 수 있나요 (0.131) |
@@ -89,3 +118,20 @@
 | 그대라는 시 (0.472) | Done For Me (0.241) |
 | My Day Is Full Of You (0.39) | Very, Slowly (0.249) |
 | Love, Maybe (Acoustic Ver.) (0.336) | If (0.266) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/k_ost/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| From now on (184.059) | Yours (72.035) |
+| Love, Maybe (171.594) | With (76.0) |
+| If (145.714) | My Day Is Full Of You (77.815) |
+| Adrenaline (138.152) | Love, Maybe (Acoustic Ver.) (86.005) |
+| U (136.095) | ONCE AGAIN (86.01) |
+| Very, Slowly (135.917) | Sweet Night (92.106) |
+| 그대라는 시 (135.624) | Show Your Heart 너를 보여줘 (98.927) |
+| Done For Me (135.302) | Your Existence (100.171) |
+| 내 맘을 볼 수 있나요 (134.708) | Heartbeat (111.784) |
+| Goodbye (128.913) | Starlight (111.961) |

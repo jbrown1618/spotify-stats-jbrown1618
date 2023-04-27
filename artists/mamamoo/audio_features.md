@@ -1,4 +1,9 @@
 # Audio Features for MAMAMOO
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 1,2,3 Eoi! (0.862) | Where Are We Now (0.407) |
@@ -11,6 +16,10 @@
 | Wind flower (0.735) | You’re the Best (0.683) |
 | Um Oh Ah Yeh (0.729) | gogobebe (0.704) |
 | WANNA BE MYSELF (0.713) | WANNA BE MYSELF (0.713) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | AHH OOP! (0.857) | Mr-Ambiguous (0.852) |
 | Piano Man (0.853) | Piano Man (0.853) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Yes I Am (0.254) | Where Are We Now (0.0343) |
@@ -37,6 +50,10 @@
 | AYA (0.0809) | Piano Man (0.0564) |
 | Mr-Ambiguous (0.0806) | Egotistic (0.067) |
 | WANNA BE MYSELF (0.079) | WANNA BE MYSELF (0.079) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Yes I Am (0.14) | gogobebe (0.114) |
 | Um Oh Ah Yeh (0.128) | Um Oh Ah Yeh (0.128) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | HIP (3.15e-05) | Dingga (0.0) |
@@ -63,6 +84,10 @@
 | AHH OOP! (0.0) | Mr-Ambiguous (0.0) |
 | Egotistic (0.0) | Starry Night (0.0) |
 | Décalcomanie (0.0) | Décalcomanie (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Egotistic (0.175) | Where Are We Now (0.157) |
 | Um Oh Ah Yeh (0.167) | Um Oh Ah Yeh (0.167) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | AHH OOP! (0.924) | Where Are We Now (0.325) |
@@ -89,3 +118,20 @@
 | Dingga (0.795) | Yes I Am (0.648) |
 | Mr-Ambiguous (0.784) | You’re the Best (0.703) |
 | gogobebe (0.707) | gogobebe (0.707) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/mamamoo/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| ILLELLA (173.931) | Rainy Season (91.058) |
+| HIP (138.032) | AYA (91.688) |
+| AHH OOP! (129.939) | gogobebe (96.929) |
+| Mr-Ambiguous (124.942) | Egotistic (97.898) |
+| Starry Night (124.148) | Um Oh Ah Yeh (104.977) |
+| WANNA BE MYSELF (124.058) | Piano Man (111.042) |
+| You’re the Best (122.03) | Wind flower (113.988) |
+| Yes I Am (120.115) | Décalcomanie (115.434) |
+| 1,2,3 Eoi! (120.084) | Where Are We Now (117.55) |
+| Dingga (119.963) | Dingga (119.963) |

@@ -1,4 +1,9 @@
 # Audio Features for RBW Inc.
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 1,2,3 Eoi! (0.862) | Where Are We Now (0.407) |
@@ -11,6 +16,10 @@
 | LUNATIC (English Ver.) (0.757) | Egotistic (0.616) |
 | Spit it out (0.747) | AYA (0.634) |
 | water color (0.739) | In The Fall (0.641) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Spit it out (0.858) | Sweet Juice (0.709) |
 | AYA (0.858) | HIP (0.731) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | TWIT (0.199) | Where Are We Now (0.0343) |
@@ -37,6 +50,10 @@
 | Spit it out (0.123) | HONEY (0.0578) |
 | GGBB (0.117) | Chico malo (0.0599) |
 | Dingga (0.108) | water color (0.0613) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Shutdown (Feat.Seori) (0.36) | LUNATIC (0.059) |
 | Egotistic (0.315) | 1,2,3 Eoi! (0.0664) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | FOMO (0.00045) | GGBB (0.0) |
@@ -63,6 +84,10 @@
 | HONEY (3.55e-06) | LUNATIC (0.0) |
 | TWIT (2.83e-06) | SELFISH (Feat. SEULGI Of Red Velvet) (0.0) |
 | Maria (2.03e-06) | Chico malo (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | gogobebe (0.228) | HIP (0.0956) |
 | Rainy Season (0.219) | BLACK MIRROR (0.112) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I`m a B (0.927) | In The Fall (0.12) |
@@ -89,3 +118,20 @@
 | HIP (0.824) | TWIT (0.584) |
 | 1,2,3 Eoi! (0.822) | Egotistic (0.595) |
 | ILLELLA (0.812) | Rainy Season (0.614) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/rbw_inc_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| ILLELLA (173.931) | Shutdown (Feat.Seori) (74.029) |
+| LUNA (162.172) | FOMO (83.694) |
+| memeM (150.008) | In The Fall (84.982) |
+| I`m a B (139.968) | SELFISH (Feat. SEULGI Of Red Velvet) (87.201) |
+| HIP (138.032) | Rainy Season (91.058) |
+| GGBB (137.893) | AYA (91.688) |
+| Nerdy (136.083) | gogobebe (96.929) |
+| TWIT (136.067) | Egotistic (97.898) |
+| Maria (128.909) | OHOO (105.885) |
+| Spit it out (127.978) | water color (107.947) |

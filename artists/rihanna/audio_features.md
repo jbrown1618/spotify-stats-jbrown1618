@@ -1,4 +1,9 @@
 # Audio Features for Rihanna
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Don't Stop The Music (0.835) | Half Of Me (0.391) |
@@ -11,6 +16,10 @@
 | We Found Love (0.735) | This Is What You Came For (0.631) |
 | Disturbia (0.707) | Take A Bow (0.697) |
 | Take A Bow (0.697) | Disturbia (0.707) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Only Girl (In The World) (0.71) | What Now (0.696) |
 | What Now (0.696) | Only Girl (In The World) (0.71) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Love The Way You Lie (0.227) | Stay (0.0283) |
@@ -37,6 +50,10 @@
 | Don't Stop The Music (0.0643) | What Now (0.0448) |
 | Disturbia (0.0571) | Love On The Brain (0.0471) |
 | Love On The Brain (0.0471) | Disturbia (0.0571) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Love On The Brain (0.0717) | The Monster (0.0525) |
 | The Monster (0.0525) | Love On The Brain (0.0717) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | This Is What You Came For (0.119) | What Now (0.0) |
@@ -63,6 +84,10 @@
 | Stay (6.12e-05) | Rude Boy (0.0) |
 | Only Girl (In The World) (1.22e-05) | Love On The Brain (1.08e-05) |
 | Love On The Brain (1.08e-05) | Only Girl (In The World) (1.22e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Stay (0.117) | We Found Love (0.108) |
 | We Found Love (0.108) | Stay (0.117) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | S&M (0.833) | Stay (0.125) |
@@ -89,3 +118,20 @@
 | We Found Love (0.6) | Don't Stop The Music (0.542) |
 | Umbrella (0.575) | Take A Bow (0.572) |
 | Take A Bow (0.572) | Umbrella (0.575) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/rihanna/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| What Now (180.158) | Take A Bow (82.082) |
+| Umbrella (174.028) | Princess of China (85.014) |
+| Rude Boy (173.906) | Love The Way You Lie (86.989) |
+| Love On The Brain (172.006) | Pon de Replay (99.019) |
+| Watch n' Learn (168.01) | The Monster (110.049) |
+| Half Of Me (147.435) | Stay (111.893) |
+| We Found Love (127.985) | Don't Stop The Music (122.668) |
+| S&M (127.966) | This Is What You Came For (123.962) |
+| Only Girl (In The World) (125.919) | Disturbia (124.921) |
+| Disturbia (124.921) | Only Girl (In The World) (125.919) |

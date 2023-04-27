@@ -24,7 +24,7 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 28 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 29 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 55 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 53 |
@@ -253,9 +253,9 @@
 | Shoong! (feat. LISA of BLACKPINK) | Down to Earth | TAEYANG | 0 | 0 | 68 |
 | Inspiration (feat. Beenzino) | Down to Earth | TAEYANG | 0 | 0 | 68 |
 | Inspiration (feat. Beenzino) | Down to Earth | Beenzino | 0 | 0 | 53 |
-| The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
-| The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
-| I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
+| The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
+| The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
+| I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 35 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
@@ -305,11 +305,11 @@
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 84 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 51 |
-| Carey | Blue | Joni Mitchell | 0 | 2 | 56 |
-| Blue | Blue | Joni Mitchell | 0 | 2 | 56 |
-| A Case of You | Blue | Joni Mitchell | 2 | 2 | 56 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 42 |
+| Carey | Blue | Joni Mitchell | 0 | 2 | 55 |
+| Blue | Blue | Joni Mitchell | 0 | 2 | 55 |
+| A Case of You | Blue | Joni Mitchell | 1 | 2 | 55 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 35 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 47 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
@@ -339,24 +339,18 @@
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
-| Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 56 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
+| Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 55 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 29 |
 | Don't Stop Believin' | BOCA 2008: Best Of College A Cappella | The Clef Hangers | 0 | 0 | 25 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
 | Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
-| Fire | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
-| Super | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
-| I Don't Understand But I Luv U | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
-| F*ck My Life | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
-| April shower | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
-| Dust | SEVENTEEN 10th Mini Album 'FML' | SEVENTEEN | 0 | 0 | 79 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 40 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 51 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 42 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
 | Let it Be | III | The Nor'easters | 0 | 0 | 32 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
@@ -375,8 +369,8 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 29 |
 | Butter | Butter | BTS | 2 | 0 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
@@ -405,17 +399,17 @@
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 28 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 55 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 0 | 75 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 0 | 76 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 1 | 0 | 75 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 1 | 0 | 76 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 55 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 45 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 42 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 41 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 62 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 63 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 56 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 77 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 81 |

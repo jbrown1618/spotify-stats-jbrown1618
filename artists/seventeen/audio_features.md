@@ -1,4 +1,9 @@
 # Audio Features for SEVENTEEN
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fire (0.963) | Dust (0.497) |
@@ -11,6 +16,10 @@
 | VERY NICE (0.746) | Anyone (0.682) |
 | F*ck My Life (0.736) | Shadow (0.686) |
 | Left & Right (0.726) | HOME;RUN (0.687) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Left & Right (0.829) | HOT (0.777) |
 | Rock with you (0.816) | 24H (0.78) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Fire (0.274) | Don't Wanna Cry (0.0325) |
@@ -37,6 +50,10 @@
 | Dust (0.0836) | 24H (0.063) |
 | Anyone (0.0814) | Shadow (0.0694) |
 | Darl+ing (0.0812) | VERY NICE (0.0725) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Shadow (0.119) | Anyone (0.0617) |
 | April shower (0.109) | F*ck My Life (0.0849) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | HOT (2.58e-06) | Pretty U (0.0) |
@@ -63,6 +84,10 @@
 | Left & Right (0.0) | Fire (0.0) |
 | F*ck My Life (0.0) | HOME;RUN (0.0) |
 | 24H (0.0) | Darl+ing (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | HOME;RUN (0.173) | Rock with you (0.134) |
 | Super (0.167) | Adore U (0.14) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Left & Right (0.95) | Super (0.347) |
@@ -89,3 +118,20 @@
 | Fire (0.771) | April shower (0.641) |
 | Adore U (0.77) | Rock with you (0.694) |
 | HOME;RUN (0.765) | Shadow (0.704) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/seventeen/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Adore U (203.802) | F*ck My Life (80.022) |
+| Dust (164.904) | Darl+ing (95.384) |
+| Rock with you (163.966) | HOME;RUN (96.106) |
+| Pretty U (155.088) | Don't Wanna Cry (100.005) |
+| Shadow (152.122) | CLAP (100.024) |
+| Left & Right (149.994) | April shower (105.965) |
+| Super (137.018) | Anyone (109.99) |
+| Ready to love (129.984) | Domino (110.019) |
+| Fearless (129.936) | HOT (111.944) |
+| 24H (122.088) | I Don't Understand But I Luv U (114.04) |

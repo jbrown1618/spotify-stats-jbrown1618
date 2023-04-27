@@ -1,4 +1,9 @@
 # Audio Features for Florence + The Machine
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Hunger (0.729) | What Kind Of Man (0.313) |
@@ -11,6 +16,10 @@
 | What The Water Gave Me (0.491) | Never Let Me Go (0.461) |
 | Free (0.465) | Free (0.465) |
 | Never Let Me Go (0.461) | What The Water Gave Me (0.491) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Never Let Me Go (0.73) | Never Let Me Go (0.73) |
 | You've Got The Love (0.72) | No Light, No Light (0.755) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Kiss With A Fist (0.114) | Lover To Lover (0.0309) |
@@ -37,6 +50,10 @@
 | Between Two Lungs (0.0423) | Seven Devils (0.0379) |
 | Hunger (0.0415) | Hunger (0.0415) |
 | Seven Devils (0.0379) | Between Two Lungs (0.0423) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Dog Days Are Over (0.0438) | Dog Days Are Over (0.0438) |
 | What Kind Of Man (0.0229) | Rabbit Heart (Raise It Up) (0.0697) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Dog Days Are Over (0.00255) | You've Got The Love (0.0) |
@@ -63,6 +84,10 @@
 | Between Two Lungs (4.93e-06) | Rabbit Heart (Raise It Up) (2.64e-06) |
 | Never Let Me Go (4.31e-06) | Never Let Me Go (4.31e-06) |
 | Rabbit Heart (Raise It Up) (2.64e-06) | Between Two Lungs (4.93e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | You've Got The Love (0.123) | You've Got The Love (0.123) |
 | Between Two Lungs (0.12) | What Kind Of Man (0.129) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Kiss With A Fist (0.631) | Free (0.0494) |
@@ -89,3 +118,20 @@
 | I'm Not Calling You A Liar (0.351) | Never Let Me Go (0.253) |
 | Hunger (0.332) | Hunger (0.332) |
 | Never Let Me Go (0.253) | I'm Not Calling You A Liar (0.351) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/florence___the_machine/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Free (174.806) | Seven Devils (58.534) |
+| Delilah (169.946) | Kiss With A Fist (107.13) |
+| Between Two Lungs (149.969) | Shake It Out (107.486) |
+| Dog Days Are Over (149.966) | You've Got The Love (109.938) |
+| Never Let Me Go (145.197) | What Kind Of Man (114.776) |
+| No Light, No Light (131.914) | Hunger (116.016) |
+| How Big, How Blue, How Beautiful (129.808) | Rabbit Heart (Raise It Up) (116.98) |
+| What The Water Gave Me (124.091) | I'm Not Calling You A Liar (117.988) |
+| Lover To Lover (119.009) | Lover To Lover (119.009) |
+| I'm Not Calling You A Liar (117.988) | What The Water Gave Me (124.091) |

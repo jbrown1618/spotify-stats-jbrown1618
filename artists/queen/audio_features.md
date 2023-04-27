@@ -1,4 +1,9 @@
 # Audio Features for Queen
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Another One Bites The Dust (0.926) | Fat Bottomed Girls (0.253) |
@@ -11,6 +16,10 @@
 | You're My Best Friend (0.521) | You're My Best Friend (0.521) |
 | Save Me (0.498) | Good Old Fashioned Lover Boy (0.539) |
 | Somebody To Love (0.494) | Don't Stop Me Now (0.561) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Innuendo (0.449) | Killer Queen (0.494) |
 | We Will Rock You (0.384) | The Show Must Go On (0.517) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Don't Stop Me Now (0.192) | Save Me (0.0276) |
@@ -37,6 +50,10 @@
 | You're My Best Friend (0.044) | You're My Best Friend (0.044) |
 | Crazy Little Thing Called Love (0.0421) | I Want To Break Free (0.0471) |
 | Killer Queen (0.0421) | Bohemian Rhapsody (0.0473) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Somebody To Love (0.181) | Bohemian Rhapsody (0.204) |
 | You're My Best Friend (0.124) | We Are The Champions (0.255) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Another One Bites The Dust (0.136) | We Will Rock You (0.0) |
@@ -63,6 +84,10 @@
 | Bohemian Rhapsody (1.38e-06) | Bohemian Rhapsody (1.38e-06) |
 | Somebody To Love (0.0) | The Show Must Go On (1.82e-06) |
 | Save Me (0.0) | Fat Bottomed Girls (1.43e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Innuendo (0.114) | Another One Bites The Dust (0.119) |
 | We Are The Champions (0.101) | The Show Must Go On (0.136) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Another One Bites The Dust (0.784) | The Show Must Go On (0.109) |
@@ -89,3 +118,20 @@
 | Save Me (0.429) | Save Me (0.429) |
 | Fat Bottomed Girls (0.41) | We Will Rock You (0.544) |
 | Good Old Fashioned Lover Boy (0.401) | Killer Queen (0.579) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/queen/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Fat Bottomed Girls (176.109) | Innuendo (72.302) |
+| Don't Stop Me Now (156.432) | Crazy Little Thing Called Love (76.826) |
+| Bohemian Rhapsody (143.993) | We Will Rock You (81.412) |
+| You're My Best Friend (118.697) | Save Me (81.572) |
+| Killer Queen (117.129) | The Show Must Go On (84.011) |
+| Somebody To Love (110.193) | We Are The Champions (94.504) |
+| Another One Bites The Dust (109.884) | Good Old Fashioned Lover Boy (96.302) |
+| I Want To Break Free (109.143) | I Want To Break Free (109.143) |
+| Good Old Fashioned Lover Boy (96.302) | Another One Bites The Dust (109.884) |
+| We Are The Champions (94.504) | Somebody To Love (110.193) |

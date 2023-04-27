@@ -1,4 +1,9 @@
 # Audio Features for BIBI
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Is this bad b****** number? (0.901) | BIBI Vengeance (0.442) |
@@ -11,6 +16,10 @@
 | Crazy Like You (feat. BIBI) (0.536) | LAW (Prod. Czaer) (0.756) |
 | Very, Slowly (0.528) | FEVER (0.832) |
 | BIBI Vengeance (0.442) | Is this bad b****** number? (0.901) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Animal Farm (0.542) | LAW (Prod. Czaer) (0.9) |
 | Very, Slowly (0.423) | SMILEY(Feat. BIBI) (0.91) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Is this bad b****** number? (0.254) | Very, Slowly (0.0264) |
@@ -37,6 +50,10 @@
 | KAZINO (0.0414) | SMILEY(Feat. BIBI) (0.134) |
 | Animal Farm (0.0315) | FEVER (0.144) |
 | Very, Slowly (0.0264) | Is this bad b****** number? (0.254) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Animal Farm (0.0201) | Second (feat. BIBI) (0.21) |
 | LAW (Prod. Czaer) (0.00857) | Very, Slowly (0.678) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Very, Slowly (0.00148) | Crazy Like You (feat. BIBI) (0.0) |
@@ -63,6 +84,10 @@
 | Is this bad b****** number? (0.0) | BIBI Vengeance (0.000128) |
 | KAZINO (0.0) | Second (feat. BIBI) (0.000587) |
 | Crazy Like You (feat. BIBI) (0.0) | Very, Slowly (0.00148) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | BIBI Vengeance (0.0642) | LAW (Prod. Czaer) (0.237) |
 | Is this bad b****** number? (0.0486) | Animal Farm (0.579) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | SMILEY(Feat. BIBI) (0.82) | Very, Slowly (0.249) |
@@ -89,3 +118,20 @@
 | Animal Farm (0.399) | Is this bad b****** number? (0.715) |
 | KAZINO (0.263) | FEVER (0.809) |
 | Very, Slowly (0.249) | SMILEY(Feat. BIBI) (0.82) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/bibi/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Crazy Like You (feat. BIBI) (170.94) | Is this bad b****** number? (90.958) |
+| SMILEY(Feat. BIBI) (155.967) | Second (feat. BIBI) (95.012) |
+| Very, Slowly (135.917) | FEVER (95.963) |
+| KAZINO (133.041) | BIBI Vengeance (99.981) |
+| LAW (Prod. Czaer) (128.054) | Animal Farm (108.055) |
+| Animal Farm (108.055) | LAW (Prod. Czaer) (128.054) |
+| BIBI Vengeance (99.981) | KAZINO (133.041) |
+| FEVER (95.963) | Very, Slowly (135.917) |
+| Second (feat. BIBI) (95.012) | SMILEY(Feat. BIBI) (155.967) |
+| Is this bad b****** number? (90.958) | Crazy Like You (feat. BIBI) (170.94) |

@@ -1,4 +1,9 @@
 # Audio Features for lilith
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fidelity (0.923) | Stay (0.262) |
@@ -11,6 +16,10 @@
 | I Choose You (0.731) | Bluebird (0.34) |
 | They (0.728) | Bright Lights and Cityscapes (0.343) |
 | Silver Lining (0.709) | Everything Changes (0.348) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Come Round Soon (0.819) | What's Inside (0.242) |
 | They (0.817) | Basket Case (0.273) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Electric Twist (0.125) | Satellite Call (0.0241) |
@@ -37,6 +50,10 @@
 | Fire (0.057) | Stay Now (0.0281) |
 | Eden (0.0562) | Islands (0.0284) |
 | You Oughta Know (0.0557) | Missing You (0.0285) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Miss Simone (0.859) | Bad Idea (feat. Jason Mraz) (0.0168) |
 | Gravity (0.834) | Wicked Love (0.0178) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | A Better Son/Daughter (0.91) | Say You're Sorry (0.0) |
@@ -63,6 +84,10 @@
 | Breathe Again (0.00655) | Everything Changes (0.0) |
 | Miss Simone (0.00407) | Vegas (0.0) |
 | The Light (0.00375) | Hercules (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Once Upon Another Time (0.231) | On the Radio (0.0693) |
 | Say You're Sorry (0.212) | Islands (0.0699) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I Choose You (0.947) | A Better Son/Daughter (0.0473) |
@@ -89,3 +118,20 @@
 | Lie To Me (0.795) | Almost Lover (0.167) |
 | I Didn't Plan It (0.787) | Goodbye Yellow Brick Road - Live at the Variety Playhouse, Atlanta, GA - May 2013 (0.168) |
 | Bad Idea (feat. Jason Mraz) (0.787) | Eet (0.172) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/lilith/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Uncharted (203.962) | What's Inside (63.218) |
+| Brave (185.063) | Bright Lights and Cityscapes (66.509) |
+| Wicked Love (179.894) | Shadowboxer (74.131) |
+| Say You're Sorry (170.016) | Come Round Soon (74.751) |
+| Breathe Again (169.677) | Basket Case (76.196) |
+| Gravity (168.964) | Armor (78.784) |
+| Bad Idea (feat. Jason Mraz) (167.936) | Does He Love You? (78.983) |
+| Eyes on You (165.97) | Vegas (79.999) |
+| Chasing The Sun (164.989) | Islands (80.023) |
+| Opening Up (161.071) | Other Side Of The World (80.039) |

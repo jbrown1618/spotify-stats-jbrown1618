@@ -1,4 +1,9 @@
 # Audio Features for UMC (Universal Music Catalogue)
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Day Tripper - Remastered 2015 (0.665) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.169) |
@@ -11,6 +16,10 @@
 | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.296) | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.296) |
 | Overture - From 'The Phantom Of The Opera' Motion Picture (0.295) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.349) |
 | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.286) | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (0.444) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (0.12) | Your Song (0.315) |
 | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.119) | Overture - From 'The Phantom Of The Opera' Motion Picture (0.41) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (0.0532) | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
@@ -37,6 +50,10 @@
 | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (0.0389) | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (0.0389) |
 | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.0387) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.0393) |
 | Pinball Wizard (0.0356) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.0398) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.771) | Your Song (0.828) |
 | Goodbye Yellow Brick Road - Remastered 2014 (0.446) | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (0.843) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Overture - From 'The Phantom Of The Opera' Motion Picture (0.0276) | The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (0.0) |
@@ -63,6 +84,10 @@
 | Your Song (5.53e-06) | Your Song (5.53e-06) |
 | Day Tripper - Remastered 2015 (4.19e-06) | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (7.6e-06) |
 | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (3.36e-06) | Candle In The Wind - Remastered 2014 (1.9e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.114) | Day Tripper - Remastered 2015 (0.125) |
 | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.109) | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.134) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Day Tripper - Remastered 2015 (0.731) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (0.071) |
@@ -89,3 +118,20 @@
 | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.306) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (0.306) |
 | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (0.288) | Overture - From 'The Phantom Of The Opera' Motion Picture (0.312) |
 | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (0.195) | Your Song (0.325) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/umc__universal_music_catalogue_/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (175.838) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (46.168) |
+| Day Tripper - Remastered 2015 (137.453) | Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture (83.273) |
+| Your Song (128.157) | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (85.698) |
+| The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture (127.714) | Think Of Me - From 'The Phantom Of The Opera' Motion Picture (100.857) |
+| The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture (125.208) | Angel Of Music - From 'The Phantom Of The Opera' Motion Picture (101.583) |
+| Candle In The Wind - Remastered 2014 (124.558) | The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (119.985) |
+| Pinball Wizard (124.011) | Goodbye Yellow Brick Road - Remastered 2014 (121.227) |
+| Overture - From 'The Phantom Of The Opera' Motion Picture (121.398) | Overture - From 'The Phantom Of The Opera' Motion Picture (121.398) |
+| Goodbye Yellow Brick Road - Remastered 2014 (121.227) | Pinball Wizard (124.011) |
+| The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture (119.985) | Candle In The Wind - Remastered 2014 (124.558) |

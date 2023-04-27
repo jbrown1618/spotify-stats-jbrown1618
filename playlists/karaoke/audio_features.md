@@ -1,4 +1,9 @@
 # Audio Features for Karaoke
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Somebody That I Used To Know (0.864) | Desperado - 2013 Remaster (0.228) |
@@ -11,6 +16,10 @@
 | Silver Lining (0.709) | Honeybee (0.352) |
 | Disturbia (0.707) | Bohemian Rhapsody (0.391) |
 | Grenade (0.704) | Something - Remastered 2009 (0.396) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Chasing The Sun (0.794) | Off My Face (0.228) |
 | Chandelier (0.787) | The Way You Look Tonight (0.24) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | So Sick (0.31) | The Scientist (0.0243) |
@@ -37,6 +50,10 @@
 | Dog Days Are Over (0.0788) | Piano Man (0.0276) |
 | Death By A Thousand Cuts (0.0629) | Golden Slumbers - Remastered 2009 (0.0277) |
 | The Boxer (0.0615) | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Say Something (0.857) | Dog Days Are Over (0.0438) |
 | Gravity (0.834) | Sweater Weather (0.0495) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Come Together - Remastered 2009 (0.248) | The Lighthouse's Tale (0.0) |
@@ -63,6 +84,10 @@
 | Sincerely, Jane (0.000649) | Put A Little Love On Me (0.0) |
 | Manhattan (0.000585) | Love On Top (0.0) |
 | Mad World (0.000362) | Someone Like You (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Piano Man (0.312) | Fly Me To The Moon - 2008 Remastered (0.0797) |
 | Desperado - 2013 Remaster (0.273) | When I Was Your Man (0.088) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I Choose You (0.947) | Say Something (0.0765) |
@@ -89,3 +118,20 @@
 | Everybody Talks (0.725) | The Scientist (0.213) |
 | Disturbia (0.722) | Honeybee (0.216) |
 | Somebody That I Used To Know (0.719) | Bohemian Rhapsody (0.227) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/karaoke/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| I Want You Back (196.605) | Desperado - 2013 Remaster (60.3) |
+| Piano Man (179.239) | Moondance - 2013 Remaster (67.409) |
+| Mad World (174.149) | When I Was Your Man (72.795) |
+| Oh! Darling - Remastered 2009 (173.93) | We All Need Saving (74.717) |
+| Gravity (168.964) | Only the Good Die Young (76.214) |
+| Come Together - Remastered 2009 (165.007) | Golden Slumbers - Remastered 2009 (80.608) |
+| Chasing The Sun (164.989) | Home (82.288) |
+| Don't Stop Me Now (156.432) | Old Fashioned (85.043) |
+| Everybody Talks (154.961) | Honeybee (87.919) |
+| I Choose You (154.038) | Manhattan (90.321) |

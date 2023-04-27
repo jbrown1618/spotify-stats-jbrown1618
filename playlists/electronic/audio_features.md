@@ -1,4 +1,9 @@
 # Audio Features for Electronic
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Harder, Better, Faster, Stronger (0.817) | Crystallize (0.44) |
@@ -11,6 +16,10 @@
 | Badster (0.6) | I Feel It Coming (0.773) |
 | Underground (0.521) | Instant Crush (feat. Julian Casablancas) (0.775) |
 | Shatter Me Featuring Lzzy Hale (0.483) | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (0.81) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Song of the Caged Bird (0.643) | I Feel It Coming (0.819) |
 | Crystallize (0.623) | Underground (0.842) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Technologic (0.224) | Instant Crush (feat. Julian Casablancas) (0.0271) |
@@ -37,6 +50,10 @@
 | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (0.0403) | Shatter Me Featuring Lzzy Hale (0.0594) |
 | Song of the Caged Bird (0.0345) | I Feel It Coming (0.118) |
 | Digital Love (0.0332) | One More Time (0.133) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Underground (0.000891) | Instant Crush (feat. Julian Casablancas) (0.0422) |
 | Crystallize (0.000856) | Harder, Better, Faster, Stronger (0.0427) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Digital Love (0.867) | One More Time (0.0) |
@@ -63,6 +84,10 @@
 | Song of the Caged Bird (5.75e-06) | Underground (0.0234) |
 | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (1.77e-06) | Badster (0.0444) |
 | I Feel It Coming (0.0) | Crystallize (0.0586) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Instant Crush (feat. Julian Casablancas) (0.077) | One More Time (0.332) |
 | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (0.072) | Digital Love (0.342) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (0.863) | Crystallize (0.0563) |
@@ -89,3 +118,20 @@
 | Song of the Caged Bird (0.488) | I Feel It Coming (0.585) |
 | One More Time (0.476) | Badster (0.61) |
 | Shatter Me Featuring Lzzy Hale (0.347) | Technologic (0.633) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/electronic/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Shatter Me Featuring Lzzy Hale (144.948) | Song of the Caged Bird (86.505) |
+| Crystallize (140.006) | I Feel It Coming (92.987) |
+| Badster (138.026) | Underground (93.984) |
+| Technologic (127.498) | Instant Crush (feat. Julian Casablancas) (109.942) |
+| Digital Love (124.726) | Get Lucky (feat. Pharrell Williams & Nile Rodgers) (116.05) |
+| Harder, Better, Faster, Stronger (123.474) | One More Time (122.746) |
+| One More Time (122.746) | Harder, Better, Faster, Stronger (123.474) |
+| Get Lucky (feat. Pharrell Williams & Nile Rodgers) (116.05) | Digital Love (124.726) |
+| Instant Crush (feat. Julian Casablancas) (109.942) | Technologic (127.498) |
+| Underground (93.984) | Badster (138.026) |

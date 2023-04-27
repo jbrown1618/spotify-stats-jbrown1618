@@ -1,4 +1,9 @@
 # Audio Features for Choral
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est (0.57) | Ave Maria (Franz Biebl) (0.0611) |
@@ -11,6 +16,10 @@
 | Loch Lomond (0.266) | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (0.0963) |
 | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" (0.258) | Vespers, Op. 37: IV. "Svete tikhyi" (0.103) |
 | Scarborough Fair (0.249) | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.104) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.183) | Hear my prayer, O Lord (0.0236) |
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor (0.154) | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.0246) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (0.0568) | Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu (0.0293) |
@@ -37,6 +50,10 @@
 | Vespers, Op. 37: XI. "Velichit dusha moya Gospoda" (0.0481) | Vespers, Op. 37: III. "Blazhen muzh" (0.0362) |
 | Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (0.0467) | Requiem In D Minor, K.626: 1. Introitus: Requiem (0.0363) |
 | Loch Lomond (0.0467) | Scarborough Fair (0.037) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Alleluia (0.994) | Requiem In D Minor, K.626: 3. Sequentia: Rex tremendae (0.973) |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam (0.994) | Miserere (0.974) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Vespers, Op. 37: XIV. "Voskrez iz groba" (0.98) | Danny Boy (3.77e-05) |
@@ -63,6 +84,10 @@
 | Requiem in D Minor, Op. 48: I. Introitus. Requiem aeternam - Kyrie (0.923) | Requiem In D Minor, K.626: 6. Benedictus (0.000441) |
 | Requiem In D Minor, K.626: 7. Agnus Dei (0.923) | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (0.00129) |
 | Vespers, Op. 37: IV. "Svete tikhyi" (0.921) | Miserere (0.00266) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Vespers, Op. 37: XIII. "Dnes spaseniye" (0.139) | Vespers, Op. 37: I. "Priidite, poklonimsya" (0.0735) |
 | Danny Boy (0.136) | Alleluia (0.0738) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Requiem in D Minor, K.626: 3a. Sequientia: Dies irae (0.596) | Lux Aurumque (0.0241) |
@@ -89,3 +118,20 @@
 | Requiem In D Minor, K.626: 5. Sanctus (0.172) | Requiem in D Minor, Op. 48: IV. Pie Jesu (0.0329) |
 | Requiem In D Minor, K.626: 6. Benedictus (0.153) | Vespers, Op. 37: IV. "Svete tikhyi" (0.0331) |
 | Greensleeves (0.149) | Ave María, WAB 6 (0.0332) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/choral/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Three Songs Of Faith: Hope Faith Life Love (177.027) | Vespers, Op. 37: XII. "Slava v vyshnikh Bogu" (59.288) |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores (168.573) | Requiem in D Minor, Op. 48: III. Sanctus (62.242) |
+| Ave María, WAB 6 (145.594) | Ave Maria (Franz Biebl) (64.509) |
+| Requiem In D Minor, K.626: 3. Sequentia: Tuba mirum (138.199) | Requiem In D Minor, K.626: 3. Sequentia: Confutatis (65.236) |
+| Purcell: Hear My Prayer, O Lord, Z. 15 (137.358) | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" (65.552) |
+| Hear my prayer, O Lord (136.328) | Vespers, Op. 37: III. "Blazhen muzh" (66.348) |
+| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 (135.948) | The Seal Lullaby (66.349) |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa (134.757) | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt (66.871) |
+| Loch Lomond (132.519) | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea (68.266) |
+| Miserere mei, Deus (131.849) | Requiem In D Minor, K.626: 5. Sanctus (68.345) |

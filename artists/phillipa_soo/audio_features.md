@@ -1,4 +1,9 @@
 # Audio Features for Phillipa Soo
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Non-Stop (0.77) | It's Quiet Uptown (0.484) |
@@ -11,6 +16,10 @@
 | Take a Break (0.552) | Helpless (0.688) |
 | Stay Alive - Reprise (0.546) | The Schuyler Sisters (0.74) |
 | That Would Be Enough (0.499) | Schuyler Defeated (0.745) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | That Would Be Enough (0.2) | Helpless (0.491) |
 | It's Quiet Uptown (0.187) | Schuyler Defeated (0.597) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Non-Stop (0.351) | That Would Be Enough (0.0355) |
@@ -37,6 +50,10 @@
 | Best of Wives and Best of Women (0.0544) | Helpless (0.269) |
 | Burn (0.0516) | The Schuyler Sisters (0.278) |
 | It's Quiet Uptown (0.0423) | Alexander Hamilton (0.285) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Schuyler Defeated (0.236) | Burn (0.752) |
 | Non-Stop (0.211) | It's Quiet Uptown (0.796) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Non-Stop (0.0) | Schuyler Defeated (0.0) |
@@ -63,6 +84,10 @@
 | Stay Alive - Reprise (0.0) | Helpless (0.0) |
 | Take a Break (0.0) | That Would Be Enough (0.0) |
 | Best of Wives and Best of Women (0.0) | The Schuyler Sisters (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Best of Wives and Best of Women (0.0858) | Take a Break (0.18) |
 | Stay Alive - Reprise (0.0801) | Non-Stop (0.223) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Schuyler Defeated (0.842) | That Would Be Enough (0.185) |
@@ -89,3 +118,20 @@
 | Stay Alive - Reprise (0.427) | Best of Wives and Best of Women (0.597) |
 | Burn (0.255) | Helpless (0.737) |
 | It's Quiet Uptown (0.227) | The Schuyler Sisters (0.792) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/phillipa_soo/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Stay Alive - Reprise (160.031) | Helpless (79.009) |
+| That Would Be Enough (137.367) | Take a Break (81.548) |
+| Alexander Hamilton (131.995) | Non-Stop (91.994) |
+| Best of Wives and Best of Women (131.508) | Burn (99.608) |
+| It's Quiet Uptown (129.753) | The Schuyler Sisters (101.409) |
+| Schuyler Defeated (102.108) | Schuyler Defeated (102.108) |
+| The Schuyler Sisters (101.409) | It's Quiet Uptown (129.753) |
+| Burn (99.608) | Best of Wives and Best of Women (131.508) |
+| Non-Stop (91.994) | Alexander Hamilton (131.995) |
+| Take a Break (81.548) | That Would Be Enough (137.367) |

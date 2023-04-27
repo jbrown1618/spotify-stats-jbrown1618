@@ -1,4 +1,9 @@
 # Audio Features for Liked Tracks
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | SexyBack (feat. Timbaland) (0.967) | Pyramid Song (0.127) |
@@ -11,6 +16,10 @@
 | RUN (HAN) (0.929) | Nature Boy (0.203) |
 | Another One Bites The Dust (0.926) | A Case of You (0.205) |
 | Baby Got Back (0.926) | Fix You (0.209) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | KARATE (0.982) | xanny (0.125) |
 | だいじょばない (0.982) | Blackbird - Remastered 2009 (0.127) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Youngblood (0.463) | With (0.0228) |
@@ -37,6 +50,10 @@
 | bad guy (0.375) | I'd Rather Go Blind (0.0247) |
 | I GOT IT (HAN) (0.365) | Set Fire to the Rain (0.0249) |
 | Ice Cream (with Selena Gomez) (0.365) | Sweet Night (0.025) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Skinny Love (0.952) | Oh Sorry Ya (0.000315) |
 | Lullabye (Goodnight, My Angel) (0.948) | Misery (0.000315) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Set the Controls for the Heart of the Sun (0.905) | Leave The Door Open (0.0) |
@@ -63,6 +84,10 @@
 | A Fifth Of Beethoven (0.69) | Clean (0.0) |
 | everything i wanted (0.657) | To the moon (0.0) |
 | Instant Crush (feat. Julian Casablancas) (0.619) | Shut Down (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Sticker (0.742) | Holiday Party (0.0294) |
 | You Oughta Know (0.736) | Ice Cream (with Selena Gomez) (0.0311) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sour candy (0.98) | You Take My Breath Away (0.0384) |
@@ -89,3 +118,20 @@
 | SexyBack (feat. Timbaland) (0.964) | Crystallize (0.0563) |
 | I'm a Slave 4 U (0.963) | Lose Yourself (0.059) |
 | Miniskirt (0.963) | Falling (0.0592) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/liked_tracks/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | Dream (48.973) |
+| That Man (207.029) | Seven Devils (58.534) |
+| Lights (205.422) | Desperado - 2013 Remaster (60.3) |
+| Uncharted (203.962) | Bambi (61.45) |
+| Every night (203.639) | My Everything (61.975) |
+| 11:11 (203.155) | River (62.507) |
+| O.O (200.263) | imagine (62.52) |
+| Blue Whale - 2016 Version (200.096) | Run Devil Run (64.927) |
+| Strawberry Cake (199.943) | Moondance - 2013 Remaster (67.409) |
+| No title (199.751) | Over Me (67.998) |

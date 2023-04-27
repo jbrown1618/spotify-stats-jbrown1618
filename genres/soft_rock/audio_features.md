@@ -1,4 +1,9 @@
 # Audio Features for soft rock
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Dreams - 2004 Remaster (0.828) | Bridge Over Troubled Water (0.149) |
@@ -11,6 +16,10 @@
 | A Matter of Trust (0.738) | The Boxer (0.351) |
 | Last Christmas (0.735) | Captain Jack (0.392) |
 | Rhiannon (0.723) | Landslide (0.414) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Cecilia (0.876) | Bridge Over Troubled Water (0.206) |
 | Only the Good Die Young (0.872) | The Sound of Silence - Acoustic Version (0.216) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Only the Good Die Young (0.159) | Fields Of Gold (0.0246) |
@@ -37,6 +50,10 @@
 | The River of Dreams (0.0576) | Dust in the Wind (0.0283) |
 | Don't Ask Me Why (0.0543) | Last Christmas (0.0293) |
 | Take on Me (0.054) | Rhiannon (0.0296) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Crazy Love (0.85) | Take on Me (0.018) |
 | Crazy Love - 2013 Remaster (0.841) | Cold as Ice (0.0264) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Rhiannon (0.0946) | And So It Goes (0.0) |
@@ -63,6 +84,10 @@
 | You Can Call Me Al (0.00647) | The Longest Time (0.0) |
 | Dreams - 2004 Remaster (0.00428) | The Sound of Silence - Acoustic Version (0.0) |
 | I Feel the Earth Move (0.00226) | Uptown Girl (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | New York State of Mind (0.323) | Go Your Own Way - 2004 Remaster (0.068) |
 | Piano Man (0.312) | Renegade (0.0723) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | I'm a Believer - 2006 Remaster (0.962) | Come Sail Away (0.141) |
@@ -89,3 +118,20 @@
 | A Matter of Trust (0.88) | Bridge Over Troubled Water (0.264) |
 | Take on Me (0.876) | Vienna (0.308) |
 | Don't Ask Me Why (0.868) | Fields Of Gold (0.32) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Lights (205.422) | Desperado - 2013 Remaster (60.3) |
+| The Boxer (181.849) | Moondance - 2013 Remaster (67.409) |
+| Piano Man (179.239) | She's Got a Way (75.859) |
+| She's Always a Woman (176.631) | Only the Good Die Young (76.214) |
+| Landslide (159.375) | Lullabye (Goodnight, My Angel) (76.48) |
+| The Chain - 2004 Remaster (151.553) | Crazy Love - 2013 Remaster (77.464) |
+| Brown Eyed Girl (150.566) | Crazy Love (77.539) |
+| Big Shot (149.861) | Cat's in the Cradle (78.111) |
+| Pressure (148.494) | Bridge Over Troubled Water (79.764) |
+| 25 or 6 to 4 (147.502) | I'm a Believer - 2006 Remaster (80.106) |

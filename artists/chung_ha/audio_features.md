@@ -1,4 +1,9 @@
 # Audio Features for CHUNG HA
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Bad Boy (0.822) | Good Night My Princess (0.446) |
@@ -11,6 +16,10 @@
 | Dream of You (with R3HAB) (0.659) | Masquerade (0.645) |
 | Masquerade (0.645) | Dream of You (with R3HAB) (0.659) |
 | PLAY (0.637) | Wow Thing (0.703) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Gotta Go (0.83) | Stay Tonight (0.831) |
 | Dream of You (with R3HAB) (0.738) | Masquerade (0.844) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Wow Thing (0.281) | Good Night My Princess (0.0293) |
@@ -37,6 +50,10 @@
 | Demente (feat. Guaynaa) (0.0563) | Stay Tonight (0.0554) |
 | Stay Tonight (0.0554) | Demente (feat. Guaynaa) (0.0563) |
 | Bad Boy (0.0461) | Bicycle (0.0594) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Crazy Like You (feat. BIBI) (0.0957) | Wow Thing (0.115) |
 | BAD GIRL (Prod. Czaer) (0.0815) | Sparkling (0.166) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Stay Tonight (0.000612) | Crazy Like You (feat. BIBI) (0.0) |
@@ -63,6 +84,10 @@
 | Sparkling (0.0) | When I Get Old (0.0) |
 | When I Get Old (0.0) | Sparkling (0.0) |
 | Wow Thing (0.0) | Bicycle (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Dream of You (with R3HAB) (0.114) | PLAY (0.152) |
 | BAD GIRL (Prod. Czaer) (0.107) | When I Get Old (0.203) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | PLAY (0.884) | Good Night My Princess (0.112) |
@@ -89,3 +118,20 @@
 | Sparkling (0.712) | Demente (feat. Guaynaa) (0.697) |
 | Demente (feat. Guaynaa) (0.697) | Sparkling (0.712) |
 | When I Get Old (0.658) | Masquerade (0.731) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/chung_ha/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Crazy Like You (feat. BIBI) (170.94) | BAD GIRL (Prod. Czaer) (92.0) |
+| Sparkling (160.025) | Demente (feat. Guaynaa) (100.019) |
+| Bicycle (145.97) | Gotta Go (101.903) |
+| Masquerade (143.957) | PLAY (103.934) |
+| Good Night My Princess (139.267) | Wow Thing (104.043) |
+| When I Get Old (127.418) | Snapping (104.961) |
+| Killing Me (122.012) | Bad Boy (116.987) |
+| Stay Tonight (121.029) | Dream of You (with R3HAB) (117.081) |
+| Dream of You (with R3HAB) (117.081) | Stay Tonight (121.029) |
+| Bad Boy (116.987) | Killing Me (122.012) |

@@ -1,4 +1,9 @@
 # Audio Features for Jazz
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Freedom At Midnight (0.78) | A Last Request (0.224) |
@@ -11,6 +16,10 @@
 | Someday (feat. Meghan Trainor) (0.671) | Deep Light (0.408) |
 | Fly Me To The Moon (In Other Words) (0.668) | Del Sasser (0.418) |
 | Every Corner Of The World (0.66) | Beautiful Love (0.435) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Freedom At Midnight (0.584) | La Vie En Rose (0.236) |
 | Feeling Good (0.548) | The Way You Look Tonight (0.24) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | That Man (0.138) | Everything (0.0254) |
@@ -37,6 +50,10 @@
 | Love Won't Let You Get Away (0.0584) | Something In The Air Between Us (0.0295) |
 | M.W.A. (Musicians With Attitude) (0.0554) | Strangers In The Night (0.0295) |
 | Fly Me To The Moon (In Other Words) (0.0523) | Coconut Roads (0.0299) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Deep Light (0.847) | Along The Milky Way (0.153) |
 | I Can't Make You Love Me (0.846) | Houston (0.159) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Deep Light (0.956) | The Way You Look Tonight (0.0) |
@@ -63,6 +84,10 @@
 | A Last Request (0.563) | Come Fly With Me - Remastered 1998 (0.0) |
 | Houston (0.554) | The Best Is yet to Come (0.0) |
 | Every Step Of The Way (0.545) | Every Corner Of The World (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Houston (0.211) | El Camino Real (0.0714) |
 | Strangers In The Night (0.201) | Someday (feat. Meghan Trainor) (0.0748) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Someday (feat. Meghan Trainor) (0.934) | Deep Light (0.0517) |
@@ -89,3 +118,20 @@
 | Agua De Beber (0.7) | 6-String Poet (0.187) |
 | Del Sasser (0.692) | La Vie En Rose (0.194) |
 | Passion Walk (0.674) | Something In The Air Between Us (0.199) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/jazz/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| That Man (207.029) | 6-String Poet (60.757) |
+| M.W.A. (Musicians With Attitude) (203.958) | La vie en rose (feat. Cécile McLorin Salvant) (63.378) |
+| Fake Monologue (185.953) | Come Fly With Me - Remastered 1998 (67.008) |
+| A Last Request (179.86) | Pieces Of Time (76.03) |
+| Take Five (174.322) | L-O-V-E (78.884) |
+| Can't Help Falling in Love (174.036) | Along The Milky Way (82.022) |
+| L-O-V-E - 2000 Remaster (157.47) | Unforgettable (85.691) |
+| Kei's Song (144.886) | The Last Goodbye (89.055) |
+| Moondance (140.736) | Along Love's Highway (90.068) |
+| La Vie En Rose (133.985) | Strangers In The Night (90.348) |

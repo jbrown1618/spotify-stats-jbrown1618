@@ -1,4 +1,9 @@
 # Audio Features for Hollywood Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Another One Bites The Dust (0.926) | Fat Bottomed Girls (0.253) |
@@ -11,6 +16,10 @@
 | You're My Best Friend (0.521) | Save Me (0.498) |
 | Heart Attack (0.504) | Heart Attack (0.504) |
 | Save Me (0.498) | You're My Best Friend (0.521) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | We Are The Champions (0.455) | We Are The Champions (0.455) |
 | Stone Cold (0.453) | Killer Queen (0.494) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Don't Stop Me Now (0.192) | Save Me (0.0276) |
@@ -37,6 +50,10 @@
 | I Want To Break Free (0.0471) | Stone Cold (0.0437) |
 | You're My Best Friend (0.044) | You're My Best Friend (0.044) |
 | Stone Cold (0.0437) | I Want To Break Free (0.0471) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Save Me (0.198) | Save Me (0.198) |
 | Somebody To Love (0.181) | Bohemian Rhapsody (0.204) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Another One Bites The Dust (0.136) | We Will Rock You (0.0) |
@@ -63,6 +84,10 @@
 | Bohemian Rhapsody (1.38e-06) | Save Me (0.0) |
 | Somebody To Love (0.0) | Somebody To Love (0.0) |
 | Save Me (0.0) | Bohemian Rhapsody (1.38e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Save Me (0.114) | Save Me (0.114) |
 | Innuendo (0.114) | Another One Bites The Dust (0.119) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Another One Bites The Dust (0.784) | The Show Must Go On (0.109) |
@@ -89,3 +118,20 @@
 | Heart Attack (0.502) | Fat Bottomed Girls (0.41) |
 | Save Me (0.429) | Save Me (0.429) |
 | Fat Bottomed Girls (0.41) | Heart Attack (0.502) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/hollywood_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Fat Bottomed Girls (176.109) | Innuendo (72.302) |
+| Heart Attack (173.968) | Crazy Little Thing Called Love (76.826) |
+| Don't Stop Me Now (156.432) | We Will Rock You (81.412) |
+| Bohemian Rhapsody (143.993) | Save Me (81.572) |
+| Stone Cold (140.327) | The Show Must Go On (84.011) |
+| You're My Best Friend (118.697) | We Are The Champions (94.504) |
+| Killer Queen (117.129) | Good Old Fashioned Lover Boy (96.302) |
+| Somebody To Love (110.193) | I Want To Break Free (109.143) |
+| Another One Bites The Dust (109.884) | Another One Bites The Dust (109.884) |
+| I Want To Break Free (109.143) | Somebody To Love (110.193) |

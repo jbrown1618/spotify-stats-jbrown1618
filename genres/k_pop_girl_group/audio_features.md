@@ -1,4 +1,9 @@
 # Audio Features for k-pop girl group
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | #Twenty (0.956) | HWAA (0.384) |
@@ -11,6 +16,10 @@
 | Louder (0.886) | Addicted (0.463) |
 | The Boys (0.885) | Merry Christmas (0.466) |
 | Nobody (0.882) | Life's Too Short (English Version) (0.472) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Very Very Very (0.963) | 7월 7일 One Of These Nights (0.509) |
 | Alone (0.961) | Hello, Sunset (0.531) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Addicted (0.419) | Moonlight Melody (0.0269) |
@@ -37,6 +50,10 @@
 | Be Natural (0.316) | Something (0.0285) |
 | Love So Sweet (0.308) | Merry Christmas (0.0292) |
 | O.O (0.293) | ESCAPE (0.0295) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Moonlight Melody (0.654) | Up & Down (0.00189) |
 | Cupid (0.652) | Pirate (0.00195) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Next Level - Habstrakt Remix (0.201) | Shut Down (0.0) |
@@ -63,6 +84,10 @@
 | Power Up (0.00745) | So Good (0.0) |
 | BBoom BBoom (0.00666) | Love So Sweet (0.0) |
 | In My Dreams (0.0066) | Hype Boy (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | 5th Season (SSFWL) (0.635) | I’m So Hot (0.0437) |
 | Say! Yes (0.634) | ELEVEN (0.048) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Pepe (0.966) | 7월 7일 One Of These Nights (0.11) |
@@ -89,3 +118,20 @@
 | Nobody (0.95) | LION (0.187) |
 | Really (0.947) | POSE (0.195) |
 | Devil (0.946) | MORE (0.199) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_girl_group/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | Run Devil Run (64.927) |
+| Freedom (203.833) | Hello, Sunset (71.999) |
+| Every night (203.639) | Life's Too Short (English Version) (72.203) |
+| O.O (200.263) | SAME SAME (76.011) |
+| Merry Christmas (197.918) | VILLAIN DIES (77.008) |
+| About Love (191.908) | Red Sun (79.454) |
+| Young, Dumb, Stupid (187.985) | Eyes Locked, Hands Locked (79.986) |
+| Good Luck (187.936) | BEAUTIFUL MONSTER (82.321) |
+| Body Talk (185.946) | Life's Too Short (83.311) |
+| I’ll BE THERE (185.657) | STAY (87.959) |

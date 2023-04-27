@@ -1,4 +1,9 @@
 # Audio Features for Girls' Generation
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | The Boys (0.885) | You Better Run (0.436) |
@@ -11,6 +16,10 @@
 | Into the New World (0.708) | Mr.Mr. (0.701) |
 | Mr.Mr. (0.701) | Into the New World (0.708) |
 | 말해봐 (Talk Talk) (0.695) | Holiday (0.709) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | I GOT A BOY (0.863) | Holiday (0.867) |
 | Villain (0.857) | FOREVER 1 (0.871) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Freedom (0.388) | Gee (0.0274) |
@@ -37,6 +50,10 @@
 | Genie (0.116) | The Boys (0.0898) |
 | The Boys (0.0898) | Genie (0.116) |
 | Holiday (0.0672) | Mr.Mr. (0.127) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Into the New World (0.0706) | 말해봐 (Talk Talk) (0.091) |
 | Run Devil Run (0.0596) | Mr.Mr. (0.114) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Lion Heart (0.00274) | Gee (0.0) |
@@ -63,6 +84,10 @@
 | Closer (0.0) | The Boys (0.0) |
 | The Boys (0.0) | Closer (0.0) |
 | Freedom (0.0) | Genie (4.78e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Freedom (0.127) | Mr.Mr. (0.153) |
 | Closer (0.123) | Run Devil Run (0.181) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Lion Heart (0.961) | Villain (0.296) |
@@ -89,3 +118,20 @@
 | You Better Run (0.651) | Into the New World (0.623) |
 | Into the New World (0.623) | You Better Run (0.651) |
 | Freedom (0.528) | Genie (0.719) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/girls__generation/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Freedom (203.833) | Run Devil Run (64.927) |
+| Villain (179.957) | I GOT A BOY (97.911) |
+| You Better Run (167.024) | Gee (99.988) |
+| Oh! (143.987) | 말해봐 (Talk Talk) (100.093) |
+| Lion Heart (124.992) | Into the New World (108.031) |
+| FOREVER 1 (123.915) | Mr.Mr. (113.058) |
+| Genie (123.006) | The Boys (114.974) |
+| Holiday (120.022) | Closer (115.005) |
+| Closer (115.005) | Holiday (120.022) |
+| The Boys (114.974) | Genie (123.006) |

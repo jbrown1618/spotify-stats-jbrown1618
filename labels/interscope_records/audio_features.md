@@ -1,4 +1,9 @@
 # Audio Features for Interscope Records
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Typa Girl (0.915) | On The Ground (0.311) |
@@ -11,6 +16,10 @@
 | MONEY (0.831) | Radioactive (0.448) |
 | Telephone (0.824) | You Never Know (0.477) |
 | Just Dance (0.822) | Yoü And I (0.518) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Rain On Me (with Ariana Grande) (0.855) | GOLDWING (0.303) |
 | United In Grief (0.845) | Seed (0.33) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | United In Grief (0.404) | Hope Not (0.0274) |
@@ -37,6 +50,10 @@
 | Kill This Love (0.191) | The Happiest Girl (0.0328) |
 | you should see me in a crown (0.186) | Anymore (0.0329) |
 | Love To Hate Me (0.159) | Sugar (0.0334) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | GOLDWING (0.755) | Nightfall (feat. Bryan Chase) (0.00677) |
 | xanny (0.751) | Tally (0.00777) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | everything i wanted (0.657) | Shut Down (0.0) |
@@ -63,6 +84,10 @@
 | TV (0.00653) | The Happiest Girl (0.0) |
 | Happier Than Ever (0.00349) | Sunday Morning (0.0) |
 | Kill This Love (0.00221) | See U Later (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | LoveGame (0.317) | FLOWER (0.0735) |
 | Moves Like Jagger - Studio Recording From "The Voice" Performance (0.308) | Kick It (0.0736) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Really (0.947) | No Time To Die (0.0517) |
@@ -89,3 +118,20 @@
 | This Love (0.809) | Nightfall (feat. Bryan Chase) (0.168) |
 | Sunday Morning (0.805) | GOLDWING (0.168) |
 | Crank That (Soulja Boy) (0.803) | Hope Not (0.179) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/interscope_records/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| On The Ground (188.7) | No Time To Die (73.537) |
+| Good Thing (with Kehlani) (185.913) | Come Home (75.003) |
+| Pink Venom (180.169) | Lonely (with benny blanco) (79.859) |
+| Love To Hate Me (162.225) | Gone (79.936) |
+| GOLDWING (160.095) | Happier Than Ever (81.055) |
+| Ice Cream (with Selena Gomez) (159.972) | when the party's over (82.642) |
+| Pretty Savage (152.045) | United In Grief (85.63) |
+| you should see me in a crown (150.455) | Sunday Morning (88.059) |
+| LALISA (150.058) | Seed (89.851) |
+| Mushroom Chocolate (with 6LACK) (147.921) | The Happiest Girl (91.058) |

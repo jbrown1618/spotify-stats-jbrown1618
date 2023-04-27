@@ -1,4 +1,9 @@
 # Audio Features for The Tarpeggios
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Settle Down (0.794) | The End (Interlude) (0.176) |
@@ -11,6 +16,10 @@
 | Can't Take My Eyes off You (0.578) | I See Fire (0.406) |
 | I Knew You Were Trouble (0.574) | Wife You Up (0.433) |
 | Candyman (0.566) | G Train (0.44) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Chandelier (0.626) | Wife You Up (0.479) |
 | Blank Space (0.62) | I Knew You Were Trouble (0.483) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Candyman (0.236) | Chariot (0.0262) |
@@ -37,6 +50,10 @@
 | Sanctify (0.0515) | Settle Down (0.0339) |
 | XS (0.0482) | G Train (0.0344) |
 | Can't Take My Eyes off You (0.0464) | I Knew You Were Trouble (0.0356) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | The End (Interlude) (0.556) | Before He Cheats (0.342) |
 | Golden Slumbers / Carry That Weight (0.525) | XS (0.346) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | You Take My Breath Away (0.308) | Chariot (0.0) |
@@ -63,6 +84,10 @@
 | A Case of You (0.0) | Settle Down (0.0) |
 | The Scientist (0.0) | I Knew You Were Trouble (0.0) |
 | Carolina State of Mind (0.0) | Golden Slumbers / Carry That Weight (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Kiss the Sky (0.151) | Candyman (0.104) |
 | The End (Interlude) (0.147) | Home (0.104) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Build Me up Buttercup (0.655) | You Take My Breath Away (0.0384) |
@@ -89,3 +118,20 @@
 | Settle Down (0.513) | Lullabye (Goodnight, My Angel) (0.242) |
 | Can't Take My Eyes off You (0.456) | Home (0.305) |
 | Bottom of the River (0.449) | G Train (0.316) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/the_tarpeggios/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Carolina State of Mind (180.209) | Lullabye (Goodnight, My Angel) (72.306) |
+| Chandelier (173.914) | Bottom of the River (74.144) |
+| A Case of You (171.769) | Before He Cheats (74.975) |
+| G Train (169.964) | I Knew You Were Trouble (77.05) |
+| Candyman (169.783) | Golden Slumbers / Carry That Weight (82.759) |
+| I See Fire (159.935) | Chariot (83.998) |
+| The Scientist (143.803) | Home (85.943) |
+| Drag Me Down / As Long as You Love Me (140.055) | Blank Space (95.966) |
+| The End (Interlude) (136.834) | Settle Down (95.985) |
+| Build Me up Buttercup (125.016) | Sanctify (104.985) |

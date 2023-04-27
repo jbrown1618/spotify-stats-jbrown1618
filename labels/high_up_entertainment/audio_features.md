@@ -1,4 +1,9 @@
 # Audio Features for High Up Entertainment
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | ASAP (0.764) | I’ll BE THERE (0.511) |
@@ -11,6 +16,10 @@
 | STEREOTYPE (0.605) | YOUNG LUV (0.695) |
 | BEAUTIFUL MONSTER (0.594) | RUN2U (0.722) |
 | BUTTERFLY (0.567) | SAME SAME (0.734) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | I’ll BE THERE (0.608) | ASAP (0.802) |
 | LOVE FOOL (0.596) | STEREOTYPE (0.805) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | 247 (0.195) | YOUNG LUV (0.0277) |
@@ -37,6 +50,10 @@
 | Teddy Bear (0.0524) | RUN2U (0.0829) |
 | BUTTERFLY (0.0362) | BEAUTIFUL MONSTER (0.0834) |
 | ASAP (0.0351) | SO BAD (0.103) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Teddy Bear (0.105) | LOVE FOOL (0.231) |
 | ASAP (0.102) | STEREOTYPE (0.313) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | YOUNG LUV (5.23e-05) | SO BAD (0.0) |
@@ -63,6 +84,10 @@
 | Teddy Bear (0.0) | ASAP (0.0) |
 | STEREOTYPE (0.0) | SAME SAME (0.0) |
 | LOVE FOOL (0.0) | BUTTERFLY (1.58e-06) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | I’ll BE THERE (0.117) | RUN2U (0.321) |
 | YOUNG LUV (0.104) | BEAUTIFUL MONSTER (0.352) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 247 (0.769) | ASAP (0.323) |
@@ -89,3 +118,20 @@
 | BUTTERFLY (0.494) | SAME SAME (0.606) |
 | I’ll BE THERE (0.475) | SO BAD (0.616) |
 | YOUNG LUV (0.458) | Teddy Bear (0.686) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/high_up_entertainment/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| I’ll BE THERE (185.657) | SAME SAME (76.011) |
+| BUTTERFLY (179.851) | BEAUTIFUL MONSTER (82.321) |
+| SO BAD (168.978) | 247 (92.045) |
+| STEREOTYPE (148.298) | Teddy Bear (119.04) |
+| ASAP (132.02) | LOVE FOOL (119.998) |
+| RUN2U (129.943) | YOUNG LUV (129.905) |
+| YOUNG LUV (129.905) | RUN2U (129.943) |
+| LOVE FOOL (119.998) | ASAP (132.02) |
+| Teddy Bear (119.04) | STEREOTYPE (148.298) |
+| 247 (92.045) | SO BAD (168.978) |

@@ -1,4 +1,9 @@
 # Audio Features for DREAMCATCHER COMPANY
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Locked Inside A Door (0.757) | REASON (0.474) |
@@ -11,6 +16,10 @@
 | BEcause (0.55) | Scream (0.704) |
 | Starlight (0.548) | Black Or White (0.746) |
 | REASON (0.474) | Locked Inside A Door (0.757) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Jazz Bar (0.707) | Scream (0.94) |
 | Locked Inside A Door (0.661) | MAISON (0.955) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | REASON (0.254) | Starlight (0.0484) |
@@ -37,6 +50,10 @@
 | VISION (0.0561) | Scream (0.158) |
 | Locked Inside A Door (0.0518) | MAISON (0.159) |
 | Starlight (0.0484) | REASON (0.254) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | REASON (0.00513) | Red Sun (0.351) |
 | Starlight (0.00244) | Jazz Bar (0.704) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Red Sun (0.0) | Black Or White (0.0) |
@@ -63,6 +84,10 @@
 | VISION (0.0) | Jazz Bar (0.0) |
 | MAISON (0.0) | Starlight (0.0) |
 | Black Or White (0.0) | Red Sun (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | MAISON (0.0782) | REASON (0.343) |
 | Locked Inside A Door (0.0717) | BEcause (0.344) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Locked Inside A Door (0.815) | Scream (0.311) |
@@ -89,3 +118,20 @@
 | VISION (0.355) | Black Or White (0.686) |
 | Starlight (0.346) | Jazz Bar (0.72) |
 | Scream (0.311) | Locked Inside A Door (0.815) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/labels/dreamcatcher_company/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| REASON (176.083) | Red Sun (79.454) |
+| BEcause (170.012) | Jazz Bar (93.936) |
+| Starlight (149.97) | VISION (94.958) |
+| Scream (137.909) | Locked Inside A Door (97.968) |
+| MAISON (120.007) | Black Or White (99.983) |
+| Black Or White (99.983) | MAISON (120.007) |
+| Locked Inside A Door (97.968) | Scream (137.909) |
+| VISION (94.958) | Starlight (149.97) |
+| Jazz Bar (93.936) | BEcause (170.012) |
+| Red Sun (79.454) | REASON (176.083) |

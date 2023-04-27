@@ -1,4 +1,9 @@
 # Audio Features for EXO
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Paradise (0.799) | Runaway (0.425) |
@@ -11,6 +16,10 @@
 | Growl (0.681) | Growl (0.681) |
 | 첫 눈 (0.636) | Tempo (0.686) |
 | The Eve (0.636) | Love Shot (0.689) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Paradise (0.731) | Growl (0.814) |
 | Runaway (0.723) | LOVE ME RIGHT (0.83) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Love Shot (0.119) | The Eve (0.0334) |
@@ -37,6 +50,10 @@
 | Monster (0.0596) | Monster (0.0596) |
 | No matter (0.0539) | Growl (0.0603) |
 | The First Snow - Chinese Version (0.0535) | Runaway (0.0685) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Ko Ko Bop (0.0319) | Love Shot (0.0702) |
 | The Eve (0.0223) | Gravity (0.0711) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Ko Ko Bop (4.81e-05) | Paradise (0.0) |
@@ -63,6 +84,10 @@
 | 첫 눈 (0.0) | 첫 눈 (0.0) |
 | The Eve (0.0) | Tempo (0.0) |
 | The First Snow (0.0) | Growl (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Runaway (0.121) | The First Snow (0.145) |
 | The First Snow - Chinese Version (0.119) | 첫 눈 (0.145) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | CALL ME BABY (0.879) | Runaway (0.31) |
@@ -89,3 +118,20 @@
 | Ko Ko Bop (0.672) | Ko Ko Bop (0.672) |
 | Paradise (0.648) | Gravity (0.695) |
 | Monster (0.541) | LOVE ME RIGHT (0.757) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/exo/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Runaway (179.848) | The First Snow (82.985) |
+| The First Snow - Chinese Version (165.978) | 첫 눈 (82.985) |
+| Monster (150.0) | Growl (89.993) |
+| Ko Ko Bop (145.983) | No matter (97.977) |
+| Love Shot (145.883) | CALL ME BABY (100.03) |
+| The Eve (135.104) | LOVE ME RIGHT (110.04) |
+| Gravity (117.961) | Paradise (111.991) |
+| Tempo (115.944) | Tempo (115.944) |
+| Paradise (111.991) | Gravity (117.961) |
+| LOVE ME RIGHT (110.04) | The Eve (135.104) |

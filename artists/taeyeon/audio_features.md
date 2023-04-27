@@ -1,4 +1,9 @@
 # Audio Features for TAEYEON
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | To the moon (0.835) | Fine (0.36) |
@@ -11,6 +16,10 @@
 | You Better Not (0.703) | 그대라는 시 (0.533) |
 | I Got Love (0.693) | If (0.538) |
 | Stress (0.685) | Cold As Hell (0.555) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Sweet Love (0.785) | Heart (0.533) |
 | Four Seasons (0.768) | Fine (0.565) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Sweet Love (0.172) | The Magic of Christmas Time (0.0274) |
@@ -37,6 +50,10 @@
 | Stress (0.0754) | Cold As Hell (0.0325) |
 | 11:11 (0.0744) | Candy Cane (0.0327) |
 | What Do I Call You (0.0674) | Rain (0.0329) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Rain (0.538) | Gravity (0.0898) |
 | You Better Not (0.371) | INVU (0.0911) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Weekend (0.000532) | To the moon (0.0) |
@@ -63,6 +84,10 @@
 | The Magic of Christmas Time (2.19e-06) | Happy (0.0) |
 | INVU (2.17e-06) | Spark (0.0) |
 | I Got Love (1.4e-06) | Four Seasons (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Happy (0.201) | Heart (0.0974) |
 | Priority (0.185) | I Got Love (0.108) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Stress (0.933) | Gravity (0.142) |
@@ -89,3 +118,20 @@
 | Four Seasons (0.673) | Heart (0.345) |
 | Toddler (0.658) | Priority (0.356) |
 | Happy (0.636) | Wine (0.367) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/taeyeon/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| 11:11 (203.155) | Wine (72.022) |
+| Heart (179.652) | Sweet Love (74.751) |
+| Four Seasons (173.99) | Rain (76.024) |
+| Fine (173.281) | Can't Control Myself (85.044) |
+| Cold As Hell (155.962) | LOL (88.016) |
+| Gravity (153.871) | I (89.993) |
+| If (145.714) | The Magic of Christmas Time (91.689) |
+| Candy Cane (141.956) | Priority (92.945) |
+| Stress (140.081) | I Got Love (101.956) |
+| What Do I Call You (139.889) | Up & Down (105.06) |

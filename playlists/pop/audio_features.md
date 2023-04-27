@@ -1,4 +1,9 @@
 # Audio Features for Pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | SexyBack (feat. Timbaland) (0.967) | Fix You (0.209) |
@@ -11,6 +16,10 @@
 | I Think He Knows (0.897) | We All Need Saving (0.35) |
 | Yeah! (feat. Lil Jon & Ludacris) (0.894) | lovely (with Khalid) (0.351) |
 | LoveGame (0.894) | epiphany (0.354) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Don't Call Me Up (0.881) | Happier Than Ever (0.225) |
 | Focus (0.876) | Off My Face (0.228) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Youngblood (0.463) | All Too Well (0.0243) |
@@ -37,6 +50,10 @@
 | Hustle (0.326) | Put A Little Love On Me (0.0262) |
 | Light Switch (0.308) | Begin Again (0.0263) |
 | Show Me What (0.287) | no body, no crime (feat. HAIM) (0.0264) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Off My Face (0.92) | Yellow (0.00239) |
 | peace (0.918) | Style (0.00253) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Abeja (0.915) | Leave The Door Open (0.0) |
@@ -63,6 +84,10 @@
 | Therefore I Am (0.135) | Jar of Hearts (0.0) |
 | bad guy (0.13) | Lucky (0.0) |
 | This Is What You Came For (0.119) | That's What I Like (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Sour Candy (with BLACKPINK) (0.489) | Good Thing (with Kehlani) (0.0409) |
 | In the Name of Love (0.454) | Hot In It (0.0413) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | There's Nothing Holdin' Me Back (0.969) | Delicate (0.0499) |
@@ -89,3 +118,20 @@
 | Tick Tock (feat. 24kGoldn) (0.946) | Dress (0.0851) |
 | Peacock (0.945) | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" (0.0862) |
 | Shake It Off (0.943) | Jar of Hearts (0.0886) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| That's My Girl (202.049) | My Everything (61.975) |
+| boyfriend (with Social House) (190.097) | River (62.507) |
+| Good Thing (with Kehlani) (185.913) | imagine (62.52) |
+| Brave (185.063) | Lover (68.534) |
+| Light Switch (184.008) | Rehab (71.515) |
+| deja vu (181.088) | When I Was Your Man (72.795) |
+| What Now (180.158) | No Time To Die (73.537) |
+| I Love You 3000 II (179.727) | Jar of Hearts (74.541) |
+| MONTERO (Call Me By Your Name) (178.818) | We All Need Saving (74.717) |
+| Stuck with U (with Justin Bieber) (178.765) | Ride (74.989) |

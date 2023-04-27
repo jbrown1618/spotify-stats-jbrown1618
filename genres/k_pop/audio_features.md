@@ -1,4 +1,9 @@
 # Audio Features for k-pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Fire (0.963) | U (0.301) |
@@ -11,6 +16,10 @@
 | Jelly (0.921) | Epilogue (0.366) |
 | SNEAKERS (English Ver.) (0.92) | Clockwork (0.37) |
 | Weather (0.915) | MY LOVE (0.375) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Abracadabra (0.973) | BREATHE (0.251) |
 | 쏘리 쏘리 Sorry, Sorry (0.972) | Boy in time - HUI Solo (0.255) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | No More Dream (0.472) | Very, Slowly (0.0264) |
@@ -37,6 +50,10 @@
 | VENOM (0.339) | Hope Not (0.0274) |
 | Signal (0.334) | NANANA (0.0277) |
 | BBIBBI (0.331) | YOUNG LUV (0.0277) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | THE CHRISTMAS SONG (0.874) | HALAZIA (0.000677) |
 | Goodbye (0.861) | Drunk-Dazed (0.000707) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Next Level - Habstrakt Remix (0.201) | Miracle (0.0) |
@@ -63,6 +84,10 @@
 | Cherry Blossom (0.0171) | Nightfall (feat. Bryan Chase) (0.0) |
 | So Hot (0.00976) | Beatbox (0.0) |
 | GingaMingaYo (the strange world) (0.00955) | Why Can't You Love Me? (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Genie (0.714) | POP! (0.0321) |
 | NUNU NANA (0.708) | Up! (0.0326) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sour candy (0.98) | The Road (0.073) |
@@ -89,3 +118,20 @@
 | 쏘리 쏘리 Sorry, Sorry (0.962) | Time After Time (0.123) |
 | Lion Heart (0.961) | 내 맘을 볼 수 있나요 (0.131) |
 | Give it to me (0.961) | U (0.137) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Signal (207.819) | Dream (48.973) |
+| Freedom (203.833) | Bambi (61.45) |
+| Adore U (203.802) | Run Devil Run (64.927) |
+| Every night (203.639) | Clockwork (68.045) |
+| 11:11 (203.155) | Winter Sleep (68.045) |
+| O.O (200.263) | MISSING U (71.967) |
+| Awkward Silence (199.981) | Hello, Sunset (71.999) |
+| Strawberry Cake (199.943) | Wine (72.022) |
+| Merry Christmas (197.918) | Yours (72.035) |
+| Not For Sale (192.13) | Life's Too Short (English Version) (72.203) |

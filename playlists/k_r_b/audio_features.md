@@ -1,4 +1,9 @@
 # Audio Features for K-R&B
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | FACE (0.954) | U (0.301) |
@@ -11,6 +16,10 @@
 | Don’t (0.85) | HOLO (0.406) |
 | Bye (0.824) | All I Got (0.417) |
 | Bittersweet (feat. LeeHi) (0.824) | Your Existence (0.418) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Sour candy (0.843) | FACE (0.356) |
 | MRCH Mood (0.842) | Melted (0.361) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | I Don't Need You (0.422) | Slightly Tipsy (She is My Type♡ X SANDEUL) (0.0264) |
@@ -37,6 +50,10 @@
 | Whale (0.181) | Melted (0.0311) |
 | FXXK WIT US (0.163) | When it snows(Feat.Heize) (0.0316) |
 | Can't Stop This Party (0.137) | HOLD MY HAND (0.0317) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | BREATHE (0.803) | Rose (0.0446) |
 | Intentions (0.787) | Sour candy (0.0681) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | VingleVingle (Prod. R.Tee) (0.00676) | Miracle (0.0) |
@@ -63,6 +84,10 @@
 | Rain and You (7.31e-05) | NO ONE (0.0) |
 | When It Snows mmm (feat. Wheein) (2.88e-05) | NO WAY (0.0) |
 | NAKKA (with IU) (2.81e-05) | Make Up (Feat. Crush) (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | HOLD MY HAND (0.351) | Traffic light (0.0694) |
 | HAPPEN (0.341) | Bye (0.0714) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Sour candy (0.98) | U (0.137) |
@@ -89,3 +118,20 @@
 | Love Theory (0.888) | NUMB (0.188) |
 | How People Move (0.848) | HOLO (0.206) |
 | WAITING (0.839) | Get Ready To Leave (0.208) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/k_r_b/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Sweet (195.738) | Bambi (61.45) |
+| HOLO (179.914) | MISSING U (71.967) |
+| Sorry (173.61) | Shutdown (Feat.Seori) (74.029) |
+| D (Half Moon) (169.709) | Rose (74.703) |
+| Miracle (168.222) | FXXK WIT US (80.037) |
+| LULLABY (168.068) | Written In The Stars (80.882) |
+| Murder On The Dance Floor (167.88) | 봄인가 봐 Spring Love (82.861) |
+| NUMB (165.936) | For You (83.936) |
+| WAITING (158.179) | UN Village (83.985) |
+| Sour (154.344) | Amusement Park (84.925) |

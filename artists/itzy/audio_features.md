@@ -1,4 +1,9 @@
 # Audio Features for ITZY
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | #Twenty (0.956) | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.575) |
@@ -11,6 +16,10 @@
 | In the morning (0.846) | Sooo LUCKY (0.746) |
 | SURF (0.843) | Voltage (0.753) |
 | Blah Blah Blah (0.842) | LOCO (0.759) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | WANNABE - English Ver. (0.902) | KIDDING ME (0.77) |
 | ICY - English Ver. (0.901) | In the morning - English Ver. (0.786) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Free Fall (0.376) | KIDDING ME (0.0367) |
@@ -37,6 +50,10 @@
 | In the morning (0.149) | TENNIS (0:0) (0.0522) |
 | Not Shy (0.131) | SWIPE (0.0547) |
 | Freaky (0.118) | WANNABE - English Ver. (0.0587) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | TENNIS (0:0) (0.126) | CHERRY (0.0111) |
 | Snowy (0.115) | Weapon (With Newnion, FLOOR) (Prod.Czaer) (0.0162) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Louder (0.00146) | #Twenty (0.0) |
@@ -63,6 +84,10 @@
 | In the morning - English Ver. (2.21e-05) | Sorry Not Sorry (0.0) |
 | LOCO (2.04e-05) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (0.0) |
 | LOCO - English Ver. (1.63e-05) | SWIPE (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | DALLA DALLA - English Ver. (0.329) | Be In Love (0.0781) |
 | Snowy (0.29) | DOMINO (0.0831) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | SHOOT! (0.907) | Gas Me Up (0.33) |
@@ -89,3 +118,20 @@
 | SURF (0.787) | CHERRY (0.532) |
 | In the morning - English Ver. (0.757) | LOCO - English Ver. (0.534) |
 | Cheshire (0.738) | WHAT I WANT (0.541) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/itzy/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Gas Me Up (177.17) | CHERRY (94.991) |
+| Free Fall (177.092) | Freaky (95.022) |
+| RACER (171.975) | Be In Love (95.023) |
+| Weapon (With Newnion, FLOOR) (Prod.Czaer) (168.024) | SWIPE (96.009) |
+| Sorry Not Sorry (158.032) | Cheshire (98.966) |
+| TENNIS (0:0) (142.026) | Not Shy - English Ver. (100.988) |
+| DOMINO (141.905) | Not Shy (101.027) |
+| In the morning - English Ver. (140.108) | LOCO - English Ver. (101.957) |
+| In the morning (140.055) | LOCO (102.065) |
+| KIDDING ME (137.973) | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (104.958) |

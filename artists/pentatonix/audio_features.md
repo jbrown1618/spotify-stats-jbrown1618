@@ -1,4 +1,9 @@
 # Audio Features for Pentatonix
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Rather Be (Clean Bandit Cover) (0.803) | Run to You (0.24) |
@@ -11,6 +16,10 @@
 | Rockin' Around the Christmas Tree (0.719) | O Come, O Come Emmanuel (0.387) |
 | Daft Punk (0.717) | The Baddest Girl (0.394) |
 | Na Na Na (0.708) | If I Ever Fall In Love (feat. Jason Derulo) (0.403) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | I Need Your Love (0.634) | The Christmas Song (Chestnuts Roasting on an Open Fire) (0.355) |
 | Problem (Ariana Grande Cover) (0.632) | Dance of the Sugar Plum Fairy (0.371) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Hey Momma / Hit the Road Jack (0.433) | It's the Most Wonderful Time of the Year (0.0256) |
@@ -37,6 +50,10 @@
 | Radioactive (0.0695) | Standing By (0.0297) |
 | I Need Your Love (0.0688) | See Through (0.0298) |
 | The Baddest Girl (0.0647) | Imagine (0.0308) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | If I Ever Fall In Love (feat. Jason Derulo) (0.582) | See Through (0.0362) |
 | Radioactive (0.49) | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) (0.0373) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Dance of the Sugar Plum Fairy (0.079) | Natural Disaster (0.0) |
@@ -63,6 +84,10 @@
 | Aha! (4.3e-06) | Imagine (0.0) |
 | Rather Be (Clean Bandit Cover) (2.38e-06) | Run to You (0.0) |
 | I Need Your Love (1.85e-06) | Can't Sleep Love (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | If I Ever Fall In Love (feat. Jason Derulo) (0.314) | Mary, Did You Know? (0.0968) |
 | Radioactive (0.298) | Standing By (0.099) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Finesse (0.903) | Say Something (0.0812) |
@@ -89,3 +118,20 @@
 | Attention (0.731) | Over The Rainbow (0.24) |
 | Problem (Ariana Grande Cover) (0.722) | The Sound of Silence (0.26) |
 | Daft Punk (0.72) | I Need Your Love (0.301) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/artists/pentatonix/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Attention (204.19) | Rockin' Around the Christmas Tree (75.523) |
+| Hey Momma / Hit the Road Jack (203.068) | The Baddest Girl (77.861) |
+| Aha! (172.015) | The Christmas Song (Chestnuts Roasting on an Open Fire) (78.918) |
+| Carol of the Bells (171.857) | Over The Rainbow (83.736) |
+| Valentine (151.876) | Run to You (85.495) |
+| Say Something (150.318) | Natural Disaster (88.033) |
+| O Come, O Come Emmanuel (149.984) | Hallelujah (89.918) |
+| Dance of the Sugar Plum Fairy (149.876) | The Sound of Silence (90.99) |
+| Imagine (142.124) | Can't Sleep Love (feat. Tink) (94.524) |
+| If I Ever Fall In Love (feat. Jason Derulo) (141.719) | Can't Sleep Love (94.596) |

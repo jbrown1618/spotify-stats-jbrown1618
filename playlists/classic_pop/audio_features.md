@@ -1,4 +1,9 @@
 # Audio Features for Classic Pop
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Billie Jean (0.932) | Bridge Over Troubled Water (0.149) |
@@ -11,6 +16,10 @@
 | Man in the Mirror - 2012 Remaster (0.808) | Isn't She Lovely (0.481) |
 | Respect (0.805) | Cat's in the Cradle (0.489) |
 | I Will Survive - Single Version (0.777) | I'll Be There (0.51) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Stayin Alive (0.831) | My Girl (0.418) |
 | Isn't She Lovely (0.826) | Tiny Dancer (0.428) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Mambo No. 5 (a Little Bit of...) (0.408) | I'll Be There (0.0253) |
@@ -37,6 +50,10 @@
 | Can't Take My Eyes off You (0.0746) | Build Me Up Buttercup (0.0293) |
 | Superstition - Single Version (0.0725) | Your Song (0.0298) |
 | Thriller (0.0693) | The Sound of Silence - Acoustic Version (0.0301) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | The Boxer (0.702) | Stayin Alive (0.0328) |
 | I Feel the Earth Move (0.648) | Superstition - Single Version (0.038) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | A Fifth Of Beethoven (0.69) | The Lion Sleeps Tonight (Wimoweh) (0.0) |
@@ -63,6 +84,10 @@
 | Billie Jean (0.0436) | For Once In My Life (0.0) |
 | Nature Boy (0.0213) | The Sound of Silence - Acoustic Version (0.0) |
 | Unforgettable (0.0152) | Build Me Up Buttercup (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Mambo No. 5 (a Little Bit of...) (0.306) | Crocodile Rock (0.0591) |
 | Smooth Criminal - 2012 Remaster (0.306) | Freedom! '90 - Remastered (0.0595) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Material Girl (0.978) | Nature Boy (0.115) |
@@ -89,3 +118,20 @@
 | Stayin Alive (0.949) | The Sound of Silence - Acoustic Version (0.328) |
 | ABC (0.947) | I'll Be There (0.331) |
 | Don't Stop 'Til You Get Enough (0.947) | Rocket Man (I Think It's Going To Be A Long, Long Time) (0.341) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/classic_pop/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| I Want You Back (196.605) | Cat's in the Cradle (78.111) |
+| Mambo No. 5 (a Little Bit of...) (174.06) | Bridge Over Troubled Water (79.764) |
+| Nature Boy (173.451) | Freedom! '90 - Remastered (91.689) |
+| Careless Whisper (153.119) | Mrs. Robinson - From "The Graduate" Soundtrack (92.033) |
+| Crocodile Rock (149.91) | The Boxer (93.017) |
+| Tiny Dancer (145.075) | I'll Be There (93.212) |
+| Beat It (138.823) | ABC (94.769) |
+| Rocket Man (I Think It's Going To Be A Long, Long Time) (136.571) | Faith - Remastered (95.846) |
+| Material Girl (136.506) | Man in the Mirror - 2012 Remaster (100.331) |
+| Unforgettable (136.094) | Superstition - Single Version (100.499) |

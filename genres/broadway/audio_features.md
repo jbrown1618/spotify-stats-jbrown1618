@@ -1,4 +1,9 @@
 # Audio Features for broadway
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Ten Duel Commandments (0.887) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (0.169) |
@@ -11,6 +16,10 @@
 | Cabinet Battle #2 (0.753) | Entr'Acte (0.231) |
 | The Reynolds Pamphlet (0.751) | All I Ask of You (0.236) |
 | Schuyler Defeated (0.745) | The Music Of The Night (0.239) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Satisfied (0.593) | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (0.0813) |
 | The Phantom Of The Opera (0.582) | On My Own (0.0816) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Aaron Burr, Sir (0.818) | History Has Its Eyes on You (0.0291) |
@@ -37,6 +50,10 @@
 | A Winter's Ball (0.507) | All I Ask of You (0.0377) |
 | Your Obedient Servant (0.502) | Do You Hear The People Sing? (0.0379) |
 | Right Hand Man (0.492) | On My Own (0.0381) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | All I Ask Of You - Reprise (0.911) | My Shot (0.15) |
 | Dear Theodosia (0.907) | Washington on Your Side (0.165) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Entr'Acte (0.42) | Schuyler Defeated (0.0) |
@@ -63,6 +84,10 @@
 | Little Lotte / The Mirror (Angel Of Music) (0.0025) | Hurricane (0.0) |
 | All I Ask of You (0.00164) | We Know (0.0) |
 | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture (0.000737) | Washington on Your Side (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | The Point Of No Return (0.503) | Guns and Ships (0.0844) |
 | Cabinet Battle #1 (0.489) | All I Ask of You (0.085) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Schuyler Defeated (0.842) | Wishing You Were Somehow Here Again (0.0374) |
@@ -89,3 +118,20 @@
 | Blow Us All Away (0.665) | Why Have You Brought Me Here (0.0742) |
 | Meet Me Inside (0.644) | The Point Of No Return (0.0757) |
 | The Story of Tonight (0.625) | Overture (0.0781) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/broadway/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| My Shot (180.466) | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture (46.168) |
+| One Last Time (176.989) | A Little Fall Of Rain (63.337) |
+| Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture (175.838) | On My Own (71.842) |
+| The Room Where It Happens (173.552) | Who Lives, Who Dies, Who Tells Your Story (75.5) |
+| Hurricane (171.289) | Magical Lasso (76.381) |
+| Your Obedient Servant (165.908) | Do You Hear The People Sing? (76.744) |
+| Aaron Burr, Sir (160.387) | History Has Its Eyes on You (77.415) |
+| Stay Alive - Reprise (160.031) | Ten Duel Commandments (77.977) |
+| Stay Alive (159.65) | Why Have You Brought Me Here (78.337) |
+| Right Hand Man (158.576) | Helpless (79.009) |

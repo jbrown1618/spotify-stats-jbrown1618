@@ -1,4 +1,9 @@
 # Audio Features for Country/Folk
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | Bottom of the River (0.668) | Poison & Wine (0.285) |
@@ -11,6 +16,10 @@
 | If I Die Young (0.606) | When You Come Back Down (0.452) |
 | Cowboy Casanova (0.597) | The Lighthouse's Tale (0.463) |
 | I Walk the Line - Stereo Version (0.596) | Undo It (0.476) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Dance in the Graveyards (0.731) | Landslide (0.438) |
 | In The House Of Tom Bombadil (0.699) | Destination (0.444) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Home (0.128) | Travelin' Soldier (0.0265) |
@@ -37,6 +50,10 @@
 | Better Dig Two (0.0519) | You Lie (0.0289) |
 | Blown Away (0.0429) | Destination (0.0296) |
 | Blown Away (0.0429) | Not Ready to Make Nice (0.0298) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Hurt (0.649) | Blown Away (0.0909) |
 | Ring of Fire (0.623) | Blown Away (0.0909) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | In The House Of Tom Bombadil (0.9) | The Lighthouse's Tale (0.0) |
@@ -63,6 +84,10 @@
 | Hurt (0.000227) | Bottom of the River (0.0) |
 | Ring of Fire (0.000213) | Better Dig Two (0.0) |
 | The Cave (0.000138) | You Lie (0.0) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Travelin' Soldier (0.17) | Barton Hollow (0.0857) |
 | Morning Comes (0.165) | Bottom of the River (0.0869) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (0.889) | Timshel (0.0954) |
@@ -89,3 +118,20 @@
 | In The House Of Tom Bombadil (0.671) | The Lighthouse's Tale (0.301) |
 | Undo It (0.648) | The Cave (0.346) |
 | Better Dig Two (0.646) | If I Die Young (0.362) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/playlists/country_folk/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| Morning Comes (174.339) | Bottom of the River (74.672) |
+| You Lie (170.939) | Home (82.288) |
+| When You Come Back Down (168.047) | Timshel (82.965) |
+| Is There Anyone out There (160.988) | Not Ready to Make Nice (83.917) |
+| Run (160.315) | Hurt (90.379) |
+| Undo It (156.254) | Barton Hollow (90.913) |
+| Better Dig Two (155.844) | Dance in the Graveyards (102.003) |
+| Poison & Wine (153.85) | Ring of Fire (104.111) |
+| Before He Cheats (147.905) | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (110.586) |
+| Landslide (145.948) | I Walk the Line - Stereo Version (114.974) |

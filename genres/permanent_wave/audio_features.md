@@ -1,4 +1,9 @@
 # Audio Features for permanent wave
+
+## Danceability
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_danceability/distribution.png)
+
 | 10 most Danceable tracks | 10 least Danceable tracks |
 |:---|:---|
 | You Can Call Me Al (0.776) | Pyramid Song (0.127) |
@@ -11,6 +16,10 @@
 | The Adults Are Talking (0.593) | Feeling Good (0.345) |
 | Californication (0.592) | Let Down (0.351) |
 | Clocks (0.577) | The Boxer (0.351) |
+
+## Energy
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_energy/distribution.png)
 
 | 10 most Energetic tracks | 10 least Energetic tracks |
 |:---|:---|
@@ -25,6 +34,10 @@
 | Smells Like Teen Spirit (0.912) | Madness (0.417) |
 | Mr. Brightside (0.911) | Fix You (0.417) |
 
+## Speechiness
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_speechiness/distribution.png)
+
 | 10 most Speechy tracks | 10 least Speechy tracks |
 |:---|:---|
 | Knights of Cydonia (0.142) | The Scientist (0.0243) |
@@ -37,6 +50,10 @@
 | Smells Like Teen Spirit (0.0564) | Chasing Cars (0.0274) |
 | Take on Me (0.054) | No Surprises (0.0278) |
 | You Can Call Me Al (0.0534) | Clocks (0.0279) |
+
+## Acousticness
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_acousticness/distribution.png)
 
 | 10 most Acoustic tracks | 10 least Acoustic tracks |
 |:---|:---|
@@ -51,6 +68,10 @@
 | Fields Of Gold (0.372) | The Pretender (0.000917) |
 | Street Spirit (Fade Out) (0.317) | Mr. Brightside (0.00121) |
 
+## Instrumentalness
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_instrumentalness/distribution.png)
+
 | 10 most Instrumental tracks | 10 least Instrumental tracks |
 |:---|:---|
 | Animals (0.796) | Mr. Brightside (0.0) |
@@ -63,6 +84,10 @@
 | Pyramid Song (0.427) | Dani California (8.59e-06) |
 | Reckoner (0.16) | The Scientist (1.46e-05) |
 | Exit Music (For A Film) (0.122) | The Boxer (1.59e-05) |
+
+## Liveness
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_liveness/distribution.png)
 
 | 10 most Live tracks | 10 least Live tracks |
 |:---|:---|
@@ -77,6 +102,10 @@
 | Fake Plastic Trees (0.202) | Jigsaw Falling Into Place (0.0741) |
 | Best of You (0.188) | Speed of Sound (0.0746) |
 
+## Valence
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_valence/distribution.png)
+
 | 10 most Happy tracks | 10 least Happy tracks |
 |:---|:---|
 | 1979 - Remastered 2012 (0.964) | Everything In Its Right Place (0.0629) |
@@ -89,3 +118,20 @@
 | American Idiot (0.769) | Fake Plastic Trees (0.135) |
 | Dani California (0.73) | Let Down (0.143) |
 | Smells Like Teen Spirit (0.72) | Chasing Cars (0.144) |
+
+## Tempo
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/audio_features/audio_tempo/distribution.png)
+
+| 10 most Fast tracks | 10 least Fast tracks |
+|:---|:---|
+| American Idiot (186.113) | Fake Plastic Trees (73.543) |
+| The Boxer (181.849) | Shadowboxer (74.131) |
+| Madness (180.301) | Karma Police (74.807) |
+| Slow Cheetah (178.102) | No Surprises (76.426) |
+| Yellow (173.372) | Pyramid Song (77.078) |
+| The Pretender (172.984) | Take on Me (84.412) |
+| Animals (169.987) | Princess of China (85.014) |
+| Boulevard of Broken Dreams (167.06) | High and Dry (87.568) |
+| Jigsaw Falling Into Place (165.653) | All I Need (88.014) |
+| The Adults Are Talking (164.959) | Can't Stop (91.455) |
