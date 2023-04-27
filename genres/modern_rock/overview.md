@@ -1,6 +1,6 @@
 # modern rock
 
-[60 songs](tracks.md)
+[59 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,11 +21,10 @@
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
@@ -41,7 +40,7 @@
 </details>
 
 
-![Bar chart of top 22 artists](../../images/genres/modern_rock/artists.png)
+![Bar chart of top 21 artists](../../images/genres/modern_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/modern_rock/artists_comparison.png)
 ## Top Albums
@@ -61,7 +60,7 @@
 
 
 <details>
-<summary>See all 38 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -71,7 +70,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | 1 | 1 | Now, Not Yet | 2019-08-09 | [🔗](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | 1 | 1 | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | 1 | 1 | I Love You. | 2013-04-19 | [🔗](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="" width="50" /> | 1 | 1 | How To Be A Human Being | 2016-08-26 | [🔗](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) |
@@ -105,10 +103,10 @@
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
-| 8 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
 | 3 | 3 | Canvasback |
 | 3 | 3 | ATL |
+| 7 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 4 | 2 | Glassnote Entertainment Group LLC |
 | 2 | 2 | Kid Ina Korner |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -116,13 +114,12 @@
 
 
 <details>
-<summary>See all 24 labels</summary>
+<summary>See all 23 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 1 | 1 | half·alive |
 | 1 | 1 | Wolf Tone |
 | 1 | 1 | Roadrunner Records |
 | 1 | 1 | Mercury Records |
@@ -138,7 +135,7 @@
 </details>
 
 
-![Bar chart of top 24 record labels](../../images/genres/modern_rock/labels.png)
+![Bar chart of top 23 record labels](../../images/genres/modern_rock/labels.png)
 
 ## Years
 
@@ -149,10 +146,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Dance Fever (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Dreamland (+ Bonus Levels) (2020-08-06) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | There Is Nothing Left To Lose (1999-11-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="Now, Not Yet" width="50" /> | Now, Not Yet (2019-08-09) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Origin of Symmetry (2001) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | High As Hope (2018-06-29) | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Is This It (2001-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God's Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Room On Fire (2003-10-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> | Fitz and The Tantrums (Deluxe Edition) (2017-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Hot Fuss (2004) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (2004-09-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | How To Be A Human Being (2016-08-26) | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Demon Days (2005-05-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (2015-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | In Your Honor (2005-06-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | High As Hope (2018-06-29) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Origin of Symmetry (2001) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Is This It (2001-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> | Fitz and The Tantrums (Deluxe Edition) (2017-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Room On Fire (2003-10-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Hot Fuss (2004) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | How To Be A Human Being (2016-08-26) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (2004-09-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (2015-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Demon Days (2005-05-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Blurryface (2015-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | In Your Honor (2005-06-14) |

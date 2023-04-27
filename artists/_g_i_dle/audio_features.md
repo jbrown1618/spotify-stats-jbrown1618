@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.638) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="Uh-Oh" width="50" /> | Uh-Oh (0.781) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.65) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | LATATA (0.774) | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | MORE (0.66) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i'M THE TREND" width="50" /> | i'M THE TREND (0.772) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.663) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (0.772) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.663) |
 
 ## Energy
 
@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.186) | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.0159) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Change (0.156) | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="POP/STARS" width="50" /> | POP/STARS (0.0183) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | LOVE (0.153) | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="THE BADDEST" width="50" /> | THE BADDEST (0.0215) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i'M THE TREND" width="50" /> | i'M THE TREND (0.138) | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.025) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (0.138) | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.025) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | MOON (0.135) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | LION (0.0318) |
 
 ## Instrumentalness
@@ -81,7 +81,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | MOON (1.41e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HANN (Alone in winter) (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (7.84e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | LION (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (7.81e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i'M THE TREND" width="50" /> | i'M THE TREND (5.91e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (5.91e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (5.82e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (4.45e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="POP/STARS" width="50" /> | POP/STARS (0.0) |
 
@@ -92,7 +92,7 @@
 | ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (0.479) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.0372) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.337) | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i'M THE TREND" width="50" /> | i'M THE TREND (0.058) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.337) | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (0.058) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.332) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Luv U (0.0662) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.331) | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | $$$ (0.0664) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | MORE (0.323) | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.076) |
@@ -110,7 +110,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | $$$ (0.882) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | LION (0.187) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="Uh-Oh" width="50" /> | Uh-Oh (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | MORE (0.199) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i'M THE TREND" width="50" /> | i'M THE TREND (0.759) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (0.233) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (0.759) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (0.233) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (0.759) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.235) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="THE BADDEST" width="50" /> | THE BADDEST (0.717) | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="HANN (Alone)" width="50" /> | HANN (Alone) (0.24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.674) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.261) |
@@ -132,6 +132,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | $$$ (151.115) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (95.027) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="THE BADDEST" width="50" /> | THE BADDEST (149.981) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (95.889) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (149.939) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | MOON (95.963) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i'M THE TREND" width="50" /> | i'M THE TREND (145.102) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (98.015) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (145.102) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (98.015) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | MORE (142.018) | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | LATATA (98.1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (135.966) | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | MAZE (99.99) |

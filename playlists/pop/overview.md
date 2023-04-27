@@ -113,7 +113,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fd54eb6e30d0bc8f633621e" alt="" width="50" /> | 1 | 1 | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | 1 | 1 | The Womack Sisters | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec47253dbf18efd8b80c5d8" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
@@ -176,7 +176,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | 2 | 2 | Talk That Talk | 2011-11-19 | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | 2 | 2 | Sweetener | 2018-08-17 | [🔗](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-17 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 2 | 2 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | 2 | 2 | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
@@ -382,10 +382,11 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 11 | 9 | [r&b](../../genres/r_b/overview.md) |
-| 11 | 9 | [modern rock](../../genres/modern_rock/overview.md) |
+| 10 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
+| 11 | 7 | pov: indie |
 | 11 | 7 | canadian pop |
 | 10 | 7 | rap |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
@@ -408,7 +409,6 @@
 | 5 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 3 | pop rap |
 | 3 | 3 | nz pop |
-| 3 | 3 | modern alternative rock |
 | 3 | 3 | latin pop |
 | 3 | 3 | escape room |
 | 3 | 3 | alt z |
@@ -419,6 +419,7 @@
 | 3 | 2 | lgbtq+ hip hop |
 | 2 | 2 | trap queen |
 | 2 | 2 | queens hip hop |
+| 2 | 2 | modern alternative rock |
 | 2 | 2 | minnesota hip hop |
 | 2 | 2 | lounge |
 | 2 | 2 | jazz pop |
@@ -448,7 +449,6 @@
 | 1 | 1 | indie rock italiano |
 | 1 | 1 | indie psych-pop |
 | 1 | 1 | indie pop rap |
-| 1 | 1 | indie pop |
 | 1 | 1 | hyperpop |
 | 1 | 1 | ghanaian pop |
 | 1 | 1 | ghanaian alternative |
@@ -461,6 +461,7 @@
 | 1 | 1 | bedroom soul |
 | 1 | 1 | australian hip hop |
 | 1 | 1 | asian american hip hop |
+| 1 | 1 | afrobeats |
 | 1 | 1 | afro r&b |
 | 4 | 0 | house |
 | 3 | 0 | progressive house |
@@ -470,7 +471,6 @@
 | 1 | 0 | wonky |
 | 1 | 0 | urbano latino |
 | 1 | 0 | tropical house |
-| 1 | 0 | trap latino |
 
 </details>
 
@@ -526,5 +526,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> | Hot In It (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> | Britney (Digital Deluxe Version) (2001-10-31) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="About Damn Time" width="50" /> | About Damn Time (2022-04-14) | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Songs About Jane (2002-06-25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | A Rush of Blood to the Head (2002-08-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love's Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love&#x27;s Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> | 30 (2021-11-19) | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="In The Zone" width="50" /> | In The Zone (2003-11-13) |

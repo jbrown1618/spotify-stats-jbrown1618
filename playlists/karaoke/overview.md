@@ -226,7 +226,7 @@
 
 
 <details>
-<summary>See all 75 genres</summary>
+<summary>See all 76 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -245,6 +245,7 @@
 | 4 | 3 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 3 | lounge |
 | 3 | 3 | soul |
+| 3 | 3 | pov: indie |
 | 3 | 3 | motown |
 | 3 | 3 | canadian pop |
 | 3 | 3 | australian pop |

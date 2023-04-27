@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[100 songs (49 liked)](tracks.md)
+[100 songs (50 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -34,6 +34,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddbaac1488caad62dd4e0a45" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 1 | mothy | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e1cbf495a427b26195e130" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce98956e2ea2db4cc017c86d" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
@@ -69,7 +70,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373fbad4f0963b52586054816" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb977f248283f291ce1789a7bb" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e1cbf495a427b26195e130" alt="" width="50" /> | 1 | 0 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | 1 | 0 | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f34daf0448f63f37f9dc35d" alt="" width="50" /> | 1 | 0 | King Gnu | [🔗](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebccc91d01fb43c5c95454682a" alt="" width="50" /> | 1 | 0 | Eden Hason | [🔗](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) |
@@ -181,6 +181,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27393aa3d384efb79e00fe57555" alt="" width="50" /> | 1 | 1 | Cara Italia | 2018-05-02 | [🔗](https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | Bunny | 2020-11-25 | [🔗](https://open.spotify.com/album/7KJoNDndoJuxoFVl57NaVk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | 1 | 1 | Brol | 2018-10-05 | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | 1 | 1 | Bando | 2020-01-31 | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="" width="50" /> | 1 | 1 | & Co. | 2019-06-12 | [🔗](https://open.spotify.com/album/4pS7NXSZNbvREVxKkOge3I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 1 | 0 | 青春修炼手册 | 2017-01-01 | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="" width="50" /> | 1 | 0 | 翼はいらない<Type A>(通常盤) | 2016-06-01 | [🔗](https://open.spotify.com/album/5fTeBDOk2HaA6MwHSspPIx) |
@@ -223,7 +224,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | 1 | 0 | Doobey (From "Gehraiyaan") | 2022-01-24 | [🔗](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 1 | 0 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | 1 | 0 | Bando | 2020-01-31 | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 1 | 0 | BOOTLEG | 2017-11-01 | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | 1 | 0 | A BEST | 2001-03-28 | [🔗](https://open.spotify.com/album/2B7L6R25vI22f1sIgV9k2F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="" width="50" /> | 1 | 0 | 11:11 | 2019-05-17 | [🔗](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) |
@@ -265,6 +265,7 @@
 | 1 | 1 | WMI Italy |
 | 1 | 1 | Virginia Records |
 | 1 | 1 | Universal Music Spain S.L. |
+| 1 | 1 | Universal Music Italia srL. |
 | 1 | 1 | Universal Music Distributed Labels |
 | 1 | 1 | UMLE - Latino |
 | 1 | 1 | Speedstar |
@@ -291,7 +292,6 @@
 | 1 | 0 | WM Norway |
 | 1 | 0 | Valley Records |
 | 1 | 0 | Universal Music Latino |
-| 1 | 0 | Universal Music Italia srL. |
 | 1 | 0 | Trinity Optima Production |
 | 1 | 0 | Team Ear Music |
 | 1 | 0 | Sony Music Entertainment Indonesia |
@@ -349,6 +349,8 @@
 | 4 | 2 | israeli pop |
 | 3 | 2 | bitpop |
 | 2 | 2 | shibuya-kei |
+| 2 | 2 | italian pop |
+| 2 | 2 | italian hip hop |
 | 2 | 2 | french pop |
 | 2 | 2 | danish pop |
 | 2 | 2 | belgian pop |
@@ -360,8 +362,6 @@
 | 2 | 1 | rap tunisien |
 | 2 | 1 | puerto rican pop |
 | 2 | 1 | japanese emo |
-| 2 | 1 | italian pop |
-| 2 | 1 | italian hip hop |
 | 1 | 1 | vocaloid |
 | 1 | 1 | variete francaise |
 | 1 | 1 | spanish pop |
@@ -387,7 +387,7 @@
 | 1 | 1 | bulgarian pop |
 | 1 | 1 | bulgarian hip hop |
 | 1 | 1 | basshall |
-| 1 | 1 | afro dancehall |
+| 1 | 1 | afrobeats |
 | 7 | 0 | anime |
 | 3 | 0 | taiwan singer-songwriter |
 | 2 | 0 | taiwan pop |

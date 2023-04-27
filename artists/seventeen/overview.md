@@ -2,7 +2,7 @@
 # SEVENTEEN
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebeb77c85f6012113fcefb38da" alt="SEVENTEEN" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="SEVENTEEN" width="100" />
 
 [See Audio Features](audio_features.md)
 

@@ -57,5 +57,5 @@
 
 | ​ | 5 newest albums | ​​ | 5 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: The Symphonies (2009-09-07) | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> | Brahms: String Quartets & Piano Quintet (2007-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets & Piano Quintet" width="50" /> | Brahms: String Quartets & Piano Quintet (2007-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: The Symphonies (2009-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: The Symphonies (2009-09-07) | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Brahms: String Quartets & Piano Quintet (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Brahms: String Quartets & Piano Quintet (2007-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: The Symphonies (2009-09-07) |

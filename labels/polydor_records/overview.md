@@ -111,7 +111,7 @@ Appears as:
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -128,6 +128,7 @@ Appears as:
 | 1 | 0 | uk dance |
 | 1 | 0 | tropical house |
 | 1 | 0 | shiver pop |
+| 1 | 0 | pov: indie |
 | 1 | 0 | [pop rock](../../genres/pop_rock/overview.md) |
 | 1 | 0 | pop dance |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |

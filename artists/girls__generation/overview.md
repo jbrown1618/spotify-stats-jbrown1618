@@ -2,7 +2,7 @@
 # Girls' Generation
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls' Generation" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="Girls&#x27; Generation" width="100" />
 
 [See Audio Features](audio_features.md)
 

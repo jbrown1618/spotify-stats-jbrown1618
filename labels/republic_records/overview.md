@@ -145,13 +145,14 @@ Appears as:
 
 
 <details>
-<summary>See all 17 genres</summary>
+<summary>See all 18 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian contemporary r&b |
 | 2 | 0 | rap |
+| 1 | 0 | pov: indie |
 | 1 | 0 | melodic rap |
 | 1 | 0 | dfw rap |
 | 1 | 0 | brooklyn drill |
@@ -160,7 +161,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 17 genres](../../images/labels/republic_records/genres.png)
+![Bar chart of top 18 genres](../../images/labels/republic_records/genres.png)
 
 ## Tracks released under Republic Records
 

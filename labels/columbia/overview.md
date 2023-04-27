@@ -89,7 +89,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | 4 | 2 | I AM...SASHA FIERCE | 2008-11-14 | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | 3 | 2 | Fine Line | 2019-12-13 | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-17 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | 2 | 2 | Home | 2002-08-27 | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
@@ -176,7 +176,7 @@ Appears as:
 
 
 <details>
-<summary>See all 66 genres</summary>
+<summary>See all 67 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -185,6 +185,7 @@ Appears as:
 | 5 | 5 | melancholia |
 | 6 | 3 | pop soul |
 | 6 | 3 | hard rock |
+| 3 | 3 | pov: indie |
 | 3 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
 | 3 | 3 | country dawn |
 | 3 | 3 | country |
@@ -210,7 +211,7 @@ Appears as:
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
 | 1 | 1 | australian rock |
-| 1 | 1 | afro dancehall |
+| 1 | 1 | afrobeats |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
 | 3 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -298,7 +299,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | That Wasn't Me | Bear Creek | Brandi Carlile | [Columbia](.) | | [🔗](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | JA ARA E | The Lion King: The Gift | Burna Boy | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | This Is What You Came For | Calvin Harris, [Rihanna](../../artists/rihanna/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Random Access Memories | Daft Punk, Pharrell Williams, Nile Rodgers | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | Daft Punk, Pharrell Williams, Nile Rodgers | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | Daft Punk, Julian Casablancas | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](.) | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |

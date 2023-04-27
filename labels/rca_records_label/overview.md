@@ -38,7 +38,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78b9bf3dfa09b90ec0aac135" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf271138f95fbe8188d909d50" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
@@ -143,18 +143,18 @@ Appears as:
 | 15 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | australian pop |
 | 8 | 8 | australian dance |
-| 8 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
 | 7 | 2 | [rock](../../genres/rock/overview.md) |
+| 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 
 
 <details>
-<summary>See all 39 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 7 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | alternative rock |
 | 3 | 2 | rap |
 | 3 | 2 | garage rock |
@@ -162,13 +162,12 @@ Appears as:
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | south carolina hip hop |
+| 1 | 1 | pov: indie |
 | 1 | 1 | pop rap |
 | 1 | 1 | oakland hip hop |
-| 1 | 1 | modern alternative rock |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |
 | 1 | 1 | indie pop rap |
-| 1 | 1 | indie pop |
 | 1 | 1 | contemporary r&b |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alt z |
