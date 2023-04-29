@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="Workout" width="100" />
 
-[195 songs (190 liked)](tracks.md)
+[196 songs (191 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -56,6 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 2 | 2 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe33284545d27028ec2f3dacf" alt="" width="50" /> | 1 | 1 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 1 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e1cbf495a427b26195e130" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
@@ -117,7 +118,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 1 | 1 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | 1 | 1 | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 2 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 
 </details>
 
@@ -260,7 +260,7 @@
 
 
 <details>
-<summary>See all 64 labels</summary>
+<summary>See all 65 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -289,6 +289,7 @@
 | 1 | 1 | YUEHUA ENTERTAINMENT KOREA |
 | 1 | 1 | WM Japan |
 | 1 | 1 | Virginia Records |
+| 1 | 1 | Universal Music Italia srL. |
 | 1 | 1 | TOY'S FACTORY |
 | 1 | 1 | Spinnin' Records |
 | 1 | 1 | Samlist |
@@ -341,7 +342,7 @@
 
 
 <details>
-<summary>See all 63 genres</summary>
+<summary>See all 65 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -379,6 +380,8 @@
 | 1 | 1 | latin pop |
 | 1 | 1 | la indie |
 | 1 | 1 | k-rap |
+| 1 | 1 | italian pop |
+| 1 | 1 | italian hip hop |
 | 1 | 1 | israeli pop |
 | 1 | 1 | indietronica |
 | 1 | 1 | indie rock |
@@ -415,7 +418,7 @@
 | 2023 | 9 |
 | [2022](2022.md) | 28 |
 | [2021](2021.md) | 32 |
-| [2020](2020.md) | 30 |
+| [2020](2020.md) | 31 |
 | 2019 | 15 |
 | 2018 | 9 |
 | 2017 | 11 |
