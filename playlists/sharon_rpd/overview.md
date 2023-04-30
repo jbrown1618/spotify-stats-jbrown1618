@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[47 songs (40 liked)](tracks.md)
+[48 songs (41 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>See all 38 artists</summary>
+<summary>See all 40 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -36,8 +36,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | 1 | 1 | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 1 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 1 | 1 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcb4be1652aaf558da2984098" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 1 | 1 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 1 | 1 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74f9c3e4ad2e130f8f338858" alt="" width="50" /> | 1 | 1 | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
@@ -81,7 +83,7 @@
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 45 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -101,6 +103,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | 1 | 1 | HARMONY : ZERO IN | 2022-07-20 | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | 1 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 1 | 1 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="" width="50" /> | 1 | 1 | FATHER OF 4 | 2019-02-22 | [🔗](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | 1 | 1 | Ditto | 2022-12-19 | [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | 1 | 1 | DUMB DUMB | 2021-08-02 | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
@@ -142,15 +145,17 @@
 
 
 <details>
-<summary>See all 24 labels</summary>
+<summary>See all 26 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 2 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 1 | 1 | THE BLACK LABEL |
 | 1 | 1 | TEAM WANG records |
+| 1 | 1 | Quality Control Music |
 | 1 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 1 | 1 | PLAY M ENTERTAINMENT CORP. |
+| 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
 | 1 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
@@ -164,7 +169,7 @@
 </details>
 
 
-![Bar chart of top 24 record labels](../../images/playlists/sharon_rpd/labels.png)
+![Bar chart of top 26 record labels](../../images/playlists/sharon_rpd/labels.png)
 
 ## Genres
 
@@ -175,13 +180,25 @@
 | 14 | 12 | [pop](../../genres/pop/overview.md) |
 | 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | anime |
+| 2 | 1 | [rap](../../genres/rap/overview.md) |
+| 1 | 1 | trap |
 | 1 | 1 | scandipop |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
-| 1 | 0 | rap |
+| 1 | 1 | atl hip hop |
+
+
+<details>
+<summary>See all 12 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
-![Bar chart of top 10 genres](../../images/playlists/sharon_rpd/genres.png)
+</details>
+
+
+![Bar chart of top 12 genres](../../images/playlists/sharon_rpd/genres.png)
 
 ## Years
 
@@ -198,6 +215,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | ANTIFRAGILE (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> | NCT 2018 EMPATHY (2018-03-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | 28 Reasons - The 1st Mini Album (2022-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | Love Yourself 結 'Answer' (2018-08-24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | BORN PINK (2022-09-16) | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | Magical (2018-09-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> | MAGIC MAN (2022-09-09) | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | MAP OF THE SOUL : PERSONA (2019-04-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP &#x27;New Jeans&#x27;" width="50" /> | NewJeans 1st EP 'New Jeans' (2022-08-01) | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> | ‘The ReVe Festival’ Finale (2019-12-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | HARMONY : ZERO IN (2022-07-20) | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> | MAGIC MAN (2022-09-09) | <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="FATHER OF 4" width="50" /> | FATHER OF 4 (2019-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP &#x27;New Jeans&#x27;" width="50" /> | NewJeans 1st EP 'New Jeans' (2022-08-01) | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="MAP OF THE SOUL : PERSONA" width="50" /> | MAP OF THE SOUL : PERSONA (2019-04-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | HARMONY : ZERO IN (2022-07-20) | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> | ‘The ReVe Festival’ Finale (2019-12-23) |

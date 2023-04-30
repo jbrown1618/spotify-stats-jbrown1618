@@ -134,7 +134,7 @@ Appears as:
 | 46 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 41 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 10 | 2 | vocal jazz |
-| 4 | 2 | rap |
+| 4 | 2 | [rap](../../genres/rap/overview.md) |
 | 2 | 2 | washington indie |
 | 2 | 2 | trap queen |
 | 2 | 2 | seattle indie |

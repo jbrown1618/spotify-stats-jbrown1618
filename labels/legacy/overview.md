@@ -113,7 +113,7 @@ Appears as:
 | 1 | 0 | traditional country |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
-| 1 | 0 | rap |
+| 1 | 0 | [rap](../../genres/rap/overview.md) |
 | 1 | 0 | pop rap |
 | 1 | 0 | outlaw country |
 | 1 | 0 | hip hop |

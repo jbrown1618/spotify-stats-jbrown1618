@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="K-R&amp;B" width="100" />
 
-[105 songs (86 liked)](tracks.md)
+[106 songs (87 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -24,13 +24,14 @@
 
 
 <details>
-<summary>See all 58 artists</summary>
+<summary>See all 59 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 3 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcc48cc2ee03cde91920d0c0" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 3 | 2 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ef6675e036acc2bb446d5ce" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | 3 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 3 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
@@ -41,9 +42,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9ce6b84393575f91c4f4634" alt="" width="50" /> | 2 | 2 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859ec6575be3cfe1a86b2cb0" alt="" width="50" /> | 2 | 2 | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 3 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 2 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | 2 | 1 | YUKIKA | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64c106fb76ead20ba05a5461" alt="" width="50" /> | 2 | 1 | Sandeul | [🔗](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbb7a9cbcad2eabbfbcb9522" alt="" width="50" /> | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eca1794da1a9b27d723e2ef" alt="" width="50" /> | 1 | 1 | SHAUN | [🔗](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe82185df85c3b8d172f1f4a7" alt="" width="50" /> | 1 | 1 | Junggigo | [🔗](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | 1 | 1 | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
@@ -101,7 +102,7 @@
 
 
 <details>
-<summary>See all 85 albums</summary>
+<summary>See all 86 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -145,6 +146,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273feb430a900d634d1cbc987ad" alt="" width="50" /> | 1 | 1 | Invitation | 2012-10-16 | [🔗](https://open.spotify.com/album/61scVtZ044GUBV4rIvOcPQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c43c64f95f57743ac12f1f4f" alt="" width="50" /> | 1 | 1 | I'M LOVIN' AMY | 2022-03-07 | [🔗](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f007ee1c134806d3ec34c83e" alt="" width="50" /> | 1 | 1 | I Don't Need You | 2020-06-07 | [🔗](https://open.spotify.com/album/6W4mS8VsOi2WAkkMuh9SJ9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | 1 | 1 | HOLO | 2020-07-23 | [🔗](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="" width="50" /> | 1 | 1 | HEAL | 2022-10-07 | [🔗](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="" width="50" /> | 1 | 1 | HAPPEN | 2021-05-20 | [🔗](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) |
@@ -198,8 +200,8 @@
 | 2 | 2 | avex trax |
 | 2 | 2 | Transparent Arts |
 | 2 | 2 | ShowPLAY ENTERTAINMENT |
+| 2 | 2 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 2 | 2 | Million Market |
-| 2 | 2 | MRCH MUSIC |
 
 
 <details>
@@ -207,6 +209,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 2 | MRCH MUSIC |
 | 2 | 2 | MAGIC STRAWBERRY SOUND |
 | 2 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 2 | 1 | CJ E&M MUSIC |
@@ -218,7 +221,6 @@
 | 1 | 1 | TOON STUDIO |
 | 1 | 1 | Studio MaumC |
 | 1 | 1 | Starship Ent. |
-| 1 | 1 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 1 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 1 | 1 | MORE VISION |
 | 1 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
@@ -249,7 +251,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 77 | 65 | [k-pop](../../genres/k_pop/overview.md) |
+| 78 | 66 | [k-pop](../../genres/k_pop/overview.md) |
 | 25 | 20 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 17 | 12 | korean pop |
 | 7 | 4 | k-rap |
@@ -258,8 +260,9 @@
 | 3 | 2 | korean city pop |
 | 2 | 2 | korean ost |
 | 1 | 1 | korean trap |
+| 1 | 1 | korean talent show |
 
-![Bar chart of top 9 genres](../../images/playlists/k_r_b/genres.png)
+![Bar chart of top 10 genres](../../images/playlists/k_r_b/genres.png)
 
 ## Years
 
@@ -273,7 +276,7 @@
 | 2022 | 19 |
 | [2021](2021.md) | 26 |
 | 2020 | 9 |
-| 2019 | 12 |
+| 2019 | 13 |
 | 2018 | 9 |
 | 2017 | 6 |
 | 2016 | 15 |

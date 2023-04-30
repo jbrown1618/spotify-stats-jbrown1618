@@ -156,7 +156,7 @@ Appears as:
 |---:|---:|:---|
 | 7 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | alternative rock |
-| 3 | 2 | rap |
+| 3 | 2 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | garage rock |
 | 2 | 1 | talent show |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |

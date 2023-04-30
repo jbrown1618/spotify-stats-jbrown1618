@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[208 songs (176 liked)](tracks.md)
+[209 songs (177 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -43,6 +43,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 3 | 3 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 4 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 3 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 2 | 2 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | 2 | 2 | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 2 | 2 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 2 | 2 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -65,10 +66,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 1 | 1 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Jang Yi-jeong | [🔗](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 1 | 1 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 1 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 1 | 1 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 1 | 1 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cff8c53f033893425f27b8f" alt="" width="50" /> | 1 | 1 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbb7a9cbcad2eabbfbcb9522" alt="" width="50" /> | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eca1794da1a9b27d723e2ef" alt="" width="50" /> | 1 | 1 | SHAUN | [🔗](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 1 | 1 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
@@ -94,7 +95,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 1 | 1 | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 1 | 1 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb940109b97441fc659aa070b4" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1c7f0695e260619b85d687db" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7158089a0a003f7ce04ddca1" alt="" width="50" /> | 1 | 1 | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 1 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
@@ -117,7 +118,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb178f1c6aa9751667cef51db3" alt="" width="50" /> | 1 | 1 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 
 </details>
 
@@ -274,6 +274,7 @@
 | 3 | 3 | [Darkroom](../../labels/darkroom/overview.md) |
 | 3 | 3 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 4 | 2 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
+| 3 | 2 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 3 | 2 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 3 | 2 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 3 | 2 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
@@ -287,7 +288,6 @@
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
-| 2 | 1 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 2 | 1 | FNC인베스트먼트 |
 | 2 | 1 | CJ E&M MUSIC |
 | 1 | 1 | 스튜디오앤뉴 |
@@ -349,7 +349,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 131 | 106 | [k-pop](../../genres/k_pop/overview.md) |
+| 132 | 107 | [k-pop](../../genres/k_pop/overview.md) |
 | 45 | 39 | [pop](../../genres/pop/overview.md) |
 | 37 | 29 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 27 | 23 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -362,7 +362,7 @@
 
 
 <details>
-<summary>See all 59 genres</summary>
+<summary>See all 60 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -387,7 +387,7 @@
 | 1 | 1 | thai indie pop |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
-| 1 | 1 | rap |
+| 1 | 1 | [rap](../../genres/rap/overview.md) |
 | 1 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | quiet storm |
 | 1 | 1 | pov: indie |
@@ -396,6 +396,7 @@
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 1 | lgbtq+ hip hop |
+| 1 | 1 | korean talent show |
 | 1 | 1 | japanese singer-songwriter |
 | 1 | 1 | j-pop |
 | 1 | 1 | j-division |
@@ -433,7 +434,7 @@
 | [2022](2022.md) | 48 |
 | [2021](2021.md) | 35 |
 | [2020](2020.md) | 29 |
-| [2019](2019.md) | 20 |
+| [2019](2019.md) | 21 |
 | 2018 | 13 |
 | [2017](2017.md) | 20 |
 | 2016 | 12 |

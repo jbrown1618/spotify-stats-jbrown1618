@@ -78,7 +78,7 @@ Appears as:
 | 13 | 11 | urban contemporary |
 | 13 | 11 | barbadian pop |
 | 1 | 1 | canadian pop |
-| 4 | 0 | rap |
+| 4 | 0 | [rap](../../genres/rap/overview.md) |
 | 4 | 0 | pop rap |
 | 4 | 0 | hip hop |
 | 3 | 0 | dmv rap |

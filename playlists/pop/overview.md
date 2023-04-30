@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[377 songs (273 liked)](tracks.md)
+[378 songs (274 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -61,6 +61,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 3 | 2 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 3 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 2 | 2 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | 2 | 2 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 2 | 2 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 2 | 2 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -104,7 +105,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -323,6 +323,7 @@
 | 1 | 1 | Red Zone Entertainment |
 | 1 | 1 | RVG |
 | 1 | 1 | RBMG |
+| 1 | 1 | Pussycat Dolls |
 | 1 | 1 | PC Music |
 | 1 | 1 | OWSLA |
 | 1 | 1 | Nu America Music |
@@ -353,7 +354,6 @@
 | 1 | 1 | ATL |
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 0 | JVKE |
-| 1 | 0 | Warner Bros. |
 
 </details>
 
@@ -364,8 +364,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 304 | 219 | [pop](../../genres/pop/overview.md) |
-| 91 | 65 | [dance pop](../../genres/dance_pop/overview.md) |
+| 305 | 220 | [pop](../../genres/pop/overview.md) |
+| 92 | 66 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 18 | uk pop |
 | 22 | 17 | urban contemporary |
@@ -388,7 +388,7 @@
 | 8 | 8 | australian dance |
 | 11 | 7 | pov: indie |
 | 11 | 7 | canadian pop |
-| 10 | 7 | rap |
+| 10 | 7 | [rap](../../genres/rap/overview.md) |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 9 | 7 | [viral pop](../../genres/viral_pop/overview.md) |
 | 9 | 7 | metropopolis |
@@ -396,11 +396,11 @@
 | 11 | 6 | british soul |
 | 8 | 6 | boy band |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
+| 7 | 6 | girl group |
 | 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 10 | 5 | pop soul |
 | 8 | 5 | uk dance |
 | 6 | 5 | talent show |
-| 6 | 5 | girl group |
 | 5 | 5 | uk funky |
 | 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 5 | 5 | afrofuturism |
@@ -503,7 +503,7 @@
 | [2008](2008.md) | 22 |
 | 2007 | 10 |
 | 2006 | 7 |
-| 2005 | 4 |
+| 2005 | 5 |
 | 2004 | 4 |
 | 2003 | 2 |
 | 2002 | 6 |

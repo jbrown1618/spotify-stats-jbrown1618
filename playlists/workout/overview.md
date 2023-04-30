@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="Workout" width="100" />
 
-[196 songs (191 liked)](tracks.md)
+[195 songs (191 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -260,7 +260,7 @@
 
 
 <details>
-<summary>See all 65 labels</summary>
+<summary>See all 64 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -316,7 +316,6 @@
 | 1 | 1 | ATL |
 | 1 | 1 | ADOR |
 | 1 | 0 | avex trax |
-| 1 | 0 | Pussycat Dolls |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | J Records |
 
@@ -331,9 +330,9 @@
 |---:|---:|:---|
 | 134 | 133 | [k-pop](../../genres/k_pop/overview.md) |
 | 74 | 74 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 64 | 62 | [pop](../../genres/pop/overview.md) |
+| 63 | 62 | [pop](../../genres/pop/overview.md) |
 | 43 | 42 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 13 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
+| 12 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 7 | anime |
 | 6 | 6 | [modern rock](../../genres/modern_rock/overview.md) |
 | 6 | 5 | kawaii metal |
@@ -342,14 +341,14 @@
 
 
 <details>
-<summary>See all 65 genres</summary>
+<summary>See all 64 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 5 | 5 | urban contemporary |
 | 4 | 4 | [rock](../../genres/rock/overview.md) |
 | 4 | 4 | barbadian pop |
-| 4 | 3 | rap |
+| 4 | 3 | [rap](../../genres/rap/overview.md) |
 | 3 | 3 | japanese electropop |
 | 3 | 2 | j-pop |
 | 2 | 2 | uk pop |
@@ -397,7 +396,6 @@
 | 1 | 1 | anime rock |
 | 1 | 0 | hip hop |
 | 1 | 0 | hardcore hip hop |
-| 1 | 0 | girl group |
 | 1 | 0 | eurobeat |
 | 1 | 0 | east coast hip hop |
 | 1 | 0 | classic j-pop |
@@ -432,7 +430,6 @@
 | 2009 | 2 |
 | 2008 | 4 |
 | 2006 | 2 |
-| 2005 | 1 |
 | 2001 | 2 |
 | 1992 | 1 |
 | 1985 | 1 |
@@ -448,9 +445,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> | expérgo (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Mack Daddy (1992-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> | Stamp On It - The 1st Mini Album (2023-01-16) | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Genesis (2001-11-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | REASON (2023-01-09) | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> | PCD (2005-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | SKZ-REPLAY (2022-12-21) | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Black Holes and Revelations (2006-06-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | FutureSex/LoveSounds (2006-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ (2022-11-28) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | GAME (2008) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | ANTIFRAGILE (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="THE SECOND STEP : CHAPTER TWO" width="50" /> | THE SECOND STEP : CHAPTER TWO (2022-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="Evolver" width="50" /> | Evolver (2008-10-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | REASON (2023-01-09) | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Black Holes and Revelations (2006-06-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | SKZ-REPLAY (2022-12-21) | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | FutureSex/LoveSounds (2006-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | GAME (2008) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ (2022-11-28) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | ANTIFRAGILE (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="Evolver" width="50" /> | Evolver (2008-10-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="THE SECOND STEP : CHAPTER TWO" width="50" /> | THE SECOND STEP : CHAPTER TWO (2022-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | The Fame Monster (Deluxe Edition) (2009-11-05) |

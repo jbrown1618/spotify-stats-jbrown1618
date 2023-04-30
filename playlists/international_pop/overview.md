@@ -93,7 +93,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e7b8ff766bcc9adb5a6273e" alt="" width="50" /> | 1 | 0 | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 1 | 0 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba89b57750203c624eed1e837" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c30b1ddde1d2198569705ef" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | 1 | 0 | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63b3f52a50b570554df21c55" alt="" width="50" /> | 1 | 0 | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e1c6b8723c29f2e1ef217c4" alt="" width="50" /> | 1 | 0 | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
@@ -187,7 +187,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="" width="50" /> | 1 | 0 | 翼はいらない<Type A>(通常盤) | 2016-06-01 | [🔗](https://open.spotify.com/album/5fTeBDOk2HaA6MwHSspPIx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 1 | 0 | 炎 | 2020-10-12 | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="" width="50" /> | 1 | 0 | 次の足跡 Type A <初回限定盤> | 2014-01-22 | [🔗](https://open.spotify.com/album/4Mz79lV4qxaywmthkarIf7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="" width="50" /> | 1 | 0 | 改變自己 | 2007-07-13 | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="" width="50" /> | 1 | 0 | 改變自己 | 2007-07-13 | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 1 | 0 | 恋人じゃなくなった日 | 2023-02-14 | [🔗](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="" width="50" /> | 1 | 0 | 怎樣 | 2001-01-18 | [🔗](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="" width="50" /> | 1 | 0 | 如果雨之後 | 2017-12-15 | [🔗](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) |
@@ -438,6 +438,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> | Lykke te (2022-05-27) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> | עושה לי צרות (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> | מי זאת (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273e74d5d14b01d404e1984ece7" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (2022-04-28) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | GAME (2008) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> | Te Felicito (2022-04-21) | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> | Evils Theater (2009-06-17) |

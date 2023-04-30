@@ -151,7 +151,7 @@ Appears as:
 |---:|---:|:---|
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian contemporary r&b |
-| 2 | 0 | rap |
+| 2 | 0 | [rap](../../genres/rap/overview.md) |
 | 1 | 0 | pov: indie |
 | 1 | 0 | melodic rap |
 | 1 | 0 | dfw rap |

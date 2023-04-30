@@ -260,7 +260,7 @@
 | 3 | 1 | folk |
 | 2 | 1 | uk pop |
 | 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
-| 2 | 1 | rap |
+| 2 | 1 | [rap](../../genres/rap/overview.md) |
 | 2 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
