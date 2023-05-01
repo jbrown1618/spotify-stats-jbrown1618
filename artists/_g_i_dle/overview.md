@@ -2,7 +2,7 @@
 # (G)I-DLE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb196f5af772aeb1bdd3a6be65" alt="(G)I-DLE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="(G)I-DLE" width="100" />
 
 [See Audio Features](audio_features.md)
 

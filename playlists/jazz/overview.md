@@ -139,7 +139,7 @@
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -148,7 +148,6 @@
 | 3 | 0 | jazz |
 | 3 | 0 | bebop |
 | 2 | 0 | quiet storm |
-| 2 | 0 | motown |
 | 2 | 0 | disco |
 | 1 | 0 | swing |
 | 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
@@ -163,7 +162,7 @@
 </details>
 
 
-![Bar chart of top 26 genres](../../images/playlists/jazz/genres.png)
+![Bar chart of top 25 genres](../../images/playlists/jazz/genres.png)
 
 ## Years
 

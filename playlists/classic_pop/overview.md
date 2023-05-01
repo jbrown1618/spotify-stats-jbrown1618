@@ -165,7 +165,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 24 | 13 | soul |
-| 16 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 15 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 15 | 8 | [rock](../../genres/rock/overview.md) |
 | 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 13 | 7 | motown |
