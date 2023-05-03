@@ -214,10 +214,10 @@ Appears as:
 | 1 | 1 | afrobeats |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
+| 3 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | bebop |
 | 2 | 0 | lounge |
 | 2 | 0 | easy listening |
-| 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | yodeling |
 | 1 | 0 | western swing |

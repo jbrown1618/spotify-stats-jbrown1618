@@ -365,7 +365,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 305 | 220 | [pop](../../genres/pop/overview.md) |
-| 92 | 66 | [dance pop](../../genres/dance_pop/overview.md) |
+| 94 | 66 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 18 | uk pop |
 | 22 | 17 | urban contemporary |
