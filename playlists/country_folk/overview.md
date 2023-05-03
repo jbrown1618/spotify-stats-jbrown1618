@@ -69,8 +69,8 @@
 | 3 | 3 | Open Wide |
 | 5 | 2 | Sire |
 | 4 | 2 | Glassnote Entertainment Group LLC |
-| 4 | 2 | Arista Nashville |
-| 4 | 2 | 19 Recordings Limited |
+| 3 | 2 | Arista Nashville |
+| 3 | 2 | 19 Recordings Limited |
 | 2 | 2 | sensibility recordings |
 | 2 | 2 | Monument |
 | 5 | 1 | Sugar Hill Records |

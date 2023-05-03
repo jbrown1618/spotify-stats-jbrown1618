@@ -49,11 +49,10 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 5 | 0 | west end |
-| 2 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 2 | 0 | movie tunes |
 | 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 
-![Bar chart of top 4 genres](../../images/labels/verve__adult_contemporary__mc/genres.png)
+![Bar chart of top 3 genres](../../images/labels/verve__adult_contemporary__mc/genres.png)
 
 ## Tracks released under Verve (Adult Contemporary) MC
 

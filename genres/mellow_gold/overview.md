@@ -1,6 +1,6 @@
 # mellow gold
 
-[60 songs](tracks.md)
+[59 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>See all 19 artists</summary>
+<summary>See all 18 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -33,12 +33,11 @@
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
-| <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | 1 | 0 | Bee Gees | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
 
 </details>
 
 
-![Bar chart of top 19 artists](../../images/genres/mellow_gold/artists.png)
+![Bar chart of top 18 artists](../../images/genres/mellow_gold/artists.png)
 
 ![Comparison of Artist](../../images/genres/mellow_gold/artists_comparison.png)
 ## Top Albums
@@ -58,7 +57,7 @@
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 43 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -80,7 +79,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 1 | 1 | Chicago IX: Chicago's Greatest Hits | 1975-11-10 | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | 1 | 1 | Bookends | 1968-04-03 | [🔗](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | 1 | 1 | Blowin' Your Mind! | 1967-09 | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="" width="50" /> | 1 | 0 | The Ultimate Bee Gees | 2009-11-03 | [🔗](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | 1 | 0 | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | 1 | 0 | The Essential Van Morrison | 2015-12-04 | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | 1 | 0 | The Birds, The Bees, & The Monkees | 1968-04-22 | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
@@ -119,7 +117,7 @@
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 16 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -129,12 +127,11 @@
 | 2 | 0 | Ode |
 | 2 | 0 | Legacy Recordings |
 | 1 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
-| 1 | 0 | Bee Gees Catalog |
 
 </details>
 
 
-![Bar chart of top 17 record labels](../../images/genres/mellow_gold/labels.png)
+![Bar chart of top 16 record labels](../../images/genres/mellow_gold/labels.png)
 
 ## Years
 
@@ -143,12 +140,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | The Essential Van Morrison (2015-12-04) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | The Ultimate Bee Gees (2009-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="More of The Monkees (Deluxe Edition)" width="50" /> | More of The Monkees (Deluxe Edition) (1967-01-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="Blowin&#x27; Your Mind!" width="50" /> | Blowin' Your Mind! (1967-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | Bookends (1968-04-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="Luck Of The Draw" width="50" /> | Luck Of The Draw (1991-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | The Birds, The Bees, & The Monkees (1968-04-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | Bridge Over Troubled Water (1970-01-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="Moondance (Expanded Edition)" width="50" /> | Moondance (Expanded Edition) (1970-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> | Moondance (Deluxe Edition) (1970-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Elton John (1970-04-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | The Nylon Curtain (1982-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="More of The Monkees (Deluxe Edition)" width="50" /> | More of The Monkees (Deluxe Edition) (1967-01-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="Blowin&#x27; Your Mind!" width="50" /> | Blowin' Your Mind! (1967-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="Luck Of The Draw" width="50" /> | Luck Of The Draw (1991-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | Bookends (1968-04-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | The Birds, The Bees, & The Monkees (1968-04-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | Bridge Over Troubled Water (1970-01-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="Moondance (Expanded Edition)" width="50" /> | Moondance (Expanded Edition) (1970-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> | Moondance (Deluxe Edition) (1970-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | The Nylon Curtain (1982-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Elton John (1970-04-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="Escape (Bonus Track Version)" width="50" /> | Escape (Bonus Track Version) (1981) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |

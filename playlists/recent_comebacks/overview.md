@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Recent Comebacks" width="100" />
 
-[83 songs (71 liked)](tracks.md)
+[84 songs (72 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -18,13 +18,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 4 | 3 | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 4 | 3 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | 3 | 3 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 3 | 3 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 3 | 2 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 3 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 
 
 <details>
-<summary>See all 54 artists</summary>
+<summary>See all 56 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,6 +42,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f3e8862a8c0f79fb3322b2" alt="" width="50" /> | 1 | 1 | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 1 | 1 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 1 | 1 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | 1 | 1 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
@@ -63,9 +64,10 @@
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Overdose | [🔗](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb106f77e59715b43f713c68bc" alt="" width="50" /> | 1 | 1 | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 1 | 1 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | 1 | 1 | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | 1 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
@@ -97,7 +99,7 @@
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 45 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -108,6 +110,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | 2 | 1 | SEVENTEEN 10th Mini Album 'FML' | 2023-04-24 | [🔗](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | 2 | 1 | FACE | 2023-03-24 | [🔗](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273220771be23654c95cf787349" alt="" width="50" /> | 1 | 1 | Welcome To MY World (feat. nævis) | 2023-05-02 | [🔗](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | 1 | 1 | VingleVingle | 2023-04-05 | [🔗](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6019075623d95de7e64fa33" alt="" width="50" /> | 1 | 1 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) |
@@ -151,10 +154,10 @@
 | 5 | 4 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 4 | 4 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
+| 6 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 3 | 3 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 3 | 3 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
-| 5 | 2 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 
 
 <details>
@@ -191,12 +194,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 66 | 57 | [k-pop](../../genres/k_pop/overview.md) |
+| 67 | 58 | [k-pop](../../genres/k_pop/overview.md) |
 | 32 | 28 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 10 | 9 | [pop](../../genres/pop/overview.md) |
 | 10 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 3 | 1 | k-rap |
+| 4 | 2 | k-rap |
 | 1 | 1 | korean pop |
 
 ![Bar chart of top 7 genres](../../images/playlists/recent_comebacks/genres.png)
@@ -209,7 +212,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 64 |
+| [2023](2023.md) | 65 |
 | 2022 | 19 |
 
 </details>

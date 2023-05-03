@@ -114,7 +114,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 51 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
+| 49 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 76 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 10 | 2 | vocal jazz |
 | 6 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |

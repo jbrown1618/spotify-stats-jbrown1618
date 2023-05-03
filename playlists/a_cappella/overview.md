@@ -253,7 +253,7 @@
 | 12 | 0 | [One Voice Productions](../../labels/one_voice_productions/overview.md) |
 | 12 | 0 | [Ithacappella](../../labels/ithacappella/overview.md) |
 | 9 | 0 | Option C Records |
-| 9 | 0 | Mosaic Whispers |
+| 8 | 0 | Vanderbilt Melodores |
 
 
 <details>
@@ -261,10 +261,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 8 | 0 | Vanderbilt Melodores |
 | 8 | 0 | UNC Achordants |
-| 7 | 0 | Naked Voice Records |
+| 8 | 0 | Mosaic Whispers |
 | 6 | 0 | Tar Heel Voices |
+| 6 | 0 | Naked Voice Records |
 | 5 | 0 | The Loreleis |
 | 5 | 0 | Citizen Queen |
 | 4 | 0 | The Nor'easters |

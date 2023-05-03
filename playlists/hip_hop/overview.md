@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27331aafa752187cb0284307200ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[40 songs (21 liked)](tracks.md)
+[40 songs (22 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -14,10 +14,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 4 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 6 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 5 | 2 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 2 | 2 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 2 | 2 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 2 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 2 | 1 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eed54e1eb0fed222434d867" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
@@ -40,6 +40,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebabab30b094128cf4c0f2cef1" alt="" width="50" /> | 1 | 1 | Black Eyed Peas | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb858ab48103cfe3c042bc1515" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 4 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 3 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 2 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -61,7 +62,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75559132f961dcf3ba4f5c7a" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 0 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 
 </details>
 
@@ -75,6 +75,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | 1 | 1 | The Pinkprint (Deluxe) | 2014-12-15 | [🔗](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
@@ -83,7 +84,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | 1 | 1 | Pink Friday | 2010-01-01 | [🔗](https://open.spotify.com/album/5jem47f4IRH6UaxNAWO6vD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="" width="50" /> | 1 | 1 | PCD | 2005-01-01 | [🔗](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 
 
 <details>
@@ -91,6 +91,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="" width="50" /> | 1 | 1 | Mack Daddy | 1992-01-01 | [🔗](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | 1 | 1 | Last Train To Paris | 2010-01-01 | [🔗](https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
@@ -102,7 +103,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27399da48a530f6ca2ef86da3cc" alt="" width="50" /> | 1 | 1 | Cole World: The Sideline Story | 2011-09-27 | [🔗](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | 1 | 1 | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | 1 | 0 | souljaboytellem.com | 2007-01-01 | [🔗](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 0 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273699bfca9512ee8d1fbf126a7" alt="" width="50" /> | 1 | 0 | Watch The Throne (Deluxe) | 2011-08-08 | [🔗](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | 1 | 0 | To Pimp A Butterfly | 2015-03-16 | [🔗](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="" width="50" /> | 1 | 0 | The College Dropout | 2004-02-10 | [🔗](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) |
@@ -155,6 +155,7 @@
 | 1 | 1 | EMPIRE |
 | 1 | 1 | Bad Dreams Records |
 | 1 | 1 | Bad Boy |
+| 1 | 1 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 1 | Asylum |
 | 1 | 1 | American Recordings Catalog P&D |
 | 1 | 1 | A&M |
@@ -172,7 +173,6 @@
 | 1 | 0 | Def Jam |
 | 1 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 0 | Collipark |
-| 1 | 0 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 0 | 2Chainz PS |
 
 </details>
@@ -209,6 +209,8 @@
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |
 | 1 | 1 | north carolina hip hop |
+| 1 | 1 | k-rap |
+| 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | girl group |
 | 1 | 1 | crunk |
 | 1 | 1 | australian hip hop |
@@ -220,8 +222,6 @@
 | 1 | 0 | new orleans rap |
 | 1 | 0 | neo soul |
 | 1 | 0 | lgbtq+ hip hop |
-| 1 | 0 | k-rap |
-| 1 | 0 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 0 | hardcore hip hop |
 | 1 | 0 | chicago bop |
 | 1 | 0 | brooklyn drill |

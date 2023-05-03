@@ -1,6 +1,6 @@
 # show tunes
 
-[54 songs](tracks.md)
+[52 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,14 +21,13 @@
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 25 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 5 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07ccc2fd86f64d13368998de" alt="" width="50" /> | 3 | 0 | Jonathan Groff | [🔗](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 2 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 2 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | 1 | 0 | Students | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273170e79548d280867ef12742b" alt="" width="50" /> | 1 | 0 | Les Misérables Cast | [🔗](https://open.spotify.com/artist/71wy5iisVKXLZgoPxdFi8A) |
@@ -45,7 +44,7 @@
 </details>
 
 
-![Bar chart of top 26 artists](../../images/genres/show_tunes/artists.png)
+![Bar chart of top 25 artists](../../images/genres/show_tunes/artists.png)
 
 ![Comparison of Artist](../../images/genres/show_tunes/artists_comparison.png)
 ## Top Albums
@@ -54,12 +53,11 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 46 | 3 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | 3 | 0 | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 2 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
 
-![Bar chart of top 6 albums](../../images/genres/show_tunes/albums.png)
+![Bar chart of top 5 albums](../../images/genres/show_tunes/albums.png)
 
 ## Top Record Labels
 
@@ -68,10 +66,9 @@
 | 46 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
-| 2 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 
-![Bar chart of top 5 record labels](../../images/genres/show_tunes/labels.png)
+![Bar chart of top 4 record labels](../../images/genres/show_tunes/labels.png)
 
 ## Years
 
@@ -79,9 +76,8 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) |

@@ -25,7 +25,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfb6c0b7b6918dca92be0ed75" alt="" width="50" /> | 9 | 9 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 9 | 9 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 8 | 7 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 9 | 6 | IVE | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 7 | 6 | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -63,7 +63,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba818688ae72d12215ee92f0" alt="" width="50" /> | 1 | 1 | Seraphine | [🔗](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf266f2f358534cfbf370063e" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdaaf5f75751b6379c108993c" alt="" width="50" /> | 1 | 1 | Bea Miller | [🔗](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb194b53f4785ed4ddef0061ca" alt="" width="50" /> | 1 | 1 | ALICE | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
 | <img src="https://i.scdn.co/image/cd8af1e4b3bcab50bc4457ea1d4bd21bb51654dc" alt="" width="50" /> | 1 | 1 | T-ARA | [🔗](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) |

@@ -4,12 +4,12 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 51 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 66 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 80 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 72 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 55 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 67 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 79 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 72 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 64 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 90 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 82 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
-| Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 73 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 86 | | ADOR | |
+| Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 72 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 86 | | ADOR | |
 
 ## Duplicate albums
 
@@ -197,10 +197,6 @@
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 55 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Fire in the belly | UNFORGIVEN | LE SSERAFIM | 0 | 0 | 75 |
-| UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | Nile Rodgers | 0 | 0 | 70 |
-| UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | LE SSERAFIM | 0 | 0 | 75 |
-| No-Return (Into the unknown) | UNFORGIVEN | LE SSERAFIM | 0 | 0 | 75 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 39 |
 | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
@@ -357,7 +353,7 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 32 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
-| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 50 |
+| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 50 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 90 |
@@ -377,7 +373,7 @@
 | Butter | Butter | BTS | 2 | 1 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 26 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 54 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 56 |
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 55 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
@@ -391,7 +387,7 @@
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 83 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
-| Rollin' | Rollin' | Brave Girls | 1 | 0 | 51 |
+| Rollin' | Rollin' | Brave Girls | 2 | 0 | 51 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 43 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
@@ -412,10 +408,10 @@
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 48 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 55 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | Welcome To MY World (feat. nævis) | Welcome To MY World (feat. nævis) | aespa | 0 | 0 | 73 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 77 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 76 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
