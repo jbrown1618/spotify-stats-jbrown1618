@@ -1,6 +1,6 @@
 # post-teen pop
 
-[68 songs](tracks.md)
+[69 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,18 +21,19 @@
 
 
 <details>
-<summary>See all 13 artists</summary>
+<summary>See all 14 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5211314fc3379104442b7c32" alt="" width="50" /> | 1 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee452efcf24aa4124fb28d94" alt="" width="50" /> | 1 | 0 | A$AP Rocky | [🔗](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
 
 
-![Bar chart of top 13 artists](../../images/genres/post_teen_pop/artists.png)
+![Bar chart of top 14 artists](../../images/genres/post_teen_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/post_teen_pop/artists_comparison.png)
 ## Top Albums
@@ -52,20 +53,21 @@
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="" width="50" /> | 1 | 0 | Revival (Deluxe) | 2015-10-09 | [🔗](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | 1 | 0 | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | 1 | 0 | Hot Mess | 2009-07-07 | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1e2cd03558f701d6f07a95d" alt="" width="50" /> | 1 | 0 | Handmade Songs By Tori Kelly | 2012 | [🔗](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | 1 | 0 | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 
 </details>
 
 
-![Bar chart of top 15 albums](../../images/genres/post_teen_pop/albums.png)
+![Bar chart of top 16 albums](../../images/genres/post_teen_pop/albums.png)
 
 ## Top Record Labels
 
@@ -78,22 +80,23 @@
 | 1 | 1 | Giant Little Man |
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
+| 1 | 0 | Toraay Records |
 | 1 | 0 | Selena Gomez PS |
 | 1 | 0 | Fueled By Ramen |
-| 1 | 0 | Decaydance |
 
 
 <details>
-<summary>See all 11 labels</summary>
+<summary>See all 12 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 0 | Decaydance |
 | 1 | 0 | 19 Recordings Limited |
 
 </details>
 
 
-![Bar chart of top 11 record labels](../../images/genres/post_teen_pop/labels.png)
+![Bar chart of top 12 record labels](../../images/genres/post_teen_pop/labels.png)
 
 ## Years
 
@@ -106,8 +109,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | What's Inside: Songs from Waitress (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> | Hot Mess (2009-07-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> | Revival (Deluxe) (2015-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | Tangled (2010-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="Confident" width="50" /> | Confident (2015-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Demi (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Demi (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273a1e2cd03558f701d6f07a95d" alt="Handmade Songs By Tori Kelly" width="50" /> | Handmade Songs By Tori Kelly (2012) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Demi (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Demi (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) |
