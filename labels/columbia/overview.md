@@ -176,14 +176,14 @@ Appears as:
 
 
 <details>
-<summary>See all 67 genres</summary>
+<summary>See all 68 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 7 | 6 | folk |
 | 6 | 6 | folk rock |
 | 5 | 5 | melancholia |
-| 6 | 3 | pop soul |
+| 8 | 4 | pop soul |
 | 6 | 3 | hard rock |
 | 3 | 3 | pov: indie |
 | 3 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -228,6 +228,7 @@ Appears as:
 | 1 | 0 | new americana |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | [lilith](../../genres/lilith/overview.md) |
+| 1 | 0 | indie folk |
 | 1 | 0 | house |
 | 1 | 0 | girl group |
 | 1 | 0 | electro house |

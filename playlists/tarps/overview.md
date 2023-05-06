@@ -246,12 +246,12 @@
 | 3 | 2 | pop soul |
 | 3 | 2 | new americana |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
+| 3 | 2 | indie folk |
 | 3 | 2 | heartland rock |
 | 3 | 2 | british soul |
 | 3 | 2 | atl hip hop |
 | 2 | 2 | soul |
 | 2 | 2 | motown |
-| 2 | 2 | indie folk |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |

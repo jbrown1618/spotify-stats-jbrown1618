@@ -431,6 +431,7 @@
 | 9 | 9 | lounge |
 | 9 | 9 | hip hop |
 | 9 | 9 | bergen indie |
+| 8 | 8 | pop soul |
 | 8 | 8 | j-pop |
 | 8 | 8 | etherpop |
 | 8 | 8 | australian dance |
@@ -453,7 +454,6 @@
 | 6 | 6 | talent show |
 | 6 | 6 | stomp and holler |
 | 6 | 6 | progressive rock |
-| 6 | 6 | pop soul |
 | 6 | 6 | la indie |
 | 6 | 6 | girl group |
 | 6 | 6 | filter house |

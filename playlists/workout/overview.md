@@ -356,6 +356,7 @@
 | 2 | 2 | shibuya-kei |
 | 2 | 2 | queens hip hop |
 | 2 | 2 | pov: indie |
+| 2 | 2 | pop soul |
 | 2 | 2 | [pop rock](../../genres/pop_rock/overview.md) |
 | 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | modern alternative rock |
@@ -369,7 +370,6 @@
 | 1 | 1 | sunnlensk tonlist |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | pop violin |
-| 1 | 1 | pop soul |
 | 1 | 1 | old school hip hop |
 | 1 | 1 | new wave pop |
 | 1 | 1 | new wave |

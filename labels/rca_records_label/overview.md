@@ -162,6 +162,7 @@ Appears as:
 | 3 | 2 | garage rock |
 | 2 | 1 | talent show |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
+| 2 | 1 | pop soul |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | south carolina hip hop |
 | 1 | 1 | pov: indie |
@@ -181,7 +182,6 @@ Appears as:
 | 1 | 0 | sunshine pop |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
-| 1 | 0 | pop soul |
 | 1 | 0 | electropop |
 | 1 | 0 | doo-wop |
 | 1 | 0 | boy band |

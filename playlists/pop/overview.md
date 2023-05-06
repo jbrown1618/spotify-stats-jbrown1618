@@ -386,6 +386,7 @@
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
+| 13 | 7 | pop soul |
 | 11 | 7 | pov: indie |
 | 11 | 7 | canadian pop |
 | 10 | 7 | [rap](../../genres/rap/overview.md) |
@@ -398,7 +399,6 @@
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | girl group |
 | 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
-| 10 | 5 | pop soul |
 | 8 | 5 | uk dance |
 | 6 | 5 | talent show |
 | 5 | 5 | uk funky |

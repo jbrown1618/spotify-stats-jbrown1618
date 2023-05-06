@@ -5,8 +5,8 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 74 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 74 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
-| Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 86 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 90 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 57 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 68 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
+| Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 87 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 90 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 59 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 69 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 79 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 72 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 64 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
@@ -84,121 +84,121 @@
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 55 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 53 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 15 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 1 Valse | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 14a Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: Entr'acte | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 8 Final | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | La Source / Act 2: No. 22 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 11b Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 2 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 10 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 35 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
@@ -309,9 +309,9 @@
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 51 |
-| Carey | Blue | Joni Mitchell | 0 | 2 | 55 |
-| Blue | Blue | Joni Mitchell | 0 | 2 | 55 |
-| A Case of You | Blue | Joni Mitchell | 1 | 2 | 55 |
+| Carey | Blue | Joni Mitchell | 0 | 1 | 55 |
+| Blue | Blue | Joni Mitchell | 0 | 1 | 55 |
+| A Case of You | Blue | Joni Mitchell | 1 | 1 | 55 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 34 |
@@ -322,7 +322,6 @@
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
-| Salty & Sweet - Track Video Version | Salty & Sweet (Track Video Version) | aespa | 0 | 0 | 73 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 62 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 58 |
@@ -359,7 +358,7 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 32 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
-| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 50 |
+| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 50 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 90 |
@@ -376,7 +375,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Butter | Butter | BTS | 2 | 1 | 90 |
+| Butter | Butter | BTS | 2 | 0 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 26 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
@@ -419,7 +418,7 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 76 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 1 | 0 | 44 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 56 |
