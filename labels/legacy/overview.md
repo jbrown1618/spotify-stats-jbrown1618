@@ -84,7 +84,7 @@ Appears as:
 | 8 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
 | 7 | 3 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 6 | 3 | [rock](../../genres/rock/overview.md) |
-| 5 | 3 | heartland rock |
+| 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 5 | 3 | [classic rock](../../genres/classic_rock/overview.md) |
 | 5 | 2 | hard rock |
 | 5 | 2 | [album rock](../../genres/album_rock/overview.md) |

@@ -174,7 +174,7 @@ Appears as:
 | 2 | 1 | [rap](../../genres/rap/overview.md) |
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 2 | 1 | heartland rock |
+| 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 2 | 1 | funk |
 | 2 | 1 | folk rock |
 | 2 | 1 | folk |
@@ -185,7 +185,7 @@ Appears as:
 | 1 | 1 | dirty south rap |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
-| 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
+| 1 | 0 | show tunes |
 | 1 | 0 | pop rap |
 | 1 | 0 | movie tunes |
 | 1 | 0 | hollywood |

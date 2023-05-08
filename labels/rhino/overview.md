@@ -85,7 +85,7 @@ Appears as:
 | 12 | 4 | [rock](../../genres/rock/overview.md) |
 | 12 | 4 | [album rock](../../genres/album_rock/overview.md) |
 | 6 | 4 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 7 | 2 | yacht rock |
+| 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
 
 
 <details>
@@ -93,8 +93,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 7 | 2 | yacht rock |
 | 3 | 2 | rock-and-roll |
-| 3 | 2 | heartland rock |
 | 3 | 2 | bubblegum pop |
 | 3 | 1 | metal |
 | 3 | 1 | hard rock |

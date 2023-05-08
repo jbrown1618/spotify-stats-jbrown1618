@@ -152,7 +152,7 @@
 |---:|---:|:---|
 | 43 | 0 | movie tunes |
 | 5 | 0 | tagalog worship |
-| 2 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
+| 2 | 0 | show tunes |
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | hollywood |

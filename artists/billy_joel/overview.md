@@ -51,7 +51,7 @@
 
 - [album rock](../../genres/album_rock)
 - [classic rock](../../genres/classic_rock)
-- heartland rock
+- [heartland rock](../../genres/heartland_rock)
 - [mellow gold](../../genres/mellow_gold)
 - piano rock
 - [rock](../../genres/rock)

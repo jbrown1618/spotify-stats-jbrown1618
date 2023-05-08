@@ -247,7 +247,7 @@
 | 3 | 2 | new americana |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 3 | 2 | indie folk |
-| 3 | 2 | heartland rock |
+| 3 | 2 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 3 | 2 | british soul |
 | 3 | 2 | atl hip hop |
 | 2 | 2 | soul |

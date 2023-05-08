@@ -224,12 +224,12 @@
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 25 | 16 | [soft rock](../../genres/soft_rock/overview.md) |
-| 23 | 16 | heartland rock |
+| 23 | 16 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 23 | 16 | [classic rock](../../genres/classic_rock/overview.md) |
 | 22 | 15 | [album rock](../../genres/album_rock/overview.md) |
 | 19 | 9 | [art pop](../../genres/art_pop/overview.md) |
@@ -257,6 +257,7 @@
 | 1 | 0 | pop soul |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new americana |
+| 1 | 0 | neo soul |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | indie rock |
 | 1 | 0 | indie folk |

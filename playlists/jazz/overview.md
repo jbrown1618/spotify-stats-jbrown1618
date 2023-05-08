@@ -153,7 +153,7 @@
 | 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 1 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 0 | korean jazz |
-| 1 | 0 | heartland rock |
+| 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | folk rock |
 | 1 | 0 | folk |
 | 1 | 0 | electric blues |

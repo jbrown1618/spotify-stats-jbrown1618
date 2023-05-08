@@ -332,7 +332,7 @@
 | 1 | 0 | piano rock |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | hengelliset laulut |
-| 1 | 0 | heartland rock |
+| 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | gregorian chant |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | folk rock |

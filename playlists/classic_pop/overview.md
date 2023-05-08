@@ -202,7 +202,7 @@
 | 1 | 1 | quiet storm |
 | 1 | 1 | latin pop |
 | 1 | 1 | jazz trumpet |
-| 1 | 1 | heartland rock |
+| 1 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 1 | hammond organ |
 | 1 | 1 | funk |
 | 1 | 1 | country rock |

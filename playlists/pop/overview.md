@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[378 songs (274 liked)](tracks.md)
+[379 songs (275 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -31,11 +31,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 8 | 5 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 8 | 5 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 7 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 6 | 5 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dc61a0a0612dff3df110ce2" alt="" width="50" /> | 5 | 5 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | Coldplay | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 5 | 4 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 4 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 4 | 4 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 7 | 3 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
@@ -280,6 +280,7 @@
 | 3 | 3 | Parlophone Records Limited |
 | 3 | 3 | Olivia Rodrigo PS |
 | 3 | 3 | Island UK |
+| 3 | 3 | Def Jam |
 | 3 | 3 | Casablanca Records |
 | 3 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 3 | 2 | Parlophone UK |
@@ -287,6 +288,7 @@
 | 2 | 2 | Wondaland |
 | 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 2 | Radiculture |
+| 2 | 2 | RBMG |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Nice Life |
 | 2 | 2 | Mosley |
@@ -296,7 +298,6 @@
 | 2 | 2 | G.O.O.D. Music |
 | 2 | 2 | Elektra (NEK) |
 | 2 | 2 | Elektra |
-| 2 | 2 | Def Jam |
 | 2 | 2 | Cash Money |
 | 2 | 2 | Artist Partner |
 | 2 | 2 | ATG |
@@ -322,7 +323,6 @@
 | 1 | 1 | Rihanna |
 | 1 | 1 | Red Zone Entertainment |
 | 1 | 1 | RVG |
-| 1 | 1 | RBMG |
 | 1 | 1 | Pussycat Dolls |
 | 1 | 1 | PC Music |
 | 1 | 1 | OWSLA |
@@ -364,7 +364,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 305 | 220 | [pop](../../genres/pop/overview.md) |
+| 306 | 221 | [pop](../../genres/pop/overview.md) |
 | 94 | 66 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 18 | uk pop |
@@ -382,13 +382,13 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 11 | 9 | [r&b](../../genres/r_b/overview.md) |
+| 12 | 8 | canadian pop |
 | 10 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
 | 13 | 7 | pop soul |
 | 11 | 7 | pov: indie |
-| 11 | 7 | canadian pop |
 | 10 | 7 | [rap](../../genres/rap/overview.md) |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 9 | 7 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -493,7 +493,7 @@
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 25 |
 | [2016](2016.md) | 25 |
-| 2015 | 19 |
+| [2015](2015.md) | 20 |
 | [2014](2014.md) | 23 |
 | 2013 | 17 |
 | 2012 | 17 |
