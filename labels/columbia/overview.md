@@ -179,7 +179,7 @@ Appears as:
 
 
 <details>
-<summary>See all 69 genres</summary>
+<summary>See all 68 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -231,7 +231,6 @@ Appears as:
 | 1 | 0 | new americana |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | [lilith](../../genres/lilith/overview.md) |
-| 1 | 0 | indie folk |
 | 1 | 0 | house |
 | 1 | 0 | girl group |
 | 1 | 0 | electro house |

@@ -224,7 +224,7 @@
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -257,10 +257,8 @@
 | 1 | 0 | pop soul |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new americana |
-| 1 | 0 | neo soul |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | indie rock |
-| 1 | 0 | indie folk |
 | 1 | 0 | ectofolk |
 | 1 | 0 | dark pop |
 | 1 | 0 | canadian pop |

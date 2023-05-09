@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 86 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -270,6 +270,7 @@
 | 5 | 1 | post-grunge |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
+| 3 | 1 | ectofolk |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | neo-synthpop |
