@@ -24,17 +24,20 @@
 
 
 <details>
-<summary>See all 71 artists</summary>
+<summary>See all 74 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 33 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcb29216b4a21ea8912db6502" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce24d732e138da2cc37d5621" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
+| <img src="https://i.scdn.co/image/6a9df2fdcda44bc0cd927eb3ad033fb95094751c" alt="" width="50" /> | 8 | 0 | Stephen Schwartz | [🔗](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735161c380bfea9322a4ef067f" alt="" width="50" /> | 8 | 0 | Alex Lacamoire | [🔗](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 8 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf59cb30bae10663d53298fc" alt="" width="50" /> | 8 | 0 | Stephen Oremus | [🔗](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) |
 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | 7 | 0 | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
 | <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | 7 | 0 | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
@@ -47,7 +50,7 @@
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
@@ -139,7 +142,7 @@
 | 6 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 6 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 40 | 0 | west end |
-| 18 | 0 | hollywood |
+| 16 | 0 | hollywood |
 
 
 <details>
@@ -147,7 +150,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 5 | 0 | movie tunes |
+| 3 | 0 | movie tunes |
 | 1 | 0 | alternative hip hop |
 
 </details>

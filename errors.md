@@ -4,9 +4,9 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 73 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 73 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 73 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 72 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 87 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 90 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 62 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 70 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 63 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 71 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 78 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 71 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 64 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
@@ -17,7 +17,7 @@
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 73 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
+| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 72 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 90 | 2023-02-24 | WM Korea | Cupid - Twin Ver. [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7),<br>Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -286,7 +286,7 @@
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 50 |
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 50 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 50 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 50 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 50 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 63 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 55 |
@@ -307,7 +307,7 @@
 | Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Gollum's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 54 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 53 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 35 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
@@ -320,13 +320,13 @@
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 69 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 51 |
-| Carey | Blue | Joni Mitchell | 0 | 1 | 55 |
-| Blue | Blue | Joni Mitchell | 0 | 1 | 55 |
-| A Case of You | Blue | Joni Mitchell | 1 | 1 | 55 |
+| Carey | Blue | Joni Mitchell | 0 | 2 | 55 |
+| Blue | Blue | Joni Mitchell | 0 | 2 | 55 |
+| A Case of You | Blue | Joni Mitchell | 1 | 2 | 55 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 34 |
-| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 46 |
+| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 47 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
@@ -337,7 +337,7 @@
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 61 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 58 |
 | Spicy | MY WORLD - The 3rd Mini Album | aespa | 0 | 0 | 74 |
-| Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | nævis | 0 | 0 | 56 |
+| Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | nævis | 0 | 0 | 57 |
 | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | aespa | 0 | 0 | 74 |
 | Salty & Sweet | MY WORLD - The 3rd Mini Album | aespa | 0 | 0 | 74 |
 | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | aespa | 0 | 0 | 74 |
@@ -390,7 +390,7 @@
 | Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
-| White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 65 |
+| White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Butter | Butter | BTS | 2 | 0 | 90 |
@@ -431,12 +431,12 @@
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 47 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 47 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 55 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 76 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 76 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 1 | 0 | 44 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 56 |
