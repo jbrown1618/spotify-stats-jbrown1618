@@ -2,7 +2,7 @@
 # Stray Kids
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebc855bded4ab1bd99ef62214a" alt="Stray Kids" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="Stray Kids" width="100" />
 
 [See Audio Features](audio_features.md)
 

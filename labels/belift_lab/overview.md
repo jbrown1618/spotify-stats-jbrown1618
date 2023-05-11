@@ -11,7 +11,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="" width="50" /> | 20 | 18 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8687667bf50c6dd63a3dbab5" alt="" width="50" /> | 20 | 18 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 
 
 
@@ -33,10 +33,9 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 18 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 20 | 18 | [k-pop](../../genres/k_pop/overview.md) |
 | 20 | 18 | anime |
 
-![Bar chart of top 3 genres](../../images/labels/belift_lab/genres.png)
+
 
 ## Tracks released under BELIFT LAB
 

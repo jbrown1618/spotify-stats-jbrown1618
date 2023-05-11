@@ -74,10 +74,10 @@ Appears as:
 | 95 | 0 | early romantic era |
 | 58 | 0 | german romanticism |
 | 53 | 0 | polish classical |
+| 42 | 0 | early modern classical |
 | 42 | 0 | classical era |
 | 33 | 0 | late romantic era |
 | 26 | 0 | neoclassicism |
-| 26 | 0 | early modern classical |
 | 21 | 0 | russian modern classical |
 | 17 | 0 | russian romanticism |
 

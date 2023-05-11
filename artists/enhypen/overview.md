@@ -2,7 +2,7 @@
 # ENHYPEN
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebc5443c5abc130f03b6014845" alt="ENHYPEN" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8687667bf50c6dd63a3dbab5" alt="ENHYPEN" width="100" />
 
 [See Audio Features](audio_features.md)
 
@@ -41,7 +41,6 @@
 ## Genres
 
 - anime
-- [k-pop](../../genres/k_pop)
 - [k-pop boy group](../../genres/k_pop_boy_group)
 
 ## Tracks

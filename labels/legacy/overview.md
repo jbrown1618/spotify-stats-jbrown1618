@@ -94,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -109,7 +109,6 @@ Appears as:
 | 2 | 0 | brill building pop |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | yodeling |
-| 1 | 0 | western swing |
 | 1 | 0 | traditional country |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
