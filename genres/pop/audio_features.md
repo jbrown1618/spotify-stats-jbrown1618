@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> | Vigilante Shit (0.39) | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="Put A Little Love On Me" width="50" /> | Put A Little Love On Me (0.0262) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B&#x27;Day Deluxe Edition" width="50" /> | Irreplaceable (0.382) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="Love Goes" width="50" /> | Kids Again (0.0262) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.375) | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | Begin Again (0.0263) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | bad guy (0.375) | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="evermore" width="50" /> | no body, no crime (feat. HAIM) (0.0264) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | bad guy (0.375) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | Scary Fairy Tale (0.0263) |
 
 ## Acousticness
 
@@ -98,9 +98,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Typa Girl (0.628) | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> | Oh My God (0.0264) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="FANCY YOU" width="50" /> | FANCY (0.627) | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (0.0311) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Larger Than Life (0.617) | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (0.0322) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | Red Lights (Bang Chan, Hyunjin) (0.612) | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="CIRCUS" width="50" /> | CIRCUS (0.0353) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="4" width="50" /> | Love On Top (0.604) | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Run BTS (0.0358) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="Pink Friday" width="50" /> | Super Bass (0.601) | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> | HEYDAY (Prod. Czaer) (0.0363) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="An Evening With Silk Sonic" width="50" /> | Silk Sonic Intro (0.617) | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="CIRCUS" width="50" /> | CIRCUS (0.0353) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | Red Lights (Bang Chan, Hyunjin) (0.612) | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Run BTS (0.0358) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="4" width="50" /> | Love On Top (0.604) | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> | HEYDAY (Prod. Czaer) (0.0363) |
 
 ## Valence
 

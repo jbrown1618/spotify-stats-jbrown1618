@@ -29,8 +29,8 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
-| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
+| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | [Silk Sonic](../../artists/silk_sonic/overview.md) | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | [Anderson .Paak](../../artists/anderson__paak/overview.md) | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 2 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 1 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -145,7 +145,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | 1 | 1 | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | 1 | 1 | Bittersweet | 2003 | [🔗](https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="" width="50" /> | 1 | 1 | Baby Powder | 2020-03-25 | [🔗](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 1 | 1 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 1 | 1 | An Evening With Silk Sonic | 2021-11-12 | [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | 1 | 1 | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | 1 | 1 | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | 1 | 1 | ANTI (Deluxe) | 2016-01-28 | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
@@ -200,7 +200,7 @@
 | 2 | 2 | G.O.O.D. Music |
 | 3 | 1 | LaFace Records |
 | 2 | 1 | Golden Child Recordings |
-| 2 | 1 | Aftermath Entertainment |
+| 2 | 1 | [Aftermath Entertainment](../../labels/aftermath_entertainment/overview.md) |
 | 1 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 1 | UMGRI Interscope |
 | 1 | 1 | Spinnin' Records |
@@ -304,7 +304,7 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love&#x27;s Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> | Meet The Temptations (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-12) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin&#x27; Ready (Expanded Edition)" width="50" /> | Gettin' Ready (Expanded Edition) (1966) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> | MONTERO (Call Me By Your Name) (2021-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | The Foundations (1968-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | The Prelude (2020-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> | Tell Mama (1968-04-18) |

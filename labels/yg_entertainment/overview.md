@@ -1,11 +1,11 @@
 # YG Entertainment
 
-72 songs
+73 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- YG Entertainment (43 tracks)
+- YG Entertainment (44 tracks)
 - YG Entertainment/Interscope Records (20 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
@@ -19,7 +19,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 7 | 7 | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | 6 | 4 | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 5 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 3 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 2 | 2 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | 2 | 2 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | 2 | 2 | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
@@ -64,7 +64,7 @@ Appears as:
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 36 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -92,6 +92,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | 1 | 1 | As If It's Your Last | 2017-06-22 | [🔗](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1 | 1 | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | 1 | 0 | PSY 7TH ALBUM | 2015-12-01 | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | 1 | 0 | DEBUT FULL ALBUM 'WELCOME BACK' | 2015-12-24 | [🔗](https://open.spotify.com/album/56d4rgrQSPY3fzbxQS260h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | 1 | 0 | ALIVE | 2012-02-29 | [🔗](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) |
 
 </details>
@@ -103,10 +104,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 71 | 60 | [k-pop](../../genres/k_pop/overview.md) |
+| 72 | 60 | [k-pop](../../genres/k_pop/overview.md) |
 | 29 | 24 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 28 | 23 | [pop](../../genres/pop/overview.md) |
-| 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 15 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | k-rap |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -169,6 +170,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4" alt="" width="50" /> | Hello Bitches | Hello Bitches | CL | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | CROOKED | COUP D'ETAT | G-DRAGON | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 무제(無題) (Untitled, 2014) | KWON JI YONG | G-DRAGON | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/6vLIqcTMfTvs6ecdYqRuOD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | BEAUTIFUL | Return | iKON | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/2l526adqDC9nZ9TL4dD80A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | LOVE SCENARIO | Return | iKON | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | KILLING ME | NEW KIDS REPACKAGE : THE NEW KIDS | iKON | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) |

@@ -51,7 +51,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaaa9e8d56241a48b8f6422b2" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 0 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | 1 | 0 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 
 </details>

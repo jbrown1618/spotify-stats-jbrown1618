@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[442 songs](tracks.md)
+[447 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -9,14 +9,14 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 64 | 48 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 45 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 46 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 37 | 23 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 28 | 23 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 33 | 22 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 23 | 21 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 19 | 15 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 16 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 14 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 13 | 10 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 
@@ -38,15 +38,15 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 6 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 5 | 4 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 5 | 4 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 6 | 3 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 7 | 3 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | 5 | 3 | AOA | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 5 | 3 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 5 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 4 | 3 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 4 | 3 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb61d3f392c4b11e9e54280a9" alt="" width="50" /> | 3 | 3 | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 3 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 4 | 2 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0701912e6fccf8427bc7361" alt="" width="50" /> | 3 | 2 | GFRIEND | [🔗](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ecddddcd7a4d93b21324bc5" alt="" width="50" /> | 3 | 2 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
@@ -142,6 +142,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 3 | 3 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 3 | 3 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | 3 | 2 | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 3 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 3 | 2 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | 3 | 2 | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 3 | 2 | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
@@ -155,8 +156,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | 2 | 2 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | 2 | 2 | SQUARE ONE | 2016-08-08 | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 2 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | 2 | 2 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 2 | 2 | Pink Tape - The 2nd Album | 2013-07-29 | [🔗](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | 2 | 2 | Pink Funky | 2015-06-19 | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a03c11c71a265006e1b9e3" alt="" width="50" /> | 2 | 2 | One-reeler / Act IV | 2020-12-07 | [🔗](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | 2 | 2 | NONSTOP | 2020-04-27 | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
@@ -200,7 +201,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | 1 | 1 | Wings | 2021-02-24 | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | 1 | 1 | Why So Lonely | 2016-07-05 | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | 1 | 1 | WE NEED LOVE | 2022-07-19 | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 
 </details>
 
@@ -211,7 +211,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 92 | 69 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 93 | 70 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 74 | 49 | [Republic Records](../../labels/republic_records/overview.md) |
 | 29 | 24 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 24 | 19 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
@@ -236,14 +236,14 @@
 | 7 | 7 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 8 | 5 | ADOR |
 | 6 | 4 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
+| 5 | 4 | WM Japan |
 | 5 | 4 | Riot Games |
-| 4 | 4 | WM Japan |
 | 4 | 3 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 4 | 3 | BlockBerryCreative |
 | 3 | 3 | MLD ENTERTAINMENT |
 | 3 | 2 | 마이돌엔터테인먼트 |
+| 3 | 2 | ㈜ 드림캐쳐컴퍼니 |
 | 3 | 2 | XGALX |
-| 2 | 2 | ㈜ 드림캐쳐컴퍼니 |
 | 2 | 2 | Yedang Entertainment |
 | 2 | 2 | SWING ENTERTAINMENT |
 | 2 | 2 | OFF THE RECORD Entertainment |
@@ -272,8 +272,8 @@
 | 1 | 1 | BEYOND MUSIC |
 | 1 | 1 | B1 Recordings |
 | 1 | 1 | AB Ent. |
-| 3 | 0 | BANANA CULTURE |
-| 1 | 0 | 해피페이스 엔터테인먼트 |
+| 4 | 0 | BANANA CULTURE |
+| 2 | 0 | 해피페이스 엔터테인먼트 |
 | 1 | 0 | 내가네트워크 |
 | 1 | 0 | ㈜RBW |
 | 1 | 0 | ㈜ 드림캐쳐 컴퍼니 |
@@ -293,13 +293,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | I've IVE (2023-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="Zero" width="50" /> | Zero (2023-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> | Sound G. (2009-07-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (2023-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Oh! - The Second Album (2010-01-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> | expérgo (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | To Anyone (2010-09-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273355bb5ca71fe89b9720a535b" alt="Hare Hare" width="50" /> | Hare Hare (2023-05-12) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | I've IVE (2023-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> | Sound G. (2009-07-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="Zero" width="50" /> | Zero (2023-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Oh! - The Second Album (2010-01-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (2023-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> | expérgo (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | To Anyone (2010-09-09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="A Class" width="50" /> | A Class (2011-07-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys - The 3rd Album (2011-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6019075623d95de7e64fa33" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b2734a6d5da9e8c6bb38a2e62f6f" alt="COLLECTION" width="50" /> | COLLECTION (2012-03-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys - The 3rd Album (2011-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b2734a6d5da9e8c6bb38a2e62f6f" alt="COLLECTION" width="50" /> | COLLECTION (2012-03-28) |

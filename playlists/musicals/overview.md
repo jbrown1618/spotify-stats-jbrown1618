@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf59cb30bae10663d53298fc" alt="" width="50" /> | 8 | 0 | Stephen Oremus | [🔗](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) |
 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | 7 | 0 | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
 | <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | 7 | 0 | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb48124fc43f870ed4501093e5" alt="" width="50" /> | 6 | 0 | Kristin Chenoweth | [🔗](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f636a08b6f3c5c6368a58c" alt="" width="50" /> | 5 | 0 | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 5 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
@@ -50,7 +50,7 @@
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |

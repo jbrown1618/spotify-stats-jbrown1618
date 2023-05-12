@@ -53,7 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 1 | 0 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc47897b69089f59e31817f26" alt="" width="50" /> | 1 | 0 | The Ronettes | [🔗](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | 1 | 0 | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 1 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 1 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f02cb3e2e6c5d3b52b3d65ba" alt="" width="50" /> | 1 | 0 | Bob Brown | [🔗](https://open.spotify.com/artist/6xWlMtfrZNsW7ZRMxQLqxw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 1 | 0 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
@@ -88,7 +88,7 @@
 | <img src="https://i.scdn.co/image/1dcd3f5d64a65f19d085b8e78746e457bd2d2e05" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10ca40ea0b0b5082dba0ff75" alt="" width="50" /> | 1 | 0 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ed044b8b433c47ae4f6160a" alt="" width="50" /> | 1 | 0 | Joe Reisman's Orchestra and Chorus | [🔗](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 1 | 0 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 1 | 0 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |

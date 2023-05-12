@@ -1,6 +1,6 @@
 # korean r&b
 
-[45 songs](tracks.md)
+[46 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -9,7 +9,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 8 | 6 | HEIZE | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 5 | 5 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 6 | 5 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 4 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 6 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 3 | 3 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -71,7 +71,7 @@
 
 
 <details>
-<summary>See all 40 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -104,6 +104,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="" width="50" /> | 1 | 0 | LULLABY | 2021-08-27 | [🔗](https://open.spotify.com/album/7knAHnDVbgtX05qgU0ZcgT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="" width="50" /> | 1 | 0 | LUCKYNUMBERS | 2013-07-01 | [🔗](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.5 | 2019-07-28 | [🔗](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c94f5c73ef1118837aafea7" alt="" width="50" /> | 1 | 0 | Animal Farm | 2022-09-27 | [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc" alt="" width="50" /> | 1 | 0 | ?depacse ohw | 2020-05-12 | [🔗](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) |
 
 </details>
@@ -117,7 +118,7 @@
 |---:|---:|:---|
 | 17 | 13 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 13 | 9 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
-| 3 | 3 | [88rising Music](../../labels/88rising_music/overview.md) |
+| 4 | 3 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 2 | 2 | Million Market |
 | 2 | 2 | Feel Ghood Music |
@@ -163,9 +164,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="LUCKYNUMBERS" width="50" /> | LUCKYNUMBERS (2013-07-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="VIBE (feat. Jimin of BTS)" width="50" /> | VIBE (feat. Jimin of BTS) (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | LOVE & HATE (2013-11-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Lowlife Princess: Noir (2022-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | RISE (2014-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737968a5fd0be134742699910e" alt="Rush Hour" width="50" /> | Rush Hour (2022-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="Worldwide" width="50" /> | Worldwide (2015-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="Street Man Fighter Original Vol.3 (Mission by Rank)" width="50" /> | Street Man Fighter Original Vol.3 (Mission by Rank) (2022-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | 130 Mood : TRBL (2016-03-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="Somebody" width="50" /> | Somebody (2022-07-25) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> | Remarriage and Desires (Original Soundtrack from The Netflix Series) (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 (2016-08-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Undo (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="EVERYTHING YOU WANTED" width="50" /> | EVERYTHING YOU WANTED (2016-10-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Twenty-Five Twenty-One OST (2022-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) (2017-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c94f5c73ef1118837aafea7" alt="Animal Farm" width="50" /> | Animal Farm (2022-09-27) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="Worldwide" width="50" /> | Worldwide (2015-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737968a5fd0be134742699910e" alt="Rush Hour" width="50" /> | Rush Hour (2022-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | 130 Mood : TRBL (2016-03-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="Street Man Fighter Original Vol.3 (Mission by Rank)" width="50" /> | Street Man Fighter Original Vol.3 (Mission by Rank) (2022-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="Somebody" width="50" /> | Somebody (2022-07-25) | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 (2016-08-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> | Remarriage and Desires (Original Soundtrack from The Netflix Series) (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="EVERYTHING YOU WANTED" width="50" /> | EVERYTHING YOU WANTED (2016-10-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Undo (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) (2017-03-04) |

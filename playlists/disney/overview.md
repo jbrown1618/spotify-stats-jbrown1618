@@ -13,7 +13,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | 19 | 0 | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | 5 | 0 | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314dd049936f9d42787c8128d" alt="" width="50" /> | 3 | 0 | Tony Jay | [🔗](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Chorus - The Hunchback Of Notre Dame | [🔗](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Chorus - Beauty And the Beast | [🔗](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d) |

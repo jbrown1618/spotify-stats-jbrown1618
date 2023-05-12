@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[265 songs](tracks.md)
+[267 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>See all 43 artists</summary>
+<summary>See all 44 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed480d5867f57d4bb3a285c8" alt="" width="50" /> | 3 | 3 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | 6 | 2 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 3 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 2 | 2 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8162ce227fb3f8159822aab0" alt="" width="50" /> | 2 | 2 | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
@@ -51,8 +51,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | 1 | 1 | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | 1 | 1 | Wanna One | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a91656db6afb7a3dd398f22" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0222fa7cba5da5c28ea5d296" alt="" width="50" /> | 3 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 3 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb060cc13fe1a58394ee8ef701" alt="" width="50" /> | 1 | 0 | SF9 | [🔗](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 1 | 0 | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | 1 | 0 | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -191,7 +192,7 @@
 | 34 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 20 | 18 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 18 | 11 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
-| 14 | 10 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 15 | 10 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 8 | 6 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 8 | 5 | KQ Entertainment |
 | 7 | 5 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -205,7 +206,7 @@
 |---:|---:|:---|
 | 8 | 4 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 6 | 4 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 5 | 4 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
+| 6 | 4 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 6 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 3 | 3 | 우조엔터테인먼트 |
 | 4 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |

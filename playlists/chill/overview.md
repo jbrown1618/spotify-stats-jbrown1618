@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[210 songs (176 liked)](tracks.md)
+[210 songs (175 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -79,7 +79,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41bf7454f88cccfe6677b2c0" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce98956e2ea2db4cc017c86d" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
-| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 1 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 1 | 1 | AKMU | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 1 | 1 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
@@ -96,7 +95,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 1 | 1 | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c7f0695e260619b85d687db" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7158089a0a003f7ce04ddca1" alt="" width="50" /> | 1 | 1 | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 1 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | 1 | 1 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
@@ -118,6 +116,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 
 </details>
 
@@ -285,11 +285,11 @@
 | 2 | 2 | Fave Entertainment |
 | 2 | 2 | FLEX M |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
-| 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 2 | 1 | FNC인베스트먼트 |
 | 2 | 1 | CJ E&M MUSIC |
+| 2 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | 스튜디오앤뉴 |
 | 1 | 1 | 뮤직앤뉴 |
 | 1 | 1 | under exclusive license to Interscope Records |
@@ -328,7 +328,6 @@
 | 1 | 1 | C9 Entertainment |
 | 1 | 1 | Atlantic Records UK |
 | 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
-| 1 | 1 | Aftermath Entertainment |
 | 1 | 1 | Abyss Company |
 | 1 | 1 | ATISPAUS |
 | 1 | 1 | AOMG |
@@ -339,6 +338,7 @@
 | 1 | 0 | Today's Playlist |
 | 1 | 0 | THEBLACKLABEL |
 | 1 | 0 | [HYBE](../../labels/hybe/overview.md) |
+| 1 | 0 | [Aftermath Entertainment](../../labels/aftermath_entertainment/overview.md) |
 | 1 | 0 | ATTRAKT |
 
 </details>
@@ -351,7 +351,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 128 | 102 | [k-pop](../../genres/k_pop/overview.md) |
-| 45 | 39 | [pop](../../genres/pop/overview.md) |
+| 45 | 38 | [pop](../../genres/pop/overview.md) |
 | 37 | 28 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 27 | 23 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 18 | 12 | korean pop |
@@ -407,7 +407,6 @@
 | 1 | 1 | funk |
 | 1 | 1 | etherpop |
 | 1 | 1 | disco |
-| 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | canadian pop |
 | 1 | 1 | canadian contemporary r&b |
 | 1 | 1 | bedroom soul |
@@ -416,6 +415,7 @@
 | 1 | 1 | alternative r&b |
 | 1 | 1 | alt z |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
+| 1 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | classic k-pop |
 
 </details>

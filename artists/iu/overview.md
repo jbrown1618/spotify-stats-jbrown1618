@@ -16,6 +16,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27398f9f76ab2ae4525fc4e3d7aab67616d0000b273c891137d2513ecd496e9152eab67616d0000b273d0c7c131a979c9e5436f89ceab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -45,6 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | 1 | 1 | BBIBBI | 2018-10-10 | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | 1 | 1 | A flower bookmark | 2014-05-16 | [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd063ae065db06970b022d7" alt="" width="50" /> | 1 | 1 | A flower bookmark | 2017-09-22 | [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | 1 | 0 | REAL+ | 2011-02-17 | [🔗](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) |
 
 </details>
 
@@ -53,7 +55,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 14 | 12 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
+| 15 | 12 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 8 | 7 | EDAM Entertainment |
 | 5 | 4 | Fave Entertainment |
 | 1 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
@@ -75,11 +77,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | lost child | Lost and Found | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1EzYoGGkr0azLsiq8svGSl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Good day | REAL | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Merry Christmas ahead (feat.Chundung) | REAL | [IU](overview.md), Chundung | [Kakao Entertainment](../../labels/kakao_entertainment) | | [🔗](https://open.spotify.com/track/6I9Y6PHTWv72fgQV3tIHt0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 4AM | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | | [🔗](https://open.spotify.com/track/3K2qsjNSynFOx2XHTHGXT2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | Friday (feat.Jang Yi-jeong) | Modern Times – Epilogue | [IU](overview.md), Jang Yi-jeong | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | Pierrot laughs at us | A flower bookmark | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) |
 
 
 <details>
@@ -87,6 +89,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | Pierrot laughs at us | A flower bookmark | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Glasses | CHAT-SHIRE | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4ogMtogPGtC1VwKRNiHymx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Twenty-three | CHAT-SHIRE | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3YkDslZvvMixTwgDId0aYB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |

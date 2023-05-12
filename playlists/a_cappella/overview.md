@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 0 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136020aa2bc1488f9b36551" alt="" width="50" /> | 2 | 0 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 2 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 2 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | University Of Delaware Vocal Point | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |

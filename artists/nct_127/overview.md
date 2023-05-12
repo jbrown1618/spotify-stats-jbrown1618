@@ -16,6 +16,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b2731e998666727247d231c75cf8ab67616d0000b2737c0618723e2fca9e617eec34ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |

@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.174) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0419) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (0.164) | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | Like It (0.043) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="Act. 7" width="50" /> | Hate (0.163) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Change (0.0484) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.16) | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="Trouble Maker" width="50" /> | Trouble Maker (0.0541) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.16) | <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="Lip &amp; Hip" width="50" /> | Lip & Hip (0.0485) |
 
 ## Acousticness
 
@@ -57,16 +57,16 @@
 
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.65) | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | Like It (0.00228) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.571) | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | LATATA (0.00427) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.489) | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (0.00584) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (0.466) | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | No (0.00785) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="The Winter&#x27;s Tale" width="50" /> | Because It's Christmas (0.419) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | TOMBOY (0.00988) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="Positive" width="50" /> | Shine (0.411) | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.0159) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.251) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.0194) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | VILLAIN DIES (0.247) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0307) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c89d6d3da4431db2eb42acb2" alt="Fiction And Fact" width="50" /> | Fiction (0.223) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.0364) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | Sparkling Night (0.197) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (0.0413) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.65) | <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="Lip &amp; Hip" width="50" /> | Lip & Hip (0.00117) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.571) | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | Like It (0.00228) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.489) | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | LATATA (0.00427) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (0.466) | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (0.00584) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="The Winter&#x27;s Tale" width="50" /> | Because It's Christmas (0.419) | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | No (0.00785) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="Positive" width="50" /> | Shine (0.411) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | TOMBOY (0.00988) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.251) | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.0159) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | VILLAIN DIES (0.247) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.0194) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c89d6d3da4431db2eb42acb2" alt="Fiction And Fact" width="50" /> | Fiction (0.223) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0307) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | Sparkling Night (0.197) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.0364) |
 
 ## Instrumentalness
 
@@ -79,11 +79,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (7.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (4.33e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (2.4e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="First Love" width="50" /> | Pepe (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (7.84e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (7.81e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (4.11e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="Trouble Maker" width="50" /> | Trouble Maker (3.77e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | Like It (1.43e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="The Winter&#x27;s Tale" width="50" /> | Because It's Christmas (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="Lip &amp; Hip" width="50" /> | Lip & Hip (8.49e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (7.84e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (7.81e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (4.11e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="Trouble Maker" width="50" /> | Trouble Maker (3.77e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="The Winter&#x27;s Tale" width="50" /> | Because It's Christmas (0.0) |
 
 ## Liveness
 

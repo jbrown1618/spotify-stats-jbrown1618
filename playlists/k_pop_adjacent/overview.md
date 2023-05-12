@@ -222,7 +222,7 @@
 
 
 <details>
-<summary>See all 42 genres</summary>
+<summary>See all 43 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -253,6 +253,7 @@
 | 1 | 1 | asian american hip hop |
 | 1 | 0 | strut |
 | 1 | 0 | rap latina |
+| 1 | 0 | meme |
 | 1 | 0 | melodic rap |
 | 1 | 0 | electronic trap |
 | 1 | 0 | diva house |

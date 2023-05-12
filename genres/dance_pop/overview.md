@@ -1,6 +1,6 @@
 # dance pop
 
-[125 songs](tracks.md)
+[135 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -9,7 +9,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 13 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 10 | 8 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 20 | 8 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 11 | 6 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 7 | 5 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 6 | 5 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>See all 80 artists</summary>
+<summary>See all 82 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -37,9 +37,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 2 | 2 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 2 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 12 | 1 | [Silk Sonic](../../artists/silk_sonic/overview.md) | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 12 | 1 | [Anderson .Paak](../../artists/anderson__paak/overview.md) | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 2 | 1 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 2 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 2 | 1 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 1 | 1 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
@@ -79,7 +79,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
+| <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | 1 | 0 | Bootsy Collins | [🔗](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb299e78573ac6393aa9079d19" alt="" width="50" /> | 1 | 0 | Thundercat | [🔗](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | 1 | 0 | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
@@ -106,6 +108,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 10 | 1 | An Evening With Silk Sonic | 2021-11-12 | [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | 4 | 3 | The Fame | 2008-01-01 | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 3 | 3 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
@@ -115,14 +118,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="" width="50" /> | 3 | 1 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | 2 | 2 | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 
 
 <details>
-<summary>See all 90 albums</summary>
+<summary>See all 91 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | 2 | 2 | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | 2 | 2 | Play On | 2009 | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
@@ -171,7 +174,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="" width="50" /> | 1 | 1 | Back To Basics | 2006-08-14 | [🔗](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | 1 | 1 | Animal (Expanded Edition) | 2010-01-01 | [🔗](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 1 | 1 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | 1 | 1 | A Beautiful World | 2002-12-13 | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | 1 | 1 | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12 | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | 1 | 0 | souljaboytellem.com | 2007-01-01 | [🔗](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) |
@@ -201,6 +203,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="" width="50" /> | 1 | 0 | Blown Away | 2012-05-01 | [🔗](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="" width="50" /> | 1 | 0 | Beautiful Trauma | 2017-10-13 | [🔗](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 1 | 0 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | 1 | 0 | All I Ever Wanted | 2009-03-06 | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="" width="50" /> | 1 | 0 | A Very Special Christmas | 1987-10-20 | [🔗](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) |
 
@@ -214,7 +217,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 22 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
-| 13 | 11 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 23 | 11 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 14 | 10 | [Jive](../../labels/jive/overview.md) |
 | 15 | 9 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 12 | 7 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -235,10 +238,10 @@
 | 2 | 2 | Lava Music |
 | 2 | 2 | ATG |
 | 2 | 2 | A Star is Born OST |
+| 12 | 1 | [Aftermath Entertainment](../../labels/aftermath_entertainment/overview.md) |
 | 5 | 1 | LaFace Records |
 | 3 | 1 | Sony Music Latin |
 | 2 | 1 | Arista |
-| 2 | 1 | Aftermath Entertainment |
 | 2 | 1 | A&M |
 | 1 | 1 | YGEX |
 | 1 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
@@ -275,10 +278,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="Break My Heart Myself (feat. YEJI &amp; RYUJIN of ITZY)" width="50" /> | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) (2022-07-29) | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> | Like a Virgin (1984-11-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> | Te Felicito (2022-04-21) | <img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> | A Very Special Christmas (1987-10-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love&#x27;s Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> | Believe (1998) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="Kiss Me More (feat. SZA)" width="50" /> | Kiss Me More (feat. SZA) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="Baby, I&#x27;m Jealous (feat. Doja Cat)" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) (2020-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (2020-07-03) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | Chromatica (2020-05-29) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-12) | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> | Believe (1998) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="Kiss Me More (feat. SZA)" width="50" /> | Kiss Me More (feat. SZA) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="Baby, I&#x27;m Jealous (feat. Doja Cat)" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) (2020-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (2020-07-03) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |

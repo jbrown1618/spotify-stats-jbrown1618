@@ -1,11 +1,11 @@
 # SM Entertainment
 
-253 songs
+255 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- SM Entertainment (251 tracks)
+- SM Entertainment (253 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -26,7 +26,7 @@ Appears as:
 
 
 <details>
-<summary>See all 67 artists</summary>
+<summary>See all 68 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -35,13 +35,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 8 | 4 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99713cdd2a68b0db306aad6" alt="" width="50" /> | 6 | 3 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 5 | 3 | BoA | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 5 | 3 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | 6 | 2 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | 6 | 2 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8980623c46119271987de7eb" alt="" width="50" /> | 4 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 4 | 2 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb9fa0e20c8f29cf7c6dac3b" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 2 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
@@ -87,6 +87,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23cbe3b476060edcac630e20" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb47d4cf3a9d4005719f2eb85f" alt="" width="50" /> | 1 | 0 | HAECHAN | [🔗](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Jay JungJae Moon | [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6ecc590101dde2ae2ffbea2d" alt="" width="50" /> | 1 | 0 | SULLI | [🔗](https://open.spotify.com/artist/1OjcBoc71FwlzD5cJGx7xk) |
 
 </details>
 
@@ -135,6 +136,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 2 | 2 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | 2 | 2 | What Do I Call You - The 4th Mini Album | 2020-12-15 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 2 | 2 | Pink Tape - The 2nd Album | 2013-07-29 | [🔗](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | 2 | 2 | Ice Cream Cake - The 1st Mini Album | 2015-03-17 | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | 2 | 2 | Hello - Special Album | 2021-05-31 | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | 2 | 2 | Devil - The 2nd Mini Album | 2022-01-13 | [🔗](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) |
@@ -168,7 +170,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | 1 | 1 | Reload | 2020-04-29 | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | 1 | 1 | Rain - SM STATION | 2016-02-03 | [🔗](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | 1 | 1 | REPLAY - The 8th Repackage Album | 2018-04-12 | [🔗](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 1 | 1 | Pink Tape - The 2nd Album | 2013-07-29 | [🔗](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21" alt="" width="50" /> | 1 | 1 | Peaches - The 2nd Mini Album | 2021-11-30 | [🔗](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | 1 | 1 | Paint Me Naked - SM STATION | 2021-08-10 | [🔗](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | 1 | 1 | PLAY - The 8th Album | 2017-11-06 | [🔗](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) |
@@ -214,8 +215,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 249 | 172 | [k-pop](../../genres/k_pop/overview.md) |
-| 92 | 69 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 251 | 173 | [k-pop](../../genres/k_pop/overview.md) |
+| 93 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 60 | 37 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | korean pop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -272,6 +273,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Paradise | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Runaway | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | f(x) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | f(x) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | 4 Walls - The 4th Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) |
@@ -425,6 +427,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | View | Odd - The 4th Album | SHINee | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732eafb1407218dca0cb8d91b8" alt="" width="50" /> | Don't Call Me | Don't Call Me - The 7th Album | SHINee | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341ac444fbef3261cdcadc9e6" alt="" width="50" /> | Grey Suit | Grey Suit - The 2nd Mini Album | SUHO | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273199b103e99c9de6bb5a7dc53" alt="" width="50" /> | Goblin | Goblin | SULLI | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4HwtJ7p2bL1c5BVm35Rgbc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 쏘리 쏘리 Sorry, Sorry | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | SUPER JUNIOR | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple | Mr. Simple - The 5th Album | SUPER JUNIOR | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | Mamacita (아야야) | MAMACITA - The 7th Album | SUPER JUNIOR | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) |

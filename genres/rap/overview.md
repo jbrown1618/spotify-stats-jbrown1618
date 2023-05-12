@@ -1,6 +1,6 @@
 # rap
 
-[40 songs](tracks.md)
+[41 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>See all 43 artists</summary>
+<summary>See all 44 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -31,6 +31,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb4be1652aaf558da2984098" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 1 | 1 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb858ab48103cfe3c042bc1515" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 1 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
@@ -75,17 +76,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="" width="50" /> | 1 | 1 | The Pinkprint (Deluxe) | 2014-12-15 | [🔗](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" alt="" width="50" /> | 1 | 1 | SYRE | 2017-11-17 | [🔗](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331aafa752187cb0284307200" alt="" width="50" /> | 1 | 1 | SHADYXV | 2014-11-24 | [🔗](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | 1 | 1 | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
 
 
 <details>
-<summary>See all 38 albums</summary>
+<summary>See all 39 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | 1 | 1 | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | 1 | 1 | Pink Friday | 2010-01-01 | [🔗](https://open.spotify.com/album/5jem47f4IRH6UaxNAWO6vD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
@@ -126,6 +128,7 @@
 |---:|---:|:---|
 | 7 | 5 | Aftermath |
 | 5 | 2 | Roc-A-Fella |
+| 4 | 2 | Roc Nation |
 | 4 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 3 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -133,19 +136,19 @@
 | 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | KSR |
-| 2 | 2 | Cash Money |
 
 
 <details>
-<summary>See all 34 labels</summary>
+<summary>See all 35 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 3 | 1 | Roc Nation |
+| 2 | 2 | Cash Money |
 | 3 | 1 | LaFace Records |
 | 2 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 1 | RVG |
 | 1 | 1 | Quality Control Music |
+| 1 | 1 | MSFTS |
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
 | 1 | 1 | BPG |

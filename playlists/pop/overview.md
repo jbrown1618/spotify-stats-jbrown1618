@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[379 songs (275 liked)](tracks.md)
+[380 songs (276 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -86,10 +86,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 3 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 2 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
-| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 2 | 1 | [Silk Sonic](../../artists/silk_sonic/overview.md) | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 2 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 2 | 1 | [Anderson .Paak](../../artists/anderson__paak/overview.md) | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 2 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf99727ed9dbe47a59126e17e" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
@@ -234,9 +234,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3724ff57308e247c99101dd" alt="" width="50" /> | 1 | 1 | Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) [Skrillex Remix] | 2016-03-22 | [🔗](https://open.spotify.com/album/7pPVcx3O9eZrPCgBmpW5HV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | 1 | 1 | Savage Love (Laxed - Siren Beat) [BTS Remix] | 2020-10-02 | [🔗](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | 1 | 1 | Salute (Expanded Edition) | 2013-11-11 | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" alt="" width="50" /> | 1 | 1 | SYRE | 2017-11-17 | [🔗](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="" width="50" /> | 1 | 1 | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | 2021-09-16 | [🔗](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="" width="50" /> | 1 | 1 | Rockferry | 2008-01-01 | [🔗](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) |
 
 </details>
 
@@ -286,6 +286,7 @@
 | 3 | 2 | Parlophone UK |
 | 3 | 2 | Fueled By Ramen |
 | 2 | 2 | Wondaland |
+| 2 | 2 | Roc Nation |
 | 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 2 | Radiculture |
 | 2 | 2 | RBMG |
@@ -307,7 +308,7 @@
 | 2 | 1 | Island Def Jam |
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 2 | 1 | Golden Child Recordings |
-| 2 | 1 | Aftermath Entertainment |
+| 2 | 1 | [Aftermath Entertainment](../../labels/aftermath_entertainment/overview.md) |
 | 1 | 1 | under exclusive license to Interscope Records |
 | 1 | 1 | half·alive |
 | 1 | 1 | ZAR |
@@ -319,7 +320,6 @@
 | 1 | 1 | Teleport Records |
 | 1 | 1 | Spinnin' Records |
 | 1 | 1 | Silent Records |
-| 1 | 1 | Roc Nation |
 | 1 | 1 | Rihanna |
 | 1 | 1 | Red Zone Entertainment |
 | 1 | 1 | RVG |
@@ -328,6 +328,7 @@
 | 1 | 1 | OWSLA |
 | 1 | 1 | Nu America Music |
 | 1 | 1 | Mockingjay |
+| 1 | 1 | MSFTS |
 | 1 | 1 | Lauv |
 | 1 | 1 | Latium |
 | 1 | 1 | Jonas Brothers Recording |
@@ -353,7 +354,6 @@
 | 1 | 1 | Access Records |
 | 1 | 1 | ATL |
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
-| 2 | 0 | JVKE |
 
 </details>
 
@@ -383,13 +383,13 @@
 |---:|---:|:---|
 | 11 | 9 | [r&b](../../genres/r_b/overview.md) |
 | 12 | 8 | canadian pop |
+| 11 | 8 | [rap](../../genres/rap/overview.md) |
 | 10 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
 | 13 | 7 | pop soul |
 | 11 | 7 | pov: indie |
-| 10 | 7 | [rap](../../genres/rap/overview.md) |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 9 | 7 | [viral pop](../../genres/viral_pop/overview.md) |
 | 9 | 7 | metropopolis |
@@ -405,9 +405,9 @@
 | 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 5 | 5 | afrofuturism |
 | 7 | 4 | indietronica |
+| 5 | 4 | pop rap |
 | 5 | 4 | piano rock |
 | 5 | 4 | [lilith](../../genres/lilith/overview.md) |
-| 4 | 3 | pop rap |
 | 3 | 3 | nz pop |
 | 3 | 3 | latin pop |
 | 3 | 3 | escape room |
@@ -491,7 +491,7 @@
 | [2020](2020.md) | 49 |
 | [2019](2019.md) | 45 |
 | [2018](2018.md) | 25 |
-| [2017](2017.md) | 25 |
+| [2017](2017.md) | 26 |
 | [2016](2016.md) | 25 |
 | [2015](2015.md) | 20 |
 | [2014](2014.md) | 23 |

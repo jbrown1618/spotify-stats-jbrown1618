@@ -15,7 +15,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735161c380bfea9322a4ef067f" alt="" width="50" /> | 8 | 0 | Alex Lacamoire | [🔗](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf59cb30bae10663d53298fc" alt="" width="50" /> | 8 | 0 | Stephen Oremus | [🔗](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb408a975888e8eeea2aa8e604" alt="" width="50" /> | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb48124fc43f870ed4501093e5" alt="" width="50" /> | 6 | 0 | Kristin Chenoweth | [🔗](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |

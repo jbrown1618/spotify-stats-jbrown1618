@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | 1 | 0 | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 1 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | 1 | 0 | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaaa8b7a0cc8e8047193c3446" alt="" width="50" /> | 1 | 0 | NiziU | [🔗](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91a5e59e95c80bdc3d125082" alt="" width="50" /> | 1 | 0 | NiziU | [🔗](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) |
 
 
 <details>
