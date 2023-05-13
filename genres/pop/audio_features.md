@@ -64,9 +64,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All (0.957) | <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (0.000554) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="Dreaming Out Loud" width="50" /> | Come Home (0.947) | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark &amp; Wild" width="50" /> | Danger (0.000907) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Stay (0.945) | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | Out Of The Woods (0.00103) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Your Song (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="Under My Skin" width="50" /> | My Happy Ending (0.00136) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="lovely (with Khalid)" width="50" /> | lovely (with Khalid) (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights (0.00146) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="Kid Krow" width="50" /> | Maniac (0.00162) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="Lights" width="50" /> | Your Song (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.00107) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="lovely (with Khalid)" width="50" /> | lovely (with Khalid) (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="Under My Skin" width="50" /> | My Happy Ending (0.00136) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | When I Was Your Man (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights (0.00146) |
 
 ## Instrumentalness
 
@@ -81,9 +81,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | GOLDWING (0.159) | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | This Is Why We Can't Have Nice Things (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Therefore I Am (0.135) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Shut Down (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | bad guy (0.13) | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="Formula of Love: O+T=&lt;3" width="50" /> | SCIENTIST (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="This Is What You Came For" width="50" /> | This Is What You Came For (0.119) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | Winter Falls (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="Paradise" width="50" /> | Bel Air (0.0875) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.0707) | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> | React (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.128) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | Winter Falls (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="This Is What You Came For" width="50" /> | This Is What You Came For (0.119) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="Paradise" width="50" /> | Bel Air (0.0875) | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> | React (0.0) |
 
 ## Liveness
 
@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597" alt="Happiness Begins" width="50" /> | Sucker (0.952) | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat (0.0597) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="El Dorado" width="50" /> | Me Enamoré (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | I'll Show You (0.0789) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="SQUARE UP" width="50" /> | Really (0.947) | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | Skyfall (0.0789) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="Tick Tock (feat. 24kGoldn)" width="50" /> | Tick Tock (feat. 24kGoldn) (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | Dress (0.0851) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="Tick Tock (feat. 24kGoldn)" width="50" /> | Tick Tock (feat. 24kGoldn) (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.0815) |
 
 ## Tempo
 

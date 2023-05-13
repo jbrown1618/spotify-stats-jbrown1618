@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27398f9f76ab2ae4525fc4e3d7aab67616d0000b273c891137d2513ecd496e9152eab67616d0000b273d0c7c131a979c9e5436f89ceab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="Check Out Later" width="100" />
 
-[42 songs (0 liked)](tracks.md)
+[45 songs (0 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -15,19 +15,20 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 9 | 0 | [Anderson .Paak](../../artists/anderson__paak/overview.md) | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 9 | 0 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 5 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 4 | 0 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 3 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32611c63e1f3055a54d1f693" alt="" width="50" /> | 2 | 0 | NATURE | [🔗](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 2 | 0 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d17f3be38fe3d25707e840d" alt="" width="50" /> | 2 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7" alt="" width="50" /> | 2 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 2 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 2 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 1 | 0 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb219c902fd54336eb3f08fa8a" alt="" width="50" /> | 1 | 0 | Lapillus | [🔗](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb060cc13fe1a58394ee8ef701" alt="" width="50" /> | 1 | 0 | SF9 | [🔗](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) |
@@ -40,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93e2ce2a89750ea98891fe52" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb299e78573ac6393aa9079d19" alt="" width="50" /> | 1 | 0 | Thundercat | [🔗](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe2762a1d3f4254a896d67e79" alt="" width="50" /> | 1 | 0 | EPEX | [🔗](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 0 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | 1 | 0 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10ca40ea0b0b5082dba0ff75" alt="" width="50" /> | 1 | 0 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125282d15a5a1682c96c735a" alt="" width="50" /> | 1 | 0 | The Kid LAROI | [🔗](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383592a34ac38c84cfa7d35d0" alt="" width="50" /> | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
@@ -69,6 +70,7 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 9 | 0 | An Evening With Silk Sonic | 2021-11-12 | [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 7 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 3 | 0 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398f9f76ab2ae4525fc4e3d7a" alt="" width="50" /> | 1 | 0 | This Summer | 2019-09-06 | [🔗](https://open.spotify.com/album/24riCP5KVIEEaXKYvvhshe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef7163d0408b919108bc9627" alt="" width="50" /> | 1 | 0 | The Volunteers | 2021-05-27 | [🔗](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b61c26479b5bf58f237856d5" alt="" width="50" /> | 1 | 0 | THE 3rd MINI ALBUM NATURE WORLD : CODE W | 2022-11-06 | [🔗](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) |
@@ -76,14 +78,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd4eb965fa72ec926c40830d" alt="" width="50" /> | 1 | 0 | Summer Is for Falling in Love | 2020-07-31 | [🔗](https://open.spotify.com/album/1P5LIeSXzyMqjWjNtB2wG0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ad8f5243d6534e03b656c8b" alt="" width="50" /> | 1 | 0 | Starboy (Deluxe) | 2023-03-14 | [🔗](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f97f35cdb3e4a72c83847242" alt="" width="50" /> | 1 | 0 | SF9 2nd Mini Album [Breaking Sensation] | 2017-04-18 | [🔗](https://open.spotify.com/album/0g7o1z26YpnMvVI73nVlid) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 1 | 0 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 29 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 1 | 0 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | 1 | 0 | REAL+ | 2011-02-17 | [🔗](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | 1 | 0 | Prequel | 2017-07-27 | [🔗](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | 1 | 0 | October Sky | 2021-06-11 | [🔗](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) |
@@ -106,7 +108,7 @@
 </details>
 
 
-![Bar chart of top 28 albums](../../images/playlists/check_out_later/albums.png)
+![Bar chart of top 29 albums](../../images/playlists/check_out_later/albums.png)
 
 ## Top Record Labels
 
@@ -115,20 +117,21 @@
 | 9 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 9 | 0 | [Aftermath Entertainment](../../labels/aftermath_entertainment/overview.md) |
 | 7 | 0 | Craft Recordings |
+| 3 | 0 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 2 | 0 | XO |
 | 2 | 0 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 2 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | 해피페이스 엔터테인먼트 |
 | 1 | 0 | ㈜ 드림캐쳐컴퍼니 |
-| 1 | 0 | [WM Korea](../../labels/wm_korea/overview.md) |
 
 
 <details>
-<summary>See all 31 labels</summary>
+<summary>See all 32 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 0 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 0 | WM Japan |
 | 1 | 0 | Toraay Records |
 | 1 | 0 | Silver Cloud |
@@ -160,9 +163,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 20 | 0 | [pop](../../genres/pop/overview.md) |
+| 23 | 0 | [pop](../../genres/pop/overview.md) |
+| 11 | 0 | [k-pop](../../genres/k_pop/overview.md) |
 | 9 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
-| 8 | 0 | [k-pop](../../genres/k_pop/overview.md) |
 | 5 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 5 | 0 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 4 | 0 | [pop rock](../../genres/pop_rock/overview.md) |
