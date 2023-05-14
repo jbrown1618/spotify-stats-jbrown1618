@@ -74,26 +74,27 @@ Appears as:
 | 95 | 0 | early romantic era |
 | 58 | 0 | german romanticism |
 | 53 | 0 | polish classical |
-| 42 | 0 | early modern classical |
 | 42 | 0 | classical era |
 | 33 | 0 | late romantic era |
 | 26 | 0 | neoclassicism |
+| 26 | 0 | early modern classical |
 | 21 | 0 | russian modern classical |
 | 17 | 0 | russian romanticism |
 
 
 <details>
-<summary>See all 12 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 7 | 0 | post-romantic era |
 | 7 | 0 | british modern classical |
+| 1 | 0 | classical drill |
 
 </details>
 
 
-![Bar chart of top 12 genres](../../images/labels/deutsche_grammophon__dg_/genres.png)
+![Bar chart of top 13 genres](../../images/labels/deutsche_grammophon__dg_/genres.png)
 
 ## Tracks released under Deutsche Grammophon (DG)
 

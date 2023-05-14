@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[982 songs (723 liked)](tracks.md)
+[982 songs (722 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 32 | 23 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 30 | 22 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 23 | 21 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8687667bf50c6dd63a3dbab5" alt="" width="50" /> | 22 | 19 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 22 | 19 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 
 
 <details>
@@ -89,7 +89,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be8611f6c6e9174031c64df" alt="" width="50" /> | 3 | 3 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb119dd37374b6443e02508156" alt="" width="50" /> | 3 | 3 | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 3 | 3 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed480d5867f57d4bb3a285c8" alt="" width="50" /> | 3 | 3 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | 3 | 3 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
@@ -103,6 +102,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 3 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe76c66001c8d4973f992208" alt="" width="50" /> | 3 | 2 | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 3 | 2 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 3 | 2 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb9fa0e20c8f29cf7c6dac3b" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | 3 | 2 | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 3 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
@@ -273,10 +273,10 @@
 | 22 | 13 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 14 | 12 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 12 | 9 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
-| 13 | 8 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 11 | 8 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 9 | 8 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 9 | 8 | MNH ENTERTAINMENT |
+| 13 | 7 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 9 | 7 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 8 | 7 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 8 | 6 | [88rising Music](../../labels/88rising_music/overview.md) |
@@ -365,7 +365,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 858 | 631 | [k-pop](../../genres/k_pop/overview.md) |
-| 415 | 319 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 415 | 318 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 243 | 167 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 175 | 130 | [pop](../../genres/pop/overview.md) |
 | 22 | 19 | anime |

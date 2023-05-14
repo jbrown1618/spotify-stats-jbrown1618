@@ -77,12 +77,12 @@
 | 41 | 0 | classical |
 | 17 | 0 | russian romanticism |
 | 17 | 0 | late romantic era |
-| 16 | 0 | early modern classical |
 | 13 | 0 | german romanticism |
 | 13 | 0 | early romantic era |
 | 11 | 0 | post-romantic era |
 | 7 | 0 | british modern classical |
 | 3 | 0 | impressionism |
+| 1 | 0 | classical drill |
 
 ![Bar chart of top 9 genres](../../images/playlists/program_music/genres.png)
 

@@ -51,6 +51,7 @@
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="" width="50" /> | 1 | 1 | The 1st Single '행복(Happiness)' | 2014-08-01 | [🔗](https://open.spotify.com/album/6uhzbGOu7nsKxQthjMKz2N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | 1 | 1 | Be Natural - The 2nd Single | 2014-10-13 | [🔗](https://open.spotify.com/album/4OeQ9nilS4Sy3efzt0hVFi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 1 | 1 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 1 | 0 | 행복(Happiness) | 2014-08-01 | [🔗](https://open.spotify.com/album/6MMkaYzyM0aLZmDBce3nL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e2194d332ceeb0ab6018b21" alt="" width="50" /> | 1 | 0 | 세가지 소원 Wish Tree - WINTER GARDEN | 2015-12-18 | [🔗](https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ff5d88a4453ce83682ab209" alt="" width="50" /> | 1 | 0 | Our Beloved BoA #4 - SM STATION | 2020-08-21 | [🔗](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739acd884a943f3630236a5ca3" alt="" width="50" /> | 1 | 0 | #Cookie Jar | 2018-07-04 | [🔗](https://open.spotify.com/album/4W6K0DP1YlZ48JlvdKCkZh) |
@@ -62,7 +63,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 60 | 47 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 61 | 47 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 1 | avex trax |
 
 ## Genres
@@ -75,6 +76,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="" width="50" /> | 행복 (Happiness) | The 1st Single '행복(Happiness)' | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 행복 (Happiness) | 행복(Happiness) | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/6XP9L7di5JnOc9WaeAW8oe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | Be Natural | Be Natural - The 2nd Single | [Red Velvet](overview.md), TAEYONG | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Automatic | Ice Cream Cake - The 1st Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/76DhGlPaJ112MHVs1PJMyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake | Ice Cream Cake - The 1st Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5vCuawHQ8Poch1odz9JDpB) |
@@ -83,7 +85,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Time Slip | The Red - The 1st Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7q2qLI13TejYkBr4A5ZhEJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e2194d332ceeb0ab6018b21" alt="" width="50" /> | 세가지 소원 Wish Tree | 세가지 소원 Wish Tree - WINTER GARDEN | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 7월 7일 One Of These Nights | The Velvet - The 2nd Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6koMMQlsRWBwHZXdtWxgUk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Bad Dracula | Russian Roulette - The 3rd Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4z5aqQOYYsvjXuXjjhKVJ2) |
 
 
 <details>
@@ -91,6 +92,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Bad Dracula | Russian Roulette - The 3rd Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4z5aqQOYYsvjXuXjjhKVJ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Fool | Russian Roulette - The 3rd Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/21C7B7PWYDW00czamOjleO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Lucky Girl | Russian Roulette - The 3rd Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/22v5j98MRwc6p5KgwHvpBZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 러시안 룰렛 Russian Roulette | Russian Roulette - The 3rd Mini Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) |

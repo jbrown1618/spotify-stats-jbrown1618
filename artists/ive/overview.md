@@ -19,7 +19,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 3 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 6 | 3 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="" width="50" /> | 1 | 1 | WAVE | 2023-05-09 | [🔗](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
@@ -30,7 +30,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 10 | 6 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
+| 11 | 6 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 1 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 
 ## Genres
@@ -51,7 +51,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Kitsch | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | | [🔗](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | NOT YOUR GIRL | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | | [🔗](https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj) |
 
 
 <details>
@@ -59,6 +59,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="" width="50" /> | WAVE | WAVE | [IVE](overview.md) | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) |
 
 </details>

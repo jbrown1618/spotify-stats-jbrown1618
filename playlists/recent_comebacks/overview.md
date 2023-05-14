@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Recent Comebacks" width="100" />
 
-[92 songs (78 liked)](tracks.md)
+[91 songs (77 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -30,7 +30,6 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 3 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 2 | 2 | BoA | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 2 | 2 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb9fa0e20c8f29cf7c6dac3b" alt="" width="50" /> | 2 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | 2 | 2 | MAMAMOO+ | [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 2 | 2 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -55,6 +54,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f9c07e4400cac6892c9739a" alt="" width="50" /> | 1 | 1 | YESUNG | [🔗](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 1 | 1 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 1 | 1 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | En Butter | [🔗](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) |
@@ -105,7 +105,6 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | 3 | 1 | Down to Earth | 2023-04-25 | [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 3 | 1 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | 2 | 2 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 2 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | 2 | 2 | ACT 1, SCENE 1 | 2023-03-29 | [🔗](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2 | 2 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
@@ -115,6 +114,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="" width="50" /> | 1 | 1 | WAVE | 2023-05-09 | [🔗](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | 1 | 1 | VingleVingle | 2023-04-05 | [🔗](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | 1 | 1 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | 1 | 1 | The 3rd Mini Album 'VarioUS' | 2023-01-31 | [🔗](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | 1 | 1 | Teddy Bear | 2023-02-14 | [🔗](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | 1 | 1 | SPIN OFF : FROM THE WITNESS | 2022-12-30 | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
@@ -170,12 +170,12 @@
 | 4 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 3 | 2 | ADOR |
 | 3 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
-| 2 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 3 | 1 | THEBLACKLABEL |
 | 3 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 2 | 1 | TEAM WANG records |
 | 1 | 1 | 우조엔터테인먼트 |
 | 1 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 1 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 1 | SWING ENTERTAINMENT |
@@ -197,7 +197,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 74 | 63 | [k-pop](../../genres/k_pop/overview.md) |
-| 40 | 35 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 39 | 34 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 10 | 9 | [pop](../../genres/pop/overview.md) |
 | 10 | 8 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -214,7 +214,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 73 |
+| [2023](2023.md) | 72 |
 | 2022 | 19 |
 
 </details>

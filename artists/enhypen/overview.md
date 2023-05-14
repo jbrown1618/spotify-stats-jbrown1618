@@ -2,7 +2,7 @@
 # ENHYPEN
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb8687667bf50c6dd63a3dbab5" alt="ENHYPEN" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="ENHYPEN" width="100" />
 
 [See Audio Features](audio_features.md)
 

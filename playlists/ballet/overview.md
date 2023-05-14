@@ -73,13 +73,14 @@
 | 138 | 0 | classical |
 | 94 | 0 | late romantic era |
 | 55 | 0 | russian romanticism |
+| 55 | 0 | classical drill |
 | 44 | 0 | neoclassicism |
 | 44 | 0 | early modern classical |
 | 39 | 0 | russian modern classical |
 | 39 | 0 | french romanticism |
 | 39 | 0 | french opera |
 
-![Bar chart of top 8 genres](../../images/playlists/ballet/genres.png)
+![Bar chart of top 9 genres](../../images/playlists/ballet/genres.png)
 
 ## Years
 

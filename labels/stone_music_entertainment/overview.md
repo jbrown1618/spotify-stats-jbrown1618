@@ -55,7 +55,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32611c63e1f3055a54d1f693" alt="" width="50" /> | 2 | 0 | NATURE | [🔗](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | 1 | 0 | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8687667bf50c6dd63a3dbab5" alt="" width="50" /> | 1 | 0 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 1 | 0 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58590979d60df6fb6d6a837" alt="" width="50" /> | 1 | 0 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | 1 | 0 | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |

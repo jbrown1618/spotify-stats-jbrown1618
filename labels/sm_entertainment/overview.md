@@ -1,11 +1,11 @@
 # SM Entertainment
 
-255 songs
+256 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- SM Entertainment (253 tracks)
+- SM Entertainment (254 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 60 | 47 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 61 | 47 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 29 | 17 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 10 | 9 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
@@ -215,8 +215,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 251 | 173 | [k-pop](../../genres/k_pop/overview.md) |
-| 93 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 252 | 173 | [k-pop](../../genres/k_pop/overview.md) |
+| 94 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 60 | 37 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | korean pop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -353,6 +353,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball) | Universe (Let's Play Ball) | NCT U | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27306e3965d1fcfc15fca941989" alt="" width="50" /> | DICE | DICE - The 2nd Mini Album | ONEW | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) |
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="" width="50" /> | 행복 (Happiness) | The 1st Single '행복(Happiness)' | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 행복 (Happiness) | 행복(Happiness) | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/6XP9L7di5JnOc9WaeAW8oe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | Be Natural | Be Natural - The 2nd Single | [Red Velvet](../../artists/red_velvet/overview.md), TAEYONG | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Automatic | Ice Cream Cake - The 1st Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/76DhGlPaJ112MHVs1PJMyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake | Ice Cream Cake - The 1st Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5vCuawHQ8Poch1odz9JDpB) |

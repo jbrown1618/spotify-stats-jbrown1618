@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1527 songs](tracks.md)
+[1526 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -28,7 +28,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 22 | 22 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 21 | 21 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 21 | 21 | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8687667bf50c6dd63a3dbab5" alt="" width="50" /> | 19 | 19 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 19 | 19 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 19 | 19 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 18 | 18 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 16 | 16 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -287,8 +287,8 @@
 | 12 | 12 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 11 | 11 | [Darkroom](../../labels/darkroom/overview.md) |
 | 10 | 10 | [Syco Music](../../labels/syco_music/overview.md) |
-| 9 | 9 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 9 | 9 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
+| 8 | 8 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 8 | 8 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 8 | 8 | The Unc - Chapel Hill Tarpeggios |
 | 8 | 8 | Monkey Puzzle Records |
@@ -363,7 +363,7 @@
 |---:|---:|:---|
 | 693 | 693 | [k-pop](../../genres/k_pop/overview.md) |
 | 383 | 383 | [pop](../../genres/pop/overview.md) |
-| 321 | 321 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 320 | 320 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 171 | 171 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 126 | 126 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -482,7 +482,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 71 |
+| [2023](2023.md) | 70 |
 | [2022](2022.md) | 239 |
 | [2021](2021.md) | 181 |
 | [2020](2020.md) | 133 |

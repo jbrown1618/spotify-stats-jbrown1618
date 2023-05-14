@@ -11,11 +11,11 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 2 | 2 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb70b010582faadbcec8b6774c" alt="" width="50" /> | 3 | 1 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 3 | 1 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 2 | 1 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe069abe9362512bec11f5e13" alt="" width="50" /> | 2 | 1 | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 2 | 1 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 2 | 1 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 1 | 1 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | 1 | 1 | JAMIE | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
@@ -41,7 +41,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | 2 | 2 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | 2 | 1 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | 2 | 1 | Summer Special [Flip That] | 2022-06-20 | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | 2 | 0 | HELLO Chapter 1: Hello, Stranger | 2019-07-23 | [🔗](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273974662e5de6399232ea61a8d" alt="" width="50" /> | 1 | 1 | WHEE | 2022-01-16 | [🔗](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) |
@@ -75,7 +75,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 12 | 6 | [k-pop](../../genres/k_pop/overview.md) |
-| 4 | 3 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 4 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 4 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | korean ost |
 | 2 | 0 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -95,7 +95,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | What You Wanted | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | | [🔗](https://open.spotify.com/track/76dpiZihYVl5VbiHNjVj5l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="" width="50" /> | Jungle | HELLO Chapter 3: Hello, Strange Time | CIX | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="" width="50" /> | NANANA | GOT7 | GOT7 | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) |
 
 
