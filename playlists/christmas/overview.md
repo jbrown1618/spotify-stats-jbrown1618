@@ -246,7 +246,7 @@
 | 2 | 0 | Def Jam |
 | 2 | 0 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 2 | 0 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
-| 1 | 0 | avex trax |
+| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 0 | WaterTower Music |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |

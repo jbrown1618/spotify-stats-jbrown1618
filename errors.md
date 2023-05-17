@@ -10,10 +10,10 @@
 | Love's Train [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | 67 | 2022-02-14 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | Love's Train [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 60 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Feel Ghood Music/88risingMusic | 💚 |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 71 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 71 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 70 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 70 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 91 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 66 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 72 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 77 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 70 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 66 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 73 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 77 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 69 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 90 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 82 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
@@ -29,7 +29,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 82 | 2021-11-11 | Aftermath Entertainment/Atlantic | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 75 | 2021-11-12 | Aftermath Entertainment/Atlantic | 777 [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ),<br>After Last Night (with Thundercat & Bootsy Collins) [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ),<br>Blast Off [🔗](https://open.spotify.com/track/2NqyjfDXy0XfXCSPXMsKzi),<br>Fly As Me [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W),<br>Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl),<br>Love's Train [🔗](https://open.spotify.com/track/2ALh2jqA7KldpHMUHvRomw),<br>Put On A Smile [🔗](https://open.spotify.com/track/5lka5RUbLVQGO94mKAPMRO),<br>Silk Sonic Intro [🔗](https://open.spotify.com/track/4K09vJ27xCOreumtSuU6Ao),<br>Skate [🔗](https://open.spotify.com/track/3WTWh2WDk4j8GUCGj4xfOd),<br>Smokin Out The Window [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 71 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
+| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 70 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 91 | 2023-02-24 | WM Korea | Cupid - Twin Ver. [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7),<br>Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -43,7 +43,7 @@
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
 | We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 28 |
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 32 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 31 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
@@ -263,23 +263,29 @@
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
-| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
-| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 56 |
+| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
+| Paradise | I feel | (G)I-DLE | 0 | 0 | 73 |
+| All Night | I feel | (G)I-DLE | 0 | 0 | 73 |
+| Allergy | I feel | (G)I-DLE | 0 | 0 | 73 |
+| Peter Pan | I feel | (G)I-DLE | 0 | 0 | 73 |
+| Lucid | I feel | (G)I-DLE | 0 | 0 | 73 |
+| Queencard | I feel | (G)I-DLE | 0 | 0 | 73 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
-| Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 35 |
+| Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 34 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | The Fox | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
@@ -307,11 +313,11 @@
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 54 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 32 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 31 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
-| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 35 |
+| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 34 |
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
@@ -323,7 +329,7 @@
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 53 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
-| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 35 |
+| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 34 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 40 |
 | The Prayer | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
@@ -332,36 +338,33 @@
 | Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 51 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 69 |
-| The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 35 |
+| The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 34 |
 | The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 51 |
-| Carey | Blue | Joni Mitchell | 0 | 1 | 55 |
-| Blue | Blue | Joni Mitchell | 0 | 1 | 55 |
-| A Case of You | Blue | Joni Mitchell | 1 | 1 | 55 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 34 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 46 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
-| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
+| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 53 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 61 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 61 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 37 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 39 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 32 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 32 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 32 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 31 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 31 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 31 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 78 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 58 |
@@ -373,22 +376,22 @@
 | Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
 | Don't Stop Believin' | BOCA 2008: Best Of College A Cappella | The Clef Hangers | 0 | 0 | 25 |
-| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
+| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 40 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 51 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 32 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 32 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 31 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 31 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 49 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 90 |
-| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 33 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 32 |
+| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | ICY | IT'z ICY | ITZY | 1 | 0 | 72 |
 | Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
@@ -412,24 +415,24 @@
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 2 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 2 | 64 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 2 | 65 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 28 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 82 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
-| Rollin' | Rollin' | Brave Girls | 1 | 0 | 51 |
+| Rollin' | Rollin' | Brave Girls | 2 | 0 | 51 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 43 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
-| Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
+| Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 77 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Some Nights | The Mallard | The Clef Hangers | 0 | 0 | 25 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 27 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 54 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 1 | 74 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 1 | 75 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 0 | 74 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 0 | 75 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 54 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 42 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 41 |

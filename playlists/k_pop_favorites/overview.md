@@ -278,7 +278,7 @@
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 1 | 1 | 드림캐쳐컴퍼니 |
 | 1 | 1 | 더라이브레이블 |
-| 1 | 1 | avex trax |
+| 1 | 1 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 1 | YUEHUA ENTERTAINMENT KOREA |
 | 1 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 1 | WM Japan |
