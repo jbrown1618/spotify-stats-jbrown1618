@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Recent Comebacks" width="100" />
 
-[94 songs (78 liked)](tracks.md)
+[97 songs (79 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 61 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -57,6 +57,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 1 | 1 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="nan" alt="" width="50" /> | 1 | 1 | MIJOO | [🔗](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | En Butter | [🔗](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed480d5867f57d4bb3a285c8" alt="" width="50" /> | 1 | 1 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
@@ -72,6 +73,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 2 | 0 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | 1 | 0 | BOYS PLANET | [🔗](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) |
@@ -102,7 +104,7 @@
 
 
 <details>
-<summary>See all 49 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -114,6 +116,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | 2 | 1 | FACE | 2023-03-24 | [🔗](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | 2 | 0 | SEVENTEEN 10th Mini Album 'FML' | 2023-04-24 | [🔗](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | 2 | 0 | Masquerade | 2023-05-15 | [🔗](https://open.spotify.com/album/65eQsZ1Wq51wjJk2DNH4nm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="" width="50" /> | 1 | 1 | WAVE | 2023-05-09 | [🔗](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | 1 | 1 | VingleVingle | 2023-04-05 | [🔗](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) |
@@ -127,6 +130,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | 1 | 1 | POPPY (Japanese Ver.) | 2022-11-16 | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="" width="50" /> | 1 | 1 | Over The Moon | 2023-04-12 | [🔗](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | 1 | 1 | NewJeans 'OMG' | 2023-01-02 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="" width="50" /> | 1 | 1 | Movie Star | 2023-05-17 | [🔗](https://open.spotify.com/album/5JaoZz8TeXaVHXamr7H2GB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="" width="50" /> | 1 | 1 | Macarena | 2023-04-24 | [🔗](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | 1 | 1 | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | 1 | 1 | Lowlife Princess: Noir | 2022-11-18 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
@@ -162,13 +166,13 @@
 | 6 | 4 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 4 | 4 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
-| 6 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 8 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 3 | 3 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 
 
 <details>
-<summary>See all 31 labels</summary>
+<summary>See all 32 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -191,6 +195,7 @@
 | 1 | 1 | HYBE LABELS JAPAN |
 | 1 | 1 | Feel Ghood Music |
 | 1 | 1 | BIGPLANETMADE |
+| 1 | 1 | Antenna |
 | 1 | 1 | ALLART ENTERTAINMENT |
 | 1 | 0 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 
@@ -221,7 +226,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 75 |
+| [2023](2023.md) | 78 |
 | 2022 | 19 |
 
 </details>
@@ -231,13 +236,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> | POPPY (Japanese Ver.) (2022-11-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="Shh" width="50" /> | Shh (2023-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Lowlife Princess: Noir (2022-11-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="WAVE" width="50" /> | WAVE (2023-05-09) | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> | Forgive Me - The 3rd Mini Album (2022-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ (2022-11-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | First Howling : ME (2022-12-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy - Winter Special Mini Album (2022-12-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="SEVENTEEN 10th Mini Album &#x27;FML&#x27;" width="50" /> | SEVENTEEN 10th Mini Album 'FML' (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | Ditto (2022-12-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> | POPPY (Japanese Ver.) (2022-11-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Lowlife Princess: Noir (2022-11-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="Masquerade" width="50" /> | Masquerade (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> | Forgive Me - The 3rd Mini Album (2022-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="Shh" width="50" /> | Shh (2023-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | ‘The ReVe Festival 2022 - Birthday’ (2022-11-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="WAVE" width="50" /> | WAVE (2023-05-09) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | First Howling : ME (2022-12-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy - Winter Special Mini Album (2022-12-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | Ditto (2022-12-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="Cheetah" width="50" /> | Cheetah (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | SKZ-REPLAY (2022-12-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="BOYS PLANET - FINAL TOP9 BATTLE" width="50" /> | BOYS PLANET - FINAL TOP9 BATTLE (2023-04-21) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE (2022-12-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="SEVENTEEN 10th Mini Album &#x27;FML&#x27;" width="50" /> | SEVENTEEN 10th Mini Album 'FML' (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE (2022-12-26) |

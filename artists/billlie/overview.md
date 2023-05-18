@@ -15,7 +15,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b2731e998666727247d231c75cf8ab67616d0000b2737c0618723e2fca9e617eec34ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |

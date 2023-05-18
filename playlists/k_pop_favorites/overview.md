@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[225 songs](tracks.md)
+[226 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 9 | 9 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 8 | 8 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 8 | 8 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 7 | 7 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 8 | 8 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 6 | 6 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 
 
@@ -245,8 +245,8 @@
 | 20 | 20 | [Republic Records](../../labels/republic_records/overview.md) |
 | 19 | 19 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 12 | 12 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 9 | 9 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 9 | 9 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
-| 8 | 8 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 8 | 8 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 8 | 8 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 7 | 7 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
@@ -310,8 +310,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 207 | 207 | [k-pop](../../genres/k_pop/overview.md) |
-| 95 | 95 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 208 | 208 | [k-pop](../../genres/k_pop/overview.md) |
+| 96 | 96 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 49 | 49 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 38 | 38 | [pop](../../genres/pop/overview.md) |
 | 9 | 9 | anime |
@@ -346,7 +346,7 @@
 |:---|---:|
 | 2023 | 13 |
 | [2022](2022.md) | 65 |
-| [2021](2021.md) | 51 |
+| [2021](2021.md) | 52 |
 | [2020](2020.md) | 32 |
 | 2019 | 15 |
 | 2018 | 10 |

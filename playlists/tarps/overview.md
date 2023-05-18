@@ -69,7 +69,7 @@
 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a" alt="" width="50" /> | 1 | 0 | TLC | [🔗](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6c6380e782ed89db8754cf2a" alt="" width="50" /> | 1 | 0 | ABBA | [🔗](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b" alt="" width="50" /> | 1 | 0 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 1 | 0 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 
 </details>
 

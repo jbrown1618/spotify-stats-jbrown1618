@@ -11,7 +11,7 @@
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 13 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 13 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b2731e998666727247d231c75cf8ab67616d0000b2737c0618723e2fca9e617eec34ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 4 | [Halloween](../../playlists/halloween/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 4 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
 ## Top Albums
 

@@ -1,11 +1,11 @@
 # BIGHIT MUSIC
 
-49 songs
+51 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- BIGHIT MUSIC (38 tracks)
+- BIGHIT MUSIC (40 tracks)
 - BIGHIT MUSIC / HYBE (11 tracks)
 
 ## Top Artists
@@ -21,20 +21,21 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | 1 | 0 | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 12 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | 1 | 0 | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 
 </details>
 
 
-![Bar chart of top 11 artists](../../images/labels/bighit_music/artists.png)
+![Bar chart of top 12 artists](../../images/labels/bighit_music/artists.png)
 
 ## Top Albums
 
@@ -53,12 +54,13 @@ Appears as:
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 2 | 1 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | 2 | 1 | FACE | 2023-03-24 | [🔗](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | 2 | 0 | Masquerade | 2023-05-15 | [🔗](https://open.spotify.com/album/65eQsZ1Wq51wjJk2DNH4nm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | 2 | 0 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 | 0 | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
@@ -74,7 +76,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 23 albums](../../images/labels/bighit_music/albums.png)
+![Bar chart of top 24 albums](../../images/labels/bighit_music/albums.png)
 
 ## Genres
 
@@ -147,6 +149,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | on the street (with J. Cole) | on the street (with J. Cole) | j-hope, J. Cole | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Like Crazy | FACE | Jimin | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Set Me Free Pt.2 | FACE | Jimin | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (English Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/3Fqa3X4hbk54twe1ccbt1l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (Korean Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/5PZA7uiIdIvRMTPftv0LF9) |
 
 </details>
 

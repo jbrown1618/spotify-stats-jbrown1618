@@ -12,7 +12,7 @@
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Feel Ghood Music/88risingMusic | 💚 |
 | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 70 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 70 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 91 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 66 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 73 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 67 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 73 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 77 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 69 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
@@ -33,7 +33,7 @@
 | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 91 | 2023-02-24 | WM Korea | Cupid - Twin Ver. [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7),<br>Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 57 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 42 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 97 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 87 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
@@ -263,27 +263,21 @@
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
-| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 2 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
-| Paradise | I feel | (G)I-DLE | 0 | 0 | 73 |
-| All Night | I feel | (G)I-DLE | 0 | 0 | 73 |
-| Allergy | I feel | (G)I-DLE | 0 | 0 | 73 |
-| Peter Pan | I feel | (G)I-DLE | 0 | 0 | 73 |
-| Lucid | I feel | (G)I-DLE | 0 | 0 | 73 |
-| Queencard | I feel | (G)I-DLE | 0 | 0 | 73 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 34 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
@@ -321,7 +315,7 @@
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
-| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
+| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 31 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Into The West | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
 | Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 51 |
@@ -349,7 +343,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 53 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 54 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 61 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 58 |
@@ -393,7 +387,7 @@
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 72 |
-| ICY | IT'z ICY | ITZY | 1 | 0 | 72 |
+| ICY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 40 |
 | Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
@@ -403,7 +397,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Butter | Butter | BTS | 1 | 0 | 90 |
+| Butter | Butter | BTS | 2 | 0 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
@@ -429,7 +423,7 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Some Nights | The Mallard | The Clef Hangers | 0 | 0 | 25 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 27 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 54 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 0 | 74 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 0 | 75 |
@@ -444,8 +438,8 @@
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 63 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 75 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 75 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |
