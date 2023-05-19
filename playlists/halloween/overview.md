@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="Halloween" width="100" />
 
-[44 songs (41 liked)](tracks.md)
+[46 songs (41 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -11,7 +11,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 6 | 6 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="" width="50" /> | 7 | 6 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 5 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 4 | 4 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -38,11 +38,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 1 | 1 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 0 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 0 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 
 </details>
 
 
-![Bar chart of top 20 artists](../../images/playlists/halloween/artists.png)
+![Bar chart of top 21 artists](../../images/playlists/halloween/artists.png)
 
 ![Comparison of Artist](../../images/playlists/halloween/artists_comparison.png)
 
@@ -63,7 +64,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -90,6 +91,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="" width="50" /> | 1 | 1 | Bizarre Story | 2022-10-24 | [🔗](https://open.spotify.com/album/2a63YUr9pcvyfxxNKtw5HO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | 1 | 1 | BORDER : DAY ONE | 2020-11-30 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | 1 | 1 | Alice in Wonderland | 2021-06-21 | [🔗](https://open.spotify.com/album/0KFsCn3mxiaKMpobo3BRQM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | 1 | 0 | REAL+ | 2011-02-17 | [🔗](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | 1 | 0 | Prequel | 2017-07-27 | [🔗](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aba639e25dba667386fdd345" alt="" width="50" /> | 1 | 0 | Fantasy | 2019-08-05 | [🔗](https://open.spotify.com/album/5Z9TjiRFMhU5pbUvZJIXTB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c94f5c73ef1118837aafea7" alt="" width="50" /> | 1 | 0 | Animal Farm | 2022-09-27 | [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) |
 
@@ -115,7 +118,7 @@
 
 
 <details>
-<summary>See all 23 labels</summary>
+<summary>See all 25 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -131,20 +134,22 @@
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 1 | 1 | APOP Entertainment |
+| 1 | 0 | 해피페이스 엔터테인먼트 |
+| 1 | 0 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 1 | 0 | [88rising Music](../../labels/88rising_music/overview.md) |
 
 </details>
 
 
-![Bar chart of top 23 record labels](../../images/playlists/halloween/labels.png)
+![Bar chart of top 25 record labels](../../images/playlists/halloween/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 30 | 29 | [k-pop](../../genres/k_pop/overview.md) |
-| 27 | 25 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 6 | 6 | [pop](../../genres/pop/overview.md) |
+| 32 | 29 | [k-pop](../../genres/k_pop/overview.md) |
+| 28 | 25 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 7 | 6 | [pop](../../genres/pop/overview.md) |
 | 5 | 5 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 4 | electropop |
 | 4 | 4 | [art pop](../../genres/art_pop/overview.md) |
@@ -163,12 +168,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | Bizarre Story (2022-10-24) | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | Pink Tape - The 2nd Album (2013-07-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="Hawwah" width="50" /> | Hawwah (2015-03-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | 28 Reasons - The 1st Mini Album (2022-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | DEVIL - SUPER JUNIOR SPECIAL ALBUM (2015-07-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c94f5c73ef1118837aafea7" alt="Animal Farm" width="50" /> | Animal Farm (2022-09-27) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="FOREVER 1 - The 7th Album" width="50" /> | FOREVER 1 - The 7th Album (2022-08-05) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | CRYSTYLE (2017-01-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="REBORN" width="50" /> | REBORN (2022-06-15) | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="Perfect Velvet - The 2nd Album" width="50" /> | Perfect Velvet - The 2nd Album (2017-11-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | ODDINARY (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB - The 5th Mini Album (2018-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | I NEVER DIE (2022-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? (2019-03-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="Devil - The 2nd Mini Album" width="50" /> | Devil - The 2nd Mini Album (2022-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b273aba639e25dba667386fdd345" alt="Fantasy" width="50" /> | Fantasy (2019-08-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | Bizarre Story (2022-10-24) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | REAL+ (2011-02-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | Pink Tape - The 2nd Album (2013-07-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | 28 Reasons - The 1st Mini Album (2022-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="Hawwah" width="50" /> | Hawwah (2015-03-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c94f5c73ef1118837aafea7" alt="Animal Farm" width="50" /> | Animal Farm (2022-09-27) | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | DEVIL - SUPER JUNIOR SPECIAL ALBUM (2015-07-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="FOREVER 1 - The 7th Album" width="50" /> | FOREVER 1 - The 7th Album (2022-08-05) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="REBORN" width="50" /> | REBORN (2022-06-15) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | CRYSTYLE (2017-01-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | ODDINARY (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="Prequel" width="50" /> | Prequel (2017-07-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | I NEVER DIE (2022-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="Perfect Velvet - The 2nd Album" width="50" /> | Perfect Velvet - The 2nd Album (2017-11-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="Devil - The 2nd Mini Album" width="50" /> | Devil - The 2nd Mini Album (2022-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB - The 5th Mini Album (2018-11-30) |

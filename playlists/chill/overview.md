@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[213 songs (178 liked)](tracks.md)
+[214 songs (178 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -114,7 +114,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb178f1c6aa9751667cef51db3" alt="" width="50" /> | 1 | 1 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
@@ -288,13 +288,14 @@
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 2 | 1 | FNC인베스트먼트 |
+| 2 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 1 | CJ E&M MUSIC |
 | 2 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | 스튜디오앤뉴 |
 | 1 | 1 | 뮤직앤뉴 |
 | 1 | 1 | under exclusive license to Interscope Records |
 | 1 | 1 | msmedia |
-| 1 | 1 | [avex trax](../../labels/avex_trax/overview.md) |
+| 1 | 1 | avex trax |
 | 1 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 1 | 1 | UMGRI Interscope |
 | 1 | 1 | Transparent Arts |
@@ -323,7 +324,6 @@
 | 1 | 1 | DCTOM |
 | 1 | 1 | Colour Vision Records |
 | 1 | 1 | ChoongangICS |
-| 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | CRAFT AND JUN |
 | 1 | 1 | C9 Entertainment |
 | 1 | 1 | Atlantic Records UK |
@@ -338,7 +338,7 @@
 | 1 | 0 | Today's Playlist |
 | 1 | 0 | THEBLACKLABEL |
 | 1 | 0 | [HYBE](../../labels/hybe/overview.md) |
-| 1 | 0 | [Aftermath Entertainment](../../labels/aftermath_entertainment/overview.md) |
+| 1 | 0 | Aftermath Entertainment |
 | 1 | 0 | ATTRAKT |
 
 </details>
@@ -351,7 +351,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 131 | 105 | [k-pop](../../genres/k_pop/overview.md) |
-| 45 | 38 | [pop](../../genres/pop/overview.md) |
+| 46 | 38 | [pop](../../genres/pop/overview.md) |
 | 40 | 31 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 27 | 23 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 18 | 12 | korean pop |
@@ -375,9 +375,9 @@
 | 3 | 3 | neo soul |
 | 3 | 3 | [lilith](../../genres/lilith/overview.md) |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 3 | 2 | uk pop |
 | 3 | 2 | korean city pop |
 | 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
-| 2 | 2 | uk pop |
 | 2 | 2 | soul |
 | 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | k-indie |
@@ -434,7 +434,7 @@
 | 2023 | 10 |
 | [2022](2022.md) | 48 |
 | [2021](2021.md) | 35 |
-| [2020](2020.md) | 29 |
+| [2020](2020.md) | 30 |
 | [2019](2019.md) | 21 |
 | 2018 | 13 |
 | [2017](2017.md) | 20 |

@@ -1,12 +1,12 @@
 # Atlantic Records
 
-54 songs
+51 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
 - Atlantic Records (33 tracks)
-- Aftermath Entertainment/Atlantic (12 tracks)
+- Aftermath Entertainment/Atlantic (9 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
 - Nice Life/Atlantic (2 tracks)
@@ -18,7 +18,9 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 21 | 9 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 18 | 11 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 9 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 9 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 8 | 3 | Original Broadway Cast of Hamilton | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb35dba51746ae3ebb2d8958b" alt="" width="50" /> | 7 | 3 | Leslie Odom Jr. | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
@@ -26,8 +28,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 2 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
-| <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 12 | 1 | [Silk Sonic](../../artists/silk_sonic/overview.md) | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 12 | 1 | [Anderson .Paak](../../artists/anderson__paak/overview.md) | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 
 
 <details>
@@ -81,7 +81,7 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 10 | 3 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 10 | 1 | An Evening With Silk Sonic | 2021-11-12 | [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 7 | 3 | An Evening With Silk Sonic | 2021-11-12 | [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 3 | 2 | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
@@ -126,8 +126,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 31 | 18 | [pop](../../genres/pop/overview.md) |
-| 23 | 11 | [dance pop](../../genres/dance_pop/overview.md) |
+| 28 | 20 | [pop](../../genres/pop/overview.md) |
+| 20 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | show tunes |
 | 8 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 4 | 2 | [rap](../../genres/rap/overview.md) |
@@ -209,18 +209,15 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 777 | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | After Last Night (with Thundercat & Bootsy Collins) | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md), Thundercat, Bootsy Collins | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Blast Off | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2NqyjfDXy0XfXCSPXMsKzi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Fly As Me | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Love's Train | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2ALh2jqA7KldpHMUHvRomw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Put On A Smile | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/5lka5RUbLVQGO94mKAPMRO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Silk Sonic Intro | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/4K09vJ27xCOreumtSuU6Ao) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Skate | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/3WTWh2WDk4j8GUCGj4xfOd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Smokin Out The Window | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | Love's Train | [Bruno Mars](../../artists/bruno_mars/overview.md), [Anderson .Paak](../../artists/anderson__paak/overview.md), [Silk Sonic](../../artists/silk_sonic/overview.md) | [Aftermath Entertainment](../aftermath_entertainment), [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | | [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | 777 | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | | [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | After Last Night (with Thundercat & Bootsy Collins) | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins | [Aftermath Entertainment/Atlantic](.) | | [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Fly As Me | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | 💚 | [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | 💚 | [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Love's Train | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | | [🔗](https://open.spotify.com/track/2ALh2jqA7KldpHMUHvRomw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Skate | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | | [🔗](https://open.spotify.com/track/3WTWh2WDk4j8GUCGj4xfOd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc" alt="" width="50" /> | Smokin Out The Window | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | 💚 | [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | Love's Train | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | | [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic/KSR](.) | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion) | WAP (feat. Megan Thee Stallion) | Cardi B, Megan Thee Stallion | [Atlantic/KSR](.) | 💚 | [🔗](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |

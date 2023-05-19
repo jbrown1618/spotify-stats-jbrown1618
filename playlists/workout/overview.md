@@ -316,7 +316,7 @@
 | 1 | 1 | American Recordings Catalog P&D |
 | 1 | 1 | ATL |
 | 1 | 1 | ADOR |
-| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
+| 1 | 0 | avex trax |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | J Records |
 
