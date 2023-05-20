@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[269 songs](tracks.md)
+[268 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -53,11 +53,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a91656db6afb7a3dd398f22" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 3 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a15a465fa723c01518e1c21" alt="" width="50" /> | 2 | 0 | Ciipher | [🔗](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 1 | 0 | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | 1 | 0 | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb080109ba641204f8c80d2b5e" alt="" width="50" /> | 1 | 0 | Beast | [🔗](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a15a465fa723c01518e1c21" alt="" width="50" /> | 1 | 0 | Ciipher | [🔗](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | KINGDOM | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
 
 </details>
@@ -221,7 +221,7 @@
 | 1 | 1 | JELLYFISH ENTERTAINMENT |
 | 1 | 1 | Imperial Distribution |
 | 1 | 1 | CJ E&M MUSIC |
-| 2 | 0 | RAIN COMPANY Co. |
+| 1 | 0 | RAIN COMPANY Co. |
 | 1 | 0 | Klap |
 | 1 | 0 | IST ENTERTAINMENT |
 | 1 | 0 | Fantagio |

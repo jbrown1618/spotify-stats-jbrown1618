@@ -5,21 +5,19 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | 83 | 2021-11-11 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 82 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | Aftermath Entertainment/Atlantic | |
-| Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 71 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
-| Love's Train [🔗](https://open.spotify.com/track/2ALh2jqA7KldpHMUHvRomw) | 61 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Aftermath Entertainment/Atlantic | |
+| Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 72 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
+| Love's Train [🔗](https://open.spotify.com/track/2ALh2jqA7KldpHMUHvRomw) | 62 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Aftermath Entertainment/Atlantic | |
 | Love's Train [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | 68 | 2022-02-14 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | Love's Train [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 60 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Feel Ghood Music/88risingMusic | 💚 |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 70 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 69 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 69 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 69 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 67 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 73 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 77 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 69 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 76 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 69 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 90 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 82 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
 | Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 72 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 85 | | ADOR | |
-| 행복 (Happiness) [🔗](https://open.spotify.com/track/6XP9L7di5JnOc9WaeAW8oe) | 57 | 2014-08-01 | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | 행복(Happiness) [🔗](https://open.spotify.com/album/6MMkaYzyM0aLZmDBce3nL6) | 49 | | SM Entertainment | |
-| 행복 (Happiness) [🔗](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) | 0 | 2014-08-01 | Red Velvet [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | The 1st Single '행복(Happiness)' [🔗](https://open.spotify.com/album/6uhzbGOu7nsKxQthjMKz2N) | 0 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | SM Entertainment | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 87 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 92 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 97 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 
@@ -340,10 +338,10 @@
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 46 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 54 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 55 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 61 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 58 |
@@ -354,7 +352,7 @@
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 37 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 39 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 38 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
 | Elastic Heart | RISE | The Nor'easters | 0 | 0 | 31 |
 | Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 31 |
@@ -387,7 +385,7 @@
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 72 |
-| ICY | IT'z ICY | ITZY | 1 | 0 | 72 |
+| ICY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 40 |
 | Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 51 |
@@ -397,7 +395,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Butter | Butter | BTS | 2 | 0 | 90 |
+| Butter | Butter | BTS | 2 | 1 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
@@ -416,14 +414,14 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Rollin' | Rollin' | Brave Girls | 2 | 0 | 51 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 42 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Some Nights | The Mallard | The Clef Hangers | 0 | 0 | 25 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 27 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 54 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 55 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 2 | 0 | 74 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 2 | 0 | 75 |
@@ -438,8 +436,8 @@
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 63 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 75 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 81 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 75 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |

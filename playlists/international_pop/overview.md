@@ -80,12 +80,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7b791269f85b4faaf2be90a" alt="" width="50" /> | 1 | 0 | THE TOYS | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e6918865150085514ad2a3a" alt="" width="50" /> | 1 | 0 | Lowsheen | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd915449c97de0fad91bd4499" alt="" width="50" /> | 1 | 0 | Eric Chou | [🔗](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d1df65a25c8b1737d37bc18" alt="" width="50" /> | 1 | 0 | Eric Chou | [🔗](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb308ae265cf261595dce0edcd" alt="" width="50" /> | 1 | 0 | Synne Vo | [🔗](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a560ffdd6ad1accabec8b63" alt="" width="50" /> | 1 | 0 | Master KG | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb179aad93276b141b9848ca1" alt="" width="50" /> | 1 | 0 | Angela Chang | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | 1 | 0 | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14" alt="" width="50" /> | 1 | 0 | Bad Bunny | [🔗](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe63fa66d8a1d822bfe9e7edf" alt="" width="50" /> | 1 | 0 | Bad Bunny | [🔗](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4f59eba8459e76b5da830597" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4584e515db2e33c8b920d" alt="" width="50" /> | 1 | 0 | Nkosazana Daughter | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |

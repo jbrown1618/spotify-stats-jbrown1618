@@ -13,9 +13,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | All Night (0.809) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Allergy (0.591) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.801) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.606) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.619) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Paradise (0.633) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.638) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="Uh-Oh" width="50" /> | Uh-Oh (0.781) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.65) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.638) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Sculpture (0.65) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="Uh-Oh" width="50" /> | Uh-Oh (0.781) | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | MORE (0.66) |
 
 ## Energy
 
@@ -75,15 +75,15 @@
 | ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Luv U (0.000423) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | TOMBOY (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.000351) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Paradise (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Queencard (0.000268) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (7.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="Uh-Oh" width="50" /> | Uh-Oh (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (4.33e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | All Night (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | MOON (1.41e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="THE BADDEST" width="50" /> | THE BADDEST (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (7.84e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HANN (Alone in winter) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (7.81e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Allergy (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (5.91e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | LION (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (5.82e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.000351) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Queencard (0.000268) | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="Uh-Oh" width="50" /> | Uh-Oh (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (7.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | All Night (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (4.33e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="THE BADDEST" width="50" /> | THE BADDEST (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | MOON (1.41e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HANN (Alone in winter) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (7.84e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Allergy (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Nxde (7.81e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | LION (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (5.91e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (5.82e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.0) |
 
 ## Liveness
 
@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Queencard (0.692) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HANN (Alone in winter) (0.303) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | All Night (0.684) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ESCAPE (0.309) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.674) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | Change (0.313) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.662) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Paradise (0.328) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | ALREADY (0.662) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Luv U (0.336) |
 
 ## Tempo
 

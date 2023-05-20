@@ -1,19 +1,19 @@
 # CUBE ENTERTAINMENT
 
-41 songs
+40 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
 - CUBE ENTERTAINMENT (20 tracks)
-- Cube Entertainment (20 tracks)
+- Cube Entertainment (19 tracks)
 - CUBE Entertainment (1 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 23 | 14 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 22 | 14 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 3 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 3 | 3 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
@@ -30,8 +30,8 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 7 | 7 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 6 | 0 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 5 | 4 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 5 | 0 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | 3 | 1 | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 2 | 2 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
@@ -68,8 +68,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 41 | 24 | [k-pop](../../genres/k_pop/overview.md) |
-| 30 | 19 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 40 | 24 | [k-pop](../../genres/k_pop/overview.md) |
+| 29 | 19 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 6 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | korean city pop |
 
@@ -106,7 +106,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Allergy | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Paradise | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/0M0LPSeg23xSAELGs2TbXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Peter Pan | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/4QbdGSGyECE7IRtjolOkjO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Queencard | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |

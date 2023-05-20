@@ -80,10 +80,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | YEPPI YEPPI (0.0391) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | TOMBOY (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (0.00976) | <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="HUSH" width="50" /> | Hush (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best (0.00834) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Typa Girl (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Power Up (0.00745) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Paradise (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="GREAT!" width="50" /> | BBoom BBoom (0.00666) | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="BETWEEN 1&amp;2" width="50" /> | Talk that Talk (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="‘The ReVe Festival 2022 - Feel My Rhythm’" width="50" /> | In My Dreams (0.0066) | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="Return of The Girl" width="50" /> | Pirate (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6d5da9e8c6bb38a2e62f6f" alt="COLLECTION" width="50" /> | FIRE (0.00643) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | So Good (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Power Up (0.00745) | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="BETWEEN 1&amp;2" width="50" /> | Talk that Talk (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="GREAT!" width="50" /> | BBoom BBoom (0.00666) | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="Return of The Girl" width="50" /> | Pirate (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="‘The ReVe Festival 2022 - Feel My Rhythm’" width="50" /> | In My Dreams (0.0066) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | So Good (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6d5da9e8c6bb38a2e62f6f" alt="COLLECTION" width="50" /> | FIRE (0.00643) | <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet (0.0) |
 
 ## Liveness
 
@@ -98,9 +98,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be910fd8122cd805d651a8d" alt="Acid Angel from Asia &lt;ACCESS&gt;" width="50" /> | Generation (0.777) | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (0.0311) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | I Like That (0.737) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.0372) |
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="The 1st Single &#x27;행복(Happiness)&#x27;" width="50" /> | 행복 (Happiness) (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0386) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="행복(Happiness)" width="50" /> | 행복 (Happiness) (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="Red Light - The 3rd Album" width="50" /> | Red Light (0.0414) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | LP (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings (0.0428) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Genie (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="Show Me" width="50" /> | I’m So Hot (0.0437) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | LP (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="Red Light - The 3rd Album" width="50" /> | Red Light (0.0414) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Genie (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings (0.0428) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="STEREOTYPE" width="50" /> | STEREOTYPE (0.659) | <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="Show Me" width="50" /> | I’m So Hot (0.0437) |
 
 ## Valence
 
