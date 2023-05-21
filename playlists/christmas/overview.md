@@ -218,7 +218,7 @@
 | 17 | 3 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 5 | 2 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 1 | 1 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
+| 1 | 1 | EDAM Entertainment |
 | 1 | 1 | AOMG |
 | 9 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 5 | 0 | [Columbia](../../labels/columbia/overview.md) |

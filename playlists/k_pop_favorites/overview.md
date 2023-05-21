@@ -269,7 +269,7 @@
 | 3 | 3 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 3 | 3 | MNH ENTERTAINMENT |
 | 3 | 3 | KQ Entertainment |
-| 3 | 3 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
+| 3 | 3 | EDAM Entertainment |
 | 2 | 2 | THE BLACK LABEL |
 | 2 | 2 | LABEL V |
 | 2 | 2 | Fave Entertainment |
