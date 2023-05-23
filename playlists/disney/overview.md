@@ -156,18 +156,17 @@
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | hollywood |
-| 2 | 0 | europop |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
 | 2 | 0 | comedy |
+| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | traditional blues |
 | 1 | 0 | swing |
 | 1 | 0 | soul |
@@ -183,12 +182,11 @@
 | 1 | 0 | bubblegum pop |
 | 1 | 0 | blues |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 1 | 0 | acoustic blues |
 
 </details>
 
 
-![Bar chart of top 27 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 25 genres](../../images/playlists/disney/genres.png)
 
 ## Years
 

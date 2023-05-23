@@ -180,8 +180,8 @@ Appears as:
 |---:|---:|:---|
 | 55 | 43 | [k-pop](../../genres/k_pop/overview.md) |
 | 17 | 13 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 13 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 12 | 9 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 8 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 6 | korean pop |
 | 3 | 3 | korean ost |
 | 4 | 2 | k-rap |

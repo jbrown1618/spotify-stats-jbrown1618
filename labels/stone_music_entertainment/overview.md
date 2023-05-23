@@ -148,7 +148,7 @@ Appears as:
 | 51 | 40 | [k-pop](../../genres/k_pop/overview.md) |
 | 15 | 12 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 13 | 9 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 7 | 5 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 8 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | k-rap |
 | 3 | 3 | korean pop |
 | 2 | 2 | korean ost |

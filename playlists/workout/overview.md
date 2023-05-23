@@ -332,7 +332,7 @@
 | 129 | 128 | [k-pop](../../genres/k_pop/overview.md) |
 | 77 | 77 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 63 | 62 | [pop](../../genres/pop/overview.md) |
-| 44 | 43 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 45 | 44 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 12 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 7 | anime |
 | 6 | 6 | [modern rock](../../genres/modern_rock/overview.md) |
