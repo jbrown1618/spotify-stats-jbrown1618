@@ -7,7 +7,7 @@
 | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | 83 | 2021-11-11 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 82 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | Aftermath Entertainment/Atlantic | |
 | Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 71 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
-| Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
+| Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 47 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
 | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 68 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 68 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 68 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 73 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
@@ -369,10 +369,6 @@
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Africa | House Rules | The Clef Hangers | 0 | 0 | 25 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
-| Bills | DARK BLOOD | ENHYPEN | 0 | 0 | 74 |
-| Sacrifice (Eat Me Up) | DARK BLOOD | ENHYPEN | 0 | 0 | 74 |
-| Bite Me | DARK BLOOD | ENHYPEN | 0 | 0 | 74 |
-| Chaconne | DARK BLOOD | ENHYPEN | 0 | 0 | 74 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 39 |
 | Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 51 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
@@ -380,6 +376,7 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 31 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 31 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
+| Boat | Boat | george | 2 | 1 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 49 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
@@ -397,7 +394,7 @@
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Butter | Butter | BTS | 2 | 1 | 90 |
+| Butter | Butter | BTS | 2 | 0 | 90 |
 | Let It Go | Fixate | The Clef Hangers | 0 | 0 | 25 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 53 |
@@ -414,7 +411,7 @@
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 85 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 82 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
-| Rollin' | Rollin' | Brave Girls | 2 | 0 | 51 |
+| Rollin' | Rollin' | Brave Girls | 2 | 0 | 50 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 42 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
@@ -437,13 +434,13 @@
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 47 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 47 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 55 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 63 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 75 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 82 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |

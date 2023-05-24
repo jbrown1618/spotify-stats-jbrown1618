@@ -31,7 +31,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | 3 | 0 | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 3 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Andrew Busher | [🔗](https://open.spotify.com/artist/3Zbnq9cbmHkNBzUrfTe2Vb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3ef55b21a6a6f44a12982f0a" alt="" width="50" /> | 1 | 0 | Libera | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba22072e4ee7e6a4b72b15f64" alt="" width="50" /> | 1 | 0 | Libera | [🔗](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ce3e7c9e1c38c0edbe1528c" alt="" width="50" /> | 1 | 0 | Traditional | [🔗](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) |
 
@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 18 genres</summary>
+<summary>See all 17 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -80,13 +80,12 @@ Appears as:
 | 3 | 0 | lullaby |
 | 3 | 0 | classical era |
 | 1 | 0 | sleep |
-| 1 | 0 | hengelliset laulut |
 | 1 | 0 | gregorian chant |
 
 </details>
 
 
-![Bar chart of top 18 genres](../../images/labels/warner_classics/genres.png)
+![Bar chart of top 17 genres](../../images/labels/warner_classics/genres.png)
 
 ## Tracks released under Warner Classics
 

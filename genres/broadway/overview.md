@@ -1,6 +1,6 @@
 # broadway
 
-[59 songs](tracks.md)
+[58 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>See all 61 artists</summary>
+<summary>See all 60 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -67,7 +67,6 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Wendy Edmead | [🔗](https://open.spotify.com/artist/3F1882LLJA1TxkePqJcLud) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Cristy Candler | [🔗](https://open.spotify.com/artist/36XXapGsaRgnQEQkjPfTBl) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Jordan Gelber | [🔗](https://open.spotify.com/artist/31IEoybe2khDGCEPboqR1N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383592a34ac38c84cfa7d35d0" alt="" width="50" /> | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
 | <img src="https://i.scdn.co/image/50aac634edcd25da47cfa1b0c25a20d39eb28bb8" alt="" width="50" /> | 1 | 0 | Betty Buckley | [🔗](https://open.spotify.com/artist/2fAwOOtpSCnuUU1lyBB7ab) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Stephanie D'Abruzzo | [🔗](https://open.spotify.com/artist/2bvaL0chaHzVdKXjULRLeK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f021efd322122133f4b05fc3" alt="" width="50" /> | 1 | 0 | Norbert Leo Butz | [🔗](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF) |
@@ -94,24 +93,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | 2 | 0 | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 2 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 2 | 0 | Cats (Original Broadway Cast Recording / 1983) | 1983-01-01 | [🔗](https://open.spotify.com/album/7dIID5jd8V3fR2NXkonyD3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 1 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
 
 
 <details>
-<summary>See all 13 albums</summary>
+<summary>See all 12 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 1 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="" width="50" /> | 1 | 0 | Avenue Q (Original Broadway Cast Recording) | 2003-10-06 | [🔗](https://open.spotify.com/album/4Ok0WpQf9ucxEbd0wJV5Cx) |
 
 </details>
 
 
-![Bar chart of top 13 albums](../../images/genres/broadway/albums.png)
+![Bar chart of top 12 albums](../../images/genres/broadway/albums.png)
 
 ## Top Record Labels
 
@@ -126,9 +124,8 @@
 | 1 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
 | 1 | 0 | Masterworks Broadway |
-| 1 | 0 | Craft Recordings |
 
-![Bar chart of top 10 record labels](../../images/genres/broadway/labels.png)
+![Bar chart of top 9 record labels](../../images/genres/broadway/labels.png)
 
 ## Years
 
@@ -136,13 +133,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="Cats (Original Broadway Cast Recording / 1983)" width="50" /> | Cats (Original Broadway Cast Recording / 1983) (1983-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Phantom Of The Opera (1987-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> | Cappella (2013) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> | Cappella (2013) | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="Cats (Original Broadway Cast Recording / 1983)" width="50" /> | Cats (Original Broadway Cast Recording / 1983) (1983-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Phantom Of The Opera (1987-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> | Cappella (2013) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="Cappella" width="50" /> | Cappella (2013) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) |
