@@ -34,6 +34,7 @@
 
 - baroque pop
 - [modern rock](../../genres/modern_rock)
+- [neo mellow](../../genres/neo_mellow)
 - uk alternative pop
 
 ## Tracks

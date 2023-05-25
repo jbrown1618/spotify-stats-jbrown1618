@@ -252,11 +252,11 @@
 | 35 | 20 | [Columbia](../../labels/columbia/overview.md) |
 | 31 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 33 | 18 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 22 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
+| 23 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
 
 
 <details>
-<summary>See all 96 labels</summary>
+<summary>See all 95 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -331,7 +331,6 @@
 | 1 | 1 | Bad Dreams Records |
 | 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 | 1 | 1 | Access Records |
-| 1 | 0 | Warner Bros. |
 | 1 | 0 | Universal Republic Records |
 | 1 | 0 | Universal Music Group |
 | 1 | 0 | Sony Music UK |

@@ -2,7 +2,7 @@
 # Dreamcatcher
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb3d473b3dcc380e2aec2ab329" alt="Dreamcatcher" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="Dreamcatcher" width="100" />
 
 [See Audio Features](audio_features.md)
 

@@ -251,17 +251,18 @@
 | 22 | 18 | [modern rock](../../genres/modern_rock/overview.md) |
 | 18 | 15 | baroque pop |
 | 17 | 15 | uk alternative pop |
+| 17 | 15 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 10 | 10 | australian pop |
 | 16 | 9 | nz pop |
 | 16 | 9 | bergen indie |
-| 11 | 8 | metropopolis |
 
 
 <details>
-<summary>See all 55 genres</summary>
+<summary>See all 56 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 11 | 8 | metropopolis |
 | 8 | 8 | australian dance |
 | 9 | 7 | etherpop |
 | 8 | 7 | indie pop |

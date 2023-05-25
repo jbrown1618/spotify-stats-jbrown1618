@@ -216,7 +216,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 22 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
+| 23 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
 | 18 | 14 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 14 | 10 | [Jive](../../labels/jive/overview.md) |
 | 15 | 9 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
@@ -229,7 +229,7 @@
 
 
 <details>
-<summary>See all 40 labels</summary>
+<summary>See all 39 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -256,7 +256,6 @@
 | 1 | 1 | Access Records |
 | 3 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
-| 1 | 0 | Warner Bros. |
 | 1 | 0 | Sony Music UK |
 | 1 | 0 | Silent Records IGA |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |

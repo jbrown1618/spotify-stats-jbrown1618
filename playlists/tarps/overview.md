@@ -221,9 +221,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 11 | [pop](../../genres/pop/overview.md) |
+| 8 | 6 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
-| 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 6 | 5 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 4 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | [soft rock](../../genres/soft_rock/overview.md) |

@@ -121,6 +121,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 3 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
+| 2 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 1 | uk alternative pop |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | disco |
@@ -137,7 +138,6 @@ Appears as:
 | 1 | 0 | [pop rock](../../genres/pop_rock/overview.md) |
 | 1 | 0 | pop dance |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 1 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 0 | irish rock |
 | 1 | 0 | house |
 | 1 | 0 | gauze pop |
