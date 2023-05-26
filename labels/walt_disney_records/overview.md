@@ -41,7 +41,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b51c93627409f4bca132d96" alt="" width="50" /> | 2 | 0 | Phil Harris | [🔗](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7dc63c51d6b24862592e9" alt="" width="50" /> | 2 | 0 | Richard White | [🔗](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Ernie Sabella | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327028def34ab4b09f54f76d4" alt="" width="50" /> | 2 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ee4d1cb7dcedbfd3b4fa6ea" alt="" width="50" /> | 2 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e167cbf34879564304ed076" alt="" width="50" /> | 2 | 0 | David Ogden Stiers | [🔗](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4165ef3e7669f249706b8999" alt="" width="50" /> | 1 | 0 | Sally Dworsky | [🔗](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa17f03805db6002c7715b3" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
@@ -81,7 +81,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | 1 | 0 | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Heidi Mollenhauer | [🔗](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Bill Shirley | [🔗](https://open.spotify.com/artist/259T26oxdhM7losfoXOXOl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce08b21547da1ec0024240fe" alt="" width="50" /> | 1 | 0 | Mary Costa | [🔗](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273787a6082444e0dd7b84e2af7" alt="" width="50" /> | 1 | 0 | Mary Costa | [🔗](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Libertad García Fonzi | [🔗](https://open.spotify.com/artist/1jQ4JIz6HwngSsLWnzgPxA) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Chorus - Sleeping Beauty | [🔗](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b6a0854b680c0f8b6aef6f7" alt="" width="50" /> | 1 | 0 | Whoopi Goldberg | [🔗](https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5) |
