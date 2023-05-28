@@ -163,12 +163,11 @@
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 25 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | traditional blues |
-| 1 | 0 | tin pan alley |
 | 1 | 0 | swing |
 | 1 | 0 | soul |
 | 1 | 0 | roots rock |
@@ -183,12 +182,11 @@
 | 1 | 0 | bubblegum pop |
 | 1 | 0 | blues |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 1 | 0 | acoustic blues |
 
 </details>
 
 
-![Bar chart of top 27 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 25 genres](../../images/playlists/disney/genres.png)
 
 ## Years
 

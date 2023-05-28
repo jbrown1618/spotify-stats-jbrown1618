@@ -54,7 +54,7 @@
 | <img src="https://i.scdn.co/image/fe113227d3189286fc6639f316d729bfeb103c79" alt="" width="50" /> | 1 | 0 | Maurice Duruflé | [🔗](https://open.spotify.com/artist/7Fph7U6qidZ2E97xKKsD4m) |
 | <img src="https://i.scdn.co/image/60b9354e6df871bd1a87eb86cbc660a48e15172b" alt="" width="50" /> | 1 | 0 | Sylvia McNair | [🔗](https://open.spotify.com/artist/63aSj4hbN7Q4nw74Y0xNF6) |
 | <img src="https://i.scdn.co/image/801e1dd16831ea8bd75e510177620ab756594b45" alt="" width="50" /> | 1 | 0 | Randall Thompson | [🔗](https://open.spotify.com/artist/5vNLpqTjRXfz6uHKs5hnvD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | 1 | 0 | Joseph Jennings | [🔗](https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Joseph Jennings | [🔗](https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d516176f7ccedbc5add27d63" alt="" width="50" /> | 1 | 0 | Vladimir Mostovoy | [🔗](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311abfb0cada077900447061b" alt="" width="50" /> | 1 | 0 | Voices of Ascension Chorus | [🔗](https://open.spotify.com/artist/4AjjMZxILxc83KJAEuwu9j) |
 | <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | 1 | 0 | Olga Borodina | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |

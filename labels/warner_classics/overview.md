@@ -70,7 +70,7 @@ Appears as:
 
 
 <details>
-<summary>See all 18 genres</summary>
+<summary>See all 17 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -80,13 +80,12 @@ Appears as:
 | 3 | 0 | lullaby |
 | 3 | 0 | classical era |
 | 1 | 0 | sleep |
-| 1 | 0 | hengelliset laulut |
 | 1 | 0 | gregorian chant |
 
 </details>
 
 
-![Bar chart of top 18 genres](../../images/labels/warner_classics/genres.png)
+![Bar chart of top 17 genres](../../images/labels/warner_classics/genres.png)
 
 ## Tracks released under Warner Classics
 
