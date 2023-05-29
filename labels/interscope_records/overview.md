@@ -1,26 +1,27 @@
 # Interscope Records
 
-79 songs
+80 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
 - YG Entertainment/Interscope Records (20 tracks)
-- Darkroom/Interscope Records (11 tracks)
 - Interscope (11 tracks)
+- Darkroom/Interscope Records (11 tracks)
 - Interscope Records* (9 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
-- 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
 - THEBLACKLABEL/Interscope Records (4 tracks)
+- 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
 - THE BLACK LABEL/Interscope Records (3 tracks)
 - Bad Boy / Interscope (2 tracks)
 - Kid Ina Korner / Interscope (2 tracks)
 - Mosley / Interscope (2 tracks)
 - pgLang/Top Dawg Entertainment/Aftermath/Interscope Records (2 tracks)
-- Collipark / Interscope (1 tracks)
-- Fantasy Soul/Interscope Records (1 tracks)
-- Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
 - Interscope Records (1 tracks)
+- LVRN/Interscope Records (1 tracks)
+- Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
+- Fantasy Soul/Interscope Records (1 tracks)
+- Collipark / Interscope (1 tracks)
 
 ## Top Artists
 
@@ -39,7 +40,7 @@ Appears as:
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 32 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -62,6 +63,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9ac284d0d6afcb53a65558b3" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 
@@ -87,7 +89,7 @@ Appears as:
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -117,6 +119,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" alt="" width="50" /> | 1 | 0 | Songs About Jane: 10th Anniversary Edition | 2002 | [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | 1 | 0 | Overexposed (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | 1 | 0 | Over It | 2019-10-04 | [🔗](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | 1 | 0 | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | 1 | 0 | Hands All Over | 2010 | [🔗](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | 1 | 0 | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
@@ -143,7 +146,7 @@ Appears as:
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -161,13 +164,14 @@ Appears as:
 | 1 | 1 | canadian pop |
 | 1 | 0 | trap |
 | 1 | 0 | southern hip hop |
+| 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | chicago bop |
 | 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 26 genres](../../images/labels/interscope_records/genres.png)
+![Bar chart of top 27 genres](../../images/labels/interscope_records/genres.png)
 
 ## Tracks released under Interscope Records
 
@@ -254,6 +258,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | ROSÉ | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | R | ROSÉ | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | Crank That (Soulja Boy) | souljaboytellem.com | Soulja Boy | [Collipark / Interscope](.) | | [🔗](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | Body | Over It | Summer Walker | [LVRN/Interscope Records](.) | | [🔗](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7994d33de90ec347aa477c3" alt="" width="50" /> | VIBE (feat. Jimin of BTS) | VIBE (feat. Jimin of BTS) | TAEYANG, Jimin | [THEBLACKLABEL/Interscope Records](.) | | [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Seed | Down to Earth | TAEYANG | [THEBLACKLABEL/Interscope Records](.) | | [🔗](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Shoong! (feat. LISA of BLACKPINK) | Down to Earth | TAEYANG, LISA | [THEBLACKLABEL/Interscope Records](.) | | [🔗](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) |

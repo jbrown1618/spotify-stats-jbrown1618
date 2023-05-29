@@ -163,7 +163,7 @@
 
 
 <details>
-<summary>See all 25 genres</summary>
+<summary>See all 26 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -182,11 +182,12 @@
 | 1 | 0 | bubblegum pop |
 | 1 | 0 | blues |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 1 | 0 | acoustic blues |
 
 </details>
 
 
-![Bar chart of top 25 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 26 genres](../../images/playlists/disney/genres.png)
 
 ## Years
 

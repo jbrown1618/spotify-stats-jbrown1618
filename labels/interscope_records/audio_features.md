@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY (0.218) | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="XOXO" width="50" /> | XOXO (0.0314) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | Kill This Love (0.191) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | The Happiest Girl (0.0328) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | you should see me in a crown (0.186) | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="XOXO" width="50" /> | Anymore (0.0329) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Love To Hate Me (0.159) | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="V" width="50" /> | Sugar (0.0334) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body (0.167) | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="V" width="50" /> | Sugar (0.0334) |
 
 ## Acousticness
 
