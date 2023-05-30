@@ -195,7 +195,7 @@
 
 
 <details>
-<summary>See all 44 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -226,6 +226,7 @@
 | 1 | 1 | jam band |
 | 1 | 1 | australian rock |
 | 3 | 0 | zolo |
+| 3 | 0 | proto-metal |
 | 3 | 0 | jazz rock |
 | 3 | 0 | jazz fusion |
 | 3 | 0 | instrumental rock |

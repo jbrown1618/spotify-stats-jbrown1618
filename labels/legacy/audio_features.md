@@ -2,7 +2,7 @@
 
 ## Danceability
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_danceability/distribution.png)
+![Distribution of Danceability compared to all liked tracks](../../images/labels/legacy/audio_features/audio_danceability/distribution.png)
 
 | ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
 |:---|:---|:---|:---|
@@ -19,7 +19,7 @@
 
 ## Energy
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_energy/distribution.png)
+![Distribution of Energy compared to all liked tracks](../../images/labels/legacy/audio_features/audio_energy/distribution.png)
 
 | ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
 |:---|:---|:---|:---|
@@ -36,7 +36,7 @@
 
 ## Speechiness
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_speechiness/distribution.png)
+![Distribution of Speechiness compared to all liked tracks](../../images/labels/legacy/audio_features/audio_speechiness/distribution.png)
 
 | ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
 |:---|:---|:---|:---|
@@ -53,7 +53,7 @@
 
 ## Acousticness
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_acousticness/distribution.png)
+![Distribution of Acousticness compared to all liked tracks](../../images/labels/legacy/audio_features/audio_acousticness/distribution.png)
 
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
@@ -70,7 +70,7 @@
 
 ## Instrumentalness
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_instrumentalness/distribution.png)
+![Distribution of Instrumentalness compared to all liked tracks](../../images/labels/legacy/audio_features/audio_instrumentalness/distribution.png)
 
 | ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
 |:---|:---|:---|:---|
@@ -87,7 +87,7 @@
 
 ## Liveness
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_liveness/distribution.png)
+![Distribution of Liveness compared to all liked tracks](../../images/labels/legacy/audio_features/audio_liveness/distribution.png)
 
 | ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
 |:---|:---|:---|:---|
@@ -104,7 +104,7 @@
 
 ## Valence
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_valence/distribution.png)
+![Distribution of Valence compared to all liked tracks](../../images/labels/legacy/audio_features/audio_valence/distribution.png)
 
 | ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
 |:---|:---|:---|:---|
@@ -121,7 +121,7 @@
 
 ## Tempo
 
-![Bar chart of number of songs by year](../../images/labels/legacy/audio_features/audio_tempo/distribution.png)
+![Distribution of Tempo compared to all liked tracks](../../images/labels/legacy/audio_features/audio_tempo/distribution.png)
 
 | ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
 |:---|:---|:---|:---|

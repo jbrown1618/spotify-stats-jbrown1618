@@ -70,7 +70,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | Fighting (Feat. Lee Young Ji) | BSS 1st Single Album 'SECOND WIND' | BSS, Lee Young Ji | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | Fighting (Feat. Lee Young Ji) | BSS 1st Single Album 'SECOND WIND' | Lee Young Ji, BSS | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | DM | Midnight Guest | fromis_9 | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="" width="50" /> | Spider | Spider | HOSHI | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | Adore U | SEVENTEEN 1st Mini Album ’17 CARAT’ | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) |
