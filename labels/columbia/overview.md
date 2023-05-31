@@ -179,7 +179,7 @@ Appears as:
 
 
 <details>
-<summary>See all 69 genres</summary>
+<summary>See all 68 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -201,7 +201,6 @@ Appears as:
 | 2 | 1 | uk pop |
 | 2 | 1 | lgbtq+ hip hop |
 | 2 | 1 | british soul |
-| 1 | 1 | tropical house |
 | 1 | 1 | r&b en espanol |
 | 1 | 1 | nz pop |
 | 1 | 1 | nigerian pop |

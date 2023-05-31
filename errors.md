@@ -11,11 +11,11 @@
 | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 66 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 65 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 69 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 74 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 75 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 67 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 74 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 67 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 87 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
-| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 92 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 91 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 
 ## Duplicate albums
 
@@ -42,15 +42,15 @@
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 31 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 31 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 31 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 31 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 31 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 31 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 31 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 30 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 30 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 30 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 30 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 30 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 30 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 30 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 30 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 30 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
@@ -183,45 +183,45 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
 | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
 | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 64 |
@@ -324,7 +324,7 @@
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 34 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 48 |
-| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 56 |
+| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 55 |
 | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
@@ -357,18 +357,18 @@
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 41 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 33 |
-| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 45 |
+| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 46 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 2 | 90 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 2 | 90 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 2 | 90 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 90 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 90 |
+| War of Hormone | Dark & Wild | BTS | 0 | 1 | 90 |
+| Danger | Dark & Wild | BTS | 0 | 1 | 90 |
 | Butter | Butter | BTS | 2 | 0 | 90 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
@@ -390,15 +390,15 @@
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 36 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 37 |
-| Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 27 |
+| Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 26 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 78 |
-| Hello Bitches | Hello Bitches | CL | 0 | 0 | 58 |
+| Hello Bitches | Hello Bitches | CL | 0 | 0 | 57 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
 | Boat | Boat | george | 2 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 49 |
-| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
+| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
@@ -416,7 +416,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Rollin' | Rollin' | Brave Girls | 2 | 0 | 50 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 42 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 67 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
@@ -431,7 +431,7 @@
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 63 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
-| Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
+| Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 81 |

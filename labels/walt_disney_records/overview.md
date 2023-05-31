@@ -154,7 +154,7 @@ Appears as:
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 29 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -176,11 +176,12 @@ Appears as:
 | 1 | 0 | bubblegum pop |
 | 1 | 0 | blues |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 1 | 0 | acoustic blues |
 
 </details>
 
 
-![Bar chart of top 28 genres](../../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 29 genres](../../images/labels/walt_disney_records/genres.png)
 
 ## Tracks released under Walt Disney Records
 
