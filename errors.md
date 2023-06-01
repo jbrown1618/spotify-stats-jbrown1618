@@ -8,12 +8,14 @@
 | Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 72 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 47 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 66 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 65 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 65 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 65 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 69 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 74 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 74 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 67 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
+| Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 89 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 81 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
+| Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 71 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 85 | | ADOR | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 87 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 91 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 
@@ -36,12 +38,12 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 28 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 28 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 28 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 27 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 27 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 27 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 30 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 30 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 30 |
@@ -345,17 +347,17 @@
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 31 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 53 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 52 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 63 |
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 39 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 39 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 39 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 69 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 41 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 41 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 41 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 40 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 40 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 40 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 33 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 46 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
@@ -397,7 +399,7 @@
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
 | Boat | Boat | george | 2 | 0 | 51 |
-| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 49 |
+| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 48 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
@@ -409,8 +411,8 @@
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 52 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 1 | 64 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 1 | 64 |
-| Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 1 | 62 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 62 |
+| Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 1 | 61 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 61 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 64 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 82 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
@@ -426,13 +428,13 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 1 | 0 | 75 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 41 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 60 |
-| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 47 |
-| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 47 |
+| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
+| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 63 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
-| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 73 |
+| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 72 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 81 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |

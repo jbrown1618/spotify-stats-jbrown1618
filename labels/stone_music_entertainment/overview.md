@@ -1,11 +1,11 @@
 # Stone Music Entertainment
 
-66 songs
+67 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (51 tracks)
+- Genie Music Corporation, Stone Music Entertainment (52 tracks)
 - Stone Music Entertainment (8 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -22,7 +22,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 3 | 3 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b55f42dcb8086e37b084a8" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcc48cc2ee03cde91920d0c0" alt="" width="50" /> | 3 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 2 | 2 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb6ba89aff53eea0b5f0444e8" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 
 
 <details>
@@ -30,9 +30,9 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 2 | 2 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 2 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 2 | 2 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb6ba89aff53eea0b5f0444e8" alt="" width="50" /> | 2 | 1 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f97d79b20d5c1106baa2c5a" alt="" width="50" /> | 1 | 1 | BOBBY | [🔗](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 1 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -85,7 +85,7 @@ Appears as:
 
 
 <details>
-<summary>See all 56 albums</summary>
+<summary>See all 57 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -101,6 +101,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="" width="50" /> | 1 | 1 | Over The Moon | 2023-04-12 | [🔗](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | 1 | 1 | Our Blues, Pt. 10 (Original Television Soundtrack) | 2022-05-22 | [🔗](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="" width="50" /> | 1 | 1 | MOMMAE | 2015-05-22 | [🔗](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | 1 | 1 | MEMORY | 2016-11-07 | [🔗](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="" width="50" /> | 1 | 1 | Love War | 2023-01-16 | [🔗](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | 1 | 1 | Last Melody | 2021-05-25 | [🔗](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) |
@@ -145,11 +146,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 51 | 40 | [k-pop](../../genres/k_pop/overview.md) |
+| 52 | 41 | [k-pop](../../genres/k_pop/overview.md) |
 | 15 | 12 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 13 | 9 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 14 | 10 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 8 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 5 | 3 | k-rap |
+| 6 | 4 | k-rap |
 | 3 | 3 | korean pop |
 | 2 | 2 | korean ost |
 | 1 | 0 | k-pop reality show |
@@ -189,6 +190,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | VingleVingle (Prod. R.Tee) | VingleVingle | HEIZE | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | Very Very Very | miss me? | I.O.I | [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | FIESTA | BLOOM*IZ | IZ*ONE | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="" width="50" /> | Sex Trip | MOMMAE | Jay Park | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | MOMMAE | Worldwide | Ugly Duck, Jay Park | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="" width="50" /> | All I Wanna Do | EVERYTHING YOU WANTED | Jay Park | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732733089f7a982afc28269134" alt="" width="50" /> | Cold Blooded | Cold Blooded | Jessi | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) |

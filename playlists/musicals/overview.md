@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>See all 83 artists</summary>
+<summary>See all 85 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -56,6 +56,7 @@
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391802cd59c40ec47424e2635" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | 2 | 0 | Michael Maguire | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | 2 | 0 | Charles Hart | [🔗](https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 2 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354900b60ad3ceff554807176" alt="" width="50" /> | 2 | 0 | Amanda Seyfried | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
@@ -96,6 +97,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Natalie Venetia Belcon | [🔗](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Patina Miller | [🔗](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Sacha Baron Cohen | [🔗](https://open.spotify.com/artist/1JY6Dve5sex0urYQnbshM9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Cynthia Onrubia | [🔗](https://open.spotify.com/artist/15dLAyVKmw26KgDnK3QEv3) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Les Misérables - 10th Anniversary Concert Cast | [🔗](https://open.spotify.com/artist/0cRX0gc8vmwKmV0RWqCV2L) |

@@ -25,7 +25,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 39 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,6 +42,7 @@ Appears as:
 | <img src="nan" alt="" width="50" /> | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | 2 | 0 | Charles Hart | [🔗](https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354900b60ad3ceff554807176" alt="" width="50" /> | 2 | 0 | Amanda Seyfried | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
 | <img src="https://i.scdn.co/image/df24566326393b64a534f865986c77d6358fd728" alt="" width="50" /> | 2 | 0 | Russell Crowe | [🔗](https://open.spotify.com/artist/3YBIrJozn8fop4UYIt7wcV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | 1 | 0 | Students | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
@@ -56,6 +57,7 @@ Appears as:
 | <img src="nan" alt="" width="50" /> | 1 | 0 | The Factory Girls | [🔗](https://open.spotify.com/artist/3h4B6ffpCQVSn3QSaTLBna) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Sacha Baron Cohen | [🔗](https://open.spotify.com/artist/1JY6Dve5sex0urYQnbshM9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 
 </details>
 
@@ -161,7 +163,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Entr'Acte | The Phantom Of The Opera | John Savident, Phantom Of The Opera Original London Cast, Andrew Lloyd Webber, David Firth | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/0cLoao2k6VaLjbvtxtYCtO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | I Remember / Stranger Than You Dreamt It | The Phantom Of The Opera | Phantom Of The Opera Original London Cast, Andrew Lloyd Webber, Michael Crawford, Sarah Brightman | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/0FwP3tsHCfmMJDe0vEkRUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Little Lotte / The Mirror (Angel Of Music) | The Phantom Of The Opera | Steve Barton, Phantom Of The Opera Original London Cast, Andrew Lloyd Webber, Michael Crawford, Sarah Brightman | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/6DUe3XqMPk2OMsT3QQfcVE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Magical Lasso | The Phantom Of The Opera | Mary Millar, Phantom Of The Opera Original London Cast, Janos Kurucz, Andrew Lloyd Webber, Janet Devenish | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7egD3vWokabEvOB2TD7iCl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Magical Lasso | The Phantom Of The Opera | Richard Stilgoe, Mary Millar, Phantom Of The Opera Original London Cast, Janos Kurucz, Andrew Lloyd Webber, Charles Hart, Janet Devenish | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7egD3vWokabEvOB2TD7iCl) |
 
 
 <details>
@@ -171,7 +173,7 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Masquerade / Why So Silent | The Phantom Of The Opera | Steve Barton, Phantom Of The Opera Original London Cast, Andrew Lloyd Webber, Michael Crawford, Sarah Brightman | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/1z2oyr9Uu9GCz31kycvPuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Notes / Prima Donna | The Phantom Of The Opera | Mary Millar, Steve Barton, John Savident, Phantom Of The Opera Original London Cast, Rosemary Ashe, Andrew Lloyd Webber, David Firth, Michael Crawford, Janet Devenish | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7uFofIX6vcvU7vl4jlttEr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Notes / Twisted Every Way | The Phantom Of The Opera | Mary Millar, Steve Barton, John Savident, Phantom Of The Opera Original London Cast, Rosemary Ashe, Andrew Lloyd Webber, David Firth, John Aron, Michael Crawford, Sarah Brightman | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7n36JwlTBuGU7TfrRwjjSr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Notes / Twisted Every Way | The Phantom Of The Opera | Mary Millar, Steve Barton, John Savident, Phantom Of The Opera Original London Cast, Rosemary Ashe, Andrew Lloyd Webber, David Firth, John Aron, Michael Crawford, Charles Hart, Sarah Brightman | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7n36JwlTBuGU7TfrRwjjSr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Overture | The Phantom Of The Opera | Phantom Of The Opera Original London Cast, Andrew Lloyd Webber | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/37u4N8Nje0UIJINbW7QULX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Poor Fool, He Makes Me Laugh | The Phantom Of The Opera | Phantom Of The Opera Original London Cast, Rosemary Ashe, Andrew Lloyd Webber | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/50yxhOQupboMoF1xgzLza3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Prologue | The Phantom Of The Opera | Steve Barton, Phantom Of The Opera Original London Cast, Andrew Lloyd Webber | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/1bdfgBPqPzUrSDQf46KMVz) |

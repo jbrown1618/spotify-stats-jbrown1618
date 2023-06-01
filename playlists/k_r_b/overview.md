@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="K-R&amp;B" width="100" />
 
-[111 songs (90 liked)](tracks.md)
+[112 songs (91 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -18,9 +18,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 5 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 4 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 4 | 3 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb6ba89aff53eea0b5f0444e8" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 3 | 3 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29d6428b4b21a6c952b2aea9" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 3 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 
 
 <details>
@@ -28,11 +28,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 3 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 3 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcc48cc2ee03cde91920d0c0" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 3 | 2 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb6ba89aff53eea0b5f0444e8" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | 3 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 3 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 2 | 2 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
@@ -107,7 +107,7 @@
 
 
 <details>
-<summary>See all 90 albums</summary>
+<summary>See all 91 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -149,6 +149,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="" width="50" /> | 1 | 1 | NEON | 2019-02-22 | [🔗](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="" width="50" /> | 1 | 1 | MOTH | 2022-05-13 | [🔗](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="" width="50" /> | 1 | 1 | MOMMAE | 2015-05-22 | [🔗](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="" width="50" /> | 1 | 1 | Love Theory - SM STATION | 2022-04-14 | [🔗](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | 1 | 1 | Love Story | 2017-11-10 | [🔗](https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feb430a900d634d1cbc987ad" alt="" width="50" /> | 1 | 1 | Invitation | 2012-10-16 | [🔗](https://open.spotify.com/album/61scVtZ044GUBV4rIvOcPQ) |
@@ -201,8 +202,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 29 | 24 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 25 | 21 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 30 | 25 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 26 | 22 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 17 | 16 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 12 | 8 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
@@ -263,10 +264,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 78 | 66 | [k-pop](../../genres/k_pop/overview.md) |
-| 26 | 20 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 79 | 67 | [k-pop](../../genres/k_pop/overview.md) |
+| 27 | 21 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 17 | 12 | korean pop |
-| 7 | 4 | k-rap |
+| 8 | 5 | k-rap |
 | 5 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 4 | k-indie |
 | 4 | 3 | korean city pop |
@@ -292,7 +293,7 @@
 | 2018 | 9 |
 | 2017 | 6 |
 | 2016 | 15 |
-| 2015 | 1 |
+| 2015 | 2 |
 | 2014 | 2 |
 | 2013 | 2 |
 | 2012 | 2 |
@@ -309,8 +310,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> | SHOW ME THE MONEY 11 Episode 3 (2022-12-17) | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | First Love (2013-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e24ed982c42289b1e7cbc19" alt="LOVE &amp; FEAR" width="50" /> | LOVE & FEAR (2022-12-12) | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="Some" width="50" /> | Some (2014-02-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="Get Ready To Leave" width="50" /> | Get Ready To Leave (2022-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | PLAY (2014-04-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="HEAL" width="50" /> | HEAL (2022-10-07) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="Worldwide" width="50" /> | Worldwide (2015-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> | love you more, (2022-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="봄인가 봐 Spring Love - SM STATION" width="50" /> | 봄인가 봐 Spring Love - SM STATION (2016-03-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="Somebody" width="50" /> | Somebody (2022-07-25) | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | SEOULITE (2016-03-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> | Remarriage and Desires (Original Soundtrack from The Netflix Series) (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | 130 Mood : TRBL (2016-03-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Undo (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="SEOULITE" width="50" /> | SEOULITE (2016-04-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="HEAL" width="50" /> | HEAL (2022-10-07) | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="MOMMAE" width="50" /> | MOMMAE (2015-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> | love you more, (2022-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="Worldwide" width="50" /> | Worldwide (2015-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="Somebody" width="50" /> | Somebody (2022-07-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="봄인가 봐 Spring Love - SM STATION" width="50" /> | 봄인가 봐 Spring Love - SM STATION (2016-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> | Remarriage and Desires (Original Soundtrack from The Netflix Series) (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | SEOULITE (2016-03-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Undo (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | 130 Mood : TRBL (2016-03-25) |

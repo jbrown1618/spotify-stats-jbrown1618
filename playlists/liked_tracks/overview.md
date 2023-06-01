@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1549 songs](tracks.md)
+[1550 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -12,11 +12,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 42 | 42 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 37 | 37 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 34 | 34 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 28 | 28 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 27 | 27 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 26 | 26 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 25 | 25 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 25 | 25 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="" width="50" /> | 24 | 24 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 24 | 24 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 23 | 23 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 
 
@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 9 | 9 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 9 | 9 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | 9 | 9 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 9 | 9 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 9 | 9 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 9 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | 8 | 8 | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 8 | 8 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
@@ -232,8 +232,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | 3 | 3 | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | 3 | 3 | Jack In The Box | 2022-07-15 | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 3 | 3 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 3 | 3 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 3 | 3 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 3 | 3 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 
 </details>
 
@@ -249,10 +249,10 @@
 | 60 | 60 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 60 | 60 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 60 | 60 | [Epic](../../labels/epic/overview.md) |
-| 57 | 57 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 58 | 58 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 55 | 55 | [Columbia](../../labels/columbia/overview.md) |
 | 53 | 53 | [Warner Records](../../labels/warner_records/overview.md) |
-| 51 | 51 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 52 | 52 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 46 | 46 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
 
@@ -264,8 +264,8 @@
 | 41 | 41 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 32 | 32 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 29 | 29 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 27 | 27 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 26 | 26 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
-| 26 | 26 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 21 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 21 | 21 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 19 | 19 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
@@ -277,9 +277,9 @@
 | 16 | 16 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 14 | 14 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 14 | 14 | [Rhino](../../labels/rhino/overview.md) |
-| 14 | 14 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 13 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 13 | 13 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
+| 13 | 13 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 13 | 13 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 13 | 13 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 12 | 12 | [Jive](../../labels/jive/overview.md) |
@@ -361,9 +361,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 698 | 698 | [k-pop](../../genres/k_pop/overview.md) |
-| 391 | 391 | [pop](../../genres/pop/overview.md) |
-| 325 | 325 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 699 | 699 | [k-pop](../../genres/k_pop/overview.md) |
+| 390 | 390 | [pop](../../genres/pop/overview.md) |
+| 326 | 326 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 179 | 179 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 126 | 126 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -384,8 +384,8 @@
 | 40 | 40 | [album rock](../../genres/album_rock/overview.md) |
 | 37 | 37 | [soft rock](../../genres/soft_rock/overview.md) |
 | 35 | 35 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 33 | 33 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 33 | 33 | [art pop](../../genres/art_pop/overview.md) |
-| 32 | 32 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 30 | 30 | british invasion |
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
@@ -403,9 +403,9 @@
 | 20 | 20 | uk pop |
 | 20 | 20 | alternative rock |
 | 19 | 19 | melancholia |
+| 19 | 19 | k-rap |
 | 19 | 19 | hard rock |
 | 18 | 18 | urban contemporary |
-| 18 | 18 | k-rap |
 | 17 | 17 | art rock |
 | 17 | 17 | [a cappella](../../genres/a_cappella/overview.md) |
 | 15 | 15 | uk alternative pop |
@@ -482,7 +482,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 77 |
+| [2023](2023.md) | 78 |
 | [2022](2022.md) | 244 |
 | [2021](2021.md) | 186 |
 | [2020](2020.md) | 136 |
@@ -490,14 +490,14 @@
 | [2018](2018.md) | 82 |
 | [2017](2017.md) | 73 |
 | [2016](2016.md) | 76 |
-| [2015](2015.md) | 58 |
+| [2015](2015.md) | 59 |
 | [2014](2014.md) | 43 |
 | [2013](2013.md) | 50 |
 | [2012](2012.md) | 50 |
 | [2011](2011.md) | 36 |
 | [2010](2010.md) | 40 |
 | [2009](2009.md) | 30 |
-| [2008](2008.md) | 23 |
+| [2008](2008.md) | 22 |
 | [2007](2007.md) | 25 |
 | 2006 | 13 |
 | 2005 | 14 |
@@ -547,13 +547,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="Cheetah" width="50" /> | Cheetah (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="Cheetah" width="50" /> | Cheetah (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |

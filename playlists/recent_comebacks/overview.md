@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2738bc5762a75c18b494803705cab67616d0000b2738cab1c75d2271af37c3e2db9ab67616d0000b273d681b1b80c5dff43d2f4a3dfab67616d0000b273f184dfda8eaeac06fff5e14e" alt="Recent Comebacks" width="100" />
 
-[97 songs (74 liked)](tracks.md)
+[98 songs (75 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -17,10 +17,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 4 | 4 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 6 | 3 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 4 | 3 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 4 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 4 | 3 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 3 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 4 | 3 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 3 | 3 | LE SSERAFIM | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 2 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 
 
 <details>
@@ -98,9 +98,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 4 | 4 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | 4 | 3 | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | 4 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 4 | 3 | UNFORGIVEN | 2023-05-01 | [🔗](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 4 | 3 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | 4 | 3 | DARK BLOOD | 2023-05-22 | [🔗](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 4 | 2 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 3 | 3 | UNFORGIVEN | 2023-05-01 | [🔗](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) |
 
 
 <details>
@@ -164,9 +164,9 @@
 | 7 | 5 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 8 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 4 | 3 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 4 | 3 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 4 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
-| 4 | 3 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 
 
 <details>
@@ -174,10 +174,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 3 | 3 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
+| 4 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 4 | 3 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 3 | 3 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 4 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 4 | 2 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 3 | 2 | ADOR |
 | 3 | 1 | THEBLACKLABEL |
 | 3 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
@@ -206,8 +206,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 71 | 55 | [k-pop](../../genres/k_pop/overview.md) |
-| 36 | 28 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 71 | 56 | [k-pop](../../genres/k_pop/overview.md) |
+| 37 | 29 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 20 | 14 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 10 | 9 | [pop](../../genres/pop/overview.md) |
 | 4 | 3 | anime |
@@ -225,7 +225,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 87 |
+| [2023](2023.md) | 88 |
 | 2022 | 10 |
 
 </details>

@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Savior (feat. B.I) (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.531) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="FIRST IMPACT" width="50" /> | MVSK (0.798) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.536) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="Pink Funky" width="50" /> | AHH OOP! (0.79) | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="CIX 5th EP Album ‘OK’ Episode 1 : OK Not" width="50" /> | 458 (0.537) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.785) | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.557) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="MOMMAE" width="50" /> | Sex Trip (0.788) | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | My Day Is Full Of You (0.557) |
 
 ## Energy
 
