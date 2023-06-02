@@ -288,7 +288,7 @@
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 54 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 54 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 54 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
@@ -366,9 +366,9 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 90 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 2 | 90 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 2 | 90 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 2 | 90 |
 | War of Hormone | Dark & Wild | BTS | 0 | 1 | 90 |
 | Danger | Dark & Wild | BTS | 0 | 1 | 90 |
 | Butter | Butter | BTS | 2 | 0 | 90 |
@@ -381,7 +381,7 @@
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 84 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 84 |
-| PLAY | PLAY | CHUNG HA | 0 | 0 | 61 |
+| PLAY | PLAY | CHUNG HA | 0 | 0 | 60 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 60 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
@@ -390,7 +390,7 @@
 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 36 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 35 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 37 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 26 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
@@ -402,19 +402,19 @@
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 48 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
-| ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
+| ICY | IT'z ICY | ITZY | 1 | 0 | 71 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 54 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 52 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 1 | 64 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 1 | 64 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 1 | 61 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 61 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 64 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 82 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 81 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Rollin' | Rollin' | Brave Girls | 2 | 0 | 50 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 42 |
@@ -434,7 +434,7 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 72 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 81 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |
