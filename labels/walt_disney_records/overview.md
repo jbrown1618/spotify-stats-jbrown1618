@@ -91,7 +91,7 @@ Appears as:
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Dorothy Compton | [🔗](https://open.spotify.com/artist/0humNRtJZUnSFh10d8Vnou) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305d0d8ec1b50e468268e1a54" alt="" width="50" /> | 1 | 0 | Pat Carroll | [🔗](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Gabriella Flores | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27306c7cbbc587798a01ae1b1ae" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e28a135e8a46e60bcc50ad2" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Mary Moder | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 
@@ -154,7 +154,7 @@ Appears as:
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 29 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -176,11 +176,12 @@ Appears as:
 | 1 | 0 | bubblegum pop |
 | 1 | 0 | blues |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 1 | 0 | acoustic blues |
 
 </details>
 
 
-![Bar chart of top 28 genres](../../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 29 genres](../../images/labels/walt_disney_records/genres.png)
 
 ## Tracks released under Walt Disney Records
 
