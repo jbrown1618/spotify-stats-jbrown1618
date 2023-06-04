@@ -31,6 +31,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+| <img src="nan" alt="" width="50" /> | 1 | 1 | 김아중 | [🔗](https://open.spotify.com/artist/5qMkh0MtptmH5XKinOnFom) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | 1 | 1 | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | 1 | 1 | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
@@ -52,7 +53,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | 1 | 1 | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd12e935bbdee7c383001f8c4" alt="" width="50" /> | 1 | 1 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3a29b298ed01d5fc7a3a78c" alt="" width="50" /> | 1 | 1 | Kim Ah Joong | [🔗](https://open.spotify.com/artist/1daXpWxDzFCR7fvPP6Z8wK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f8dfdfeb85c3fc2d11b2ae2" alt="" width="50" /> | 1 | 1 | 88rising | [🔗](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d94b10d073b5bf8928ece9c" alt="" width="50" /> | 1 | 1 | Bishop Briggs | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
@@ -175,6 +175,7 @@
 | 2 | 1 | Def Jam |
 | 2 | 1 | Arista |
 | 1 | 1 | 코어콘텐츠미디어 |
+| 1 | 1 | 케이엠컬쳐 |
 | 1 | 1 | 스타엔트리엔터테인먼트 |
 | 1 | 1 | 디컴퍼니 |
 | 1 | 1 | YUQI |
@@ -193,7 +194,6 @@
 | 1 | 1 | CRAFT AND JUN |
 | 1 | 1 | ATG |
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
-| 1 | 1 | (주)블렌딩 |
 | 1 | 0 | The Other Songs |
 | 1 | 0 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 1 | 0 | RuCo |

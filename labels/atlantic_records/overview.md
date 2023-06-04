@@ -1,11 +1,11 @@
 # Atlantic Records
 
-49 songs
+50 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Atlantic Records (33 tracks)
+- Atlantic Records (34 tracks)
 - Aftermath Entertainment/Atlantic (7 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
@@ -31,7 +31,7 @@ Appears as:
 
 
 <details>
-<summary>See all 45 artists</summary>
+<summary>See all 46 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -68,6 +68,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 1 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5d79c36c464a18b9d0d5d79" alt="" width="50" /> | 1 | 0 | AleXa | [🔗](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a39389bb6dd8fd79c0fff3a2" alt="" width="50" /> | 1 | 0 | American Song Contest | [🔗](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 1 | 0 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85b6cbf01747c44e145c5a20" alt="" width="50" /> | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27c55a5e9ed2a41c01589fae" alt="" width="50" /> | 1 | 0 | Tiësto | [🔗](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) |
 
@@ -93,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -114,36 +115,37 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | 1 | 0 | Hot In It | 2022-06-30 | [🔗](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | 1 | 0 | Heathens | 2016-06-16 | [🔗](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | 1 | 0 | Christmas Cheers (Deluxe) | 2009-11-02 | [🔗](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 1 | 0 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 
 </details>
 
 
-![Bar chart of top 29 albums](../../images/labels/atlantic_records/albums.png)
+![Bar chart of top 30 albums](../../images/labels/atlantic_records/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 26 | 21 | [pop](../../genres/pop/overview.md) |
+| 27 | 21 | [pop](../../genres/pop/overview.md) |
 | 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | show tunes |
 | 8 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 4 | 2 | [rap](../../genres/rap/overview.md) |
+| 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | washington indie |
 | 2 | 2 | vocal jazz |
 | 2 | 2 | trap queen |
 | 2 | 2 | seattle indie |
-| 2 | 2 | [neo mellow](../../genres/neo_mellow/overview.md) |
 
 
 <details>
-<summary>See all 49 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
+| 2 | 2 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 2 | minnesota hip hop |
 | 2 | 2 | indietronica |
 | 2 | 2 | indie rock |
@@ -161,7 +163,7 @@ Appears as:
 | 1 | 1 | candy pop |
 | 1 | 1 | bedroom soul |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
-| 3 | 0 | [rock](../../genres/rock/overview.md) |
+| 4 | 0 | [rock](../../genres/rock/overview.md) |
 | 3 | 0 | hard rock |
 | 3 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 0 | [album rock](../../genres/album_rock/overview.md) |
@@ -171,6 +173,7 @@ Appears as:
 | 1 | 0 | trance |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
+| 1 | 0 | pov: indie |
 | 1 | 0 | pop dance |
 | 1 | 0 | pittsburgh rap |
 | 1 | 0 | new orleans rap |
@@ -247,6 +250,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | The 12 Days of Christmas | Christmas Cheers (Deluxe) | Straight No Chaser | [Atco/Atlantic](.) | | [🔗](https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | I Want You Back (feat. Sara Bareilles) | Under the Influence (Ultimate Edition) | Straight No Chaser, [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5teF3el9gP5j2cf7Dvkbm0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | Hot In It | Hot In It | Charli XCX, Tiësto | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | Heathens | Heathens | Twenty One Pilots | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="" width="50" /> | See You Again (feat. Charlie Puth) | See You Again (feat. Charlie Puth) | Wiz Khalifa, Charlie Puth | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) |
 
 </details>

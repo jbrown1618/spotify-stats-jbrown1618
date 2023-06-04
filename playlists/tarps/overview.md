@@ -252,7 +252,6 @@
 | 3 | 2 | atl hip hop |
 | 2 | 2 | soul |
 | 2 | 2 | motown |
-| 2 | 2 | country road |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
@@ -286,6 +285,7 @@
 | 1 | 1 | electropop |
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
+| 1 | 1 | country road |
 | 1 | 1 | classic soul |
 | 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |

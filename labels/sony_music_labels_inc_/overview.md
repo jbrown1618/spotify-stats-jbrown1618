@@ -73,9 +73,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 2 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 8 | 1 | j-pop |
 | 4 | 1 | japanese singer-songwriter |
 | 3 | 1 | japanese teen pop |

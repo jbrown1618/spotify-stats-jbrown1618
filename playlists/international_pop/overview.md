@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[100 songs (50 liked)](tracks.md)
+[100 songs (49 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -33,7 +33,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddbaac1488caad62dd4e0a45" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 1 | mothy | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e1cbf495a427b26195e130" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
@@ -70,6 +69,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373fbad4f0963b52586054816" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb977f248283f291ce1789a7bb" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 0 | mothy | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | 1 | 0 | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f34daf0448f63f37f9dc35d" alt="" width="50" /> | 1 | 0 | King Gnu | [🔗](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebccc91d01fb43c5c95454682a" alt="" width="50" /> | 1 | 0 | Eden Hason | [🔗](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) |
@@ -173,7 +173,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273731953ff97a79644f6eb7b4e" alt="" width="50" /> | 1 | 1 | HELP EVER HURT NEVER | 2020-05-20 | [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | 1 | 1 | GAME | 2008 | [🔗](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273726ac2ca7910c8814a4c78a3" alt="" width="50" /> | 1 | 1 | Farra | 2019-06-28 | [🔗](https://open.spotify.com/album/1FXVq4BLk6Vl6Kr7TeSoYF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 1 | Evils Theater | 2009-06-17 | [🔗](https://open.spotify.com/album/1UkodLwja64ZFXbehIWnEN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | 1 | 1 | El Mal Querer | 2018-11-02 | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="" width="50" /> | 1 | 1 | El Dorado | 2017-05-26 | [🔗](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec2c05eda18004c5cc7a3df3" alt="" width="50" /> | 1 | 1 | Djadja | 2018-04-06 | [🔗](https://open.spotify.com/album/76VGIFOKrF1rba6Xznep45) |
@@ -221,6 +220,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | 1 | 0 | Heaven | 2018-02-14 | [🔗](https://open.spotify.com/album/3GJjPtV0iPKM3fLPvqdURX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | 1 | 0 | Habit | 2022-04-28 | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | 1 | 0 | Fijación Oral, Vol. 1 | 2005-06-03 | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 0 | Evils Theater | 2009-06-17 | [🔗](https://open.spotify.com/album/1UkodLwja64ZFXbehIWnEN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | 1 | 0 | Doobey (From "Gehraiyaan") | 2022-01-24 | [🔗](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 1 | 0 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
@@ -275,7 +275,6 @@
 | 1 | 1 | Play Two |
 | 1 | 1 | Parkwood Entertainment |
 | 1 | 1 | Mescal |
-| 1 | 1 | KarenT |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | El Cartel Records (EC3) |
 | 1 | 1 | Angèle VL Records |
@@ -306,6 +305,7 @@
 | 1 | 0 | NaNa Disc |
 | 1 | 0 | NEON16 |
 | 1 | 0 | Mobile1 Music |
+| 1 | 0 | KarenT |
 | 1 | 0 | Homeboy music |
 | 1 | 0 | Giraffe Pakistan |
 | 1 | 0 | Echame La Culpa PS |
@@ -362,7 +362,6 @@
 | 2 | 1 | rap tunisien |
 | 2 | 1 | puerto rican pop |
 | 2 | 1 | japanese emo |
-| 1 | 1 | vocaloid |
 | 1 | 1 | variete francaise |
 | 1 | 1 | spanish pop |
 | 1 | 1 | rap latina |
@@ -397,6 +396,7 @@
 | 2 | 0 | classic j-pop |
 | 2 | 0 | chinese idol pop |
 | 2 | 0 | 48g |
+| 1 | 0 | vocaloid |
 | 1 | 0 | thai pop |
 | 1 | 0 | taiwan indie |
 | 1 | 0 | rap francais |

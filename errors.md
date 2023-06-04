@@ -8,14 +8,14 @@
 | Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 72 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 65 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 64 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 64 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 64 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 69 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 74 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 74 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 66 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 65 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 89 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 81 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
-| Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 71 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 85 | | ADOR | |
+| Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 70 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 85 | | ADOR | |
 | Mixtape : Time Out [🔗](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | 67 | 2022-08-01 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Mixtape : Time Out [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 60 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | |
 | Mixtape : Time Out [🔗](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | 0 | 2023-06-02 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 5-STAR [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 0 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Republic Records - Stray Kids | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 87 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
@@ -274,23 +274,23 @@
 | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 38 |
-| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
-| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 1 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
+| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 54 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 54 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 1 | 54 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
@@ -367,7 +367,7 @@
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 39 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 39 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 39 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 69 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 68 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 40 |
@@ -384,8 +384,8 @@
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 90 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 90 |
+| War of Hormone | Dark & Wild | BTS | 0 | 1 | 90 |
+| Danger | Dark & Wild | BTS | 0 | 1 | 90 |
 | Butter | Butter | BTS | 2 | 0 | 90 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
@@ -413,12 +413,12 @@
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 57 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
-| Boat | Boat | george | 2 | 0 | 51 |
+| Boat | Boat | george | 1 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 48 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | ICY | IT'z ICY | ITZY | 1 | 0 | 71 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |

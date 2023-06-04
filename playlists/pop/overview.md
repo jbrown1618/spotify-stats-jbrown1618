@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[385 songs (279 liked)](tracks.md)
+[386 songs (279 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -61,6 +61,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 3 | 2 | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 3 | 2 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 3 | 2 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 3 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 3 | 2 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa" alt="" width="50" /> | 3 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -76,7 +77,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5ace68c56849548db7f102be" alt="" width="50" /> | 2 | 2 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 2 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 2 | 2 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | 2 | 2 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
@@ -249,7 +249,7 @@
 |---:|---:|:---|
 | 37 | 28 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 30 | 24 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 26 | 21 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 27 | 21 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 29 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 17 | 15 | [Epic](../../labels/epic/overview.md) |
 | 20 | 13 | [Columbia](../../labels/columbia/overview.md) |
@@ -364,7 +364,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 311 | 225 | [pop](../../genres/pop/overview.md) |
+| 312 | 225 | [pop](../../genres/pop/overview.md) |
 | 95 | 67 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 31 | 18 | uk pop |
@@ -384,19 +384,19 @@
 | 13 | 10 | [rap](../../genres/rap/overview.md) |
 | 12 | 10 | atl hip hop |
 | 12 | 8 | canadian pop |
-| 10 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
+| 11 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
 | 13 | 7 | pop soul |
-| 11 | 7 | pov: indie |
+| 12 | 7 | pov: indie |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 9 | 7 | [viral pop](../../genres/viral_pop/overview.md) |
 | 9 | 7 | metropopolis |
 | 7 | 7 | alternative r&b |
 | 11 | 6 | british soul |
+| 8 | 6 | [rock](../../genres/rock/overview.md) |
 | 8 | 6 | boy band |
-| 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | girl group |
 | 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 8 | 5 | uk dance |
@@ -492,7 +492,7 @@
 | [2019](2019.md) | 45 |
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 26 |
-| [2016](2016.md) | 25 |
+| [2016](2016.md) | 26 |
 | [2015](2015.md) | 20 |
 | [2014](2014.md) | 23 |
 | 2013 | 17 |

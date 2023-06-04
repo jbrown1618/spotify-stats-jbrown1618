@@ -67,8 +67,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 26 | 18 | [k-pop](../../genres/k_pop/overview.md) |
 | 22 | 14 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 16 | 12 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
