@@ -8,7 +8,7 @@
 | Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 72 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 64 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 64 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 64 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 63 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 69 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 74 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 74 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 66 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
@@ -16,8 +16,8 @@
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 81 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 81 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Ditto [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | 89 | 2022-12-19 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | Ditto [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 81 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | ADOR | 💚 |
 | Ditto [🔗](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | 70 | 2023-01-02 | NewJeans [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | NewJeans 'OMG' [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 85 | | ADOR | |
-| Mixtape : Time Out [🔗](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | 67 | 2022-08-01 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Mixtape : Time Out [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 60 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | |
-| Mixtape : Time Out [🔗](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | 0 | 2023-06-02 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 5-STAR [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 0 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Republic Records - Stray Kids | |
+| Mixtape : Time Out [🔗](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | 68 | 2022-08-01 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | Mixtape : Time Out [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 60 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | |
+| Mixtape : Time Out [🔗](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | 63 | 2023-06-02 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 5-STAR [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 79 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Republic Records - Stray Kids | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 87 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 91 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 
@@ -27,7 +27,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 82 | 2021-11-11 | Aftermath Entertainment/Atlantic | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 75 | 2021-11-12 | Aftermath Entertainment/Atlantic | 777 [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ),<br>After Last Night (with Thundercat & Bootsy Collins) [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ),<br>Fly As Me [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W),<br>Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl),<br>Smokin Out The Window [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 64 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
+| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 63 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 92 | 2023-02-24 | WM Korea | Cupid - Twin Ver. [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7),<br>Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -46,15 +46,15 @@
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 27 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 27 |
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 31 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 31 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 31 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 31 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 31 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 31 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 31 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 31 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 30 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 30 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 30 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 30 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 30 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 30 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 30 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 30 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 30 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
@@ -73,24 +73,24 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 54 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
@@ -346,19 +346,6 @@
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 54 |
-| TOPLINE (Feat. Tiger JK) | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| THE SOUND (Korean Ver.) | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| ITEM | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| Collision | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| Super Bowl | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| S-Class | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| Hall of Fame | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| Youtiful | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| Mixtape : Time Out | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| DLC | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| FNF | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| GET LIT | 5-STAR | Stray Kids | 0 | 0 | 82 |
-| TOPLINE (Feat. Tiger JK) | 5-STAR | Tiger JK | 0 | 0 | 44 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 31 |
@@ -384,8 +371,8 @@
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 90 |
-| War of Hormone | Dark & Wild | BTS | 0 | 1 | 90 |
-| Danger | Dark & Wild | BTS | 0 | 1 | 90 |
+| War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
+| Danger | Dark & Wild | BTS | 0 | 0 | 90 |
 | Butter | Butter | BTS | 2 | 0 | 90 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
@@ -440,7 +427,7 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 1 | 0 | 74 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 1 | 0 | 75 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 1 | 0 | 74 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 41 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 60 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
