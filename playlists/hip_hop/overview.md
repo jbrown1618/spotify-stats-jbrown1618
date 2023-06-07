@@ -205,7 +205,7 @@
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 39 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -225,7 +225,6 @@
 | 1 | 1 | atlanta bass |
 | 4 | 0 | east coast hip hop |
 | 3 | 0 | gangster rap |
-| 3 | 0 | dmv rap |
 | 2 | 0 | lgbtq+ hip hop |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | pop dance |

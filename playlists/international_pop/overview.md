@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebddbaac1488caad62dd4e0a45" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6fda65162f6e91c1eb765903" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e1cbf495a427b26195e130" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
@@ -333,7 +333,7 @@
 
 
 <details>
-<summary>See all 90 genres</summary>
+<summary>See all 89 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -359,7 +359,6 @@
 | 3 | 1 | pop urbaine |
 | 3 | 1 | j-rock |
 | 2 | 1 | trap latino |
-| 2 | 1 | rap tunisien |
 | 2 | 1 | puerto rican pop |
 | 2 | 1 | japanese emo |
 | 1 | 1 | variete francaise |

@@ -2,7 +2,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | 우리집 My House | No.5 | 2PM | [JYP Entertainment](../../labels/jyp_entertainment) | | [🔗](https://open.spotify.com/track/3nQ7liRYD6pXWAP0oVPtW2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | My House | No.5 | 2PM | [JYP Entertainment](../../labels/jyp_entertainment) | | [🔗](https://open.spotify.com/track/3nQ7liRYD6pXWAP0oVPtW2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="" width="50" /> | TIC TAC | 8TURNRISE | 8TURN | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | BREATHE | B:COMPLETE | AB6IX | [WM Korea](../../labels/wm_korea) | 💚 | [🔗](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | Sugarcoat | TAKE A CHANCE | AB6IX | [WM Korea](../../labels/wm_korea) | | [🔗](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) |
@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345116036e253dc9c49a8d248" alt="" width="50" /> | I like you | I Like you | Ciipher | RAIN COMPANY Co., Ltd. | | [🔗](https://open.spotify.com/track/4XmkOBnmepAq50IS1NCERb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | Man in a movie | SUNRISE | DAY6 | [JYP Entertainment](../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2FVdoDnjz6SybHC0mJU7wa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | Man in a Movie | SUNRISE | DAY6 | [JYP Entertainment](../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2FVdoDnjz6SybHC0mJU7wa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | Sober | REBEL | DKB | 브레이브 엔터테인먼트 | 💚 | [🔗](https://open.spotify.com/track/3rEeG5sxPFP1O2OocQUb1c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | LUPIN | LUPIN | DKZ | ㈜ 동요엔터테인먼트 | 💚 | [🔗](https://open.spotify.com/track/4wWXrCe0z1rrNbgjOBxHvF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | En Garde | BOYS PLANET - ARTIST BATTLE | En Butter | [Genie Music Corporation](../../labels/genie_music_corporation) | 💚 | [🔗](https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3) |

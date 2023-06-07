@@ -81,17 +81,16 @@ Appears as:
 | 4 | 0 | [rap](../../genres/rap/overview.md) |
 | 4 | 0 | pop rap |
 | 4 | 0 | hip hop |
-| 3 | 0 | dmv rap |
 | 3 | 0 | conscious hip hop |
 | 1 | 0 | trap |
+| 1 | 0 | southern hip hop |
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | southern hip hop |
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | atl hip hop |
@@ -99,7 +98,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 14 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 13 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Tracks released under Def Jam Recordings
 
