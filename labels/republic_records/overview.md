@@ -1,11 +1,11 @@
 # Republic Records
 
-155 songs
+154 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Republic Records - Stray Kids (55 tracks)
+- Republic Records - Stray Kids (54 tracks)
 - Republic Records - TWICE (42 tracks)
 - Republic Records - ITZY (32 tracks)
 - Republic Records (13 tracks)
@@ -20,7 +20,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 42 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 55 | 23 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 54 | 24 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 32 | 18 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 8 | 5 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -56,7 +56,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 12 | 0 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 11 | 1 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 10 | 7 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 8 | 6 | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 7 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
@@ -134,10 +134,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 137 | 78 | [k-pop](../../genres/k_pop/overview.md) |
-| 113 | 64 | [pop](../../genres/pop/overview.md) |
+| 136 | 79 | [k-pop](../../genres/k_pop/overview.md) |
+| 112 | 65 | [pop](../../genres/pop/overview.md) |
 | 74 | 50 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 63 | 28 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 62 | 29 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | uk pop |
 | 1 | 1 | puerto rican pop |
@@ -275,9 +275,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | ITEM | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Mixtape : Time Out | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Super Bowl | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | THE SOUND (Korean Ver.) | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/0q9IyhNXRse5fdfYEoFOdi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | Tiger JK, [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Youtiful | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5sSv2lotkWeHZ9YSTQrdbf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | After Hours | The Weeknd | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |

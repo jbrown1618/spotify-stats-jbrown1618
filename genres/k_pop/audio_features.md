@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker (0.742) | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | YEPPI YEPPI (0.029) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | I Like That (0.737) | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="Play Game : Holiday" width="50" /> | Holiday Party (0.0294) |
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="The 1st Single &#x27;행복(Happiness)&#x27;" width="50" /> | 행복 (Happiness) (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (0.0311) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | LP (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="IM NAYEON" width="50" /> | POP! (0.0321) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Genie (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="DOUBLAST" width="50" /> | Up! (0.0326) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="SHAKE IT" width="50" /> | SHAKE IT (0.715) | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="IM NAYEON" width="50" /> | POP! (0.0321) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | LP (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="DOUBLAST" width="50" /> | Up! (0.0326) |
 
 ## Valence
 

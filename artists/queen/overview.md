@@ -10,6 +10,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 15 | [Classic Rock](../../playlists/classic_rock/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 ## Top Albums
 

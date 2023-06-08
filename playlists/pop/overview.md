@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[386 songs (279 liked)](tracks.md)
+[386 songs (278 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -44,7 +44,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | 4 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 4 | 3 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 3 | 3 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebabe53b210d382c4c450d7709" alt="" width="50" /> | 3 | 3 | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
@@ -55,6 +54,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | Usher | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 3 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 3 | 2 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 3 | 2 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 3 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
@@ -180,7 +180,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 2 | 2 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | 2 | 2 | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731764e1a1b94e887206782640" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | 2 | 2 | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 2 | 2 | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | 2 | 2 | Dirty Computer | 2018-04-27 | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
@@ -248,7 +248,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 37 | 28 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 30 | 24 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 30 | 23 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 27 | 21 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 29 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 17 | 15 | [Epic](../../labels/epic/overview.md) |
@@ -287,7 +287,6 @@
 | 3 | 2 | Fueled By Ramen |
 | 3 | 2 | Aftermath Entertainment |
 | 2 | 2 | Wondaland |
-| 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | Roc Nation |
 | 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 2 | Radiculture |
@@ -307,6 +306,7 @@
 | 2 | 2 | A Star is Born OST |
 | 2 | 2 | [143](../../labels/143/overview.md) |
 | 3 | 1 | LaFace Records |
+| 2 | 1 | Top Dawg Entertainment |
 | 2 | 1 | Island Def Jam |
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 2 | 1 | Golden Child Recordings |
@@ -364,15 +364,15 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 312 | 225 | [pop](../../genres/pop/overview.md) |
+| 312 | 224 | [pop](../../genres/pop/overview.md) |
 | 95 | 67 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
 | 31 | 18 | uk pop |
 | 22 | 17 | urban contemporary |
 | 17 | 13 | electropop |
 | 15 | 13 | neo soul |
-| 14 | 12 | [r&b](../../genres/r_b/overview.md) |
 | 14 | 12 | barbadian pop |
+| 14 | 11 | [r&b](../../genres/r_b/overview.md) |
 | 11 | 11 | australian pop |
 
 
@@ -381,8 +381,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 13 | 10 | [rap](../../genres/rap/overview.md) |
 | 12 | 10 | atl hip hop |
+| 13 | 9 | [rap](../../genres/rap/overview.md) |
+| 9 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
 | 12 | 8 | canadian pop |
 | 11 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
@@ -398,7 +399,6 @@
 | 8 | 6 | [rock](../../genres/rock/overview.md) |
 | 8 | 6 | boy band |
 | 7 | 6 | girl group |
-| 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 8 | 5 | uk dance |
 | 6 | 5 | talent show |
 | 5 | 5 | uk funky |

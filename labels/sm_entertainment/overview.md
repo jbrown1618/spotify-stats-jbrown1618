@@ -1,11 +1,11 @@
 # SM Entertainment
 
-260 songs
+259 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- SM Entertainment (258 tracks)
+- SM Entertainment (257 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -18,7 +18,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 10 | 9 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 12 | 7 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 11 | 7 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | 9 | 7 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 13 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
@@ -39,9 +39,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a86e9ca86a984f925e39c4" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c6f0ab3e5163f967c787253" alt="" width="50" /> | 6 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | 6 | 2 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ece2134de8809efcfdc9be7" alt="" width="50" /> | 6 | 2 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c6f0ab3e5163f967c787253" alt="" width="50" /> | 5 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb9fa0e20c8f29cf7c6dac3b" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 2 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
@@ -150,7 +150,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | 2 | 1 | Glitch Mode - The 2nd Album | 2022-03-28 | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f" alt="" width="50" /> | 2 | 1 | Delight - The 2nd Mini Album | 2020-05-25 | [🔗](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d3cc4b932b0e51723ab01" alt="" width="50" /> | 2 | 1 | DEEP - The 1st Mini Album | 2022-05-16 | [🔗](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734472f91a5b006d2561a53196" alt="" width="50" /> | 2 | 0 | SHALALA - The 1st Mini Album | 2023-06-05 | [🔗](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379370914709b74a323560401" alt="" width="50" /> | 2 | 0 | Dear Santa - X-Mas Special | 2015-12-04 | [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | 2 | 0 | 2021 Winter SMTOWN : SMCU EXPRESS | 2021-12-27 | [🔗](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 1 | 1 | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | 2009-03-11 | [🔗](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) |
@@ -206,6 +205,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | 1 | 1 | Floral Sense - The 1st Album (Special Version) | 2023-02-27 | [🔗](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="" width="50" /> | 1 | 1 | Favorite - The 3rd Album Repackage | 2021-10-25 | [🔗](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | 1 | 1 | EXODUS - The 2nd Album | 2015-03-30 | [🔗](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | 1 | 1 | EX'ACT | 2016-06-09 | [🔗](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) |
 
 </details>
 
@@ -216,7 +216,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 255 | 172 | [k-pop](../../genres/k_pop/overview.md) |
+| 254 | 172 | [k-pop](../../genres/k_pop/overview.md) |
 | 93 | 68 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 61 | 38 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | korean pop |
@@ -477,7 +477,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | You Better Not | INVU - The 3rd Album | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/47Vgc15moDELPzmLAQSFgO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | ZOO | 2021 Winter SMTOWN : SMCU EXPRESS | GISELLE, JENO, HENDERY, YANGYANG, TAEYONG | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="" width="50" /> | Love Theory | Love Theory - SM STATION | Wonstein, TAEYONG | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734472f91a5b006d2561a53196" alt="" width="50" /> | Move Mood Mode | SHALALA - The 1st Mini Album | [WENDY](../../artists/wendy/overview.md), TAEYONG | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4m4G6vkkOHy9zlIPm6nwea) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734472f91a5b006d2561a53196" alt="" width="50" /> | SHALALA | SHALALA - The 1st Mini Album | TAEYONG | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked | Paint Me Naked - SM STATION | TEN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="" width="50" /> | Birthday | Birthday - SM STATION : NCT LAB | TEN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) |

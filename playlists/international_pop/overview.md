@@ -356,6 +356,7 @@
 | 2 | 2 | belgian pop |
 | 8 | 1 | mandopop |
 | 4 | 1 | indonesian r&b |
+| 3 | 1 | r&b francais |
 | 3 | 1 | pop urbaine |
 | 3 | 1 | j-rock |
 | 2 | 1 | trap latino |
@@ -376,7 +377,6 @@
 | 1 | 1 | j-acoustic |
 | 1 | 1 | italian adult pop |
 | 1 | 1 | g-house |
-| 1 | 1 | francoton |
 | 1 | 1 | filmi |
 | 1 | 1 | desi pop |
 | 1 | 1 | dancehall |

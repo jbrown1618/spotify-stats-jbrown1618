@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1ab67616d0000b273303c2dba413b58c5137c69c4ab67616d0000b2738a595377408ac1b91186223bab67616d0000b273d70036292d54f29e8b68ec01" alt="Recent Comebacks" width="100" />
 
-[91 songs (69 liked)](tracks.md)
+[92 songs (70 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>See all 52 artists</summary>
+<summary>See all 53 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -55,6 +55,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed480d5867f57d4bb3a285c8" alt="" width="50" /> | 1 | 1 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Overdose | [🔗](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 1 | 1 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | 1 | 1 | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64aa2c83dd30331b56ffddf3" alt="" width="50" /> | 1 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -95,7 +96,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -130,6 +131,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | 1 | 1 | Cabin Fever | 2023-02-15 | [🔗](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="" width="50" /> | 1 | 1 | CHOSEN KARMA | 2023-03-10 | [🔗](https://open.spotify.com/album/0S6Yq3EcpbHhj1r0cuYChA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | 1 | 1 | BSS 1st Single Album 'SECOND WIND' | 2023-02-06 | [🔗](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 1 | 1 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="" width="50" /> | 1 | 1 | 1st Single 'S.i.R' | 2023-03-21 | [🔗](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="" width="50" /> | 1 | 0 | Zero | 2023-04-03 | [🔗](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="" width="50" /> | 1 | 0 | WAVE | 2023-05-09 | [🔗](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) |
@@ -148,8 +150,8 @@
 | 11 | 11 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 8 | 7 | [Warner Records](../../labels/warner_records/overview.md) |
 | 8 | 6 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 7 | 6 | [Republic Records](../../labels/republic_records/overview.md) |
 | 7 | 5 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
-| 6 | 5 | [Republic Records](../../labels/republic_records/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 4 | 4 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 8 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
@@ -192,10 +194,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 58 | 46 | [k-pop](../../genres/k_pop/overview.md) |
+| 59 | 47 | [k-pop](../../genres/k_pop/overview.md) |
 | 37 | 30 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 16 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 6 | 5 | [pop](../../genres/pop/overview.md) |
+| 17 | 11 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 7 | 6 | [pop](../../genres/pop/overview.md) |
 | 4 | 3 | anime |
 | 4 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 4 | 2 | k-rap |
@@ -211,7 +213,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 89 |
+| [2023](2023.md) | 90 |
 | 2022 | 2 |
 
 </details>
@@ -221,13 +223,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy - Winter Special Mini Album (2022-12-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy - Winter Special Mini Album (2022-12-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | Ditto (2022-12-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans &#x27;OMG&#x27;" width="50" /> | NewJeans 'OMG' (2023-01-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="Masquerade" width="50" /> | Masquerade (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | REASON (2023-01-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> | Stamp On It - The 1st Mini Album (2023-01-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="Shh" width="50" /> | Shh (2023-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album &#x27;VarioUS&#x27;" width="50" /> | The 3rd Mini Album 'VarioUS' (2023-01-31) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="WAVE" width="50" /> | WAVE (2023-05-09) | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | BSS 1st Single Album 'SECOND WIND' (2023-02-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> | Teddy Bear (2023-02-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans &#x27;OMG&#x27;" width="50" /> | NewJeans 'OMG' (2023-01-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | REASON (2023-01-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="Masquerade" width="50" /> | Masquerade (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> | Stamp On It - The 1st Mini Album (2023-01-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="The 3rd Mini Album &#x27;VarioUS&#x27;" width="50" /> | The 3rd Mini Album 'VarioUS' (2023-01-31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="Shh" width="50" /> | Shh (2023-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | BSS 1st Single Album 'SECOND WIND' (2023-02-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="WAVE" width="50" /> | WAVE (2023-05-09) | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> | Teddy Bear (2023-02-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) |

@@ -25,7 +25,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba" alt="" width="50" /> | 5 | 3 | Doja Cat | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 3 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 2 | 2 | Lindsey Stirling | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
@@ -100,7 +100,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b63bc9378aa07542c6db43d6" alt="" width="50" /> | 1 | 1 | Version | 2007-07-10 | [🔗](https://open.spotify.com/album/74ooEOK4jY2ZCWjMK6pYmk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | 1 | 1 | The Truth About Love | 2012-09-14 | [🔗](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-08 | [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | 1 | 1 | October Sky | 2021-06-11 | [🔗](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) |
@@ -124,6 +123,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | 1 | 0 | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | 1 | 0 | Slide Away | 2019-08-16 | [🔗](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="" width="50" /> | 1 | 0 | Señorita | 2019-12-02 | [🔗](https://open.spotify.com/album/40wlfdkpATRjUMtrlt6BFb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 1 | 0 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | 1 | 0 | No Tears Left to Cry | 2018-12-11 | [🔗](https://open.spotify.com/album/2f47uqbseyM4AGSCiIQaw2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c5f8c31793f6cf28146004b" alt="" width="50" /> | 1 | 0 | Never Enough | 2019-02-08 | [🔗](https://open.spotify.com/album/0c9cgQqbVL9QVvwbA6faAB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dd365a8240e6a0c0294f764" alt="" width="50" /> | 1 | 0 | Lost in Japan | 2018-12-28 | [🔗](https://open.spotify.com/album/1Zs8K8co0WkLKaQ4NxduR5) |
@@ -146,16 +146,16 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 28 | 21 | [pop](../../genres/pop/overview.md) |
+| 28 | 20 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 15 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | australian pop |
 | 8 | 8 | australian dance |
-| 5 | 4 | [rap](../../genres/rap/overview.md) |
-| 4 | 3 | [r&b](../../genres/r_b/overview.md) |
+| 5 | 3 | [rap](../../genres/rap/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
+| 7 | 2 | [rock](../../genres/rock/overview.md) |
 
 
 <details>
@@ -163,10 +163,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 2 | [rock](../../genres/rock/overview.md) |
 | 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 7 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | alternative rock |
+| 4 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 3 | 2 | garage rock |
 | 2 | 2 | pop soul |
 | 2 | 1 | talent show |
@@ -301,7 +301,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | Sia | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills (feat. Sean Paul) | This Is Acting (Deluxe Version) | Sean Paul, Sia | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | Someday | Is This It | The Strokes | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | Reptilia | Room On Fire | The Strokes | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
