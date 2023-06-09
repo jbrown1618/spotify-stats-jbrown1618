@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (0.0551) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | Crystallize (0.0563) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> | I'm a Slave 4 U (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b27331aafa752187cb0284307200" alt="SHADYXV" width="50" /> | Lose Yourself (0.059) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="MINISKIRT" width="50" /> | Miniskirt (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="Fine Line" width="50" /> | Falling (0.0592) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="Fine Line" width="50" /> | Falling (0.0592) |
 
 ## Tempo
 

@@ -1,11 +1,11 @@
 # Stone Music Entertainment
 
-67 songs
+68 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (52 tracks)
+- Genie Music Corporation, Stone Music Entertainment (53 tracks)
 - Stone Music Entertainment (8 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -26,7 +26,7 @@ Appears as:
 
 
 <details>
-<summary>See all 42 artists</summary>
+<summary>See all 43 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -62,6 +62,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10f846cd7d21c2279e44e11a" alt="" width="50" /> | 1 | 0 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | 1 | 0 | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb27819e3eca1ce5290364958" alt="" width="50" /> | 1 | 0 | THE NEW SIX | [🔗](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) |
 
 </details>
 
@@ -85,7 +86,7 @@ Appears as:
 
 
 <details>
-<summary>See all 57 albums</summary>
+<summary>See all 58 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -135,6 +136,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | 1 | 0 | Dawn | 2018-10-05 | [🔗](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | 1 | 0 | DOUBLAST | 2022-06-20 | [🔗](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | 1 | 0 | CIX 5th EP Album ‘OK’ Episode 1 : OK Not | 2022-08-22 | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | 1 | 0 | BOYHOOD | 2023-06-07 | [🔗](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 1 | 0 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
 
 </details>
@@ -149,7 +151,7 @@ Appears as:
 | 52 | 41 | [k-pop](../../genres/k_pop/overview.md) |
 | 15 | 12 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 14 | 10 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 8 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 9 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 6 | 4 | k-rap |
 | 3 | 3 | korean pop |
 | 2 | 2 | korean ost |
@@ -220,6 +222,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | Décalcomanie | MEMORY | [MAMAMOO](../../artists/mamamoo/overview.md) | [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | Wings | Wings | PIXY | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="" width="50" /> | Wicked | Remarriage and Desires (Original Soundtrack from The Netflix Series) | Seori | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | Kick It 4 Now | BOYHOOD | THE NEW SIX | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | Sorry | The Rose | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | BABY | Void | The Rose | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2xzCH9be8QS7WTuboq1s3n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | She′s In The Rain | Dawn | The Rose | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) |

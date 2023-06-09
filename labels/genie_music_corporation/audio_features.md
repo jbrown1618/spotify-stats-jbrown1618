@@ -14,8 +14,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="The Hyena on the Keyboard Pt. 4" width="50" /> | Don’t (0.85) | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1" width="50" /> | Rain and You (0.52) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff96e13b6b6d30712317a89" alt="GOOD GIRL Episode 3" width="50" /> | WITCH (0.849) | <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack)" width="50" /> | Gone (0.523) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Bye (0.824) | <img src="https://i.scdn.co/image/ab67616d0000b2732935077d74bdd9c65a3956b5" alt="Spotify Singles - Holiday" width="50" /> | For You (Holiday Remix) - Spotify Singles Holiday (0.526) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> | KNOCK (0.81) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.531) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Savior (feat. B.I) (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | Kick It 4 Now (0.824) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.531) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> | KNOCK (0.81) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.536) |
 
 ## Energy
 

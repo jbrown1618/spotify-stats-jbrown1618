@@ -1,11 +1,11 @@
 # JYP Entertainment
 
-31 songs
+33 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- JYP Entertainment (30 tracks)
+- JYP Entertainment (32 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
@@ -14,9 +14,9 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 8 | 7 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 5 | 2 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 5 | 2 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | 3 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | 2 | 2 | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 3 | 1 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 2 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | 1 | 1 | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
@@ -54,16 +54,17 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | 2 | 0 | It's Raining | 2004-10-08 | [🔗](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | 1 | 1 | Why So Lonely | 2016-07-05 | [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | 1 | 1 | When We Disco | 2020-08-12 | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | 1 | 1 | So Hot | 2008-06-03 | [🔗](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="" width="50" /> | 1 | 1 | SUNRISE | 2017-06-07 | [🔗](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | 1 | 1 | Just right | 2015-07-13 | [🔗](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | 1 | 1 | Hello, world! | 2022-07-20 | [🔗](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) |
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | 1 | 1 | Hello, world! | 2022-07-20 | [🔗](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | 1 | 1 | HUSH | 2013-11-06 | [🔗](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | 1 | 1 | FEVER | 2019-12-01 | [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Dream | 2016-01-07 | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
@@ -72,7 +73,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="" width="50" /> | 1 | 1 | A Class | 2011-07-18 | [🔗](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | 1 | 0 | This Christmas - Single | 2010-12-01 | [🔗](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | 1 | 0 | The Wonder Years - Trilogy | 2008-09-22 | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | 1 | 0 | So Hot | 2008-06-03 | [🔗](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="" width="50" /> | 1 | 0 | The Wonder Years | 2007-09-12 | [🔗](https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273948cec37077fdcd1b570c3ae" alt="" width="50" /> | 1 | 0 | REBOOT | 2015-08-03 | [🔗](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa89604a84da7861228399b" alt="" width="50" /> | 1 | 0 | Present : YOU | 2018-09-18 | [🔗](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | 1 | 0 | No.5 | 2015-06-15 | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | 1 | 0 | MAD | 2015-09-29 | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
@@ -82,14 +84,14 @@ Appears as:
 </details>
 
 
-![Bar chart of top 24 albums](../../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 26 albums](../../images/labels/jyp_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 16 | [k-pop](../../genres/k_pop/overview.md) |
-| 15 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 26 | 17 | [k-pop](../../genres/k_pop/overview.md) |
+| 17 | 12 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 8 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 2 | classic k-pop |
 | 1 | 1 | korean pop |
@@ -133,8 +135,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | I Do | It's Raining | Rain | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It′s Raining | It's Raining | Rain | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../artists/baekhyun/overview.md) | ChoongangICS, MYSTIC ENTERTAINMENT, [JYP Entertainment](.), [SM Entertainment](../sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot | So Hot | Wonder Girls | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="" width="50" /> | Tell me (Sampling From `Two Of Hearts`) | The Wonder Years | Wonder Girls | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot | So Hot | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | Nobody | The Wonder Years - Trilogy | Wonder Girls | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/7C3JLAmQzy9SnTZjKcdzCA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273948cec37077fdcd1b570c3ae" alt="" width="50" /> | Rewind | REBOOT | Wonder Girls | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/6UNRjSjhTNTu4b8fNEhDya) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely | Why So Lonely | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye bye my blue | Bye bye my blue | Yerin Baek | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |

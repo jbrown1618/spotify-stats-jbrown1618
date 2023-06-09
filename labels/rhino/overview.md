@@ -89,7 +89,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -102,7 +102,6 @@ Appears as:
 | 2 | 1 | synth funk |
 | 2 | 1 | sunshine pop |
 | 2 | 1 | stoner rock |
-| 2 | 1 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | funk rock |
 | 2 | 1 | funk |

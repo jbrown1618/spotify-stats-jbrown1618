@@ -101,7 +101,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Jay JungJae Moon | [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c7c2f36269debe54658e0f2" alt="" width="50" /> | 1 | 0 | Boris Karloff | [🔗](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa589cdca77cfcd16bb576c1" alt="" width="50" /> | 1 | 0 | Eartha Kitt | [🔗](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738595529eaa871a5bef0d6dd6" alt="" width="50" /> | 1 | 0 | Noteservice Wind Band | [🔗](https://open.spotify.com/artist/10h0cqlZG7HJ4PQ9N5tzJd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c13c561ae26ed01345d7660c" alt="" width="50" /> | 1 | 0 | Noteservice Wind Band | [🔗](https://open.spotify.com/artist/10h0cqlZG7HJ4PQ9N5tzJd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd79029462578c60eb799225d" alt="" width="50" /> | 1 | 0 | Brett Eldredge | [🔗](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |

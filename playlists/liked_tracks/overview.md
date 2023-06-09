@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1548 songs](tracks.md)
+[1549 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -268,7 +268,7 @@
 | 27 | 27 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 21 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 21 | 21 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
-| 19 | 19 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
+| 20 | 20 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 19 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 18 | 18 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 18 | 18 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
@@ -361,9 +361,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 692 | 692 | [k-pop](../../genres/k_pop/overview.md) |
+| 693 | 693 | [k-pop](../../genres/k_pop/overview.md) |
 | 392 | 392 | [pop](../../genres/pop/overview.md) |
-| 324 | 324 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 325 | 325 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 181 | 181 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -389,8 +389,8 @@
 | 30 | 30 | british invasion |
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 26 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 25 | 25 | [r&b](../../genres/r_b/overview.md) |
+| 25 | 25 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 25 | 25 | piano rock |
 | 25 | 25 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 24 | 24 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -497,7 +497,7 @@
 | [2011](2011.md) | 36 |
 | [2010](2010.md) | 40 |
 | [2009](2009.md) | 29 |
-| [2008](2008.md) | 22 |
+| [2008](2008.md) | 23 |
 | [2007](2007.md) | 25 |
 | 2006 | 13 |
 | 2005 | 14 |
@@ -556,4 +556,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="Cheetah" width="50" /> | Cheetah (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |

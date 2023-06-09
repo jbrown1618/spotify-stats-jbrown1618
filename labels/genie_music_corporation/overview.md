@@ -1,11 +1,11 @@
 # Genie Music Corporation
 
-81 songs
+82 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (52 tracks)
+- Genie Music Corporation, Stone Music Entertainment (53 tracks)
 - Genie Music Corporation (22 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -26,7 +26,7 @@ Appears as:
 
 
 <details>
-<summary>See all 65 artists</summary>
+<summary>See all 66 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -84,6 +84,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 1 | 0 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | 1 | 0 | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb27819e3eca1ce5290364958" alt="" width="50" /> | 1 | 0 | THE NEW SIX | [🔗](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | 1 | 0 | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
 
 </details>
@@ -108,7 +109,7 @@ Appears as:
 
 
 <details>
-<summary>See all 69 albums</summary>
+<summary>See all 70 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -170,6 +171,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | 1 | 0 | COLOR*IZ | 2018-10-29 | [🔗](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | 1 | 0 | CIX 5th EP Album ‘OK’ Episode 1 : OK Not | 2022-08-22 | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="" width="50" /> | 1 | 0 | BOYS PLANET - FINAL TOP9 BATTLE | 2023-04-21 | [🔗](https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | 1 | 0 | BOYHOOD | 2023-06-07 | [🔗](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 1 | 0 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
 
 </details>
@@ -183,7 +185,7 @@ Appears as:
 |---:|---:|:---|
 | 57 | 44 | [k-pop](../../genres/k_pop/overview.md) |
 | 18 | 14 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 13 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 14 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 12 | 9 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 7 | 6 | korean pop |
 | 5 | 3 | k-rap |
@@ -277,6 +279,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | Adrenaline | VINCENZO (Original Television Soundtrack) Pt. 3 | Solar | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | HEYDAY (Prod. Czaer) | Street Man Fighter Original Vol.4 (Crew Songs) | [Stray Kids](../../artists/stray_kids/overview.md) | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f" alt="" width="50" /> | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie, SURAN | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/3aBbunGtgB2Ng5rIG7QtCj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | Kick It 4 Now | BOYHOOD | THE NEW SIX | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | Sorry | The Rose | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | BABY | Void | The Rose | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2xzCH9be8QS7WTuboq1s3n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | She′s In The Rain | Dawn | The Rose | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) |

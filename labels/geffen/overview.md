@@ -81,7 +81,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | White Christmas | Holiday Inn (Original Motion Picture Soundtrack) | Ken Darby Singers, Bing Crosby, John Scott Trotter & His Orchestra | [Geffen](.) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Ken Darby Singers, Bing Crosby, John Scott Trotter & His Orchestra | [Geffen](.) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | Jingle Bell Rock | The Classic Years: 1956-1962 | Bobby Helms | [Geffen](.) | | [🔗](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | [Geffen](.) | | [🔗](https://open.spotify.com/track/65Q2mv3UlVi9eO70OpsmSe) |

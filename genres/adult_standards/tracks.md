@@ -2,7 +2,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | White Christmas | Holiday Inn (Original Motion Picture Soundtrack) | Ken Darby Singers, Bing Crosby, John Scott Trotter & His Orchestra | [Geffen](../../labels/geffen) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Ken Darby Singers, Bing Crosby, John Scott Trotter & His Orchestra | [Geffen](../../labels/geffen) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](../../labels/geffen) | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="" width="50" /> | Rockin' Around The Christmas Tree | Merry Christmas From Brenda Lee | Brenda Lee | MCA Nashville | | [🔗](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Easy | Commodores | Commodores | [Motown](../../labels/motown) | 💚 | [🔗](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) |
