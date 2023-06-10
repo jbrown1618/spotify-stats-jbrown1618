@@ -159,15 +159,14 @@
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
 | 2 | 0 | comedy |
-| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
+| 1 | 0 | traditional blues |
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 26 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | traditional blues |
 | 1 | 0 | tin pan alley |
 | 1 | 0 | swing |
 | 1 | 0 | soul |
@@ -188,7 +187,7 @@
 </details>
 
 
-![Bar chart of top 27 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 26 genres](../../images/playlists/disney/genres.png)
 
 ## Years
 

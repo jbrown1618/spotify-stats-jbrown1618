@@ -2,7 +2,7 @@
 # BTS
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb5704a64f34fe29ff73ab56bb" alt="BTS" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="BTS" width="100" />
 
 [See Audio Features](audio_features.md)
 

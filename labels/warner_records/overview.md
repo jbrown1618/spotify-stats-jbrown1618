@@ -147,7 +147,7 @@ Appears as:
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -191,7 +191,6 @@ Appears as:
 | 1 | 0 | hip hop |
 | 1 | 0 | gangster rap |
 | 1 | 0 | east coast hip hop |
-| 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 
 </details>
 
