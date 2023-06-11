@@ -61,12 +61,11 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 21 | 0 | classical |
-| 20 | 0 | lullaby |
 | 20 | 0 | classical era |
 | 2 | 0 | novelty |
 | 1 | 0 | post-romantic era |
 
-![Bar chart of top 5 genres](../../images/labels/warner_music_group___x5_music_group/genres.png)
+![Bar chart of top 4 genres](../../images/labels/warner_music_group___x5_music_group/genres.png)
 
 ## Tracks released under Warner Music Group - X5 Music Group
 

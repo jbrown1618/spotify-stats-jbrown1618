@@ -70,7 +70,6 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 115 | 0 | lullaby |
 | 115 | 0 | classical era |
 | 115 | 0 | classical |
 | 1 | 0 | vocal jazz |
@@ -81,7 +80,7 @@ Appears as:
 | 1 | 0 | k-rap |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 
-![Bar chart of top 10 genres](../../images/labels/ume___global_clearing_house/genres.png)
+![Bar chart of top 9 genres](../../images/labels/ume___global_clearing_house/genres.png)
 
 ## Tracks released under UME - Global Clearing House
 

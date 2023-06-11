@@ -146,20 +146,19 @@
 | 22 | 0 | post-romantic era |
 | 18 | 0 | russian romanticism |
 | 15 | 0 | ukrainian classical |
-| 14 | 0 | lullaby |
 | 14 | 0 | classical era |
 | 13 | 0 | choral |
 | 9 | 0 | 21st century classical |
 | 8 | 0 | neoclassicism |
 | 8 | 0 | early modern classical |
+| 8 | 0 | contemporary choir |
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 0 | contemporary choir |
 | 8 | 0 | american 21st century classical |
 | 5 | 0 | polyphony |
 | 4 | 0 | vocal ensemble |
@@ -182,7 +181,7 @@
 </details>
 
 
-![Bar chart of top 29 genres](../../images/playlists/choral/genres.png)
+![Bar chart of top 28 genres](../../images/playlists/choral/genres.png)
 
 ## Years
 

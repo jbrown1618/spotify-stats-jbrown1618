@@ -70,14 +70,13 @@ Appears as:
 
 
 <details>
-<summary>See all 17 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 4 | 0 | choral |
 | 4 | 0 | cambridge choir |
 | 4 | 0 | british choir |
-| 3 | 0 | lullaby |
 | 3 | 0 | classical era |
 | 1 | 0 | sleep |
 | 1 | 0 | gregorian chant |
@@ -85,7 +84,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 17 genres](../../images/labels/warner_classics/genres.png)
+![Bar chart of top 16 genres](../../images/labels/warner_classics/genres.png)
 
 ## Tracks released under Warner Classics
 

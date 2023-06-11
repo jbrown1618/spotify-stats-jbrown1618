@@ -61,24 +61,23 @@ Appears as:
 | 95 | 0 | early romantic era |
 | 29 | 0 | russian modern classical |
 | 29 | 0 | compositional ambient |
-| 11 | 0 | lullaby |
 | 9 | 0 | late romantic era |
 | 8 | 0 | post-romantic era |
 | 8 | 0 | impressionism |
+| 8 | 0 | czech classical |
 
 
 <details>
-<summary>See all 12 genres</summary>
+<summary>See all 11 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 0 | czech classical |
 | 4 | 0 | neoclassicism |
 
 </details>
 
 
-![Bar chart of top 12 genres](../../images/labels/harmonia_mundi/genres.png)
+![Bar chart of top 11 genres](../../images/labels/harmonia_mundi/genres.png)
 
 ## Tracks released under harmonia mundi
 

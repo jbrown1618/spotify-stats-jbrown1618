@@ -104,11 +104,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 148 | 0 | lullaby |
 | 148 | 0 | classical era |
 | 148 | 0 | classical |
 
-![Bar chart of top 3 genres](../../images/playlists/mozart/genres.png)
+
 
 ## Years
 

@@ -95,18 +95,17 @@ Appears as:
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 18 | 0 | russian romanticism |
-| 6 | 0 | lullaby |
 | 3 | 0 | impressionism |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/decca_music_group_ltd_/genres.png)
+![Bar chart of top 12 genres](../../images/labels/decca_music_group_ltd_/genres.png)
 
 ## Tracks released under Decca Music Group Ltd.
 
