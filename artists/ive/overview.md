@@ -36,6 +36,7 @@
 
 ## Genres
 
+- [k-pop](../../genres/k_pop)
 - [k-pop girl group](../../genres/k_pop_girl_group)
 
 ## Tracks

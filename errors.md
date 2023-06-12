@@ -286,7 +286,7 @@
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 54 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 1 | 54 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 54 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
@@ -362,16 +362,16 @@
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
-| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 89 |
-| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 89 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 89 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 89 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 89 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 89 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 89 |
-| Butter | Butter | BTS | 1 | 0 | 89 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 89 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 89 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
+| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 90 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 90 |
+| War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
+| Danger | Dark & Wild | BTS | 0 | 0 | 90 |
+| Butter | Butter | BTS | 1 | 0 | 90 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 57 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 57 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
@@ -414,7 +414,7 @@
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 64 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 81 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
-| Rollin' | Rollin' | Brave Girls | 2 | 0 | 50 |
+| Rollin' | Rollin' | Brave Girls | 1 | 0 | 50 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 42 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
