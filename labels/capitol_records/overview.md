@@ -1,11 +1,11 @@
 # Capitol Records
 
-24 songs
+26 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Capitol Records (20 tracks)
+- Capitol Records (22 tracks)
 - Capitol (3 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -26,7 +26,7 @@ Appears as:
 
 
 <details>
-<summary>See all 15 artists</summary>
+<summary>See all 17 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -35,11 +35,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 2 | 0 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92602f233ce2295748f44603" alt="" width="50" /> | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
+| <img src="https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822" alt="" width="50" /> | 1 | 0 | Katrina & The Waves | [🔗](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) |
 
 </details>
 
 
-![Bar chart of top 15 artists](../../images/labels/capitol_records/artists.png)
+![Bar chart of top 17 artists](../../images/labels/capitol_records/artists.png)
 
 ## Top Albums
 
@@ -58,7 +60,7 @@ Appears as:
 
 
 <details>
-<summary>See all 18 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -68,13 +70,15 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | 1 | 0 | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | 1 | 0 | Love Goes | 2020-10-30 | [🔗](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | 1 | 0 | Katrina & The Waves | 1985 | [🔗](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | 1 | 0 | Have Yourself A Merry Little Christmas | 2014-12-05 | [🔗](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="" width="50" /> | 1 | 0 | 50 Big Ones: Greatest Hits | 2012-01-01 | [🔗](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) |
 
 </details>
 
 
-![Bar chart of top 18 albums](../../images/labels/capitol_records/albums.png)
+![Bar chart of top 20 albums](../../images/labels/capitol_records/albums.png)
 
 ## Genres
 
@@ -93,7 +97,7 @@ Appears as:
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -102,18 +106,24 @@ Appears as:
 | 1 | 1 | boy band |
 | 4 | 0 | easy listening |
 | 2 | 0 | uk pop |
+| 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 2 | 0 | folk rock |
+| 1 | 0 | sunshine pop |
 | 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
-| 1 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 1 | 0 | [rock](../../genres/rock/overview.md) |
+| 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
+| 1 | 0 | new wave pop |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 1 | 0 | folk rock |
 | 1 | 0 | folk |
 | 1 | 0 | electric blues |
 | 1 | 0 | country rock |
+| 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
+| 1 | 0 | baroque pop |
 
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/capitol_records/genres.png)
+![Bar chart of top 28 genres](../../images/labels/capitol_records/genres.png)
 
 ## Tracks released under Capitol Records
 
@@ -137,6 +147,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Without Me | Manic | Halsey | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | Walking On Sunshine | Katrina & The Waves | Katrina & The Waves | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | Katy Perry | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | Katy Perry, Snoop Dogg | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | Katy Perry | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |
@@ -150,6 +161,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | Sam Smith | [Capitol](.) | | [🔗](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | Kids Again | Love Goes | Sam Smith | [Capitol](.) | | [🔗](https://open.spotify.com/track/5LL9lSNn26GBoC5StQ3itk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="" width="50" /> | Surfin' U.S.A. | 50 Big Ones: Greatest Hits | The Beach Boys | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/2EPr9Wx7e1cpGEbNAtuN7x) |
 
 </details>
 

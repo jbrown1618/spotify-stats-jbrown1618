@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Summer" width="100" />
 
-[212 songs (209 liked)](tracks.md)
+[213 songs (209 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -281,6 +281,7 @@
 | 3 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 3 | 3 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 4 | 2 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
+| 3 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 2 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 2 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 2 | 2 | SWING ENTERTAINMENT |
@@ -292,7 +293,6 @@
 | 2 | 2 | Island UK |
 | 2 | 2 | Cash Money |
 | 2 | 2 | Casablanca Records |
-| 2 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 2 | Beluga Heights |
 | 2 | 2 | ATG |
 | 1 | 1 | 우조엔터테인먼트 |
@@ -356,7 +356,7 @@
 
 
 <details>
-<summary>See all 64 genres</summary>
+<summary>See all 65 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -411,6 +411,7 @@
 | 1 | 1 | british invasion |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative rock |
+| 1 | 0 | new wave pop |
 | 1 | 0 | mandopop |
 | 1 | 0 | mainland chinese pop |
 | 1 | 0 | chinese idol pop |
@@ -452,6 +453,7 @@
 | 2001 | 1 |
 | 2000 | 1 |
 | 1999 | 1 |
+| 1985 | 1 |
 | 1983 | 1 |
 | 1978 | 3 |
 | 1977 | 3 |

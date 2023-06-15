@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[57 songs (32 liked)](tracks.md)
+[59 songs (32 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -39,8 +39,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | 1 | 0 | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92602f233ce2295748f44603" alt="" width="50" /> | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d" alt="" width="50" /> | 1 | 0 | The Archies | [🔗](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 1 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
+| <img src="https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822" alt="" width="50" /> | 1 | 0 | Katrina & The Waves | [🔗](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 1 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | 1 | 0 | Bee Gees | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
@@ -48,7 +50,7 @@
 </details>
 
 
-![Bar chart of top 26 artists](../../images/playlists/classic_pop/artists.png)
+![Bar chart of top 28 artists](../../images/playlists/classic_pop/artists.png)
 
 ![Comparison of Artist](../../images/playlists/classic_pop/artists_comparison.png)
 
@@ -69,7 +71,7 @@
 
 
 <details>
-<summary>See all 49 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -101,6 +103,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | 1 | 0 | Meet The Temptations | 1964 | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | 1 | 0 | Madman Across The Water | 1971-11-05 | [🔗](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | 1 | 0 | Katrina & The Waves | 1985 | [🔗](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="" width="50" /> | 1 | 0 | I Walk the Line (Stereo Version) | 1964-06-13 | [🔗](https://open.spotify.com/album/1kd7QnBNMg5kygoclVuDqZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 1 | 0 | I Never Loved a Man the Way I Love You | 1967-03-10 | [🔗](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="" width="50" /> | 1 | 0 | Honky Chateau | 1972-05-19 | [🔗](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) |
@@ -111,6 +114,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | 1 | 0 | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c9f79fbe073eb95007ed48f" alt="" width="50" /> | 1 | 0 | ABC | 1970-05-08 | [🔗](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="" width="50" /> | 1 | 0 | 50 Big Ones: Greatest Hits | 2012-01-01 | [🔗](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 1 | 0 | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | 2000-01-11 | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
 
 </details>
@@ -130,8 +134,8 @@
 | 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
 | 2 | 2 | [Rhino](../../labels/rhino/overview.md) |
 | 4 | 1 | [Legacy](../../labels/legacy/overview.md) |
+| 3 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 1 | Columbia Nashville Legacy |
-| 2 | 1 | Bee Gees Catalog |
 
 
 <details>
@@ -139,12 +143,12 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 1 | Bee Gees Catalog |
 | 1 | 1 | Vorsicht Musik |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Sony Music CG |
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Elektra |
-| 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | A&M |
 | 3 | 0 | EMI |
 | 1 | 0 | Ron Dante |
@@ -165,24 +169,24 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 24 | 13 | soul |
-| 16 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 15 | 8 | [rock](../../genres/rock/overview.md) |
+| 17 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 16 | 8 | [rock](../../genres/rock/overview.md) |
 | 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 13 | 7 | motown |
-| 8 | 6 | folk rock |
+| 9 | 6 | folk rock |
 | 8 | 6 | folk |
-| 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
+| 8 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 8 | 5 | [r&b](../../genres/r_b/overview.md) |
 | 5 | 5 | melancholia |
 
 
 <details>
-<summary>See all 42 genres</summary>
+<summary>See all 44 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 4 | 3 | new wave pop |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
-| 3 | 3 | new wave pop |
 | 6 | 2 | piano rock |
 | 6 | 2 | glam rock |
 | 4 | 2 | [pop](../../genres/pop/overview.md) |
@@ -206,13 +210,15 @@
 | 1 | 1 | hammond organ |
 | 1 | 1 | funk |
 | 1 | 1 | country rock |
-| 1 | 0 | sunshine pop |
+| 2 | 0 | sunshine pop |
 | 1 | 0 | southern soul |
+| 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | jazz blues |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |
 | 1 | 0 | brill building pop |
+| 1 | 0 | baroque pop |
 
 </details>
 
@@ -228,12 +234,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="Listen Without Prejudice / MTV Unplugged (Deluxe)" width="50" /> | Listen Without Prejudice / MTV Unplugged (Deluxe) (2017-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (1954-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | The Ultimate Bee Gees (2009-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> | Celebration (Bonus Track Version) (2009-09-18) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="The Very Best Of &quot;The Archies&quot;" width="50" /> | The Very Best Of "The Archies" (2007-11-07) | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> | Meet The Temptations (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli &amp; The 4 Seasons" width="50" /> | The Very Best of Frankie Valli & The 4 Seasons (2003-01-14) | <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="I Walk the Line (Stereo Version)" width="50" /> | I Walk the Line (Stereo Version) (1964-06-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | The Definitive Collection (2002-10-29) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor (2000-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin&#x27; Ready (Expanded Edition)" width="50" /> | Gettin' Ready (Expanded Edition) (1966) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="A Little Bit of Mambo" width="50" /> | A Little Bit of Mambo (1999-07-19) | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | I Never Loved a Man the Way I Love You (1967-03-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="Ladies And Gentlemen... The Best Of George Michael" width="50" /> | Ladies And Gentlemen... The Best Of George Michael (1998-11-09) | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | The Foundations (1968-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="50 Big Ones: Greatest Hits" width="50" /> | 50 Big Ones: Greatest Hits (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | The Ultimate Bee Gees (2009-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> | Celebration (Bonus Track Version) (2009-09-18) | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> | Meet The Temptations (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="The Very Best Of &quot;The Archies&quot;" width="50" /> | The Very Best Of "The Archies" (2007-11-07) | <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="I Walk the Line (Stereo Version)" width="50" /> | I Walk the Line (Stereo Version) (1964-06-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="The Very Best of Frankie Valli &amp; The 4 Seasons" width="50" /> | The Very Best of Frankie Valli & The 4 Seasons (2003-01-14) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | The Definitive Collection (2002-10-29) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11) | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin&#x27; Ready (Expanded Edition)" width="50" /> | Gettin' Ready (Expanded Edition) (1966) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor (2000-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | I Never Loved a Man the Way I Love You (1967-03-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="A Little Bit of Mambo" width="50" /> | A Little Bit of Mambo (1999-07-19) | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | The Foundations (1968-01-01) |

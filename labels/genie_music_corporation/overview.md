@@ -1,11 +1,11 @@
 # Genie Music Corporation
 
-82 songs
+83 songs
 
 [See Audio Features](audio_features.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (53 tracks)
+- Genie Music Corporation, Stone Music Entertainment (54 tracks)
 - Genie Music Corporation (22 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -26,7 +26,7 @@ Appears as:
 
 
 <details>
-<summary>See all 66 artists</summary>
+<summary>See all 67 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -81,6 +81,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 1 | 0 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10f846cd7d21c2279e44e11a" alt="" width="50" /> | 1 | 0 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | LACHICA | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fe4c2a6bc39969b4b8dbe1d" alt="" width="50" /> | 1 | 0 | OnlyOneOf | [🔗](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 1 | 0 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | 1 | 0 | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
@@ -109,7 +110,7 @@ Appears as:
 
 
 <details>
-<summary>See all 70 albums</summary>
+<summary>See all 71 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -158,6 +159,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | 1 | 0 | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | 1 | 0 | School Rapper FINAL | 2017-04-01 | [🔗](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d39be786935ba10b5875fa53" alt="" width="50" /> | 1 | 0 | SMARTPHONE | 2022-08-03 | [🔗](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce95405ac2f9655cfbb28d1e" alt="" width="50" /> | 1 | 0 | Produced by [ ], Pt. 2 | 2020-08-27 | [🔗](https://open.spotify.com/album/6h61AxXYOOJQeVtO77t51D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="" width="50" /> | 1 | 0 | Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack) | 2023-04-02 | [🔗](https://open.spotify.com/album/28afuQsobhUrDWQRaJWclH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | 1 | 0 | Melting | 2016-02-26 | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa0046f64f34c168d3acb760" alt="" width="50" /> | 1 | 0 | MONOCHROME | 2013-05-21 | [🔗](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) |
@@ -183,9 +185,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 57 | 44 | [k-pop](../../genres/k_pop/overview.md) |
+| 58 | 44 | [k-pop](../../genres/k_pop/overview.md) |
 | 18 | 14 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 14 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 15 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 12 | 9 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 7 | 6 | korean pop |
 | 5 | 3 | k-rap |
@@ -273,6 +275,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | You’re the Best | Melting | [MAMAMOO](../../artists/mamamoo/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | Drop | School Rapper FINAL | [SEULGI](../../artists/seulgi/overview.md), MARK | [Genie Music Corporation](.) | | [🔗](https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | SuperCharger | BOYS PLANET - ARTIST BATTLE | NINTYSIX | [Genie Music Corporation](.) | | [🔗](https://open.spotify.com/track/6dh7woGX8OfRUFanTAGhp4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce95405ac2f9655cfbb28d1e" alt="" width="50" /> | a sOng Of ice&fire (Prod. by GroovyRoom) | Produced by [ ], Pt. 2 | OnlyOneOf | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/1cenZ1tlOYyToIvn8o3ZTm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | Over Me | BOYS PLANET - ARTIST BATTLE | Overdose | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | Wings | Wings | PIXY | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="" width="50" /> | Wicked | Remarriage and Desires (Original Soundtrack from The Netflix Series) | Seori | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) |

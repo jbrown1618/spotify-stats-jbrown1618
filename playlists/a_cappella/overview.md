@@ -298,7 +298,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 81 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
+| 82 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 36 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 118 | 0 | college a cappella |
 | 32 | 0 | fantasy |
@@ -311,7 +311,7 @@
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -339,6 +339,7 @@
 | 1 | 0 | folk |
 | 1 | 0 | early music |
 | 1 | 0 | classical |
+| 1 | 0 | christmas instrumental |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |
 | 1 | 0 | [album rock](../../genres/album_rock/overview.md) |

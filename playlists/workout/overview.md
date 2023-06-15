@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="Workout" width="100" />
 
-[204 songs (200 liked)](tracks.md)
+[205 songs (200 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -274,8 +274,8 @@
 | 3 | 3 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
 | 3 | 3 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
+| 3 | 2 | P NATION |
 | 2 | 2 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
-| 2 | 2 | P NATION |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Kid Ina Korner |
 | 2 | 2 | Elektra (NEK) |
@@ -330,7 +330,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 132 | 131 | [k-pop](../../genres/k_pop/overview.md) |
+| 133 | 131 | [k-pop](../../genres/k_pop/overview.md) |
 | 81 | 81 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 64 | 63 | [pop](../../genres/pop/overview.md) |
 | 45 | 44 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -417,7 +417,7 @@
 |:---|---:|
 | 2023 | 16 |
 | [2022](2022.md) | 28 |
-| [2021](2021.md) | 33 |
+| [2021](2021.md) | 34 |
 | [2020](2020.md) | 31 |
 | 2019 | 16 |
 | 2018 | 9 |

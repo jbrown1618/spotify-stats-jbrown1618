@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1020 songs (739 liked)](tracks.md)
+[1021 songs (739 liked)](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -286,7 +286,7 @@
 | 6 | 5 | Fave Entertainment |
 | 5 | 5 | Abyss Company |
 | 7 | 4 | avex trax |
-| 6 | 4 | P NATION |
+| 7 | 4 | P NATION |
 | 5 | 4 | TEAM WANG records |
 | 4 | 4 | WM Japan |
 | 4 | 4 | THE BLACK LABEL |
@@ -364,7 +364,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 881 | 640 | [k-pop](../../genres/k_pop/overview.md) |
+| 882 | 640 | [k-pop](../../genres/k_pop/overview.md) |
 | 424 | 323 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 265 | 179 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 183 | 134 | [pop](../../genres/pop/overview.md) |
@@ -412,7 +412,7 @@
 |:---|---:|
 | [2023](2023.md) | 106 |
 | [2022](2022.md) | 262 |
-| [2021](2021.md) | 188 |
+| [2021](2021.md) | 189 |
 | [2020](2020.md) | 123 |
 | [2019](2019.md) | 73 |
 | [2018](2018.md) | 63 |

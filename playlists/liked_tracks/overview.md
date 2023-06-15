@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1553 songs](tracks.md)
+[1554 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -389,8 +389,8 @@
 | 30 | 30 | british invasion |
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 26 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 25 | 25 | [r&b](../../genres/r_b/overview.md) |
-| 25 | 25 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 25 | 25 | piano rock |
 | 25 | 25 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 24 | 24 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -487,7 +487,7 @@
 | [2021](2021.md) | 185 |
 | [2020](2020.md) | 135 |
 | [2019](2019.md) | 118 |
-| [2018](2018.md) | 81 |
+| [2018](2018.md) | 82 |
 | [2017](2017.md) | 73 |
 | [2016](2016.md) | 76 |
 | [2015](2015.md) | 59 |

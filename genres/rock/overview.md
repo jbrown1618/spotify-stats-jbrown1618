@@ -1,6 +1,6 @@
 # rock
 
-[204 songs](tracks.md)
+[205 songs](tracks.md)
 
 [See Audio Features](audio_features.md)
 
@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>See all 49 artists</summary>
+<summary>See all 50 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -63,6 +63,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6456e7b9c9215b3b09f4be57" alt="" width="50" /> | 1 | 0 | Iron Maiden | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92602f233ce2295748f44603" alt="" width="50" /> | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a8e28519812da4ae94b3c56" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
 
 </details>
@@ -205,7 +206,7 @@
 
 
 <details>
-<summary>See all 40 labels</summary>
+<summary>See all 41 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -239,6 +240,7 @@
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | Sanctuary Records |
 | 1 | 0 | Parlophone UK |
+| 1 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
 
 </details>
 
