@@ -193,7 +193,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 1 | 0 | 太平盛世 | 2005-08-01 | [🔗](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a09d99cdbfdb0fafee0c2318" alt="" width="50" /> | 1 | 0 | 刻在我心底的名字 (Your Name Engraved Herein) | 2020-08-25 | [🔗](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="" width="50" /> | 1 | 0 | 一比一 | 2005-06-03 | [🔗](https://open.spotify.com/album/3Om643lyJZiG4AYBr7TwDc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735133ecfa0dea624548289aa5" alt="" width="50" /> | 1 | 0 | קוביות | 2020-08-16 | [🔗](https://open.spotify.com/album/78V1vURpHgBC2SaU6ZbIYF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b163e68f32326a74e7e77c33" alt="" width="50" /> | 1 | 0 | קוביות | 2020-08-16 | [🔗](https://open.spotify.com/album/78V1vURpHgBC2SaU6ZbIYF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | 1 | 0 | עושה לי צרות | 2022-05-22 | [🔗](https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="" width="50" /> | 1 | 0 | ממותה | 2022-02-11 | [🔗](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | 1 | 0 | לך לישון | 2022-01-02 | [🔗](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) |

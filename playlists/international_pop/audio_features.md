@@ -92,7 +92,7 @@
 | ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="Mercy" width="50" /> | Mercy (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.0418) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ベテルギウス (0.494) | <img src="https://i.scdn.co/image/ab67616d0000b2735133ecfa0dea624548289aa5" alt="קוביות" width="50" /> | קוביות (0.0453) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ベテルギウス (0.494) | <img src="https://i.scdn.co/image/ab67616d0000b273b163e68f32326a74e7e77c33" alt="קוביות" width="50" /> | קוביות (0.0453) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="ממותה" width="50" /> | סתלבט בקיבוץ (0.47) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | チョコレイト・ディスコ (0.0519) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Kagerou (0.409) | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="Con Calma" width="50" /> | Con Calma (0.0574) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="潜潜話" width="50" /> | 脳裏上のクラッカー (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b273c99f58d4685a5f438e6c9167" alt="Lo Malo" width="50" /> | Lo Malo (0.0613) |

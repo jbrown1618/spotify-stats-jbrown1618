@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 90 genres</summary>
+<summary>See all 89 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -281,7 +281,6 @@
 | 1 | 1 | neo-synthpop |
 | 1 | 1 | metropopolis |
 | 1 | 1 | math rock |
-| 1 | 1 | math pop |
 | 1 | 1 | japanese emo |
 | 1 | 1 | j-rock |
 | 1 | 1 | j-pop |
