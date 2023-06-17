@@ -5,7 +5,9 @@
 
 [99 songs (8 liked)](tracks.md)
 
-[See Audio Features](audio_features.md)
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
 
 ## Top Artists
 
@@ -286,7 +288,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 35 | 7 | [k-pop](../../genres/k_pop/overview.md) |
+| 34 | 7 | [k-pop](../../genres/k_pop/overview.md) |
 | 21 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |

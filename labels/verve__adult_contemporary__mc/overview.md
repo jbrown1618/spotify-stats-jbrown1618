@@ -2,7 +2,9 @@
 
 28 songs
 
-[See Audio Features](audio_features.md)
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
 
 Appears as:
 - Verve (Adult Contemporary) MC (28 tracks)
@@ -30,7 +32,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
-| <img src="nan" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Michelle Federer | [🔗](https://open.spotify.com/artist/724Af947xg6pNu4xiwhYsV) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Jan Neuberger | [🔗](https://open.spotify.com/artist/5LATQYuPWELZCDEdGYN5YH) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |

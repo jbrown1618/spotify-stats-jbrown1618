@@ -2,9 +2,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Fitzpleasure | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Tessellate | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | I Will Follow You into the Dark | Plans | Death Cab for Cutie | [Atlantic Records](../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | What Sarah Said | Plans | Death Cab for Cutie | [Atlantic Records](../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/2JFrlsJBH4IDt3Suot97dP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Fitz and The Tantrums (Deluxe Edition) | Fitz and The Tantrums | Elektra (NEK) | 💚 | [🔗](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) |
@@ -66,3 +63,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Stressed Out | Blurryface | Twenty One Pilots | Fueled By Ramen | 💚 | [🔗](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | Heathens | Heathens | Twenty One Pilots | [Atlantic Records](../../labels/atlantic_records) | | [🔗](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Fitzpleasure | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Tessellate | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) |

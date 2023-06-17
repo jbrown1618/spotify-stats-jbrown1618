@@ -2,7 +2,9 @@
 
 33 songs
 
-[See Audio Features](audio_features.md)
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
 
 Appears as:
 - JYP Entertainment (32 tracks)
@@ -122,8 +124,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | FEVER | FEVER | SUPERBEE, J.Y. Park, [BIBI](../../artists/bibi/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, SUNMI | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | This Christmas | This Christmas - Single | Jyp Nation | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="" width="50" /> | Bad Girl Good Girl | A Class | miss A | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | Hush | HUSH | miss A | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | O.O | AD MARE | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | TANK | AD MARE | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) |
@@ -142,6 +142,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely | Why So Lonely | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye bye my blue | Bye bye my blue | Yerin Baek | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="" width="50" /> | Bad Girl Good Girl | A Class | miss A | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | Hush | HUSH | miss A | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) |
 
 </details>
 

@@ -2,8 +2,6 @@
 
 10 songs
 
-[See Audio Features](audio_features.md)
-
 Appears as:
 - Geffen (9 tracks)
 - Geffen* (1 tracks)

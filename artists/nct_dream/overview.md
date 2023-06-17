@@ -4,8 +4,6 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="NCT DREAM" width="100" />
 
-[See Audio Features](audio_features.md)
-
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

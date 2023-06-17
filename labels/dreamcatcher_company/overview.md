@@ -2,8 +2,6 @@
 
 10 songs
 
-[See Audio Features](audio_features.md)
-
 Appears as:
 - DREAMCATCHER COMPANY (6 tracks)
 - Dreamcatcher Company (4 tracks)

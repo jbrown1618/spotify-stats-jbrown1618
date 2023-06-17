@@ -2,9 +2,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Fitzpleasure | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Tessellate | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | My Happy Ending | Under My Skin | Avril Lavigne | Arista | 💚 | [🔗](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6d55874f45c9b9108f5e3fb" alt="" width="50" /> | Steal My Kisses | Burn To Shine | Ben Harper And The Innocent Criminals | [Virgin Records](../../labels/virgin_records) | | [🔗](https://open.spotify.com/track/4cIwg5VY8Lo1NYwq7llOth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | Parachutes | Coldplay | Parlophone UK | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |
@@ -110,3 +107,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Stressed Out | Blurryface | Twenty One Pilots | Fueled By Ramen | 💚 | [🔗](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | Heathens | Heathens | Twenty One Pilots | [Atlantic Records](../../labels/atlantic_records) | | [🔗](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Fitzpleasure | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Tessellate | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) |

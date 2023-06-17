@@ -4,8 +4,6 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="LE SSERAFIM" width="100" />
 
-[See Audio Features](audio_features.md)
-
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -4,7 +4,9 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="Taylor Swift" width="100" />
 
-[See Audio Features](audio_features.md)
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

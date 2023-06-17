@@ -4,7 +4,9 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="100" />
 
-[See Audio Features](audio_features.md)
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -36,7 +38,6 @@
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
 - [k-pop girl group](../../genres/k_pop_girl_group)
 
 ## Tracks

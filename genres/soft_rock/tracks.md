@@ -2,7 +2,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Take on Me | Hunting High and Low | a-ha | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="" width="50" /> | Stayin Alive | The Ultimate Bee Gees | Bee Gees | Bee Gees Catalog | | [🔗](https://open.spotify.com/track/7qK3JFriCqLorQivsJYG2X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | She's Got a Way | Cold Spring Harbor | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/3Ie2eLOIj2IhKnzPwXrLbJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Captain Jack | Piano Man | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/3igkLltDaiFiMl83IdDBfm) |
@@ -67,3 +66,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Crazy Love - 2013 Remaster | Moondance (Expanded Edition) | Van Morrison | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | Crazy Love | The Essential Van Morrison | Van Morrison | Legacy Recordings | | [🔗](https://open.spotify.com/track/04glHdRn4SgTADxKoKzOoO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | Last Christmas | LAST CHRISTMAS | Wham! | [Epic](../../labels/epic) | | [🔗](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Take on Me | Hunting High and Low | a-ha | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) |
