@@ -1,15 +1,15 @@
 # Check Out Later
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="Check Out Later" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Check Out Later" width="100" />
 
-[1 songs](tracks.md)
+[5 songs (0 liked)](tracks.md)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 1 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 5 | 0 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 
 
 
@@ -19,7 +19,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 1 | 1 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | 5 | 0 | Forgive Me - The 3rd Mini Album | 2022-11-22 | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
 
 
 
@@ -27,7 +27,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 1 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 5 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 
 
 
@@ -35,8 +35,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
+| 5 | 0 | [k-pop](../../genres/k_pop/overview.md) |
 
 
 
@@ -48,4 +47,4 @@
 
 | ​ | 3 newest albums | ​​ | 3 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | The Red - The 1st Album (2015-09-09) | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | The Red - The 1st Album (2015-09-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> | Forgive Me - The 3rd Mini Album (2022-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> | Forgive Me - The 3rd Mini Album (2022-11-22) |
