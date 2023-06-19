@@ -459,6 +459,7 @@
 | 1 | 1 | dark pop |
 | 1 | 1 | complextro |
 | 1 | 1 | candy pop |
+| 1 | 1 | bubblegum bass |
 | 1 | 1 | brooklyn indie |
 | 1 | 1 | bedroom soul |
 | 1 | 1 | australian hip hop |
@@ -472,7 +473,6 @@
 | 2 | 0 | dutch edm |
 | 1 | 0 | wonky |
 | 1 | 0 | urbano latino |
-| 1 | 0 | trap latino |
 
 </details>
 
