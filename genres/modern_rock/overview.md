@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |

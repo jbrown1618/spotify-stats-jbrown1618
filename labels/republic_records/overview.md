@@ -25,7 +25,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 49 | 25 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 32 | 18 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 8 | 5 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 8 | 4 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Changbin | [🔗](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) |
@@ -80,8 +80,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 4 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 4 | 1 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 3 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 3 | 3 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 3 | 2 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | 3 | 2 | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | 3 | 1 | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
@@ -136,10 +136,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 131 | 80 | [k-pop](../../genres/k_pop/overview.md) |
+| 131 | 79 | [k-pop](../../genres/k_pop/overview.md) |
 | 107 | 66 | [pop](../../genres/pop/overview.md) |
 | 74 | 50 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 57 | 30 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 57 | 29 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | uk pop |
 | 1 | 1 | puerto rican pop |
@@ -281,7 +281,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | TOMORROW X TOGETHER | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | TOMORROW X TOGETHER | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | LO$ER=LO♡ER | The Chaos Chapter: FIGHT OR ESCAPE | TOMORROW X TOGETHER | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | Opening Sequence | minisode 2: Thursday's Child | TOMORROW X TOGETHER | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |

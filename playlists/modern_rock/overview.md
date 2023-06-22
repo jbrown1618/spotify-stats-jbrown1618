@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb734144a8667a0bab0a9b9481" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef86feb3e2b9c57897ddc453" alt="" width="50" /> | 1 | 1 | Delta Sleep | [🔗](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |

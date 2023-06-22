@@ -60,9 +60,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 2 | 0 | lounge |
 | 2 | 0 | easy listening |
-| 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | rock-and-roll |
 | 1 | 0 | rhythm and blues |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |

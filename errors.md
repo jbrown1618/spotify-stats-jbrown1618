@@ -5,10 +5,10 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | 84 | 2021-11-11 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 82 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | Aftermath Entertainment/Atlantic | |
-| Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 72 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
-| Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 59 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
+| Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 73 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
+| Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 58 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 60 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 59 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 59 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 58 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
 | Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 71 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 74 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 72 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 64 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
@@ -23,7 +23,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 82 | 2021-11-11 | Aftermath Entertainment/Atlantic | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 75 | 2021-11-12 | Aftermath Entertainment/Atlantic | 777 [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ),<br>After Last Night (with Thundercat & Bootsy Collins) [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ),<br>Fly As Me [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W),<br>Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl),<br>Smokin Out The Window [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 59 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
+| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 58 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 92 | 2023-02-24 | WM Korea | Cupid - Twin Ver. [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7),<br>Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 54 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -56,11 +56,11 @@
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 90 |
 | DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 90 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 90 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 90 |
+| War of Hormone | Dark & Wild | BTS | 0 | 1 | 90 |
+| Danger | Dark & Wild | BTS | 0 | 1 | 90 |
 | Butter | Butter | BTS | 1 | 0 | 90 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 90 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 1 | 90 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
@@ -360,14 +360,14 @@
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 39 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 39 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 39 |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 49 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 49 |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 81 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
@@ -376,6 +376,7 @@
 | The Feeling | The Good Life | Sammy Rae & The Friends | 1 | 0 | 54 |
 | Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 54 |
+| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 2 | 1 | 54 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 54 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 54 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
@@ -385,7 +386,6 @@
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 28 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 77 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 2 | 0 | 68 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 40 |
@@ -398,8 +398,8 @@
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 57 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 57 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 56 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 56 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 84 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
@@ -409,27 +409,25 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 60 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 34 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 36 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 37 |
 | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | 0 | 0 | 25 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 74 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 60 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 73 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 81 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 80 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 57 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 2 | 1 | 48 |
-| Miku | Miku | Hatsune Miku | 2 | 1 | 62 |
-| Boat | Boat | george | 1 | 0 | 50 |
+| Boat | Boat | george | 1 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 48 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 53 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
-| Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
+| Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 50 |
 | Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 42 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |

@@ -1,6 +1,6 @@
 # adult standards
 
-[42 songs](tracks.md)
+[43 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -36,15 +36,16 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" alt="" width="50" /> | 1 | 0 | Brenda Lee | [🔗](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) |
 | <img src="https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e" alt="" width="50" /> | 1 | 0 | Duke Ellington | [🔗](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Bruce Reitherman | [🔗](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd323bc0a7d2303f297d161f" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b51c93627409f4bca132d96" alt="" width="50" /> | 1 | 0 | Phil Harris | [🔗](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
 
 </details>
 
 
-![Bar chart of top 23 artists](../../images/genres/adult_standards/artists.png)
+![Bar chart of top 24 artists](../../images/genres/adult_standards/artists.png)
 
 ![Comparison of Artist](../../images/genres/adult_standards/artists_comparison.png)
 ## Top Albums
@@ -64,7 +65,7 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 33 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -84,6 +85,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="" width="50" /> | 1 | 0 | Merry Christmas From Brenda Lee | 1964-10-19 | [🔗](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | 1 | 0 | Francis A. & Edward K. | 1968-01 | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | 1 | 0 | Ella: The Legendary Decca Recordings | 1995-08-29 | [🔗](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | 1 | 0 | Ella Wishes You A Swinging Christmas (Expanded Edition) | 1960-01-01 | [🔗](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) |
@@ -106,9 +108,9 @@
 | 5 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
+| 3 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 0 | Verve Reissues |
 | 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
-| 2 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 0 | Craft Recordings |
 
 

@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | 1 | 0 | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 

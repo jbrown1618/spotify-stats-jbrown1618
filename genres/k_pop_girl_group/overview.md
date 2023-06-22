@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | 3 | 1 | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d7e6f087811f89d7c8f0706" alt="" width="50" /> | 2 | 1 | Apink | [🔗](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0beb6e59dd23aa0154a057f5" alt="" width="50" /> | 1 | 1 | Wolftyla | [🔗](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb219c902fd54336eb3f08fa8a" alt="" width="50" /> | 1 | 1 | Lapillus | [🔗](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4fb123a3174f1463c7e0c63" alt="" width="50" /> | 1 | 1 | Lapillus | [🔗](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | 1 | 1 | Lexie Liu | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c6f0ab3e5163f967c787253" alt="" width="50" /> | 1 | 1 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9fad49ad2e6c0650bd75a5d" alt="" width="50" /> | 1 | 1 | tripleS | [🔗](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) |

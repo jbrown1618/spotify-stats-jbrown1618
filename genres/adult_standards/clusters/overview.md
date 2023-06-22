@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-13 tracks
+15 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -12,15 +12,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | Sleigh Ride | Ella Wishes You A Swinging Christmas (Expanded Edition) | Ella Fitzgerald | Verve Reissues | | [🔗](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | Baby It's Cold Outside | Ella: The Legendary Decca Recordings | Ella Fitzgerald, Louis Jordan & His Tympany Five | Verve Reissues | | [🔗](https://open.spotify.com/track/5INjLnLJcfG22QkaLUMcZm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Remastered) | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | The Way You Look Tonight | Days Of Wine And Roses, Moon River And Other Academy Award Winners | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | FRANK SINATRA DIGITAL REPRISE | 💚 | [🔗](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | That's Life | That's Life | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | FRANK SINATRA DIGITAL REPRISE | | [🔗](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | B. Swanson Quartet, [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | I Wan'na Be Like You (The Monkey Song) | The Jungle Book | Phil Harris, Bruce Reitherman, Louis Prima | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/2EeVPGHq2I7fjeDfT6LEYX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | L-O-V-E - 2000 Remaster | Romance | Nat King Cole | [UME - Global Clearing House](../../../../labels/ume___global_clearing_house) | | [🔗](https://open.spotify.com/track/6OHPdG4tYiHRPUHwf68nRU) |
 ## Cluster #2
 
-10 tracks
+11 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable | Unforgettable: With Love | Natalie Cole, Nat King Cole | Craft Recordings | | [🔗](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) |
 ## Cluster #3
 
-19 tracks
+17 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

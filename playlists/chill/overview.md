@@ -74,7 +74,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbb7a9cbcad2eabbfbcb9522" alt="" width="50" /> | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61f2c97935a963ff7d2cc34b" alt="" width="50" /> | 1 | 1 | SHAUN | [🔗](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 1 | 1 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd98c32bd0f4be21e548485a" alt="" width="50" /> | 1 | 1 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 1 | 1 | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 1 | 1 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
@@ -110,7 +110,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 1 | 1 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb618eb314202aeec390a5c435" alt="" width="50" /> | 1 | 1 | D.O. | [🔗](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) |
-| <img src="https://i.scdn.co/image/914ae1ce7fb065cfb0c89794e5e41c6eca758df3" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 1 | 1 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |

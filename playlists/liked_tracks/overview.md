@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1556 songs](tracks.md)
+[1555 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -60,7 +60,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 8 | 8 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | 8 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="" width="50" /> | 8 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6293e0df5b516d366ae8394d" alt="" width="50" /> | 8 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 8 | 8 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 7 | 7 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
@@ -83,7 +83,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 6 | 6 | EVERGLOW | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | 6 | 6 | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 6 | 6 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 6 | 6 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 6 | 6 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 6 | 6 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -102,6 +101,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 5 | 5 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 5 | 5 | Jackson Wang | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 5 | 5 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 5 | 5 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 5 | 5 | Maroon 5 | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 4 | 4 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 4 | 4 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -205,7 +205,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 3 | 3 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | 3 | 3 | The Game (Deluxe Remastered Version) | 1980-06-27 | [🔗](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | 3 | 3 | The Fame | 2008-01-01 | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 3 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | 3 | 3 | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 3 | 3 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
@@ -236,6 +235,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 3 | 3 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 3 | 3 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 3 | 3 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 3 | 3 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 
 </details>
 
@@ -247,7 +247,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 178 | 178 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 90 | 90 | [Republic Records](../../labels/republic_records/overview.md) |
+| 89 | 89 | [Republic Records](../../labels/republic_records/overview.md) |
 | 61 | 61 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 60 | 60 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 60 | 60 | [Epic](../../labels/epic/overview.md) |
@@ -363,10 +363,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 699 | 699 | [k-pop](../../genres/k_pop/overview.md) |
+| 698 | 698 | [k-pop](../../genres/k_pop/overview.md) |
 | 393 | 393 | [pop](../../genres/pop/overview.md) |
 | 327 | 327 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 183 | 183 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 182 | 182 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
 | 81 | 81 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -486,7 +486,7 @@
 |:---|---:|
 | [2023](2023.md) | 83 |
 | [2022](2022.md) | 243 |
-| [2021](2021.md) | 185 |
+| [2021](2021.md) | 184 |
 | [2020](2020.md) | 135 |
 | [2019](2019.md) | 118 |
 | [2018](2018.md) | 82 |

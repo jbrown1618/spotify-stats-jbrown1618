@@ -54,11 +54,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23c6033b3b20959a2154328b" alt="" width="50" /> | 2 | 2 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc19d6c8224e8b1b94bf565e5" alt="" width="50" /> | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="" width="50" /> | 2 | 2 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6293e0df5b516d366ae8394d" alt="" width="50" /> | 2 | 2 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 2 | 2 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49634d8cc2f855cb908803a0" alt="" width="50" /> | 1 | 1 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 1 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e1cbf495a427b26195e130" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92f1b1492d684708437a51b0" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |

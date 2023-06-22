@@ -34,7 +34,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 1 | 1 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 1 | 1 | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 1 | 1 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba0b5f827861046eec17202ac" alt="" width="50" /> | 1 | 1 | KANGDANIEL | [🔗](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad8d9e3053d1abb9b3cee811" alt="" width="50" /> | 1 | 1 | KANGDANIEL | [🔗](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 1 | 1 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 1 | 1 | Gain | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 1 | 1 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |

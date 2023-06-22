@@ -64,7 +64,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4db94f0eda8e3f938aac7b4" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbc3faec4a370d8393bee7f1" alt="" width="50" /> | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
-| <img src="https://i.scdn.co/image/914ae1ce7fb065cfb0c89794e5e41c6eca758df3" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | 1 | 1 | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 1 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |

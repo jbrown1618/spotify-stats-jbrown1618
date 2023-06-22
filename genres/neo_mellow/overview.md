@@ -31,7 +31,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | 2 | 0 | Mandy Moore | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | 1 | 0 | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |

@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 2 | 1 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 2 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="" width="50" /> | 2 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6293e0df5b516d366ae8394d" alt="" width="50" /> | 2 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 1 | 1 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | 1 | 1 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f02cb3e2e6c5d3b52b3d65ba" alt="" width="50" /> | 1 | 0 | Bob Brown | [🔗](https://open.spotify.com/artist/6xWlMtfrZNsW7ZRMxQLqxw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 1 | 0 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12bddfb3ae04b0ca5905a3a4" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b01d71b55acfc94f05deebf" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273456ff006552c08e539391d12" alt="" width="50" /> | 1 | 0 | Mykola Dmytrovych Leontovych | [🔗](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273651e84af662d5cc6d9e3578d" alt="" width="50" /> | 1 | 0 | Johnny Marks | [🔗](https://open.spotify.com/artist/6UdAtUl2rb8AxzQ6uQRhzC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 1 | 0 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -82,7 +82,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | 1 | 0 | Jyp Nation | [🔗](https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd323bc0a7d2303f297d161f" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 1 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea26dccb0730df6d90d8dd09" alt="" width="50" /> | 1 | 0 | Peter Auty | [🔗](https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ) |
@@ -97,13 +97,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 0 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="" width="50" /> | 1 | 0 | Gayla Peevey | [🔗](https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb23cbe3b476060edcac630e20" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb47d4cf3a9d4005719f2eb85f" alt="" width="50" /> | 1 | 0 | HAECHAN | [🔗](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb737022ef9e0a5e9946b4a542" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0523df88868fc090771f39c7" alt="" width="50" /> | 1 | 0 | HAECHAN | [🔗](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 1 | 0 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Jay JungJae Moon | [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c7c2f36269debe54658e0f2" alt="" width="50" /> | 1 | 0 | Boris Karloff | [🔗](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa589cdca77cfcd16bb576c1" alt="" width="50" /> | 1 | 0 | Eartha Kitt | [🔗](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c13c561ae26ed01345d7660c" alt="" width="50" /> | 1 | 0 | Noteservice Wind Band | [🔗](https://open.spotify.com/artist/10h0cqlZG7HJ4PQ9N5tzJd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738595529eaa871a5bef0d6dd6" alt="" width="50" /> | 1 | 0 | Noteservice Wind Band | [🔗](https://open.spotify.com/artist/10h0cqlZG7HJ4PQ9N5tzJd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd79029462578c60eb799225d" alt="" width="50" /> | 1 | 0 | Brett Eldredge | [🔗](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
@@ -292,7 +292,7 @@
 | 21 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 14 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 15 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 12 | 0 | lounge |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -301,7 +301,7 @@
 
 
 <details>
-<summary>See all 61 genres</summary>
+<summary>See all 62 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -319,6 +319,7 @@
 | 2 | 0 | jazz |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | yodeling |
+| 1 | 0 | western swing |
 | 1 | 0 | ukrainian classical |
 | 1 | 0 | uk pop |
 | 1 | 0 | traditional country |

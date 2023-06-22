@@ -60,7 +60,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 1 | 1 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b549f4ea1ab50fbae9e4a4b" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 1 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0" alt="" width="50" /> | 1 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |

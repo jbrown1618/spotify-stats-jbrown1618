@@ -36,7 +36,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd323bc0a7d2303f297d161f" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
@@ -96,7 +96,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -111,6 +111,7 @@ Appears as:
 | 2 | 0 | brill building pop |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | yodeling |
+| 1 | 0 | western swing |
 | 1 | 0 | traditional country |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |

@@ -68,7 +68,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd98c32bd0f4be21e548485a" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | 1 | 0 | CHEETAH | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 1 | 0 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |

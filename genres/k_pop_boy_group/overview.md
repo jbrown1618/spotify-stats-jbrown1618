@@ -15,11 +15,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 27 | 22 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 18 | 11 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb465b1b62cf6eca8f851aaabc" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="" width="50" /> | 10 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6293e0df5b516d366ae8394d" alt="" width="50" /> | 10 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 13 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="" width="50" /> | 9 | 6 | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 9 | 6 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 8 | 6 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 8 | 6 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 
 
 <details>
@@ -27,8 +27,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 8 | 6 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 7 | 6 | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 9 | 5 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="" width="50" /> | 7 | 5 | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5045a0e0d423ce29d6b14ebd" alt="" width="50" /> | 6 | 4 | TREASURE | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 5 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -102,11 +102,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | 4 | 2 | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 4 | 2 | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 4 | 1 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 3 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | 3 | 3 | NCT 2018 EMPATHY | 2018-03-14 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | 3 | 3 | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | 3 | 3 | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 3 | 2 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
@@ -200,7 +200,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 61 | 38 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 57 | 30 | [Republic Records](../../labels/republic_records/overview.md) |
+| 57 | 29 | [Republic Records](../../labels/republic_records/overview.md) |
 | 34 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 25 | 21 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 18 | 11 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1023 songs (741 liked)](tracks.md)
+[1023 songs (740 liked)](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -44,13 +44,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="" width="50" /> | 10 | 8 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadffb99dc62d070da29306ff" alt="" width="50" /> | 9 | 8 | JEON SOYEON | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 9 | 8 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="" width="50" /> | 9 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6293e0df5b516d366ae8394d" alt="" width="50" /> | 9 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 8 | 7 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | GOT the beat | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 10 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 10 | 6 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="" width="50" /> | 9 | 6 | ATEEZ | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 8 | 6 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 7 | 6 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 7 | 6 | SUPER JUNIOR | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 7 | 6 | NCT U | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
@@ -60,6 +59,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 6 | 6 | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="" width="50" /> | 6 | 6 | OH MY GIRL | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 6 | 6 | j-hope | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63329d77582c519154674fd7" alt="" width="50" /> | 8 | 5 | TOMORROW X TOGETHER | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 7 | 5 | CLC | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9" alt="" width="50" /> | 7 | 5 | NewJeans | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="" width="50" /> | 6 | 5 | P1Harmony | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
@@ -103,7 +103,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe76c66001c8d4973f992208" alt="" width="50" /> | 4 | 2 | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b55f42dcb8086e37b084a8" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8148c70083a66b71b6e370e4" alt="" width="50" /> | 3 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd98c32bd0f4be21e548485a" alt="" width="50" /> | 3 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 3 | 2 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 3 | 2 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb9fa0e20c8f29cf7c6dac3b" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
@@ -197,7 +197,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | 4 | 2 | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 4 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | 3 | 3 | the collective soul and unconscious: chapter one | 2022-02-23 | [🔗](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 3 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 3 | 3 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | 3 | 3 | Oh! - The Second Album | 2010-01-28 | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | 3 | 3 | NCT 2018 EMPATHY | 2018-03-14 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
@@ -212,6 +211,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 3 | 3 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | 3 | 2 | the Billage of perception: chapter two | 2022-08-31 | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 3 | 2 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | 3 | 2 | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | 3 | 2 | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
@@ -250,7 +250,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 238 | 177 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 118 | 80 | [Republic Records](../../labels/republic_records/overview.md) |
+| 118 | 79 | [Republic Records](../../labels/republic_records/overview.md) |
 | 57 | 45 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 48 | 32 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 46 | 30 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
@@ -366,9 +366,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 874 | 636 | [k-pop](../../genres/k_pop/overview.md) |
+| 874 | 635 | [k-pop](../../genres/k_pop/overview.md) |
 | 426 | 325 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 265 | 179 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 265 | 178 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 183 | 134 | [pop](../../genres/pop/overview.md) |
 | 26 | 22 | anime |
 | 23 | 14 | k-rap |

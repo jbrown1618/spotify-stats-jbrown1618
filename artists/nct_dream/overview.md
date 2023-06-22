@@ -2,7 +2,7 @@
 # NCT DREAM
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb94b0c5c39db21d5fa92715c8" alt="NCT DREAM" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb6293e0df5b516d366ae8394d" alt="NCT DREAM" width="100" />
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
