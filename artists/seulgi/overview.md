@@ -4,6 +4,28 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="SEULGI" width="100" />
 
+## Artist Rank
+SEULGI is currently:
+- The #33 artist of all time
+- The #25 artist of the last 6 months
+
+![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
+## Top Tracks
+
+- 28 Reasons is:
+    - the #13 track of the last 6 months
+- Crown is:
+    - the #31 track of the last 6 months
+- Dead Man Runnin’ is:
+    - the #40 track of the last 6 months
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/seulgi/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/seulgi/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

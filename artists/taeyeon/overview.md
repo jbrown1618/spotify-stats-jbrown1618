@@ -8,6 +8,29 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+TAEYEON is currently:
+- The #9 artist of all time
+- The #10 artist of the last 6 months
+- The #12 artist of the last month
+
+![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
+## Top Tracks
+
+- I Got Love is:
+    - the #45 track of the last 6 months
+- Priority is:
+    - the #47 track of the last 6 months
+- Can't Control Myself is:
+    - the #12 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/taeyeon/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/taeyeon/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -8,6 +8,9 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+
+![Rank of Billy Joel over time](../../images/artists/billy_joel/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

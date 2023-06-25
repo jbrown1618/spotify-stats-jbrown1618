@@ -8,6 +8,40 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+IU is currently:
+- The #5 artist of all time
+- The #4 artist of the last 6 months
+- The #8 artist of the last month
+
+![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
+## Top Tracks
+
+- BBIBBI is:
+    - the #16 track of all time
+- LILAC is:
+    - the #28 track of all time
+- Coin is:
+    - the #37 track of all time
+- My sea is:
+    - the #11 track of the last month
+    - the #9 track of the last 6 months
+    - the #48 track of all time
+- Jam Jam is:
+    - the #40 track of the last month
+    - the #15 track of the last 6 months
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/iu/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/iu/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/iu/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

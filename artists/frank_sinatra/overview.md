@@ -4,6 +4,9 @@
 
 <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="Frank Sinatra" width="100" />
 
+## Artist Rank
+
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

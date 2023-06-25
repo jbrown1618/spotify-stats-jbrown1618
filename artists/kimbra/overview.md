@@ -8,6 +8,11 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+Kimbra is currently:
+- The #33 artist of the last 6 months
+
+![Rank of Kimbra over time](../../images/artists/kimbra/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

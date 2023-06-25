@@ -8,6 +8,9 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+
+![Rank of Beyoncé over time](../../images/artists/beyonc_/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

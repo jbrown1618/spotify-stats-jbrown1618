@@ -8,6 +8,44 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+aespa is currently:
+- The #10 artist of all time
+- The #5 artist of the last 6 months
+- The #3 artist of the last month
+
+![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
+## Top Tracks
+
+- Black Mamba is:
+    - the #13 track of all time
+- Next Level is:
+    - the #26 track of the last 6 months
+    - the #14 track of all time
+- Savage is:
+    - the #16 track of the last month
+    - the #24 track of all time
+- Illusion is:
+    - the #8 track of the last 6 months
+- Spicy is:
+    - the #1 track of the last month
+    - the #25 track of the last 6 months
+- Hold On Tight is:
+    - the #36 track of the last 6 months
+- Girls is:
+    - the #37 track of the last 6 months
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/aespa/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/aespa/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/aespa/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

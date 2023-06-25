@@ -8,6 +8,33 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+TWICE is currently:
+- The #3 artist of all time
+- The #3 artist of the last 6 months
+- The #9 artist of the last month
+
+![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
+## Top Tracks
+
+- I CAN'T STOP ME is:
+    - the #18 track of all time
+- Heart Shaker is:
+    - the #47 track of all time
+- CRY FOR ME is:
+    - the #9 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/twice/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/twice/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/twice/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

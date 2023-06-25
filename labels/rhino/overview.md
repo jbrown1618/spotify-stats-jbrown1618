@@ -83,9 +83,9 @@ Appears as:
 | 9 | 7 | folk |
 | 8 | 6 | canadian singer-songwriter |
 | 13 | 5 | [classic rock](../../genres/classic_rock/overview.md) |
-| 11 | 5 | [soft rock](../../genres/soft_rock/overview.md) |
 | 12 | 4 | [rock](../../genres/rock/overview.md) |
 | 12 | 4 | [album rock](../../genres/album_rock/overview.md) |
+| 10 | 4 | [soft rock](../../genres/soft_rock/overview.md) |
 | 6 | 4 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
 

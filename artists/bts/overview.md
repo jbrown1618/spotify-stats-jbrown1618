@@ -8,6 +8,19 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+BTS is currently:
+- The #6 artist of all time
+- The #17 artist of the last 6 months
+- The #22 artist of the last month
+
+![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/bts/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

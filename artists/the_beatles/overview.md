@@ -8,6 +8,11 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+The Beatles is currently:
+- The #46 artist of all time
+
+![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

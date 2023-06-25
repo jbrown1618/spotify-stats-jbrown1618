@@ -8,6 +8,45 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+ENHYPEN is currently:
+- The #12 artist of all time
+- The #9 artist of the last 6 months
+- The #2 artist of the last month
+
+![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
+## Top Tracks
+
+- Just A Little Bit is:
+    - the #6 track of the last month
+    - the #42 track of all time
+- Polaroid Love is:
+    - the #23 track of the last month
+    - the #45 track of all time
+- ParadoXXX Invasion is:
+    - the #6 track of the last 6 months
+- Bills is:
+    - the #3 track of the last month
+- Sacrifice (Eat Me Up) is:
+    - the #7 track of the last month
+- Chaconne is:
+    - the #15 track of the last month
+- Bite Me is:
+    - the #27 track of the last month
+- Fate is:
+    - the #33 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/enhypen/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/enhypen/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/enhypen/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

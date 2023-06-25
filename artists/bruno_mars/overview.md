@@ -8,6 +8,11 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+Bruno Mars is currently:
+- The #47 artist of the last 6 months
+
+![Rank of Bruno Mars over time](../../images/artists/bruno_mars/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

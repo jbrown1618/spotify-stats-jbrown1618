@@ -8,6 +8,11 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+Florence + The Machine is currently:
+- The #34 artist of the last 6 months
+
+![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

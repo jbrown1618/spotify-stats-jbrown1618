@@ -8,6 +8,34 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+MAMAMOO is currently:
+- The #11 artist of all time
+- The #18 artist of the last 6 months
+- The #20 artist of the last month
+
+![Rank of MAMAMOO over time](../../images/artists/mamamoo/rank_time_series.png)
+## Top Tracks
+
+- HIP is:
+    - the #43 track of the last 6 months
+    - the #1 track of all time
+- Egotistic is:
+    - the #20 track of all time
+- AYA is:
+    - the #50 track of all time
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/mamamoo/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/mamamoo/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/mamamoo/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

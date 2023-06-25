@@ -8,6 +8,9 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+
+![Rank of Lady Gaga over time](../../images/artists/lady_gaga/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

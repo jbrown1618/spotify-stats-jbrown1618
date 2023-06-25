@@ -227,9 +227,9 @@
 |---:|---:|:---|
 | 56 | 34 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 35 | 22 | [modern rock](../../genres/modern_rock/overview.md) |
 | 28 | 21 | [pop](../../genres/pop/overview.md) |
 | 36 | 20 | alternative rock |
+| 33 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |

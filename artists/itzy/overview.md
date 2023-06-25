@@ -8,6 +8,31 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+ITZY is currently:
+- The #4 artist of all time
+- The #6 artist of the last 6 months
+- The #7 artist of the last month
+
+![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
+## Top Tracks
+
+- Cheshire is:
+    - the #2 track of the last 6 months
+- Snowy is:
+    - the #50 track of the last 6 months
+- LOCO is:
+    - the #14 track of the last month
+- WANNABE is:
+    - the #45 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/itzy/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/itzy/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

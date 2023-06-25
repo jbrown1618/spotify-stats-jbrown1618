@@ -4,6 +4,29 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="LE SSERAFIM" width="100" />
 
+## Artist Rank
+LE SSERAFIM is currently:
+- The #21 artist of all time
+- The #11 artist of the last 6 months
+- The #10 artist of the last month
+
+![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
+## Top Tracks
+
+- Impurities is:
+    - the #4 track of the last 6 months
+- ANTIFRAGILE is:
+    - the #20 track of the last 6 months
+- FEARLESS is:
+    - the #36 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/le_sserafim/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/le_sserafim/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

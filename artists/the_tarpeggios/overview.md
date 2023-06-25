@@ -8,6 +8,12 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+The Tarpeggios is currently:
+- The #36 artist of all time
+- The #40 artist of the last 6 months
+
+![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

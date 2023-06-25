@@ -301,7 +301,7 @@
 
 
 <details>
-<summary>See all 62 genres</summary>
+<summary>See all 61 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -325,7 +325,6 @@
 | 1 | 0 | traditional country |
 | 1 | 0 | torch song |
 | 1 | 0 | talent show |
-| 1 | 0 | synthpop |
 | 1 | 0 | stomp and holler |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |

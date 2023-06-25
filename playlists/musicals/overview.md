@@ -91,7 +91,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Wendy Edmead | [🔗](https://open.spotify.com/artist/3F1882LLJA1TxkePqJcLud) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Cristy Candler | [🔗](https://open.spotify.com/artist/36XXapGsaRgnQEQkjPfTBl) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Jordan Gelber | [🔗](https://open.spotify.com/artist/31IEoybe2khDGCEPboqR1N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383592a34ac38c84cfa7d35d0" alt="" width="50" /> | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
+| <img src="nan" alt="" width="50" /> | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
 | <img src="https://i.scdn.co/image/50aac634edcd25da47cfa1b0c25a20d39eb28bb8" alt="" width="50" /> | 1 | 0 | Betty Buckley | [🔗](https://open.spotify.com/artist/2fAwOOtpSCnuUU1lyBB7ab) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Stephanie D'Abruzzo | [🔗](https://open.spotify.com/artist/2bvaL0chaHzVdKXjULRLeK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f021efd322122133f4b05fc3" alt="" width="50" /> | 1 | 0 | Norbert Leo Butz | [🔗](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF) |
@@ -161,7 +161,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 30 | 3 | show tunes |
-| 54 | 2 | [broadway](../../genres/broadway/overview.md) |
+| 55 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 7 | 1 | [pop rock](../../genres/pop_rock/overview.md) |

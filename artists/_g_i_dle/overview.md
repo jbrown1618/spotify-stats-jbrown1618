@@ -8,6 +8,40 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+(G)I-DLE is currently:
+- The #8 artist of all time
+- The #7 artist of the last 6 months
+- The #4 artist of the last month
+
+![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
+## Top Tracks
+
+- Uh-Oh is:
+    - the #23 track of all time
+- LATATA is:
+    - the #27 track of all time
+- Nxde is:
+    - the #49 track of the last month
+    - the #27 track of the last 6 months
+- Change is:
+    - the #33 track of the last 6 months
+- TOMBOY is:
+    - the #30 track of the last month
+- HANN (Alone in winter) is:
+    - the #38 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/_g_i_dle/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/_g_i_dle/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/_g_i_dle/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -8,6 +8,9 @@
 
 [See Clusters](clusters/overview.md)
 
+## Artist Rank
+
+![Rank of Michael Bublé over time](../../images/artists/michael_bubl_/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
