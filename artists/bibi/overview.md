@@ -14,7 +14,7 @@
 ## Top Tracks
 
 - Animal Farm is:
-    - the #21 track of the last 6 months
+    - the #24 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

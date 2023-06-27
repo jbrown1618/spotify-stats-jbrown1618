@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="K-OST" width="100" />
 
-[22 songs (18 liked)](tracks.md)
+[22 tracks (18 liked) 🔗](https://open.spotify.com/playlist/6rOVckcfZ6oCN6seCH4GWr)
 
 [See Track Features](audio_features.md)
 

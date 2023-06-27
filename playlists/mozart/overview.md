@@ -3,7 +3,7 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart" width="100" />
 
-[148 songs (0 liked)](tracks.md)
+[148 tracks (0 liked) 🔗](https://open.spotify.com/playlist/2MCvxVYbyzdWBgpnuRWsuM)
 
 [See Track Features](audio_features.md)
 

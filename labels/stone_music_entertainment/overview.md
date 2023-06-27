@@ -35,7 +35,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 2 | 2 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 2 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 2 | 2 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9cb120e6573f41f767aa47ef" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f97d79b20d5c1106baa2c5a" alt="" width="50" /> | 1 | 1 | BOBBY | [🔗](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 1 | 1 | Hwa Sa | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53869e100d817ed043bd3704" alt="" width="50" /> | 1 | 1 | CHANYEOL | [🔗](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b2739b9b36b0e22870b9f542d937ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
-[12 songs (9 liked)](tracks.md)
+[12 tracks (9 liked) 🔗](https://open.spotify.com/playlist/3cWXIQgqhOUB6slIr3oglt)
 
 [See Track Features](audio_features.md)
 

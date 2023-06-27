@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27300d0a05a7eb734aba007ad3bab67616d0000b273bdf5051b85408bc0967122f9ab67616d0000b273c29a1089b1eb3a82e5870a33ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Check Out Later" width="100" />
 
-[8 songs (0 liked)](tracks.md)
+[8 tracks (0 liked) 🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe)
 
 ## Top Artists
 

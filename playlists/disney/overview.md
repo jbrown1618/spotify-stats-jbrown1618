@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a8b6ce34511614c9373f423ab67616d0000b2732bf585fa65e5608b365f4909ab67616d0000b273597905f8f46dfc60f5a6d11fab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="Disney" width="100" />
 
-[50 songs (0 liked)](tracks.md)
+[50 tracks (0 liked) 🔗](https://open.spotify.com/playlist/6OHUelObHhiWFkbH4cwFMg)
 
 [See Track Features](audio_features.md)
 

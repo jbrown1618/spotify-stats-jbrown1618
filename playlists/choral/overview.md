@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="Choral" width="100" />
 
-[68 songs (0 liked)](tracks.md)
+[68 tracks (0 liked) 🔗](https://open.spotify.com/playlist/1PCfeawsTHOhi6DGzagL7Y)
 
 [See Track Features](audio_features.md)
 

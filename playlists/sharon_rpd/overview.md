@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[53 songs (43 liked)](tracks.md)
+[53 tracks (43 liked) 🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy)
 
 [See Track Features](audio_features.md)
 

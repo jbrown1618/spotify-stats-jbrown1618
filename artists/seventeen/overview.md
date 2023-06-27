@@ -12,7 +12,7 @@
 SEVENTEEN is currently:
 - The #13 artist of all time
 - The #20 artist of the last 6 months
-- The #23 artist of the last month
+- The #24 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
@@ -21,8 +21,8 @@ SEVENTEEN is currently:
     - the #47 track of the last month
     - the #10 track of all time
 - HOME;RUN is:
-    - the #37 track of the last month
-    - the #34 track of all time
+    - the #38 track of the last month
+    - the #35 track of all time
 
 ### Top tracks of all time over time
 

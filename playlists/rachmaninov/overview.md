@@ -3,7 +3,7 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="Rachmaninov" width="100" />
 
-[27 songs (0 liked)](tracks.md)
+[27 tracks (0 liked) 🔗](https://open.spotify.com/playlist/7LeSS5dq68CWVIOy81oza1)
 
 [See Track Features](audio_features.md)
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="K-Pop 101" width="100" />
 
-[49 songs (44 liked)](tracks.md)
+[49 tracks (44 liked) 🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC)
 
 [See Track Features](audio_features.md)
 

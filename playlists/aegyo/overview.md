@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
-[40 songs (30 liked)](tracks.md)
+[40 tracks (30 liked) 🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2)
 
 [See Track Features](audio_features.md)
 

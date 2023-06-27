@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[46 songs (32 liked)](tracks.md)
+[46 tracks (32 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
 [See Track Features](audio_features.md)
 

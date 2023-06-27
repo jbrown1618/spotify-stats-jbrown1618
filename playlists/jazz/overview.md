@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273668541439c37e365b97a1f80ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
 
-[56 songs (10 liked)](tracks.md)
+[56 tracks (10 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
 
 [See Track Features](audio_features.md)
 

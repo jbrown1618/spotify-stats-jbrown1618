@@ -20,16 +20,16 @@
 - Uh-Oh is:
     - the #23 track of all time
 - LATATA is:
-    - the #27 track of all time
+    - the #28 track of all time
 - Nxde is:
-    - the #49 track of the last month
-    - the #27 track of the last 6 months
+    - the #31 track of the last month
+    - the #26 track of the last 6 months
 - Change is:
     - the #33 track of the last 6 months
 - TOMBOY is:
-    - the #30 track of the last month
+    - the #32 track of the last month
 - HANN (Alone in winter) is:
-    - the #38 track of the last month
+    - the #39 track of the last month
 
 ### Top tracks of all time over time
 

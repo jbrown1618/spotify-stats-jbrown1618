@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="R&amp;B" width="100" />
 
-[97 songs (70 liked)](tracks.md)
+[97 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
 
 [See Track Features](audio_features.md)
 
@@ -63,7 +63,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba22623b5c4d912075ba59116" alt="" width="50" /> | 1 | 1 | Puri | [🔗](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4db94f0eda8e3f938aac7b4" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbc3faec4a370d8393bee7f1" alt="" width="50" /> | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab" alt="" width="50" /> | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | 1 | 1 | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 1 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |

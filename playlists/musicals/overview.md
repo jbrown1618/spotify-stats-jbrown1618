@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="Musicals" width="100" />
 
-[100 songs (4 liked)](tracks.md)
+[100 tracks (4 liked) 🔗](https://open.spotify.com/playlist/54LRPekls9oCtaWOnmM3N0)
 
 [See Track Features](audio_features.md)
 
@@ -160,7 +160,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 30 | 3 | show tunes |
+| 32 | 3 | show tunes |
 | 55 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |

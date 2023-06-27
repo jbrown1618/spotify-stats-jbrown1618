@@ -3,7 +3,7 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy" width="100" />
 
-[23 songs (0 liked)](tracks.md)
+[23 tracks (0 liked) 🔗](https://open.spotify.com/playlist/3bJkc96LYMneTHBCS80BAl)
 
 [See Track Features](audio_features.md)
 

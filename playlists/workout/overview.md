@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="Workout" width="100" />
 
-[205 songs (200 liked)](tracks.md)
+[205 tracks (200 liked) 🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO)
 
 [See Track Features](audio_features.md)
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="Ballet" width="100" />
 
-[138 songs (0 liked)](tracks.md)
+[138 tracks (0 liked) 🔗](https://open.spotify.com/playlist/23temGx5UrTk2wboAvEb0v)
 
 [See Track Features](audio_features.md)
 

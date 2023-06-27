@@ -3,7 +3,7 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach" width="100" />
 
-[55 songs (0 liked)](tracks.md)
+[55 tracks (0 liked) 🔗](https://open.spotify.com/playlist/2fkIDMzy3H9JWLKHnULX7s)
 
 [See Track Features](audio_features.md)
 

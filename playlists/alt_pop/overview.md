@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="Alt-Pop" width="100" />
 
-[141 songs (100 liked)](tracks.md)
+[141 tracks (100 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
 
 [See Track Features](audio_features.md)
 
@@ -273,8 +273,8 @@
 | 5 | 5 | uk dance |
 | 6 | 4 | pov: indie |
 | 4 | 4 | piano rock |
+| 9 | 3 | nyc pop |
 | 5 | 3 | deep indie singer-songwriter |
-| 8 | 2 | nyc pop |
 | 3 | 2 | indietronica |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | electro swing |

@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92602f233ce2295748f44603" alt="" width="50" /> | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7a8e28519812da4ae94b3c56" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb337d671a32b2f44d4a4e6cf2" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
 
 </details>
 

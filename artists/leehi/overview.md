@@ -18,7 +18,7 @@ LeeHi is currently:
 
 - HOLO is:
     - the #38 track of the last 6 months
-    - the #33 track of all time
+    - the #34 track of all time
 - HOLD MY HAND is:
     - the #46 track of all time
 

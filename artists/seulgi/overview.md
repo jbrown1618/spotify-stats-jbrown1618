@@ -13,7 +13,7 @@ SEULGI is currently:
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #13 track of the last 6 months
+    - the #12 track of the last 6 months
 - Crown is:
     - the #31 track of the last 6 months
 - Dead Man Runnin’ is:

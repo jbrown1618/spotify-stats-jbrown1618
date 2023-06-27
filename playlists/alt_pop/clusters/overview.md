@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Charli XCX, Rina Sawayama, VERNON, A. G. Cook | Atlantic Records UK | | [🔗](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="" width="50" /> | Boom | Anjulie | Anjulie | Hear Music | 💚 | [🔗](https://open.spotify.com/track/2Jf86nCe8O3LgAcflzxuy9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | I Feel It All | The Reminder | Feist | Universal Music Division Polydor | | [🔗](https://open.spotify.com/track/3ghgwo0BTPm329zGMQRfn7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Two Way Street | Vows (Deluxe Version) | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7ptSTFAis4UckLAfUrMfM0) |
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel. | Now, Not Yet | half•alive | [half·alive/RCA Records](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 ## Cluster #2
 
-46 tracks
+47 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -41,8 +41,8 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | ocean eyes | dont smile at me | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../../labels/darkroom) | 💚 | [🔗](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | Happier Than Ever | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../../labels/darkroom), [Interscope Records](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../../labels/darkroom), [Interscope Records](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="" width="50" /> | Daylight | Daylight | David Kushner | Miserable Music Group, LLC | 💚 | [🔗](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo | Beatrix Runs | Elizaveta | [Universal Records](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="" width="50" /> | Icarus | Messenger | Elizaveta | Flower Army Records | | [🔗](https://open.spotify.com/track/08Bp5AoOyjDsTNBlSkWTgI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Work Song | Hozier (Expanded Edition) | Hozier | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) |

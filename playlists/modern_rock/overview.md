@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[108 songs (70 liked)](tracks.md)
+[108 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -227,9 +227,9 @@
 |---:|---:|:---|
 | 56 | 34 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 35 | 22 | [modern rock](../../genres/modern_rock/overview.md) |
 | 28 | 21 | [pop](../../genres/pop/overview.md) |
 | 36 | 20 | alternative rock |
-| 33 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |

@@ -1,6 +1,6 @@
 # Liked Tracks
 
-[1554 songs](tracks.md)
+1554 tracks
 
 [See Track Features](audio_features.md)
 
@@ -382,7 +382,7 @@
 |---:|---:|:---|
 | 48 | 48 | [pop rock](../../genres/pop_rock/overview.md) |
 | 43 | 43 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 41 | 41 | [modern rock](../../genres/modern_rock/overview.md) |
+| 43 | 43 | [modern rock](../../genres/modern_rock/overview.md) |
 | 40 | 40 | [album rock](../../genres/album_rock/overview.md) |
 | 36 | 36 | [soft rock](../../genres/soft_rock/overview.md) |
 | 35 | 35 | [mellow gold](../../genres/mellow_gold/overview.md) |
@@ -466,10 +466,10 @@
 | 5 | 5 | jazz pop |
 | 5 | 5 | afrofuturism |
 | 4 | 4 | yacht rock |
+| 4 | 4 | nyc pop |
 | 4 | 4 | new wave pop |
 | 4 | 4 | korean talent show |
 | 4 | 4 | k-indie |
-| 4 | 4 | japanese electropop |
 
 </details>
 

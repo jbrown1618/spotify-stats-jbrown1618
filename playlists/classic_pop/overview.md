@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[59 songs (32 liked)](tracks.md)
+[59 tracks (32 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
 
 [See Track Features](audio_features.md)
 

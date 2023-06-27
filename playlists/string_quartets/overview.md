@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="String Quartets" width="100" />
 
-[179 songs (0 liked)](tracks.md)
+[179 tracks (0 liked) 🔗](https://open.spotify.com/playlist/6b3mJeJjM9S5XAIS8jcTAt)
 
 [See Track Features](audio_features.md)
 

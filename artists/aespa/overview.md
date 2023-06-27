@@ -20,18 +20,18 @@ aespa is currently:
 - Black Mamba is:
     - the #13 track of all time
 - Next Level is:
-    - the #26 track of the last 6 months
+    - the #23 track of the last 6 months
     - the #14 track of all time
 - Savage is:
-    - the #16 track of the last month
+    - the #15 track of the last month
     - the #24 track of all time
 - Illusion is:
-    - the #8 track of the last 6 months
+    - the #9 track of the last 6 months
 - Spicy is:
-    - the #1 track of the last month
-    - the #25 track of the last 6 months
+    - the #2 track of the last month
+    - the #22 track of the last 6 months
 - Hold On Tight is:
-    - the #36 track of the last 6 months
+    - the #35 track of the last 6 months
 - Girls is:
     - the #37 track of the last 6 months
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="Tarps" width="100" />
 
-[58 songs (38 liked)](tracks.md)
+[58 tracks (38 liked) 🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo)
 
 [See Track Features](audio_features.md)
 

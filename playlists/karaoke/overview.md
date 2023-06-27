@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="Karaoke" width="100" />
 
-[65 songs (57 liked)](tracks.md)
+[65 tracks (57 liked) 🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F)
 
 [See Track Features](audio_features.md)
 

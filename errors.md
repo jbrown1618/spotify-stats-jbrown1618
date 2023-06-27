@@ -8,10 +8,10 @@
 | Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | 73 | 2021-11-12 | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 75 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Aftermath Entertainment/Atlantic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 58 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
 | Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 48 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
-| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 58 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 57 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
-| Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 88 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) | WM Korea | 💚 |
+| Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | 57 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 56 | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) | ATTRAKT | |
+| Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | 87 | 2023-02-24 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 92 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) | WM Korea | 💚 |
 | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | 71 | 2023-04-25 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | Down to Earth [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 74 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | THEBLACKLABEL/Interscope Records | 💚 |
-| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 72 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 64 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
+| VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | 72 | 2023-01-13 | Jimin [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY),<br>TAEYANG [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | VIBE (feat. Jimin of BTS) [🔗](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 63 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | THEBLACKLABEL/Interscope Records | |
 | This Love [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) | 66 | 2002-06-25 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 72 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Interscope Records* | 💚 |
 | This Love [🔗](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | 83 | 2002 | Maroon 5 [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | Songs About Jane: 10th Anniversary Edition [🔗](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 82 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F),<br>Tarps [🔗](https://open.spotify.com/playlist/7i18RgdYPOv5E01eGmtRCo) | Interscope Records* | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 87 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
@@ -23,7 +23,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 82 | 2021-11-11 | Aftermath Entertainment/Atlantic | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 75 | 2021-11-12 | Aftermath Entertainment/Atlantic | 777 [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ),<br>After Last Night (with Thundercat & Bootsy Collins) [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ),<br>Fly As Me [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W),<br>Leave The Door Open [🔗](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl),<br>Smokin Out The Window [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 57 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
+| The Beginning: Cupid [🔗](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 56 | 2023-02-24 | ATTRAKT | Cupid [🔗](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | The Beginning: Cupid [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | 92 | 2023-02-24 | WM Korea | Cupid - Twin Ver. [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7),<br>Cupid [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | Cursed English [🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 54 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -36,12 +36,12 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 27 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 27 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 27 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 27 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 26 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 26 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 26 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 30 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 30 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 30 |
@@ -60,25 +60,25 @@
 | Danger | Dark & Wild | BTS | 0 | 1 | 90 |
 | Butter | Butter | BTS | 1 | 0 | 90 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 90 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 1 | 90 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 1 | 1 | 90 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 53 |
@@ -120,7 +120,7 @@
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 1 | 63 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 1 | 61 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Hwa Sa | 0 | 0 | 61 |
-| Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 64 |
+| Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 63 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 54 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
@@ -160,45 +160,45 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 54 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 54 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 34 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 33 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
@@ -365,11 +365,11 @@
 | 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 81 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 54 |
@@ -405,7 +405,7 @@
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 84 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 84 |
-| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 62 |
+| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 61 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 60 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 34 |
@@ -420,8 +420,8 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 80 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 57 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Boat | Boat | george | 0 | 0 | 50 |
-| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 48 |
+| Boat | Boat | george | 1 | 0 | 50 |
+| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 47 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |

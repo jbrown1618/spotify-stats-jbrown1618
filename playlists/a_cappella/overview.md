@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="A Cappella" width="100" />
 
-[294 songs (37 liked)](tracks.md)
+[294 tracks (37 liked) 🔗](https://open.spotify.com/playlist/7LQjtpZ8EZ5vWXgPoovFeC)
 
 [See Track Features](audio_features.md)
 

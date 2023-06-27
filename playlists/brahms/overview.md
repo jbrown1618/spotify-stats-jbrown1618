@@ -3,7 +3,7 @@
 
 <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms" width="100" />
 
-[32 songs (0 liked)](tracks.md)
+[32 tracks (0 liked) 🔗](https://open.spotify.com/playlist/7MnYdeDrgvc9PoWHqcGVeq)
 
 [See Track Features](audio_features.md)
 

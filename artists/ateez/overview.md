@@ -13,9 +13,9 @@ ATEEZ is currently:
 ## Top Tracks
 
 - HALAZIA is:
-    - the #16 track of the last 6 months
+    - the #15 track of the last 6 months
 - Deja Vu is:
-    - the #42 track of the last month
+    - the #43 track of the last month
 
 ### Top tracks of the last 6 months over time
 

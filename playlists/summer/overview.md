@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Summer" width="100" />
 
-[213 songs (209 liked)](tracks.md)
+[213 tracks (209 liked) 🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON)
 
 [See Track Features](audio_features.md)
 

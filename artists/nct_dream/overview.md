@@ -6,15 +6,15 @@
 
 ## Artist Rank
 NCT DREAM is currently:
-- The #25 artist of all time
-- The #30 artist of the last 6 months
-- The #31 artist of the last month
+- The #26 artist of all time
+- The #28 artist of the last 6 months
+- The #21 artist of the last month
 
 ![Rank of NCT DREAM over time](../../images/artists/nct_dream/rank_time_series.png)
 ## Top Tracks
 
 - BOOM is:
-    - the #40 track of all time
+    - the #32 track of all time
 
 ### Top tracks of all time over time
 

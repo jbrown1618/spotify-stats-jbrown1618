@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="Christmas" width="100" />
 
-[99 songs (8 liked)](tracks.md)
+[99 tracks (8 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
 
 [See Track Features](audio_features.md)
 

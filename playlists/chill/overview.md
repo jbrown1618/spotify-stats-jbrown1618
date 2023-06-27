@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[215 songs (175 liked)](tracks.md)
+[215 tracks (175 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
 
 [See Track Features](audio_features.md)
 
@@ -105,7 +105,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd5ea2417972607cdcf73364d" alt="" width="50" /> | 1 | 1 | V | [🔗](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | 1 | 1 | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d599789ce2de9b742b804e3" alt="" width="50" /> | 1 | 1 | george | [🔗](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbc3faec4a370d8393bee7f1" alt="" width="50" /> | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab" alt="" width="50" /> | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 1 | 1 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |

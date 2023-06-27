@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="Halloween" width="100" />
 
-[46 songs (41 liked)](tracks.md)
+[46 tracks (41 liked) 🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp)
 
 [See Track Features](audio_features.md)
 

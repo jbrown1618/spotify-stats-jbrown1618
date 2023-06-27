@@ -20,16 +20,16 @@ IU is currently:
 - BBIBBI is:
     - the #16 track of all time
 - LILAC is:
-    - the #28 track of all time
+    - the #29 track of all time
 - Coin is:
-    - the #37 track of all time
+    - the #36 track of all time
 - My sea is:
-    - the #11 track of the last month
-    - the #9 track of the last 6 months
+    - the #10 track of the last month
+    - the #8 track of the last 6 months
     - the #48 track of all time
 - Jam Jam is:
-    - the #40 track of the last month
-    - the #15 track of the last 6 months
+    - the #29 track of the last month
+    - the #14 track of the last 6 months
 
 ### Top tracks of all time over time
 

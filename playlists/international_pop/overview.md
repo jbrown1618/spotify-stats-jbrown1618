@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[100 songs (49 liked)](tracks.md)
+[100 tracks (49 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -109,7 +109,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cea05aba04cc9b7ad522fb4" alt="" width="50" /> | 1 | 0 | Crowd Lu | [🔗](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | 1 | 0 | Leehom Wang | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | 1 | 0 | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9bab09e161020c684510876d" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb200f6e85db2b8d9ee1729bc6" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb1ad6bada478338a27510608" alt="" width="50" /> | 1 | 0 | Maluma | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | 1 | 0 | Christine Fan | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6584a85fa605e4cba91ae250" alt="" width="50" /> | 1 | 0 | Rauw Alejandro | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
@@ -335,7 +335,7 @@
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 88 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -380,7 +380,6 @@
 | 1 | 1 | italian adult pop |
 | 1 | 1 | g-house |
 | 1 | 1 | filmi |
-| 1 | 1 | desi pop |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
 | 1 | 1 | chinese viral pop |

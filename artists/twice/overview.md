@@ -12,7 +12,7 @@
 TWICE is currently:
 - The #3 artist of all time
 - The #3 artist of the last 6 months
-- The #9 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
@@ -22,7 +22,7 @@ TWICE is currently:
 - Heart Shaker is:
     - the #47 track of all time
 - CRY FOR ME is:
-    - the #9 track of the last month
+    - the #8 track of the last month
 
 ### Top tracks of all time over time
 

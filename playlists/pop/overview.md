@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[386 songs (278 liked)](tracks.md)
+[386 tracks (278 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -468,11 +468,11 @@
 | 1 | 1 | afro r&b |
 | 4 | 0 | house |
 | 3 | 0 | progressive house |
+| 2 | 0 | singer-songwriter pop |
 | 2 | 0 | modern indie pop |
 | 2 | 0 | electro house |
 | 2 | 0 | dutch edm |
 | 1 | 0 | wonky |
-| 1 | 0 | urbano latino |
 
 </details>
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="K-R&amp;B" width="100" />
 
-[112 songs (90 liked)](tracks.md)
+[112 tracks (90 liked) 🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd)
 
 [See Track Features](audio_features.md)
 
@@ -274,10 +274,21 @@
 | 5 | 4 | k-indie |
 | 4 | 3 | korean city pop |
 | 2 | 2 | korean ost |
+| 1 | 1 | nyc pop |
 | 1 | 1 | korean trap |
+
+
+<details>
+<summary>See all 11 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 1 | 1 | korean talent show |
 
-![Bar chart of top 10 genres](../../images/playlists/k_r_b/genres.png)
+</details>
+
+
+![Bar chart of top 11 genres](../../images/playlists/k_r_b/genres.png)
 
 ## Years
 

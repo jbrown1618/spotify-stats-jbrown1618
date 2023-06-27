@@ -20,11 +20,9 @@ ITZY is currently:
 - Cheshire is:
     - the #2 track of the last 6 months
 - Snowy is:
-    - the #50 track of the last 6 months
+    - the #49 track of the last 6 months
 - LOCO is:
-    - the #14 track of the last month
-- WANNABE is:
-    - the #45 track of the last month
+    - the #11 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -12,13 +12,13 @@
 Billlie is currently:
 - The #27 artist of all time
 - The #12 artist of the last 6 months
-- The #18 artist of the last month
+- The #17 artist of the last month
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
 
 - RING X RING is:
-    - the #35 track of the last 6 months
+    - the #36 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

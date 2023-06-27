@@ -1,6 +1,6 @@
 # modern rock
 
-[62 songs](tracks.md)
+[64 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -17,16 +17,17 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | 4 | 2 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 3 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 2 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 23 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
@@ -38,12 +39,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7a8e28519812da4ae94b3c56" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb337d671a32b2f44d4a4e6cf2" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
 
 </details>
 
 
-![Bar chart of top 22 artists](../../images/genres/modern_rock/artists.png)
+![Bar chart of top 23 artists](../../images/genres/modern_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/modern_rock/artists_comparison.png)
 ## Top Albums
@@ -63,7 +64,7 @@
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -73,7 +74,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="" width="50" /> | 1 | 1 | Strange Trails | 2015-04-07 | [🔗](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 1 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 1 | 1 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | 1 | 1 | I Love You. | 2013-04-19 | [🔗](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="" width="50" /> | 1 | 1 | How To Be A Human Being | 2016-08-26 | [🔗](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) |
@@ -108,6 +111,7 @@
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
+| 4 | 4 | Fueled By Ramen |
 | 3 | 3 | Kid Ina Korner |
 | 3 | 3 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
@@ -115,7 +119,6 @@
 | 3 | 3 | ATL |
 | 7 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 4 | 2 | Glassnote Entertainment Group LLC |
-| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 
 
 <details>
@@ -123,7 +126,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 2 | Fueled By Ramen |
+| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Wolf Tone |
 | 1 | 1 | Roadrunner Records |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1ab67616d0000b273303c2dba413b58c5137c69c4ab67616d0000b2738a595377408ac1b91186223bab67616d0000b273d70036292d54f29e8b68ec01" alt="Recent Comebacks" width="100" />
 
-[99 songs (72 liked)](tracks.md)
+[99 tracks (72 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 

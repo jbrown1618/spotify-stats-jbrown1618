@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="Classic Rock" width="100" />
 
-[107 songs (64 liked)](tracks.md)
+[107 tracks (64 liked) 🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7)
 
 [See Track Features](audio_features.md)
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Singer-Songwriter" width="100" />
 
-[242 songs (148 liked)](tracks.md)
+[242 tracks (148 liked) 🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR)
 
 [See Track Features](audio_features.md)
 
