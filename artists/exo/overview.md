@@ -19,7 +19,7 @@ EXO is currently:
 - Love Shot is:
     - the #12 track of all time
 - The Eve is:
-    - the #13 track of the last month
+    - the #12 track of the last month
     - the #37 track of all time
 
 ### Top tracks of all time over time

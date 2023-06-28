@@ -17,7 +17,7 @@ NCT 127 is currently:
 ## Top Tracks
 
 - 2 Baddies is:
-    - the #27 track of the last 6 months
+    - the #47 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
