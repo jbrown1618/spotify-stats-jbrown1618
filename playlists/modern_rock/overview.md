@@ -238,7 +238,7 @@
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 90 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -247,6 +247,7 @@
 | 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
 | 6 | 5 | indie pop |
+| 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
 | 5 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 3 | 3 | steampunk |

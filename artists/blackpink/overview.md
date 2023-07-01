@@ -22,18 +22,17 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #4 track of all time
 - Crazy Over You is:
-    - the #25 track of the last month
+    - the #23 track of the last month
     - the #5 track of all time
 - Kill This Love is:
-    - the #8 track of all time
+    - the #9 track of all time
 - BOOMBAYAH is:
     - the #39 track of all time
-- WHISTLE is:
-    - the #49 track of all time
 - Pink Venom is:
-    - the #3 track of the last 6 months
+    - the #33 track of the last month
+    - the #2 track of the last 6 months
 - Shut Down is:
-    - the #19 track of the last 6 months
+    - the #27 track of the last 6 months
 
 ### Top tracks of all time over time
 

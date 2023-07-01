@@ -143,7 +143,7 @@ Appears as:
 | 12 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 3 | [rock](../../genres/rock/overview.md) |
 | 3 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
-| 3 | 2 | [rap](../../genres/rap/overview.md) |
+| 4 | 2 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | pop rap |
 
 

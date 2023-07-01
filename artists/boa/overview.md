@@ -14,9 +14,9 @@
 ## Top Tracks
 
 - Time After Time is:
-    - the #4 track of the last 6 months
+    - the #9 track of the last 6 months
 - Forgive Me is:
-    - the #28 track of the last 6 months
+    - the #41 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

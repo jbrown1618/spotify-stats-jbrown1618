@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.756) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Awadama Fever (0.000405) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="Heaven" width="50" /> | Heaven (0.741) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.00071) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="EXPLORE!" width="50" /> | Tetap Dalam Jiwa (0.722) | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi (0.00081) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="如果雨之後" width="50" /> | 永不失聯的愛 (0.624) | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="UN DIA (ONE DAY) (Feat. Tainy)" width="50" /> | UN DIA (ONE DAY) (Feat. Tainy) (0.00536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="如果雨之後" width="50" /> | 永不失聯的愛 (0.624) | <img src="https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387" alt="Cha Cha Cha" width="50" /> | Cha Cha Cha (0.00207) |
 
 ## Instrumentalness
 

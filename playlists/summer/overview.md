@@ -351,8 +351,8 @@
 | 32 | 32 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 20 | 20 | [dance pop](../../genres/dance_pop/overview.md) |
 | 15 | 15 | [rock](../../genres/rock/overview.md) |
-| 11 | 11 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 11 | 11 | [classic rock](../../genres/classic_rock/overview.md) |
+| 9 | 9 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 9 | 9 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 8 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
 

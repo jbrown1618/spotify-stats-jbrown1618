@@ -217,8 +217,8 @@
 |---:|---:|:---|
 | 20 | 16 | [pop](../../genres/pop/overview.md) |
 | 17 | 15 | [rock](../../genres/rock/overview.md) |
-| 14 | 13 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 14 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
+| 13 | 12 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
@@ -228,7 +228,7 @@
 
 
 <details>
-<summary>See all 76 genres</summary>
+<summary>See all 77 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -283,6 +283,7 @@
 | 1 | 1 | indie rock |
 | 1 | 1 | indie pop |
 | 1 | 1 | indie folk |
+| 1 | 1 | funktronica |
 | 1 | 1 | funk |
 | 1 | 1 | disco |
 | 1 | 1 | chamber pop |

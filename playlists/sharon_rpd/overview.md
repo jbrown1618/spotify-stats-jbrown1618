@@ -200,7 +200,7 @@
 | 23 | 22 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 14 | 12 | [pop](../../genres/pop/overview.md) |
 | 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 4 | 3 | [rap](../../genres/rap/overview.md) |
+| 5 | 3 | [rap](../../genres/rap/overview.md) |
 | 2 | 2 | anime |
 | 1 | 1 | west coast rap |
 | 1 | 1 | trap |

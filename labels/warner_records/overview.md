@@ -149,7 +149,7 @@ Appears as:
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 51 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -159,6 +159,7 @@ Appears as:
 | 4 | 4 | la indie |
 | 4 | 4 | indie rock |
 | 4 | 4 | indie pop |
+| 4 | 4 | funktronica |
 | 4 | 4 | chamber pop |
 | 9 | 3 | [album rock](../../genres/album_rock/overview.md) |
 | 8 | 3 | [soft rock](../../genres/soft_rock/overview.md) |

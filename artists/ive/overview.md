@@ -18,8 +18,8 @@ IVE is currently:
 ## Top Tracks
 
 - LOVE DIVE is:
-    - the #15 track of the last month
-    - the #46 track of the last 6 months
+    - the #11 track of the last month
+    - the #50 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

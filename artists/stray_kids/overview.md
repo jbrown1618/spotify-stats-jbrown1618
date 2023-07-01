@@ -17,8 +17,8 @@ Stray Kids is currently:
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
-- miss you (Hyunjin) is:
-    - the #49 track of the last 6 months
+- Thunderous is:
+    - the #39 track of the last month
 
 ### Top tracks of the last 6 months over time
 

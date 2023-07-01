@@ -18,7 +18,7 @@ Dreamcatcher is currently:
 ## Top Tracks
 
 - Odd Eye is:
-    - the #16 track of the last month
+    - the #12 track of the last month
 
 ### Top tracks of the last month over time
 

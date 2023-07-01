@@ -12,7 +12,7 @@
 aespa is currently:
 - The #10 artist of all time
 - The #5 artist of the last 6 months
-- The #3 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
@@ -20,20 +20,22 @@ aespa is currently:
 - Black Mamba is:
     - the #13 track of all time
 - Next Level is:
-    - the #22 track of the last 6 months
+    - the #19 track of the last 6 months
     - the #14 track of all time
 - Savage is:
-    - the #14 track of the last month
     - the #24 track of all time
 - Illusion is:
-    - the #9 track of the last 6 months
+    - the #27 track of the last month
+    - the #7 track of the last 6 months
 - Spicy is:
-    - the #2 track of the last month
-    - the #21 track of the last 6 months
+    - the #1 track of the last month
+    - the #14 track of the last 6 months
 - Hold On Tight is:
-    - the #34 track of the last 6 months
+    - the #35 track of the last 6 months
 - Girls is:
-    - the #36 track of the last 6 months
+    - the #49 track of the last 6 months
+- Welcome To MY World (feat. nævis) is:
+    - the #30 track of the last month
 
 ### Top tracks of all time over time
 

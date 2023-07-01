@@ -4,13 +4,13 @@
 
 ## Cluster #1
 
-29 tracks
+30 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | It's A Vibe | Pretty Girls Like Trap Music | 2 Chainz, Trey Songz, Jhené Aiko, Ty Dolla $ign | 2Chainz PS/Def Jam | | [🔗](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Ludacris, Chris Brown | [Jive](../../../../labels/jive) | 💚 | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | Me, Myself & I | When It's Dark Out | G-Eazy, Bebe Rexha | [BPG/RVG/RCA Records](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" alt="" width="50" /> | B | SYRE | Jaden | MSFTS/Roc Nation | 💚 | [🔗](https://open.spotify.com/track/4PvVX27CitqLAamcc0PCRU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright | To Pimp A Butterfly | Kendrick Lamar | Aftermath | | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | Kendrick Lamar | Aftermath | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | Everyday | Bobby Tarantino II | Logic, Marshmello | [Def Jam Recordings](../../../../labels/def_jam_recordings) | | [🔗](https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk) |

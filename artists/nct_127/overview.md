@@ -10,14 +10,12 @@
 
 ## Artist Rank
 NCT 127 is currently:
-- The #23 artist of all time
+- The #24 artist of all time
 - The #16 artist of the last 6 months
 
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks
 
-- 2 Baddies is:
-    - the #47 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
