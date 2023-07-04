@@ -45,8 +45,8 @@ Appears as:
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
-| 16 | 14 | alternative rock |
-| 6 | 3 | uk pop |
+| 16 | 14 | [alternative rock](../../genres/alternative_rock/overview.md) |
+| 6 | 3 | [uk pop](../../genres/uk_pop/overview.md) |
 | 6 | 3 | pop soul |
 | 6 | 3 | [pop](../../genres/pop/overview.md) |
 | 6 | 3 | british soul |

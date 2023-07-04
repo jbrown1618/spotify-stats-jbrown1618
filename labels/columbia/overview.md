@@ -25,11 +25,11 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 22 | 15 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 15 | 8 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
+| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 4 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 2 | 2 | Daft Punk | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 2 | 2 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 2 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
@@ -50,7 +50,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69fe9645ff5eafe34e38f4f3" alt="" width="50" /> | 1 | 1 | Harlem Yu | [🔗](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c02f4fb4cc9187c488afd50" alt="" width="50" /> | 1 | 1 | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 1 | 1 | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 1 | 1 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 1 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
@@ -77,7 +77,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75559132f961dcf3ba4f5c7a" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 1 | 0 | Jason Derulo | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 1 | 0 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 
 </details>
 
@@ -176,7 +176,7 @@ Appears as:
 | 27 | 17 | [album rock](../../genres/album_rock/overview.md) |
 | 26 | 17 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 23 | 16 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
-| 22 | 15 | piano rock |
+| 22 | 15 | [piano rock](../../genres/piano_rock/overview.md) |
 | 16 | 8 | [r&b](../../genres/r_b/overview.md) |
 
 
@@ -189,7 +189,7 @@ Appears as:
 | 6 | 6 | folk rock |
 | 5 | 5 | melancholia |
 | 8 | 4 | pop soul |
-| 6 | 3 | hard rock |
+| 6 | 3 | [hard rock](../../genres/hard_rock/overview.md) |
 | 3 | 3 | pov: indie |
 | 3 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
 | 3 | 3 | country dawn |
@@ -200,7 +200,7 @@ Appears as:
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | filter house |
 | 2 | 2 | electro |
-| 2 | 1 | uk pop |
+| 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | lgbtq+ hip hop |
 | 2 | 1 | british soul |
 | 1 | 1 | r&b en espanol |
@@ -210,7 +210,7 @@ Appears as:
 | 1 | 1 | mandopop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
-| 1 | 1 | electropop |
+| 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
 | 1 | 1 | australian rock |
@@ -219,7 +219,7 @@ Appears as:
 | 3 | 0 | jazz |
 | 3 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | bebop |
-| 2 | 0 | lounge |
+| 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | edm |
 | 2 | 0 | easy listening |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -259,7 +259,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | Oh My God | 30 | Adele | [Columbia](.) | | [🔗](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | Walk This Way | Toys In The Attic | Aerosmith | [Columbia](.) | | [🔗](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | JAY-Z, [Beyoncé](../../artists/beyonc_/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../artists/beyonc_/overview.md), JAY-Z | [Columbia](.) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Irreplaceable | B'Day Deluxe Edition | [Beyoncé](../../artists/beyonc_/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | B'Day Deluxe Edition | [Beyoncé](../../artists/beyonc_/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Ave Maria | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyonc_/overview.md) | [Music World Music/Columbia](.) | | [🔗](https://open.spotify.com/track/1j9HwUMSkRUeVFRWlHcFsy) |
@@ -305,13 +305,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | The River of Dreams | River Of Dreams | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | That Wasn't Me | Bear Creek | Brandi Carlile | [Columbia](.) | | [🔗](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | JA ARA E | The Lion King: The Gift | Burna Boy | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | This Is What You Came For | [Rihanna](../../artists/rihanna/overview.md), Calvin Harris | [Columbia](.) | | [🔗](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | This Is What You Came For | Calvin Harris, [Rihanna](../../artists/rihanna/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | Turn Down for What | Turn Down for What | DJ Snake, Lil Jon | [Columbia](.) | | [🔗](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | Pharrell Williams, Nile Rodgers, Daft Punk | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | Julian Casablancas, Daft Punk | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](../../artists/daft_punk/overview.md), Pharrell Williams, Nile Rodgers | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](../../artists/daft_punk/overview.md), Julian Casablancas | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](.) | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | B. Swanson Quartet, [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | [Frank Sinatra](../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 情非得已 | 海嘯 | Harlem Yu | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859" alt="" width="50" /> | Sign of the Times | Harry Styles | Harry Styles | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) |
@@ -320,29 +320,29 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Watermelon Sugar | Fine Line | Harry Styles | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Take Me to Church | Hozier (Expanded Edition) | Hozier | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Work Song | Hozier (Expanded Edition) | Hozier | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jason Derulo, [BTS](../../artists/bts/overview.md), Jawsh 685 | [Columbia](.) | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../../artists/jason_derulo/overview.md), [BTS](../../artists/bts/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Green Light (feat. André 3000) | Evolver | John Legend, André 3000 | [G.O.O.D. Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/72by3Re4C3eVEBXvsUo0zV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | All of Me | Love In The Future (Expanded Edition) | John Legend | [G.O.O.D. Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach | Preach | John Legend | [Columbia](.) | | [🔗](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="" width="50" /> | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson, John Legend | [Columbia](.) | | [🔗](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="" width="50" /> | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend, Kelly Clarkson | [Columbia](.) | | [🔗](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | At Folsom Prison | Johnny Cash | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Lights | Infinity | Journey | [Columbia](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | Any Way You Want It | Departure | Journey | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | Don't Stop Believin' | Escape (Bonus Track Version) | Journey | [Columbia](.) | | [🔗](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | MONTERO (Call Me By Your Name) | MONTERO (Call Me By Your Name) | Lil Nas X | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="" width="50" /> | INDUSTRY BABY (feat. Jack Harlow) | MONTERO | Jack Harlow, Lil Nas X | [Columbia](.) | | [🔗](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic | Wrap Me In Plastic | CHROMANCE, MOMOLAND | [Columbia/B1 Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="" width="50" /> | INDUSTRY BABY (feat. Jack Harlow) | MONTERO | Lil Nas X, Jack Harlow | [Columbia](.) | | [🔗](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic | Wrap Me In Plastic | [MOMOLAND](../../artists/momoland/overview.md), CHROMANCE | [Columbia/B1 Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="" width="50" /> | All I Want for Christmas Is You | Merry Christmas | Mariah Carey | [Columbia](.) | | [🔗](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Uptown Special | [Bruno Mars](../../artists/bruno_mars/overview.md), Mark Ronson | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Uptown Special | Mark Ronson, [Bruno Mars](../../artists/bruno_mars/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8" alt="" width="50" /> | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Mark Ronson, Miley Cyrus | [Columbia](.) | | [🔗](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | Flowers | Miley Cyrus | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | MALAMENTE - Cap.1: Augurio | El Mal Querer | ROSALÍA | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Wednesday Morning, 3 A.M. | Simon & Garfunkel | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Bookends | Simon & Garfunkel | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | Bridge Over Troubled Water | Simon & Garfunkel | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Cecilia | Bridge Over Troubled Water | Simon & Garfunkel | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Bridge Over Troubled Water | Simon & Garfunkel | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer | Closer | Halsey, The Chainsmokers | [Disruptor Records/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Wednesday Morning, 3 A.M. | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Bookends | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Cecilia | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer | Closer | The Chainsmokers, Halsey | [Disruptor Records/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Landslide | Home | The Chicks | [Open Wide/Monument/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Travelin' Soldier | Home | The Chicks | [Open Wide/Monument/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389ccaf21947f7929189654dc" alt="" width="50" /> | Not Ready to Make Nice | Taking The Long Way | The Chicks | [Open Wide/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) |

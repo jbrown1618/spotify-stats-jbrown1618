@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 55 | 0 | Johann Sebastian Bach | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
+| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 55 | 0 | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 36 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
 | <img src="https://i.scdn.co/image/40eb3ffb36cd0c98ca76630260d09b0025be373d" alt="" width="50" /> | 19 | 0 | Benjamin Britten | [🔗](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd56134c89f7b5ccbd2a06ca1" alt="" width="50" /> | 19 | 0 | English Chamber Orchestra | [🔗](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) |
@@ -45,9 +45,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 55 | 0 | german baroque |
-| 55 | 0 | early music |
-| 55 | 0 | classical |
-| 55 | 0 | baroque |
+| 55 | 0 | [early music](../../genres/early_music/overview.md) |
+| 55 | 0 | [classical](../../genres/classical/overview.md) |
+| 55 | 0 | [baroque](../../genres/baroque/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/playlists/bach/genres.png)
 

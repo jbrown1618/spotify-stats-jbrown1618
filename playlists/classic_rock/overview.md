@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 15 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | The Who | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | 9 | 3 | Pink Floyd | [🔗](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb249d55f2d68a44637905c57e" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 3 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -189,12 +189,12 @@
 |---:|---:|:---|
 | 98 | 63 | [rock](../../genres/rock/overview.md) |
 | 95 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
-| 39 | 30 | british invasion |
+| 39 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
 | 45 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 47 | 25 | [album rock](../../genres/album_rock/overview.md) |
-| 33 | 23 | beatlesque |
+| 33 | 23 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 31 | 22 | merseybeat |
-| 28 | 17 | hard rock |
+| 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |
 | 26 | 13 | [soft rock](../../genres/soft_rock/overview.md) |
 | 15 | 12 | glam rock |
 

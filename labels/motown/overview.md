@@ -62,7 +62,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 7 | soul |
+| 15 | 7 | [soul](../../genres/soul/overview.md) |
 | 15 | 7 | motown |
 | 4 | 1 | memphis soul |
 | 1 | 1 | trap |

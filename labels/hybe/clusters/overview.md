@@ -19,7 +19,7 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../../../bighit_music), [HYBE](../..) | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life Pt.2 | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../../../bighit_music), [HYBE](../..) | 💚 | [🔗](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope, Becky G | [BIGHIT MUSIC](../../../bighit_music), [HYBE](../..) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](../../../../artists/j_hope/overview.md), Becky G | [BIGHIT MUSIC](../../../bighit_music), [HYBE](../..) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
 ## Cluster #3
 
 5 tracks

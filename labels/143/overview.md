@@ -35,9 +35,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 14 | 5 | lounge |
+| 14 | 5 | [lounge](../../genres/lounge/overview.md) |
 | 14 | 5 | jazz pop |
-| 14 | 5 | canadian pop |
+| 14 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 14 | 5 | [adult standards](../../genres/adult_standards/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/143/genres.png)

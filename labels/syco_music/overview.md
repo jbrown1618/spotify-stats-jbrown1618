@@ -14,7 +14,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 3 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 3 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 1 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
@@ -48,9 +48,9 @@ Appears as:
 | 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 4 | talent show |
 | 6 | 4 | girl group |
-| 3 | 3 | uk pop |
+| 3 | 3 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
-| 1 | 1 | canadian pop |
+| 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 
 ![Bar chart of top 7 genres](../../images/labels/syco_music/genres.png)
 
@@ -58,12 +58,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | Camila Cabello | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | Camila Cabello, Young Thug | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | Camila Cabello | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | Camila Cabello | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | Camila Cabello | [Epic](../epic), [Syco Music](.) | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | Camila Cabello, DaBaby | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](../../artists/camila_cabello/overview.md), Young Thug | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](../../artists/camila_cabello/overview.md), DaBaby | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | All I Want for Christmas Is You | All I Want for Christmas Is You | Fifth Harmony | [Epic](../epic), [Syco Music](.) | | [🔗](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Worth It (feat. Kid Ink) | Reflection (Deluxe) | Fifth Harmony, Kid Ink | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl | 7/27 (Deluxe) | Fifth Harmony | [Epic](../epic), [Syco Music](.) | | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
@@ -77,7 +77,7 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | Black Magic | Get Weird (Expanded Edition) | Little Mix | [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | Power | Glory Days (Expanded Edition) | Little Mix | [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Camila Cabello, Shawn Mendes | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 
 </details>
 

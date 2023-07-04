@@ -12,11 +12,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | MY BAG | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS | BLACK DRESS | CLC | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/4g73tmQQc6pSfe4NMXKrZD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No | No.1 | CLC | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/3sygLAUhHsJsQ0cBk6fxRd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Shine | Positive | PENTAGON | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Feelin' Like | IN:VITE U | PENTAGON | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | PENTAGON | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS | BLACK DRESS | [CLC](../../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/4g73tmQQc6pSfe4NMXKrZD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No | No.1 | [CLC](../../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/3sygLAUhHsJsQ0cBk6fxRd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Shine | Positive | [PENTAGON](../../../../artists/pentagon/overview.md) | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Feelin' Like | IN:VITE U | [PENTAGON](../../../../artists/pentagon/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](../../../../artists/pentagon/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | Trouble Maker | Trouble Maker | Trouble Maker | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) |
 ## Cluster #2
 
@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | I love | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | Because It's Christmas | The Winter's Tale | BTOB | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | Idle song | Idle song | JEON SOYEON | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | Idle song | Idle song | [JEON SOYEON](../../../../artists/jeon_soyeon/overview.md) | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) |
 ## Cluster #3
 
 14 tracks

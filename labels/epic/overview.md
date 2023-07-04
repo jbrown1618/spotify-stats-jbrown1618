@@ -20,8 +20,8 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 60 | 40 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | Camila Cabello | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 3 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 3 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -36,7 +36,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | Janelle Monáe | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | [Janelle Monáe](../../artists/janelle_mon_e/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -116,7 +116,7 @@ Appears as:
 | 15 | 11 | [pop](../../genres/pop/overview.md) |
 | 9 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 6 | [r&b](../../genres/r_b/overview.md) |
-| 8 | 5 | soul |
+| 8 | 5 | [soul](../../genres/soul/overview.md) |
 | 3 | 2 | latin pop |
 
 
@@ -136,12 +136,12 @@ Appears as:
 | 2 | 1 | progressive rock |
 | 2 | 1 | new wave pop |
 | 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 2 | 1 | hard rock |
+| 2 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
 | 2 | 1 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 1 | [album rock](../../genres/album_rock/overview.md) |
-| 1 | 1 | piano rock |
+| 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 1 | neo soul |
-| 1 | 1 | canadian pop |
+| 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
 | 1 | 1 | afrofuturism |
@@ -162,13 +162,13 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Say Something | Is There Anybody Out There? | Christina Aguilera, A Great Big World | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | Camila Cabello | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | Camila Cabello, Young Thug | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | Camila Cabello | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | Camila Cabello | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | Camila Cabello | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | Camila Cabello, DaBaby | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Say Something | Is There Anybody Out There? | A Great Big World, Christina Aguilera | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](../../artists/camila_cabello/overview.md), Young Thug | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](../../artists/camila_cabello/overview.md), DaBaby | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | Grandma Got Run over by a Reindeer | Grandma Got Run Over By A Reindeer | Elmo & Patsy | [Epic](.) | | [🔗](https://open.spotify.com/track/49iHYFjT5yO6WEw6KerX9o) |
@@ -184,17 +184,17 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl | 7/27 (Deluxe) | Fifth Harmony | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered | Faith | George Michael | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](.) | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | Jidenna, Janelle Monáe | [Wondaland Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_mon_e/overview.md), Jidenna | [Wondaland Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son | Leftoverture (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | Michael Jackson | [Epic](.) | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Billie Jean | Thriller | Michael Jackson | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | Michael Jackson | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller | Thriller | Michael Jackson | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Wanna Be Startin' Somethin' | Thriller | Michael Jackson | [Epic](.) | | [🔗](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | Michael Jackson | [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | Michael Jackson | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | Michael Jackson | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Billie Jean | Thriller | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller | Thriller | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Wanna Be Startin' Somethin' | Thriller | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | | [🔗](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Bottle It Up | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3kfHdr2sYF2EeWEmBHquVj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | City | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | | [🔗](https://open.spotify.com/track/7HZOCMa0XEXNFklxUG5kKb) |
@@ -258,7 +258,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | La Tortura (feat. Alejandro Sanz) | Fijación Oral, Vol. 1 | Shakira, Alejandro Sanz | [Epic](.) | | [🔗](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | Hips Don't Lie (feat. Wyclef Jean) | Oral Fixation, Vol. 2 (Expanded Edition) | Shakira, Wyclef Jean | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Shakira, Freshlyground | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Camila Cabello, Shawn Mendes | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Man Who Can't Be Moved | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | Last Christmas | LAST CHRISTMAS | Wham! | [Epic](.) | | [🔗](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |

@@ -18,8 +18,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 22 | 15 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 8 | 6 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | Joni Mitchell | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 8 | 6 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 7 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | 7 | 3 | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
@@ -222,7 +222,7 @@
 | 72 | 48 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 60 | 40 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
-| 35 | 22 | piano rock |
+| 35 | 22 | [piano rock](../../genres/piano_rock/overview.md) |
 | 34 | 22 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 31 | 18 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 28 | 17 | [rock](../../genres/rock/overview.md) |
@@ -239,7 +239,7 @@
 | 22 | 15 | [album rock](../../genres/album_rock/overview.md) |
 | 19 | 9 | [art pop](../../genres/art_pop/overview.md) |
 | 9 | 8 | nz pop |
-| 9 | 8 | electropop |
+| 9 | 8 | [electropop](../../genres/electropop/overview.md) |
 | 9 | 8 | bergen indie |
 | 12 | 7 | folk |
 | 11 | 7 | folk rock |
@@ -251,7 +251,7 @@
 | 6 | 2 | glam rock |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 1 | nyc pop |
-| 2 | 1 | uk pop |
+| 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | pop soul |
 | 2 | 1 | indy indie |
 | 1 | 1 | irish pop |
@@ -267,7 +267,7 @@
 | 1 | 0 | indie folk |
 | 1 | 0 | ectofolk |
 | 1 | 0 | dark pop |
-| 1 | 0 | canadian pop |
+| 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | canadian indie |
 
 </details>

@@ -27,8 +27,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Twenty-three | CHAT-SHIRE | [IU](../../../../artists/iu/overview.md) | [Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/3YkDslZvvMixTwgDId0aYB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](../../../../artists/iu/overview.md) | [Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Blueming | Love poem | [IU](../../../../artists/iu/overview.md) | [Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | BBoom BBoom | GREAT! | MOMOLAND | [DUBLEKICK COMPANY, Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | MOMOLAND | [MLD ENTERTAINMENT, Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | BBoom BBoom | GREAT! | [MOMOLAND](../../../../artists/momoland/overview.md) | [DUBLEKICK COMPANY, Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | [MOMOLAND](../../../../artists/momoland/overview.md) | [MLD ENTERTAINMENT, Kakao Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
 ## Cluster #3
 
 2 tracks

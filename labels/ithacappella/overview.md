@@ -33,7 +33,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 12 | 0 | college a cappella |
+| 12 | 0 | [college a cappella](../../genres/college_a_cappella/overview.md) |
 
 
 

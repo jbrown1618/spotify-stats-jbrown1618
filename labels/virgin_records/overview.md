@@ -46,7 +46,7 @@ Appears as:
 | 7 | 4 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
-| 1 | 1 | uk pop |
+| 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | uk dance |
 | 1 | 1 | talent show |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -62,7 +62,7 @@ Appears as:
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | grunge |
-| 1 | 0 | alternative rock |
+| 1 | 0 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 1 | 0 | alternative metal |
 
 </details>

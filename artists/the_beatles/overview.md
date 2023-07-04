@@ -56,8 +56,8 @@ The Beatles is currently:
 
 ## Genres
 
-- beatlesque
-- british invasion
+- [beatlesque](../../genres/beatlesque)
+- [british invasion](../../genres/british_invasion)
 - [classic rock](../../genres/classic_rock)
 - merseybeat
 - [psychedelic rock](../../genres/psychedelic_rock)

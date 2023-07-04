@@ -37,7 +37,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 6 | soul |
+| 10 | 6 | [soul](../../genres/soul/overview.md) |
 | 10 | 6 | motown |
 | 2 | 1 | memphis soul |
 | 1 | 1 | classic soul |

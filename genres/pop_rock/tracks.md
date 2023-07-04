@@ -2,7 +2,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Say Something | Is There Anybody Out There? | Christina Aguilera, A Great Big World | [Epic](../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Say Something | Is There Anybody Out There? | A Great Big World, Christina Aguilera | [Epic](../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | You Oughta Know | Jagged Little Pill | Alanis Morissette | Maverick | 💚 | [🔗](https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aacc6949864aa4c1073d3060" alt="" width="50" /> | Save Tonight | Desireless | Eagle-Eye Cherry | Work | | [🔗](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Fitz and The Tantrums (Deluxe Edition) | Fitz and The Tantrums | Elektra (NEK) | 💚 | [🔗](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) |

@@ -56,9 +56,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 5 | lounge |
+| 16 | 5 | [lounge](../../genres/lounge/overview.md) |
 | 16 | 5 | jazz pop |
-| 16 | 5 | canadian pop |
+| 16 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 16 | 5 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 0 | [rock](../../genres/rock/overview.md) |
 | 3 | 0 | punk |

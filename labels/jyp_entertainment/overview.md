@@ -14,7 +14,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb04c88d140b3db4fa42ef84f2" alt="" width="50" /> | 8 | 6 | NMIXX | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 8 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 5 | 2 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 5 | 2 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | 3 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
@@ -22,7 +22,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 2 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | 1 | 1 | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 1 | 1 | SUNMI | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2fba28d51fc972ed9d8fbaaa" alt="" width="50" /> | 1 | 1 | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
 
 
@@ -96,7 +96,7 @@ Appears as:
 | 17 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 8 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 2 | classic k-pop |
-| 1 | 1 | korean pop |
+| 1 | 1 | [korean pop](../../genres/korean_pop/overview.md) |
 
 ![Bar chart of top 5 genres](../../images/labels/jyp_entertainment/genres.png)
 
@@ -121,17 +121,17 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | FEVER | FEVER | SUPERBEE, J.Y. Park, [BIBI](../../artists/bibi/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, SUNMI | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375ce3676994c95a025aeefac" alt="" width="50" /> | FEVER | FEVER | J.Y. Park, SUPERBEE, [BIBI](../../artists/bibi/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](../../artists/sunmi/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | This Christmas | This Christmas - Single | Jyp Nation | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | O.O | AD MARE | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | TANK | AD MARE | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | NMIXX | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | DICE | ENTWURF | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | HOME | expérgo | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Just Did It | expérgo | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Love Me Like This | expérgo | NMIXX | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | NMIXX | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | O.O | AD MARE | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | TANK | AD MARE | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8caa659d37a00d34cbd6359" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | HOME | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | I Do | It's Raining | Rain | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It′s Raining | It's Raining | Rain | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../artists/baekhyun/overview.md) | ChoongangICS, MYSTIC ENTERTAINMENT, [JYP Entertainment](.), [SM Entertainment](../sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |

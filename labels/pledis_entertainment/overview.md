@@ -72,7 +72,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | Fighting (Feat. Lee Young Ji) | BSS 1st Single Album 'SECOND WIND' | Lee Young Ji, BSS | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | Fighting (Feat. Lee Young Ji) | BSS 1st Single Album 'SECOND WIND' | BSS, Lee Young Ji | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="" width="50" /> | Spider | Spider | HOSHI | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | Adore U | SEVENTEEN 1st Mini Album ’17 CARAT’ | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | Pretty U | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) |

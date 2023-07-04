@@ -81,7 +81,7 @@ Appears as:
 | 8 | 1 | j-pop |
 | 4 | 1 | japanese singer-songwriter |
 | 3 | 1 | japanese teen pop |
-| 3 | 0 | anime |
+| 3 | 0 | [anime](../../genres/anime/overview.md) |
 | 2 | 0 | j-rock |
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
@@ -99,8 +99,8 @@ Appears as:
 | 1 | 0 | japanese emo |
 | 1 | 0 | j-pixie |
 | 1 | 0 | franco-flemish school |
-| 1 | 0 | early music |
-| 1 | 0 | classical |
+| 1 | 0 | [early music](../../genres/early_music/overview.md) |
+| 1 | 0 | [classical](../../genres/classical/overview.md) |
 | 1 | 0 | classic j-pop |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |

@@ -32,7 +32,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 1 | 0 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 1 | 0 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 0 | PENTAGON | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 0 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | KINGDOM | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
 
 </details>
@@ -83,7 +83,7 @@ Appears as:
 | 4 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | korean ost |
 | 2 | 0 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 1 | 0 | k-rap |
+| 1 | 0 | [k-rap](../../genres/k_rap/overview.md) |
 
 ![Bar chart of top 6 genres](../../images/labels/wm_korea/genres.png)
 
@@ -93,8 +93,8 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | BREATHE | B:COMPLETE | AB6IX | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | Sugarcoat | TAKE A CHANCE | AB6IX | [WM Korea](.) | | [🔗](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="" width="50" /> | Solo Christmas | Solo Christmas | Whee In, AILEE | [WM Korea](.) | | [🔗](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Whee In, Basick | [WM Korea](.) | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="" width="50" /> | Solo Christmas | Solo Christmas | AILEE, Whee In | [WM Korea](.) | | [🔗](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | Movie Star | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | | [🔗](https://open.spotify.com/track/65pVi11JqwSZqUuYAqLP36) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | What You Wanted | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | | [🔗](https://open.spotify.com/track/76dpiZihYVl5VbiHNjVj5l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="" width="50" /> | Jungle | HELLO Chapter 3: Hello, Strange Time | CIX | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh) |
@@ -115,7 +115,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | POSE | Summer Special [Flip That] | LOONA | [WM Korea](.) | | [🔗](https://open.spotify.com/track/2BdGXQ4MjeYCZ9JNte85Q4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f007ee1c134806d3ec34c83e" alt="" width="50" /> | I Don't Need You | I Don't Need You | LUNCH | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/5I9mKWUEM2RICe6QJ26PyM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735cc60fb32b74636be4f2e19e" alt="" width="50" /> | Mr. Santa | Mr. Santa | LUNCH | [WM Korea](.) | | [🔗](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="" width="50" /> | Shh | Shh | PENTAGON | [WM Korea](.) | | [🔗](https://open.spotify.com/track/0qu6gCG90KB4vp6H7JpAZy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="" width="50" /> | Shh | Shh | [PENTAGON](../../artists/pentagon/overview.md) | [WM Korea](.) | | [🔗](https://open.spotify.com/track/0qu6gCG90KB4vp6H7JpAZy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc" alt="" width="50" /> | Running Through The Night | ?depacse ohw | Seori | [WM Korea](.) | | [🔗](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273974662e5de6399232ea61a8d" alt="" width="50" /> | Make Me Happy | WHEE | Whee In | [WM Korea](.) | 💚 | [🔗](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) |
 

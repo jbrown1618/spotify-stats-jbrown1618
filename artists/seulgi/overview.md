@@ -15,9 +15,7 @@ SEULGI is currently:
 - 28 Reasons is:
     - the #15 track of the last 6 months
 - Dead Man Runnin’ is:
-    - the #39 track of the last 6 months
-- Crown is:
-    - the #43 track of the last 6 months
+    - the #48 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -33,7 +31,6 @@ SEULGI is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2732e308994a76a473a4f88c1aaab67616d0000b273664020dc5b2af2d454ffa2d4ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 1 | [Current Favorites](../../playlists/current_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 ## Top Albums
 
@@ -62,10 +59,10 @@ SEULGI is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | [SEULGI](overview.md), KARINA, JENO, KAI | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | Drop | School Rapper FINAL | [SEULGI](overview.md), MARK | [Genie Music Corporation](../../labels/genie_music_corporation) | | [🔗](https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | KAI, [SEULGI](overview.md), JENO, KARINA | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | Drop | School Rapper FINAL | MARK, [SEULGI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | | [🔗](https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | SinB, [CHUNG HA](../chung_ha/overview.md), [SEULGI](overview.md), JEON SOYEON | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](overview.md), [CHUNG HA](../chung_ha/overview.md), SinB, [JEON SOYEON](../jeon_soyeon/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Anywhere But Home | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/7vRodvsF37NGUYRSVMIRXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Bad Boy, Sad Girl | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md), BE'O | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4K08CJWZXj85wkMIvCrVFg) |

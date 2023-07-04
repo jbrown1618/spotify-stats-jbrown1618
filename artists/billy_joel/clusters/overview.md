@@ -26,7 +26,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | She's Always a Woman | The Stranger | [Billy Joel](../../overview.md) | [Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Vienna | The Stranger | [Billy Joel](../../overview.md) | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/7gREIuHognJFspylIDJ94p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | And So It Goes | Storm Front | [Billy Joel](../../overview.md) | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | And So It Goes | Good Vibrations | The King's Singers, [Billy Joel](../../overview.md) | RCA Victor | | [🔗](https://open.spotify.com/track/1v8w3Ve0EYhy8cMlRR92QM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | And So It Goes | Good Vibrations | [Billy Joel](../../overview.md), The King's Singers | RCA Victor | | [🔗](https://open.spotify.com/track/1v8w3Ve0EYhy8cMlRR92QM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | Lullabye (Goodnight, My Angel) | River Of Dreams | [Billy Joel](../../overview.md) | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0) |
 ## Cluster #3
 

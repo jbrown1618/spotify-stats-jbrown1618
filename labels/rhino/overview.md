@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | Joni Mitchell | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
@@ -99,7 +99,7 @@ Appears as:
 | 3 | 2 | rock-and-roll |
 | 3 | 2 | bubblegum pop |
 | 3 | 1 | metal |
-| 3 | 1 | hard rock |
+| 3 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
 | 2 | 1 | sunshine pop |
@@ -109,14 +109,14 @@ Appears as:
 | 2 | 1 | funk rock |
 | 2 | 1 | funk |
 | 2 | 1 | birmingham metal |
-| 2 | 1 | beatlesque |
+| 2 | 1 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 2 | 1 | alternative metal |
 | 1 | 1 | synthpop |
 | 1 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 1 | new wave pop |
 | 1 | 1 | new wave |
 | 1 | 1 | new romantic |
-| 1 | 1 | lounge |
+| 1 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 1 | 1 | country rock |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 
@@ -148,14 +148,14 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | Can't Take My Eyes off You | The Very Best of Frankie Valli & The 4 Seasons | Frankie Valli | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | Cat's in the Cradle | Verities & Balderdash | Harry Chapin | [Rhino/Elektra](.) | 💚 | [🔗](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | Joni Mitchell | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | Joni Mitchell | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | Joni Mitchell | [Rhino](.) | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | A Case of You | Blue | Joni Mitchell | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue | Blue | Joni Mitchell | [Rhino](.) | | [🔗](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Carey | Blue | Joni Mitchell | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Free Man in Paris | Court and Spark | Joni Mitchell | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | A Case of You | Blue | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue | Blue | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | | [🔗](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Carey | Blue | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Free Man in Paris | Court and Spark | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | Purple Rain | Prince | [Rhino](.), [Warner Records](../warner_records) | | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry | Purple Rain | Prince | [Rhino](.), [Warner Records](../warner_records) | 💚 | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | I'm a Believer - 2006 Remaster | More of The Monkees (Deluxe Edition) | The Monkees | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) |

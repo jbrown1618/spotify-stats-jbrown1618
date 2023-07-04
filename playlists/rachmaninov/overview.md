@@ -46,9 +46,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 27 | 0 | ukrainian classical |
-| 27 | 0 | russian romanticism |
-| 27 | 0 | post-romantic era |
-| 27 | 0 | classical |
+| 27 | 0 | [russian romanticism](../../genres/russian_romanticism/overview.md) |
+| 27 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 27 | 0 | [classical](../../genres/classical/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/playlists/rachmaninov/genres.png)
 

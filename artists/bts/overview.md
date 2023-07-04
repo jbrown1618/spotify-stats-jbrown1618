@@ -12,7 +12,7 @@
 BTS is currently:
 - The #6 artist of all time
 - The #17 artist of the last 6 months
-- The #20 artist of the last month
+- The #19 artist of the last month
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
 ## Top Tracks
@@ -115,7 +115,7 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | IDOL | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | MIC Drop (Steve Aoki Remix) - Full Length Edition | Love Yourself 結 'Answer' | [BTS](overview.md), Steve Aoki | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Boy With Luv (feat. Halsey) | MAP OF THE SOUL : PERSONA | Halsey, [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Boy With Luv (feat. Halsey) | MAP OF THE SOUL : PERSONA | [BTS](overview.md), Halsey | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | HOME | MAP OF THE SOUL : PERSONA | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | MAP OF THE SOUL : PERSONA | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/0jSccBRnhNU4KtACMQPvco) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
@@ -129,7 +129,7 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | Butter | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 💚 | [🔗](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | SUGA, Halsey, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jason Derulo, [BTS](overview.md), Jawsh 685 | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../jason_derulo/overview.md), [BTS](overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
 
 </details>

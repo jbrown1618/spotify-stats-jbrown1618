@@ -16,7 +16,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 15 | 11 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 2 | 2 | MOMOLAND | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 2 | 2 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Jang Yi-jeong | [🔗](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Chundung | [🔗](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) |
 
@@ -87,8 +87,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Blueming | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | BBoom BBoom | GREAT! | MOMOLAND | [DUBLEKICK COMPANY, Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | MOMOLAND | [MLD ENTERTAINMENT, Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | BBoom BBoom | GREAT! | [MOMOLAND](../../artists/momoland/overview.md) | [DUBLEKICK COMPANY, Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | [MOMOLAND](../../artists/momoland/overview.md) | [MLD ENTERTAINMENT, Kakao Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
 
 </details>
 

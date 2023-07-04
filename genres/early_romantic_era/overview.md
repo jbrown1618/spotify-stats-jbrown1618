@@ -1,0 +1,114 @@
+# early romantic era
+
+[431 songs](tracks.md)
+
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
+
+## Top Artists
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 261 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 205 | 0 | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 157 | 0 | [Frédéric Chopin](../../artists/fr_d_ric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
+| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 71 | 0 | [Tokyo String Quartet](../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 42 | 0 | [Berliner Philharmoniker](../../artists/berliner_philharmoniker/overview.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 42 | 0 | [Herbert von Karajan](../../artists/herbert_von_karajan/overview.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="" width="50" /> | 31 | 0 | Martha Argerich | [🔗](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 24 | 0 | [Jerusalem Quartet](../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
+| <img src="https://i.scdn.co/image/da227efdc2e4be12443dcb5fa1ceb257fd1baf6a" alt="" width="50" /> | 21 | 0 | Mari Kodama | [🔗](https://open.spotify.com/artist/0s0wG03kPyu7MXERfcuxim) |
+| <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="" width="50" /> | 19 | 0 | Maurizio Pollini | [🔗](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) |
+
+
+<details>
+<summary>See all 25 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/32bf53aa73dbb81c615a91324efea0bcfff4b440" alt="" width="50" /> | 13 | 0 | Felix Mendelssohn | [🔗](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710) |
+| <img src="https://i.scdn.co/image/48524e78bab6185ab73bca33bf6313070aea05df" alt="" width="50" /> | 13 | 0 | John Eliot Gardiner | [🔗](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | 12 | 0 | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="nan" alt="" width="50" /> | 8 | 0 | Alexander Knox | [🔗](https://open.spotify.com/artist/4vzwv4zzBTlG8qsFCqP2Yv) |
+| <img src="nan" alt="" width="50" /> | 6 | 0 | Ceri-lyn Cissone | [🔗](https://open.spotify.com/artist/6F3jOFmhUwRxRdWAZU6G1A) |
+| <img src="nan" alt="" width="50" /> | 4 | 0 | Frankie Wakefield | [🔗](https://open.spotify.com/artist/7jobsaZIFhejECE605yxx6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb501fa094147c4871549cdebd" alt="" width="50" /> | 4 | 0 | Krystian Zimerman | [🔗](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1572201eabc7158f8ab9ceff" alt="" width="50" /> | 2 | 0 | The Monteverdi Choir | [🔗](https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW) |
+| <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 1 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
+| <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 1 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 1 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
+| <img src="https://i.scdn.co/image/927126b3dc00e687514c0f9b2e37b1e4acd4ab9c" alt="" width="50" /> | 1 | 0 | Nikolai Lugansky | [🔗](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | 1 | 0 | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
+
+</details>
+
+
+![Bar chart of top 25 artists](../../images/genres/early_romantic_era/artists.png)
+
+![Comparison of Artist](../../images/genres/early_romantic_era/artists_comparison.png)
+## Top Albums
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | 42 | 0 | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | 24 | 0 | Beethoven: String Quartets, Op. 18 | 2015-08-31 | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | 19 | 0 | Chopin: Nocturnes | 2005-01-01 | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 13 | 0 | Mendelssohn: A Midsummer Night's Dream | 2017-02-03 | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+
+
+<details>
+<summary>See all 16 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | 12 | 0 | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | 4 | 0 | Chopin: Ballades; Barcarolle; Fantaisie | 1988-01-01 | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | 1 | 0 | Martha Argerich Live, Vol. 4 | 2017-01-20 | [🔗](https://open.spotify.com/album/69aoRIAIVb2TbIuxmxKYCR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="" width="50" /> | 1 | 0 | Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. | 2010-04-05 | [🔗](https://open.spotify.com/album/5QmPVpRux60kcHndJOl6bF) |
+
+</details>
+
+
+![Bar chart of top 16 albums](../../images/genres/early_romantic_era/albums.png)
+
+## Top Record Labels
+
+| Tracks | 💚 | Label |
+|---:|---:|:---|
+| 205 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
+| 95 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
+| 95 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 21 | 0 | [PENTATONE](../../labels/pentatone/overview.md) |
+| 13 | 0 | [Lso Live](../../labels/lso_live/overview.md) |
+| 1 | 0 | Onyx Classics |
+| 1 | 0 | DOREMI |
+
+![Bar chart of top 7 record labels](../../images/genres/early_romantic_era/labels.png)
+
+## Years
+
+![Bar chart of number of songs by year](../../images/genres/early_romantic_era/years.png)
+
+| ​ | 10 newest albums | ​​ | 10 oldest albums |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | Mendelssohn: A Midsummer Night's Dream (2017-02-03) | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas &quot;Moonlight&quot;; &quot;Appassionata&quot;; &quot;Pathétique&quot;" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="Martha Argerich Live, Vol. 4" width="50" /> | Martha Argerich Live, Vol. 4 (2017-01-20) | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> | Chopin: Ballades; Barcarolle; Fantaisie (1988-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="Beethoven: String Quartets, Op. 18" width="50" /> | Beethoven: String Quartets, Op. 18 (2015-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="Beethoven: 9 Symphonies; Overtures" width="50" /> | Beethoven: 9 Symphonies; Overtures (1993-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="Beethoven: Piano Sonatas Nos. 30, 31 &amp; 32" width="50" /> | Beethoven: Piano Sonatas Nos. 30, 31 & 32 (2012-03-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven: The Piano Sonatas" width="50" /> | Beethoven: The Piano Sonatas (1995-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="Beethoven: Complete String Quartets" width="50" /> | Beethoven: Complete String Quartets (2010-10-12) | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | Chopin: Polonaises (1996-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al." width="50" /> | Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. (2010-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | Chopin: Nocturnes; Four Ballades (1997-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | Chopin: Nocturnes (2005-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | Chopin: Preludes; Sonata No.2 (2002-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | Chopin: Preludes; Sonata No.2 (2002-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | Chopin: Nocturnes (2005-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01) |

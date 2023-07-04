@@ -16,7 +16,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 10 | 6 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 5 | 5 | WJSN | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 5 | 5 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 2 | 2 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb41d4a656d92f93daed36366" alt="" width="50" /> | 2 | 1 | JOOHONEY | [🔗](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) |
@@ -110,11 +110,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | SHAKE IT | SHAKE IT | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | I Like That | INSANE LOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | Say! Yes | INSANE LOVE | SISTAR | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5gDxhjgpRoClBFrOcNGiEQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | WJSN | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | Babyface | HAPPY MOMENT (1) | WJSN | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6l6sytFAfe0esA5DYLwqhE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | Pantomime | Neverland | WJSN | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | UNNATURAL | WJSN | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | WJSN | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](../../artists/wjsn/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | Babyface | HAPPY MOMENT (1) | [WJSN](../../artists/wjsn/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6l6sytFAfe0esA5DYLwqhE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | Pantomime | Neverland | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | UNNATURAL | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="" width="50" /> | Hmph! | Hmph! | WJSN Chocome | [STARSHIP ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/0UF2ka9POcLMSi1rf9pwgA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | Super Yuppers! | Super Yuppers! | WJSN Chocome | [STARSHIP ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/31bblGq3GvqLutoW9wTcZy) |
 

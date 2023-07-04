@@ -59,7 +59,7 @@
 - [classic rock](../../genres/classic_rock)
 - [heartland rock](../../genres/heartland_rock)
 - [mellow gold](../../genres/mellow_gold)
-- piano rock
+- [piano rock](../../genres/piano_rock)
 - [rock](../../genres/rock)
 - [singer-songwriter](../../genres/singer_songwriter)
 - [soft rock](../../genres/soft_rock)
@@ -95,7 +95,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | The Bridge | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | And So It Goes | Storm Front | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | We Didn't Start the Fire | Storm Front | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | And So It Goes | Good Vibrations | The King's Singers, [Billy Joel](overview.md) | RCA Victor | | [🔗](https://open.spotify.com/track/1v8w3Ve0EYhy8cMlRR92QM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | And So It Goes | Good Vibrations | [Billy Joel](overview.md), The King's Singers | RCA Victor | | [🔗](https://open.spotify.com/track/1v8w3Ve0EYhy8cMlRR92QM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | Lullabye (Goodnight, My Angel) | River Of Dreams | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | The River of Dreams | River Of Dreams | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
 

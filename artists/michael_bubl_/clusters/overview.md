@@ -28,7 +28,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | [Michael Bublé](../../overview.md), Idina Menzel | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](../../overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | The Way You Look Tonight | Michael Bublé | [Michael Bublé](../../overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](../../overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |

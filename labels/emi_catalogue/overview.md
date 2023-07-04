@@ -54,8 +54,8 @@ Appears as:
 | 30 | 21 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 30 | 21 | merseybeat |
 | 30 | 21 | [classic rock](../../genres/classic_rock/overview.md) |
-| 30 | 21 | british invasion |
-| 30 | 21 | beatlesque |
+| 30 | 21 | [british invasion](../../genres/british_invasion/overview.md) |
+| 30 | 21 | [beatlesque](../../genres/beatlesque/overview.md) |
 
 ![Bar chart of top 6 genres](../../images/labels/emi_catalogue/genres.png)
 

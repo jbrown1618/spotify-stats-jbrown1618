@@ -44,9 +44,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 23 | 0 | post-romantic era |
+| 23 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
 | 23 | 0 | impressionism |
-| 23 | 0 | classical |
+| 23 | 0 | [classical](../../genres/classical/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/playlists/debussy/genres.png)
 

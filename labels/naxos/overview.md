@@ -31,9 +31,9 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 24 | 0 | ukrainian classical |
-| 24 | 0 | russian romanticism |
-| 24 | 0 | post-romantic era |
-| 24 | 0 | classical |
+| 24 | 0 | [russian romanticism](../../genres/russian_romanticism/overview.md) |
+| 24 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 24 | 0 | [classical](../../genres/classical/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/naxos/genres.png)
 

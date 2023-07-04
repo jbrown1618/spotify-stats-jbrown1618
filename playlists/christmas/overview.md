@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 2 | 0 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 2 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 2 | 0 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 2 | 0 | Justin Bieber | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 2 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 2 | 0 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 2 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
@@ -293,7 +293,7 @@
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 12 | 0 | lounge |
+| 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
 | 7 | 0 | easy listening |
@@ -305,8 +305,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 6 | 0 | canadian pop |
-| 5 | 0 | soul |
+| 6 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
+| 5 | 0 | [soul](../../genres/soul/overview.md) |
 | 4 | 0 | novelty |
 | 4 | 0 | jazz pop |
 | 3 | 0 | swing |
@@ -321,17 +321,17 @@
 | 1 | 0 | yodeling |
 | 1 | 0 | western swing |
 | 1 | 0 | ukrainian classical |
-| 1 | 0 | uk pop |
+| 1 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 0 | traditional country |
 | 1 | 0 | torch song |
 | 1 | 0 | talent show |
 | 1 | 0 | stomp and holler |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
-| 1 | 0 | show tunes |
+| 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 1 | 0 | seattle indie |
 | 1 | 0 | retro soul |
-| 1 | 0 | post-romantic era |
+| 1 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
 | 1 | 0 | pop soul |
 | 1 | 0 | nyc pop |
 | 1 | 0 | new wave pop |
@@ -340,7 +340,7 @@
 | 1 | 0 | neo soul |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | modern country rock |
-| 1 | 0 | k-rap |
+| 1 | 0 | [k-rap](../../genres/k_rap/overview.md) |
 | 1 | 0 | indietronica |
 | 1 | 0 | indie rock |
 | 1 | 0 | hollywood |

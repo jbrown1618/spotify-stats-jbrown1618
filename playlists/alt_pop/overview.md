@@ -17,9 +17,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | Sia | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | Imogen Heap | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | Clean Bandit | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | 5 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 5 | 2 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
@@ -249,21 +249,22 @@
 |---:|---:|:---|
 | 50 | 38 | [pop](../../genres/pop/overview.md) |
 | 34 | 22 | [art pop](../../genres/art_pop/overview.md) |
-| 30 | 20 | electropop |
+| 30 | 20 | [electropop](../../genres/electropop/overview.md) |
 | 22 | 18 | [modern rock](../../genres/modern_rock/overview.md) |
 | 18 | 15 | baroque pop |
 | 17 | 15 | uk alternative pop |
+| 17 | 15 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 10 | 10 | australian pop |
 | 16 | 9 | nz pop |
 | 16 | 9 | bergen indie |
-| 11 | 8 | metropopolis |
 
 
 <details>
-<summary>See all 55 genres</summary>
+<summary>See all 57 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 11 | 8 | metropopolis |
 | 8 | 8 | australian dance |
 | 9 | 7 | etherpop |
 | 8 | 7 | indie pop |
@@ -271,20 +272,21 @@
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |
 | 6 | 4 | pov: indie |
-| 4 | 4 | piano rock |
+| 4 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 9 | 3 | nyc pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 3 | 2 | indietronica |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | electro swing |
 | 4 | 1 | deep acoustic pop |
-| 2 | 1 | uk pop |
+| 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | shiver pop |
 | 2 | 1 | gauze pop |
 | 2 | 1 | candy pop |
-| 2 | 1 | canadian pop |
+| 2 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk contemporary r&b |
+| 1 | 1 | singer-songwriter pop |
 | 1 | 1 | nu jazz |
 | 1 | 1 | korean indie rock |
 | 1 | 1 | k-rock |

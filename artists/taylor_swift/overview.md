@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #14 artist of all time
+- The #15 artist of all time
 - The #24 artist of the last 6 months
-- The #29 artist of the last month
+- The #27 artist of the last month
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
 ## Featured on Playlists
@@ -117,7 +117,7 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | I Think He Knows | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | London Boy | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) | Lover | [Taylor Swift](overview.md), Panic! At The Disco, Brendon Urie | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) | Lover | [Taylor Swift](overview.md), Brendon Urie, Panic! At The Disco | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Paper Rings | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | august | folklore | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | cardigan | folklore | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) |
@@ -140,9 +140,9 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Maroon | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnight Rain | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Question...? | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Lana Del Rey](../lana_del_rey/overview.md), [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Taylor Swift](overview.md), [Lana Del Rey](../lana_del_rey/overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Sweet Nothing | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Vigilante Shit | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | [Taylor Swift](overview.md), ZAYN | Universal Music Group | | [🔗](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN, [Taylor Swift](overview.md) | Universal Music Group | | [🔗](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) |
 
 </details>

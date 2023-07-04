@@ -13,15 +13,15 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 95 | 0 | Ludwig van Beethoven | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 80 | 0 | Jerusalem Quartet | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
-| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 71 | 0 | Tokyo String Quartet | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 95 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 80 | 0 | [Jerusalem Quartet](../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
+| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 71 | 0 | [Tokyo String Quartet](../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
 | <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | 29 | 0 | Dmitri Shostakovich | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
 | <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | 16 | 0 | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | 16 | 0 | Emerson String Quartet | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
 | <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | 12 | 0 | Joseph Haydn | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | 12 | 0 | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 11 | 0 | Wolfgang Amadeus Mozart | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 11 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
 | <img src="https://i.scdn.co/image/f1cd0eea7fb3b75bfad16a10af1dc0dd0763efba" alt="" width="50" /> | 8 | 0 | Antonín Dvořák | [🔗](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF) |
 
 
@@ -72,14 +72,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 179 | 0 | classical |
-| 118 | 0 | classical era |
-| 111 | 0 | german romanticism |
-| 95 | 0 | early romantic era |
-| 29 | 0 | russian modern classical |
+| 179 | 0 | [classical](../../genres/classical/overview.md) |
+| 118 | 0 | [classical era](../../genres/classical_era/overview.md) |
+| 111 | 0 | [german romanticism](../../genres/german_romanticism/overview.md) |
+| 95 | 0 | [early romantic era](../../genres/early_romantic_era/overview.md) |
+| 29 | 0 | [russian modern classical](../../genres/russian_modern_classical/overview.md) |
 | 29 | 0 | compositional ambient |
-| 24 | 0 | late romantic era |
-| 8 | 0 | post-romantic era |
+| 24 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
+| 8 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
 | 8 | 0 | impressionism |
 | 8 | 0 | czech classical |
 
@@ -89,7 +89,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 4 | 0 | neoclassicism |
+| 4 | 0 | [neoclassicism](../../genres/neoclassicism/overview.md) |
 
 </details>
 

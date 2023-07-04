@@ -13,8 +13,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
-| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | Simon & Garfunkel | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | 3 | 3 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
@@ -170,7 +170,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 13 | soul |
+| 24 | 13 | [soul](../../genres/soul/overview.md) |
 | 17 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 16 | 8 | [rock](../../genres/rock/overview.md) |
 | 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
@@ -189,11 +189,11 @@
 |---:|---:|:---|
 | 4 | 3 | new wave pop |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
-| 6 | 2 | piano rock |
+| 6 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
 | 6 | 2 | glam rock |
 | 4 | 2 | [pop](../../genres/pop/overview.md) |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
-| 3 | 2 | lounge |
+| 3 | 2 | [lounge](../../genres/lounge/overview.md) |
 | 3 | 2 | disco |
 | 5 | 1 | memphis soul |
 | 3 | 1 | vocal jazz |

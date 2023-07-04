@@ -118,7 +118,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 36 | 0 | college a cappella |
+| 36 | 0 | [college a cappella](../../genres/college_a_cappella/overview.md) |
 | 18 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 2 | 0 | lds |
 | 2 | 0 | christian a cappella |
@@ -133,7 +133,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | Domino | BOCA 2014: Best Of College A Cappella | Academical Village People | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/3DKmS1wFIHh2fs2rLWnngc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | Gunpowder & Lead | BOCA 2012: Best Of College A Cappella | Acappology | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/4VULVdHqtgipHNPFnVRQ7D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | Latch | BOCA 2018: Best of College A Cappella | Acappology | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/4ohS1wfgFuaeePkvp0fbPL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Bill Hare, [Sara Bareilles](../../artists/sara_bareilles/overview.md), Gabe Hendifar, Don Gooding, Deke Sharon, Awaken A Cappella | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](../../artists/sara_bareilles/overview.md), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/2IdhvVi0vsa8ELKURGlMzV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/4C4waD825wsfbZfQCxMmNn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | Phoenix | BOCA 2012: Best Of College A Cappella | Brandeis VoiceMale | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0SD3F1HRCKtQNXy6B2zltD) |
@@ -167,7 +167,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | Oops!...I Did It Again | BOCA 2021: Best of College A Cappella | The Doo Wop Shop | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/2sigy23leJc6YIAltQadIK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | Sound Of Silence | BOCA 2009: Best Of College A Cappella | The Harmonics | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/7d9eTipRw0DsB2ggcecqez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | They | BOCA 2009: Best Of College A Cappella | The Harvard-Radcliffe Veritones | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/12RoSrRwRi85EESftOp9fh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | My Happy Ending | BOCA 2006: Best Of College A Cappella | Bill Hare, Erika Petty, The Loreleis, Elizabeth Wright, Varsity Vocals, Kat Dunbar Linker, Don Gooding, Deke Sharon, Delia Darney | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/7umin6cK2uTjk1BwLMKzJ9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | My Happy Ending | BOCA 2006: Best Of College A Cappella | The Loreleis, Varsity Vocals, Kat Dunbar Linker, Deke Sharon, Bill Hare, Delia Darney, Elizabeth Wright, Don Gooding, Erika Petty | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/7umin6cK2uTjk1BwLMKzJ9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | Here (In Your Arms) | BOCA 2009: Best Of College A Cappella | The MIT Logarhythms | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/0eyAuLKMMEJRqiHFPhhFYI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | There Goes My Baby | BOCA 2012: Best Of College A Cappella | The MIT Logarhythms | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/45TOM8ILavStTJ1G2aOo9g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | [Varsity Vocals](.) | | [🔗](https://open.spotify.com/track/62RQw8vUhTQ96zpoeLP1ux) |

@@ -10,14 +10,12 @@
 
 ## Artist Rank
 Sara Bareilles is currently:
-- The #22 artist of all time
-- The #29 artist of the last 6 months
+- The #23 artist of all time
+- The #28 artist of the last 6 months
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
 
-- Not Alone is:
-    - the #49 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -89,8 +87,8 @@ Sara Bareilles is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Bill Hare, [Sara Bareilles](overview.md), Gabe Hendifar, Don Gooding, Deke Sharon, Awaken A Cappella | [Varsity Vocals](../../labels/varsity_vocals) | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Teach You - Acoustic | Sides | [Sara Bareilles](overview.md), Emily King | ATO Records | | [🔗](https://open.spotify.com/track/6Esc0Q4YRbnlJHb3dy6MdS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](overview.md), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](../../labels/varsity_vocals) | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Teach You - Acoustic | Sides | Emily King, [Sara Bareilles](overview.md) | ATO Records | | [🔗](https://open.spotify.com/track/6Esc0Q4YRbnlJHb3dy6MdS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Bottle It Up | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/3kfHdr2sYF2EeWEmBHquVj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | City | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | | [🔗](https://open.spotify.com/track/7HZOCMa0XEXNFklxUG5kKb) |
@@ -159,8 +157,8 @@ Sara Bareilles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Wicked Love | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | | [🔗](https://open.spotify.com/track/6ZLTqJo17uCkBKjokcwbds) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | Little Voice | More Love - Songs from Little Voice Season One | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | | [🔗](https://open.spotify.com/track/6bbmyaEU6k26teJfCsIKNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Maybe They're Magic | Into The Woods (2022 Broadway Cast Recording) | [Sara Bareilles](overview.md), Brian D'Arcy James | Craft Recordings | | [🔗](https://open.spotify.com/track/6Aj19aOQntdfSpHDl9DxOw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | [Sara Bareilles](overview.md), Seth MacFarlane | [Fuzzy Door Productions/Universal](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4c55f63e80919f1cd6bab11" alt="" width="50" /> | Baby, It's Cold Outside | Holiday For Swing! | [Sara Bareilles](overview.md), Seth MacFarlane | Seth Macfarlane Christmas Album | | [🔗](https://open.spotify.com/track/5BYz6McvNTXD60vRFLkIMw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | Seth MacFarlane, [Sara Bareilles](overview.md) | [Fuzzy Door Productions/Universal](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4c55f63e80919f1cd6bab11" alt="" width="50" /> | Baby, It's Cold Outside | Holiday For Swing! | Seth MacFarlane, [Sara Bareilles](overview.md) | Seth Macfarlane Christmas Album | | [🔗](https://open.spotify.com/track/5BYz6McvNTXD60vRFLkIMw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | I Want You Back (feat. Sara Bareilles) | Under the Influence (Ultimate Edition) | Straight No Chaser, [Sara Bareilles](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/5teF3el9gP5j2cf7Dvkbm0) |
 
 </details>

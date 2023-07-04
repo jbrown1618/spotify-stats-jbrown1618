@@ -49,9 +49,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 34 | 0 | italian baroque |
-| 34 | 0 | early music |
-| 34 | 0 | classical |
-| 34 | 0 | baroque |
+| 34 | 0 | [early music](../../genres/early_music/overview.md) |
+| 34 | 0 | [classical](../../genres/classical/overview.md) |
+| 34 | 0 | [baroque](../../genres/baroque/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/playlists/vivaldi/genres.png)
 

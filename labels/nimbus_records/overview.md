@@ -30,9 +30,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 20 | 0 | post-romantic era |
+| 20 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
 | 20 | 0 | impressionism |
-| 20 | 0 | classical |
+| 20 | 0 | [classical](../../genres/classical/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/nimbus_records/genres.png)
 

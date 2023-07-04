@@ -56,7 +56,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 0 | college a cappella |
+| 29 | 0 | [college a cappella](../../genres/college_a_cappella/overview.md) |
 | 3 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 
 

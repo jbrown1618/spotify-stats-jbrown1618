@@ -28,7 +28,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | JAY-Z, [Beyoncé](../../overview.md) | [Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../overview.md), JAY-Z | [Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | I AM...SASHA FIERCE | [Beyoncé](../../overview.md) | [Music World Music/Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../overview.md) | [Music World Music/Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](../../overview.md) | [Parkwood Entertainment/Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |

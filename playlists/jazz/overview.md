@@ -129,9 +129,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 22 | 7 | [adult standards](../../genres/adult_standards/overview.md) |
-| 20 | 7 | lounge |
+| 20 | 7 | [lounge](../../genres/lounge/overview.md) |
 | 12 | 5 | jazz pop |
-| 12 | 5 | canadian pop |
+| 12 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 7 | 2 | easy listening |
 | 9 | 1 | vocal jazz |
 | 6 | 1 | contemporary vocal jazz |
@@ -145,7 +145,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 0 | soul |
+| 3 | 0 | [soul](../../genres/soul/overview.md) |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
 | 3 | 0 | bebop |

@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 6 | 5 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 6 | 5 | [Katy Perry](../../artists/katy_perry/overview.md) | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3e3db4f0aec872ec513b3c0" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | 3 | 1 | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -88,13 +88,13 @@ Appears as:
 |---:|---:|:---|
 | 12 | 8 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | indie pop |
-| 5 | 1 | lounge |
+| 5 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 5 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 1 | vocal jazz |
 | 3 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 2 | 1 | indie poptimism |
 | 2 | 1 | etherpop |
-| 2 | 1 | electropop |
+| 2 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | swing |
 
 
@@ -103,11 +103,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | soul |
+| 1 | 1 | [soul](../../genres/soul/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | boy band |
 | 4 | 0 | easy listening |
-| 2 | 0 | uk pop |
+| 2 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 0 | folk rock |
 | 1 | 0 | sunshine pop |
@@ -140,7 +140,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | SUGA, Halsey, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
 
 
 <details>
@@ -150,12 +150,12 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Without Me | Manic | Halsey | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | Walking On Sunshine | Katrina & The Waves | Katrina & The Waves | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | Katy Perry | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | Katy Perry, Snoop Dogg | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | Katy Perry | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Peacock | Teenage Dream | Katy Perry | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/0kMLFbhrbo29nEx5M0A7km) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | Teenage Dream | Katy Perry | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6AOdKVvWB8Ulb3lGCnyPBY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake | Teenage Dream: The Complete Confection | Katy Perry | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | [Katy Perry](../../artists/katy_perry/overview.md), Snoop Dogg | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Peacock | Teenage Dream | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/0kMLFbhrbo29nEx5M0A7km) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | Teenage Dream | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6AOdKVvWB8Ulb3lGCnyPBY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake | Teenage Dream: The Complete Confection | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Heard It In A Past Life | Maggie Rogers | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | That's Where I Am | Surrender | Maggie Rogers | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy | The Nat King Cole Story | Nat King Cole | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |

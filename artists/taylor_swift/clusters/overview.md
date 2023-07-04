@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Dress | reputation | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Lavender Haze | Midnights | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Question...? | Midnights | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | [Taylor Swift](../../overview.md), ZAYN | Universal Music Group | | [🔗](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN, [Taylor Swift](../../overview.md) | Universal Music Group | | [🔗](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) |
 ## Cluster #2
 
 17 tracks
@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | the 1 | folklore | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | willow | evermore | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnight Rain | Midnights | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Lana Del Rey](../../../lana_del_rey/overview.md), [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Taylor Swift](../../overview.md), [Lana Del Rey](../../../lana_del_rey/overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
 ## Cluster #3
 
 29 tracks

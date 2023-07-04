@@ -31,10 +31,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 39 | 0 | late romantic era |
+| 39 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
 | 39 | 0 | french romanticism |
 | 39 | 0 | french opera |
-| 39 | 0 | classical |
+| 39 | 0 | [classical](../../genres/classical/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/australian_broadcasting_corp__abc_/genres.png)
 

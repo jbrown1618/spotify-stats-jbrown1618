@@ -19,7 +19,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 2 | 1 | Michael Jackson | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 2 | 1 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 2 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 1 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -88,7 +88,7 @@ Appears as:
 | 6 | 3 | [rock](../../genres/rock/overview.md) |
 | 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 5 | 3 | [classic rock](../../genres/classic_rock/overview.md) |
-| 5 | 2 | hard rock |
+| 5 | 2 | [hard rock](../../genres/hard_rock/overview.md) |
 | 5 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 3 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 3 | 1 | folk rock |
@@ -100,13 +100,13 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 1 | soul |
+| 2 | 1 | [soul](../../genres/soul/overview.md) |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 1 | progressive rock |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
 | 3 | 0 | bebop |
-| 2 | 0 | lounge |
+| 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | easy listening |
 | 2 | 0 | brill building pop |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -140,7 +140,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away | Tapestry | Carole King | Ode, [Epic](../epic), [Legacy](.) | | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love | Blue Hawaii | Elvis Presley | [Legacy](.), [RCA Records Label](../rca_records_label) | | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | B. Swanson Quartet, [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | [Frank Sinatra](../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | At Folsom Prison | Johnny Cash | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Lights | Infinity | Journey | [Columbia](../columbia), [Legacy](.) | 💚 | [🔗](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) |
@@ -154,8 +154,8 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son | Leftoverture (Expanded Edition) | Kansas | [Epic](../epic), [Legacy](.) | | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](../epic), [Legacy](.) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | Michael Jackson | [Epic](../epic), [Legacy](.) | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | Michael Jackson | [Epic](../epic), [Legacy](.) | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](../epic), [Legacy](.) | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](../epic), [Legacy](.) | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | Eye of the Tiger | Rocky IV | Survivor | [Volcano/Legacy](.) | | [🔗](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Blue Rondo à la Turk | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Take Five | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) |

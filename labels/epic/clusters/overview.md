@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | Camila Cabello | [Epic](../..), [Syco Music](../../../syco_music) | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | [Camila Cabello](../../../../artists/camila_cabello/overview.md) | [Epic](../..), [Syco Music](../../../syco_music) | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Bottle It Up | Little Voice | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md) | [Epic](../..) | 💚 | [🔗](https://open.spotify.com/track/3kfHdr2sYF2EeWEmBHquVj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Love On the Rocks | Little Voice | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md) | [Epic](../..) | 💚 | [🔗](https://open.spotify.com/track/45bHK5dR8PeWcuMJqmpsP1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Love Song | Little Voice | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md) | [Epic](../..) | 💚 | [🔗](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) |

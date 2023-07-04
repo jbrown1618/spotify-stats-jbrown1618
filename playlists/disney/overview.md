@@ -154,7 +154,7 @@
 |---:|---:|:---|
 | 43 | 0 | movie tunes |
 | 5 | 0 | tagalog worship |
-| 2 | 0 | show tunes |
+| 2 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | hollywood |
@@ -171,12 +171,12 @@
 |---:|---:|:---|
 | 1 | 0 | tin pan alley |
 | 1 | 0 | swing |
-| 1 | 0 | soul |
+| 1 | 0 | [soul](../../genres/soul/overview.md) |
 | 1 | 0 | roots rock |
 | 1 | 0 | piano blues |
 | 1 | 0 | new orleans blues |
 | 1 | 0 | modern blues |
-| 1 | 0 | lounge |
+| 1 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 1 | 0 | louisiana blues |
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |
