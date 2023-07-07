@@ -6,17 +6,16 @@
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #33 artist of all time
-- The #26 artist of the last month
+- The #29 artist of all time
+- The #28 artist of the last month
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)
 ## Top Tracks
 
 - DESSERT is:
-    - the #35 track of the last month
     - the #3 track of all time
 - BEAM BEAM is:
-    - the #16 track of all time
+    - the #17 track of all time
 
 ### Top tracks of all time over time
 

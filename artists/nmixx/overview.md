@@ -6,9 +6,9 @@
 
 ## Artist Rank
 NMIXX is currently:
-- The #49 artist of all time
+- The #50 artist of all time
 - The #26 artist of the last 6 months
-- The #24 artist of the last month
+- The #25 artist of the last month
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks

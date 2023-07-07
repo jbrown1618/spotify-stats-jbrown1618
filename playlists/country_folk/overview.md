@@ -103,13 +103,13 @@
 | 10 | 7 | country dawn |
 | 10 | 7 | country |
 | 10 | 7 | contemporary country |
+| 7 | 4 | country road |
 | 6 | 4 | stomp and holler |
 | 6 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | classic oklahoma country |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 5 | 2 | folk-pop |
-| 4 | 2 | uk americana |
 
 
 <details>
@@ -117,6 +117,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 4 | 2 | uk americana |
 | 4 | 2 | [rock](../../genres/rock/overview.md) |
 | 4 | 2 | outlaw country |
 | 4 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -128,7 +129,6 @@
 | 6 | 1 | mandolin |
 | 6 | 1 | instrumental bluegrass |
 | 6 | 1 | bluegrass |
-| 3 | 1 | country road |
 | 1 | 1 | lafayette indie |
 
 </details>

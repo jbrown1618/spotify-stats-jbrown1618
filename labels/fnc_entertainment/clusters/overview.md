@@ -17,7 +17,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9e6dad0846ac30e4a0db23a" alt="" width="50" /> | Excuse Me | AOA 1st Album ANGEL'S KNOCK (1) | AOA | [FNC ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/2Gq8bwrWXzc1gW9g2EnHTh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="" width="50" /> | Hands Up | Hands Up | Cherry Bullet | [FNC Entertainment](../..) | | [🔗](https://open.spotify.com/track/6KxACudfT4vVXnDUkjU6lN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="" width="50" /> | Hands Up | Hands Up | Cherry Bullet | [FNC Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/6KxACudfT4vVXnDUkjU6lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | Do It Like This | DISHARMONY : FIND OUT | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | Doom Du Doom | HARMONY : ZERO IN | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Back Down | HARMONY : SET IN | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) |

@@ -5,6 +5,9 @@
 <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="Maroon 5" width="100" />
 
 ## Artist Rank
+Maroon 5 is currently:
+- The #43 artist of the last 6 months
+- The #13 artist of the last month
 
 
 ## Featured on Playlists

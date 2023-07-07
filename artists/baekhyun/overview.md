@@ -9,16 +9,14 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-BAEKHYUN is currently:
-- The #49 artist of the last 6 months
 
 ![Rank of BAEKHYUN over time](../../images/artists/baekhyun/rank_time_series.png)
 ## Top Tracks
 
 - Amusement Park is:
-    - the #26 track of all time
+    - the #27 track of all time
 - Dream is:
-    - the #39 track of all time
+    - the #40 track of all time
 
 ### Top tracks of all time over time
 

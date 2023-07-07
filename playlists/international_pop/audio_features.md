@@ -8,7 +8,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="Bando" width="50" /> | Bando (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Amore (0.167) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Awadama Fever (0.211) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> | Tippy Toes (0.913) | <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="如果雨之後" width="50" /> | 永不失聯的愛 (0.289) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7efce1f94f7e575674c95fe" alt="Tippy Toes" width="50" /> | Tippy Toes (0.913) | <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="如果雨之後" width="50" /> | 永不失聯的愛 (0.289) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio (0.893) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 落葉歸根 (0.29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> | מי זאת (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | No Rain, No Rainbow (0.323) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things (0.871) | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> | 你要的愛 (0.328) |
@@ -81,9 +81,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> | בשורות טובות (0.211) | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.172) | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="Bando" width="50" /> | Bando (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize (0.151) | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e0c53a146daf46d74430ef5" alt="Tippy Toes" width="50" /> | Tippy Toes (0.106) | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7efce1f94f7e575674c95fe" alt="Tippy Toes" width="50" /> | Tippy Toes (0.106) | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Headbangeeeeerrrrr!!!!! (0.0611) | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="CEREMONY" width="50" /> | 白日 (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="The Lion King: The Gift" width="50" /> | JA ARA E (0.0267) | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="Racine Carrée (Standard US Version)" width="50" /> | Papaoutai (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri (0.0502) | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="Racine Carrée (Standard US Version)" width="50" /> | Papaoutai (0.0) |
 
 ## Liveness
 
@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.36) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me (0.0623) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby (0.358) | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori (0.0625) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig (0.358) | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="No title-" width="50" /> | No title (0.0638) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Shanti Shanti Shanti (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="Racine Carrée (Standard US Version)" width="50" /> | Papaoutai (0.0642) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737eb0b6f27578d87476a12667" alt="Σ" width="50" /> | 404 not found (0.338) | <img src="https://i.scdn.co/image/ab67616d0000b273ef0d4234e1a645740f77d59c" alt="VIDA" width="50" /> | Despacito (0.067) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="Kirari Remixes (Asia Edition)" width="50" /> | きらり (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="Racine Carrée (Standard US Version)" width="50" /> | Papaoutai (0.0642) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Shanti Shanti Shanti (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b273ef0d4234e1a645740f77d59c" alt="VIDA" width="50" /> | Despacito (0.067) |
 
 ## Valence
 

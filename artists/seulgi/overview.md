@@ -15,7 +15,7 @@ SEULGI is currently:
 - 28 Reasons is:
     - the #15 track of the last 6 months
 - Dead Man Runnin’ is:
-    - the #48 track of the last 6 months
+    - the #50 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

@@ -17,11 +17,11 @@ LeeHi is currently:
 ## Top Tracks
 
 - HOLO is:
-    - the #7 track of the last month
-    - the #9 track of the last 6 months
+    - the #25 track of the last month
+    - the #8 track of the last 6 months
     - the #12 track of all time
 - ONLY is:
-    - the #33 track of the last month
+    - the #45 track of the last month
 
 ### Top tracks of all time over time
 

@@ -13,8 +13,6 @@
 ![Rank of BIBI over time](../../images/artists/bibi/rank_time_series.png)
 ## Top Tracks
 
-- Animal Farm is:
-    - the #39 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

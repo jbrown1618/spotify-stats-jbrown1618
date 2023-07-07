@@ -183,7 +183,7 @@
 
 
 <details>
-<summary>See all 44 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -216,6 +216,7 @@
 | 1 | 0 | southern soul |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 1 | 0 | neo soul |
 | 1 | 0 | jazz blues |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |
