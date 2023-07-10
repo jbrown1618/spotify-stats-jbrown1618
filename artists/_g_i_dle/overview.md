@@ -12,24 +12,26 @@
 (G)I-DLE is currently:
 - The #8 artist of all time
 - The #8 artist of the last 6 months
-- The #6 artist of the last month
+- The #5 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
-    - the #26 track of all time
+    - the #44 track of the last month
+    - the #21 track of all time
 - Uh-Oh is:
     - the #28 track of all time
 - Nxde is:
-    - the #44 track of the last month
-    - the #21 track of the last 6 months
+    - the #19 track of the last 6 months
 - Change is:
     - the #43 track of the last 6 months
 - Oh my god is:
-    - the #32 track of the last month
+    - the #29 track of the last month
 - TOMBOY is:
-    - the #49 track of the last month
+    - the #40 track of the last month
+- HANN (Alone in winter) is:
+    - the #45 track of the last month
 
 ### Top tracks of all time over time
 

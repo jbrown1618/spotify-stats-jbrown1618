@@ -12,18 +12,16 @@
 Stray Kids is currently:
 - The #7 artist of all time
 - The #2 artist of the last 6 months
-- The #4 artist of the last month
+- The #8 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
-    - the #6 track of the last month
-    - the #33 track of the last 6 months
-- MANIAC is:
-    - the #34 track of the last month
+    - the #9 track of the last month
+    - the #41 track of the last 6 months
 - Back Door is:
-    - the #50 track of the last month
+    - the #41 track of the last month
 
 ### Top tracks of the last 6 months over time
 

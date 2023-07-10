@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Cursed English" width="100" />
 
-[28 tracks (1 liked) 🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs)
+[29 tracks (1 liked) 🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs)
 
 [See Track Features](audio_features.md)
 
@@ -21,15 +21,16 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 2 | 0 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 1 | 0 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 1 | 0 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec" alt="" width="50" /> | 1 | 0 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 1 | 0 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 
 
 <details>
-<summary>See all 15 artists</summary>
+<summary>See all 16 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 1 | 0 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="" width="50" /> | 1 | 0 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69d86a4744d275ed5259e743" alt="" width="50" /> | 1 | 0 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | 1 | 0 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
@@ -39,7 +40,7 @@
 </details>
 
 
-![Bar chart of top 15 artists](../../images/playlists/cursed_english/artists.png)
+![Bar chart of top 16 artists](../../images/playlists/cursed_english/artists.png)
 
 ![Comparison of Artist](../../images/playlists/cursed_english/artists_comparison.png)
 
@@ -60,7 +61,7 @@
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -73,6 +74,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | 1 | 0 | HWAA | 2021-01-27 | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | 1 | 0 | HELICOPTER | 2020-09-02 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 1 | 0 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | 1 | 0 | Eve, Psyche & the Bluebeard’s wife (English Ver.) | 2023-07-06 | [🔗](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | 1 | 0 | Do It Like This (English Version) | 2022-03-10 | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | 0 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
@@ -83,7 +85,7 @@
 </details>
 
 
-![Bar chart of top 25 albums](../../images/playlists/cursed_english/albums.png)
+![Bar chart of top 26 albums](../../images/playlists/cursed_english/albums.png)
 
 ## Top Record Labels
 
@@ -96,18 +98,29 @@
 | 1 | 0 | 해피트라이브엔터테인먼트 |
 | 1 | 0 | 올라트엔터테인먼트 |
 | 1 | 0 | [WM Korea](../../labels/wm_korea/overview.md) |
+| 1 | 0 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 1 | 0 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 1 | 0 | LABEL V |
+
+
+<details>
+<summary>See all 11 labels</summary>
+
+| Tracks | 💚 | Label |
+|---:|---:|:---|
 | 1 | 0 | ADA Korea |
 
-![Bar chart of top 10 record labels](../../images/playlists/cursed_english/labels.png)
+</details>
+
+
+![Bar chart of top 11 record labels](../../images/playlists/cursed_english/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 26 | 1 | [k-pop](../../genres/k_pop/overview.md) |
-| 19 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 20 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 7 | 0 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 0 | [pop](../../genres/pop/overview.md) |
 | 1 | 0 | korean city pop |
@@ -123,13 +136,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Summer Magic - Summer Mini Album (2018-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | NCT #127 Regular-Irregular - The 1st Album (2018-10-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | CHECKMATE (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB - The 5th Mini Album (2018-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Girls - The 2nd Mini Album (2022-07-08) | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | Cat & Dog (English Version) (2019-05-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This (English Version) (2022-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven (English Version) (2019-07-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | 6equence (2022-01-19) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk (English Version) (2019-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | Christmas EveL (2021-11-29) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Step Out of Clé (English Ver.) (2020-01-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Fairyforest : Temptation (2021-10-07) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | I trust (2020-04-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | CRAZY IN LOVE (2021-09-24) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA (English Ver.) (2020-05-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | In the morning (English Ver.) (2021-05-14) | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE &amp; MORE (English Version)" width="50" /> | MORE & MORE (English Version) (2020-08-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="Eve, Psyche &amp; the Bluebeard’s wife (English Ver.)" width="50" /> | Eve, Psyche & the Bluebeard’s wife (English Ver.) (2023-07-06) | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Summer Magic - Summer Mini Album (2018-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="NCT #127 Regular-Irregular - The 1st Album" width="50" /> | NCT #127 Regular-Irregular - The 1st Album (2018-10-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB - The 5th Mini Album (2018-11-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | CHECKMATE (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | Cat & Dog (English Version) (2019-05-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Girls - The 2nd Mini Album (2022-07-08) | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | Highway to Heaven (English Version) (2019-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | Do It Like This (English Version) (2022-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="Love Talk (English Version)" width="50" /> | Love Talk (English Version) (2019-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | 6equence (2022-01-19) | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | Step Out of Clé (English Ver.) (2020-01-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | Christmas EveL (2021-11-29) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | I trust (2020-04-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Fairyforest : Temptation (2021-10-07) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA (English Ver.) (2020-05-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | CRAZY IN LOVE (2021-09-24) | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE &amp; MORE (English Version)" width="50" /> | MORE & MORE (English Version) (2020-08-21) |

@@ -96,7 +96,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f53bd1b4653831dd12ba990" alt="" width="50" /> | 1 | 0 | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 1 | 0 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcae4a58a83c78553202bbc62" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb06d879f1eee1e630827b3f4e" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | 1 | 0 | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63b3f52a50b570554df21c55" alt="" width="50" /> | 1 | 0 | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e1c6b8723c29f2e1ef217c4" alt="" width="50" /> | 1 | 0 | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
@@ -362,10 +362,10 @@
 | 2 | 2 | belgian pop |
 | 8 | 1 | mandopop |
 | 4 | 1 | indonesian r&b |
+| 3 | 1 | trap latino |
 | 3 | 1 | r&b francais |
 | 3 | 1 | pop urbaine |
 | 3 | 1 | j-rock |
-| 2 | 1 | trap latino |
 | 2 | 1 | puerto rican pop |
 | 2 | 1 | japanese emo |
 | 1 | 1 | variete francaise |

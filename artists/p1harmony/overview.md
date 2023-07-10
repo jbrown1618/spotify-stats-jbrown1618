@@ -5,8 +5,6 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="P1Harmony" width="100" />
 
 ## Artist Rank
-P1Harmony is currently:
-- The #23 artist of the last month
 
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
 ## Featured on Playlists

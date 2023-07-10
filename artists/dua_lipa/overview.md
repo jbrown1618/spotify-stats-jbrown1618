@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Dua Lipa is currently:
-- The #37 artist of all time
+- The #38 artist of all time
 
 ![Rank of Dua Lipa over time](../../images/artists/dua_lipa/rank_time_series.png)
 ## Featured on Playlists

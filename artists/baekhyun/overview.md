@@ -2,7 +2,7 @@
 # BAEKHYUN
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb1e2e0f17d257a40be0782f35" alt="BAEKHYUN" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="BAEKHYUN" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -16,7 +16,7 @@
 - Amusement Park is:
     - the #27 track of all time
 - Dream is:
-    - the #40 track of all time
+    - the #42 track of all time
 
 ### Top tracks of all time over time
 

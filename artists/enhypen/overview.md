@@ -12,32 +12,23 @@
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #10 artist of the last 6 months
-- The #2 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
-- FEVER is:
-    - the #29 track of the last month
-    - the #44 track of all time
 - ParadoXXX Invasion is:
-    - the #42 track of the last month
-    - the #7 track of the last 6 months
+    - the #19 track of the last month
+    - the #5 track of the last 6 months
+    - the #40 track of all time
+- FEVER is:
     - the #45 track of all time
 - Just A Little Bit is:
     - the #46 track of all time
 - Polaroid Love is:
     - the #50 track of all time
-- Bills is:
-    - the #7 track of the last month
-- Sacrifice (Eat Me Up) is:
-    - the #10 track of the last month
-- Bite Me is:
-    - the #17 track of the last month
 - Given-Taken is:
-    - the #26 track of the last month
-- Chaconne is:
-    - the #48 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of all time over time
 

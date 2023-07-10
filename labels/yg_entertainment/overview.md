@@ -106,7 +106,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 72 | 60 | [k-pop](../../genres/k_pop/overview.md) |
+| 66 | 56 | [k-pop](../../genres/k_pop/overview.md) |
 | 29 | 24 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 28 | 23 | [pop](../../genres/pop/overview.md) |
 | 15 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |

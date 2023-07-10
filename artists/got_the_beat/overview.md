@@ -6,22 +6,21 @@
 
 ## Artist Rank
 GOT the beat is currently:
-- The #35 artist of all time
+- The #36 artist of all time
 - The #22 artist of the last 6 months
-- The #24 artist of the last month
+- The #22 artist of the last month
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks
 
 - Stamp On It is:
-    - the #39 track of the last month
     - the #1 track of the last 6 months
 - MALA is:
-    - the #30 track of the last 6 months
+    - the #27 track of the last 6 months
 - Outlaw is:
-    - the #32 track of the last 6 months
+    - the #29 track of the last 6 months
 - Alter Ego is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

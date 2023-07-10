@@ -12,9 +12,13 @@
 Taylor Swift is currently:
 - The #15 artist of all time
 - The #24 artist of the last 6 months
-- The #29 artist of the last month
+- The #26 artist of the last month
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
+## Top Tracks
+
+- exile (feat. Bon Iver) is:
+    - the #47 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -6,7 +6,7 @@
 
 ## Artist Rank
 Maroon 5 is currently:
-- The #43 artist of the last 6 months
+- The #44 artist of the last 6 months
 - The #13 artist of the last month
 
 
