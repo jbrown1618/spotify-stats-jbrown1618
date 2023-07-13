@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1031 tracks (745 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
+[1035 tracks (747 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
 
 [See Track Features](audio_features.md)
 
@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 63 | 48 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 41 | 34 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 50 | 28 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 33 | 25 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 34 | 26 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 30 | 25 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 30 | 25 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 33 | 23 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -153,7 +153,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 6 | 5 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 6 | 4 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | 5 | 5 | Windy | 2021-07-05 | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 5 | 5 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
@@ -253,10 +253,10 @@
 | 119 | 79 | [Republic Records](../../labels/republic_records/overview.md) |
 | 57 | 45 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 48 | 32 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
-| 47 | 30 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 49 | 30 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 36 | 29 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 38 | 28 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
-| 36 | 27 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 40 | 28 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 37 | 28 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 33 | 26 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 24 | 21 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 
@@ -335,6 +335,7 @@
 | 1 | 1 | Think Ent. |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Silent Records |
+| 1 | 1 | STAR EMPIRE |
 | 1 | 1 | RADCOMM |
 | 1 | 1 | Parlophone UK |
 | 1 | 1 | OH!BOY PROJECT |
@@ -355,7 +356,6 @@
 | 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | Colour Vision Records |
 | 1 | 1 | ChoongangICS |
-| 1 | 1 | Capitol Records (CAP) |
 
 </details>
 
@@ -366,8 +366,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 866 | 629 | [k-pop](../../genres/k_pop/overview.md) |
-| 427 | 326 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 867 | 630 | [k-pop](../../genres/k_pop/overview.md) |
+| 428 | 327 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 269 | 180 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 183 | 134 | [pop](../../genres/pop/overview.md) |
 | 26 | 22 | [anime](../../genres/anime/overview.md) |
@@ -413,12 +413,12 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 111 |
+| [2023](2023.md) | 113 |
 | [2022](2022.md) | 264 |
 | [2021](2021.md) | 189 |
 | [2020](2020.md) | 124 |
-| [2019](2019.md) | 73 |
-| [2018](2018.md) | 63 |
+| [2019](2019.md) | 74 |
+| [2018](2018.md) | 64 |
 | [2017](2017.md) | 57 |
 | [2016](2016.md) | 44 |
 | [2015](2015.md) | 39 |
@@ -439,13 +439,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="HARD - The 8th Album" width="50" /> | HARD - The 8th Album (2023-06-26) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c" alt="Broken Melodies" width="50" /> | Broken Melodies (2023-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="THE WORLD EP.2 : OUTLAW" width="50" /> | THE WORLD EP.2 : OUTLAW (2023-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="HARMONY : ALL IN" width="50" /> | HARMONY : ALL IN (2023-06-08) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> | MIROTIC - The 4th Album (2008-09-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> | Lost and Found (2008-09-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="YOUTH IN THE SHADE" width="50" /> | YOUTH IN THE SHADE (2023-07-10) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="HARD - The 8th Album" width="50" /> | HARD - The 8th Album (2023-06-26) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c" alt="Broken Melodies" width="50" /> | Broken Melodies (2023-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="THE WORLD EP.2 : OUTLAW" width="50" /> | THE WORLD EP.2 : OUTLAW (2023-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="HARMONY : ALL IN" width="50" /> | HARMONY : ALL IN (2023-06-08) | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> | MIROTIC - The 4th Album (2008-09-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="Lost and Found" width="50" /> | Lost and Found (2008-09-23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> | Sound G. (2009-07-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273186edfe8830c46f7bfd71d3e" alt="Sound G." width="50" /> | Sound G. (2009-07-21) |

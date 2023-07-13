@@ -1,13 +1,13 @@
 # CUBE ENTERTAINMENT
 
-39 songs
+40 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- CUBE ENTERTAINMENT (20 tracks)
+- CUBE ENTERTAINMENT (21 tracks)
 - Cube Entertainment (18 tracks)
 - CUBE Entertainment (1 tracks)
 
@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 21 | 17 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 22 | 18 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 3 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 3 | 3 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
@@ -36,11 +36,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 4 | 3 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | 3 | 1 | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 2 | 2 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 2 | 2 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | 1 | 1 | Trouble Maker | 2011-12-01 | [🔗](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | 1 | 1 | Positive | 2018-04-02 | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | 1 | 1 | Jelly | 2017-11-05 | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 1 | 1 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
 
 
 <details>
@@ -70,8 +70,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 39 | 27 | [k-pop](../../genres/k_pop/overview.md) |
-| 28 | 22 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 40 | 28 | [k-pop](../../genres/k_pop/overview.md) |
+| 29 | 23 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 6 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | korean city pop |
 
@@ -85,12 +85,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | I am | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | MAZE | I am | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | HANN (Alone) | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ALREADY | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ESCAPE | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4O7tVdjaOQARI1rS6E6CCx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | LIAR | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4NrmxVJURTgzMH0QKyYy1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | MY BAG | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
 
 
 <details>
@@ -98,6 +98,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |

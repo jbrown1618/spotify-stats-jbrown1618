@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273468abcd06d84049010cd9ef7ab67616d0000b27359f57a5ca507a3d3fed81ea6ab67616d0000b273d0a630ea925711a258bb3c93ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Recent Comebacks" width="100" />
 
-[92 tracks (65 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
+[94 tracks (65 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 55 artists</summary>
+<summary>See all 56 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -67,6 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 1 | 1 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 2 | 0 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb104a945056fc7598ef7f5b2d" alt="" width="50" /> | 2 | 0 | ZEROBASEONE | [🔗](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="" width="50" /> | 1 | 0 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
@@ -89,7 +90,7 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 6 | 6 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 6 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 3 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 4 | 4 | UNFORGIVEN | 2023-05-01 | [🔗](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | 4 | 3 | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
@@ -100,7 +101,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -110,6 +111,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | 2 | 2 | ACT 1, SCENE 1 | 2023-03-29 | [🔗](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | 2 | 1 | FACE | 2023-03-24 | [🔗](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | 2 | 0 | YOUTH IN THE SHADE | 2023-07-10 | [🔗](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | 2 | 0 | SEVENTEEN 10th Mini Album 'FML' | 2023-04-24 | [🔗](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | 2 | 0 | Masquerade | 2023-05-15 | [🔗](https://open.spotify.com/album/65eQsZ1Wq51wjJk2DNH4nm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
@@ -153,9 +155,9 @@
 | 8 | 8 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 12 | 7 | [Republic Records](../../labels/republic_records/overview.md) |
 | 8 | 7 | [Warner Records](../../labels/warner_records/overview.md) |
-| 9 | 6 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 11 | 6 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 7 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 6 | 4 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
-| 5 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 4 | 4 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 8 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 3 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
@@ -216,7 +218,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 90 |
+| [2023](2023.md) | 92 |
 | 2022 | 2 |
 
 </details>
@@ -226,13 +228,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> | Forgive Me - The 3rd Mini Album (2022-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="HARD - The 8th Album" width="50" /> | HARD - The 8th Album (2023-06-26) | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | BSS 1st Single Album 'SECOND WIND' (2023-02-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c" alt="Broken Melodies" width="50" /> | Broken Melodies (2023-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> | Teddy Bear (2023-02-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="THE WORLD EP.2 : OUTLAW" width="50" /> | THE WORLD EP.2 : OUTLAW (2023-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="HARMONY : ALL IN" width="50" /> | HARMONY : ALL IN (2023-06-08) | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense - The 1st Album (Special Version) (2023-02-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (2023-03-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="YOUTH IN THE SHADE" width="50" /> | YOUTH IN THE SHADE (2023-07-10) | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="Forgive Me - The 3rd Mini Album" width="50" /> | Forgive Me - The 3rd Mini Album (2022-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | BSS 1st Single Album 'SECOND WIND' (2023-02-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="HARD - The 8th Album" width="50" /> | HARD - The 8th Album (2023-06-26) | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> | Teddy Bear (2023-02-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c" alt="Broken Melodies" width="50" /> | Broken Melodies (2023-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="THE WORLD EP.2 : OUTLAW" width="50" /> | THE WORLD EP.2 : OUTLAW (2023-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="HARMONY : ALL IN" width="50" /> | HARMONY : ALL IN (2023-06-08) | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense - The 1st Album (Special Version) (2023-02-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (2023-03-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="Masquerade" width="50" /> | Masquerade (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> | Rover - The 3rd Mini Album (2023-03-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="Rover - The 3rd Mini Album" width="50" /> | Rover - The 3rd Mini Album (2023-03-13) |

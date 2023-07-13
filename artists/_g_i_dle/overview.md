@@ -10,28 +10,30 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #8 artist of all time
-- The #8 artist of the last 6 months
+- The #7 artist of all time
+- The #7 artist of the last 6 months
 - The #5 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
-    - the #44 track of the last month
-    - the #21 track of all time
+    - the #45 track of the last month
+    - the #23 track of all time
 - Uh-Oh is:
     - the #28 track of all time
 - Nxde is:
-    - the #19 track of the last 6 months
+    - the #22 track of the last 6 months
 - Change is:
     - the #43 track of the last 6 months
 - Oh my god is:
-    - the #29 track of the last month
+    - the #25 track of the last month
 - TOMBOY is:
-    - the #40 track of the last month
+    - the #39 track of the last month
+- Put It Straight is:
+    - the #44 track of the last month
 - HANN (Alone in winter) is:
-    - the #45 track of the last month
+    - the #46 track of the last month
 
 ### Top tracks of all time over time
 
@@ -47,11 +49,11 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 33 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 34 | [K-Pop](../../playlists/k_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 10 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 5 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273468abcd06d84049010cd9ef7ab67616d0000b27359f57a5ca507a3d3fed81ea6ab67616d0000b273d0a630ea925711a258bb3c93ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | 4 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 4 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 3 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
@@ -66,10 +68,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | 4 | 2 | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | 4 | 1 | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | 3 | 1 | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 2 | 2 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | 1 | 1 | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | 1 | 1 | THE BADDEST | 2020-08-27 | [🔗](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | 1 | 1 | POP/STARS | 2018-11-03 | [🔗](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 1 | 1 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
 
 
 <details>
@@ -91,7 +93,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 21 | 17 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 22 | 18 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 13 | 5 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 3 | Riot Games |
 
@@ -108,12 +110,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | MAZE | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | | [🔗](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | HANN (Alone) | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | LION | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Luv U | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god - English Version | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) |
 
 
 <details>
@@ -121,6 +123,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god - English Version | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA - English Ver. | LATATA (English Ver.) | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND | i'M THE TREND | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |

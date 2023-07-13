@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[103 tracks (50 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[103 tracks (49 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="" width="50" /> | 8 | 6 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="" width="50" /> | 8 | 6 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | 3 | 3 | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 5 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce98956e2ea2db4cc017c86d" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
@@ -34,7 +34,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 3 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fda65162f6e91c1eb765903" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92f1b1492d684708437a51b0" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
@@ -70,7 +69,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0369149b418d4591d127c492" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1b54ac2809d664b9e1031e" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb977f248283f291ce1789a7bb" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec0a49aeb06b8319cc6c9766" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4900a06db4e96dd1444300d4" alt="" width="50" /> | 1 | 0 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 0 | mothy | [🔗](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | 1 | 0 | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f34daf0448f63f37f9dc35d" alt="" width="50" /> | 1 | 0 | King Gnu | [🔗](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) |
@@ -96,7 +96,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f53bd1b4653831dd12ba990" alt="" width="50" /> | 1 | 0 | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 1 | 0 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb06d879f1eee1e630827b3f4e" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe197233d7541efd2ee2184ae" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | 1 | 0 | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63b3f52a50b570554df21c55" alt="" width="50" /> | 1 | 0 | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e1c6b8723c29f2e1ef217c4" alt="" width="50" /> | 1 | 0 | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
@@ -106,7 +106,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7" alt="" width="50" /> | 1 | 0 | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b0f1c7ebcc1202b91379648" alt="" width="50" /> | 1 | 0 | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1110b09e6951ea73e79fc55f" alt="" width="50" /> | 1 | 0 | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfea27ddf11b9df5322a13c84" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f19d4df57ae760cfbab33f5" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cea05aba04cc9b7ad522fb4" alt="" width="50" /> | 1 | 0 | Crowd Lu | [🔗](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | 1 | 0 | Leehom Wang | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | 1 | 0 | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
@@ -166,7 +166,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="" width="50" /> | 1 | 1 | POP VIRUS | 2018-12-19 | [🔗](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c89c4758b84b698f1598821" alt="" width="50" /> | 1 | 1 | Non mi avete fatto niente | 2018-02-07 | [🔗](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="" width="50" /> | 1 | 1 | No title- | 2016-03-18 | [🔗](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | 1 | 1 | Niche Syndrome | 2010-06-09 | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | 1 | 1 | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="" width="50" /> | 1 | 1 | Mercy | 2018-01-20 | [🔗](https://open.spotify.com/album/1uuuqBmA5Xklb3htp7Akke) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c99f58d4685a5f438e6c9167" alt="" width="50" /> | 1 | 1 | Lo Malo | 2018-04-06 | [🔗](https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn) |
@@ -212,6 +211,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6732b7695d4e84cfdb81d73" alt="" width="50" /> | 1 | 0 | Pleasure | 2021-04-23 | [🔗](https://open.spotify.com/album/2O40oGNRh8jJTCfutKMRkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Pasoori | 2022-02-07 | [🔗](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | 1 | 0 | PINK BLOOD | 2021-06-02 | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | 1 | 0 | Niche Syndrome | 2010-06-09 | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | 1 | 0 | Ne reviens pas | 2019-11-21 | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | 1 | 0 | Miku | 2016-05-24 | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | 1 | 0 | Memories | 2021-12-08 | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
@@ -283,7 +283,6 @@
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | El Cartel Records (EC3) |
 | 1 | 1 | Angèle VL Records |
-| 1 | 1 | Aer-born |
 | 2 | 0 | Universal Music Division Capitol Music France |
 | 2 | 0 | KING RECORDS |
 | 2 | 0 | IRORI Records |
@@ -315,6 +314,7 @@
 | 1 | 0 | Homeboy music |
 | 1 | 0 | Giraffe Pakistan |
 | 1 | 0 | Echame La Culpa PS |
+| 1 | 0 | Aer-born |
 | 1 | 0 | 2022 Z.I. Productions BY PIL LTD |
 
 </details>
@@ -326,7 +326,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 21 | 7 | j-pop |
+| 21 | 6 | j-pop |
 | 8 | 6 | kawaii metal |
 | 8 | 6 | j-metal |
 | 8 | 6 | idol rock |
@@ -365,9 +365,7 @@
 | 3 | 1 | trap latino |
 | 3 | 1 | r&b francais |
 | 3 | 1 | pop urbaine |
-| 3 | 1 | j-rock |
 | 2 | 1 | puerto rican pop |
-| 2 | 1 | japanese emo |
 | 1 | 1 | variete francaise |
 | 1 | 1 | spanish pop |
 | 1 | 1 | rap latina |
@@ -393,8 +391,10 @@
 | 1 | 1 | afrobeats |
 | 7 | 0 | [anime](../../genres/anime/overview.md) |
 | 3 | 0 | taiwan singer-songwriter |
+| 3 | 0 | j-rock |
 | 2 | 0 | taiwan pop |
 | 2 | 0 | reggaeton colombiano |
+| 2 | 0 | japanese emo |
 | 2 | 0 | israeli mediterranean |
 | 2 | 0 | french hip hop |
 | 2 | 0 | classic j-pop |

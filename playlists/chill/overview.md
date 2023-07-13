@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[215 tracks (176 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
+[218 tracks (179 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
 
 [See Track Features](audio_features.md)
 
@@ -13,16 +13,16 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 12 | 11 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 12 | 10 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 11 | 10 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b" alt="" width="50" /> | 8 | 8 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 8 | 7 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 7 | 6 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 7 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 9 | 5 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 5 | 5 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 5 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 6 | 4 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 5 | 4 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 
 
 <details>
@@ -30,8 +30,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 5 | 4 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 5 | 4 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 4 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 7 | 3 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="" width="50" /> | 4 | 3 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb767815f4876969e8f888f0db" alt="" width="50" /> | 4 | 3 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -86,6 +86,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b6966cc5bb31edcab435911" alt="" width="50" /> | 1 | 1 | Younha | [🔗](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Nam Joohyuk | [🔗](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca4f165e62fbf5ab5a3750ba" alt="" width="50" /> | 1 | 1 | JIN | [🔗](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb126daf90ff728a306d978ca0" alt="" width="50" /> | 1 | 1 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8695d3eefc61a22f5afbaf" alt="" width="50" /> | 1 | 1 | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Bona(WJSN) | [🔗](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL) |
@@ -119,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb178f1c6aa9751667cef51db3" alt="" width="50" /> | 1 | 1 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 
 </details>
 
@@ -150,6 +150,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 2 | 2 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 2 | 2 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 2 | 2 | Like Water - The 1st Mini Album | 2021-04-05 | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 2 | 2 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 2 | 2 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
@@ -199,7 +200,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | 1 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | 1 | 1 | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 1 | 1 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | 1 | 1 | SEOULITE | 2016-04-20 | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | 1 | 1 | SAILING | 2019-09-25 | [🔗](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 1 | 1 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
@@ -235,10 +235,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="" width="50" /> | 1 | 1 | LOVE or TAKE | 2021-03-15 | [🔗](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 1 | 1 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 1 | 1 | KWON JI YONG | 2017-06-08 | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="" width="50" /> | 1 | 1 | Jirisan (Original Television Soundtrack) Pt. 4 | 2021-11-07 | [🔗](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | 1 | 1 | Ice Cream Cake - The 1st Mini Album | 2015-03-17 | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="" width="50" /> | 1 | 1 | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | 2020-03-13 | [🔗](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 1 | 1 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 1 | 1 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 
 </details>
 
@@ -250,25 +250,25 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 41 | 31 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 15 | 14 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 16 | 15 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 18 | 13 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 17 | 13 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 11 | 8 | [Republic Records](../../labels/republic_records/overview.md) |
 | 7 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
 | 7 | 6 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 5 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
+| 5 | 5 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 5 | 5 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
-| 4 | 4 | Studio MaumC |
 
 
 <details>
-<summary>See all 85 labels</summary>
+<summary>See all 87 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 4 | 4 | Studio MaumC |
 | 4 | 4 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 4 | 4 | Hwa&Dam pictures |
-| 4 | 4 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 4 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 3 | ADOR |
@@ -293,8 +293,10 @@
 | 2 | 1 | FLEX M |
 | 2 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 1 | CJ E&M MUSIC |
+| 1 | 1 | 에이스토리 |
 | 1 | 1 | 스튜디오앤뉴 |
 | 1 | 1 | 뮤직앤뉴 |
+| 1 | 1 | 모스트콘텐츠 |
 | 1 | 1 | under exclusive license to Interscope Records |
 | 1 | 1 | msmedia |
 | 1 | 1 | avex trax |
@@ -351,9 +353,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 130 | 102 | [k-pop](../../genres/k_pop/overview.md) |
+| 133 | 105 | [k-pop](../../genres/k_pop/overview.md) |
 | 46 | 39 | [pop](../../genres/pop/overview.md) |
-| 41 | 30 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 42 | 31 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 27 | 23 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 18 | 12 | [korean pop](../../genres/korean_pop/overview.md) |
 | 17 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -435,12 +437,12 @@
 |:---|---:|
 | 2023 | 10 |
 | [2022](2022.md) | 48 |
-| [2021](2021.md) | 35 |
+| [2021](2021.md) | 36 |
 | [2020](2020.md) | 30 |
-| [2019](2019.md) | 22 |
+| [2019](2019.md) | 23 |
 | 2018 | 13 |
 | [2017](2017.md) | 20 |
-| 2016 | 12 |
+| 2016 | 13 |
 | 2015 | 3 |
 | 2014 | 3 |
 | 2013 | 4 |

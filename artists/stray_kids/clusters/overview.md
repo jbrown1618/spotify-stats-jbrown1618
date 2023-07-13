@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143 | MAXIDENT | [Stray Kids](../../overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](../../overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](../../overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
 ## Cluster #2
 
 22 tracks

@@ -1,13 +1,13 @@
 # Stone Music Entertainment
 
-69 songs
+71 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (54 tracks)
+- Genie Music Corporation, Stone Music Entertainment (56 tracks)
 - Stone Music Entertainment (8 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -28,7 +28,7 @@ Appears as:
 
 
 <details>
-<summary>See all 43 artists</summary>
+<summary>See all 44 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -55,6 +55,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 1 | 1 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb104a945056fc7598ef7f5b2d" alt="" width="50" /> | 2 | 0 | ZEROBASEONE | [🔗](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | 1 | 0 | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 1 | 0 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
@@ -81,17 +82,18 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | 2 | 2 | Pink Funky | 2015-06-19 | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | 2 | 2 | ONLY LOVERS LEFT | 2021-10-05 | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | 2 | 1 | FIRST IMPACT | 2022-01-03 | [🔗](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | 2 | 0 | YOUTH IN THE SHADE | 2023-07-10 | [🔗](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | 1 | 1 | Wings | 2021-02-24 | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9" alt="" width="50" /> | 1 | 1 | When Night Is Falling | 2021-07-07 | [🔗](https://open.spotify.com/album/3nOIsILeko2meMblKEGYZw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="" width="50" /> | 1 | 1 | WOLF | 2019-07-26 | [🔗](https://open.spotify.com/album/1V60S7FEby9fQwh5eVluj8) |
 
 
 <details>
-<summary>See all 59 albums</summary>
+<summary>See all 60 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="" width="50" /> | 1 | 1 | WOLF | 2019-07-26 | [🔗](https://open.spotify.com/album/1V60S7FEby9fQwh5eVluj8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | 1 | 1 | Void | 2018-04-16 | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | 1 | 1 | VingleVingle | 2023-04-05 | [🔗](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | 1 | 1 | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
@@ -242,6 +244,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d39be786935ba10b5875fa53" alt="" width="50" /> | SMARTPHONE | SMARTPHONE | YENA | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="" width="50" /> | Love War (Feat. BE'O) | Love War | YENA, BE'O | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | WICKED LOVE | HATE XX | YENA | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/7JduLib0OD7LheLRseXQWE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | In Bloom | YOUTH IN THE SHADE | ZEROBASEONE | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | New Kidz on the Block | YOUTH IN THE SHADE | ZEROBASEONE | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/4i7iGaXbW1dKBZD5tZuvZt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="" width="50" /> | My Day Is Full Of You | The King: Eternal Monarch (Original Television Soundtrack), Pt. 10 | ZICO, [WENDY](../../artists/wendy/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) |
 
 </details>

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[233 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
+[235 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
 
 [See Track Features](audio_features.md)
 
@@ -31,10 +31,10 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 6 | 6 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 5 | 5 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 5 | 5 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 5 | 5 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 4 | 4 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 4 | 4 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 4 | 4 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 4 | 4 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -56,6 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="" width="50" /> | 2 | 2 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="" width="50" /> | 2 | 2 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 2 | 2 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 2 | 2 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 2 | 2 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 2 | 2 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf1d6a7c024d667150db85c85" alt="" width="50" /> | 2 | 2 | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
@@ -87,7 +88,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 1 | 1 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 1 | 1 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 1 | 1 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66701ca609176d8fd4a9c4a0" alt="" width="50" /> | 1 | 1 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb244f3ce9acd6c91ac2361800" alt="" width="50" /> | 1 | 1 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 1 | 1 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
@@ -246,7 +246,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 69 | 69 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 20 | 20 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 22 | 22 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 20 | 20 | [Republic Records](../../labels/republic_records/overview.md) |
 | 12 | 12 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 12 | 12 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
@@ -314,9 +314,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 206 | 206 | [k-pop](../../genres/k_pop/overview.md) |
+| 208 | 208 | [k-pop](../../genres/k_pop/overview.md) |
 | 97 | 97 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 53 | 53 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 54 | 54 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 38 | 38 | [pop](../../genres/pop/overview.md) |
 | 12 | 12 | [anime](../../genres/anime/overview.md) |
 | 5 | 5 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -355,10 +355,11 @@
 | 2019 | 16 |
 | 2018 | 11 |
 | 2017 | 12 |
-| 2016 | 12 |
+| 2016 | 13 |
 | 2015 | 7 |
 | 2014 | 3 |
 | 2013 | 2 |
+| 2012 | 1 |
 | 2011 | 2 |
 | 2010 | 1 |
 | 2008 | 1 |
@@ -374,9 +375,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys - The 3rd Album (2011-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> | ME (2023-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> | Last Fantasy (2011-11-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (2023-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY - The 4th Album (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | Modern Times (2013-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> | expérgo (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | RISE (2014-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="MAMACITA - The 7th Album" width="50" /> | MAMACITA - The 7th Album (2014-08-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | Piano Man (2014-11-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | BSS 1st Single Album 'SECOND WIND' (2023-02-06) | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (2015-02-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (2023-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="1,2,3,4" width="50" /> | 1,2,3,4 (2012-10-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY - The 4th Album (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> | expérgo (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | Modern Times (2013-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | RISE (2014-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="MAMACITA - The 7th Album" width="50" /> | MAMACITA - The 7th Album (2014-08-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | BSS 1st Single Album 'SECOND WIND' (2023-02-06) | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | Piano Man (2014-11-21) |

@@ -78,7 +78,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb01f7236d8eb8ea61cdf74eed" alt="" width="50" /> | 1 | 0 | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fea396a7fee7c95e001b464" alt="" width="50" /> | 1 | 0 | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
@@ -90,7 +90,7 @@
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 0 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfea27ddf11b9df5322a13c84" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f19d4df57ae760cfbab33f5" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ec4207332def07fec21874d" alt="" width="50" /> | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |

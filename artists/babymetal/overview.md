@@ -2,7 +2,7 @@
 # BABYMETAL
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="BABYMETAL" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="BABYMETAL" width="100" />
 
 ## Artist Rank
 BABYMETAL is currently:

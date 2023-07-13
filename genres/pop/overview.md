@@ -149,7 +149,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 6 | 5 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 6 | 5 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 5 | 5 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 5 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 5 | 3 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
@@ -361,7 +361,7 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525" alt="vampire" width="50" /> | vampire (2023-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> | Like a Virgin (1984-11-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> | A Very Special Christmas (1987-10-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> | A Very Special Christmas (1987-10-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> | There (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> | Believe (1998) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |

@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eae59411940f7fe22c7cf0f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | 3 | 0 | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 3 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27333d94ecd3934ef6d79d8b478" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c754c99b4d1dd52cc9ac2ce" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/7117adc3585d0c275a20343fd6e6d6824e622498" alt="" width="50" /> | 2 | 0 | Richard Marlow | [🔗](https://open.spotify.com/artist/7rrfp80BJeAa0lpBnNgRNK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07c9d549505f2fe573026810" alt="" width="50" /> | 2 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a68a328440fd75546e32b42c" alt="" width="50" /> | 2 | 0 | Gregorio Allegri | [🔗](https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG) |

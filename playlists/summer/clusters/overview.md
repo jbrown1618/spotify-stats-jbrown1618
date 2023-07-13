@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
 ## Cluster #2
 
-40 tracks
+41 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -31,12 +31,28 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | Hello Future | Hello Future - The 1st Album Repackage | [NCT DREAM](../../../../artists/nct_dream/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | Daisy | WE:TH | [PENTAGON](../../../../artists/pentagon/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Oh Boy | The Red - The 1st Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3ts0OSZgdjOP0Uu1DvQK4h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | ASAP | STAYDOM | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | BAMBOLEO | ‘The ReVe Festival 2022 - Feel My Rhythm’ | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0jXneVxiitQZsbtftH7HHJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | Up & Down | Why - The 2nd Mini Album | [TAEYEON](../../../../artists/taeyeon/overview.md), HYOYEON | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2T20Nb7QlVK8K6pRSiDl8N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Gorgeous | reputation | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA) |
 ## Cluster #3
 
-66 tracks
+27 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | Low Key (feat. Tyga) | Ally Brooke, Tyga | [Latium/Atlantic](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Gee | Oh! - The Second Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | dlwlrma | Palette | [IU](../../../../artists/iu/overview.md) | Fave Entertainment | 💚 | [🔗](https://open.spotify.com/track/4NPARrLIbtMl29ZJv8ESr2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](../../../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | I'm Yours | We Sing. We Dance. We Steal Things. | Jason Mraz | [Atlantic Records/ATG](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Shine | Positive | [PENTAGON](../../../../artists/pentagon/overview.md) | [CUBE ENTERTAINMENT](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](../../../../artists/stayc/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="" width="50" /> | Talk It Up | The Good Life | Sammy Rae & The Friends | Nettwerk Records | 💚 | [🔗](https://open.spotify.com/track/32jOQyOqRdxSEiQJTjvZM2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | King of Anything | Kaleidoscope Heart | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md) | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/3VA8T3rNy5V24AXxNK5u9E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | Big Booty | 容 : FACE | Solar | [RBW Inc.](../../../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/5bwzsMhJZHSHM6M6qslOgd) |
+## Cluster #4
+
+64 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -50,9 +66,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](../../../../labels/starship_entertainment) | | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES | YES or YES | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | Feel Special | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
-## Cluster #4
+## Cluster #5
 
-20 tracks
+19 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -62,23 +78,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Genie | Oh! - The Second Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6kN3vvzDiVZP2hiPA0ApMd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love | Yummy Yummy Love | [MOMOLAND](../../../../artists/momoland/overview.md), NATTI NATASHA | MLD entertainment | 💚 | [🔗](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | Super Bass | Pink Friday | Nicki Minaj | Nicki Minaj/Cash Money | 💚 | [🔗](https://open.spotify.com/track/2jSwKQBouf0brIcxGfA9CZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | Hit That Drum | Summer Magic - Summer Mini Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7dafpAJczCDB1Pzz7bRSCh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE | STEREOTYPE | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | Hips Don't Lie (feat. Wyclef Jean) | Oral Fixation, Vol. 2 (Expanded Edition) | Shakira, Wyclef Jean | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
-## Cluster #5
-
-25 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | Low Key (feat. Tyga) | Ally Brooke, Tyga | [Latium/Atlantic](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Gee | Oh! - The Second Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | dlwlrma | Palette | [IU](../../../../artists/iu/overview.md) | Fave Entertainment | 💚 | [🔗](https://open.spotify.com/track/4NPARrLIbtMl29ZJv8ESr2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](../../../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Shine | Positive | [PENTAGON](../../../../artists/pentagon/overview.md) | [CUBE ENTERTAINMENT](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](../../../../artists/stayc/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="" width="50" /> | Talk It Up | The Good Life | Sammy Rae & The Friends | Nettwerk Records | 💚 | [🔗](https://open.spotify.com/track/32jOQyOqRdxSEiQJTjvZM2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | King of Anything | Kaleidoscope Heart | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md) | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/3VA8T3rNy5V24AXxNK5u9E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | Big Booty | 容 : FACE | Solar | [RBW Inc.](../../../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/5bwzsMhJZHSHM6M6qslOgd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | UNNATURAL | [WJSN](../../../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) |

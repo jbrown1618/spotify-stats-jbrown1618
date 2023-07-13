@@ -17,7 +17,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 2 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 3 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb977f248283f291ce1789a7bb" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec0a49aeb06b8319cc6c9766" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f34daf0448f63f37f9dc35d" alt="" width="50" /> | 1 | 0 | King Gnu | [🔗](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 1 | 0 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 1 | 0 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |

@@ -20,7 +20,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 2 | 2 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb41d4a656d92f93daed36366" alt="" width="50" /> | 2 | 1 | JOOHONEY | [🔗](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20b9410119933f930b722cf0" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | 2 | 0 | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eafca2941ada62e7fc1cdf7" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 

@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbef9dcf953d83b3faee5904" alt="" width="50" /> | 1 | 1 | Anjulie | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb01f7236d8eb8ea61cdf74eed" alt="" width="50" /> | 1 | 0 | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fea396a7fee7c95e001b464" alt="" width="50" /> | 1 | 0 | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 
 
 <details>

@@ -31,7 +31,7 @@
 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | 15 | 0 | St.Petersburg Chamber Choir | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eae59411940f7fe22c7cf0f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27333d94ecd3934ef6d79d8b478" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c754c99b4d1dd52cc9ac2ce" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | 3 | 0 | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d516176f7ccedbc5add27d63" alt="" width="50" /> | 1 | 0 | Vladimir Mostovoy | [🔗](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi) |
 | <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | 1 | 0 | Olga Borodina | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |

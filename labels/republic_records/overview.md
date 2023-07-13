@@ -1,6 +1,6 @@
 # Republic Records
 
-150 songs
+151 songs
 
 [See Track Features](audio_features.md)
 
@@ -13,6 +13,7 @@ Appears as:
 - Republic Records (13 tracks)
 - Republic Records - TXT (9 tracks)
 - Lava Music/Republic Records (2 tracks)
+- Republic Records - NMIXX (1 tracks)
 - Republic/UMLE (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 - Victor Victor Worldwide/Republic Records (1 tracks)
@@ -34,7 +35,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -46,13 +47,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 0 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95021b084380d8a3d155a96e" alt="" width="50" /> | 1 | 0 | Social House | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771" alt="" width="50" /> | 1 | 0 | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 1 | 0 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1" alt="" width="50" /> | 1 | 0 | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
 
 </details>
 
 
-![Bar chart of top 20 artists](../../images/labels/republic_records/artists.png)
+![Bar chart of top 21 artists](../../images/labels/republic_records/artists.png)
 
 ## Top Albums
 
@@ -64,14 +66,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 6 | 5 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 6 | 4 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 6 | 3 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | 6 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 4 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 5 | 3 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 4 | 3 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 
 
 <details>
-<summary>See all 62 albums</summary>
+<summary>See all 63 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -127,6 +129,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | 1 | 0 | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5d7fcc7c044c9813e99b33" alt="" width="50" /> | 1 | 0 | A Midsummer NMIXX’s Dream | 2023-07-11 | [🔗](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) |
 
 </details>
 
@@ -139,7 +142,7 @@ Appears as:
 |---:|---:|:---|
 | 132 | 79 | [k-pop](../../genres/k_pop/overview.md) |
 | 107 | 66 | [pop](../../genres/pop/overview.md) |
-| 74 | 50 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 75 | 50 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 58 | 29 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -226,6 +229,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag | Who You Are (Platinum Edition) | Jessie J, B.o.B | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are | Who You Are (Platinum Edition) | Jessie J | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Despacito Feat. Justin Bieber (Remix) | Luis Fonsi, Daddy Yankee, [Justin Bieber](../../artists/justin_bieber/overview.md) | [Republic/UMLE](.) | 💚 | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5d7fcc7c044c9813e99b33" alt="" width="50" /> | Party O'Clock | A Midsummer NMIXX’s Dream | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | Dior | Meet The Woo | Pop Smoke | [Victor Victor Worldwide/Republic Records](.) | | [🔗](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | Motley Crew | Post Malone | [Republic Records](.) | | [🔗](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Hellevator | Mixtape | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/7mKXEaBVWuV0dMqN0gaCBm) |
@@ -271,12 +275,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | i hate to admit (Bang Chan) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | DLC | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | ITEM | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | Super Bowl | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md), Tiger JK | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | DLC | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | ITEM | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Super Bowl | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md), Tiger JK | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | Cat & Dog (English Version) | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | Fairy of Shampoo | The Dream Chapter: ETERNITY | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |

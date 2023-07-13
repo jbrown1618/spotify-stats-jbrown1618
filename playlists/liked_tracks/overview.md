@@ -16,8 +16,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 34 | 34 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 28 | 28 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 27 | 27 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 26 | 26 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 25 | 25 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 25 | 25 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 23 | 23 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 22 | 22 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 
@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 7 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 7 | 7 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb97f9f67e7af9fdf5337c1ff0" alt="" width="50" /> | 7 | 7 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="" width="50" /> | 7 | 7 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 7 | 7 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 7 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 6 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
@@ -266,8 +266,8 @@
 | 42 | 42 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 32 | 32 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 29 | 29 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 28 | 28 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 27 | 27 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
-| 27 | 27 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 21 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 21 | 21 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 20 | 20 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
@@ -363,9 +363,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 692 | 692 | [k-pop](../../genres/k_pop/overview.md) |
+| 693 | 693 | [k-pop](../../genres/k_pop/overview.md) |
 | 394 | 394 | [pop](../../genres/pop/overview.md) |
-| 328 | 328 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 329 | 329 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 184 | 184 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -435,13 +435,13 @@
 | 9 | 9 | hip hop |
 | 9 | 9 | bergen indie |
 | 8 | 8 | korean city pop |
-| 8 | 8 | j-pop |
 | 8 | 8 | etherpop |
 | 8 | 8 | australian dance |
 | 7 | 7 | motown |
 | 7 | 7 | modern alternative rock |
 | 7 | 7 | latin pop |
 | 7 | 7 | kawaii metal |
+| 7 | 7 | j-pop |
 | 7 | 7 | j-metal |
 | 7 | 7 | idol rock |
 | 7 | 7 | country dawn |
@@ -485,11 +485,11 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 86 |
-| [2022](2022.md) | 245 |
+| [2022](2022.md) | 244 |
 | [2021](2021.md) | 184 |
 | [2020](2020.md) | 136 |
-| [2019](2019.md) | 118 |
-| [2018](2018.md) | 82 |
+| [2019](2019.md) | 119 |
+| [2018](2018.md) | 83 |
 | [2017](2017.md) | 73 |
 | [2016](2016.md) | 76 |
 | [2015](2015.md) | 61 |
@@ -497,7 +497,7 @@
 | [2013](2013.md) | 50 |
 | [2012](2012.md) | 51 |
 | [2011](2011.md) | 36 |
-| [2010](2010.md) | 40 |
+| [2010](2010.md) | 39 |
 | [2009](2009.md) | 29 |
 | [2008](2008.md) | 23 |
 | [2007](2007.md) | 26 |
@@ -553,7 +553,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="HARD - The 8th Album" width="50" /> | HARD - The 8th Album (2023-06-26) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c" alt="Broken Melodies" width="50" /> | Broken Melodies (2023-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="HARMONY : ALL IN" width="50" /> | HARMONY : ALL IN (2023-06-08) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | LIGHTS (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |

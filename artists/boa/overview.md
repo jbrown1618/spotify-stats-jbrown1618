@@ -8,15 +8,15 @@
 BoA is currently:
 - The #42 artist of all time
 - The #40 artist of the last 6 months
-- The #11 artist of the last month
+- The #12 artist of the last month
 
-
+![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
 - Time After Time is:
     - the #11 track of the last 6 months
 - Forgive Me is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
 - Sketch is:
     - the #43 track of the last month
 

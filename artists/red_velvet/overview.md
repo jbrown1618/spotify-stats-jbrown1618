@@ -18,23 +18,23 @@ Red Velvet is currently:
 ## Top Tracks
 
 - 러시안 룰렛 Russian Roulette is:
-    - the #49 track of the last 6 months
+    - the #50 track of the last 6 months
     - the #6 track of all time
 - Bad Boy is:
-    - the #12 track of all time
+    - the #13 track of all time
 - Dumb Dumb is:
     - the #26 track of all time
 - Ice Cream Cake is:
-    - the #34 track of the last month
-    - the #32 track of all time
+    - the #32 track of the last month
+    - the #33 track of all time
 - BYE BYE is:
     - the #10 track of the last 6 months
 - Birthday is:
     - the #15 track of the last 6 months
 - ZOOM is:
-    - the #22 track of the last 6 months
+    - the #23 track of the last 6 months
 - Sunny Side Up! is:
-    - the #6 track of the last month
+    - the #7 track of the last month
 
 ### Top tracks of all time over time
 

@@ -1,13 +1,13 @@
 # SM Entertainment
 
-265 songs
+266 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (263 tracks)
+- SM Entertainment (264 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/Capitol Records (1 tracks)
 
@@ -19,7 +19,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 31 | 18 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 10 | 9 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 16 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058044fbaafa1bd5342c459e" alt="" width="50" /> | 10 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 11 | 7 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
@@ -218,9 +218,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 260 | 179 | [k-pop](../../genres/k_pop/overview.md) |
+| 261 | 179 | [k-pop](../../genres/k_pop/overview.md) |
 | 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 63 | 40 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 64 | 40 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
@@ -269,6 +269,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | No matter | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Paradise | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Runaway | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730be5467d9b60d8f46af0e388" alt="" width="50" /> | Cream Soda | EXIST - The 7th Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back | Step Back | [GOT the beat](../../artists/got_the_beat/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Alter Ego | Stamp On It - The 1st Mini Album | [GOT the beat](../../artists/got_the_beat/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/08pPhcvPmphUEx3pEBZwGZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Goddess Level | Stamp On It - The 1st Mini Album | [GOT the beat](../../artists/got_the_beat/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) |

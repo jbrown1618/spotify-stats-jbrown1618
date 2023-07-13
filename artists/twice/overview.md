@@ -18,19 +18,19 @@ TWICE is currently:
 ## Top Tracks
 
 - I CAN'T STOP ME is:
-    - the #22 track of all time
+    - the #17 track of all time
 - WALLFLOWER is:
-    - the #28 track of the last month
-    - the #33 track of the last 6 months
-- The Feels is:
-    - the #31 track of the last month
-    - the #46 track of the last 6 months
-- CRY FOR ME is:
     - the #27 track of the last month
+    - the #31 track of the last 6 months
+- The Feels is:
+    - the #29 track of the last month
+    - the #44 track of the last 6 months
+- CRY FOR ME is:
+    - the #26 track of the last month
 - What is Love is:
-    - the #33 track of the last month
+    - the #31 track of the last month
 - SET ME FREE is:
-    - the #37 track of the last month
+    - the #35 track of the last month
 
 ### Top tracks of all time over time
 
