@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.982) | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things (0.341) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Awadama Fever (0.981) | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> | Melawan Restu (0.344) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737eb0b6f27578d87476a12667" alt="Σ" width="50" /> | 404 not found (0.967) | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.362) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="翼はいらない&lt;Type A&gt;(通常盤)" width="50" /> | 恋をすると馬鹿を見る(Team B) (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.38) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.38) |
 
 ## Speechiness
 
@@ -64,9 +64,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> | Melawan Restu (0.808) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Amore (0.000328) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> | עושה לי צרות (0.777) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls (0.000388) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.756) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Awadama Fever (0.000405) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="Heaven" width="50" /> | Heaven (0.741) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.00071) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="EXPLORE!" width="50" /> | Tetap Dalam Jiwa (0.722) | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi (0.00081) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="如果雨之後" width="50" /> | 永不失聯的愛 (0.624) | <img src="https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387" alt="Cha Cha Cha" width="50" /> | Cha Cha Cha (0.00207) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="Heaven" width="50" /> | Heaven (0.741) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (0.000488) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="EXPLORE!" width="50" /> | Tetap Dalam Jiwa (0.722) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.00071) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="如果雨之後" width="50" /> | 永不失聯的愛 (0.624) | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi (0.00081) |
 
 ## Instrumentalness
 
@@ -112,12 +112,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="El Dorado" width="50" /> | Me Enamoré (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b273f6b93cc89e67d749ec3013ee" alt="Mercy" width="50" /> | Mercy (0.169) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="ממותה" width="50" /> | סתלבט בקיבוץ (0.941) | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="EXPLORE!" width="50" /> | Tetap Dalam Jiwa (0.179) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> | 你要的愛 (0.2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="次の足跡 Type A &lt;初回限定盤&gt;" width="50" /> | 恋するフォーチュンクッキー (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="白月光与朱砂痣" width="50" /> | 白月光与朱砂痣 (0.218) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="BOOTLEG" width="50" /> | 砂の惑星 ( + 初音ミク ) (0.917) | <img src="https://i.scdn.co/image/ab67616d0000b273dd7006a14a1fc3474eb80d51" alt="LEXICON" width="50" /> | untuk hati yang terluka. (0.225) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | No Rain, No Rainbow (0.225) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="No title-" width="50" /> | No title (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.238) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | The Ketchup Song (Aserejé) - Spanglish Version (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 落葉歸根 (0.253) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (0.928) | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="白月光与朱砂痣" width="50" /> | 白月光与朱砂痣 (0.218) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="次の足跡 Type A &lt;初回限定盤&gt;" width="50" /> | 恋するフォーチュンクッキー (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b273dd7006a14a1fc3474eb80d51" alt="LEXICON" width="50" /> | untuk hati yang terluka. (0.225) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="BOOTLEG" width="50" /> | 砂の惑星 ( + 初音ミク ) (0.917) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | No Rain, No Rainbow (0.225) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="No title-" width="50" /> | No title (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.238) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 落葉歸根 (0.253) |
 
 ## Tempo
 

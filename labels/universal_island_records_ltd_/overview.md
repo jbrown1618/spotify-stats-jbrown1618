@@ -35,13 +35,12 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 15 | 14 | uk alternative pop |
-| 15 | 14 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 15 | 14 | [modern rock](../../genres/modern_rock/overview.md) |
 | 15 | 14 | baroque pop |
 | 3 | 2 | neo soul |
 | 3 | 2 | british soul |
 
-![Bar chart of top 6 genres](../../images/labels/universal_island_records_ltd_/genres.png)
+![Bar chart of top 5 genres](../../images/labels/universal_island_records_ltd_/genres.png)
 
 ## Tracks released under Universal-Island Records Ltd.
 

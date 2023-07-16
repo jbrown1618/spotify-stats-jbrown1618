@@ -12,7 +12,7 @@
 BLACKPINK is currently:
 - The #2 artist of all time
 - The #9 artist of the last 6 months
-- The #10 artist of the last month
+- The #12 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -28,12 +28,13 @@ BLACKPINK is currently:
 - BOOMBAYAH is:
     - the #43 track of all time
 - WHISTLE is:
+    - the #38 track of the last month
     - the #48 track of all time
 - Pink Venom is:
-    - the #13 track of the last month
+    - the #8 track of the last month
     - the #2 track of the last 6 months
 - Shut Down is:
-    - the #37 track of the last 6 months
+    - the #46 track of the last 6 months
 
 ### Top tracks of all time over time
 

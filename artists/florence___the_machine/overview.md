@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #35 artist of the last 6 months
+- The #34 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
 ## Featured on Playlists
@@ -42,7 +42,6 @@ Florence + The Machine is currently:
 
 - baroque pop
 - [modern rock](../../genres/modern_rock)
-- [neo mellow](../../genres/neo_mellow)
 - uk alternative pop
 
 ## Tracks

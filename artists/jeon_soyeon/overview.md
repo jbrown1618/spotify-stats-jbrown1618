@@ -7,7 +7,6 @@
 ## Artist Rank
 JEON SOYEON is currently:
 - The #30 artist of all time
-- The #30 artist of the last month
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)
 ## Top Tracks
@@ -16,8 +15,6 @@ JEON SOYEON is currently:
     - the #3 track of all time
 - BEAM BEAM is:
     - the #19 track of all time
-- Psycho is:
-    - the #48 track of the last month
 
 ### Top tracks of all time over time
 

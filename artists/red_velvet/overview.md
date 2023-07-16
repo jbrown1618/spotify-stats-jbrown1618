@@ -12,29 +12,33 @@
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #3 artist of the last month
+- The #5 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
 
 - 러시안 룰렛 Russian Roulette is:
-    - the #50 track of the last 6 months
+    - the #45 track of the last 6 months
     - the #6 track of all time
 - Bad Boy is:
     - the #13 track of all time
 - Dumb Dumb is:
     - the #26 track of all time
 - Ice Cream Cake is:
-    - the #32 track of the last month
     - the #33 track of all time
 - BYE BYE is:
-    - the #10 track of the last 6 months
+    - the #11 track of the last 6 months
 - Birthday is:
-    - the #15 track of the last 6 months
+    - the #18 track of the last 6 months
 - ZOOM is:
-    - the #23 track of the last 6 months
+    - the #35 track of the last month
+    - the #21 track of the last 6 months
+- On A Ride is:
+    - the #48 track of the last 6 months
 - Sunny Side Up! is:
     - the #7 track of the last month
+- Feel My Rhythm is:
+    - the #37 track of the last month
 
 ### Top tracks of all time over time
 

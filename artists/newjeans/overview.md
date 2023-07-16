@@ -7,19 +7,17 @@
 ## Artist Rank
 NewJeans is currently:
 - The #29 artist of all time
-- The #18 artist of the last 6 months
-- The #29 artist of the last month
+- The #20 artist of the last 6 months
+- The #24 artist of the last month
 
 ![Rank of NewJeans over time](../../images/artists/newjeans/rank_time_series.png)
 ## Top Tracks
 
 - Ditto is:
-    - the #2 track of the last month
+    - the #4 track of the last month
     - the #14 track of the last 6 months
 - OMG is:
-    - the #19 track of the last 6 months
-- Hype Boy is:
-    - the #34 track of the last 6 months
+    - the #20 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

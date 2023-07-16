@@ -18,10 +18,11 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #20 track of the last month
-    - the #4 track of the last 6 months
+    - the #16 track of the last month
+    - the #6 track of the last 6 months
     - the #41 track of all time
 - FEVER is:
+    - the #32 track of the last month
     - the #45 track of all time
 - Just A Little Bit is:
     - the #46 track of all time

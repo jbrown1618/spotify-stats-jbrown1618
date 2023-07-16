@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ee4d1cb7dcedbfd3b4fa6ea" alt="" width="50" /> | 2 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e167cbf34879564304ed076" alt="" width="50" /> | 2 | 0 | David Ogden Stiers | [🔗](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4165ef3e7669f249706b8999" alt="" width="50" /> | 1 | 0 | Sally Dworsky | [🔗](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fa17f03805db6002c7715b3" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d659ec1167c5ef3865033afa" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Billy Bletcher | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
@@ -165,11 +165,10 @@
 
 
 <details>
-<summary>See all 26 genres</summary>
+<summary>See all 24 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | tin pan alley |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
 | 1 | 0 | roots rock |
@@ -184,12 +183,11 @@
 | 1 | 0 | bubblegum pop |
 | 1 | 0 | blues |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 1 | 0 | acoustic blues |
 
 </details>
 
 
-![Bar chart of top 26 genres](../../images/playlists/disney/genres.png)
+![Bar chart of top 24 genres](../../images/playlists/disney/genres.png)
 
 ## Years
 
