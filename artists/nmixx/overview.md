@@ -6,15 +6,15 @@
 
 ## Artist Rank
 NMIXX is currently:
-- The #48 artist of all time
+- The #49 artist of all time
 - The #25 artist of the last 6 months
-- The #21 artist of the last month
+- The #19 artist of the last month
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - TANK is:
-    - the #39 track of the last month
+    - the #41 track of the last month
 
 ### Top tracks of the last month over time
 

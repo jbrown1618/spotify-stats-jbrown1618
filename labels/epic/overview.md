@@ -130,6 +130,7 @@ Appears as:
 | 2 | 2 | celtic rock |
 | 5 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 4 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 4 | 1 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 1 | talent show |
 | 3 | 1 | girl group |
 | 2 | 1 | [rock](../../genres/rock/overview.md) |
@@ -137,7 +138,6 @@ Appears as:
 | 2 | 1 | new wave pop |
 | 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 2 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
-| 2 | 1 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 1 | [album rock](../../genres/album_rock/overview.md) |
 | 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 1 | neo soul |

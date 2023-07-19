@@ -7,10 +7,6 @@
 ## Artist Rank
 
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
-## Top Tracks
-
-- Do It Like This is:
-    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

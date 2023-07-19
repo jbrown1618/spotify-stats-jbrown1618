@@ -11,15 +11,15 @@
 ## Artist Rank
 EXO is currently:
 - The #18 artist of all time
-- The #35 artist of the last 6 months
+- The #31 artist of the last 6 months
 
 ![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
 ## Top Tracks
 
 - Love Shot is:
-    - the #11 track of all time
+    - the #12 track of all time
 - The Eve is:
-    - the #42 track of all time
+    - the #44 track of all time
 
 ### Top tracks of all time over time
 

@@ -18,11 +18,11 @@ STAYC is currently:
 ## Top Tracks
 
 - POPPY - Japanese Ver. is:
-    - the #25 track of the last 6 months
+    - the #23 track of the last 6 months
 - SO BAD is:
-    - the #23 track of the last month
+    - the #26 track of the last month
 - RUN2U is:
-    - the #44 track of the last month
+    - the #40 track of the last month
 
 ### Top tracks of the last 6 months over time
 

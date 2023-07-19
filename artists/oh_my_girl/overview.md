@@ -5,8 +5,6 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb9954a1ab45b2404a7bff2a45" alt="OH MY GIRL" width="100" />
 
 ## Artist Rank
-OH MY GIRL is currently:
-- The #50 artist of all time
 
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
 ## Top Tracks

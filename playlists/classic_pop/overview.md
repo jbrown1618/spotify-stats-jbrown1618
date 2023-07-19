@@ -176,8 +176,8 @@
 | 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 13 | 7 | motown |
 | 9 | 6 | folk rock |
+| 9 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 8 | 6 | folk |
-| 8 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 8 | 5 | [r&b](../../genres/r_b/overview.md) |
 | 5 | 5 | melancholia |
 

@@ -234,8 +234,8 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 25 | 16 | [soft rock](../../genres/soft_rock/overview.md) |
+| 25 | 16 | [classic rock](../../genres/classic_rock/overview.md) |
 | 23 | 16 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 23 | 16 | [classic rock](../../genres/classic_rock/overview.md) |
 | 22 | 15 | [album rock](../../genres/album_rock/overview.md) |
 | 19 | 9 | [art pop](../../genres/art_pop/overview.md) |
 | 9 | 8 | nz pop |

@@ -11,23 +11,23 @@
 ## Artist Rank
 ENHYPEN is currently:
 - The #11 artist of all time
-- The #10 artist of the last 6 months
+- The #9 artist of the last 6 months
 - The #4 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #16 track of the last month
-    - the #6 track of the last 6 months
-    - the #41 track of all time
-- FEVER is:
-    - the #32 track of the last month
-    - the #45 track of all time
+    - the #10 track of the last month
+    - the #5 track of the last 6 months
+    - the #33 track of all time
 - Just A Little Bit is:
-    - the #46 track of all time
+    - the #43 track of all time
 - Polaroid Love is:
-    - the #50 track of all time
+    - the #48 track of all time
+- FEVER is:
+    - the #36 track of the last month
+    - the #49 track of all time
 
 ### Top tracks of all time over time
 

@@ -6,7 +6,7 @@
 
 ## Artist Rank
 ATEEZ is currently:
-- The #34 artist of all time
+- The #31 artist of all time
 - The #30 artist of the last 6 months
 
 ![Rank of ATEEZ over time](../../images/artists/ateez/rank_time_series.png)
@@ -14,6 +14,8 @@ ATEEZ is currently:
 
 - HALAZIA is:
     - the #35 track of the last 6 months
+- Deja Vu is:
+    - the #35 track of the last month
 
 ### Top tracks of the last 6 months over time
 
