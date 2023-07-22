@@ -11,7 +11,7 @@
 ## Artist Rank
 IU is currently:
 - The #5 artist of all time
-- The #5 artist of the last 6 months
+- The #6 artist of the last 6 months
 - The #14 artist of the last month
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
@@ -20,16 +20,15 @@ IU is currently:
 - BBIBBI is:
     - the #21 track of all time
 - Coin is:
-    - the #45 track of the last month
     - the #24 track of all time
 - My sea is:
     - the #18 track of the last month
-    - the #17 track of the last 6 months
+    - the #16 track of the last 6 months
     - the #25 track of all time
 - LILAC is:
     - the #36 track of all time
 - Jam Jam is:
-    - the #12 track of the last 6 months
+    - the #10 track of the last 6 months
 
 ### Top tracks of all time over time
 

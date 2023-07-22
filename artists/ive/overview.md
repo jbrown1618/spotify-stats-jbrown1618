@@ -11,14 +11,12 @@
 ## Artist Rank
 IVE is currently:
 - The #22 artist of all time
-- The #20 artist of the last 6 months
-- The #24 artist of the last month
+- The #24 artist of the last 6 months
+- The #26 artist of the last month
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
-- LOVE DIVE is:
-    - the #44 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

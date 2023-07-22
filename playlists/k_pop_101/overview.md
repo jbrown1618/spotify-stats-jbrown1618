@@ -178,7 +178,7 @@
 | 1 | 1 | Capitol Records (CAP) |
 | 1 | 1 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 1 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
-| 1 | 1 | ADOR |
+| 1 | 1 | [ADOR](../../labels/ador/overview.md) |
 
 </details>
 
@@ -189,7 +189,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 45 | 40 | [k-pop](../../genres/k_pop/overview.md) |
+| 46 | 41 | [k-pop](../../genres/k_pop/overview.md) |
 | 22 | 19 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 17 | 16 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 5 | [pop](../../genres/pop/overview.md) |

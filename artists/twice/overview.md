@@ -21,16 +21,14 @@ TWICE is currently:
     - the #17 track of all time
 - WALLFLOWER is:
     - the #23 track of the last month
-    - the #30 track of the last 6 months
+    - the #27 track of the last 6 months
 - The Feels is:
     - the #24 track of the last month
-    - the #41 track of the last 6 months
-- CRY FOR ME is:
-    - the #50 track of the last 6 months
+    - the #39 track of the last 6 months
 - What is Love is:
     - the #6 track of the last month
 - SET ME FREE is:
-    - the #29 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of all time over time
 

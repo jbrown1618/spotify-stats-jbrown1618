@@ -10,7 +10,8 @@
 
 ## Artist Rank
 The Beatles is currently:
-- The #47 artist of all time
+- The #42 artist of all time
+- The #22 artist of the last month
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Featured on Playlists

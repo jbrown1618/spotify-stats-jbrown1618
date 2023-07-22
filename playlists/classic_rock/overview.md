@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 28 artists</summary>
+<summary>See all 29 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -41,6 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1202580c944efb0b9c14dfd0" alt="" width="50" /> | 1 | 1 | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 1 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| <img src="https://i.scdn.co/image/a13eee07307adc70fe177f0fa73e935cb909afe6" alt="" width="50" /> | 1 | 1 | Keith Richards | [🔗](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) |
 | <img src="https://i.scdn.co/image/e1c04d8144371d6a6ac39c7f15a1c2a9f67a0c50" alt="" width="50" /> | 3 | 0 | Frank Zappa | [🔗](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | 2 | 0 | Sting | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
@@ -52,7 +53,7 @@
 </details>
 
 
-![Bar chart of top 28 artists](../../images/playlists/classic_rock/artists.png)
+![Bar chart of top 29 artists](../../images/playlists/classic_rock/artists.png)
 
 ![Comparison of Artist](../../images/playlists/classic_rock/artists_comparison.png)
 
@@ -187,11 +188,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 98 | 63 | [rock](../../genres/rock/overview.md) |
-| 95 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
-| 39 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
+| 97 | 62 | [rock](../../genres/rock/overview.md) |
+| 94 | 60 | [classic rock](../../genres/classic_rock/overview.md) |
+| 38 | 29 | [british invasion](../../genres/british_invasion/overview.md) |
 | 45 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
-| 47 | 25 | [album rock](../../genres/album_rock/overview.md) |
+| 46 | 24 | [album rock](../../genres/album_rock/overview.md) |
 | 33 | 23 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 31 | 22 | merseybeat |
 | 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |
@@ -200,7 +201,7 @@
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 50 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -213,9 +214,9 @@
 | 12 | 3 | symphonic rock |
 | 12 | 3 | art rock |
 | 5 | 3 | folk rock |
+| 5 | 2 | blues rock |
 | 3 | 2 | folk |
 | 4 | 1 | metal |
-| 4 | 1 | blues rock |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
 | 2 | 1 | sunshine pop |
@@ -229,6 +230,9 @@
 | 2 | 1 | alternative metal |
 | 1 | 1 | southern rock |
 | 1 | 1 | jam band |
+| 1 | 1 | electric blues |
+| 1 | 1 | british blues |
+| 1 | 1 | blues |
 | 1 | 1 | australian rock |
 | 3 | 0 | zolo |
 | 3 | 0 | proto-metal |

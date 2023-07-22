@@ -19,7 +19,7 @@ aespa is currently:
 
 - Savage is:
     - the #17 track of the last month
-    - the #14 track of the last 6 months
+    - the #12 track of the last 6 months
     - the #11 track of all time
 - Next Level is:
     - the #19 track of the last 6 months
@@ -28,17 +28,17 @@ aespa is currently:
     - the #16 track of all time
 - Spicy is:
     - the #27 track of the last month
-    - the #4 track of the last 6 months
+    - the #3 track of the last 6 months
 - Illusion is:
     - the #16 track of the last month
-    - the #6 track of the last 6 months
+    - the #5 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
     - the #2 track of the last month
-    - the #20 track of the last 6 months
+    - the #17 track of the last 6 months
 - Hold On Tight is:
-    - the #21 track of the last 6 months
+    - the #20 track of the last 6 months
 - Thirsty is:
-    - the #12 track of the last month
+    - the #11 track of the last month
 - I'll Make You Cry is:
     - the #42 track of the last month
 

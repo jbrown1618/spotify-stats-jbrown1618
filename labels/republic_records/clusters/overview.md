@@ -4,14 +4,14 @@
 
 ## Cluster #1
 
-79 tracks
+78 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | motive (with Doja Cat) | Positions | [Ariana Grande](../../../../artists/ariana_grande/overview.md), [Doja Cat](../../../../artists/doja_cat/overview.md) | [Republic Records](../..) | | [🔗](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5d7fcc7c044c9813e99b33" alt="" width="50" /> | Party O'Clock | A Midsummer NMIXX’s Dream | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../..) | | [🔗](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | Charmer | ODDINARY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | | [🔗](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 3RACHA (Bang Chan, Changbin, HAN) | MAXIDENT | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | | [🔗](https://open.spotify.com/track/6T4o4xEh61CpgM9v4jG5DJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | DLC | 5-STAR | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | | [🔗](https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | HELL IN HEAVEN | Eyes Wide Open | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3KCreWc88InXH3XuL54C5a) |
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE (ENG) | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | | [🔗](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) |
 ## Cluster #2
 
-35 tracks
+36 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

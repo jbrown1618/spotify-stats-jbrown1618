@@ -148,7 +148,7 @@
 | 9 | 8 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 7 | 7 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 7 | 6 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 4 | 4 | ADOR |
+| 4 | 4 | [ADOR](../../labels/ador/overview.md) |
 | 5 | 3 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 3 | 3 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 3 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |

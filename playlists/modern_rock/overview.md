@@ -227,9 +227,9 @@
 |---:|---:|:---|
 | 56 | 34 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 28 | 21 | [pop](../../genres/pop/overview.md) |
 | 36 | 20 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 33 | 20 | [modern rock](../../genres/modern_rock/overview.md) |
+| 27 | 20 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
@@ -238,7 +238,7 @@
 
 
 <details>
-<summary>See all 90 genres</summary>
+<summary>See all 92 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -279,6 +279,8 @@
 | 5 | 1 | post-grunge |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
+| 1 | 1 | teen pop |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | neo-synthpop |

@@ -10,7 +10,7 @@
 
 ## Artist Rank
 WENDY is currently:
-- The #34 artist of all time
+- The #33 artist of all time
 - The #34 artist of the last 6 months
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
@@ -20,10 +20,10 @@ WENDY is currently:
     - the #39 track of the last month
     - the #18 track of all time
 - Like Water is:
-    - the #29 track of the last 6 months
+    - the #25 track of the last 6 months
     - the #40 track of all time
 - Time After Time is:
-    - the #16 track of the last 6 months
+    - the #15 track of the last 6 months
 
 ### Top tracks of all time over time
 

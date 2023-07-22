@@ -125,7 +125,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 13 | 10 | [k-pop](../../genres/k_pop/overview.md) |
+| 13 | 11 | [k-pop](../../genres/k_pop/overview.md) |
 | 4 | 3 | [korean pop](../../genres/korean_pop/overview.md) |
 | 4 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 2 | 2 | korean ost |
