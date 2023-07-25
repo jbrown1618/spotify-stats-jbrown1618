@@ -4,35 +4,33 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) | 48 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 55 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Feel Ghood Music/88risingMusic | 💚 |
-| Animal Farm [🔗](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | 56 | 2022-09-27 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Animal Farm [🔗](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 45 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | 88rising Music | |
-| Abracadabra [🔗](https://open.spotify.com/track/33bXkEzVYbyp1nCTx4KNwc) | 58 | 2009-07-21 | Brown Eyed Girls [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | Sound G. [🔗](https://open.spotify.com/album/01ylpNorWq5UkR5Vd0XBqw) | 47 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | 내가네트워크 | |
-| Abracadabra [🔗](https://open.spotify.com/track/4q4iT3zXglsNjzFsArxBUv) | 0 | 2009-07-21 | Brown Eyed Girls [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | Sound G. [🔗](https://open.spotify.com/album/2CEzjLWQOcGxkorwL99n6p) | 0 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | 내가네트워크 | |
-| Gee [🔗](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) | 69 | 2010-01-28 | Girls' Generation [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | Oh! - The Second Album [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 61 | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) | SM Entertainment | |
-| Gee [🔗](https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C) | 53 | 2009-01-05 | Girls' Generation [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | Gee - The First Mini Album [🔗](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 45 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | 💚 |
-| TANK [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | 52 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 50 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | 💚 |
-| TANK [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | 64 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 63 | | Republic Records - NMIXX | |
-| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 94 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 84 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
-| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 91 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 93 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | |
+| HOME [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | 52 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
+| HOME [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) | 40 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
+| Just Did It [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) | 54 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
+| Just Did It [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) | 41 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | 💚 |
+| Love Me Like This [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | 78 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | 💚 |
+| Love Me Like This [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | 64 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | |
+| O.O [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | 57 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 49 | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC) | JYP Entertainment | |
+| O.O [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | 71 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 63 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - NMIXX | 💚 |
+| TANK [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | 50 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 49 | Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | |
+| TANK [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | 64 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 63 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - NMIXX | 💚 |
+| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) | 43 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
+| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) | 39 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| An Evening With Silk Sonic [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 80 | 2021-11-11 | Aftermath Entertainment/Atlantic | Leave The Door Open [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| An Evening With Silk Sonic [🔗](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | Anderson .Paak [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa),<br>Bruno Mars [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C),<br>Silk Sonic [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | 73 | 2021-11-12 | Aftermath Entertainment/Atlantic | 777 [🔗](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ),<br>After Last Night (with Thundercat & Bootsy Collins) [🔗](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ),<br>Fly As Me [🔗](https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W),<br>Smokin Out The Window [🔗](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| Sound G. [🔗](https://open.spotify.com/album/01ylpNorWq5UkR5Vd0XBqw) | Brown Eyed Girls [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | 47 | 2009-07-21 | 내가네트워크 | Abracadabra [🔗](https://open.spotify.com/track/33bXkEzVYbyp1nCTx4KNwc) | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| Sound G. [🔗](https://open.spotify.com/album/2CEzjLWQOcGxkorwL99n6p) | Brown Eyed Girls [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | 0 | 2009-07-21 | 내가네트워크 | Abracadabra [🔗](https://open.spotify.com/track/4q4iT3zXglsNjzFsArxBUv) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 67 | 2020-05-20 | Universal Music LLC | 死ぬのがいいわ [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
 | HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 76 | 2020-05-20 | Universal Music LLC | Shinunoga E-Wa [🔗](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 52 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 55 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 40 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 63 | 2022-02-22 | Republic Records - NMIXX | TANK [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | |
-| AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 50 | 2022-02-22 | JYP Entertainment | O.O [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6),<br>TANK [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 93 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
-| SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 84 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
+| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 63 | 2022-02-22 | Republic Records - NMIXX | O.O [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE),<br>TANK [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 49 | 2022-02-22 | JYP Entertainment | O.O [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6),<br>TANK [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 68 | 2023-03-20 | Republic Records - NMIXX | HOME [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1),<br>Just Did It [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0),<br>Love Me Like This [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m),<br>Young, Dumb, Stupid [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) |
+| expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 54 | 2023-03-20 | JYP Entertainment | HOME [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17),<br>Just Did It [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU),<br>Love Me Like This [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO),<br>Young, Dumb, Stupid [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 
 ## Tracks with low popularity
 
@@ -55,9 +53,9 @@
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 0 | 88 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 88 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 88 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 88 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 88 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 88 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 88 |
@@ -117,15 +115,10 @@
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
-| Cool With You | NewJeans 2nd EP 'Get Up' | NewJeans | 0 | 0 | 80 |
-| Super Shy | NewJeans 2nd EP 'Get Up' | NewJeans | 0 | 0 | 80 |
-| ETA | NewJeans 2nd EP 'Get Up' | NewJeans | 0 | 0 | 80 |
-| ASAP | NewJeans 2nd EP 'Get Up' | NewJeans | 0 | 0 | 80 |
-| New Jeans | NewJeans 2nd EP 'Get Up' | NewJeans | 0 | 0 | 80 |
-| Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 1 | 61 |
-| Happier (feat. Crush) | PSY 9th | PSY | 0 | 1 | 61 |
-| Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 1 | 59 |
-| Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 61 |
+| Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
+| Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
+| Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 0 | 59 |
+| Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 61 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
@@ -313,8 +306,8 @@
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 68 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 68 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
-| React | React | The Pussycat Dolls | 1 | 0 | 67 |
-| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 74 |
+| React | React | The Pussycat Dolls | 2 | 0 | 67 |
+| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 75 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
@@ -359,16 +352,16 @@
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 32 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 32 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 51 |
-| The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 45 |
-| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 53 |
+| The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 46 |
+| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 46 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 29 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 61 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 62 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 37 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 37 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 37 |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
@@ -394,7 +387,6 @@
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 80 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
@@ -407,20 +399,20 @@
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 53 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 82 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 82 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 82 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
-| BABY | Void | The Rose | 1 | 1 | 60 |
-| I will show you | Invitation | AILEE | 0 | 0 | 55 |
+| BABY | Void | The Rose | 0 | 1 | 61 |
+| I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 1 | 0 | 58 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 32 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 35 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 34 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
@@ -429,9 +421,8 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | Hello Bitches | Hello Bitches | CL | 0 | 0 | 55 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
-| Miku | Miku | Anamanaguchi | 2 | 0 | 46 |
+| Miku | Miku | Anamanaguchi | 2 | 0 | 47 |
 | Miku | Miku | Hatsune Miku | 2 | 0 | 60 |
-| Abracadabra | Sound G. | Brown Eyed Girls | 0 | 0 | 40 |
 | Boat | Boat | george | 0 | 0 | 48 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |

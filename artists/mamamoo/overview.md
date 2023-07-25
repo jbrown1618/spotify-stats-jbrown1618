@@ -11,12 +11,14 @@
 ## Artist Rank
 MAMAMOO is currently:
 - The #12 artist of all time
-- The #18 artist of the last 6 months
+- The #17 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of MAMAMOO over time](../../images/artists/mamamoo/rank_time_series.png)
 ## Top Tracks
 
 - HIP is:
+    - the #43 track of the last 6 months
     - the #1 track of all time
 - Egotistic is:
     - the #26 track of all time

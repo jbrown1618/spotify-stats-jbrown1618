@@ -20,6 +20,22 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN, [Taylor Swift](../../overview.md) | Universal Music Group | | [🔗](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) |
 ## Cluster #2
 
+30 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | Red | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/0cITLOYn1Sv4q27zZPqlNK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Blank Space | 1989 | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | I Know Places | 1989 | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Look What You Made Me Do | reputation | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | London Boy | Lover | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) | Lover | [Taylor Swift](../../overview.md), Brendon Urie, Panic! At The Disco | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Forever & Always (Taylor’s Version) | Fearless (Taylor's Version) | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Anti-Hero | Midnights | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) |
+## Cluster #3
+
 17 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -34,19 +50,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | willow | evermore | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnight Rain | Midnights | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Taylor Swift](../../overview.md), [Lana Del Rey](../../../lana_del_rey/overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
-## Cluster #3
-
-29 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | Red | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/0cITLOYn1Sv4q27zZPqlNK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Blank Space | 1989 | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | I Know Places | 1989 | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Look What You Made Me Do | reputation | [Taylor Swift](../../overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | London Boy | Lover | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Forever & Always (Taylor’s Version) | Fearless (Taylor's Version) | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Anti-Hero | Midnights | [Taylor Swift](../../overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) |

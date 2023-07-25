@@ -4,16 +4,16 @@
 
 ## Cluster #1
 
-19 tracks
+20 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273256b86508bfdc54899e4685e" alt="" width="50" /> | Haru Haru | Stand Up | BIGBANG | [YG Entertainment](../../../../labels/yg_entertainment) | | [🔗](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | No.1 | No.1 - The 2nd Album | [BoA](../../../../artists/boa/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337baeb8b1db91ebeef23e033" alt="" width="50" /> | Sweety | Instant Pig | Clazziquai | 플럭서스1 | | [🔗](https://open.spotify.com/track/3cflVYa6Y8Vcv3q6hf3ipO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737657059390a7871c158fd966" alt="" width="50" /> | Cream Soda | EXIST – The 7th Album | [EXO](../../../../artists/exo/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="" width="50" /> | Love Love Love | Remapping the Human Soul | Epik High | CJ E&M MUSIC | | [🔗](https://open.spotify.com/track/7hlEhmg5h9XuFtaGfgvqjF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348deff966fb8c94edaceb855" alt="" width="50" /> | Mr. | Revolution | KARA | DSP media | | [🔗](https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb3c690920c69107439c2866" alt="" width="50" /> | Girl Front | Max & Match | LOOΠΔ / ODD EYE CIRCLE | BlockBerryCreative | | [🔗](https://open.spotify.com/track/5OnchRw2yAuIAwp2RYLCBa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1cbf8fbe1a0b673990e984" alt="" width="50" /> | 3!4! | All System Go | Roo'RA | 킹핀엔터테인먼트 | | [🔗](https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ae7ef733837fb782ff73c7b" alt="" width="50" /> | (′Cause) I′m Your Girl | S.E.S. - The 1st Album | S.E.S. | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer | Lucifer - The 2nd Album | SHINee | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) |

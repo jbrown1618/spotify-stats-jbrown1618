@@ -18,15 +18,11 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #4 track of the last month
-    - the #8 track of the last 6 months
-    - the #31 track of all time
+    - the #6 track of the last month
+    - the #7 track of the last 6 months
+    - the #32 track of all time
 - Cheshire is:
-    - the #6 track of the last 6 months
-- In the morning is:
-    - the #44 track of the last month
-- Not Shy is:
-    - the #49 track of the last month
+    - the #14 track of the last 6 months
 
 ### Top tracks of all time over time
 

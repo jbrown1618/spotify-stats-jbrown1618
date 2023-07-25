@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-29 tracks
+28 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -20,11 +20,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Bird Set Free | This Is Acting (Deluxe Version) | [Sia](../../../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) |
 ## Cluster #2
 
-41 tracks
+39 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | [Doja Cat](../../../../artists/doja_cat/overview.md), SZA | [Kemosabe Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f4af2c39b1e4a4eb45cd124" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | [Doja Cat](../../../../artists/doja_cat/overview.md), SZA | [Kemosabe Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | TiK ToK | Animal (Expanded Edition) | Kesha | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Daft Punk | PTX, Vol. 2 | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Love Again | PTX, Vol. 2 | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | | [🔗](https://open.spotify.com/track/0vcyzDe6aoYTg6jM0U0T9r) |
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | [Sia](../../../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 ## Cluster #3
 
-21 tracks
+23 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

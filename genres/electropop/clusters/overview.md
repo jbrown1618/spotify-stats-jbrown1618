@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | Happier Than Ever | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../../labels/darkroom), [Interscope Records](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../../labels/darkroom), [Interscope Records](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Plain Gold Ring | Vows (Deluxe Version) | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/55RJLcVGohfyfuSP4EyE1I) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | foolish thinking | A Reckoning | [Kimbra](../../../../artists/kimbra/overview.md), Ryan Lott | Kimbra | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | foolish thinking | A Reckoning | [Kimbra](../../../../artists/kimbra/overview.md), Ryan Lott | Kimbra | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
 ## Cluster #2
 
 19 tracks
@@ -31,8 +31,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Two Way Street | Vows (Deluxe Version) | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7ptSTFAis4UckLAfUrMfM0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Lightyears | Primal Heart | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0lArgFRoTvsmrt7A6DzMXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | The Good War | Primal Heart | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/3Py6qWHKkcdBEVcYThxhp9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | la type | A Reckoning | [Kimbra](../../../../artists/kimbra/overview.md), Tommy Raps, Pink Siifu | Kimbra | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1b217d3bb2ef206b92cd968" alt="" width="50" /> | replay! | A Reckoning | [Kimbra](../../../../artists/kimbra/overview.md) | Kimbra | | [🔗](https://open.spotify.com/track/4wJq9Vut5WktGLIo02IYA2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | la type | A Reckoning | [Kimbra](../../../../artists/kimbra/overview.md), Tommy Raps, Pink Siifu | Kimbra | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | replay! | A Reckoning | [Kimbra](../../../../artists/kimbra/overview.md) | Kimbra | | [🔗](https://open.spotify.com/track/4wJq9Vut5WktGLIo02IYA2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | Somebody Else | Somebody Else | VÉRITÉ | VÉRITÉ | 💚 | [🔗](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) |
 ## Cluster #3
 
