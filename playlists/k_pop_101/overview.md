@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="K-Pop 101" width="100" />
 
-[49 tracks (43 liked) 🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC)
+[49 tracks (44 liked) 🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC)
 
 [See Track Features](audio_features.md)
 
@@ -53,6 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 1 | 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 1 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 1 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 1 | 1 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
@@ -68,7 +69,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 1 | 0 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 1 | 0 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 1 | 0 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 1 | 0 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 
 </details>
 
@@ -131,12 +131,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | 1 | 1 | BBIBBI | 2018-10-10 | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | 1 | 1 | Amusement Park | 2020-12-21 | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 1 | 1 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 1 | 1 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | 1 | 0 | The Wonder Years - Trilogy | 2008-09-22 | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | 1 | 0 | The SHINee World - The First Album | 2008-08-28 | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 1 | 0 | TOUCH N MOVE | 2014-07-21 | [🔗](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | 1 | 0 | COLOR*IZ | 2018-10-29 | [🔗](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="" width="50" /> | 1 | 0 | Bubble Pop! | 2011-07-05 | [🔗](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="" width="50" /> | 1 | 0 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) |
 
 </details>
 
@@ -148,14 +148,14 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 14 | 13 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 4 | 4 | [Republic Records](../../labels/republic_records/overview.md) |
+| 5 | 5 | [Republic Records](../../labels/republic_records/overview.md) |
 | 4 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 3 | 3 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 3 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 2 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 3 | 2 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 2 | 2 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
-| 3 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
+| 2 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | 드림캐쳐컴퍼니 |
 
 
@@ -189,8 +189,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 46 | 40 | [k-pop](../../genres/k_pop/overview.md) |
-| 22 | 18 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 46 | 41 | [k-pop](../../genres/k_pop/overview.md) |
+| 22 | 19 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 17 | 16 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 5 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -211,7 +211,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="NewJeans 1st EP &#x27;New Jeans&#x27;" width="50" /> | NewJeans 1st EP 'New Jeans' (2022-08-01) | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> | MIROTIC - The 4th Album (2008-09-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | HARMONY : ZERO IN (2022-07-20) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | LOVE DIVE (2022-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry - The 3rd Album (2009-03-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! (2011-07-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! (2011-07-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | INVU - The 3rd Album (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys - The 3rd Album (2011-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker - The 3rd Album (2021-09-17) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | RISE (2014-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="The Chaos Chapter: FIGHT OR ESCAPE" width="50" /> | The Chaos Chapter: FIGHT OR ESCAPE (2021-08-17) | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="TOUCH N MOVE" width="50" /> | TOUCH N MOVE (2014-07-21) |

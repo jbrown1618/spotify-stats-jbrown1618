@@ -109,7 +109,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f4af2c39b1e4a4eb45cd124" alt="" width="50" /> | 1 | 1 | Kiss Me More (feat. SZA) | 2021-04-09 | [🔗](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | 1 | 1 | Hurts 2B Human | 2019-04-26 | [🔗](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382b243023b937fd579a35533" alt="" width="50" /> | 1 | 1 | Hot Pink | 2019-11-07 | [🔗](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd0316b194097528348c8eb0" alt="" width="50" /> | 1 | 1 | Hot Pink | 2019-11-07 | [🔗](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c" alt="" width="50" /> | 1 | 1 | Breakaway | 2004-01-17 | [🔗](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | 1 | 1 | Bangerz (Deluxe Version) | 2013-10-04 | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
@@ -171,10 +171,10 @@ Appears as:
 | 3 | 2 | garage rock |
 | 2 | 2 | pop soul |
 | 2 | 1 | talent show |
+| 2 | 1 | pop rap |
 | 1 | 1 | urban contemporary |
 | 1 | 1 | south carolina hip hop |
 | 1 | 1 | pov: indie |
-| 1 | 1 | pop rap |
 | 1 | 1 | oakland hip hop |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |
@@ -216,7 +216,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c5f8c31793f6cf28146004b" alt="" width="50" /> | Never Enough | Never Enough | Citizen Queen | [Citizen Queen/RCA Records](.) | | [🔗](https://open.spotify.com/track/3NzxjhxtUmmicwbWquPoXt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="" width="50" /> | Señorita | Señorita | Citizen Queen | [Citizen Queen/RCA Records](.) | | [🔗](https://open.spotify.com/track/3QglLwEow7OT5BUaZUNS4W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="" width="50" /> | bad guy | bad guy | Citizen Queen | [Citizen Queen/RCA Records](.) | | [🔗](https://open.spotify.com/track/2trPKQthDkOiLFCNy5fkIO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382b243023b937fd579a35533" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd0316b194097528348c8eb0" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
 
 
 <details>

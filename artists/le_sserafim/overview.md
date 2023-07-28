@@ -12,16 +12,16 @@
 LE SSERAFIM is currently:
 - The #19 artist of all time
 - The #12 artist of the last 6 months
-- The #14 artist of the last month
+- The #12 artist of the last month
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
 - Impurities is:
-    - the #13 track of the last 6 months
+    - the #12 track of the last 6 months
 - FEARLESS is:
-    - the #26 track of the last month
-    - the #40 track of the last 6 months
+    - the #14 track of the last month
+    - the #36 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

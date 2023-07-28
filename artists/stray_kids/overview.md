@@ -12,18 +12,15 @@
 Stray Kids is currently:
 - The #8 artist of all time
 - The #2 artist of the last 6 months
-- The #4 artist of the last month
+- The #7 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
     - the #3 track of the last month
-    - the #23 track of the last 6 months
-- Back Door is:
-    - the #31 track of the last month
-- MANIAC is:
-    - the #39 track of the last month
+    - the #16 track of the last 6 months
+    - the #47 track of all time
 
 ### Top tracks of the last 6 months over time
 
@@ -41,6 +38,7 @@ Stray Kids is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732b46078245d0120690eb560dab67616d0000b27357f1657f07fe39567d43c001ab67616d0000b27359f57a5ca507a3d3fed81ea6ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | 6 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 6 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 3 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 2 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |

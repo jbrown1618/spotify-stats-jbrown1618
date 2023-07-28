@@ -104,7 +104,7 @@
 | <img src="https://i.scdn.co/image/0d8f2b3e9ab748e7767fd31ff9386e06e5834e2b" alt="" width="50" /> | 4 | 0 | Maurice Ravel | [🔗](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
 | <img src="https://i.scdn.co/image/9db73248b767dd6aa392b73d0b90c7634499616f" alt="" width="50" /> | 3 | 0 | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733eae59411940f7fe22c7cf0f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="nan" alt="" width="50" /> | 3 | 0 | Ossip Schnirlin | [🔗](https://open.spotify.com/artist/7eI7DJSWlJy2W2337B9oTL) |
 | <img src="https://i.scdn.co/image/a3a6a9144487c4a31235748c406e91ba222d2be6" alt="" width="50" /> | 3 | 0 | Joseph Joachim | [🔗](https://open.spotify.com/artist/6QuJ4aZSRMebqwDXiJ3SuA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |

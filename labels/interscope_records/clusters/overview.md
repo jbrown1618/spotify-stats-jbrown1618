@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-54 tracks
+52 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Come Home | Dreaming Out Loud | OneRepublic | [Mosley / Interscope](../..) | 💚 | [🔗](https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh) |
 ## Cluster #3
 
-14 tracks
+17 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bad guy | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../darkroom), [Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../darkroom), [Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | Kendrick Lamar | [pgLang/Top Dawg Entertainment/Aftermath/Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK) | LUCID | QUIN, 6LACK | [Fantasy Soul/Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | ROSÉ | [Interscope Records](../..), [YG Entertainment](../../../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Million Reasons | Joanne (Deluxe) | [Lady Gaga](../../../../artists/lady_gaga/overview.md) | [Interscope](../..) | | [🔗](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | Machine Gun Kelly, [Camila Cabello](../../../../artists/camila_cabello/overview.md) | [Bad Boy / Interscope](../..) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | Body | Over It | Summer Walker | [LVRN/Interscope Records](../..) | | [🔗](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |

@@ -4,16 +4,16 @@
 
 ## Cluster #1
 
-28 tracks
+25 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | The River of Dreams | River Of Dreams | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](../../../../labels/rhino), [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | The Chain - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../../../../labels/rhino), [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="" width="50" /> | Cold as Ice | Foreigner (Expanded) | Foreigner | Rhino Atlantic | 💚 | [🔗](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](../../../../labels/epic), [Legacy](../../../../labels/legacy) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | Daydream Believer | The Birds, The Bees, & The Monkees | The Monkees | [Rhino](../../../../labels/rhino) | | [🔗](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](../../../../artists/the_who/overview.md) | [UMC (Universal Music Catalogue)](../../../../labels/umc__universal_music_catalogue_) | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](../../../../artists/the_who/overview.md) | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | Won't Get Fooled Again - Remix | Who's Next (Expanded Edition) | [The Who](../../../../artists/the_who/overview.md) | [Geffen*](../../../../labels/geffen) | 💚 | [🔗](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) |
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | Time | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | | [🔗](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) |
 ## Cluster #3
 
-25 tracks
+29 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

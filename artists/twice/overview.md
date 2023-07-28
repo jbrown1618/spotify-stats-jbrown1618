@@ -12,25 +12,24 @@
 TWICE is currently:
 - The #3 artist of all time
 - The #3 artist of the last 6 months
-- The #2 artist of the last month
+- The #3 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
 
 - I CAN'T STOP ME is:
-    - the #18 track of all time
+    - the #20 track of all time
 - WALLFLOWER is:
-    - the #22 track of the last month
+    - the #29 track of the last month
     - the #26 track of the last 6 months
-- The Feels is:
-    - the #27 track of the last month
-    - the #37 track of the last 6 months
 - BLAME IT ON ME is:
-    - the #50 track of the last 6 months
+    - the #46 track of the last 6 months
 - What is Love is:
-    - the #8 track of the last month
+    - the #4 track of the last month
+- The Feels is:
+    - the #35 track of the last month
 - SET ME FREE is:
-    - the #28 track of the last month
+    - the #36 track of the last month
 
 ### Top tracks of all time over time
 
@@ -53,6 +52,7 @@ TWICE is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 9 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732b46078245d0120690eb560dab67616d0000b27357f1657f07fe39567d43c001ab67616d0000b27359f57a5ca507a3d3fed81ea6ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | 6 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 3 | [Cursed English](../../playlists/cursed_english/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
@@ -87,6 +87,7 @@ TWICE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | 1 | 1 | CRY FOR ME | 2020-12-18 | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | 1 | 1 | Breakthrough | 2019-06-12 | [🔗](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1377cd0d199836baaa787b7" alt="" width="50" /> | 1 | 0 | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/5WflYUwhi8fBvEifYSapRB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | 1 | 0 | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | 0 | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
@@ -101,6 +102,7 @@ TWICE is currently:
 | 42 | 32 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 2 | WM Japan |
 | 1 | 0 | Riot Games |
+| 1 | 0 | Imperial Distribution |
 
 ## Genres
 
@@ -118,10 +120,10 @@ TWICE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | TT | Twicecoaster: Lane 1 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | Signal | SIGNAL | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Likey | Twicetagram | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1377cd0d199836baaa787b7" alt="" width="50" /> | Likey | Twicetagram | [TWICE](overview.md) | Imperial Distribution | | [🔗](https://open.spotify.com/track/4P66rfizAl2nIJCICSMymC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Turtle | Twicetagram | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1LQtxz9fIrZskoqDSbhKd3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Heart Shaker | Merry & Happy | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | Merry & Happy | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
 
 
 <details>
@@ -129,6 +131,7 @@ TWICE is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | What is Love | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | YES or YES | YES or YES | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |

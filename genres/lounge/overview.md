@@ -12,7 +12,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 16 | 5 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 10 | 2 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | 4 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebed2a4679f2d35ff058d3a508" alt="" width="50" /> | 4 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | 2 | 1 | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ba8db83b01de120a6f2312c" alt="" width="50" /> | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |

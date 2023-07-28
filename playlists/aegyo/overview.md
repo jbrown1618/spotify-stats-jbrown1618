@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="Aegyo" width="100" />
 
-[40 tracks (30 liked) 🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2)
+[40 tracks (31 liked) 🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2)
 
 [See Track Features](audio_features.md)
 
@@ -34,9 +34,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27e4c08f0a25786383c77dbc" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | 1 | 1 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 1 | 1 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 1 | 1 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | 2 | 0 | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | 1 | 0 | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 1 | 0 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 0 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | 1 | 0 | TFBOYS | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | 1 | 0 | OH MY GIRL BANHANA | [🔗](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) |
@@ -61,7 +61,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | 1 | 1 | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 1 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | 1 | 1 | THE BOYZ 6TH MINI ALBUM [THRILL-ING] | 2021-08-09 | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | 1 | 1 | Teddy Bear | 2023-02-14 | [🔗](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) |
 
 
 <details>
@@ -69,6 +69,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | 1 | 1 | THE BOYZ 6TH MINI ALBUM [THRILL-ING] | 2021-08-09 | [🔗](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | 1 | 1 | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | 1 | 1 | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | 1 | 1 | SIGNAL | 2017-05-15 | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
@@ -91,7 +92,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 1 | 0 | 青春修炼手册 | 2017-01-01 | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | 1 | 0 | miss me? | 2016-10-17 | [🔗](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | 1 | 0 | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="" width="50" /> | 1 | 0 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="" width="50" /> | 1 | 0 | THE POYZ BANANA CHACHA | 2023-05-05 | [🔗](https://open.spotify.com/album/6L9KslUZn4hbZdketnLD3z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | 1 | 0 | Super Yuppers! | 2022-01-05 | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="" width="50" /> | 1 | 0 | SUM(ME:R) | 2019-07-17 | [🔗](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) |
@@ -126,6 +126,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 1 | 1 | Imperial Distribution |
+| 1 | 1 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | DUBLEKICK COMPANY |
 | 1 | 1 | Cre.ker Entertainment |
@@ -133,7 +134,6 @@
 | 1 | 0 | WM Taiwan |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | MOG COMMUNICATIONS |
-| 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 
 </details>
 
@@ -144,8 +144,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 26 | [k-pop](../../genres/k_pop/overview.md) |
-| 28 | 22 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 32 | 27 | [k-pop](../../genres/k_pop/overview.md) |
+| 28 | 23 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 10 | 10 | [pop](../../genres/pop/overview.md) |
 | 10 | 7 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 4 | [anime](../../genres/anime/overview.md) |
@@ -165,9 +165,9 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="THE POYZ BANANA CHACHA" width="50" /> | THE POYZ BANANA CHACHA (2023-05-05) | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | Gee - The First Mini Album (2009-01-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbead884cd91c2a9b5b2a9fc" alt="expérgo" width="50" /> | expérgo (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="The Story Begins" width="50" /> | The Story Begins (2015-10-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Girls - The 2nd Mini Album (2022-07-08) | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="Page Two" width="50" /> | Page Two (2016-04-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="Yummy Yummy Love" width="50" /> | Yummy Yummy Love (2022-01-14) | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&amp;LETTER’]" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] (2016-04-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="Teddy Bear" width="50" /> | Teddy Bear (2023-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="The Story Begins" width="50" /> | The Story Begins (2015-10-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Girls - The 2nd Mini Album (2022-07-08) | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&amp;LETTER’]" width="50" /> | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] (2016-04-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="Yummy Yummy Love" width="50" /> | Yummy Yummy Love (2022-01-14) | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="Page Two" width="50" /> | Page Two (2016-04-25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | DIMENSION : ANSWER (2022-01-10) | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | miss me? (2016-10-17) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> | Super Yuppers! (2022-01-05) | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="Twicecoaster: Lane 1" width="50" /> | Twicecoaster: Lane 1 (2016-10-24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="Formula of Love: O+T=&lt;3" width="50" /> | Formula of Love: O+T=<3 (2021-11-12) | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="青春修炼手册" width="50" /> | 青春修炼手册 (2017-01-01) |

@@ -64,9 +64,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (0.684) | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri (0.00892) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Dreamer (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="LOVE or TAKE" width="50" /> | DO or NOT (0.0122) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="さよならひとり" width="50" /> | さよならひとり (0.49) | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS (0.0131) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Psycho (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.015) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> | POPPY - Japanese Ver. (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Baby I (0.0154) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | LOST (0.309) | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Into You (0.0162) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="One and Only" width="50" /> | One and Only (0.404) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.015) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Psycho (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Baby I (0.0154) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> | POPPY - Japanese Ver. (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Into You (0.0162) |
 
 ## Instrumentalness
 
@@ -112,12 +112,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | Humph! (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | LION (0.187) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Weather (0.96) | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> | NUMB (0.188) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="Devil" width="50" /> | Devil (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (0.233) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.235) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (0.244) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Greedy (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Dreamer (0.252) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="A Page" width="50" /> | Bonnie & Clyde (0.806) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Nightflyers (0.264) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Focus" width="50" /> | Focus (0.8) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | Break Free (0.284) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me (0.798) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant (0.287) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="One and Only" width="50" /> | One and Only (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | HWAA - English Version (0.235) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (0.244) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Dreamer (0.252) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Greedy (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Nightflyers (0.264) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="A Page" width="50" /> | Bonnie & Clyde (0.806) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | Break Free (0.284) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Focus" width="50" /> | Focus (0.8) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant (0.287) |
 
 ## Tempo
 

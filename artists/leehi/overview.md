@@ -11,19 +11,20 @@
 ## Artist Rank
 LeeHi is currently:
 - The #14 artist of all time
-- The #20 artist of the last 6 months
-- The #17 artist of the last month
+- The #16 artist of the last 6 months
+- The #18 artist of the last month
 
 ![Rank of LeeHi over time](../../images/artists/leehi/rank_time_series.png)
 ## Top Tracks
 
 - HOLO is:
-    - the #20 track of the last month
-    - the #31 track of the last 6 months
-    - the #15 track of all time
+    - the #48 track of the last 6 months
+    - the #17 track of all time
 - ONLY is:
-    - the #15 track of the last month
-    - the #45 track of the last 6 months
+    - the #32 track of the last month
+    - the #41 track of the last 6 months
+- 1, 2, 3, 4 is:
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 

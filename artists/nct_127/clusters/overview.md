@@ -4,16 +4,7 @@
 
 ## Cluster #1
 
-3 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | 소방차 Fire Truck | NCT #127 - The 1st Mini Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5hHlmrSV6d9LFMsDA1lamE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | Regular - English Version | NCT #127 Regular-Irregular - The 1st Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4KqPuyZdcjXuRqXSARnt6r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker | Sticker - The 3rd Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) |
-## Cluster #2
-
-8 tracks
+10 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -25,6 +16,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Vitamin | 2 Baddies - The 4th Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/71mbhY822FlcBmxMgeuUgA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="" width="50" /> | Ay-Yo | Ay-Yo - The 4th Album Repackage | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - No Identity Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](../../overview.md), No Identity | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Viann Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](../../overview.md), Viann | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5IEn4dvv7QLfOiXAQyTorC) |
+## Cluster #2
+
+4 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | 소방차 Fire Truck | NCT #127 - The 1st Mini Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5hHlmrSV6d9LFMsDA1lamE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | Regular - English Version | NCT #127 Regular-Irregular - The 1st Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4KqPuyZdcjXuRqXSARnt6r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker | Sticker - The 3rd Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Biicla Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](../../overview.md), Biicla | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq) |
 ## Cluster #3
 
 2 tracks

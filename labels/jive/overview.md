@@ -51,8 +51,9 @@ Appears as:
 | 6 | 5 | boy band |
 | 2 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | [rap](../../genres/rap/overview.md) |
+| 1 | 1 | pop rap |
 
-![Bar chart of top 5 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 6 genres](../../images/labels/jive/genres.png)
 
 ## Tracks released under Jive
 

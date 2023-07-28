@@ -80,7 +80,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8906086f803ec690149a3f9c" alt="" width="50" /> | 1 | 0 | Emotional Oranges | [🔗](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 1 | 0 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb270176cea649f3afe50ac3b0" alt="" width="50" /> | 1 | 0 | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b" alt="" width="50" /> | 1 | 0 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | 1 | 0 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 0 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 
 </details>
@@ -227,14 +227,15 @@
 | 2 | 2 | danish pop |
 | 3 | 1 | [rap](../../genres/rap/overview.md) |
 | 3 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 2 | 1 | pop dance |
+| 2 | 1 | pop rap |
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 1 | pop dance |
 | 2 | 1 | indie r&b |
 | 2 | 1 | edm |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |

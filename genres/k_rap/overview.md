@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 2 | 2 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | 2 | 2 | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe6e2740a63438eda3928f753" alt="" width="50" /> | 1 | 1 | Epik High | [🔗](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) |
 
 
 <details>
@@ -27,12 +27,12 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 1 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | 1 | 0 | Basick | [🔗](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 1 | 0 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe6e2740a63438eda3928f753" alt="" width="50" /> | 1 | 0 | Epik High | [🔗](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18b5e84af500dc8efbd5f889" alt="" width="50" /> | 1 | 0 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
@@ -58,10 +58,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 3 | 1 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | 1 | 1 | The Hyena on the Keyboard Pt. 4 | 2018-04-21 | [🔗](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="" width="50" /> | 1 | 1 | Remapping the Human Soul | 2007-01-24 | [🔗](https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="" width="50" /> | 1 | 1 | MOMMAE | 2015-05-22 | [🔗](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 1 | 1 | KWON JI YONG | 2017-06-08 | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="" width="50" /> | 1 | 1 | Gangnam Style (강남스타일) | 2012-01-01 | [🔗](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) |
 
 
 <details>
@@ -69,6 +69,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="" width="50" /> | 1 | 1 | Gangnam Style (강남스타일) | 2012-01-01 | [🔗](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | 1 | 1 | GANADARA | 2022-03-11 | [🔗](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="" width="50" /> | 1 | 1 | EVERYTHING YOU WANTED | 2016-10-20 | [🔗](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
@@ -78,7 +79,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c4f593ac464ebc030b4cde4" alt="" width="50" /> | 1 | 0 | Tik Tock Hits 2020 | 2020-06-12 | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="" width="50" /> | 1 | 0 | Somebody | 2022-07-25 | [🔗](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | 1 | 0 | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="" width="50" /> | 1 | 0 | Remapping the Human Soul | 2007-01-24 | [🔗](https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | 1 | 0 | PSY 7TH ALBUM | 2015-12-01 | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="" width="50" /> | 1 | 0 | LUCKYNUMBERS | 2013-07-01 | [🔗](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) |
 
@@ -100,7 +100,7 @@
 | 1 | 1 | Silent Records |
 | 1 | 1 | MORE VISION |
 | 1 | 1 | [HYBE](../../labels/hybe/overview.md) |
-| 1 | 0 | ㈜RBW |
+| 1 | 1 | CJ E&M MUSIC |
 
 
 <details>
@@ -108,9 +108,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 0 | ㈜RBW |
 | 1 | 0 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
-| 1 | 0 | CJ E&M MUSIC |
 | 1 | 0 | AOMG |
 
 </details>

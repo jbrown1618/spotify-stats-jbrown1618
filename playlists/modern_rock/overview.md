@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[108 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
+[109 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 44 artists</summary>
+<summary>See all 45 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -61,6 +61,7 @@
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78125a2515bc78080b2833e8" alt="" width="50" /> | 1 | 0 | cherryfilter | [🔗](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
@@ -89,7 +90,7 @@
 
 
 <details>
-<summary>See all 74 albums</summary>
+<summary>See all 75 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -145,6 +146,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="" width="50" /> | 1 | 0 | Nimrod | 1997-10-14 | [🔗](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | 1 | 0 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | 1995 | [🔗](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="" width="50" /> | 1 | 0 | Made In Korea? | 2002-08-13 | [🔗](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd" alt="" width="50" /> | 1 | 0 | Leviathan | 2004-08-31 | [🔗](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="" width="50" /> | 1 | 0 | In the Aeroplane Over the Sea | 1998-02-20 | [🔗](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) |
@@ -180,7 +182,7 @@
 
 
 <details>
-<summary>See all 41 labels</summary>
+<summary>See all 42 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -213,6 +215,7 @@
 | 2 | 0 | Island Records |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | Relapse Records |
+| 1 | 0 | Music Farm |
 | 1 | 0 | Merge Records |
 | 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
 
@@ -238,7 +241,7 @@
 
 
 <details>
-<summary>See all 92 genres</summary>
+<summary>See all 93 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -320,6 +323,7 @@
 | 1 | 0 | new rave |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | lo-fi |
+| 1 | 0 | k-rock |
 | 1 | 0 | elephant 6 |
 | 1 | 0 | dance-punk |
 | 1 | 0 | baroque pop |

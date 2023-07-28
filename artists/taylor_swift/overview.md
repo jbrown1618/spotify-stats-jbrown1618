@@ -2,7 +2,7 @@
 # Taylor Swift
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b" alt="Taylor Swift" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="Taylor Swift" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -11,8 +11,8 @@
 ## Artist Rank
 Taylor Swift is currently:
 - The #15 artist of all time
-- The #21 artist of the last 6 months
-- The #16 artist of the last month
+- The #20 artist of the last 6 months
+- The #17 artist of the last month
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
 ## Featured on Playlists

@@ -17,6 +17,8 @@ IVE is currently:
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
+- LOVE DIVE is:
+    - the #47 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

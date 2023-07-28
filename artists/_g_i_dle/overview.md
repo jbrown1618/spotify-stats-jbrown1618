@@ -12,25 +12,27 @@
 (G)I-DLE is currently:
 - The #7 artist of all time
 - The #6 artist of the last 6 months
-- The #3 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
-    - the #45 track of the last month
+    - the #41 track of the last month
     - the #23 track of all time
 - Uh-Oh is:
-    - the #29 track of all time
-- Oh my god is:
-    - the #12 track of the last month
-    - the #50 track of all time
+    - the #30 track of all time
 - Nxde is:
-    - the #29 track of the last 6 months
+    - the #28 track of the last 6 months
 - TOMBOY is:
-    - the #29 track of the last month
+    - the #19 track of the last month
+    - the #50 track of the last 6 months
+- Oh my god is:
+    - the #11 track of the last month
 - Put It Straight is:
-    - the #33 track of the last month
+    - the #22 track of the last month
+- HANN (Alone in winter) is:
+    - the #23 track of the last month
 
 ### Top tracks of all time over time
 
@@ -55,6 +57,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k_memes/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |

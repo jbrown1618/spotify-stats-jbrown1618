@@ -4,33 +4,33 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| HOME [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | 52 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
-| HOME [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) | 40 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
-| Just Did It [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) | 54 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
-| Just Did It [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) | 41 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | 💚 |
-| Love Me Like This [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | 78 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | 💚 |
-| Love Me Like This [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | 64 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | |
-| O.O [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | 57 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 49 | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC) | JYP Entertainment | |
-| O.O [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | 71 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 63 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - NMIXX | 💚 |
-| TANK [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | 50 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 49 | Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | JYP Entertainment | |
-| TANK [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | 64 | 2022-02-22 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 63 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - NMIXX | 💚 |
-| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) | 43 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
-| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) | 39 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 54 | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | |
+| FEVER [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) | 31 | 2019-12-01 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9),<br>J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B),<br>SUPERBEE [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | FEVER [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) | 20 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) | JYP Entertainment | 💚 |
+| FEVER [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) | 46 | 2019-12-01 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9),<br>J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B),<br>SUPERBEE [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | FEVER [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) | 36 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - J.Y. Park | |
+| Hello Bitches [🔗](https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj) | 0 | 2015-12-05 | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | Hello Bitches [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) | 0 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | YG Entertainment | 💚 |
+| Hello Bitches [🔗](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | 66 | 2015-12-05 | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | Hello Bitches [🔗](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 56 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | YG Entertainment | |
+| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | 70 | 2023-03-12 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Young, Dumb, Stupid [🔗](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 60 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | Republic Records - NMIXX | |
+| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) | 43 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
+| Likey [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | 70 | 2017-10-30 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | Twicetagram [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 63 | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | Republic Records - TWICE | 💚 |
+| Likey [🔗](https://open.spotify.com/track/4P66rfizAl2nIJCICSMymC) | 0 | 2017-10-30 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | Twicetagram [🔗](https://open.spotify.com/album/5WflYUwhi8fBvEifYSapRB) | 0 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | Imperial Distribution | |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
+| Hello Bitches [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | 0 | 2015-12-05 | YG Entertainment | Hello Bitches [🔗](https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| Hello Bitches [🔗](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | 56 | 2015-12-05 | YG Entertainment | Hello Bitches [🔗](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) |
 | HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 67 | 2020-05-20 | Universal Music LLC | 死ぬのがいいわ [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
-| HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 76 | 2020-05-20 | Universal Music LLC | Shinunoga E-Wa [🔗](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) |
+| HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 77 | 2020-05-20 | Universal Music LLC | Shinunoga E-Wa [🔗](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 52 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| FEVER [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) | J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | 36 | 2019-12-01 | Republic Records - J.Y. Park | FEVER [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| FEVER [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) | J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | 20 | 2019-12-01 | JYP Entertainment | FEVER [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 55 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| AD MARE [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 63 | 2022-02-22 | Republic Records - NMIXX | O.O [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE),<br>TANK [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| AD MARE [🔗](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 49 | 2022-02-22 | JYP Entertainment | O.O [🔗](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6),<br>TANK [🔗](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | K-Pop 101 [🔗](https://open.spotify.com/playlist/1NlCn9vDmQDBF54JyVC2MC),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 68 | 2023-03-20 | Republic Records - NMIXX | HOME [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1),<br>Just Did It [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0),<br>Love Me Like This [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m),<br>Young, Dumb, Stupid [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) |
-| expérgo [🔗](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 54 | 2023-03-20 | JYP Entertainment | HOME [🔗](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17),<br>Just Did It [🔗](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU),<br>Love Me Like This [🔗](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO),<br>Young, Dumb, Stupid [🔗](https://open.spotify.com/track/52I1DbbQsmiAQBhaf4uCbW) | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| ENTWURF [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 51 | 2022-09-19 | JYP Entertainment | COOL (Your rainbow) [🔗](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
+| ENTWURF [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 66 | 2022-09-19 | Republic Records - NMIXX | DICE [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Twicetagram [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 63 | 2017-10-30 | Republic Records - TWICE | Likey [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T),<br>Turtle [🔗](https://open.spotify.com/track/1LQtxz9fIrZskoqDSbhKd3) | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| Twicetagram [🔗](https://open.spotify.com/album/5WflYUwhi8fBvEifYSapRB) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 0 | 2017-10-30 | Imperial Distribution | Likey [🔗](https://open.spotify.com/track/4P66rfizAl2nIJCICSMymC) | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) |
 
 ## Tracks with low popularity
 
@@ -53,11 +53,12 @@
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 88 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 88 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 88 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 0 | 88 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 88 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 88 |
+| Butter | Butter | BTS | 2 | 0 | 88 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 88 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 1 | 0 | 88 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
@@ -96,29 +97,30 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 49 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 49 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 49 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 0 | 59 |
-| Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 61 |
+| Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 62 |
+| Likey | Twicetagram | TWICE | 0 | 0 | 79 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
@@ -306,7 +308,7 @@
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 68 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 68 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
-| React | React | The Pussycat Dolls | 2 | 0 | 67 |
+| React | React | The Pussycat Dolls | 1 | 0 | 67 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 75 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
@@ -315,7 +317,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 1 | 52 |
 | A Case of You | Blue | Joni Mitchell | 2 | 1 | 52 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 52 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 0 | 0 | 52 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -407,11 +409,11 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
-| BABY | Void | The Rose | 0 | 1 | 61 |
+| BABY | Void | The Rose | 0 | 0 | 63 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 1 | 0 | 58 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 32 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 34 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 72 |
@@ -428,10 +430,10 @@
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 74 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 62 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 70 |
-| Rollin' | Rollin' | Brave Girls | 1 | 0 | 48 |
+| Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 40 |

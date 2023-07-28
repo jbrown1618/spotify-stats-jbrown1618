@@ -6,7 +6,7 @@
 
 | ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys (0.885) | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="AD MARE" width="50" /> | O.O (0.39) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys (0.885) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | O.O (0.389) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | Nobody (0.882) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.406) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | ANTIFRAGILE (0.882) | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker (0.527) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! (0.84) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.531) |
@@ -41,7 +41,7 @@
 | ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="BBIBBI" width="50" /> | BBIBBI (0.331) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.0295) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="AD MARE" width="50" /> | O.O (0.293) | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | Amusement Park (0.0333) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | O.O (0.297) | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | Amusement Park (0.0333) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker (0.28) | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="STAYDOM" width="50" /> | ASAP (0.0351) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (0.279) | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry (0.0352) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="IN LIFE" width="50" /> | Back Door (0.272) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="回:Walpurgis Night" width="50" /> | MAGO (0.0364) |
@@ -94,7 +94,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker (0.742) | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best (0.056) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="FANCY YOU" width="50" /> | FANCY (0.627) | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="NCT RESONANCE Pt. 1 - The 2nd Album" width="50" /> | Make A Wish (Birthday Song) (0.0569) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (0.424) | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="Positive" width="50" /> | Shine (0.0578) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="TREASURE EPILOGUE : Action To Answer" width="50" /> | Answer (0.359) | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="AD MARE" width="50" /> | O.O (0.0601) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="TREASURE EPILOGUE : Action To Answer" width="50" /> | Answer (0.359) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | O.O (0.0598) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="MADE" width="50" /> | BANG BANG BANG (0.346) | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | How You Like That (0.0601) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | LOVE DIVE (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="Love Yourself 承 &#x27;Her&#x27;" width="50" /> | DNA (0.0677) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="BBIBBI" width="50" /> | BBIBBI (0.3) | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | Doom Du Doom (0.0811) |
@@ -110,7 +110,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry (0.962) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.206) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | Nobody (0.95) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) (0.254) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&amp;LETTER’]" width="50" /> | Pretty U (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="AD MARE" width="50" /> | O.O (0.285) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&amp;LETTER’]" width="50" /> | Pretty U (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | O.O (0.295) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="The Boys - The 3rd Album" width="50" /> | The Boys (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="KAI - The 1st Mini Album" width="50" /> | Mmmh (0.297) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | Doom Du Doom (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | Amusement Park (0.299) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | ANTIFRAGILE (0.824) | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="STAYDOM" width="50" /> | ASAP (0.323) |
@@ -125,7 +125,7 @@
 
 | ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d64ee7e356e13a96062bd0b" alt="AD MARE" width="50" /> | O.O (200.263) | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="BORDER : CARNIVAL" width="50" /> | FEVER (72.999) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | O.O (200.263) | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="BORDER : CARNIVAL" width="50" /> | FEVER (72.999) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (179.914) | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | Amusement Park (84.925) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="Crazy" width="50" /> | Crazy (176.019) | <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="SUNMI SPECIAL EDITION [Gashina]" width="50" /> | Gashina (93.941) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="[Dystopia : Road to Utopia]" width="50" /> | Odd Eye (160.061) | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="Just right" width="50" /> | 딱 좋아(Just right) (95.97) |

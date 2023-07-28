@@ -62,8 +62,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 10 | 0 | [broadway](../../genres/broadway/overview.md) |
+| 8 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 5 | 0 | west end |
 | 2 | 0 | movie tunes |
 

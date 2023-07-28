@@ -1,15 +1,15 @@
 # SM Entertainment
 
-269 songs
+271 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (267 tracks)
+- SM Entertainment (268 tracks)
+- SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
-- SM Entertainment/Capitol Records (1 tracks)
 
 ## Top Artists
 
@@ -19,24 +19,24 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 31 | 18 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 10 | 9 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 16 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058044fbaafa1bd5342c459e" alt="" width="50" /> | 10 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 11 | 7 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 13 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 16 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 8 | 6 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 
 
 <details>
-<summary>See all 70 artists</summary>
+<summary>See all 72 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 8 | 6 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 7 | 6 | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 9 | 5 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 8 | 4 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 8 | 4 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 8 | 3 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7aa9cd4bbb1e83d99d849e69" alt="" width="50" /> | 6 | 3 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 5 | 3 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
@@ -53,13 +53,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | 3 | 1 | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb126daf90ff728a306d978ca0" alt="" width="50" /> | 2 | 1 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebafe0cb4b9c7d0f0bad2f4be3" alt="" width="50" /> | 1 | 1 | ONEW | [🔗](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba60ea8fce338724271ae273e" alt="" width="50" /> | 1 | 1 | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2751178bb2de4b6e59587171" alt="" width="50" /> | 1 | 1 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | 1 | 1 | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29d6428b4b21a6c952b2aea9" alt="" width="50" /> | 1 | 1 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 1 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f9c07e4400cac6892c9739a" alt="" width="50" /> | 1 | 1 | YESUNG | [🔗](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78e7353142ec1ecf18232521" alt="" width="50" /> | 1 | 1 | Loopy | [🔗](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) |
@@ -72,10 +72,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | 1 | 1 | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe442e618273a5001294caa08" alt="" width="50" /> | 2 | 0 | JENO | [🔗](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb82f6225956731bb90e34baad" alt="" width="50" /> | 2 | 0 | GISELLE | [🔗](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb150d3f8877d6101b2a397b6a" alt="" width="50" /> | 1 | 0 | Viann | [🔗](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf649844f36380dbcad2ce070" alt="" width="50" /> | 1 | 0 | Biicla | [🔗](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63c1239ee9ff978b4005ea02" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd89424b602251312223edd8f" alt="" width="50" /> | 1 | 0 | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 0 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa1161ff344e112e8a90e6d7" alt="" width="50" /> | 1 | 0 | S.E.S. | [🔗](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbc482112d05638e35eb3ade9" alt="" width="50" /> | 1 | 0 | SUHO | [🔗](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b74ee7285a9eb55a95db2f2" alt="" width="50" /> | 1 | 0 | YANGYANG | [🔗](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb061272951fbb7aa10f6752ef" alt="" width="50" /> | 1 | 0 | HENDERY | [🔗](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs) |
@@ -87,6 +88,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4cc18fa070ab6d5b1b8008" alt="" width="50" /> | 1 | 0 | SUNGCHAN | [🔗](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27aa76a497569dae48558e8b" alt="" width="50" /> | 1 | 0 | JAEMIN | [🔗](https://open.spotify.com/artist/346WlBab7ogTYOd1YhgcA7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d25001f68a9c7d52ff68f68" alt="" width="50" /> | 1 | 0 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3dbeeb3353a0dc45c6650bc" alt="" width="50" /> | 1 | 0 | No Identity | [🔗](https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15ea041642b2b96cacc5796e" alt="" width="50" /> | 1 | 0 | Eric Nam | [🔗](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c58d08bf71902410dac32d765" alt="" width="50" /> | 1 | 0 | Verbal Jint | [🔗](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb22838e3759fc76e7c623ce5a" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
@@ -136,6 +138,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | 3 | 1 | Rookie - The 4th Mini Album | 2017-02-01 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | 3 | 1 | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | 3 | 1 | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 3 | 0 | iScreaM Vol.21 : 2 Baddies Remixes | 2023-02-17 | [🔗](https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | 3 | 0 | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | 2 | 2 | What Do I Call You - The 4th Mini Album | 2020-12-15 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
@@ -208,7 +211,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="" width="50" /> | 1 | 1 | Gee - The First Mini Album | 2009-01-05 | [🔗](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | 1 | 1 | Four Seasons | 2019-03-24 | [🔗](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | 1 | 1 | Floral Sense - The 1st Album (Special Version) | 2023-02-27 | [🔗](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="" width="50" /> | 1 | 1 | Favorite - The 3rd Album Repackage | 2021-10-25 | [🔗](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) |
 
 </details>
 
@@ -219,14 +221,13 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 265 | 181 | [k-pop](../../genres/k_pop/overview.md) |
-| 96 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 65 | 40 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 268 | 182 | [k-pop](../../genres/k_pop/overview.md) |
+| 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 67 | 41 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 1 | 0 | classic k-pop |
 
-![Bar chart of top 6 genres](../../images/labels/sm_entertainment/genres.png)
+![Bar chart of top 5 genres](../../images/labels/sm_entertainment/genres.png)
 
 ## Tracks released under SM Entertainment
 
@@ -272,7 +273,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | No matter | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Paradise | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Runaway | DON'T FIGHT THE FEELING - Special Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737657059390a7871c158fd966" alt="" width="50" /> | Cream Soda | EXIST – The 7th Album | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back | Step Back | [GOT the beat](../../artists/got_the_beat/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Alter Ego | Stamp On It - The 1st Mini Album | [GOT the beat](../../artists/got_the_beat/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/08pPhcvPmphUEx3pEBZwGZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Goddess Level | Stamp On It - The 1st Mini Album | [GOT the beat](../../artists/got_the_beat/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) |
@@ -333,6 +333,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Gold Dust | 2 Baddies - The 4th Album | [NCT 127](../../artists/nct_127/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Vitamin | 2 Baddies - The 4th Album | [NCT 127](../../artists/nct_127/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/71mbhY822FlcBmxMgeuUgA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="" width="50" /> | Ay-Yo | Ay-Yo - The 4th Album Repackage | [NCT 127](../../artists/nct_127/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Biicla Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](../../artists/nct_127/overview.md), Biicla | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - No Identity Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](../../artists/nct_127/overview.md), No Identity | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Viann Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](../../artists/nct_127/overview.md), Viann | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5IEn4dvv7QLfOiXAQyTorC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="" width="50" /> | Perfume | Perfume - The 1st Mini Album | NCT DOJAEJUNG | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | JOY | JOY - SM STATION | [NCT DREAM](../../artists/nct_dream/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](../../artists/nct_dream/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
@@ -414,7 +417,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Beautiful Christmas | 2022 Winter SMTOWN : SMCU PALACE | [Red Velvet](../../artists/red_velvet/overview.md), [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster | Monster - The 1st Mini Album | Red Velvet - IRENE & SEULGI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | Naughty | Red Velvet - IRENE & SEULGI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730ae7ef733837fb782ff73c7b" alt="" width="50" /> | (′Cause) I′m Your Girl | S.E.S. - The 1st Album | S.E.S. | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../../artists/seulgi/overview.md), [CHUNG HA](../../artists/chung_ha/overview.md), SinB, [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons | 28 Reasons - The 1st Mini Album | [SEULGI](../../artists/seulgi/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Anywhere But Home | 28 Reasons - The 1st Mini Album | [SEULGI](../../artists/seulgi/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7vRodvsF37NGUYRSVMIRXj) |
@@ -422,7 +424,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Crown | 28 Reasons - The 1st Mini Album | [SEULGI](../../artists/seulgi/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4Y0EawuG8OtyYNyJulWnDu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Dead Man Runnin’ | 28 Reasons - The 1st Mini Album | [SEULGI](../../artists/seulgi/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5eFGkCXi83auDi0bcDBEKD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | Replay | The SHINee World - The First Album | SHINee | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | SHINee | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | SHINee | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer | Lucifer - The 2nd Album | SHINee | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock (Clue + Note) | Sherlock - The 4th Mini Album | SHINee | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | View | Odd - The 4th Album | SHINee | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) |
@@ -438,6 +440,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | Black Suit | PLAY - The 8th Album | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | Lo Siento | REPLAY - The 8th Repackage Album | [SUPER JUNIOR](../../artists/super_junior/overview.md), Leslie Grace, Play-N-Skillz | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2VVqxQhALecXvaArlZSVXr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | House Party | The Renaissance - The 10th Album | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](../capitol_records), [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](../capitol_records), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../artists/baekhyun/overview.md) | ChoongangICS, MYSTIC ENTERTAINMENT, [JYP Entertainment](../jyp_entertainment), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop | Press It - The 1st Album | TAEMIN | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |

@@ -11,13 +11,14 @@
 ## Artist Rank
 NCT 127 is currently:
 - The #24 artist of all time
-- The #28 artist of the last 6 months
+- The #26 artist of the last 6 months
+- The #29 artist of the last month
 
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks
 
 - Sticker is:
-    - the #34 track of the last 6 months
+    - the #31 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -26,6 +27,7 @@ NCT 127 is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 10 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 5 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
@@ -39,6 +41,7 @@ NCT 127 is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 3 | 2 | 2 Baddies - The 4th Album | 2022-09-16 | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 3 | 0 | iScreaM Vol.21 : 2 Baddies Remixes | 2023-02-17 | [🔗](https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | 1 | Sticker - The 3rd Album | 2021-09-17 | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | 1 | 1 | NCT #127 Neo Zone - The 2nd Album | 2020-03-06 | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | 1 | 1 | NCT #127 - The 1st Mini Album | 2016-07-10 | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
@@ -47,13 +50,23 @@ NCT 127 is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | 1 | 0 | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | 1 | 0 | NCT #127 CHERRY BOMB– The 3rd Mini Album | 2017-06-14 | [🔗](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | 1 | 0 | Highway to Heaven (English Version) | 2019-07-18 | [🔗](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) |
+
+
+<details>
+<summary>See all albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="" width="50" /> | 1 | 0 | Ay-Yo - The 4th Album Repackage | 2023-01-30 | [🔗](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) |
+
+</details>
+
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 13 | 6 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 16 | 6 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 
 ## Genres
 
@@ -84,5 +97,8 @@ NCT 127 is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Gold Dust | 2 Baddies - The 4th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Vitamin | 2 Baddies - The 4th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/71mbhY822FlcBmxMgeuUgA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="" width="50" /> | Ay-Yo | Ay-Yo - The 4th Album Repackage | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Biicla Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](overview.md), Biicla | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - No Identity Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](overview.md), No Identity | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Viann Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](overview.md), Viann | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5IEn4dvv7QLfOiXAQyTorC) |
 
 </details>

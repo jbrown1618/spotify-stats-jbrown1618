@@ -14,8 +14,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things (0.871) | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> | 你要的愛 (0.328) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="Söngvakeppnin 2020" width="50" /> | Gagnamagnið (0.869) | <img src="https://i.scdn.co/image/ab67616d0000b273dd7006a14a1fc3474eb80d51" alt="LEXICON" width="50" /> | untuk hati yang terluka. (0.337) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig (0.847) | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby (0.346) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.837) | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ベテルギウス (0.367) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738874d42c6591770e15618d13" alt="Jai Jai Shivshankar (From &quot;War&quot;)" width="50" /> | Jai Jai Shivshankar (From "War") (0.825) | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Headbangeeeeerrrrr!!!!! (0.371) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="See Tình" width="50" /> | See Tình (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ベテルギウス (0.367) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.837) | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Headbangeeeeerrrrr!!!!! (0.371) |
 
 ## Energy
 

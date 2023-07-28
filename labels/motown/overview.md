@@ -20,7 +20,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c2332e6c0ed96d144a91b3f" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcb4be1652aaf558da2984098" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb36823ee68bf29bd676f55e7" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 
 ![Bar chart of top 7 artists](../../images/labels/motown/artists.png)
@@ -69,16 +69,17 @@ Appears as:
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | [rap](../../genres/rap/overview.md) |
 | 1 | 1 | quiet storm |
+| 1 | 1 | pop rap |
 | 1 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 1 | funk |
-| 1 | 1 | disco |
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | disco |
 | 1 | 1 | classic soul |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -86,7 +87,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/motown/genres.png)
+![Bar chart of top 14 genres](../../images/labels/motown/genres.png)
 
 ## Tracks released under MOTOWN
 

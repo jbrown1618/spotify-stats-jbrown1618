@@ -12,28 +12,28 @@
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #7 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
 
 - 러시안 룰렛 Russian Roulette is:
+    - the #49 track of the last 6 months
     - the #6 track of all time
 - Bad Boy is:
-    - the #11 track of all time
+    - the #12 track of all time
 - Dumb Dumb is:
-    - the #27 track of all time
+    - the #28 track of all time
 - Ice Cream Cake is:
     - the #36 track of all time
 - BYE BYE is:
-    - the #20 track of the last 6 months
+    - the #21 track of the last 6 months
 - Birthday is:
-    - the #33 track of the last 6 months
+    - the #30 track of the last 6 months
 - ZOOM is:
-    - the #41 track of the last month
-    - the #35 track of the last 6 months
+    - the #32 track of the last 6 months
 - Sunny Side Up! is:
-    - the #9 track of the last month
+    - the #17 track of the last month
 
 ### Top tracks of all time over time
 
@@ -54,6 +54,7 @@ Red Velvet is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 12 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 12 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 9 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 6 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27319224fae0aa53341020f5b12ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 3 | [Aegyo](../../playlists/aegyo/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |

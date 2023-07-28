@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="Christmas" width="100" />
 
-[99 tracks (8 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
+[100 tracks (8 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
 
 [See Track Features](audio_features.md)
 
@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 3 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b" alt="" width="50" /> | 3 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | 3 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 2 | 1 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 2 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 88 artists</summary>
+<summary>See all 89 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 2 | 0 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 2 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2be5d8fd3746a70e9637a665" alt="" width="50" /> | 1 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebed2a4679f2d35ff058d3a508" alt="" width="50" /> | 1 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | 1 | 0 | Basick | [🔗](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313023e6f4e0e2264338eeb14" alt="" width="50" /> | 1 | 0 | Liz Gillies | [🔗](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 1 | 0 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
@@ -94,6 +94,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 1 | 0 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="" width="50" /> | 1 | 0 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 1 | 0 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 0 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="" width="50" /> | 1 | 0 | Gayla Peevey | [🔗](https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ) |
@@ -133,7 +134,7 @@
 
 
 <details>
-<summary>See all 80 albums</summary>
+<summary>See all 81 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -206,6 +207,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="" width="50" /> | 1 | 0 | A Legendary Christmas: Deluxe Edition | 2019-11-08 | [🔗](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273adad4220d51bd720481d4be4" alt="" width="50" /> | 1 | 0 | A Christmas Gift For You From Phil Spector | 1963 | [🔗](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | 1 | 0 | 2021 Winter SMTOWN : SMCU EXPRESS | 2021-12-27 | [🔗](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="" width="50" /> | 1 | 0 | 12월의 기적 Miracles in December | 2013-12-09 | [🔗](https://open.spotify.com/album/7taKyOK4LYB8uEDoR0x2NQ) |
 
 </details>
@@ -245,6 +247,7 @@
 | 2 | 0 | RBMG |
 | 2 | 0 | [MOTOWN](../../labels/motown/overview.md) |
 | 2 | 0 | Legacy Recordings |
+| 2 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 2 | 0 | Def Jam |
 | 2 | 0 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 2 | 0 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
@@ -267,7 +270,6 @@
 | 1 | 0 | MCA Nashville |
 | 1 | 0 | Little Possum |
 | 1 | 0 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
-| 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 0 | IST ENTERTAINMENT |
 | 1 | 0 | [HYBE](../../labels/hybe/overview.md) |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
@@ -288,10 +290,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 34 | 7 | [k-pop](../../genres/k_pop/overview.md) |
+| 35 | 7 | [k-pop](../../genres/k_pop/overview.md) |
 | 21 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 7 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 8 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
@@ -373,10 +375,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE (2022-12-26) | <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | Holiday Inn (Original Motion Picture Soundtrack) (1942-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy - Winter Special Mini Album (2022-12-16) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | The Classic Christmas Album (1945) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="White Christmas" width="50" /> | White Christmas (1945-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | Spotify Singles - Holiday (2022-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="Rudolph The Red Nosed Reindeer And Other Christmas Classics" width="50" /> | Rudolph The Red Nosed Reindeer And Other Christmas Classics (1947) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27397337e6b853756f20af2c29f" alt="Santa Bring Me a Dinosaur" width="50" /> | Santa Bring Me a Dinosaur (2022-06-04) | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="I Want a Hippopotamus for Christmas (Hippo the Hero)" width="50" /> | I Want a Hippopotamus for Christmas (Hippo the Hero) (1953-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Pieces (2021-12-29) | <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Elvis' Christmas Album (1957-10-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="2021 Winter SMTOWN : SMCU EXPRESS" width="50" /> | 2021 Winter SMTOWN : SMCU EXPRESS (2021-12-27) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | A Winter Romance (1959-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="the collective soul and unconscious: snowy night" width="50" /> | the collective soul and unconscious: snowy night (2021-12-14) | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Ella Wishes You A Swinging Christmas (Expanded Edition) (1960-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="Solo Christmas" width="50" /> | Solo Christmas (2021-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="Dominick the Donkey" width="50" /> | Dominick the Donkey (1960-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e24237521fd72dfa162ccefe" alt="THE BOYZ Special Single [Candles]" width="50" /> | THE BOYZ Special Single [Candles] (2021-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Expanded Edition) (1962) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | 1st Intermixxion Single <Funky Glitter Christmas> (2022-11-23) | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="Rudolph The Red Nosed Reindeer And Other Christmas Classics" width="50" /> | Rudolph The Red Nosed Reindeer And Other Christmas Classics (1947) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | Spotify Singles - Holiday (2022-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="I Want a Hippopotamus for Christmas (Hippo the Hero)" width="50" /> | I Want a Hippopotamus for Christmas (Hippo the Hero) (1953-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27397337e6b853756f20af2c29f" alt="Santa Bring Me a Dinosaur" width="50" /> | Santa Bring Me a Dinosaur (2022-06-04) | <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Elvis' Christmas Album (1957-10-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Pieces (2021-12-29) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | A Winter Romance (1959-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="2021 Winter SMTOWN : SMCU EXPRESS" width="50" /> | 2021 Winter SMTOWN : SMCU EXPRESS (2021-12-27) | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Ella Wishes You A Swinging Christmas (Expanded Edition) (1960-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="the collective soul and unconscious: snowy night" width="50" /> | the collective soul and unconscious: snowy night (2021-12-14) | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="Dominick the Donkey" width="50" /> | Dominick the Donkey (1960-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="Solo Christmas" width="50" /> | Solo Christmas (2021-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Expanded Edition) (1962) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[104 tracks (49 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[105 tracks (50 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -62,6 +62,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | 1 | 1 | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12a53bc0b95fa230ccd6d661" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27e4c08f0a25786383c77dbc" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbe8b6591753659ca595c73c6" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c370475204929c6974c5c4a" alt="" width="50" /> | 1 | 1 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | 1 | 1 | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 3 | 0 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
@@ -119,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | 1 | 0 | TFBOYS | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be69d4a6cea90132c24de23" alt="" width="50" /> | 1 | 0 | Full Trunk | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9b2f6666f0dbb3234080ce43" alt="" width="50" /> | 1 | 0 | Static & Ben El | [🔗](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb51feeef21e4e7bc941bc66bc" alt="" width="50" /> | 1 | 0 | Penny Tai | [🔗](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) |
 
 </details>
 
@@ -145,7 +145,7 @@
 
 
 <details>
-<summary>See all 94 albums</summary>
+<summary>See all 95 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -162,6 +162,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | 1 | 1 | The Lion King: The Gift | 2019-07-19 | [🔗](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="" width="50" /> | 1 | 1 | Söngvakeppnin 2020 | 2020-01-18 | [🔗](https://open.spotify.com/album/32ypMgv8eQ7ACVd2uBaPG7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734661cf765439018ebb7e0009" alt="" width="50" /> | 1 | 1 | Sin Pijama | 2018-04-20 | [🔗](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | 1 | 1 | See Tình | 2022-02-20 | [🔗](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="" width="50" /> | 1 | 1 | Racine Carrée (Standard US Version) | 2013-01-01 | [🔗](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="" width="50" /> | 1 | 1 | POP VIRUS | 2018-12-19 | [🔗](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c89c4758b84b698f1598821" alt="" width="50" /> | 1 | 1 | Non mi avete fatto niente | 2018-02-07 | [🔗](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) |
@@ -256,7 +257,7 @@
 
 
 <details>
-<summary>See all 69 labels</summary>
+<summary>See all 70 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -281,6 +282,7 @@
 | 1 | 1 | Play Two |
 | 1 | 1 | Parkwood Entertainment |
 | 1 | 1 | Mescal |
+| 1 | 1 | Hoang Thuy Linh |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | El Cartel Records (EC3) |
 | 1 | 1 | Angèle VL Records |
@@ -342,7 +344,7 @@
 
 
 <details>
-<summary>See all 93 genres</summary>
+<summary>See all 94 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -370,6 +372,7 @@
 | 3 | 1 | pop urbaine |
 | 2 | 1 | puerto rican pop |
 | 1 | 1 | variete francaise |
+| 1 | 1 | v-pop |
 | 1 | 1 | spanish pop |
 | 1 | 1 | rap latina |
 | 1 | 1 | r&b en espanol |
@@ -447,9 +450,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> | fábula (2023-01-23) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387" alt="Cha Cha Cha" width="50" /> | Cha Cha Cha (2023-01-17) | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> | 海嘯 (2001-05-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | Hijas del Tomate (2002) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> | בשורות טובות (2022-06-06) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> | Lykke te (2022-05-27) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> | מי זאת (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> | עושה לי צרות (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | Bu-ikikaesu (2007-03-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> | בשורות טובות (2022-06-06) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="Lykke te" width="50" /> | Lykke te (2022-05-27) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="עושה לי צרות" width="50" /> | עושה לי צרות (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="מי זאת" width="50" /> | מי זאת (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | Bu-ikikaesu (2007-03-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (2022-04-28) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | GAME (2008) |
