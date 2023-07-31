@@ -165,7 +165,7 @@
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 1 | RBMG |
-| 2 | 1 | Island Records |
+| 2 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 2 | 1 | [Epic](../../labels/epic/overview.md) |
 
 

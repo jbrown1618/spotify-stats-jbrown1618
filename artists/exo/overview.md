@@ -11,7 +11,8 @@
 ## Artist Rank
 EXO is currently:
 - The #18 artist of all time
-- The #30 artist of the last 6 months
+- The #31 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
 ## Top Tracks
@@ -21,7 +22,7 @@ EXO is currently:
 - The Eve is:
     - the #44 track of all time
 - Monster is:
-    - the #27 track of the last month
+    - the #18 track of the last month
 
 ### Top tracks of all time over time
 

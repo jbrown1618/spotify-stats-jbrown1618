@@ -4,33 +4,21 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| FEVER [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) | 31 | 2019-12-01 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9),<br>J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B),<br>SUPERBEE [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | FEVER [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) | 20 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) | JYP Entertainment | 💚 |
-| FEVER [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) | 46 | 2019-12-01 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9),<br>J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B),<br>SUPERBEE [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | FEVER [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) | 36 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - J.Y. Park | |
-| Hello Bitches [🔗](https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj) | 0 | 2015-12-05 | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | Hello Bitches [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) | 0 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | YG Entertainment | 💚 |
-| Hello Bitches [🔗](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | 66 | 2015-12-05 | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | Hello Bitches [🔗](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 56 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | YG Entertainment | |
-| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | 70 | 2023-03-12 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Young, Dumb, Stupid [🔗](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 60 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | Republic Records - NMIXX | |
-| Young, Dumb, Stupid [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) | 43 | 2023-03-20 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | expérgo [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 68 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | |
-| Likey [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | 70 | 2017-10-30 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | Twicetagram [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 63 | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | Republic Records - TWICE | 💚 |
-| Likey [🔗](https://open.spotify.com/track/4P66rfizAl2nIJCICSMymC) | 0 | 2017-10-30 | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | Twicetagram [🔗](https://open.spotify.com/album/5WflYUwhi8fBvEifYSapRB) | 0 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | Imperial Distribution | |
+| The Middle [🔗](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | 0 | 2001 | Jimmy Eat World [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | Bleed American (Deluxe Edition) [🔗](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 0 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Interscope | |
+| The Middle [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | 85 | 2001-07-17 | Jimmy Eat World [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | Bleed American [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 77 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F) | Interscope | |
+| Mr. Brightside [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | 88 | 2004 | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | Hot Fuss [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 82 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Island Records | |
+| Mr. Brightside [🔗](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | 6 | 2004-06-15 | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | Hot Fuss [🔗](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Island Records | |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| Hello Bitches [🔗](https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy) | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | 0 | 2015-12-05 | YG Entertainment | Hello Bitches [🔗](https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| Hello Bitches [🔗](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | CL [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | 56 | 2015-12-05 | YG Entertainment | Hello Bitches [🔗](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) |
-| HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 67 | 2020-05-20 | Universal Music LLC | 死ぬのがいいわ [🔗](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
-| HELP EVER HURT NEVER [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | Fujii Kaze [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | 77 | 2020-05-20 | Universal Music LLC | Shinunoga E-Wa [🔗](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 52 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| FEVER [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) | J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | 36 | 2019-12-01 | Republic Records - J.Y. Park | FEVER [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| FEVER [🔗](https://open.spotify.com/album/3pQEo2pmo1vKTkWbSbldBB) | J.Y. Park [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | 20 | 2019-12-01 | JYP Entertainment | FEVER [🔗](https://open.spotify.com/track/0x9Vpw90j9fDb669IydnHL) | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON) |
-| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 55 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 46 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| ENTWURF [🔗](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 51 | 2022-09-19 | JYP Entertainment | COOL (Your rainbow) [🔗](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb) |
-| ENTWURF [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 66 | 2022-09-19 | Republic Records - NMIXX | DICE [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| Twicetagram [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 63 | 2017-10-30 | Republic Records - TWICE | Likey [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T),<br>Turtle [🔗](https://open.spotify.com/track/1LQtxz9fIrZskoqDSbhKd3) | Aegyo [🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2),<br>Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| Twicetagram [🔗](https://open.spotify.com/album/5WflYUwhi8fBvEifYSapRB) | TWICE [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | 0 | 2017-10-30 | Imperial Distribution | Likey [🔗](https://open.spotify.com/track/4P66rfizAl2nIJCICSMymC) | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) |
+| Hot Fuss [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | 82 | 2004 | Island Records | All These Things That I've Done [🔗](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr),<br>Mr. Brightside [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
+| Hot Fuss [🔗](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | 3 | 2004-06-15 | Island Records | Mr. Brightside [🔗](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
 
 ## Tracks with low popularity
 
@@ -42,25 +30,25 @@
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 28 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 28 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 28 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 28 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 28 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 28 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 28 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 29 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 29 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 29 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 29 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 29 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 29 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 29 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 29 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 29 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 0 | 88 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 88 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 88 |
 | Butter | Butter | BTS | 2 | 0 | 88 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 88 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 1 | 0 | 88 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 88 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
@@ -117,10 +105,11 @@
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 0 | 59 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 68 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 62 |
-| Likey | Twicetagram | TWICE | 0 | 0 | 79 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
@@ -309,13 +298,13 @@
 | ICY | IT'z ICY | ITZY | 0 | 0 | 68 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
 | React | React | The Pussycat Dolls | 1 | 0 | 67 |
-| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 75 |
+| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 74 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | Carey | Blue | Joni Mitchell | 0 | 1 | 52 |
 | Blue | Blue | Joni Mitchell | 0 | 1 | 52 |
-| A Case of You | Blue | Joni Mitchell | 2 | 1 | 52 |
+| A Case of You | Blue | Joni Mitchell | 1 | 1 | 52 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 0 | 0 | 52 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -373,7 +362,7 @@
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 80 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
-| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 60 |
+| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
@@ -409,6 +398,7 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
+| RED | RED | The Rose | 2 | 0 | 63 |
 | BABY | Void | The Rose | 0 | 0 | 63 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
@@ -416,13 +406,12 @@
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 34 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 72 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
-| Hello Bitches | Hello Bitches | CL | 0 | 0 | 55 |
-| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
+| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | Miku | Miku | Anamanaguchi | 2 | 0 | 47 |
 | Miku | Miku | Hatsune Miku | 2 | 0 | 60 |
 | Boat | Boat | george | 0 | 0 | 48 |
@@ -433,9 +422,11 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 62 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 70 |
+| The Middle | Bleed American (Deluxe Edition) | Jimmy Eat World | 0 | 0 | 66 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 40 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
+| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 76 |

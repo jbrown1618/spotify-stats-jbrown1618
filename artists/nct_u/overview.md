@@ -10,7 +10,7 @@
 ## Top Tracks
 
 - BOSS is:
-    - the #45 track of the last month
+    - the #28 track of the last month
 
 ### Top tracks of the last month over time
 

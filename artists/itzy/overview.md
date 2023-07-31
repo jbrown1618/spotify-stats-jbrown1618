@@ -12,21 +12,18 @@
 ITZY is currently:
 - The #4 artist of all time
 - The #7 artist of the last 6 months
-- The #5 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #12 track of the last month
-    - the #7 track of the last 6 months
+    - the #6 track of the last 6 months
     - the #32 track of all time
 - Cheshire is:
-    - the #14 track of the last 6 months
-- In the morning is:
-    - the #48 track of the last month
+    - the #13 track of the last 6 months
 - Not Shy is:
-    - the #50 track of the last month
+    - the #33 track of the last month
 
 ### Top tracks of all time over time
 

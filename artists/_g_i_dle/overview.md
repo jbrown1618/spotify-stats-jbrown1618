@@ -18,21 +18,18 @@
 ## Top Tracks
 
 - LATATA is:
-    - the #41 track of the last month
     - the #23 track of all time
 - Uh-Oh is:
     - the #30 track of all time
 - Nxde is:
-    - the #28 track of the last 6 months
+    - the #35 track of the last 6 months
 - TOMBOY is:
-    - the #19 track of the last month
-    - the #50 track of the last 6 months
-- Oh my god is:
-    - the #11 track of the last month
+    - the #8 track of the last month
+    - the #45 track of the last 6 months
 - Put It Straight is:
-    - the #22 track of the last month
+    - the #12 track of the last month
 - HANN (Alone in winter) is:
-    - the #23 track of the last month
+    - the #13 track of the last month
 
 ### Top tracks of all time over time
 

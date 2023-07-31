@@ -7,16 +7,16 @@
 ## Artist Rank
 GOT the beat is currently:
 - The #35 artist of all time
-- The #24 artist of the last 6 months
+- The #23 artist of the last 6 months
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks
 
 - Stamp On It is:
-    - the #6 track of the last month
+    - the #2 track of the last month
     - the #1 track of the last 6 months
 - Outlaw is:
-    - the #40 track of the last 6 months
+    - the #38 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

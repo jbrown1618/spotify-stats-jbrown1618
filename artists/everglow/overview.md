@@ -6,7 +6,7 @@
 
 ## Artist Rank
 EVERGLOW is currently:
-- The #26 artist of all time
+- The #27 artist of all time
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Featured on Playlists

@@ -11,15 +11,15 @@
 ## Artist Rank
 ENHYPEN is currently:
 - The #11 artist of all time
-- The #9 artist of the last 6 months
-- The #9 artist of the last month
+- The #10 artist of the last 6 months
+- The #13 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #8 track of the last month
-    - the #5 track of the last 6 months
+    - the #36 track of the last month
+    - the #8 track of the last 6 months
     - the #34 track of all time
 - Just A Little Bit is:
     - the #43 track of all time

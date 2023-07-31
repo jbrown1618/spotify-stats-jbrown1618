@@ -85,7 +85,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 1 | Columbia Nashville Legacy |
-| 1 | 1 | Island Records |
+| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | Arista |
 | 1 | 1 | American Recordings Catalog P&D |
 | 1 | 0 | Nonesuch |

@@ -187,7 +187,7 @@
 | 1 | 1 | Parlophone Records Limited |
 | 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
-| 1 | 1 | Island Records |
+| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 1 | Glassnote Entertainment Group LLC |

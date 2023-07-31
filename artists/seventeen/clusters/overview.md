@@ -34,4 +34,4 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | Darl+ing | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Dust | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Dust | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) |
