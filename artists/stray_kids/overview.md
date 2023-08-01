@@ -19,10 +19,14 @@ Stray Kids is currently:
 
 - Thunderous is:
     - the #25 track of the last month
-    - the #21 track of the last 6 months
+    - the #23 track of the last 6 months
     - the #47 track of all time
 - Hall of Fame is:
-    - the #49 track of the last month
+    - the #50 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/stray_kids/track_rank_time_series_long_term.png)
 
 ### Top tracks of the last 6 months over time
 

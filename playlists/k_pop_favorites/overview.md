@@ -168,6 +168,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 2 | 2 | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | 2 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 2 | 2 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 1 | 1 | 回:Walpurgis Night | 2020-11-09 | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
@@ -177,7 +178,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | 1 | 1 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | 1 | 1 | [12:00] | 2020-10-19 | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | 1 | 1 | ZERO : FEVER Part.3 | 2021-09-13 | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
@@ -260,7 +260,7 @@
 
 
 <details>
-<summary>See all 52 labels</summary>
+<summary>See all 51 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -276,13 +276,12 @@
 | 3 | 3 | MNH ENTERTAINMENT |
 | 3 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 3 | 3 | EDAM Entertainment |
+| 3 | 3 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 2 | 2 | THE BLACK LABEL |
 | 2 | 2 | LABEL V |
 | 2 | 2 | KQ Entertainment |
 | 2 | 2 | [Fave Entertainment](../../labels/fave_entertainment/overview.md) |
-| 2 | 2 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
-| 1 | 1 | 드림캐쳐컴퍼니 |
 | 1 | 1 | 더라이브레이블 |
 | 1 | 1 | avex trax |
 | 1 | 1 | Yedang Entertainment |

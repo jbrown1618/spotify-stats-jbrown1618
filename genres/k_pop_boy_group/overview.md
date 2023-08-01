@@ -1,6 +1,6 @@
 # k-pop boy group
 
-[301 songs](tracks.md)
+[305 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -17,19 +17,19 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058044fbaafa1bd5342c459e" alt="" width="50" /> | 11 | 9 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 16 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 11 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="" width="50" /> | 10 | 6 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 8 | 6 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 8 | 6 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 
 
 <details>
-<summary>See all 57 artists</summary>
+<summary>See all 58 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 8 | 6 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 7 | 6 | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba31675abc6399c98291986db" alt="" width="50" /> | 10 | 5 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 7 | 5 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="" width="50" /> | 7 | 5 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 7 | 4 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="" width="50" /> | 5 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -67,6 +67,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 1 | 0 | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6034058cfde0084f922bb284" alt="" width="50" /> | 1 | 0 | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273438564923ac3eb99efb860f3" alt="" width="50" /> | 1 | 0 | Lee Young Hyun | [🔗](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | 1 | 0 | BOYS PLANET | [🔗](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3dbeeb3353a0dc45c6650bc" alt="" width="50" /> | 1 | 0 | No Identity | [🔗](https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
@@ -90,11 +91,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | 5 | 5 | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 5 | 3 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | 5 | 3 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | 5 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | 4 | 4 | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | 4 | 3 | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | 4 | 3 | DARK BLOOD | 2023-05-22 | [🔗](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | 4 | 3 | BORDER : DAY ONE | 2020-11-30 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 4 | 3 | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 
 
 <details>
@@ -102,6 +103,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 4 | 3 | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | 4 | 2 | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 4 | 2 | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 4 | 1 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
@@ -191,7 +193,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 1 | 1 | MIROTIC - The 4th Album | 2008-09-19 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | 1 | 1 | MAMACITA - The 7th Album | 2014-08-29 | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | 1 | 1 | Love&Letter repackage album | 2016-07-04 | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | 1 | 1 | Liminality - EP.LOVE | 2022-11-14 | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
 
 </details>
 
@@ -206,8 +207,8 @@
 | 57 | 30 | [Republic Records](../../labels/republic_records/overview.md) |
 | 34 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 24 | 21 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
+| 20 | 12 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 18 | 12 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
-| 16 | 11 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 14 | 9 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 9 | 6 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 9 | 5 | KQ Entertainment |
@@ -226,6 +227,7 @@
 | 3 | 3 | 우조엔터테인먼트 |
 | 3 | 3 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 5 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
+| 5 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 2 | 2 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 3 | 1 | Cre.ker Entertainment |
@@ -236,7 +238,6 @@
 | 1 | 1 | Think Ent. |
 | 1 | 1 | JELLYFISH ENTERTAINMENT |
 | 1 | 1 | Imperial Distribution |
-| 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | CJ E&M MUSIC |
 | 1 | 1 | C9 Entertainment |
 | 2 | 0 | ICONIX CO. |

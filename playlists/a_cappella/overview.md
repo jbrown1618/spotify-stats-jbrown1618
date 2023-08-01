@@ -313,7 +313,7 @@
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 36 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -340,7 +340,6 @@
 | 1 | 0 | folk |
 | 1 | 0 | [early music](../../genres/early_music/overview.md) |
 | 1 | 0 | [classical](../../genres/classical/overview.md) |
-| 1 | 0 | christmas instrumental |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |
 | 1 | 0 | [album rock](../../genres/album_rock/overview.md) |

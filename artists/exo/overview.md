@@ -18,11 +18,11 @@ EXO is currently:
 ## Top Tracks
 
 - Love Shot is:
-    - the #14 track of all time
+    - the #15 track of all time
 - The Eve is:
     - the #44 track of all time
 - Monster is:
-    - the #18 track of the last month
+    - the #19 track of the last month
 
 ### Top tracks of all time over time
 

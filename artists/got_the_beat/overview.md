@@ -16,7 +16,7 @@ GOT the beat is currently:
     - the #2 track of the last month
     - the #1 track of the last 6 months
 - Outlaw is:
-    - the #38 track of the last 6 months
+    - the #39 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

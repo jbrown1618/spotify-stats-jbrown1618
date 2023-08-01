@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 7 | 6 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 5 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 4 | 4 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aba639e25dba667386fdd345" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 3 | 3 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 3 | 3 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 3 | 3 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -62,8 +62,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | 2 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 2 | 2 | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 2 | 1 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="" width="50" /> | 1 | 1 | 기기괴괴 | 2021-10-31 | [🔗](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525" alt="" width="50" /> | 1 | 1 | vampire | 2023-06-30 | [🔗](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) |
 
 
 <details>
@@ -71,9 +71,9 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525" alt="" width="50" /> | 1 | 1 | vampire | 2023-06-30 | [🔗](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | 1 | 1 | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | 1 | 1 | Wings | 2021-02-24 | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 1 | 1 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | 1 | 1 | Run Devil Run - The 2nd Album Repackage | 2010-03-22 | [🔗](https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA) |
@@ -111,26 +111,24 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 13 | 13 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 6 | 6 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 4 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 4 | 4 | [Darkroom](../../labels/darkroom/overview.md) |
-| 3 | 3 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 3 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 3 | 3 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 3 | 2 | 마이돌엔터테인먼트 |
-| 2 | 2 | ㈜ 드림캐쳐컴퍼니 |
 | 2 | 2 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 2 | 2 | [Republic Records](../../labels/republic_records/overview.md) |
+| 2 | 2 | ALLART ENTERTAINMENT |
 
 
 <details>
-<summary>See all 27 labels</summary>
+<summary>See all 25 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 2 | ALLART ENTERTAINMENT |
 | 2 | 1 | 해피트라이브엔터테인먼트 |
 | 2 | 1 | 올라트엔터테인먼트 |
-| 1 | 1 | 드림캐쳐컴퍼니 |
 | 1 | 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 1 | 1 | Olivia Rodrigo PS |
 | 1 | 1 | Mydoll Ent. |
@@ -148,7 +146,7 @@
 </details>
 
 
-![Bar chart of top 27 record labels](../../images/playlists/halloween/labels.png)
+![Bar chart of top 25 record labels](../../images/playlists/halloween/labels.png)
 
 ## Genres
 

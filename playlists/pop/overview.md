@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[390 tracks (280 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[391 tracks (280 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -86,9 +86,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 2 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 2 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 3 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 3 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 3 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 2 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 2 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
@@ -255,7 +255,7 @@
 | 29 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 17 | 15 | [Epic](../../labels/epic/overview.md) |
 | 22 | 13 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 20 | 13 | [Columbia](../../labels/columbia/overview.md) |
+| 21 | 13 | [Columbia](../../labels/columbia/overview.md) |
 | 19 | 13 | [Warner Records](../../labels/warner_records/overview.md) |
 | 14 | 12 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 13 | 11 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
@@ -414,11 +414,11 @@
 | 3 | 3 | escape room |
 | 3 | 3 | alt z |
 | 4 | 2 | south carolina hip hop |
+| 4 | 2 | lgbtq+ hip hop |
 | 4 | 2 | indie poptimism |
 | 4 | 2 | contemporary r&b |
 | 4 | 2 | canadian contemporary r&b |
 | 3 | 2 | nz pop |
-| 3 | 2 | lgbtq+ hip hop |
 | 2 | 2 | trap queen |
 | 2 | 2 | queens hip hop |
 | 2 | 2 | modern alternative rock |
@@ -491,7 +491,7 @@
 | 2022 | 9 |
 | [2021](2021.md) | 24 |
 | [2020](2020.md) | 50 |
-| [2019](2019.md) | 45 |
+| [2019](2019.md) | 46 |
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 26 |
 | [2016](2016.md) | 26 |

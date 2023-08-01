@@ -30,15 +30,15 @@
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 29 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 29 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 29 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 29 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 29 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 29 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 29 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 29 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 29 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 28 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 28 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 28 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 28 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 28 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 28 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 28 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
@@ -296,6 +296,10 @@
 | String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 68 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 68 |
+| Kill Shot | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
+| CAKE | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
+| BET ON ME | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
+| None of My Business | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
 | React | React | The Pussycat Dolls | 1 | 0 | 67 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 74 |
@@ -378,6 +382,7 @@
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
+| Enter Sandman | Metallica | Metallica | 2 | 2 | 80 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
@@ -398,8 +403,8 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
-| RED | RED | The Rose | 2 | 0 | 63 |
-| BABY | Void | The Rose | 0 | 0 | 63 |
+| RED | RED | The Rose | 2 | 0 | 64 |
+| BABY | Void | The Rose | 0 | 0 | 64 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 1 | 0 | 58 |
@@ -407,7 +412,7 @@
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 34 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 73 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |

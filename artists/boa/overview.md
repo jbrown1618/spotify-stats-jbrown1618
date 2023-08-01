@@ -14,11 +14,11 @@ BoA is currently:
 ## Top Tracks
 
 - Time After Time is:
-    - the #20 track of the last 6 months
+    - the #22 track of the last 6 months
 - Forgive Me is:
-    - the #49 track of the last 6 months
+    - the #50 track of the last 6 months
 - Sketch is:
-    - the #11 track of the last month
+    - the #12 track of the last month
 
 ### Top tracks of the last 6 months over time
 

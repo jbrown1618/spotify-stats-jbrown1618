@@ -202,10 +202,10 @@
 | 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | pop rap |
+| 2 | 2 | hip hop |
 | 2 | 2 | [anime](../../genres/anime/overview.md) |
 | 1 | 1 | west coast rap |
 | 1 | 1 | trap |
-| 1 | 1 | scandipop |
 
 
 <details>
@@ -213,8 +213,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | scandipop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 1 | 1 | hip hop |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | conscious hip hop |
 | 1 | 1 | atl hip hop |

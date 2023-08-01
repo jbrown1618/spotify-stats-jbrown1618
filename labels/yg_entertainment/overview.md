@@ -1,6 +1,6 @@
 # YG Entertainment
 
-74 songs
+78 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,8 +10,8 @@ Appears as:
 - YG Entertainment (44 tracks)
 - YG Entertainment/Interscope Records (20 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
+- YG Entertainment/Columbia Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
-- YG Entertainment/Columbia Records (1 tracks)
 
 ## Top Artists
 
@@ -20,7 +20,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 28 | 22 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 10 | 9 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74700cf88c04af5201df7298" alt="" width="50" /> | 7 | 7 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 7 | 5 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 11 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 5 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 2 | 2 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
@@ -30,7 +30,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,13 +42,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb27d469b67abc46cec59effb" alt="" width="50" /> | 1 | 1 | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | 1 | 1 | G.Soul | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273438564923ac3eb99efb860f3" alt="" width="50" /> | 1 | 0 | Lee Young Hyun | [🔗](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 1 | 0 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
 
 
-![Bar chart of top 20 artists](../../images/labels/yg_entertainment/artists.png)
+![Bar chart of top 21 artists](../../images/labels/yg_entertainment/artists.png)
 
 ## Top Albums
 
@@ -56,6 +57,7 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | 8 | 7 | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 7 | 6 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | 5 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | 4 | 3 | SQUARE UP | 2018-06-15 | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | 4 | 2 | KILL THIS LOVE | 2019-04-05 | [🔗](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 3 | 3 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
@@ -63,7 +65,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | 3 | 3 | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 3 | 2 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | 2 | 2 | SQUARE ONE | 2016-08-08 | [🔗](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | 2 | 2 | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
 
 
 <details>
@@ -71,6 +72,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | 2 | 2 | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | 2 | 2 | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="" width="50" /> | 2 | 2 | First Love | 2013-03-28 | [🔗](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | 2 | 2 | 24℃ | 2019-05-30 | [🔗](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) |
@@ -93,7 +95,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273478544f074e0f7fe79e5d07c" alt="" width="50" /> | 1 | 1 | Hello Bitches | 2015-12-05 | [🔗](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | 1 | 1 | COUP D'ETAT | 2013-09-05 | [🔗](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | 1 | 1 | As If It's Your Last | 2017-06-22 | [🔗](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | 1 | 1 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1 | 1 | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | 1 | 0 | PSY 7TH ALBUM | 2015-12-01 | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | 1 | 0 | DEBUT FULL ALBUM 'WELCOME BACK' | 2015-12-24 | [🔗](https://open.spotify.com/album/56d4rgrQSPY3fzbxQS260h) |
@@ -111,7 +112,7 @@ Appears as:
 | 66 | 55 | [k-pop](../../genres/k_pop/overview.md) |
 | 29 | 23 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 28 | 22 | [pop](../../genres/pop/overview.md) |
-| 16 | 11 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 20 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | [k-rap](../../genres/k_rap/overview.md) |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -200,6 +201,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | U | THE SECOND STEP : CHAPTER ONE | [TREASURE](../../artists/treasure/overview.md) | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/5NIHhuAdsaZHmGeEoHiGY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | HELLO | THE SECOND STEP : CHAPTER TWO | [TREASURE](../../artists/treasure/overview.md) | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | BONA BONA | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | G.O.A.T (RAP Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md), Lee Young Hyun | [Columbia](../columbia), [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/6Tb0YsLZ3V6M0EiNobm7Fi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | MOVE (T5) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6ce3rQ3j3vfRics2YiHWbW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | STUPID | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/5bmDeCYksJWvW95E2rSH2G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | THE WAY TO (VOCAL Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/2c42MAkCp7pFbGgJ7xg7xi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/6vLIqcTMfTvs6ecdYqRuOD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | BEAUTIFUL | Return | iKON | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/2l526adqDC9nZ9TL4dD80A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | LOVE SCENARIO | Return | iKON | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) |

@@ -18,7 +18,7 @@ NewJeans is currently:
 ## Top Tracks
 
 - Ditto is:
-    - the #9 track of the last 6 months
+    - the #10 track of the last 6 months
 - OMG is:
     - the #31 track of the last 6 months
 

@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | This Love (0.809) | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met (0.1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | Jigsaw Falling Into Place (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Creep (0.104) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Sunday Morning (0.805) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | No Surprises (0.118) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Supermassive Black Hole (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="Fantasies" width="50" /> | Gimme Sympathy (0.119) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1513604af349ec2cfda7be0" alt="Hope Is Made Of Steel" width="50" /> | Hope Is Made Of Steel (0.788) | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="Fantasies" width="50" /> | Gimme Sympathy (0.119) |
 
 ## Tempo
 

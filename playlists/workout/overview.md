@@ -159,6 +159,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | 2 | 2 | BORN PINK | 2022-09-16 | [🔗](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 2 | 2 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | 2 | 1 | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
@@ -168,7 +169,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | 1 | 1 | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | 1 | 1 | [12:00] | 2020-10-19 | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | 1 | 1 | [&] | 2021-06-28 | [🔗](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | 1 | 1 | [#] | 2020-02-05 | [🔗](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) |
@@ -262,7 +262,7 @@
 
 
 <details>
-<summary>See all 66 labels</summary>
+<summary>See all 65 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -280,13 +280,13 @@
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | Kid Ina Korner |
 | 2 | 2 | Elektra (NEK) |
+| 2 | 2 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 2 | 2 | Cash Money |
 | 2 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 2 | BlockBerryCreative |
 | 2 | 2 | Beluga Heights |
 | 2 | 1 | [HYBE](../../labels/hybe/overview.md) |
 | 1 | 1 | 우조엔터테인먼트 |
-| 1 | 1 | 드림캐쳐컴퍼니 |
 | 1 | 1 | Yedang Entertainment |
 | 1 | 1 | YUEHUA ENTERTAINMENT KOREA |
 | 1 | 1 | WM Japan |
@@ -311,7 +311,6 @@
 | 1 | 1 | G.O.O.D. Music |
 | 1 | 1 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | EMPIRE |
-| 1 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 1 | 1 | Canvasback |
 | 1 | 1 | BlockBerry Creative |
 | 1 | 1 | Bad Dreams Records |

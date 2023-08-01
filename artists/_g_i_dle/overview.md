@@ -24,12 +24,12 @@
 - Nxde is:
     - the #35 track of the last 6 months
 - TOMBOY is:
-    - the #8 track of the last month
-    - the #45 track of the last 6 months
+    - the #9 track of the last month
+    - the #46 track of the last 6 months
 - Put It Straight is:
-    - the #12 track of the last month
-- HANN (Alone in winter) is:
     - the #13 track of the last month
+- HANN (Alone in winter) is:
+    - the #14 track of the last month
 
 ### Top tracks of all time over time
 

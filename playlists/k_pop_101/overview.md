@@ -81,12 +81,12 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 1 | 1 | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | 2009-03-11 | [🔗](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 1 | 1 | 回:Walpurgis Night | 2020-11-09 | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | 1 | 1 | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | 1 | 1 | The Boys - The 3rd Album | 2011-10-19 | [🔗](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) |
@@ -156,7 +156,7 @@
 | 3 | 2 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 2 | 2 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 2 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
-| 1 | 1 | 드림캐쳐컴퍼니 |
+| 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 
 
 <details>
@@ -164,7 +164,6 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 1 | THE BLACK LABEL |
 | 1 | 1 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 1 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
@@ -175,6 +174,7 @@
 | 1 | 1 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 1 | 1 | [HYBE](../../labels/hybe/overview.md) |
 | 1 | 1 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
+| 1 | 1 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 1 | 1 | Capitol Records (CAP) |
 | 1 | 1 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 1 | [BELIFT LAB](../../labels/belift_lab/overview.md) |

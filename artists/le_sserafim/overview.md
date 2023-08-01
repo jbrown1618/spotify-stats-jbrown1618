@@ -20,7 +20,6 @@ LE SSERAFIM is currently:
 - Impurities is:
     - the #11 track of the last 6 months
 - FEARLESS is:
-    - the #7 track of the last month
     - the #34 track of the last 6 months
 
 ### Top tracks of the last 6 months over time

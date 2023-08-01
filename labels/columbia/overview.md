@@ -1,16 +1,17 @@
 # Columbia
 
-91 songs
+96 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia (59 tracks)
+- Columbia (60 tracks)
 - Columbia/Legacy (9 tracks)
 - Parkwood Entertainment/Columbia (8 tracks)
 - Music World Music/Columbia (5 tracks)
+- YG Entertainment/Columbia Records (5 tracks)
 - G.O.O.D. Music/Columbia (2 tracks)
 - Open Wide/Monument/Columbia (2 tracks)
 - Columbia/B1 Recordings (1 tracks)
@@ -18,7 +19,6 @@ Appears as:
 - Legacy/Columbia (1 tracks)
 - Open Wide/Columbia (1 tracks)
 - XL Recordings/Columbia (1 tracks)
-- YG Entertainment/Columbia Records (1 tracks)
 
 ## Top Artists
 
@@ -29,18 +29,19 @@ Appears as:
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 5 | 2 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 4 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 2 | 2 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 2 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 3 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 
 
 <details>
-<summary>See all 49 artists</summary>
+<summary>See all 51 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8" alt="" width="50" /> | 2 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 2 | 1 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
@@ -55,7 +56,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 1 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 1 | 1 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | 1 | 1 | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
@@ -66,13 +66,15 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 0 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 1 | 0 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb440230373e8ffaf11c36f96d" alt="" width="50" /> | 1 | 0 | Billy Ray Cyrus | [🔗](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/66a7fe2b2fd9388cf860f88e8636910f161be6cd" alt="" width="50" /> | 1 | 0 | Gene Autry | [🔗](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb011dde6bbcb133aea587ad5a" alt="" width="50" /> | 1 | 0 | Jawsh 685 | [🔗](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a8a07d66bf478fcdbb3dd2d" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273438564923ac3eb99efb860f3" alt="" width="50" /> | 1 | 0 | Lee Young Hyun | [🔗](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730bd2ada8cc664dde48c07145" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 1 | 0 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
@@ -91,6 +93,7 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 7 | 6 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | 5 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4 | 3 | 4 | 2011-06-24 | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | 4 | 2 | I AM...SASHA FIERCE | 2008-11-14 | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
@@ -99,14 +102,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | 2 | 2 | Home | 2002-08-27 | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | 2 | 2 | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
 
 
 <details>
-<summary>See all 64 albums</summary>
+<summary>See all 65 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | 2 | 2 | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | 2 | 1 | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | 2 | 1 | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | 2 | 1 | Lemonade | 2016-04-23 | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
@@ -136,7 +139,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | 1 | 1 | Blowin' Your Mind! | 1967-09 | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | 1 | 1 | Back In Black | 1980-07-25 | [🔗](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | 1 | 1 | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | 1 | 1 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | 1 | 0 | Turn Down for What | 2013-12-18 | [🔗](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | 1 | 0 | Toys In The Attic | 1975-04-08 | [🔗](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
@@ -160,6 +162,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | 1 | 0 | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | 1 | 0 | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="" width="50" /> | 1 | 0 | A Legendary Christmas: Deluxe Edition | 2019-11-08 | [🔗](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a" alt="" width="50" /> | 1 | 0 | 7 EP | 2019-06-21 | [🔗](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | 1 | 0 | 30 | 2021-11-19 | [🔗](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) |
 
 </details>
@@ -199,12 +202,13 @@ Appears as:
 | 3 | 3 | country |
 | 3 | 3 | contemporary country |
 | 6 | 2 | urban contemporary |
+| 5 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 2 | neo soul |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | filter house |
 | 2 | 2 | electro |
+| 3 | 1 | lgbtq+ hip hop |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
-| 2 | 1 | lgbtq+ hip hop |
 | 2 | 1 | british soul |
 | 1 | 1 | r&b en espanol |
 | 1 | 1 | nigerian pop |
@@ -212,7 +216,6 @@ Appears as:
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | mandopop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 1 | 1 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | dancehall |
@@ -333,6 +336,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Lights | Infinity | Journey | [Columbia](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | Any Way You Want It | Departure | Journey | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | Don't Stop Believin' | Escape (Bonus Track Version) | Journey | [Columbia](.) | | [🔗](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a" alt="" width="50" /> | Old Town Road - Remix | 7 EP | Lil Nas X, Billy Ray Cyrus | [Columbia](.) | | [🔗](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | MONTERO (Call Me By Your Name) | MONTERO (Call Me By Your Name) | Lil Nas X | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="" width="50" /> | INDUSTRY BABY (feat. Jack Harlow) | MONTERO | Lil Nas X, Jack Harlow | [Columbia](.) | | [🔗](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic | Wrap Me In Plastic | [MOMOLAND](../../artists/momoland/overview.md), CHROMANCE | [Columbia/B1 Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) |
@@ -347,6 +351,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Cecilia | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | BONA BONA | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | G.O.A.T (RAP Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md), Lee Young Hyun | [Columbia](.), [YG Entertainment](../yg_entertainment) | | [🔗](https://open.spotify.com/track/6Tb0YsLZ3V6M0EiNobm7Fi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | MOVE (T5) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6ce3rQ3j3vfRics2YiHWbW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | STUPID | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | | [🔗](https://open.spotify.com/track/5bmDeCYksJWvW95E2rSH2G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | THE WAY TO (VOCAL Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | | [🔗](https://open.spotify.com/track/2c42MAkCp7pFbGgJ7xg7xi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer | Closer | The Chainsmokers, Halsey | [Disruptor Records/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Landslide | Home | The Chicks | [Open Wide/Monument/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Travelin' Soldier | Home | The Chicks | [Open Wide/Monument/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) |

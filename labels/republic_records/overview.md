@@ -1,6 +1,6 @@
 # Republic Records
 
-159 songs
+163 songs
 
 [See Track Features](audio_features.md)
 
@@ -9,7 +9,7 @@
 Appears as:
 - Republic Records - Stray Kids (48 tracks)
 - Republic Records - TWICE (42 tracks)
-- Republic Records - ITZY (32 tracks)
+- Republic Records - ITZY (36 tracks)
 - Republic Records (13 tracks)
 - Republic Records - TXT (9 tracks)
 - Republic Records - NMIXX (8 tracks)
@@ -25,7 +25,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 42 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 48 | 26 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 32 | 18 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 36 | 22 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 8 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba31675abc6399c98291986db" alt="" width="50" /> | 9 | 4 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
@@ -78,10 +78,11 @@ Appears as:
 
 
 <details>
-<summary>See all 67 albums</summary>
+<summary>See all 68 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | 4 | 4 | KILL MY DOUBT | 2023-07-31 | [🔗](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 4 | 3 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 4 | 2 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 4 | 2 | MAXIDENT | 2022-10-07 | [🔗](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) |
@@ -149,9 +150,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 139 | 86 | [k-pop](../../genres/k_pop/overview.md) |
+| 143 | 90 | [k-pop](../../genres/k_pop/overview.md) |
 | 106 | 67 | [pop](../../genres/pop/overview.md) |
-| 82 | 56 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 86 | 60 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 57 | 30 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | classic k-pop |
@@ -236,6 +237,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Freaky | CHESHIRE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | FEVER | FEVER | J.Y. Park, SUPERBEE, [BIBI](../../artists/bibi/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a21da4c2f704f3cb9527781" alt="" width="50" /> | Groove Back | Groove Missing | J.Y. Park, Gaeko | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/7dELSsVFXTj3aIe0OIKGw8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag | Who You Are (Platinum Edition) | Jessie J, B.o.B | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |

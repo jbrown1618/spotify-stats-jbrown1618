@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[115 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
+[116 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 49 artists</summary>
+<summary>See all 51 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -68,7 +68,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 1 | 0 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaa11729d6bbfb3f372dd1c6a" alt="" width="50" /> | 1 | 0 | Hannah Georgas | [🔗](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb58f855ede3f21d6062682f8b" alt="" width="50" /> | 1 | 0 | Northcote | [🔗](https://open.spotify.com/artist/0238bOScDVbMG0RBP2NguG) |
 
 </details>
 
@@ -94,7 +96,7 @@
 
 
 <details>
-<summary>See all 81 albums</summary>
+<summary>See all 82 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -158,6 +160,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558" alt="" width="50" /> | 1 | 0 | In the Aeroplane Over the Sea | 1998-02-20 | [🔗](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | 1 | 0 | In Your Honor | 2005-06-14 | [🔗](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356a6d6e493a8f338be63fc49" alt="" width="50" /> | 1 | 0 | Hot Fuss | 2004-06-15 | [🔗](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1513604af349ec2cfda7be0" alt="" width="50" /> | 1 | 0 | Hope Is Made Of Steel | 2015-09-25 | [🔗](https://open.spotify.com/album/7tefnClE8qN0ueSP3AX8mP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | 1 | 0 | Heathens | 2016-06-16 | [🔗](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | 1 | 0 | Hands All Over | 2010 | [🔗](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 0 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
@@ -192,7 +195,7 @@
 
 
 <details>
-<summary>See all 42 labels</summary>
+<summary>See all 43 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -228,6 +231,7 @@
 | 1 | 0 | Music Farm |
 | 1 | 0 | Merge Records |
 | 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
+| 1 | 0 | Black Box Recordings Inc. |
 
 </details>
 
@@ -251,7 +255,7 @@
 
 
 <details>
-<summary>See all 97 genres</summary>
+<summary>See all 98 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -340,6 +344,7 @@
 | 1 | 0 | k-rock |
 | 1 | 0 | elephant 6 |
 | 1 | 0 | dance-punk |
+| 1 | 0 | canadian singer-songwriter |
 | 1 | 0 | baroque pop |
 | 1 | 0 | alternative dance |
 
@@ -364,5 +369,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> | Ambitions (2017-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="Heathens" width="50" /> | Heathens (2016-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Blurryface (2015-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | Strange Trails (2015-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1513604af349ec2cfda7be0" alt="Hope Is Made Of Steel" width="50" /> | Hope Is Made Of Steel (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Blurryface (2015-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |

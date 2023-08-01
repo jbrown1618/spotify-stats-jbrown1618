@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="Alt-Pop" width="100" />
 
-[141 tracks (99 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
+[142 tracks (100 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 61 artists</summary>
+<summary>See all 64 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -55,16 +55,19 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb244f3ce9acd6c91ac2361800" alt="" width="50" /> | 1 | 1 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b465068da06b874e24d35bc1" alt="" width="50" /> | 1 | 1 | Huxlee | [🔗](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1a6d2f0056fd62e4ffedc21a" alt="" width="50" /> | 1 | 1 | CARSTN | [🔗](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb245e3a1c6500880fbd051dbd" alt="" width="50" /> | 1 | 1 | Will Jordan | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdedbe7030797b73b6a77e39f" alt="" width="50" /> | 1 | 1 | Caravan Palace | [🔗](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6a68d90ef0bb84219e3499a" alt="" width="50" /> | 1 | 1 | David Kushner | [🔗](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4575919af03b59087704bd77" alt="" width="50" /> | 1 | 1 | Anna Graceman | [🔗](https://open.spotify.com/artist/2B69uGl0nh5LMFUAZxVw5y) |
 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | 1 | 1 | Gotye | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | 1 | 1 | Anne-Marie | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | 1 | 1 | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe2d7c4364483907abbe2e73d" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7926088433d79485da5e1734" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbdda317f63c5d23255eb7248" alt="" width="50" /> | 1 | 1 | GoldFish | [🔗](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | 1 | 1 | Guy Sigsworth | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb734144a8667a0bab0a9b9481" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebea4438159949966a02ee3cb1" alt="" width="50" /> | 1 | 1 | Sarah Kang | [🔗](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) |
@@ -106,7 +109,7 @@
 
 
 <details>
-<summary>See all 74 albums</summary>
+<summary>See all 75 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -151,6 +154,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2de91e5b26f31388d4c049" alt="" width="50" /> | 1 | 1 | Darling | 2017-02-03 | [🔗](https://open.spotify.com/album/7pDkPCnYRapjr8dXcwkNIB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | 1 | 1 | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="" width="50" /> | 1 | 1 | Chasing Tomorrow | 2022-07-22 | [🔗](https://open.spotify.com/album/2xZ3UkqpQhuMw41N2LuLxI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 1 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | 1 | 1 | Blue Neighbourhood (Deluxe) | 2015-12-04 | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | 1 | 1 | Aussie Legends | 2019-11-22 | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
@@ -197,7 +201,7 @@
 
 
 <details>
-<summary>See all 46 labels</summary>
+<summary>See all 47 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -226,6 +230,7 @@
 | 1 | 1 | Miserable Music Group |
 | 1 | 1 | Megaphonic |
 | 1 | 1 | Le Plan Recordings |
+| 1 | 1 | Kontor Records |
 | 1 | 1 | Hear Music |
 | 1 | 1 | Grandmono Records |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
@@ -260,7 +265,7 @@
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 57 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -285,6 +290,7 @@
 | 2 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk contemporary r&b |
+| 1 | 1 | tropical house |
 | 1 | 1 | singer-songwriter pop |
 | 1 | 1 | nu jazz |
 | 1 | 1 | korean indie rock |
@@ -327,10 +333,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="Daylight" width="50" /> | Daylight (2023-04-14) | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | Finally Woken (2004-03-23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="A Reckoning" width="50" /> | A Reckoning (2023-01-27) | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | Speak for Yourself (2005-07-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> | Surrender (2022-07-29) | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer&#x27;s Block" width="50" /> | Writer's Block (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> | Guitar Songs (2022-07-21) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Dance Fever (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="Chasing Tomorrow" width="50" /> | Chasing Tomorrow (2022-07-22) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> | Guitar Songs (2022-07-21) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Dance Fever (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook &amp; VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> | Billions (2022-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Far (2009-06-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook &amp; VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Far (2009-06-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> | Billions (2022-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |

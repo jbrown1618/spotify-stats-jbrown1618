@@ -6,13 +6,13 @@
 
 ## Artist Rank
 P1Harmony is currently:
-- The #23 artist of the last month
+- The #24 artist of the last month
 
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
 ## Top Tracks
 
 - JUMP is:
-    - the #45 track of the last month
+    - the #46 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

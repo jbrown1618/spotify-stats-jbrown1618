@@ -12,7 +12,7 @@
 BLACKPINK is currently:
 - The #2 artist of all time
 - The #11 artist of the last 6 months
-- The #11 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -25,7 +25,7 @@ BLACKPINK is currently:
 - Crazy Over You is:
     - the #5 track of all time
 - Kill This Love is:
-    - the #9 track of all time
+    - the #6 track of all time
 - BOOMBAYAH is:
     - the #46 track of all time
 - Pink Venom is:

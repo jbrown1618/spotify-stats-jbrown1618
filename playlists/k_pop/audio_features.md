@@ -14,8 +14,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.933) | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | Like Water (0.365) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | RUN (HAN) (0.929) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | Epilogue (0.366) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="Never Gonna Dance Again : Act 1 - The 3rd Album" width="50" /> | Clockwork (0.37) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Weather (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | CHEESE (0.376) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Typa Girl (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (0.384) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="KILL MY DOUBT" width="50" /> | BET ON ME (0.917) | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | CHEESE (0.376) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Weather (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HWAA (0.384) |
 
 ## Energy
 
