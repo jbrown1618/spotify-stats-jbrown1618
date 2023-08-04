@@ -5,8 +5,6 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="PENTAGON" width="100" />
 
 ## Artist Rank
-PENTAGON is currently:
-- The #45 artist of the last 6 months
 
 ![Rank of PENTAGON over time](../../images/artists/pentagon/rank_time_series.png)
 ## Featured on Playlists

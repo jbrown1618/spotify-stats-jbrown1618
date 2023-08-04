@@ -12,7 +12,7 @@
 CHUNG HA is currently:
 - The #16 artist of all time
 - The #18 artist of the last 6 months
-- The #31 artist of the last month
+- The #32 artist of the last month
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks

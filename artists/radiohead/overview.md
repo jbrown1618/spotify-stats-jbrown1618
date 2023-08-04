@@ -10,7 +10,6 @@
 
 ## Artist Rank
 Radiohead is currently:
-- The #50 artist of all time
 - The #28 artist of the last 6 months
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)

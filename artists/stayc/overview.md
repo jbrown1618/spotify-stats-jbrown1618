@@ -18,7 +18,7 @@ STAYC is currently:
 ## Top Tracks
 
 - POPPY - Japanese Ver. is:
-    - the #20 track of the last 6 months
+    - the #18 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

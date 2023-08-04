@@ -76,7 +76,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb609be0ee540573fd49d1cdea" alt="" width="50" /> | 1 | 0 | Tyler Ward | [🔗](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ffa98af2aa15cb4212e6a85" alt="" width="50" /> | 1 | 0 | The Back Row | [🔗](https://open.spotify.com/artist/5GaN9YyrJyPmJd6dALWhQh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfc619796228fea88e4373aca" alt="" width="50" /> | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebed12016e0eb2c7d47357c136" alt="" width="50" /> | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | 1 | 0 | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 1 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
@@ -313,7 +313,7 @@
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -340,6 +340,7 @@
 | 1 | 0 | folk |
 | 1 | 0 | [early music](../../genres/early_music/overview.md) |
 | 1 | 0 | [classical](../../genres/classical/overview.md) |
+| 1 | 0 | christmas instrumental |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |
 | 1 | 0 | [album rock](../../genres/album_rock/overview.md) |

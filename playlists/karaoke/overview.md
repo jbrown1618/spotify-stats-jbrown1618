@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="Karaoke" width="100" />
 
-[66 tracks (58 liked) 🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F)
+[66 tracks (59 liked) 🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F)
 
 [See Track Features](audio_features.md)
 
@@ -51,6 +51,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98" alt="" width="50" /> | 1 | 1 | Nickel Creek | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f0f76df1047720f2e57fc35" alt="" width="50" /> | 1 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 1 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 1 | 1 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 1 | 1 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 1 | 1 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
@@ -68,7 +69,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 2 | 0 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 2 | 0 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 1 | 0 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | 1 | 0 | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 
@@ -136,6 +136,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 1 | 1 | Call Me Irresponsible | 2007-04-30 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 1 | 1 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | 1 | 1 | Blue Neighbourhood (Deluxe) | 2015-12-04 | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | 1 | 1 | Barton Hollow | 2011-02-01 | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | 1 | 1 | Aussie Legends | 2019-11-22 | [🔗](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 1 | 1 | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
@@ -145,7 +146,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 1 | 0 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | 0 | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 0 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | 1 | 0 | A Night At The Opera | 1975-11-21 | [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) |
 
 </details>
@@ -166,7 +166,7 @@
 | 2 | 2 | [UNI](../../labels/uni/overview.md) |
 | 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
 | 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
-| 2 | 2 | Elektra |
+| 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 
 
 <details>
@@ -174,9 +174,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 2 | Elektra |
 | 2 | 2 | [143](../../labels/143/overview.md) |
 | 3 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
-| 2 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 1 | FRANK SINATRA DIGITAL REPRISE |
 | 1 | 1 | sensibility recordings |
 | 1 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
@@ -218,12 +218,12 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 17 | [pop](../../genres/pop/overview.md) |
-| 18 | 15 | [rock](../../genres/rock/overview.md) |
+| 18 | 16 | [rock](../../genres/rock/overview.md) |
 | 14 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
 | 13 | 12 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 10 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
+| 10 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
 | 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 8 | [piano rock](../../genres/piano_rock/overview.md) |
 | 7 | 7 | [lilith](../../genres/lilith/overview.md) |
@@ -237,18 +237,17 @@
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 6 | [heartland rock](../../genres/heartland_rock/overview.md) |
+| 6 | 5 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 5 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 5 | 5 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 5 | 5 | merseybeat |
 | 5 | 5 | [british invasion](../../genres/british_invasion/overview.md) |
 | 5 | 5 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 5 | 5 | [album rock](../../genres/album_rock/overview.md) |
-| 6 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 4 | [adult standards](../../genres/adult_standards/overview.md) |
 | 4 | 3 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 3 | [lounge](../../genres/lounge/overview.md) |
 | 3 | 3 | [soul](../../genres/soul/overview.md) |
-| 3 | 3 | pov: indie |
 | 3 | 3 | motown |
 | 3 | 3 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 3 | 3 | australian pop |
@@ -256,14 +255,15 @@
 | 4 | 2 | glam rock |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
+| 2 | 2 | pov: indie |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |
 | 2 | 2 | folk |
 | 2 | 2 | atl hip hop |
+| 2 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 1 | urban contemporary |
 | 2 | 1 | easy listening |
-| 2 | 1 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 1 | 1 | yacht rock |
 | 1 | 1 | uk dance |
 | 1 | 1 | uk alternative pop |
@@ -271,10 +271,15 @@
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
 | 1 | 1 | quiet storm |
+| 1 | 1 | punk |
 | 1 | 1 | progressive bluegrass |
+| 1 | 1 | post-grunge |
+| 1 | 1 | pop punk |
 | 1 | 1 | oxford indie |
 | 1 | 1 | new americana |
+| 1 | 1 | neon pop punk |
 | 1 | 1 | neo soul |
+| 1 | 1 | modern power pop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | memphis soul |
 | 1 | 1 | mandolin |
@@ -288,6 +293,7 @@
 | 1 | 1 | indie folk |
 | 1 | 1 | funktronica |
 | 1 | 1 | funk |
+| 1 | 1 | emo |
 | 1 | 1 | disco |
 | 1 | 1 | chamber pop |
 | 1 | 1 | boy band |
@@ -297,17 +303,11 @@
 | 1 | 1 | australian dance |
 | 1 | 1 | art rock |
 | 1 | 1 | alternative r&b |
+| 1 | 1 | alternative metal |
 | 1 | 1 | afrofuturism |
 | 2 | 0 | pop soul |
 | 2 | 0 | british soul |
-| 1 | 0 | punk |
-| 1 | 0 | post-grunge |
-| 1 | 0 | pop punk |
-| 1 | 0 | neon pop punk |
-| 1 | 0 | modern power pop |
 | 1 | 0 | irish rock |
-| 1 | 0 | emo |
-| 1 | 0 | alternative metal |
 
 </details>
 

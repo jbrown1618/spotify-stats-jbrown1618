@@ -4,10 +4,8 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| The Middle [🔗](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | 0 | 2001 | Jimmy Eat World [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | Bleed American (Deluxe Edition) [🔗](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 0 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Interscope | |
-| The Middle [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | 85 | 2001-07-17 | Jimmy Eat World [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | Bleed American [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 77 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F) | Interscope | |
-| Mr. Brightside [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | 88 | 2004 | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | Hot Fuss [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 82 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Island Records | |
-| Mr. Brightside [🔗](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | 6 | 2004-06-15 | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | Hot Fuss [🔗](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Island Records | |
+| Broken Melodies [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | 62 | 2023-07-17 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | ISTJ - The 3rd Album [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 71 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | SM Entertainment | 💚 |
+| Broken Melodies [🔗](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | 71 | 2023-06-19 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | Broken Melodies [🔗](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 61 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | |
 
 ## Duplicate albums
 
@@ -17,8 +15,6 @@
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 46 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| Hot Fuss [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | 82 | 2004 | Island Records | All These Things That I've Done [🔗](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr),<br>Mr. Brightside [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
-| Hot Fuss [🔗](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | The Killers [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | 3 | 2004-06-15 | Island Records | Mr. Brightside [🔗](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
 
 ## Tracks with low popularity
 
@@ -254,52 +250,48 @@
 | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
+| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 59 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
-| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 51 |
-| CHERRY | IT'z ICY | ITZY | 0 | 0 | 68 |
-| ICY | IT'z ICY | ITZY | 0 | 0 | 68 |
-| Kill Shot | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
-| CAKE | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
-| BET ON ME | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
-| None of My Business | KILL MY DOUBT | ITZY | 0 | 0 | 68 |
+| String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Major, Op. 76, No. 1: IV. Allegro ma non troppo | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Minor, Op. 20, No. 3: II. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Minor, Op. 20, No. 3: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Minor, Op. 20, No. 3: III. Poco Adagio | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in C Major, Op. 74, No. 1: I. Allegro Moderato | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in C Major, Op. 74, No. 1: IV. Finale, Vivace | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
+| CHERRY | IT'z ICY | ITZY | 0 | 0 | 70 |
+| ICY | IT'z ICY | ITZY | 0 | 0 | 70 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
 | React | React | The Pussycat Dolls | 1 | 0 | 67 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 74 |
@@ -358,7 +350,7 @@
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 37 |
 | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
@@ -405,9 +397,10 @@
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 2 | 0 | 64 |
 | BABY | Void | The Rose | 0 | 0 | 64 |
+| Sorry | Sorry | The Rose | 2 | 0 | 64 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
-| FACE | WOLF | WOOSUNG | 1 | 0 | 58 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 34 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
@@ -417,9 +410,8 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 2 | 0 | 47 |
-| Miku | Miku | Hatsune Miku | 2 | 0 | 60 |
-| Boat | Boat | george | 0 | 0 | 48 |
+| Miku | Miku | Anamanaguchi | 1 | 0 | 47 |
+| Miku | Miku | Hatsune Miku | 1 | 0 | 60 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
@@ -427,7 +419,6 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 62 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 70 |
-| The Middle | Bleed American (Deluxe Edition) | Jimmy Eat World | 0 | 0 | 66 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |

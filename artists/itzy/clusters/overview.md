@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | Sooo LUCKY | CRAZY IN LOVE | [ITZY](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS (English Ver.) | CHECKMATE | [ITZY](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](../../overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](../../overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
 ## Cluster #2
 
 13 tracks

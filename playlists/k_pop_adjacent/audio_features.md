@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (0.8) | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> | Sk8er Boi (0.487) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (0.799) | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | Off My Face (0.509) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (0.797) | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> | Tango (0.53) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737872ab70a67cc429d7072d35" alt="Boat" width="50" /> | Boat (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> | SILENCE (0.532) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> | SILENCE (0.532) |
 
 ## Energy
 
@@ -42,7 +42,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (0.308) | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー (0.0276) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.283) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (0.0297) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737872ab70a67cc429d7072d35" alt="Boat" width="50" /> | Boat (0.252) | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> | SILENCE (0.0314) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.252) | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> | SILENCE (0.0314) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> | Cravin (feat. G-Eazy) (0.246) | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (0.0315) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> | Tango (0.224) | <img src="https://i.scdn.co/image/ab67616d0000b273341a47b9de6f523f1969e9a2" alt="The Juice: Vol. II" width="50" /> | West Coast Love (0.0326) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level (0.147) | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | Off My Face (0.0332) |
@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria (0.00168) | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | I'm Out Of My Mind (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="American" width="50" /> | Call Me Mother (0.000828) | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.000374) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | Wet The Bed (feat. Ludacris) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (0.000321) | <img src="https://i.scdn.co/image/ab67616d0000b2737872ab70a67cc429d7072d35" alt="Boat" width="50" /> | Boat (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (0.000321) | <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.0) |
 
 ## Liveness
 
@@ -91,7 +91,7 @@
 
 | ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737872ab70a67cc429d7072d35" alt="Boat" width="50" /> | Boat (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="American" width="50" /> | Call Me Mother (0.0205) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="American" width="50" /> | Call Me Mother (0.0205) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="Head In The Clouds II" width="50" /> | I Love You 3000 II (0.412) | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (0.0322) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | I'm Out Of My Mind (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="Good Thing (with Kehlani)" width="50" /> | Good Thing (with Kehlani) (0.0409) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' (0.359) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria (0.0534) |
@@ -110,7 +110,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (0.941) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | I'll Show You (0.0789) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level (0.923) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | If I Ain't Got You (0.166) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737872ab70a67cc429d7072d35" alt="Boat" width="50" /> | Boat (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.172) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.172) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch (0.905) | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | Blue Whale - 2016 Version (0.207) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls (0.815) | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (0.288) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on (0.749) | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN (0.306) |

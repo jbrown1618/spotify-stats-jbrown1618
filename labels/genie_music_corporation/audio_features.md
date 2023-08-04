@@ -81,9 +81,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1" width="50" /> | Rain and You (7.31e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="FIRST IMPACT" width="50" /> | MVSK (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (2.67e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Stay With Me (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="YOUTH IN THE SHADE" width="50" /> | New Kidz on the Block (2.4e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="RED" width="50" /> | RED (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Thief (Feat. MINNIE of (G)I-DLE) (2.23e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="Worldwide" width="50" /> | MOMMAE (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="First Sight" width="50" /> | First Sight (1.88e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="HAPPEN" width="50" /> | HAPPEN (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Savior (feat. B.I) (1.53e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> | Love War (Feat. BE'O) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="First Sight" width="50" /> | First Sight (1.88e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="Worldwide" width="50" /> | MOMMAE (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Savior (feat. B.I) (1.53e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="HAPPEN" width="50" /> | HAPPEN (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="ˣ‿ˣ (SMiLEY)" width="50" /> | SMILEY(Feat. BIBI) (1.25e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c3cc49220a7dd0bda6e55bb9" alt="Love War" width="50" /> | Love War (Feat. BE'O) (0.0) |
 
 ## Liveness
 

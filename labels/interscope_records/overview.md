@@ -47,6 +47,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 3 | 1 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 2 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 1 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
@@ -63,7 +64,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 1 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb57332e3fc2b97bb33577e65" alt="" width="50" /> | 2 | 0 | The All-American Rejects | [🔗](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 2 | 0 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb33639aaeecfcc5ebada97476" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -94,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 42 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -106,6 +106,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 2 | 1 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | 2 | 1 | LALISA | 2021-09-10 | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 2 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | 1 | 1 | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | 1 | 1 | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | 1 | 1 | SOLO | 2018-11-12 | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
@@ -129,8 +130,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | 1 | 0 | Hands All Over | 2010 | [🔗](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | 1 | 0 | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="" width="50" /> | 1 | 0 | Enema Of The State | 1999-01-01 | [🔗](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5ec73a1aa766b71aaeeed5e" alt="" width="50" /> | 1 | 0 | Bleed American (Deluxe Edition) | 2001 | [🔗](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 0 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 
 </details>
 
@@ -147,8 +146,8 @@ Appears as:
 | 22 | 16 | [art pop](../../genres/art_pop/overview.md) |
 | 11 | 9 | [electropop](../../genres/electropop/overview.md) |
 | 12 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
-| 8 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
-| 6 | 3 | [rock](../../genres/rock/overview.md) |
+| 8 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
+| 6 | 4 | [rock](../../genres/rock/overview.md) |
 | 4 | 2 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | pop rap |
 
@@ -162,7 +161,16 @@ Appears as:
 | 2 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
 | 2 | 2 | hip hop |
 | 2 | 2 | conscious hip hop |
+| 5 | 1 | pop punk |
+| 5 | 1 | alternative metal |
+| 4 | 1 | post-grunge |
+| 4 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
+| 4 | 1 | neon pop punk |
+| 3 | 1 | punk |
 | 3 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 2 | 1 | modern power pop |
+| 2 | 1 | emo |
+| 2 | 1 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 1 | 1 | pop dance |
 | 1 | 1 | ohio hip hop |
 | 1 | 1 | indie r&b |
@@ -170,16 +178,7 @@ Appears as:
 | 1 | 1 | edm |
 | 1 | 1 | complextro |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 5 | 0 | pop punk |
-| 5 | 0 | alternative metal |
-| 4 | 0 | post-grunge |
-| 4 | 0 | [pop rock](../../genres/pop_rock/overview.md) |
-| 4 | 0 | neon pop punk |
-| 3 | 0 | punk |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 2 | 0 | modern power pop |
-| 2 | 0 | emo |
-| 2 | 0 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 1 | 0 | trap |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | socal pop punk |
@@ -246,8 +245,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | Anymore | XOXO | JEON SOMI | [THE BLACK LABEL/Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO | XOXO | JEON SOMI | [THE BLACK LABEL/Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5ec73a1aa766b71aaeeed5e" alt="" width="50" /> | The Middle | Bleed American (Deluxe Edition) | Jimmy Eat World | [Interscope](.) | | [🔗](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | The Middle | Bleed American | Jimmy Eat World | [Interscope](.) | | [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | Sweetness | Bleed American | Jimmy Eat World | [Interscope](.) | | [🔗](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | The Middle | Bleed American | Jimmy Eat World | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | [Justin Bieber](../../artists/justin_bieber/overview.md), benny blanco | Friends Keep Secrets, [Def Jam Recordings](../def_jam_recordings), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | Kendrick Lamar | [pgLang/Top Dawg Entertainment/Aftermath/Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | Kendrick Lamar | [pgLang/Top Dawg Entertainment/Aftermath/Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |

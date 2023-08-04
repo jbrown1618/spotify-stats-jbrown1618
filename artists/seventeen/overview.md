@@ -12,21 +12,20 @@
 SEVENTEEN is currently:
 - The #13 artist of all time
 - The #15 artist of the last 6 months
-- The #17 artist of the last month
+- The #13 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
 
 - Left & Right is:
-    - the #49 track of the last month
     - the #28 track of the last 6 months
     - the #9 track of all time
 - HOME;RUN is:
     - the #42 track of all time
-- Pretty U is:
-    - the #44 track of the last 6 months
 - Dust is:
-    - the #20 track of the last month
+    - the #22 track of the last month
+- Super is:
+    - the #38 track of the last month
 
 ### Top tracks of all time over time
 

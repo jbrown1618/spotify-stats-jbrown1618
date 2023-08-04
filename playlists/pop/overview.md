@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[391 tracks (280 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[392 tracks (281 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -37,11 +37,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 5 | 5 | [Janelle Monáe](../../artists/janelle_mon_e/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 4 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 4 | 4 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 4 | 4 | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 7 | 3 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 5 | 3 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
@@ -254,8 +254,8 @@
 | 30 | 22 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 29 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 17 | 15 | [Epic](../../labels/epic/overview.md) |
+| 22 | 14 | [Columbia](../../labels/columbia/overview.md) |
 | 22 | 13 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 21 | 13 | [Columbia](../../labels/columbia/overview.md) |
 | 19 | 13 | [Warner Records](../../labels/warner_records/overview.md) |
 | 14 | 12 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 13 | 11 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
@@ -366,10 +366,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 315 | 226 | [pop](../../genres/pop/overview.md) |
+| 316 | 227 | [pop](../../genres/pop/overview.md) |
 | 98 | 68 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
-| 31 | 18 | [uk pop](../../genres/uk_pop/overview.md) |
+| 32 | 19 | [uk pop](../../genres/uk_pop/overview.md) |
 | 22 | 17 | urban contemporary |
 | 17 | 13 | [electropop](../../genres/electropop/overview.md) |
 | 15 | 13 | neo soul |
@@ -386,18 +386,18 @@
 | 12 | 10 | atl hip hop |
 | 12 | 9 | [rap](../../genres/rap/overview.md) |
 | 9 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
+| 14 | 8 | pop soul |
 | 12 | 8 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 11 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
 | 10 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |
-| 13 | 7 | pop soul |
 | 12 | 7 | pov: indie |
+| 12 | 7 | british soul |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 9 | 7 | metropopolis |
 | 7 | 7 | alternative r&b |
-| 11 | 6 | british soul |
 | 8 | 6 | [rock](../../genres/rock/overview.md) |
 | 8 | 6 | boy band |
 | 7 | 6 | girl group |
@@ -489,7 +489,7 @@
 |:---|---:|
 | 2023 | 3 |
 | 2022 | 9 |
-| [2021](2021.md) | 24 |
+| [2021](2021.md) | 25 |
 | [2020](2020.md) | 50 |
 | [2019](2019.md) | 46 |
 | [2018](2018.md) | 25 |

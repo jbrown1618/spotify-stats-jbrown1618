@@ -13,8 +13,10 @@ NMIXX is currently:
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
+- Love Me Like This is:
+    - the #24 track of the last month
 - TANK is:
-    - the #27 track of the last month
+    - the #47 track of the last month
 
 ### Top tracks of the last month over time
 
