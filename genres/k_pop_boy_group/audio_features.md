@@ -82,7 +82,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> | Ring Ding Dong (0.000501) | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> | BOSS (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="Dark &amp; Wild" width="50" /> | Danger (0.000215) | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="Love Yourself 轉 &#x27;Tear&#x27;" width="50" /> | Airplane pt.2 (0.000103) | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | Gold Dust (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="BILLY POCO" width="50" /> | Billy Poco (9.38e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | BONA BONA (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="BILLY POCO" width="50" /> | Billy Poco (9.38e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | BONA BONA (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="HEAL" width="50" /> | Sour (8.35e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="DON&#x27;T FIGHT THE FEELING - Special Album" width="50" /> | Paradise (0.0) |
 
 ## Liveness

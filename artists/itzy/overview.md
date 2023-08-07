@@ -10,9 +10,9 @@
 
 ## Artist Rank
 ITZY is currently:
-- The #4 artist of all time
+- The #5 artist of all time
 - The #7 artist of the last 6 months
-- The #8 artist of the last month
+- The #7 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
@@ -21,9 +21,7 @@ ITZY is currently:
     - the #5 track of the last 6 months
     - the #32 track of all time
 - Cheshire is:
-    - the #13 track of the last 6 months
-- Not Shy is:
-    - the #32 track of the last month
+    - the #14 track of the last 6 months
 
 ### Top tracks of all time over time
 

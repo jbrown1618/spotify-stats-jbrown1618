@@ -190,8 +190,8 @@
 | 98 | 63 | [rock](../../genres/rock/overview.md) |
 | 95 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
 | 39 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
-| 45 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 47 | 25 | [album rock](../../genres/album_rock/overview.md) |
+| 43 | 25 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 33 | 23 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 31 | 22 | merseybeat |
 | 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |

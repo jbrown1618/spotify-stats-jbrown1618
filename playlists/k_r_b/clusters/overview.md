@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd4eb965fa72ec926c40830d" alt="" width="50" /> | Summer Is for Falling in Love | Summer Is for Falling in Love | Sarah Kang, EyeLoveBrandon | Sarah Kang | 💚 | [🔗](https://open.spotify.com/track/6yfGer1TKpxOjhSd5eL0DL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4534c642e6939abd0a1a867" alt="" width="50" /> | Run With Me | Serenade | Sunwoojunga | MAGIC STRAWBERRY SOUND | 💚 | [🔗](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 봄인가 봐 Spring Love | 봄인가 봐 Spring Love - SM STATION | [WENDY](../../../../artists/wendy/overview.md), Eric Nam | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye bye my blue | Bye bye my blue | Yerin Baek | [JYP Entertainment](../../../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | [JYP Entertainment](../../../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |
 ## Cluster #3
 
 39 tracks

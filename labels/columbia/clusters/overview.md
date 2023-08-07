@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Adore You | Fine Line | Harry Styles | [Columbia](../..) | | [🔗](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Green Light (feat. André 3000) | Evolver | John Legend, André 3000 | [G.O.O.D. Music/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/72by3Re4C3eVEBXvsUo0zV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | Flowers | Miley Cyrus | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1640945a8f075aff81f35d0" alt="" width="50" /> | G.O.A.T (RAP Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../../../artists/treasure/overview.md), Lee Young Hyun | [Columbia](../..), [YG Entertainment](../../../yg_entertainment) | | [🔗](https://open.spotify.com/track/6Tb0YsLZ3V6M0EiNobm7Fi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | G.O.A.T (RAP Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../../../artists/treasure/overview.md), Lee Young Hyun | [Columbia](../..), [YG Entertainment](../../../yg_entertainment) | | [🔗](https://open.spotify.com/track/6Tb0YsLZ3V6M0EiNobm7Fi) |
 ## Cluster #3
 
 22 tracks

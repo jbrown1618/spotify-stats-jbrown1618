@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../..) | | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../..) | 💚 | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | London Boy | Lover | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../..) | 💚 | [🔗](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) | Lover | [Taylor Swift](../../../../artists/taylor_swift/overview.md), Brendon Urie, Panic! At The Disco | [Taylor Swift](../..) | | [🔗](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | cardigan | folklore | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../..) | 💚 | [🔗](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) |

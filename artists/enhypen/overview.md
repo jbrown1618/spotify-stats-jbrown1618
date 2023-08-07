@@ -12,13 +12,12 @@
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #9 artist of the last 6 months
-- The #6 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #39 track of the last month
     - the #9 track of the last 6 months
     - the #34 track of all time
 - Just A Little Bit is:
@@ -28,7 +27,7 @@ ENHYPEN is currently:
 - FEVER is:
     - the #50 track of all time
 - Bills is:
-    - the #37 track of the last month
+    - the #32 track of the last month
 
 ### Top tracks of all time over time
 

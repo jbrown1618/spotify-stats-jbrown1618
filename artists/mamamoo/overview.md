@@ -12,7 +12,6 @@
 MAMAMOO is currently:
 - The #12 artist of all time
 - The #24 artist of the last 6 months
-- The #23 artist of the last month
 
 ![Rank of MAMAMOO over time](../../images/artists/mamamoo/rank_time_series.png)
 ## Top Tracks
@@ -21,7 +20,7 @@ MAMAMOO is currently:
     - the #45 track of the last 6 months
     - the #1 track of all time
 - Egotistic is:
-    - the #27 track of all time
+    - the #28 track of all time
 
 ### Top tracks of all time over time
 

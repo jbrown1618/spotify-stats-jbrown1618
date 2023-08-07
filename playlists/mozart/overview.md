@@ -53,12 +53,12 @@
 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7084c7092e60fb2de9fb5f7" alt="" width="50" /> | 2 | 0 | Walter Hagen-Groll | [🔗](https://open.spotify.com/artist/5iMb1u0pxxzSPONrB4j0Zb) |
 | <img src="https://i.scdn.co/image/2dbbc246942e3d8d71b85250e31ed71fc99b1019" alt="" width="50" /> | 2 | 0 | Francisco Araiza | [🔗](https://open.spotify.com/artist/5M0cOgeTBOetAbsM4FDVDP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d121906e94f94dab18093225" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c9c75b24d53ba6a1df95ff3" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 2 | 0 | Karin Ott | [🔗](https://open.spotify.com/artist/2sZHeIbU96txBewcnCJLj7) |
 | <img src="https://i.scdn.co/image/654c25787e52d081ca7cf5fb1a6113bd07e9ae04" alt="" width="50" /> | 2 | 0 | Edith Mathis | [🔗](https://open.spotify.com/artist/0eOythKkGSageuVFr6nDHf) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b37c277993e3dfdd14e8445a" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Wolfgang Bünten | [🔗](https://open.spotify.com/artist/6qZFjcGH1SfhbkrNfnzH7z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d3c38e91de0d01072094572" alt="" width="50" /> | 1 | 0 | Heinz Kruse | [🔗](https://open.spotify.com/artist/44kp24Y9MhmQ4RT64CUaV2) |

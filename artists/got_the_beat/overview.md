@@ -13,7 +13,7 @@ GOT the beat is currently:
 ## Top Tracks
 
 - Stamp On It is:
-    - the #1 track of the last month
+    - the #4 track of the last month
     - the #1 track of the last 6 months
 - Outlaw is:
     - the #49 track of the last 6 months

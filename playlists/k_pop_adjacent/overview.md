@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[46 tracks (32 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
+[47 tracks (32 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 62 artists</summary>
+<summary>See all 63 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -65,6 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f" alt="" width="50" /> | 1 | 0 | Brendon Urie | [🔗](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 0 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a8a07d66bf478fcdbb3dd2d" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -107,7 +108,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -144,6 +145,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 1 | 0 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | 1 | 0 | Let Go | 2002-06-04 | [🔗](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="" width="50" /> | 1 | 0 | Fast & Furious Presents: Hobbs & Shaw (Original Motion Picture Soundtrack) | 2019-07-26 | [🔗](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a13ac79ec7e3ac62bd4ca4e8" alt="" width="50" /> | 1 | 0 | Dua Lipa | 2017-06-02 | [🔗](https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | 1 | 0 | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | 1 | 0 | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="" width="50" /> | 1 | 0 | American | 2017-03-24 | [🔗](https://open.spotify.com/album/3WX0a9UW0ss5IOp9hSP4F2) |
@@ -158,8 +160,8 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 3 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 3 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 2 | [Columbia](../../labels/columbia/overview.md) |
-| 2 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
 | 2 | 2 | [Syco Music](../../labels/syco_music/overview.md) |
 | 2 | 2 | Parlophone Denmark |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -218,8 +220,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 17 | 11 | [pop](../../genres/pop/overview.md) |
-| 3 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 18 | 11 | [pop](../../genres/pop/overview.md) |
+| 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean indie rock |
@@ -227,7 +229,7 @@
 | 2 | 2 | danish pop |
 | 3 | 1 | [rap](../../genres/rap/overview.md) |
 | 3 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 2 | 1 | pop rap |
+| 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 
 
 <details>
@@ -235,11 +237,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 1 | pop rap |
 | 2 | 1 | pop dance |
 | 2 | 1 | indie r&b |
 | 2 | 1 | edm |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
-| 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | trot |
 | 1 | 1 | talent show |
 | 1 | 1 | social media pop |

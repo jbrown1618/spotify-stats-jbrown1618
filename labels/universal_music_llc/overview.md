@@ -1,6 +1,6 @@
 # Universal Music LLC
 
-67 songs
+68 songs
 
 [See Track Features](audio_features.md)
 
@@ -9,7 +9,7 @@
 Appears as:
 - Universal Music LLC (41 tracks)
 - Universal Records (19 tracks)
-- Universal Music Ltd. (5 tracks)
+- Universal Music Ltd. (6 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 
@@ -22,9 +22,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 5 | 5 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | 4 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 4 | 3 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | 4 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce98956e2ea2db4cc017c86d" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 3 | 2 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba3c1fca063ed673aed61c885" alt="" width="50" /> | 3 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 2 | 2 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24690a5cfac78c3ab19c1746" alt="" width="50" /> | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 
@@ -78,7 +78,7 @@ Appears as:
 
 
 <details>
-<summary>See all 41 albums</summary>
+<summary>See all 42 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -101,6 +101,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | 1 | 1 | Cherry On Top | 2021-08-10 | [🔗](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | 1 | 1 | Always | 2022-02-21 | [🔗](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 1 | 1 | 130 Mood : TRBL | 2016-03-25 | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a055a4091ed9d5cc54e7376" alt="" width="50" /> | 1 | 0 | 품 | 2021-03-22 | [🔗](https://open.spotify.com/album/6EmW3bgRZ3HDBlDekp0azZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | 1 | 0 | さよならひとり | 2016-07-27 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | 1 | 0 | i'M THE TREND | 2020-07-07 | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
@@ -129,8 +130,8 @@ Appears as:
 | 8 | 5 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 3 | j-pop |
 | 4 | 3 | deep indie singer-songwriter |
+| 4 | 2 | k-indie |
 | 3 | 2 | korean city pop |
-| 3 | 2 | k-indie |
 | 3 | 2 | japanese teen pop |
 | 3 | 2 | [anime](../../genres/anime/overview.md) |
 
@@ -228,6 +229,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | Seth MacFarlane, [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Fuzzy Door Productions/Universal](.) | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり | さよならひとり | TAEMIN | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS | LEVIOSA | TRI.BE | [Universal Music Ltd.](.) | | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a055a4091ed9d5cc54e7376" alt="" width="50" /> | 품 | 품 | YOUHA | [Universal Music Ltd.](.) | | [🔗](https://open.spotify.com/track/7nWbh316VrzihN6Rra5Feh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | Cherry On Top | Cherry On Top | YOUHA | [Universal Music Ltd.](.) | 💚 | [🔗](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | Last Dance | love you more, | YOUHA | [Universal Music Ltd.](.) | | [🔗](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | NUMB | love you more, | YOUHA | [Universal Music Ltd.](.) | 💚 | [🔗](https://open.spotify.com/track/1yyyzZSKxNskVQqTCCE0pz) |

@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | The Road | Like Water - The 1st Mini Album | [WENDY](../../../../artists/wendy/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](../../../../artists/wendy/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | Miracle | Miracle - SM STATION | [WENDY](../../../../artists/wendy/overview.md), MeloMance | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye bye my blue | Bye bye my blue | Yerin Baek | [JYP Entertainment](../../../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | [JYP Entertainment](../../../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) |
 ## Cluster #3
 
 6 tracks

@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e521a22d045d61b7c4f5898f" alt="" width="50" /> | 2 | 0 | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c88531f06fd93f8e965dd97" alt="" width="50" /> | 2 | 0 | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d121906e94f94dab18093225" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c9c75b24d53ba6a1df95ff3" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
 
 
@@ -31,7 +31,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b37c277993e3dfdd14e8445a" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | 1 | 0 | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ed044b8b433c47ae4f6160a" alt="" width="50" /> | 1 | 0 | Joe Reisman's Orchestra and Chorus | [🔗](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) |

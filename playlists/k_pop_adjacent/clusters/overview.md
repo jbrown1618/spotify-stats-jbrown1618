@@ -4,7 +4,39 @@
 
 ## Cluster #1
 
-14 tracks
+12 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Sk8er Boi | Let Go | Avril Lavigne | Arista | | [🔗](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Chris Brown, Ludacris | [Jive](../../../../labels/jive) | 💚 | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a13ac79ec7e3ac62bd4ca4e8" alt="" width="50" /> | Hotter Than Hell | Dua Lipa | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/7G8bmgKbwPQdwsGXC9QWcL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](../../../../labels/epic) | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | VILLAIN | ALL OUT | K/DA, Madison Beer, Kim Petras, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute | Salute (Expanded Edition) | Little Mix | [Syco Music](../../../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | Blue Whale - 2016 Version | REMIND | YB | 디컴퍼니 | 💚 | [🔗](https://open.spotify.com/track/1WFj1P1TUJJXH1R41PP9Vg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | SILENCE | Taxidriver OST Part.1 | YB | SBS Contents Hub Co., Ltd., Music Recipe | 💚 | [🔗](https://open.spotify.com/track/2T9O6E83LKAWNAs4FD4TqD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+## Cluster #2
+
+13 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | River | Church Of Scars | Bishop Briggs | [Teleport Records / Island Records](../../../../labels/island_records) | 💚 | [🔗](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | Mr. Rover | Mr. Rover | DARA | Virginia Records | 💚 | [🔗](https://open.spotify.com/track/2fV8wXxMmdeulUgAarbWJU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | At My Worst | The Prelude | Pink Sweat$ | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | Motley Crew | Post Malone | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK) | LUCID | QUIN, 6LACK | [Fantasy Soul/Interscope Records](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | MALAMENTE - Cap.1: Augurio | El Mal Querer | ROSALÍA | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="" width="50" /> | Call Me Mother | American | RuPaul | RuCo, Inc | | [🔗](https://open.spotify.com/track/5LCKQ7PXZRIKnBbABb7ed0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | Written In The Stars | Written In The Stars | [WENDY](../../../../artists/wendy/overview.md), John Legend | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SLMyJPRTh2zCX9SJJHTZQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |
+## Cluster #3
+
+16 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -18,35 +50,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | Flowers | Miley Cyrus | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | ME! (feat. Brendon Urie of Panic! At The Disco) | Lover | [Taylor Swift](../../../../artists/taylor_swift/overview.md), Brendon Urie, Panic! At The Disco | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) |
-## Cluster #2
-
-12 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Sk8er Boi | Let Go | Avril Lavigne | Arista | | [🔗](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Chris Brown, Ludacris | [Jive](../../../../labels/jive) | 💚 | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](../../../../labels/epic) | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | I'll Show You | Purpose (Deluxe) | [Justin Bieber](../../../../artists/justin_bieber/overview.md) | RBMG/Def Jam | | [🔗](https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | VILLAIN | ALL OUT | K/DA, Madison Beer, Kim Petras, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute | Salute (Expanded Edition) | Little Mix | [Syco Music](../../../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | Blue Whale - 2016 Version | REMIND | YB | 디컴퍼니 | 💚 | [🔗](https://open.spotify.com/track/1WFj1P1TUJJXH1R41PP9Vg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | SILENCE | Taxidriver OST Part.1 | YB | SBS Contents Hub Co., Ltd., Music Recipe | 💚 | [🔗](https://open.spotify.com/track/2T9O6E83LKAWNAs4FD4TqD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
-## Cluster #3
-
-14 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | River | Church Of Scars | Bishop Briggs | [Teleport Records / Island Records](../../../../labels/island_records) | 💚 | [🔗](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | Mr. Rover | Mr. Rover | DARA | Virginia Records | 💚 | [🔗](https://open.spotify.com/track/2fV8wXxMmdeulUgAarbWJU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | At My Worst | The Prelude | Pink Sweat$ | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK) | LUCID | QUIN, 6LACK | [Fantasy Soul/Interscope Records](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | MALAMENTE - Cap.1: Augurio | El Mal Querer | ROSALÍA | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="" width="50" /> | Call Me Mother | American | RuPaul | RuCo, Inc | | [🔗](https://open.spotify.com/track/5LCKQ7PXZRIKnBbABb7ed0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="" width="50" /> | Ashes | Ashes | Stellar | Arista Records | 💚 | [🔗](https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | Written In The Stars | Written In The Stars | [WENDY](../../../../artists/wendy/overview.md), John Legend | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SLMyJPRTh2zCX9SJJHTZQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |

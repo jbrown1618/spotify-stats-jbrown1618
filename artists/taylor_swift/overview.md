@@ -12,14 +12,14 @@
 Taylor Swift is currently:
 - The #17 artist of all time
 - The #20 artist of the last 6 months
-- The #22 artist of the last month
+- The #16 artist of the last month
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 60 | [Singer-Songwriter](../../playlists/singer_songwriter/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 52 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 61 | [Singer-Songwriter](../../playlists/singer_songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 51 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 8 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
@@ -34,9 +34,9 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 10 | 5 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 9 | 5 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 9 | 6 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 4 | 2 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 6 | 3 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 3 | 2 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
@@ -49,8 +49,7 @@ Taylor Swift is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | 1 | 1 | Speak Now (Taylor's Version) | 2023-07-07 | [🔗](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | 1 | 1 | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | 1 | 0 | Taylor Swift | 2006-10-24 | [🔗](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | 1 | 0 | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | 1 | 0 | I Don’t Wanna Live Forever (Fifty Shades Darker) | 2016-12-09 | [🔗](https://open.spotify.com/album/5MxXY7DbFMUiHFTPUabgJJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | 1 | 0 | Fearless (Taylor's Version) | 2021-04-09 | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
 
@@ -61,8 +60,8 @@ Taylor Swift is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 34 | 19 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 31 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
+| 34 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
+| 32 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 1 | 0 | Universal Music Group |
 
 ## Genres
@@ -73,7 +72,6 @@ Taylor Swift is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c" alt="" width="50" /> | Our Song | Taylor Swift | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |
@@ -81,8 +79,9 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Back To December | Speak Now | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Mean | Speak Now | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 22 | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/2ULNeSomDxVNmdDy8VxEBU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | All Too Well | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | I Knew You Were Trouble. | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) |
 
 
 <details>
@@ -90,9 +89,10 @@ Taylor Swift is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | I Knew You Were Trouble. | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/0cITLOYn1Sv4q27zZPqlNK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | We Are Never Ever Getting Back Together | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | All Too Well | Red (Deluxe Edition) | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | All Too Well | Red (Deluxe Edition) | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Blank Space | 1989 | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Clean | 1989 | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | I Know Places | 1989 | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc) |
@@ -112,7 +112,7 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Look What You Made Me Do | reputation | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | This Is Why We Can't Have Nice Things | reputation | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cornelia Street | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | False God | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | I Think He Knows | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd) |

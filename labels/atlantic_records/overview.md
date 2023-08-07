@@ -1,13 +1,13 @@
 # Atlantic Records
 
-49 songs
+50 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Atlantic Records (34 tracks)
+- Atlantic Records (35 tracks)
 - Aftermath Entertainment/Atlantic (6 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
@@ -33,7 +33,7 @@ Appears as:
 
 
 <details>
-<summary>See all 46 artists</summary>
+<summary>See all 47 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -49,6 +49,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb98adedfa655d05e41e943a06" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 1 | 1 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
@@ -96,7 +97,7 @@ Appears as:
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -105,6 +106,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | 1 | 1 | New Eyes | 2014-06-02 | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | 1 | 1 | Low Key (feat. Tyga) | 2019-01-31 | [🔗](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | 1 | 1 | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | 1 | 1 | Dance The Night (From Barbie The Album) | 2023-05-25 | [🔗](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | 1 | 1 | Cuz I Love You (Deluxe) | 2019-05-03 | [🔗](https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 1 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | 1 | 1 | CHARLIE | 2022-10-06 | [🔗](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) |
@@ -123,22 +125,22 @@ Appears as:
 </details>
 
 
-![Bar chart of top 29 albums](../../images/labels/atlantic_records/albums.png)
+![Bar chart of top 30 albums](../../images/labels/atlantic_records/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 26 | 20 | [pop](../../genres/pop/overview.md) |
-| 17 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
+| 27 | 21 | [pop](../../genres/pop/overview.md) |
+| 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 8 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 4 | 2 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | washington indie |
 | 2 | 2 | vocal jazz |
+| 2 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 2 | trap queen |
-| 2 | 2 | seattle indie |
 
 
 <details>
@@ -146,6 +148,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 2 | seattle indie |
 | 2 | 2 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 2 | minnesota hip hop |
 | 2 | 2 | indietronica |
@@ -156,7 +159,6 @@ Appears as:
 | 2 | 2 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 2 | 1 | [a cappella](../../genres/a_cappella/overview.md) |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
-| 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | uk funky |
 | 1 | 1 | uk dance |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
@@ -230,6 +232,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | I Will Follow You into the Dark | Plans | Death Cab for Cutie | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | What Sarah Said | Plans | Death Cab for Cutie | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/2JFrlsJBH4IDt3Suot97dP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | Boss Bitch | [Doja Cat](../../artists/doja_cat/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | Dance The Night (From Barbie The Album) | Dance The Night (From Barbie The Album) | [Dua Lipa](../../artists/dua_lipa/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Say No to This | Hamilton (Original Broadway Cast Recording) | Jasmine Cephas-Jones, Leslie Odom Jr., Lin-Manuel Miranda, Sydney James Harcourt, Original Broadway Cast of Hamilton | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3s9itRgJYcKhem01P17865) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | I'm Yours | We Sing. We Dance. We Steal Things. | Jason Mraz | [Atlantic Records/ATG](.) | 💚 | [🔗](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |

@@ -8,15 +8,13 @@
 NMIXX is currently:
 - The #42 artist of all time
 - The #21 artist of the last 6 months
-- The #14 artist of the last month
+- The #21 artist of the last month
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - Love Me Like This is:
-    - the #24 track of the last month
-- TANK is:
-    - the #47 track of the last month
+    - the #19 track of the last month
 
 ### Top tracks of the last month over time
 

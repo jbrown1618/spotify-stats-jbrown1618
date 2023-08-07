@@ -12,24 +12,24 @@
 (G)I-DLE is currently:
 - The #7 artist of all time
 - The #6 artist of the last 6 months
-- The #2 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
-    - the #23 track of all time
+    - the #24 track of all time
 - Uh-Oh is:
     - the #30 track of all time
 - Nxde is:
     - the #35 track of the last 6 months
 - TOMBOY is:
-    - the #10 track of the last month
+    - the #23 track of the last month
     - the #43 track of the last 6 months
 - Put It Straight is:
-    - the #13 track of the last month
+    - the #8 track of the last month
 - HANN (Alone in winter) is:
-    - the #14 track of the last month
+    - the #9 track of the last month
 
 ### Top tracks of all time over time
 

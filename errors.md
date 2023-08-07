@@ -4,17 +4,29 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Broken Melodies [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | 62 | 2023-07-17 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | ISTJ - The 3rd Album [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 71 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | SM Entertainment | 💚 |
-| Broken Melodies [🔗](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | 71 | 2023-06-19 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | Broken Melodies [🔗](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 61 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | |
+| Hotter Than Hell [🔗](https://open.spotify.com/track/3R91ySVDSOjcxpW5PZF394) | 47 | 2018-10-19 | Dua Lipa [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | Dua Lipa (Complete Edition) [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 68 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Warner Records | |
+| Hotter Than Hell [🔗](https://open.spotify.com/track/7G8bmgKbwPQdwsGXC9QWcL) | 31 | 2017-06-02 | Dua Lipa [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | Dua Lipa [🔗](https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP) | 45 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Warner Records | |
+| Save Me [🔗](https://open.spotify.com/track/0oORB7hTUbQSKyLiKqWMu9) | 45 | 2023-08-03 | MAMAMOO+ [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | TWO RABBITS [🔗](https://open.spotify.com/album/0Ar5kViCsKWRjnRKy7V4Ck) | 48 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | RBW Inc. | |
+| Save Me [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | 58 | 2023-07-18 | MAMAMOO+ [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | Save Me [🔗](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 47 | Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | RBW Inc. | 💚 |
+| Gimme Sympathy [🔗](https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV) | 0 | 2009-04-14 | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | Fantasies [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 0 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Metric Music International | 💚 |
+| Gimme Sympathy [🔗](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | 55 | 2009-05-02 | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | Fantasies [🔗](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 60 | | MMI / Crystal Math Music | |
+| Broken Melodies [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | 62 | 2023-07-17 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | ISTJ - The 3rd Album [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 70 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | SM Entertainment | 💚 |
+| Broken Melodies [🔗](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | 70 | 2023-06-19 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | Broken Melodies [🔗](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 60 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | |
+| All Too Well [🔗](https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR) | 51 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 65 | Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Big Machine Records, LLC | 💚 |
+| All Too Well [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) | 63 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red (Deluxe Edition) [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 64 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Big Machine Records, LLC | |
+| Tell Me [🔗](https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl) | 67 | 2007-09-12 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | The Wonder Years [🔗](https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD) | 57 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
+| Tell Me [🔗](https://open.spotify.com/track/62x5q8OrmPpmlA8PpjrQt3) | 66 | 2010-05-15 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 2 Different Tears [🔗](https://open.spotify.com/album/1TqEUbduSOGhGWo0cP4qYM) | 57 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 52 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 46 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 51 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 55 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 40 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| Fantasies [🔗](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | 60 | 2009-05-02 | MMI / Crystal Math Music | Gimme Sympathy [🔗](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | |
+| Fantasies [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | 0 | 2009-04-14 | Metric Music International | Gimme Sympathy [🔗](https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
 
 ## Tracks with low popularity
 
@@ -35,16 +47,15 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 28 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 28 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
-| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
-| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 88 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 0 | 88 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 88 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 88 |
-| Butter | Butter | BTS | 2 | 0 | 88 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 88 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 88 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
+| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 87 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 87 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 0 | 87 |
+| War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
+| Danger | Dark & Wild | BTS | 0 | 0 | 87 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 87 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
@@ -105,85 +116,85 @@
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 0 | 59 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 68 |
-| Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 62 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 52 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 61 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 53 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
@@ -275,7 +286,7 @@
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
-| PLAY | PLAY | CHUNG HA | 0 | 0 | 59 |
+| PLAY | PLAY | CHUNG HA | 0 | 0 | 58 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
@@ -298,11 +309,11 @@
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
-| Carey | Blue | Joni Mitchell | 0 | 1 | 52 |
-| Blue | Blue | Joni Mitchell | 0 | 1 | 52 |
-| A Case of You | Blue | Joni Mitchell | 1 | 1 | 52 |
+| Carey | Blue | Joni Mitchell | 0 | 0 | 52 |
+| Blue | Blue | Joni Mitchell | 0 | 0 | 52 |
+| A Case of You | Blue | Joni Mitchell | 1 | 0 | 52 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 0 | 0 | 52 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 52 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -348,14 +359,14 @@
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 37 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 37 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 37 |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 80 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
@@ -367,14 +378,13 @@
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 51 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 51 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 51 |
-| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
-| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
+| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
+| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 80 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
@@ -398,7 +408,7 @@
 | RED | RED | The Rose | 2 | 0 | 64 |
 | BABY | Void | The Rose | 0 | 0 | 64 |
 | Sorry | Sorry | The Rose | 2 | 0 | 64 |
-| I will show you | Invitation | AILEE | 0 | 0 | 56 |
+| I will show you | Invitation | AILEE | 1 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
@@ -410,15 +420,15 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 1 | 0 | 47 |
-| Miku | Miku | Hatsune Miku | 1 | 0 | 60 |
+| Miku | Miku | Anamanaguchi | 2 | 0 | 47 |
+| Miku | Miku | Hatsune Miku | 2 | 0 | 60 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 62 |
-| Djadja | Djadja | Aya Nakamura | 0 | 0 | 70 |
+| Djadja | Djadja | Aya Nakamura | 0 | 0 | 69 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
