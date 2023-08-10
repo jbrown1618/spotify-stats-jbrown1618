@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Summer" width="100" />
 
-[212 tracks (205 liked) 🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON)
+[212 tracks (204 liked) 🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON)
 
 [See Track Features](audio_features.md)
 
@@ -39,10 +39,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 3 | 3 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 3 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 3 | 3 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 3 | 3 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 3 | 3 | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 3 | 2 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 3 | 2 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 3 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 2 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 2 | 2 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
@@ -326,15 +326,15 @@
 | 1 | 1 | Elektra (NEK) |
 | 1 | 1 | Elektra |
 | 1 | 1 | EDAM Entertainment |
-| 1 | 1 | Daft Life Ltd. |
 | 1 | 1 | DUBLEKICK COMPANY |
 | 1 | 1 | Cre.ker Entertainment |
 | 1 | 1 | CJ E&M MUSIC |
 | 1 | 1 | Big Beat Records |
 | 1 | 1 | [ADOR](../../labels/ador/overview.md) |
-| 1 | 1 | ADA France |
 | 1 | 1 | A&M |
 | 1 | 0 | WM Taiwan |
+| 1 | 0 | Daft Life Ltd. |
+| 1 | 0 | ADA France |
 
 </details>
 
@@ -350,7 +350,7 @@
 | 56 | 54 | [pop](../../genres/pop/overview.md) |
 | 32 | 31 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 20 | 20 | [dance pop](../../genres/dance_pop/overview.md) |
-| 15 | 15 | [rock](../../genres/rock/overview.md) |
+| 15 | 14 | [rock](../../genres/rock/overview.md) |
 | 11 | 11 | [classic rock](../../genres/classic_rock/overview.md) |
 | 9 | 9 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 9 | 9 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
@@ -378,8 +378,8 @@
 | 3 | 3 | [piano rock](../../genres/piano_rock/overview.md) |
 | 3 | 3 | motown |
 | 3 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
-| 3 | 3 | filter house |
-| 3 | 3 | electro |
+| 3 | 2 | filter house |
+| 3 | 2 | electro |
 | 2 | 2 | uk alternative pop |
 | 2 | 2 | queens hip hop |
 | 2 | 2 | hip pop |

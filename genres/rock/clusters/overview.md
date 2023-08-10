@@ -4,12 +4,11 @@
 
 ## Cluster #1
 
-30 tracks
+29 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | Sweetness | Bleed American | Jimmy Eat World | [Interscope](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | Don't Stop Believin' | Escape (Bonus Track Version) | Journey | [Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Immigrant Song - Remaster | Led Zeppelin III (Remaster) | Led Zeppelin | [Atlantic Records](../../../../labels/atlantic_records) | | [🔗](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Don't Stop Me Now | Jazz | [Queen](../../../../artists/queen/overview.md) | [Hollywood Records](../../../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) |
@@ -18,6 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | Revolution 1 - Remastered 2009 | The Beatles (Remastered) | [The Beatles](../../../../artists/the_beatles/overview.md) | [EMI Catalogue](../../../../labels/emi_catalogue) | 💚 | [🔗](https://open.spotify.com/track/1aOzDhi5a1RWWRy5dmYA8I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="" width="50" /> | Paint It, Black | Aftermath | The Rolling Stones | ABKCO Music and Records, Inc. | 💚 | [🔗](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="" width="50" /> | All The Small Things | Enema Of The State | blink-182 | [Interscope](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) |
 ## Cluster #2
 
 83 tracks

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b2739b9b36b0e22870b9f542d937ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
-[12 tracks (9 liked) 🔗](https://open.spotify.com/playlist/3cWXIQgqhOUB6slIr3oglt)
+[12 tracks (8 liked) 🔗](https://open.spotify.com/playlist/3cWXIQgqhOUB6slIr3oglt)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 7 | 6 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 7 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="" width="50" /> | 4 | 3 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
@@ -29,7 +29,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | 3 | 3 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 1 | 1 | Shatter Me | 2014-04-29 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
@@ -44,8 +44,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 4 | 4 | Daft Life Ltd. |
-| 4 | 4 | ADA France |
+| 4 | 3 | Daft Life Ltd. |
+| 4 | 3 | ADA France |
 | 3 | 3 | Lindseystomp Records |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 0 | Universal Republic Records |
@@ -58,9 +58,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 6 | 6 | [rock](../../genres/rock/overview.md) |
-| 6 | 6 | filter house |
-| 6 | 6 | electro |
+| 6 | 5 | [rock](../../genres/rock/overview.md) |
+| 6 | 5 | filter house |
+| 6 | 5 | electro |
 | 4 | 3 | pop violin |
 | 4 | 3 | bow pop |
 | 1 | 0 | [pop](../../genres/pop/overview.md) |

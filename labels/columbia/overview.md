@@ -7,11 +7,11 @@
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia (61 tracks)
+- Columbia (62 tracks)
 - Columbia/Legacy (9 tracks)
 - Parkwood Entertainment/Columbia (8 tracks)
 - Music World Music/Columbia (5 tracks)
-- YG Entertainment/Columbia Records (4 tracks)
+- YG Entertainment/Columbia Records (3 tracks)
 - G.O.O.D. Music/Columbia (2 tracks)
 - Open Wide/Monument/Columbia (2 tracks)
 - Columbia/B1 Recordings (1 tracks)
@@ -30,14 +30,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 4 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 4 | 2 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 3 | 2 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 3 | 2 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 2 | 2 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 
 
 <details>
-<summary>See all 51 artists</summary>
+<summary>See all 53 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -72,14 +72,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb011dde6bbcb133aea587ad5a" alt="" width="50" /> | 1 | 0 | Jawsh 685 | [🔗](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a8a07d66bf478fcdbb3dd2d" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273438564923ac3eb99efb860f3" alt="" width="50" /> | 1 | 0 | Lee Young Hyun | [🔗](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9e7e37aff77edd18db4584ff" alt="" width="50" /> | 1 | 0 | Will Smith | [🔗](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bd2ada8cc664dde48c07145" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 1 | 0 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb901e8acc96d05a8952ce17c7" alt="" width="50" /> | 1 | 0 | Kool Moe Dee | [🔗](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75559132f961dcf3ba4f5c7a" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
+| <img src="https://i.scdn.co/image/20ec81c529aabd81f6e29600423e9e7ce89b6c01" alt="" width="50" /> | 1 | 0 | Dru Hill | [🔗](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 1 | 0 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 
@@ -95,9 +97,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 7 | 6 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4 | 3 | 4 | 2011-06-24 | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | 4 | 2 | I AM...SASHA FIERCE | 2008-11-14 | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 4 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | 3 | 2 | Fine Line | 2019-12-13 | [🔗](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 3 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
@@ -105,7 +107,7 @@ Appears as:
 
 
 <details>
-<summary>See all 66 albums</summary>
+<summary>See all 67 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -140,6 +142,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | 1 | 1 | Blowin' Your Mind! | 1967-09 | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | 1 | 1 | Back In Black | 1980-07-25 | [🔗](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | 1 | 1 | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b0d0b56b568a7605dcebdd0" alt="" width="50" /> | 1 | 0 | Willennium | 1999-11-16 | [🔗](https://open.spotify.com/album/38ZO2nTo4L4PNtubKwtiAk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | 1 | 0 | Turn Down for What | 2013-12-18 | [🔗](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | 1 | 0 | Toys In The Attic | 1975-04-08 | [🔗](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
@@ -188,7 +191,7 @@ Appears as:
 
 
 <details>
-<summary>See all 70 genres</summary>
+<summary>See all 72 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -203,8 +206,8 @@ Appears as:
 | 3 | 3 | contemporary country |
 | 6 | 2 | urban contemporary |
 | 4 | 2 | neo soul |
-| 4 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
+| 3 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | british soul |
 | 2 | 2 | pov: indie |
 | 2 | 2 | irish singer-songwriter |
@@ -236,6 +239,7 @@ Appears as:
 | 1 | 0 | uk dance |
 | 1 | 0 | traditional country |
 | 1 | 0 | progressive house |
+| 1 | 0 | pop rap |
 | 1 | 0 | pop dance |
 | 1 | 0 | outlaw country |
 | 1 | 0 | nz pop |
@@ -244,6 +248,7 @@ Appears as:
 | 1 | 0 | [lilith](../../genres/lilith/overview.md) |
 | 1 | 0 | indie folk |
 | 1 | 0 | house |
+| 1 | 0 | hip hop |
 | 1 | 0 | girl group |
 | 1 | 0 | electronic trap |
 | 1 | 0 | electro house |
@@ -353,7 +358,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Cecilia | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Bridge Over Troubled Water | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | BONA BONA | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | G.O.A.T (RAP Unit) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md), Lee Young Hyun | [Columbia](.), [YG Entertainment](../yg_entertainment) | | [🔗](https://open.spotify.com/track/6Tb0YsLZ3V6M0EiNobm7Fi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | MOVE (T5) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6ce3rQ3j3vfRics2YiHWbW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | STUPID | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](.), [YG Entertainment](../yg_entertainment) | | [🔗](https://open.spotify.com/track/5bmDeCYksJWvW95E2rSH2G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer | Closer | The Chainsmokers, Halsey | [Disruptor Records/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) |
@@ -365,6 +369,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | Unsquare Dance | Time Further Out | The Dave Brubeck Quartet | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/2VUo8O3ymKRYNgj97ZG2kM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | Sweater Weather | I Love You. | The Neighbourhood | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Brown Eyed Girl | Blowin' Your Mind! | Van Morrison | [Columbia](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b0d0b56b568a7605dcebdd0" alt="" width="50" /> | Wild Wild West (feat. Dru Hill & Kool Mo Dee) - Album Version With Intro | Willennium | Will Smith, Dru Hill, Kool Moe Dee | [Columbia](.) | | [🔗](https://open.spotify.com/track/5AMvBCtX2rspUdoeJ9IsPN) |
 
 </details>
 

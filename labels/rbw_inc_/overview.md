@@ -1,13 +1,13 @@
 # RBW Inc.
 
-41 songs
+36 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- RBW Inc. (28 tracks)
+- RBW Inc. (23 tracks)
 - RBW, Inc (9 tracks)
 - RBW, Inc. (3 tracks)
 - RBW, INC. (1 tracks)
@@ -18,8 +18,8 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 12 | 10 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="" width="50" /> | 5 | 4 | [Hwa Sa](../../artists/hwa_sa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | 8 | 3 | MAMAMOO+ | [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83962d7c7c639d9d5c38a0e1" alt="" width="50" /> | 5 | 3 | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb82a05fa6960282b30505021" alt="" width="50" /> | 3 | 3 | MAMAMOO+ | [🔗](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | 4 | 2 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 3 | 2 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8162ce227fb3f8159822aab0" alt="" width="50" /> | 2 | 2 | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
@@ -44,7 +44,6 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739297764e8c5e17d8258efb5a" alt="" width="50" /> | 5 | 0 | TWO RABBITS | 2023-08-03 | [🔗](https://open.spotify.com/album/0Ar5kViCsKWRjnRKy7V4Ck) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 2 | 2 | 容 : FACE | 2022-03-16 | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="" width="50" /> | 2 | 2 | Redd | 2021-04-13 | [🔗](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | 2 | 2 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
@@ -54,14 +53,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | 2 | 1 | Guilty Pleasure | 2021-11-24 | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 2 | 1 | 6equence | 2022-01-19 | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | 1 | 1 | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 28 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="" width="50" /> | 1 | 1 | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | 1 | 1 | TWIT | 2019-02-13 | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
@@ -84,14 +83,14 @@ Appears as:
 </details>
 
 
-![Bar chart of top 29 albums](../../images/labels/rbw_inc_/albums.png)
+![Bar chart of top 28 albums](../../images/labels/rbw_inc_/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 33 | 25 | [k-pop](../../genres/k_pop/overview.md) |
-| 20 | 13 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 15 | 13 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 5 | 4 | korean talent show |
 | 2 | 2 | korean ost |
 | 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -129,11 +128,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | Chico malo | ACT 1, SCENE 1 | MAMAMOO+ | [RBW Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/4e5OwyRhNsoLqGQYzfuV5B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | GGBB | ACT 1, SCENE 1 | MAMAMOO+ | [RBW Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Save Me | MAMAMOO+ | [RBW Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739297764e8c5e17d8258efb5a" alt="" width="50" /> | I LIKE THIS | TWO RABBITS | MAMAMOO+ | [RBW Inc.](.) | | [🔗](https://open.spotify.com/track/624ZAp43t34NuhpirNQZv3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739297764e8c5e17d8258efb5a" alt="" width="50" /> | Intro : Two Rabbits | TWO RABBITS | MAMAMOO+ | [RBW Inc.](.) | | [🔗](https://open.spotify.com/track/3rSscHRrMBghn9k22SSZrB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739297764e8c5e17d8258efb5a" alt="" width="50" /> | Save Me | TWO RABBITS | MAMAMOO+ | [RBW Inc.](.) | | [🔗](https://open.spotify.com/track/0oORB7hTUbQSKyLiKqWMu9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739297764e8c5e17d8258efb5a" alt="" width="50" /> | Starry Sea | TWO RABBITS | MAMAMOO+ | [RBW Inc.](.) | | [🔗](https://open.spotify.com/track/2T9jFJm9xBdehACv1eZFvp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739297764e8c5e17d8258efb5a" alt="" width="50" /> | dangdang | TWO RABBITS | MAMAMOO+ | [RBW Inc.](.) | | [🔗](https://open.spotify.com/track/4wp725MlpbUiyn1NcTMHJ6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](../../artists/seulgi/overview.md) | [RBW, Inc](.) | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | Shutdown (Feat.Seori) | Shutdown (Feat. Seori) | Moon Byul, Seori | [RBW Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC | 6equence | Moon Byul | [RBW Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) |

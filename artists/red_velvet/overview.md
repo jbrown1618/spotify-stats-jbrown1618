@@ -18,25 +18,25 @@ Red Velvet is currently:
 ## Top Tracks
 
 - 러시안 룰렛 Russian Roulette is:
-    - the #7 track of all time
+    - the #8 track of all time
 - Bad Boy is:
-    - the #13 track of all time
+    - the #14 track of all time
 - Dumb Dumb is:
-    - the #22 track of the last month
+    - the #24 track of the last month
     - the #20 track of all time
 - Ice Cream Cake is:
-    - the #36 track of all time
+    - the #38 track of all time
 - BYE BYE is:
-    - the #41 track of the last month
-    - the #13 track of the last 6 months
+    - the #46 track of the last month
+    - the #14 track of the last 6 months
 - Birthday is:
-    - the #29 track of the last 6 months
+    - the #31 track of the last 6 months
 - ZOOM is:
-    - the #30 track of the last 6 months
+    - the #32 track of the last 6 months
 - On A Ride is:
-    - the #44 track of the last 6 months
-- Better Be is:
-    - the #48 track of the last month
+    - the #48 track of the last 6 months
+- 어떤 별보다 is:
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 
@@ -60,11 +60,13 @@ Red Velvet is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 6 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b273787a8631e249c68889453f86ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 3 | [Aegyo](../../playlists/aegyo/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d7e26119d1a6648e34dc51cab67616d0000b2738da57096b4f09bd7cc6e1954ab67616d0000b27395d1d98c5176e4f982bd73d6ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 2 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 2 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k_pop_adjacent/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="" width="50" /> | 1 | [K-OST](../../playlists/k_ost/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |

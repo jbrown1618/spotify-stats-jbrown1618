@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Supermassive Black Hole (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness (0.417) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | Learn to Fly (0.919) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Feeling Good (0.418) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside (0.911) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Between Two Lungs (0.418) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | Sweetness (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Good Riddance (Time of Your Life) (0.432) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="Enema Of The State" width="50" /> | All The Small Things (0.891) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Good Riddance (Time of Your Life) (0.432) |
 
 ## Speechiness
 

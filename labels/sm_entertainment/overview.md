@@ -1,13 +1,13 @@
 # SM Entertainment
 
-272 songs
+271 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (269 tracks)
+- SM Entertainment (268 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
@@ -16,7 +16,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 62 | 47 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 32 | 18 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 31 | 18 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29c20ae1a1435066fe26f35" alt="" width="50" /> | 10 | 9 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -151,7 +151,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | 2 | 1 | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | 1 | Sticker - The 3rd Album | 2021-09-17 | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | 2 | 1 | Never Gonna Dance Again : Act 1 - The 3rd Album | 2020-09-07 | [🔗](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 2 | 1 | My Voice - The 1st Album (Deluxe Edition) | 2017-04-05 | [🔗](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | 2 | 1 | LOVE SHOT– The 5th Album Repackage | 2018-12-13 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | 2 | 1 | ISTJ - The 3rd Album | 2023-07-17 | [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | 2 | 1 | I GOT A BOY - The 4th Album | 2013-01-01 | [🔗](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) |
@@ -192,6 +191,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | 1 | 1 | NCT RESONANCE Pt. 2 - The 2nd Album | 2020-11-23 | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | 1 | 1 | NCT #127 Neo Zone - The 2nd Album | 2020-03-06 | [🔗](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | 1 | 1 | NCT #127 - The 1st Mini Album | 2016-07-10 | [🔗](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 1 | 1 | My Voice - The 1st Album (Deluxe Edition) | 2017-04-05 | [🔗](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | 1 | 1 | Mr. Simple - The 5th Album | 2011-08-02 | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 1 | 1 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | 1 | 1 | Monster - The 1st Mini Album | 2020-07-06 | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
@@ -221,7 +221,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 269 | 182 | [k-pop](../../genres/k_pop/overview.md) |
+| 268 | 182 | [k-pop](../../genres/k_pop/overview.md) |
 | 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 68 | 41 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -458,7 +458,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | I Got Love | My Voice - The 1st Album | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1IgRQvTqj7BKjNWRzjFEE0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | Sweet Love | My Voice - The 1st Album | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2CbvW8kgNDByBIQbFY0h3i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 11:11 | My Voice - The 1st Album (Deluxe Edition) | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | I Blame On You | My Voice - The 1st Album (Deluxe Edition) | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4jxWO5zC2SiW9aw7nMJHia) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | Candy Cane | This Christmas – Winter is Coming | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | Let It Snow | This Christmas – Winter is Coming | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/752AmSeOh3T48yWd8OogC6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | The Magic of Christmas Time | This Christmas – Winter is Coming | [TAEYEON](../../artists/taeyeon/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA) |

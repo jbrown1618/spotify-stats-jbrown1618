@@ -4,15 +4,15 @@
 
 ## Cluster #1
 
-29 tracks
+27 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | [Island Records](../../../../labels/island_records) | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Fitz and The Tantrums (Deluxe Edition) | Fitz and The Tantrums | Elektra (NEK) | 💚 | [🔗](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | Lungs | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/0ZMK3QwoE3PiLO4evS4JGv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/1LsZVVQxkbmL9izqfy1RRK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | Sweetness | Bleed American | Jimmy Eat World | [Interscope](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Everybody Talks | Picture Show | Neon Trees | Mercury Records | 💚 | [🔗](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | Young Folks | Writer's Block | Peter Bjorn and John | Universal Music AB | | [🔗](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | Someday | Is This It | The Strokes | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) |
@@ -20,15 +20,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="" width="50" /> | Ride | Blurryface | Twenty One Pilots | Fueled By Ramen | 💚 | [🔗](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) |
 ## Cluster #2
 
-31 tracks
+32 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | Lungs | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/416zj01H28D6uQP43LL6x3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | How Big, How Blue, How Beautiful | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/3o9qzsqkT0mvfxcusUaXsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | Everlong | The Colour And The Shape | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | Best of You | In Your Honor | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | The Pretender | Echoes, Silence, Patience & Grace | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](../../../../labels/island_records) | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |

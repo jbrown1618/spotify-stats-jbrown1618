@@ -14,7 +14,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 18 | 12 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb95f5142b421466cf22028f6f" alt="" width="50" /> | 18 | 11 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 1 | 1 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8695d3eefc61a22f5afbaf" alt="" width="50" /> | 1 | 1 | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7158089a0a003f7ce04ddca1" alt="" width="50" /> | 1 | 1 | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
@@ -47,11 +47,11 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | 1 | 1 | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 1 | 1 | 24H | 2020-08-24 | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="" width="50" /> | 1 | 0 | Spider | 2021-04-02 | [🔗](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | 1 | 0 | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | 2017-11-06 | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | 1 | 0 | SEVENTEEN 1st Mini Album ’17 CARAT’ | 2015-05-29 | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | 1 | 0 | Midnight Guest | 2022-01-17 | [🔗](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 1 | 0 | 24H | 2020-08-24 | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
 
 </details>
 
@@ -62,8 +62,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 21 | 13 | [k-pop](../../genres/k_pop/overview.md) |
-| 18 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 21 | 12 | [k-pop](../../genres/k_pop/overview.md) |
+| 18 | 11 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 0 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/pledis_entertainment/genres.png)
@@ -81,7 +81,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | CLAP | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Fearless | Heng:garæ | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 24H | 24H | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 24H | 24H | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) |
 
 
 <details>

@@ -83,7 +83,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | 15 | 0 | Rachmaninov: Vespers - All Night Vigil | 1994 | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | 14 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="" width="50" /> | 14 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="" width="50" /> | 8 | 0 | Poulenc: Motets and Mass | 2013-01-30 | [🔗](https://open.spotify.com/album/6czmOzWnyfS71jDpRxZDam) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | 8 | 0 | Light & Gold | 2010-01-01 | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | 7 | 0 | Fauré: Requiem; Pavane | 2008-01-01 | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
@@ -193,7 +193,7 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Karajan - Mozart (2020-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="Fauré/Duruflé/Messiaen" width="50" /> | Fauré/Duruflé/Messiaen (1989) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | Karajan - Mozart (2020-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="Fauré/Duruflé/Messiaen" width="50" /> | Fauré/Duruflé/Messiaen (1989) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | Tchaikovsky: Sacred Choral Music (2016-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Folk Songs Of The British Isles (1993-07-24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="Rachmaninoff &amp; Poulenc: Blue Bird" width="50" /> | Rachmaninoff & Poulenc: Blue Bird (2014-01-10) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Rachmaninov: Vespers - All Night Vigil (1994) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | Poulenc: Motets and Mass (2013-01-30) | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Allegri - Miserere (1994-02-15) |

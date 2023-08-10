@@ -128,7 +128,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="" width="50" /> | 115 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="" width="50" /> | 115 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
@@ -242,7 +242,7 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="Mozart Piano Pieces" width="50" /> | Mozart Piano Pieces (2020-10-13) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | Tchaikovsky: Swan Lake (1976-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9cf4faacfd133cab7c867b8" alt="Karajan - Mozart" width="50" /> | Karajan - Mozart (2020-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> | Mozart: The Piano Sonatas (1981-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | Karajan - Mozart (2020-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart: The Piano Sonatas" width="50" /> | Mozart: The Piano Sonatas (1981-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> | Fauré Pavane (2020-05-30) | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | Holst: The Planets (1981-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Stravinsky: Petrushka, Jeu de cartes (2018-10-19) | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) (1983) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia (2018-07-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas &quot;Moonlight&quot;; &quot;Appassionata&quot;; &quot;Pathétique&quot;" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01) |

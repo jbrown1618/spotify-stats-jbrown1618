@@ -11,14 +11,14 @@
 ## Artist Rank
 CHUNG HA is currently:
 - The #16 artist of all time
-- The #18 artist of the last 6 months
-- The #29 artist of the last month
+- The #19 artist of the last 6 months
+- The #30 artist of the last month
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
 - Gotta Go is:
-    - the #8 track of all time
+    - the #9 track of all time
 - When I Get Old is:
     - the #27 track of the last 6 months
 

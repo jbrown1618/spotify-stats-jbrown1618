@@ -1,6 +1,6 @@
 # modern rock
 
-[68 songs](tracks.md)
+[67 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -27,11 +27,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 2 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 1 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047eac333eff0be4abe32cbf" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
@@ -71,7 +71,6 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 2 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | 1 | 1 | Young The Giant (Special Edition) | 2011 | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
@@ -85,6 +84,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums (Deluxe Edition) | 2017-07-24 | [🔗](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | 1 | 1 | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | 1 | 1 | Babel (Deluxe Version) | 2012-09-25 | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | 1 | 0 | Writer's Block | 2006-01-01 | [🔗](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | 1 | 0 | When The World Comes Down | 2008-01-01 | [🔗](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) |
@@ -116,7 +116,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
-| 8 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 7 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 3 | Kid Ina Korner |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |

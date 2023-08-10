@@ -19,7 +19,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 💚 | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Crystallize | Lindsey Stirling | [Lindsey Stirling](../../../../artists/lindsey_stirling/overview.md) | Lindseystomp Records | 💚 | [🔗](https://open.spotify.com/track/5JFkuKQsPps2ZaZzaLx63d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Song of the Caged Bird | Lindsey Stirling | [Lindsey Stirling](../../../../artists/lindsey_stirling/overview.md) | Lindseystomp Records | 💚 | [🔗](https://open.spotify.com/track/1rmCtRmkQXWKRhBi91NX3z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | Shatter Me Featuring Lzzy Hale | Shatter Me | [Lindsey Stirling](../../../../artists/lindsey_stirling/overview.md) | Lindseystomp Records | 💚 | [🔗](https://open.spotify.com/track/2K7j4xrQENCi5r3Hii4cVe) |

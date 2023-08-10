@@ -4,12 +4,12 @@
 
 ## Cluster #1
 
-28 tracks
+29 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | FREEDOM | LIGHTS | JOOHONEY | [Starship Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da22ba88dfc26a18122ee2d" alt="" width="50" /> | The Way | GAME PLAN | JEON SOMI | [THEBLACKLABEL/Interscope Records](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/3b098hlA2uM27cENS4MI4g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | [LE SSERAFIM](../../../../artists/le_sserafim/overview.md), Nile Rodgers | [SOURCE MUSIC](../../../../labels/source_music) | 💚 | [🔗](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | Broken Melodies | ISTJ - The 3rd Album | [NCT DREAM](../../../../artists/nct_dream/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | SuperCharger | BOYS PLANET - ARTIST BATTLE | NINTYSIX | [Genie Music Corporation](../../../../labels/genie_music_corporation) | | [🔗](https://open.spotify.com/track/6dh7woGX8OfRUFanTAGhp4) |
@@ -47,6 +47,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="" width="50" /> | Perfume | Perfume - The 1st Mini Album | NCT DOJAEJUNG | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | Over Me | BOYS PLANET - ARTIST BATTLE | Overdose | [Genie Music Corporation](../../../../labels/genie_music_corporation) | 💚 | [🔗](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |

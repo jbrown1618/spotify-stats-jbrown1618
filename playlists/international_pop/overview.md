@@ -47,7 +47,7 @@
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8246eb23306445da3f2698dd" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbada9c842e0f7a7c03c440eb" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4196349398da67ae88d8f47e" alt="" width="50" /> | 1 | 1 | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | 1 | 1 | Snow | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
@@ -60,13 +60,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eba09d931758de235e7cbe3" alt="" width="50" /> | 1 | 1 | Roméo Elvis | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ac5b726c329cd3cd0ee5a74" alt="" width="50" /> | 1 | 1 | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | 1 | 1 | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12a53bc0b95fa230ccd6d661" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe179b175d629c761438fb8ec" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe8b6591753659ca595c73c6" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c370475204929c6974c5c4a" alt="" width="50" /> | 1 | 1 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | 1 | 1 | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 3 | 0 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5b435ca1c4b22290103513c0" alt="" width="50" /> | 3 | 0 | OFFICIAL HIGE DANDISM | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46093a3d5c483cac4d0b3455" alt="" width="50" /> | 3 | 0 | OFFICIAL HIGE DANDISM | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0369149b418d4591d127c492" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1b54ac2809d664b9e1031e" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |

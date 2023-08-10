@@ -4,49 +4,48 @@
 
 ## Cluster #1
 
-13 tracks
+9 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | Adele | [XL Recordings](../../../../labels/xl_recordings) | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Someone Like You | 21 | Adele | [XL Recordings](../../../../labels/xl_recordings) | | [🔗](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | Adele | [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | Skyfall | Skyfall | Adele | [Columbia](../../../../labels/columbia), [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="" width="50" /> | Easy On Me | Easy On Me | Adele | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdebae610076f51e8b7b20f4" alt="" width="50" /> | Skinny Love | Birdy | Birdy | Atlantic Records UK | 💚 | [🔗](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Your Song | Lights | Ellie Goulding | [Polydor Records](../../../../labels/polydor_records) | | [🔗](https://open.spotify.com/track/562NFiDgGSylJpitA7dUhE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding | FSF, [Republic Records](../../../../labels/republic_records), [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Just The Way You Are | Little Love - EP | James Smith | EMI | | [🔗](https://open.spotify.com/track/1YwbObIsxLhBTjSI5lwJz6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | Don't Call Me Up | Ivy To Roses (Mixtape) | Mabel | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | Sam Smith | [Capitol](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) |
 ## Cluster #2
 
-15 tracks
+20 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Charli XCX, A. G. Cook, VERNON, Rina Sawayama | Atlantic Records UK | | [🔗](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [BLACKPINK](../../../../artists/blackpink/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | New Rules | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Physical (feat. Hwa Sa) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [Hwa Sa](../../../../artists/hwa_sa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Don't Start Now | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1AVtceapuF36oZqI9gzp0o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Hallucinate | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Levitating (feat. DaBaby) | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md), DaBaby | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Physical | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/7toYVidBIpAmM8Ife3LGrP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | Dance The Night (From Barbie The Album) | Dance The Night (From Barbie The Album) | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | If I Go | Ella Eyre | Ella Eyre | [Virgin Records Ltd](../../../../labels/virgin_records) | 💚 | [🔗](https://open.spotify.com/track/5JO7yGfeJKYjbOXRRdNk64) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights - Single Version | Lights | Ellie Goulding | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/5qftsSFD6Qgndcx13SSqQj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade | Slow Grenade | Ellie Goulding, Lauv | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) |
 ## Cluster #3
 
-15 tracks
+11 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Rolling in the Deep | 21 | Adele | [XL Recordings](../../../../labels/xl_recordings) | | [🔗](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | Adele | [XL Recordings](../../../../labels/xl_recordings) | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Set Fire to the Rain | 21 | Adele | [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | IDGAF | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/6acdKgBrJoYKbJD6WhG81R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [BLACKPINK](../../../../artists/blackpink/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | Lost In Your Light (feat. Miguel) | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), Miguel | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/3NqtXWHYIV3VxdRZ7uJwYZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | New Rules | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Break My Heart | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/59CrwNtNqzOmODXRxwaknc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade | Slow Grenade | Ellie Goulding, Lauv | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Something In The Way You Move | Delirium | Ellie Goulding | [Polydor Records](../../../../labels/polydor_records) | | [🔗](https://open.spotify.com/track/7is4okCIwDa9vc7pUjda1H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do | Fifty Shades Freed (Original Motion Picture Soundtrack) | Ellie Goulding | FSF, [Republic Records](../../../../labels/republic_records), [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | Close To Me - Red Velvet Remix | Close To Me (Red Velvet Remix) | Ellie Goulding, Diplo, [Red Velvet](../../../../artists/red_velvet/overview.md) | [Polydor Records](../../../../labels/polydor_records) | | [🔗](https://open.spotify.com/track/696Y3Jx3k4Rjsw8gm2q4l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute | Salute (Expanded Edition) | Little Mix | [Syco Music](../../../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | Power | Glory Days (Expanded Edition) | Little Mix | [Syco Music](../../../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | Kids Again | Love Goes | Sam Smith | [Capitol](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/5LL9lSNn26GBoC5StQ3itk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Unholy (feat. Kim Petras) | Sam Smith, Kim Petras | Capitol Records UK / EMI | 💚 | [🔗](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) |

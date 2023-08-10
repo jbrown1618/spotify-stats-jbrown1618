@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | BIBI Vengeance | Lowlife Princess: Noir | [BIBI](../../../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](../..) | 💚 | [🔗](https://open.spotify.com/track/6vq6B6ENjap5Ea1T4GkrFA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | [Jackson Wang](../../../../artists/jackson_wang/overview.md) | [88rising Music](../..), [Warner Records](../../../warner_records) | | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../..), [Warner Records](../../../warner_records) | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |

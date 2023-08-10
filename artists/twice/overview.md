@@ -22,13 +22,13 @@ TWICE is currently:
 - WALLFLOWER is:
     - the #25 track of the last 6 months
 - BLAME IT ON ME is:
-    - the #32 track of the last 6 months
-- CRY FOR ME is:
-    - the #39 track of the last 6 months
+    - the #23 track of the last month
+    - the #28 track of the last 6 months
 - SET ME FREE is:
-    - the #46 track of the last 6 months
+    - the #21 track of the last month
+    - the #39 track of the last 6 months
 - What is Love is:
-    - the #36 track of the last month
+    - the #41 track of the last month
 
 ### Top tracks of all time over time
 

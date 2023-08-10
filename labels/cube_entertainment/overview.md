@@ -49,7 +49,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | 1 | 1 | I DO | 2023-07-13 | [🔗](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | 1 | 1 | I DO | 2023-07-13 | [🔗](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | 1 | 1 | HANN (Alone) | 2018-08-14 | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | 1 | 1 | Crazy | 2015-02-09 | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | 1 | 1 | CRYSTYLE | 2017-01-17 | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
@@ -112,7 +112,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Allergy | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Queencard | I feel | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [88rising Music](../88rising_music), [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [88rising Music](../88rising_music), [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | Hate | Act. 7 | 4Minute | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | Because It's Christmas | The Winter's Tale | BTOB | [CUBE ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di) |

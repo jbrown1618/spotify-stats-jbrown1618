@@ -4,18 +4,18 @@
 
 ## Cluster #1
 
-14 tracks
+13 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | Sweetness | Bleed American | Jimmy Eat World | [Interscope](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | Supermassive Black Hole | Black Holes and Revelations | Muse | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | There, There | Hail To the Thief | [Radiohead](../../../../artists/radiohead/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | In Rainbows | [Radiohead](../../../../artists/radiohead/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | Can't Stop | By the Way (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Dani California | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Snow (Hey Oh) | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="" width="50" /> | 1979 - Remastered 2012 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | The Smashing Pumpkins | [Virgin Records](../../../../labels/virgin_records) | | [🔗](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | Someday | Is This It | The Strokes | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
 ## Cluster #2

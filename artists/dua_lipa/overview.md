@@ -9,6 +9,9 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
+Dua Lipa is currently:
+- The #49 artist of all time
+- The #27 artist of the last month
 
 ![Rank of Dua Lipa over time](../../images/artists/dua_lipa/rank_time_series.png)
 ## Featured on Playlists
@@ -16,7 +19,6 @@
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 14 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d7e26119d1a6648e34dc51cab67616d0000b2738da57096b4f09bd7cc6e1954ab67616d0000b27395d1d98c5176e4f982bd73d6ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 3 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 2 | [K-Pop](../../playlists/k_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="" width="50" /> | 1 | [International Pop](../../playlists/international_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
@@ -27,7 +29,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | 5 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="" width="50" /> | 1 | 1 | Sweetest Pie | 2022-03-11 | [🔗](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | 1 | 1 | Dance The Night (From Barbie The Album) | 2023-05-25 | [🔗](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) |
@@ -39,7 +41,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 14 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
+| 11 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | 300 Entertainment |
 | 1 | 0 | Universal Music Latino |
@@ -58,14 +60,14 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108" alt="" width="50" /> | One Kiss (with Dua Lipa) | One Kiss (with Dua Lipa) | Calvin Harris, [Dua Lipa](overview.md) | Sony Music UK | | [🔗](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a13ac79ec7e3ac62bd4ca4e8" alt="" width="50" /> | Hotter Than Hell | Dua Lipa | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/7G8bmgKbwPQdwsGXC9QWcL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | Hotter Than Hell | Dua Lipa (Complete Edition) | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/3R91ySVDSOjcxpW5PZF394) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | IDGAF | Dua Lipa (Complete Edition) | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/6acdKgBrJoYKbJD6WhG81R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](overview.md), [BLACKPINK](../blackpink/overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | Lost In Your Light (feat. Miguel) | Dua Lipa (Complete Edition) | [Dua Lipa](overview.md), Miguel | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/3NqtXWHYIV3VxdRZ7uJwYZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | New Rules | Dua Lipa (Complete Edition) | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Physical (feat. Hwa Sa) | [Dua Lipa](overview.md), [Hwa Sa](../hwa_sa/overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Break My Heart | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/59CrwNtNqzOmODXRxwaknc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Don't Start Now | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1AVtceapuF36oZqI9gzp0o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Hallucinate | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Levitating | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/1dI77VhaLcQSgQLSnIs03D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Levitating (feat. DaBaby) | Future Nostalgia | [Dua Lipa](overview.md), DaBaby | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) |
 
 
 <details>
@@ -73,9 +75,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Hallucinate | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Levitating | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/1dI77VhaLcQSgQLSnIs03D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Levitating (feat. DaBaby) | Future Nostalgia | [Dua Lipa](overview.md), DaBaby | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Physical | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/7toYVidBIpAmM8Ife3LGrP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Pretty Please | Future Nostalgia | [Dua Lipa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/5Pc594FhDA2Fa2prE75GT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | Dance The Night (From Barbie The Album) | Dance The Night (From Barbie The Album) | [Dua Lipa](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[393 tracks (283 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[394 tracks (283 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -44,8 +44,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 4 | 4 | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 5 | 3 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 5 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f" alt="" width="50" /> | 4 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 4 | 3 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
@@ -273,7 +273,7 @@
 | 11 | 8 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 8 | 8 | Monkey Puzzle Records |
 | 5 | 5 | Bad Boy |
-| 8 | 4 | [Polydor Records](../../labels/polydor_records/overview.md) |
+| 9 | 4 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 5 | 4 | Beluga Heights |
 | 4 | 4 | Olivia Rodrigo PS |
 | 4 | 4 | Atlantic Records UK |
@@ -366,10 +366,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 317 | 229 | [pop](../../genres/pop/overview.md) |
+| 318 | 229 | [pop](../../genres/pop/overview.md) |
 | 99 | 69 | [dance pop](../../genres/dance_pop/overview.md) |
 | 29 | 23 | [art pop](../../genres/art_pop/overview.md) |
-| 33 | 20 | [uk pop](../../genres/uk_pop/overview.md) |
+| 34 | 20 | [uk pop](../../genres/uk_pop/overview.md) |
 | 22 | 17 | urban contemporary |
 | 17 | 13 | [electropop](../../genres/electropop/overview.md) |
 | 15 | 13 | neo soul |
@@ -396,7 +396,7 @@
 | 12 | 7 | pov: indie |
 | 12 | 7 | british soul |
 | 10 | 7 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 9 | 7 | metropopolis |
+| 10 | 7 | metropopolis |
 | 7 | 7 | alternative r&b |
 | 8 | 6 | [rock](../../genres/rock/overview.md) |
 | 8 | 6 | boy band |
@@ -406,7 +406,7 @@
 | 5 | 5 | uk funky |
 | 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 5 | 5 | afrofuturism |
-| 7 | 4 | indietronica |
+| 8 | 4 | indietronica |
 | 5 | 4 | pop rap |
 | 5 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
@@ -491,7 +491,7 @@
 | 2022 | 10 |
 | [2021](2021.md) | 25 |
 | [2020](2020.md) | 50 |
-| [2019](2019.md) | 46 |
+| [2019](2019.md) | 47 |
 | [2018](2018.md) | 25 |
 | [2017](2017.md) | 26 |
 | [2016](2016.md) | 26 |

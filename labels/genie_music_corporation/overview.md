@@ -1,13 +1,13 @@
 # Genie Music Corporation
 
-88 songs
+87 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (59 tracks)
+- Genie Music Corporation, Stone Music Entertainment (58 tracks)
 - Genie Music Corporation (22 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -34,7 +34,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 2 | 2 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 2 | 2 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb104a945056fc7598ef7f5b2d" alt="" width="50" /> | 3 | 1 | ZEROBASEONE | [🔗](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb104a945056fc7598ef7f5b2d" alt="" width="50" /> | 2 | 1 | ZEROBASEONE | [🔗](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 2 | 1 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | 2 | 1 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | 2 | 1 | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
@@ -62,7 +62,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 1 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 1 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 1 | 1 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 1 | 1 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59749ba840544efb98f280f1" alt="" width="50" /> | 1 | 1 | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0c7eeb314e52270af39920d" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
@@ -103,11 +103,11 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 6 | 6 | 4 ONLY | 2021-09-09 | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | 3 | 2 | BOYS PLANET - ARTIST BATTLE | 2023-04-06 | [🔗](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | 3 | 1 | YOUTH IN THE SHADE | 2023-07-10 | [🔗](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | 2 | 2 | ˣ‿ˣ (SMiLEY) | 2022-01-17 | [🔗](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | 2 | 2 | Street Man Fighter Original Vol.3 (Mission by Rank) | 2022-09-06 | [🔗](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | 2 | 2 | ONLY LOVERS LEFT | 2021-10-05 | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | 2 | 1 | YOUTH IN THE SHADE | 2023-07-10 | [🔗](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 2 | 1 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | 2 | 1 | FIRST IMPACT | 2022-01-03 | [🔗](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
@@ -312,7 +312,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer) | Street Man Fighter Original Vol.3 (Mission by Rank) | Yoon Mirae, [BIBI](../../artists/bibi/overview.md) | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | Always | YOUTH IN THE SHADE | ZEROBASEONE | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/5AZjB4QYB3ZQ45gVO0b8We) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | In Bloom | YOUTH IN THE SHADE | ZEROBASEONE | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | New Kidz on the Block | YOUTH IN THE SHADE | ZEROBASEONE | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/4i7iGaXbW1dKBZD5tZuvZt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="" width="50" /> | My Day Is Full Of You | The King: Eternal Monarch (Original Television Soundtrack), Pt. 10 | ZICO, [WENDY](../../artists/wendy/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | New thing (Prod. ZICO) (Feat. Homies) | Street Man Fighter Original Vol.3 (Mission by Rank) | ZICO, HOMIES | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) |
 

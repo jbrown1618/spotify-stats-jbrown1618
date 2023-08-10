@@ -34,7 +34,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | 3 | 3 | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | 3 | 3 | Lowlife Princess: Noir | 2022-11-18 | [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | 1 | 1 | I DO | 2023-07-13 | [🔗](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | 1 | 1 | I DO | 2023-07-13 | [🔗](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="" width="50" /> | 1 | 1 | Can't Stop This Party | 2022-03-22 | [🔗](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | 1 | 0 | LMLY | 2021-03-26 | [🔗](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) |
@@ -56,7 +56,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [88rising Music](.), [CUBE ENTERTAINMENT](../cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [88rising Music](.), [CUBE ENTERTAINMENT](../cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | I Love You 3000 II | Head In The Clouds II | 88rising, Stephanie Poetri, [Jackson Wang](../../artists/jackson_wang/overview.md) | [88rising Music](.), [Warner Records](../warner_records) | 💚 | [🔗](https://open.spotify.com/track/3witRpHWHqArlnt6GTlH2Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](.) | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | BIBI Vengeance | Lowlife Princess: Noir | [BIBI](../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](.) | 💚 | [🔗](https://open.spotify.com/track/6vq6B6ENjap5Ea1T4GkrFA) |

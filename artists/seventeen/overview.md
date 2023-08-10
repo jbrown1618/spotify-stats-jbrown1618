@@ -11,22 +11,21 @@
 ## Artist Rank
 SEVENTEEN is currently:
 - The #13 artist of all time
-- The #15 artist of the last 6 months
+- The #14 artist of the last 6 months
 - The #11 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
 
 - Left & Right is:
-    - the #49 track of the last month
-    - the #28 track of the last 6 months
-    - the #9 track of all time
+    - the #30 track of the last 6 months
+    - the #10 track of all time
 - HOME;RUN is:
-    - the #42 track of all time
+    - the #43 track of all time
 - Dust is:
-    - the #16 track of the last month
+    - the #4 track of the last month
 - Super is:
-    - the #34 track of the last month
+    - the #37 track of the last month
 
 ### Top tracks of all time over time
 
@@ -64,7 +63,7 @@ SEVENTEEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | 1 | 1 | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | 2016-04-25 | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | 1 | 1 | Love&Letter repackage album | 2016-07-04 | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | 1 | 1 | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 1 | 1 | 24H | 2020-08-24 | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | 1 | 0 | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | 2017-11-06 | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
 
 
 <details>
@@ -72,8 +71,8 @@ SEVENTEEN is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | 1 | 0 | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | 2017-11-06 | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | 1 | 0 | SEVENTEEN 1st Mini Album ’17 CARAT’ | 2015-05-29 | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 1 | 0 | 24H | 2020-08-24 | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
 
 </details>
 
@@ -82,7 +81,7 @@ SEVENTEEN is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 18 | 12 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
+| 18 | 11 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 
 ## Genres
 
@@ -100,7 +99,7 @@ SEVENTEEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | CLAP | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Fearless | Heng:garæ | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 24H | 24H | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 24H | 24H | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | HOME;RUN | ; [Semicolon] | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | Anyone | SEVENTEEN 8th Mini Album 'Your Choice' | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) |
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="K-OST" width="100" />
 
-[23 tracks (19 liked) 🔗](https://open.spotify.com/playlist/6rOVckcfZ6oCN6seCH4GWr)
+[24 tracks (19 liked) 🔗](https://open.spotify.com/playlist/6rOVckcfZ6oCN6seCH4GWr)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -41,17 +41,18 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | 1 | 1 | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb178f1c6aa9751667cef51db3" alt="" width="50" /> | 1 | 1 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb65dd718aaa2c9b1be0218f76" alt="" width="50" /> | 1 | 1 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 1 | 1 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | CHAN 찬 | [🔗](https://open.spotify.com/artist/0nxWeW71DDYHY26V4LzMz9) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Kim Taeri | [🔗](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 1 | 0 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | 1 | 0 | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4c22467d83689a84c7f37ad" alt="" width="50" /> | 1 | 0 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
 
 </details>
 
 
-![Bar chart of top 27 artists](../../images/playlists/k_ost/artists.png)
+![Bar chart of top 28 artists](../../images/playlists/k_ost/artists.png)
 
 ![Comparison of Artist](../../images/playlists/k_ost/artists_comparison.png)
 
@@ -72,7 +73,7 @@
 
 
 <details>
-<summary>See all 19 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -83,13 +84,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | 1 | 1 | Doom at Your Service (Original Television Soundtrack) Pt. 3 | 2021-05-31 | [🔗](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="" width="50" /> | 1 | 0 | The King: Eternal Monarch (Original Television Soundtrack), Pt. 10 | 2020-05-16 | [🔗](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="" width="50" /> | 1 | 0 | Love, Maybe (A Business Proposal OST Bonus Track) | 2022-04-05 | [🔗](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.8 | 2019-08-10 | [🔗](https://open.spotify.com/album/2orJu019JvK7H621GwcIhr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.5 | 2019-07-28 | [🔗](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.12 | 2019-08-18 | [🔗](https://open.spotify.com/album/6iNbnT79OJu9C5j5ZZLQvZ) |
 
 </details>
 
 
-![Bar chart of top 19 albums](../../images/playlists/k_ost/albums.png)
+![Bar chart of top 20 albums](../../images/playlists/k_ost/albums.png)
 
 ## Top Record Labels
 
@@ -101,7 +103,7 @@
 | 4 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 2 | 2 | 스튜디오앤뉴 |
 | 2 | 2 | 뮤직앤뉴 |
-| 3 | 1 | FNC인베스트먼트 |
+| 4 | 1 | FNC인베스트먼트 |
 | 2 | 1 | FLEX M |
 | 1 | 1 | 에이스토리 |
 | 1 | 1 | 스타엔트리엔터테인먼트 |
@@ -127,14 +129,15 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 14 | 12 | [k-pop](../../genres/k_pop/overview.md) |
+| 15 | 12 | [k-pop](../../genres/k_pop/overview.md) |
 | 5 | 3 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 4 | 3 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean ost |
 | 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |
 | 1 | 1 | j-division |
+| 1 | 0 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 
-![Bar chart of top 6 genres](../../images/playlists/k_ost/genres.png)
+![Bar chart of top 7 genres](../../images/playlists/k_ost/genres.png)
 
 ## Years
 
@@ -152,5 +155,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | Doom at Your Service (Original Television Soundtrack) Pt. 3 (2021-05-31) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | The Beauty Inside Pt. 6 (Original Television Soundtrack) (2018-11-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | VINCENZO (Original Television Soundtrack) Pt. 3 (2021-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.3 (2019-07-21) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="The King: Eternal Monarch (Original Television Soundtrack), Pt. 10" width="50" /> | The King: Eternal Monarch (Original Television Soundtrack), Pt. 10 (2020-05-16) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.5 (2019-07-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11 (2020-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.12 (2019-08-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 (2020-03-13) | <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 (2020-03-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11 (2020-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="Hotel del Luna (Original Television Soundtrack) Pt.8" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.8 (2019-08-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320af30dc4a6011fc11632211" alt="ITAEWON CLASS (Original Television Soundtrack) Pt. 12" width="50" /> | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 (2020-03-13) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.12 (2019-08-18) |

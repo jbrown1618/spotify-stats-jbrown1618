@@ -12,24 +12,21 @@
 (G)I-DLE is currently:
 - The #7 artist of all time
 - The #6 artist of the last 6 months
-- The #4 artist of the last month
+- The #7 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
-    - the #24 track of all time
+    - the #25 track of all time
 - Uh-Oh is:
     - the #30 track of all time
 - Nxde is:
-    - the #35 track of the last 6 months
+    - the #36 track of the last 6 months
 - TOMBOY is:
-    - the #23 track of the last month
-    - the #43 track of the last 6 months
-- Put It Straight is:
-    - the #8 track of the last month
+    - the #46 track of the last 6 months
 - HANN (Alone in winter) is:
-    - the #9 track of the last month
+    - the #10 track of the last month
 
 ### Top tracks of all time over time
 
@@ -76,7 +73,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | 1 | 1 | I DO | 2023-07-13 | [🔗](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | 1 | 1 | I DO | 2023-07-13 | [🔗](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | 1 | 1 | HANN (Alone) | 2018-08-14 | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | 1 | 1 | DUMDi DUMDi | 2020-08-03 | [🔗](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | 1 | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
@@ -147,7 +144,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Allergy | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | | [🔗](https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Queencard | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c729c224e30ee239c19995d" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7eeb9af3ee924d8ed069c4e" alt="" width="50" /> | I DO | I DO | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS | POP/STARS | K/DA, Madison Beer, [(G)I-DLE](overview.md), Jaira Burns, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | THE BADDEST | THE BADDEST | K/DA, [(G)I-DLE](overview.md), Wolftyla, Bea Miller, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | MORE | ALL OUT | K/DA, Madison Beer, [(G)I-DLE](overview.md), Lexie Liu, Jaira Burns, Seraphine, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/6ZlvEI2HQC6R5TahN9Ffm4) |

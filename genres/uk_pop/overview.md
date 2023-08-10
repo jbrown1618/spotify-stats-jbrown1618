@@ -1,6 +1,6 @@
 # uk pop
 
-[43 songs](tracks.md)
+[40 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 15 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 12 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 3 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 24 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -36,7 +36,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcad5051d3069454d070cc945" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf4db94f0eda8e3f938aac7b4" alt="" width="50" /> | 1 | 0 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | 1 | 0 | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6715c1e9d3041e5ea4944e7" alt="" width="50" /> | 1 | 0 | VERNON | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 1 | 0 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
@@ -46,7 +45,7 @@
 </details>
 
 
-![Bar chart of top 25 artists](../../images/genres/uk_pop/artists.png)
+![Bar chart of top 24 artists](../../images/genres/uk_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/uk_pop/artists_comparison.png)
 ## Top Albums
@@ -54,8 +53,8 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | 5 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 4 | 2 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d7e26119d1a6648e34dc51c" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | 1 | 1 | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
@@ -99,7 +98,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 14 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
+| 11 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
 | 7 | 3 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 3 | 3 | [Syco Music](../../labels/syco_music/overview.md) |
