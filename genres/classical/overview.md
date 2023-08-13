@@ -79,11 +79,11 @@
 | <img src="https://i.scdn.co/image/017bf244ebfd64277d6ae3b4f2c817884aa96f1a" alt="" width="50" /> | 8 | 0 | Francis Poulenc | [🔗](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 8 | 0 | Veronika Hagen | [🔗](https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP) |
 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 8 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Orchestre de l’Opéra national de Paris | [🔗](https://open.spotify.com/artist/6qe7dVv9gojPhhrZDL1TUS) |
 | <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | 7 | 0 | Gustav Holst | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
 | <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | 7 | 0 | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 7 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | 7 | 0 | John Birch | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Orchestre de l'Opéra National de Paris | [🔗](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebae5e23c13f72e0ee01dfa99b" alt="" width="50" /> | 6 | 0 | Anne-Sophie Mutter | [🔗](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn) |
 | <img src="nan" alt="" width="50" /> | 6 | 0 | Ceri-lyn Cissone | [🔗](https://open.spotify.com/artist/6F3jOFmhUwRxRdWAZU6G1A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0931477643a0f9b69d261c41" alt="" width="50" /> | 6 | 0 | András Schiff | [🔗](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) |

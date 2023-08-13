@@ -12,7 +12,7 @@
 TWICE is currently:
 - The #3 artist of all time
 - The #4 artist of the last 6 months
-- The #6 artist of the last month
+- The #5 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
@@ -22,13 +22,11 @@ TWICE is currently:
 - WALLFLOWER is:
     - the #25 track of the last 6 months
 - BLAME IT ON ME is:
-    - the #23 track of the last month
+    - the #20 track of the last month
     - the #28 track of the last 6 months
 - SET ME FREE is:
-    - the #21 track of the last month
+    - the #19 track of the last month
     - the #39 track of the last 6 months
-- What is Love is:
-    - the #41 track of the last month
 
 ### Top tracks of all time over time
 

@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-20 tracks
+22 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -15,8 +15,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Wings | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Love Yourself 轉 'Tear' | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | MAP OF THE SOUL : 7 | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Like Crazy | FACE | Jimin | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](../../../../artists/j_hope/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
 ## Cluster #2
 
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](../../../../artists/j_hope/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
 ## Cluster #3
 
-19 tracks
+18 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

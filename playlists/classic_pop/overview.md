@@ -141,12 +141,13 @@
 
 
 <details>
-<summary>See all 25 labels</summary>
+<summary>See all 26 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 1 | Bee Gees Catalog |
 | 1 | 1 | Vorsicht Musik |
+| 1 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Sony Music CG |
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
@@ -164,7 +165,7 @@
 </details>
 
 
-![Bar chart of top 25 record labels](../../images/playlists/classic_pop/labels.png)
+![Bar chart of top 26 record labels](../../images/playlists/classic_pop/labels.png)
 
 ## Genres
 

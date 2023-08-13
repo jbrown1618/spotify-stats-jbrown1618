@@ -22,21 +22,21 @@ Red Velvet is currently:
 - Bad Boy is:
     - the #14 track of all time
 - Dumb Dumb is:
-    - the #24 track of the last month
+    - the #21 track of the last month
     - the #20 track of all time
 - Ice Cream Cake is:
     - the #38 track of all time
 - BYE BYE is:
-    - the #46 track of the last month
+    - the #49 track of the last month
     - the #14 track of the last 6 months
 - Birthday is:
-    - the #31 track of the last 6 months
-- ZOOM is:
     - the #32 track of the last 6 months
+- ZOOM is:
+    - the #33 track of the last 6 months
 - On A Ride is:
     - the #48 track of the last 6 months
 - 어떤 별보다 is:
-    - the #40 track of the last month
+    - the #45 track of the last month
 
 ### Top tracks of all time over time
 

@@ -115,9 +115,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="First Love" width="50" /> | Pepe (0.966) | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="Bare&amp;Rare, Pt. 1" width="50" /> | Good Night My Princess (0.112) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="Clé 2 : Yellow Wood" width="50" /> | Side Effects (0.118) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="MINISKIRT" width="50" /> | Miniskirt (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="Hwa:telier" width="50" /> | In The Fall (0.12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357b703060f763bf2d0a140d1" alt="2 Different Tears" width="50" /> | Tell Me (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Wet Nightmare (0.121) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | Humph! (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.122) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c492874e96f19148018e759e" alt="&#x27;Twinkle&#x27; Mini Album" width="50" /> | Twinkle (0.962) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | Time After Time (0.123) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | Humph! (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Wet Nightmare (0.121) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c492874e96f19148018e759e" alt="&#x27;Twinkle&#x27; Mini Album" width="50" /> | Twinkle (0.962) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.122) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry (0.962) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | Time After Time (0.123) |
 
 ## Tempo
 

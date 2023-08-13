@@ -18,27 +18,25 @@ IU is currently:
 ## Top Tracks
 
 - BBIBBI is:
-    - the #48 track of the last month
     - the #50 track of the last 6 months
     - the #15 track of all time
 - Coin is:
     - the #18 track of all time
 - My sea is:
-    - the #43 track of the last month
     - the #9 track of the last 6 months
     - the #24 track of all time
 - LILAC is:
     - the #39 track of all time
 - Jam Jam is:
-    - the #7 track of the last 6 months
-- YOU&I is:
-    - the #11 track of the last month
+    - the #8 track of the last 6 months
 - Modern Times is:
-    - the #12 track of the last month
+    - the #11 track of the last month
 - unlucky is:
-    - the #32 track of the last month
+    - the #34 track of the last month
+- YOU&I is:
+    - the #40 track of the last month
 - People Pt.2 (feat. IU) is:
-    - the #42 track of the last month
+    - the #46 track of the last month
 
 ### Top tracks of all time over time
 

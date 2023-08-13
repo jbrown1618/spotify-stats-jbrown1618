@@ -1,6 +1,6 @@
 # Starship Entertainment
 
-30 songs
+31 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Starship Entertainment (21 tracks)
-- STARSHIP ENTERTAINMENT (5 tracks)
+- STARSHIP ENTERTAINMENT (6 tracks)
 - STARSHIP Entertainment (4 tracks)
 
 ## Top Artists
@@ -21,10 +21,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb41d4a656d92f93daed36366" alt="" width="50" /> | 2 | 1 | JOOHONEY | [🔗](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb3b39b99f91ca659e213ab93" alt="" width="50" /> | 1 | 1 | WJSN THE BLACK | [🔗](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | 2 | 0 | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eafca2941ada62e7fc1cdf7" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 
-![Bar chart of top 8 artists](../../images/labels/starship_entertainment/artists.png)
+![Bar chart of top 9 artists](../../images/labels/starship_entertainment/artists.png)
 
 ## Top Albums
 
@@ -43,10 +44,11 @@ Appears as:
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 25 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="" width="50" /> | 1 | 1 | My attitude | 2021-05-12 | [🔗](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | 1 | 1 | LOVE & HATE | 2013-11-26 | [🔗](https://open.spotify.com/album/26FsnZOVOJDjKeWUbXuDVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | 1 | 1 | LIGHTS | 2023-05-22 | [🔗](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | 1 | 1 | HAPPY MOMENT (1) | 2017-06-07 | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
@@ -65,13 +67,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 24 albums](../../images/labels/starship_entertainment/albums.png)
+![Bar chart of top 25 albums](../../images/labels/starship_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 23 | 14 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 24 | 15 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 18 | 13 | [k-pop](../../genres/k_pop/overview.md) |
 | 3 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -119,6 +121,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="" width="50" /> | Hmph! | Hmph! | WJSN Chocome | [STARSHIP ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/0UF2ka9POcLMSi1rf9pwgA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | Super Yuppers! | Super Yuppers! | WJSN Chocome | [STARSHIP ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/31bblGq3GvqLutoW9wTcZy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="" width="50" /> | Easy | My attitude | WJSN THE BLACK | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/3KLkc1h39HhbuXIYB5xgAq) |
 
 </details>
 

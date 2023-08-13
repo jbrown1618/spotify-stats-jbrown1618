@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="K-Memes" width="100" />
 
-[58 tracks (25 liked) 🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9)
+[58 tracks (26 liked) 🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9)
 
 [See Track Features](audio_features.md)
 
@@ -36,6 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | 2 | 1 | CL | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 1 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 1 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 1 | 1 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 1 | 1 | SHINee | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
@@ -50,7 +51,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | 1 | 0 | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="" width="50" /> | 1 | 0 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 1 | 0 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed21ce124d4cd70fd94a1402" alt="" width="50" /> | 1 | 0 | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 0 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7f4b9b294a630d27f0c4d81" alt="" width="50" /> | 1 | 0 | HyunA | [🔗](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) |
@@ -80,8 +80,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | 1 | 1 | Windy | 2021-07-05 | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | 1 | 1 | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | 1 | 1 | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | 1 | Sticker - The 3rd Album | 2021-09-17 | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 
 
 <details>
@@ -89,6 +89,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 1 | 1 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 1 | 1 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e411b11ff552ac7eed12d334" alt="" width="50" /> | 1 | 1 | NUNA | 2020-07-30 | [🔗](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) |
@@ -111,7 +112,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273676c5cfc0c0f7ba0039adbba" alt="" width="50" /> | 1 | 0 | TREASURE EP.1: All to Zero | 2018-10-24 | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336484b845182eec375dace20" alt="" width="50" /> | 1 | 0 | THE THIRD SINGLE CATALLENA | 2014-03-12 | [🔗](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | 0 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 1 | 0 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | 0 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | 1 | 0 | Rookie - The 4th Mini Album | 2017-02-01 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd2e2ad104a29896dae6b84a" alt="" width="50" /> | 1 | 0 | Rollin' | 2017-03-07 | [🔗](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) |
@@ -143,7 +143,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 17 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 17 | 10 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 15 | 7 | [Republic Records](../../labels/republic_records/overview.md) |
 | 4 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 4 | 1 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
@@ -162,6 +162,7 @@
 |---:|---:|:---|
 | 1 | 1 | Silent Records |
 | 1 | 1 | P NATION |
+| 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | Abyss Company |
 | 2 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 0 | ICONIX CO. |
@@ -169,7 +170,6 @@
 | 1 | 0 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 1 | 0 | Pledis |
 | 1 | 0 | KQ Entertainment |
-| 1 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | Brave Entertainment |
 
 </details>
@@ -181,7 +181,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 49 | 22 | [k-pop](../../genres/k_pop/overview.md) |
+| 49 | 23 | [k-pop](../../genres/k_pop/overview.md) |
 | 26 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 19 | 7 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 10 | 5 | [pop](../../genres/pop/overview.md) |

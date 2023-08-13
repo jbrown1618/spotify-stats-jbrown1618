@@ -4,14 +4,8 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Gimme Sympathy [🔗](https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV) | 0 | 2009-04-14 | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | Fantasies [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 0 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Metric Music International | 💚 |
-| Gimme Sympathy [🔗](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | 55 | 2009-05-02 | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | Fantasies [🔗](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 60 | | MMI / Crystal Math Music | |
-| Broken Melodies [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | 62 | 2023-07-17 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | ISTJ - The 3rd Album [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 69 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | SM Entertainment | 💚 |
-| Broken Melodies [🔗](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | 70 | 2023-06-19 | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | Broken Melodies [🔗](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 59 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | SM Entertainment | |
-| All Too Well [🔗](https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR) | 51 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 65 | Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Big Machine Records, LLC | 💚 |
-| All Too Well [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) | 62 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red (Deluxe Edition) [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 63 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Big Machine Records, LLC | |
-| Tell Me [🔗](https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl) | 66 | 2007-09-12 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | The Wonder Years [🔗](https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD) | 56 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
-| Tell Me [🔗](https://open.spotify.com/track/62x5q8OrmPpmlA8PpjrQt3) | 65 | 2010-05-15 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 2 Different Tears [🔗](https://open.spotify.com/album/1TqEUbduSOGhGWo0cP4qYM) | 55 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
+| All Too Well [🔗](https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR) | 51 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 64 | Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Big Machine Records, LLC | 💚 |
+| All Too Well [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) | 63 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red (Deluxe Edition) [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 63 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Big Machine Records, LLC | |
 
 ## Duplicate albums
 
@@ -21,19 +15,11 @@
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 39 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| Fantasies [🔗](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | 60 | 2009-05-02 | MMI / Crystal Math Music | Gimme Sympathy [🔗](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | |
-| Fantasies [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | 0 | 2009-04-14 | Metric Music International | Gimme Sympathy [🔗](https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
 
 ## Tracks with low popularity
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 25 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 28 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
@@ -299,9 +285,9 @@
 | String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
-| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
+| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 68 |
 | React | React | The Pussycat Dolls | 1 | 0 | 67 |
-| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 74 |
+| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 73 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
@@ -309,7 +295,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 0 | 52 |
 | A Case of You | Blue | Joni Mitchell | 1 | 0 | 52 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 52 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 52 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -363,7 +349,7 @@
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 80 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 79 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
@@ -377,9 +363,9 @@
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 26 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
@@ -392,9 +378,9 @@
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 82 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 82 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 82 |
@@ -412,7 +398,7 @@
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 33 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 2 | 0 | 53 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 73 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
@@ -433,4 +419,4 @@
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 40 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
-| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 76 |
+| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 75 |

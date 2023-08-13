@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1592 tracks
+1596 tracks
 
 [See Track Features](audio_features.md)
 
@@ -71,6 +71,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="" width="50" /> | 7 | 7 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 7 | 7 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 7 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 7 | 7 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d874b307cb092e68db73207" alt="" width="50" /> | 6 | 6 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 6 | 6 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 6 | 6 | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
@@ -79,7 +80,6 @@
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 6 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="" width="50" /> | 6 | 6 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 6 | 6 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 6 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 6 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 6 | 6 | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
@@ -107,6 +107,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 5 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 4 | 4 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e9d1c8642df6f869631fe62" alt="" width="50" /> | 4 | 4 | Crush | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb83962d7c7c639d9d5c38a0e1" alt="" width="50" /> | 4 | 4 | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="" width="50" /> | 4 | 4 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 4 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 4 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
@@ -116,7 +117,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 4 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 4 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed21ce124d4cd70fd94a1402" alt="" width="50" /> | 4 | 4 | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 4 | 4 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 
 </details>
 
@@ -246,14 +246,14 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 183 | 183 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 184 | 184 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 97 | 97 | [Republic Records](../../labels/republic_records/overview.md) |
 | 61 | 61 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 61 | 61 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 60 | 60 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 61 | 61 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 60 | 60 | [Epic](../../labels/epic/overview.md) |
 | 57 | 57 | [Columbia](../../labels/columbia/overview.md) |
-| 54 | 54 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 55 | 55 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 52 | 52 | [Warner Records](../../labels/warner_records/overview.md) |
 | 45 | 45 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
@@ -265,13 +265,13 @@
 |---:|---:|:---|
 | 43 | 43 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 33 | 33 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 29 | 29 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 29 | 29 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
-| 28 | 28 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 27 | 27 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 22 | 22 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 21 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 20 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 19 | 19 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
+| 20 | 20 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 19 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 17 | 17 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 17 | 17 | [Polydor Records](../../labels/polydor_records/overview.md) |
@@ -279,11 +279,11 @@
 | 16 | 16 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 15 | 15 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 14 | 14 | [Rhino](../../labels/rhino/overview.md) |
-| 14 | 14 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
+| 14 | 14 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 13 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 13 | 13 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
+| 13 | 13 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 13 | 13 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
-| 13 | 13 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 12 | 12 | [Jive](../../labels/jive/overview.md) |
 | 12 | 12 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 11 | 11 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
@@ -323,6 +323,7 @@
 | 4 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
 | 4 | 4 | THE BLACK LABEL |
 | 4 | 4 | TEAM WANG records |
+| 4 | 4 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 4 | 4 | Riot Games |
 | 4 | 4 | P NATION |
 | 4 | 4 | Olivia Rodrigo PS |
@@ -338,7 +339,6 @@
 | 3 | 3 | Universal (MT) |
 | 3 | 3 | Top Dawg Entertainment |
 | 3 | 3 | Steam Powered Giraffe |
-| 3 | 3 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 3 | 3 | Sony Music Entertainment |
 | 3 | 3 | Sony BMG Music UK |
 | 3 | 3 | SWING ENTERTAINMENT |
@@ -363,9 +363,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 711 | 711 | [k-pop](../../genres/k_pop/overview.md) |
+| 714 | 714 | [k-pop](../../genres/k_pop/overview.md) |
 | 396 | 396 | [pop](../../genres/pop/overview.md) |
-| 346 | 346 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 348 | 348 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 186 | 186 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -485,19 +485,19 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 114 |
-| [2022](2022.md) | 241 |
-| [2021](2021.md) | 183 |
+| [2022](2022.md) | 242 |
+| [2021](2021.md) | 184 |
 | [2020](2020.md) | 133 |
-| [2019](2019.md) | 121 |
+| [2019](2019.md) | 123 |
 | [2018](2018.md) | 83 |
 | [2017](2017.md) | 74 |
 | [2016](2016.md) | 75 |
-| [2015](2015.md) | 61 |
+| [2015](2015.md) | 62 |
 | [2014](2014.md) | 43 |
 | [2013](2013.md) | 53 |
 | [2012](2012.md) | 52 |
 | [2011](2011.md) | 36 |
-| [2010](2010.md) | 39 |
+| [2010](2010.md) | 38 |
 | [2009](2009.md) | 31 |
 | [2008](2008.md) | 23 |
 | [2007](2007.md) | 27 |
@@ -550,8 +550,8 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d82134e7954987dddfdcaab" alt="The Flash" width="50" /> | The Flash (2023-08-02) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="KILL MY DOUBT" width="50" /> | KILL MY DOUBT (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="KILL MY DOUBT" width="50" /> | KILL MY DOUBT (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | 2ND FULL ALBUM 'REBOOT' (2023-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Masterpiece (2023-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="NewJeans 2nd EP &#x27;Get Up&#x27;" width="50" /> | NewJeans 2nd EP 'Get Up' (2023-07-21) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |

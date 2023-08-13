@@ -1,13 +1,13 @@
 # YG Entertainment
 
-76 songs
+77 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- YG Entertainment (44 tracks)
+- YG Entertainment (45 tracks)
 - YG Entertainment/Interscope Records (20 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
@@ -30,7 +30,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 21 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,13 +42,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb27d469b67abc46cec59effb" alt="" width="50" /> | 1 | 1 | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | 1 | 1 | G.Soul | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c4acb1897759452c0ed82d9" alt="" width="50" /> | 1 | 0 | WINNER | [🔗](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 1 | 0 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
 
 
-![Bar chart of top 20 artists](../../images/labels/yg_entertainment/artists.png)
+![Bar chart of top 21 artists](../../images/labels/yg_entertainment/artists.png)
 
 ## Top Albums
 
@@ -67,7 +68,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -96,6 +97,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | 1 | 1 | As If It's Your Last | 2017-06-22 | [🔗](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1 | 1 | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | 1 | 0 | PSY 7TH ALBUM | 2015-12-01 | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354b7f414d89b0a2667bbdb15" alt="" width="50" /> | 1 | 0 | FATE NUMBER FOR | 2017-04-04 | [🔗](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | 1 | 0 | DEBUT FULL ALBUM 'WELCOME BACK' | 2015-12-24 | [🔗](https://open.spotify.com/album/56d4rgrQSPY3fzbxQS260h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | 1 | 0 | ALIVE | 2012-02-29 | [🔗](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) |
 
@@ -108,10 +110,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 66 | 55 | [k-pop](../../genres/k_pop/overview.md) |
+| 67 | 55 | [k-pop](../../genres/k_pop/overview.md) |
 | 29 | 23 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 28 | 22 | [pop](../../genres/pop/overview.md) |
-| 18 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 19 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | [k-rap](../../genres/k_rap/overview.md) |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -202,6 +204,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | BONA BONA | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | MOVE (T5) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6ce3rQ3j3vfRics2YiHWbW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | STUPID | 2ND FULL ALBUM 'REBOOT' | [TREASURE](../../artists/treasure/overview.md) | [Columbia](../columbia), [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/5bmDeCYksJWvW95E2rSH2G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354b7f414d89b0a2667bbdb15" alt="" width="50" /> | REALLY REALLY | FATE NUMBER FOR | WINNER | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/6vLIqcTMfTvs6ecdYqRuOD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | BEAUTIFUL | Return | iKON | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/2l526adqDC9nZ9TL4dD80A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | LOVE SCENARIO | Return | iKON | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) |

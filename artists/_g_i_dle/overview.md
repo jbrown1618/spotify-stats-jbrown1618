@@ -25,6 +25,8 @@
     - the #36 track of the last 6 months
 - TOMBOY is:
     - the #46 track of the last 6 months
+- All Night is:
+    - the #9 track of the last month
 - HANN (Alone in winter) is:
     - the #10 track of the last month
 

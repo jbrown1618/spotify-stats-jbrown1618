@@ -12,7 +12,7 @@
 NewJeans is currently:
 - The #25 artist of all time
 - The #15 artist of the last 6 months
-- The #15 artist of the last month
+- The #14 artist of the last month
 
 ![Rank of NewJeans over time](../../images/artists/newjeans/rank_time_series.png)
 ## Top Tracks
@@ -20,7 +20,7 @@ NewJeans is currently:
 - Ditto is:
     - the #11 track of the last 6 months
 - OMG is:
-    - the #33 track of the last 6 months
+    - the #34 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

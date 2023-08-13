@@ -169,7 +169,7 @@
 
 
 <details>
-<summary>See all 49 labels</summary>
+<summary>See all 50 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -182,6 +182,7 @@
 | 1 | 1 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 1 | 1 | Superpop.Co |
 | 1 | 1 | Sugar Hill Records |
+| 1 | 1 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Radiculture |
 | 1 | 1 | Parlophone Records Limited |

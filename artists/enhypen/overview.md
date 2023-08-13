@@ -12,7 +12,7 @@
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #9 artist of the last 6 months
-- The #5 artist of the last month
+- The #11 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
@@ -26,9 +26,9 @@ ENHYPEN is currently:
 - Just A Little Bit is:
     - the #44 track of all time
 - CRIMINAL LOVE is:
-    - the #18 track of the last month
+    - the #15 track of the last month
 - Bills is:
-    - the #35 track of the last month
+    - the #38 track of the last month
 
 ### Top tracks of all time over time
 

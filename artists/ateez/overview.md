@@ -8,7 +8,6 @@
 ATEEZ is currently:
 - The #30 artist of all time
 - The #28 artist of the last 6 months
-- The #26 artist of the last month
 
 ![Rank of ATEEZ over time](../../images/artists/ateez/rank_time_series.png)
 ## Top Tracks

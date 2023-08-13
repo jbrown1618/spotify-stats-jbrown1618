@@ -1,20 +1,20 @@
 # JYP Entertainment
 
-26 songs
+25 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- JYP Entertainment (25 tracks)
+- JYP Entertainment (24 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 6 | 4 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 5 | 3 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 5 | 2 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | 2 | 2 | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 2 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -60,7 +60,7 @@ Appears as:
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 23 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -68,7 +68,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4d85babdbdecf2c21568ea0" alt="" width="50" /> | 1 | 1 | Call My Name | 2019-11-04 | [🔗](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | 1 | 1 | Bye Bye My Blue | 2016-06-20 | [🔗](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="" width="50" /> | 1 | 1 | A Class | 2011-07-18 | [🔗](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357b703060f763bf2d0a140d1" alt="" width="50" /> | 1 | 1 | 2 Different Tears | 2010-05-15 | [🔗](https://open.spotify.com/album/1TqEUbduSOGhGWo0cP4qYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | 1 | 0 | This Christmas - Single | 2010-12-01 | [🔗](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | 1 | 0 | The Wonder Years - Trilogy | 2008-09-22 | [🔗](https://open.spotify.com/album/61KwS8kiAywHkZ7gp4asTE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273948cec37077fdcd1b570c3ae" alt="" width="50" /> | 1 | 0 | REBOOT | 2015-08-03 | [🔗](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) |
@@ -82,14 +81,14 @@ Appears as:
 </details>
 
 
-![Bar chart of top 24 albums](../../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 23 albums](../../images/labels/jyp_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 11 | [k-pop](../../genres/k_pop/overview.md) |
-| 11 | 7 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 18 | 10 | [k-pop](../../genres/k_pop/overview.md) |
+| 10 | 6 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 8 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 1 | classic k-pop |
 | 1 | 1 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -126,7 +125,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="" width="50" /> | Tell Me | The Wonder Years | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="" width="50" /> | So Hot | So Hot | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="" width="50" /> | Nobody | The Wonder Years - Trilogy | Wonder Girls | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/7C3JLAmQzy9SnTZjKcdzCA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357b703060f763bf2d0a140d1" alt="" width="50" /> | Tell Me | 2 Different Tears | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/62x5q8OrmPpmlA8PpjrQt3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273948cec37077fdcd1b570c3ae" alt="" width="50" /> | Rewind | REBOOT | Wonder Girls | [JYP Entertainment](.) | | [🔗](https://open.spotify.com/track/6UNRjSjhTNTu4b8fNEhDya) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018ac0665d32b08c76afd4cc" alt="" width="50" /> | Why So Lonely | Why So Lonely | Wonder Girls | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |

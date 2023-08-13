@@ -16,9 +16,9 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 6 | 5 | [Katy Perry](../../artists/katy_perry/overview.md) | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 2 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3e3db4f0aec872ec513b3c0" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | 3 | 1 | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed2a4679f2d35ff058d3a508" alt="" width="50" /> | 1 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
@@ -56,9 +56,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1991-01-01 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | 1 | 1 | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | 1 | 1 | Surrender | 2022-07-29 | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | 1 | 1 | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | 1 | 1 | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 
 
 <details>
@@ -66,9 +66,9 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | 1 | 1 | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | 1 | 1 | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | 1 | 1 | Heard It In A Past Life | 2019-01-18 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 1 | 0 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | 1 | 0 | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
@@ -88,12 +88,12 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 12 | 8 | [pop](../../genres/pop/overview.md) |
+| 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 2 | indie pop |
 | 5 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 5 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 1 | vocal jazz |
 | 3 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 2 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 1 | indie poptimism |
 | 2 | 1 | etherpop |
 | 2 | 1 | [electropop](../../genres/electropop/overview.md) |
@@ -163,7 +163,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | Put A Little Love On Me | Niall Horan | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | Sam Smith | [Capitol](.) | | [🔗](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | Kids Again | Love Goes | Sam Smith | [Capitol](.) | | [🔗](https://open.spotify.com/track/5LL9lSNn26GBoC5StQ3itk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="" width="50" /> | Surfin' U.S.A. | 50 Big Ones: Greatest Hits | The Beach Boys | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/2EPr9Wx7e1cpGEbNAtuN7x) |
 
