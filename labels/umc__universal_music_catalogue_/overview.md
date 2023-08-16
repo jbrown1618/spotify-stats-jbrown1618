@@ -18,7 +18,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 1 | 1 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 12 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | <img src="https://i.scdn.co/image/57eaffbd4a9f606a5848ab974cacfa5ba4ca4b59" alt="" width="50" /> | 7 | 0 | Emmy Rossum | [🔗](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309f636a08b6f3c5c6368a58c" alt="" width="50" /> | 5 | 0 | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e72725a1a0e0041642908257" alt="" width="50" /> | 5 | 0 | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 2 | 0 | "Cats" 1983 Broadway Cast | [🔗](https://open.spotify.com/artist/2cez574BwRD00PGEbNl4SH) |
 | <img src="nan" alt="" width="50" /> | 2 | 0 | Patrick Wilson | [🔗](https://open.spotify.com/artist/0z5nxdz5osD8FsmaUDmfC0) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Hector Jaime Mercado | [🔗](https://open.spotify.com/artist/7mGrd0nUrFLiz1ettU2olj) |

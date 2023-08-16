@@ -71,15 +71,14 @@ Appears as:
 | 1 | 1 | quiet storm |
 | 1 | 1 | pop rap |
 | 1 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 1 | 1 | hip hop |
+| 1 | 1 | funk |
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | funk |
 | 1 | 1 | disco |
 | 1 | 1 | classic soul |
 | 1 | 1 | atl hip hop |
@@ -88,7 +87,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 15 genres](../../images/labels/motown/genres.png)
+![Bar chart of top 14 genres](../../images/labels/motown/genres.png)
 
 ## Tracks released under MOTOWN
 

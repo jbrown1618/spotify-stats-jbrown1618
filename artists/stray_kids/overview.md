@@ -11,18 +11,20 @@
 ## Artist Rank
 Stray Kids is currently:
 - The #8 artist of all time
-- The #3 artist of the last 6 months
-- The #4 artist of the last month
+- The #4 artist of the last 6 months
+- The #5 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
-    - the #27 track of the last month
-    - the #23 track of the last 6 months
+    - the #34 track of the last month
+    - the #24 track of the last 6 months
     - the #49 track of all time
 - S-Class is:
-    - the #17 track of the last month
+    - the #21 track of the last month
+- Hall of Fame is:
+    - the #29 track of the last month
 
 ### Top tracks of all time over time
 

@@ -21,7 +21,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 2 | 2 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 2 | 2 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 2 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 2 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8acf72a6c3da24a6483255fa" alt="" width="50" /> | 1 | 1 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 
 
@@ -202,10 +202,10 @@
 | 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | pop rap |
-| 2 | 2 | hip hop |
 | 2 | 2 | [anime](../../genres/anime/overview.md) |
 | 1 | 1 | west coast rap |
 | 1 | 1 | trap |
+| 1 | 1 | scandipop |
 
 
 <details>
@@ -213,8 +213,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | scandipop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 1 | 1 | hip hop |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | conscious hip hop |
 | 1 | 1 | atl hip hop |

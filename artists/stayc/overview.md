@@ -2,7 +2,7 @@
 # STAYC
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="STAYC" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="STAYC" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -19,7 +19,7 @@ STAYC is currently:
 - POPPY - Japanese Ver. is:
     - the #22 track of the last 6 months
 - SO BAD is:
-    - the #28 track of the last month
+    - the #35 track of the last month
 
 ### Top tracks of the last 6 months over time
 

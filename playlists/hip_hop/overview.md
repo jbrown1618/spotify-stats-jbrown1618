@@ -195,7 +195,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 30 | 14 | [rap](../../genres/rap/overview.md) |
-| 24 | 10 | hip hop |
+| 23 | 9 | hip hop |
 | 8 | 7 | [pop](../../genres/pop/overview.md) |
 | 15 | 4 | pop rap |
 | 5 | 4 | [dance pop](../../genres/dance_pop/overview.md) |

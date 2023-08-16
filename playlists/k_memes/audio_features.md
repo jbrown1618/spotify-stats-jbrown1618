@@ -82,8 +82,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="Twicecoaster: Lane 1" width="50" /> | TT (0.00016) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | Beautiful Christmas (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="BILLY POCO" width="50" /> | Billy Poco (9.38e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | Boys Like You (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (8.06e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | 2 Baddies (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY (6.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="PSY 7TH ALBUM" width="50" /> | DADDY (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (5.46e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY (6.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="THE BOYZ 3rd Single Album [MAVERICK]" width="50" /> | MAVERICK (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) - English Version (5.46e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="PSY 7TH ALBUM" width="50" /> | DADDY (0.0) |
 
 ## Liveness
 

@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 48 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -229,6 +229,7 @@
 | 2 | 1 | alternative metal |
 | 1 | 1 | southern rock |
 | 1 | 1 | jam band |
+| 1 | 1 | electric blues |
 | 1 | 1 | australian rock |
 | 3 | 0 | zolo |
 | 3 | 0 | proto-metal |

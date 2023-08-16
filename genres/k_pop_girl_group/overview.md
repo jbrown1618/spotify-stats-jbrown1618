@@ -1,6 +1,6 @@
 # k-pop girl group
 
-[488 songs](tracks.md)
+[487 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 19 | 16 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 11 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 15 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f44c5165785a877bd4ae376" alt="" width="50" /> | 13 | 10 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 13 | 10 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 
 <details>
@@ -30,7 +30,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="" width="50" /> | 12 | 10 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb510c56f38c9fc97ee80f7256" alt="" width="50" /> | 11 | 10 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 7 | 7 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 11 | 6 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 10 | 6 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 9 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 6 | 6 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 6 | 6 | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
@@ -91,7 +91,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | 1 | 0 | Bekuh Boom | [🔗](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcae99c0bae2247ad4cb0c904" alt="" width="50" /> | 1 | 0 | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="" width="50" /> | 1 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb381bcf13de0c1b6e04f44429" alt="" width="50" /> | 1 | 0 | Annika Wells | [🔗](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef5d07c5ebef6c85660c283f" alt="" width="50" /> | 1 | 0 | Annika Wells | [🔗](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | 1 | 0 | OH MY GIRL BANHANA | [🔗](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
@@ -235,7 +235,7 @@
 
 
 <details>
-<summary>See all 72 labels</summary>
+<summary>See all 71 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -291,11 +291,10 @@
 | 2 | 0 | 해피페이스 엔터테인먼트 |
 | 1 | 0 | 내가네트워크 |
 | 1 | 0 | ㈜RBW |
-| 1 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 0 | Pledis |
 | 1 | 0 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 1 | 0 | MOG COMMUNICATIONS |
-| 1 | 0 | IST ENTERTAINMENT |
+| 1 | 0 | IST Entertainment |
 | 1 | 0 | ICONIX |
 | 1 | 0 | FNC인베스트먼트 |
 | 1 | 0 | FNC W |
@@ -322,4 +321,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273352c1795169e652972b848a6" alt="GRL GVNG" width="50" /> | GRL GVNG (2023-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Oh! - The Second Album (2010-01-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376a39689fe9e5753586f8ba9" alt="That Karma" width="50" /> | That Karma (2023-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | I feel (2023-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | To Anyone (2010-09-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739254f2d47aa762c033f2682e" alt="WAVE" width="50" /> | WAVE (2023-05-09) | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="A Class" width="50" /> | A Class (2011-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2730444d21d6cb2fcae0247ff60" alt="A Class" width="50" /> | A Class (2011-07-18) |

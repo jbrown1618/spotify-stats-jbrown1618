@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | 1 | 1 | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 3 | 0 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46093a3d5c483cac4d0b3455" alt="" width="50" /> | 3 | 0 | OFFICIAL HIGE DANDISM | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0369149b418d4591d127c492" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0de22aea5aea7449b0423435" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1b54ac2809d664b9e1031e" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec0a49aeb06b8319cc6c9766" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |

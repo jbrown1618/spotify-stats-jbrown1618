@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-79 tracks
+80 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Best Friend (with SEULGI) | Like Water - The 1st Mini Album | [WENDY](../../../../artists/wendy/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu) |
 ## Cluster #4
 
-47 tracks
+49 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -61,20 +61,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday | Holiday Night - The 6th Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Misfit | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](../../../../artists/nct_u/overview.md) | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | Be Natural | Be Natural - The 2nd Single | [Red Velvet](../../../../artists/red_velvet/overview.md), TAEYONG | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Day 1 | The Red - The 1st Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/74muMkVdMYoR65lhmdzy13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | About Love | Perfect Velvet - The 2nd Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/2aSoUIBolhj734OqGn5ave) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | Good, Bad, Ugly | ‘The ReVe Festival 2022 - Feel My Rhythm’ | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/1DX08glq6CBGBA0N6uL3JV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | SHINee | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | Black Suit | PLAY - The 8th Album | [SUPER JUNIOR](../../../../artists/super_junior/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4eaffe012c3fc3b73a61bb2" alt="" width="50" /> | Weekend | Weekend | [TAEYEON](../../../../artists/taeyeon/overview.md) | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) |
 ## Cluster #5
 
-63 tracks
+62 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | Ko Ko Bop | THE WAR - The 4th Album | [EXO](../../../../artists/exo/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | Gravity | LOVE SHOT– The 5th Album Repackage | [EXO](../../../../artists/exo/overview.md) | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/24r3v5xQdmC4qXH6twiWla) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d3cc4b932b0e51723ab01" alt="" width="50" /> | Stupid | DEEP - The 1st Mini Album | HYO | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/3ghA3YbRClR38uHjQhOZPo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Make A Wish (Birthday Song) | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](../../../../artists/nct_u/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Make A Wish (Birthday Song) - English Version | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](../../../../artists/nct_u/overview.md) | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/1iPmAMVMqoT2ZromLzo305) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | Beg For Me | ‘The ReVe Festival 2022 - Feel My Rhythm’ | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/6Zr6W8j3jJ3z50XsBCvm3e) |
@@ -82,9 +81,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | View | Odd - The 4th Album | SHINee | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | HARD | HARD - The 8th Album | SHINee | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC | MIROTIC - The 4th Album | TVXQ! | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | YEPPI YEPPI | Savage - The 1st Mini Album | [aespa](../../../../artists/aespa/overview.md) | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz) |
 ## Cluster #6
 
-23 tracks
+22 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

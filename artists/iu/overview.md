@@ -24,19 +24,19 @@ IU is currently:
     - the #18 track of all time
 - My sea is:
     - the #9 track of the last 6 months
-    - the #24 track of all time
+    - the #25 track of all time
 - LILAC is:
     - the #39 track of all time
 - Jam Jam is:
-    - the #8 track of the last 6 months
+    - the #13 track of the last 6 months
 - Modern Times is:
-    - the #11 track of the last month
+    - the #14 track of the last month
 - unlucky is:
-    - the #34 track of the last month
+    - the #41 track of the last month
 - YOU&I is:
-    - the #40 track of the last month
+    - the #44 track of the last month
 - People Pt.2 (feat. IU) is:
-    - the #46 track of the last month
+    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

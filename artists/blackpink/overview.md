@@ -18,7 +18,7 @@ BLACKPINK is currently:
 ## Top Tracks
 
 - Pretty Savage is:
-    - the #32 track of the last month
+    - the #39 track of the last month
     - the #2 track of all time
 - How You Like That is:
     - the #4 track of all time

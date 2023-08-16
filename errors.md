@@ -5,7 +5,7 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | All Too Well [🔗](https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR) | 51 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 64 | Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Big Machine Records, LLC | 💚 |
-| All Too Well [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) | 63 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red (Deluxe Edition) [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 63 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Big Machine Records, LLC | |
+| All Too Well [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) | 62 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red (Deluxe Edition) [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 63 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Big Machine Records, LLC | |
 
 ## Duplicate albums
 
@@ -74,28 +74,28 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 49 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 49 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 49 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 46 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
-| Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
-| That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 0 | 62 |
-| Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
+| Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 61 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 0 | 61 |
+| Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 61 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 0 | 59 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 67 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 61 |
@@ -269,8 +269,8 @@
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 58 |
-| PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
-| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
+| PLAY | PLAY | CHANGMO | 0 | 0 | 54 |
+| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
 | String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
 | String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
@@ -293,9 +293,9 @@
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | Carey | Blue | Joni Mitchell | 0 | 0 | 52 |
 | Blue | Blue | Joni Mitchell | 0 | 0 | 52 |
-| A Case of You | Blue | Joni Mitchell | 1 | 0 | 52 |
+| A Case of You | Blue | Joni Mitchell | 2 | 0 | 52 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 52 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 52 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -333,7 +333,7 @@
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 32 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 51 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 46 |
-| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 54 |
+| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 53 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 46 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 29 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 62 |
@@ -351,7 +351,7 @@
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 79 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
-| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
+| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 60 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
@@ -375,9 +375,9 @@
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 64 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 30 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 43 |
-| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
+| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
+| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
+| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
@@ -390,7 +390,7 @@
 | RED | RED | The Rose | 1 | 0 | 64 |
 | She′s In The Rain | Dawn | The Rose | 2 | 1 | 64 |
 | BABY | Void | The Rose | 0 | 0 | 64 |
-| Sorry | Sorry | The Rose | 2 | 0 | 64 |
+| Sorry | Sorry | The Rose | 1 | 0 | 64 |
 | I will show you | Invitation | AILEE | 1 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
@@ -402,9 +402,9 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
-| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 2 | 0 | 47 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
+| Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 86 |
+| Miku | Miku | Anamanaguchi | 2 | 0 | 46 |
 | Miku | Miku | Hatsune Miku | 2 | 0 | 60 |
 | Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 45 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |

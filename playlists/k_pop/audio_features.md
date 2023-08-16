@@ -116,8 +116,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="MINISKIRT" width="50" /> | Miniskirt (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="Clé 2 : Yellow Wood" width="50" /> | Side Effects (0.118) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c492874e96f19148018e759e" alt="&#x27;Twinkle&#x27; Mini Album" width="50" /> | Twinkle (0.962) | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="Hwa:telier" width="50" /> | In The Fall (0.12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry (0.962) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Wet Nightmare (0.121) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | Cupid (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.122) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="Lion Heart - The 5th Album" width="50" /> | Lion Heart (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | Time After Time (0.123) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August" width="50" /> | LIP GLOSS (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.122) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | Cupid (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | Time After Time (0.123) |
 
 ## Tempo
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="K-Memes" width="100" />
 
-[58 tracks (26 liked) 🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9)
+[59 tracks (26 liked) 🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 40 artists</summary>
+<summary>See all 41 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -59,6 +59,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | 1 | 0 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba31675abc6399c98291986db" alt="" width="50" /> | 1 | 0 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | 1 | 0 | OH MY GIRL BANHANA | [🔗](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 1 | 0 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
@@ -85,7 +86,7 @@
 
 
 <details>
-<summary>See all 54 albums</summary>
+<summary>See all 55 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -111,6 +112,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | 1 | 0 | The Renaissance - The 10th Album | 2021-03-16 | [🔗](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273676c5cfc0c0f7ba0039adbba" alt="" width="50" /> | 1 | 0 | TREASURE EP.1: All to Zero | 2018-10-24 | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336484b845182eec375dace20" alt="" width="50" /> | 1 | 0 | THE THIRD SINGLE CATALLENA | 2014-03-12 | [🔗](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="" width="50" /> | 1 | 0 | THE BOYZ 3rd Single Album [MAVERICK] | 2021-11-01 | [🔗](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | 0 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | 0 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | 1 | 0 | Rookie - The 4th Mini Album | 2017-02-01 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
@@ -156,7 +158,7 @@
 
 
 <details>
-<summary>See all 21 labels</summary>
+<summary>See all 22 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -170,20 +172,21 @@
 | 1 | 0 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 1 | 0 | Pledis |
 | 1 | 0 | KQ Entertainment |
+| 1 | 0 | Cre.ker Entertainment |
 | 1 | 0 | Brave Entertainment |
 
 </details>
 
 
-![Bar chart of top 21 record labels](../../images/playlists/k_memes/labels.png)
+![Bar chart of top 22 record labels](../../images/playlists/k_memes/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 49 | 23 | [k-pop](../../genres/k_pop/overview.md) |
+| 50 | 23 | [k-pop](../../genres/k_pop/overview.md) |
 | 26 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 19 | 7 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 20 | 7 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 10 | 5 | [pop](../../genres/pop/overview.md) |
 | 3 | 2 | classic k-pop |
 | 2 | 1 | korean old school hip hop |
