@@ -11,14 +11,13 @@
 ## Artist Rank
 ENHYPEN is currently:
 - The #11 artist of all time
-- The #8 artist of the last 6 months
+- The #7 artist of the last 6 months
 - The #4 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #46 track of the last month
     - the #5 track of the last 6 months
     - the #24 track of all time
 - Polaroid Love is:
@@ -26,10 +25,11 @@ ENHYPEN is currently:
     - the #42 track of all time
 - Just A Little Bit is:
     - the #44 track of all time
-- CRIMINAL LOVE is:
-    - the #1 track of the last month
 - Bills is:
-    - the #27 track of the last month
+    - the #10 track of the last month
+    - the #45 track of the last 6 months
+- CRIMINAL LOVE is:
+    - the #2 track of the last month
 
 ### Top tracks of all time over time
 

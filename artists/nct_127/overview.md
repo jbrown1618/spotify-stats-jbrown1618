@@ -16,8 +16,6 @@ NCT 127 is currently:
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks
 
-- Highway to Heaven - English Version is:
-    - the #48 track of the last month
 
 ### Top tracks of the last 6 months over time
 

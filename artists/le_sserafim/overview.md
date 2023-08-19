@@ -10,9 +10,9 @@
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #19 artist of all time
-- The #12 artist of the last 6 months
-- The #26 artist of the last month
+- The #20 artist of all time
+- The #13 artist of the last 6 months
+- The #20 artist of the last month
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
@@ -20,7 +20,7 @@ LE SSERAFIM is currently:
 - Impurities is:
     - the #12 track of the last 6 months
 - No-Return (Into the unknown) is:
-    - the #31 track of the last month
+    - the #11 track of the last month
 
 ### Top tracks of the last 6 months over time
 

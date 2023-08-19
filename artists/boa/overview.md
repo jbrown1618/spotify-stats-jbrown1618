@@ -13,9 +13,7 @@ BoA is currently:
 ## Top Tracks
 
 - Time After Time is:
-    - the #16 track of the last 6 months
-- Forgive Me is:
-    - the #49 track of the last 6 months
+    - the #9 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

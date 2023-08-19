@@ -14,9 +14,9 @@
 ## Top Tracks
 
 - Amusement Park is:
-    - the #33 track of all time
+    - the #34 track of all time
 - Dream is:
-    - the #37 track of all time
+    - the #38 track of all time
 
 ### Top tracks of all time over time
 
