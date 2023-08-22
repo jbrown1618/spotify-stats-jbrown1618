@@ -7,7 +7,7 @@
 ## Artist Rank
 CLC is currently:
 - The #47 artist of all time
-- The #50 artist of the last 6 months
+- The #49 artist of the last 6 months
 
 ![Rank of CLC over time](../../images/artists/clc/rank_time_series.png)
 ## Top Tracks

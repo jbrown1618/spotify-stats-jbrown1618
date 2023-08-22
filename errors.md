@@ -92,15 +92,12 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| SLAY | ALL MY GIRLS | EVERGLOW | 0 | 0 | 58 |
-| Make Me Feel | ALL MY GIRLS | EVERGLOW | 0 | 0 | 58 |
-| Oh Ma Ma God | ALL MY GIRLS | EVERGLOW | 0 | 0 | 58 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 61 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 0 | 61 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 61 |
 | Now (feat. Hwa Sa) | PSY 9th | Hwa Sa | 0 | 0 | 59 |
-| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 67 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 66 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 61 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 52 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 52 |
@@ -290,7 +287,7 @@
 | ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 68 |
 | React | React | The Pussycat Dolls | 1 | 0 | 67 |
-| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 73 |
+| 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
@@ -298,7 +295,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 0 | 52 |
 | A Case of You | Blue | Joni Mitchell | 1 | 0 | 52 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 52 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 52 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -334,7 +331,7 @@
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 32 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 32 |
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 32 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 51 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 52 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 46 |
 | Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 53 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 46 |
@@ -356,14 +353,6 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 60 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
-| Closer | ZONE | JIHYO | 0 | 0 | 42 |
-| Nightmare | ZONE | JIHYO | 0 | 0 | 42 |
-| Room | ZONE | JIHYO | 0 | 0 | 42 |
-| Talkin’ About It (Feat. 24kGoldn) | ZONE | JIHYO | 0 | 0 | 42 |
-| Don’t Wanna Go Back (Duet with Heize) | ZONE | JIHYO | 0 | 0 | 42 |
-| Killin’ Me Good | ZONE | JIHYO | 0 | 0 | 42 |
-| Talkin’ About It (Feat. 24kGoldn) | ZONE | 24kGoldn | 0 | 0 | 69 |
-| Don’t Wanna Go Back (Duet with Heize) | ZONE | HEIZE | 0 | 0 | 56 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
 | Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
@@ -378,7 +367,6 @@
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 25 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
-| Better Things | Better Things | aespa | 0 | 0 | 72 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
@@ -400,10 +388,10 @@
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 1 | 0 | 64 |
-| She′s In The Rain | Dawn | The Rose | 2 | 0 | 64 |
+| She′s In The Rain | Dawn | The Rose | 1 | 0 | 64 |
 | BABY | Void | The Rose | 0 | 0 | 64 |
 | Sorry | Sorry | The Rose | 1 | 0 | 64 |
-| I will show you | Invitation | AILEE | 1 | 0 | 56 |
+| I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
@@ -413,13 +401,13 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 71 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 77 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 2 | 0 | 46 |
-| Miku | Miku | Hatsune Miku | 2 | 0 | 60 |
-| Somebody Else | Somebody Else | VÉRITÉ | 1 | 0 | 45 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
+| Miku | Miku | Anamanaguchi | 1 | 0 | 47 |
+| Miku | Miku | Hatsune Miku | 1 | 0 | 60 |
+| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 48 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
@@ -430,5 +418,5 @@
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 41 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 51 |
 | All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 75 |

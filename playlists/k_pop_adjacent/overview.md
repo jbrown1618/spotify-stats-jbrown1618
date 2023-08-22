@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[48 tracks (32 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
+[49 tracks (32 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
 [See Track Features](audio_features.md)
 
@@ -22,11 +22,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe56a8fecc2d659e1ba070b" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7dea8440708e268d14f2eda5" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba0470de542b2a1c9f8c860c9" alt="" width="50" /> | 1 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | 1 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 
 
 <details>
-<summary>See all 66 artists</summary>
+<summary>See all 67 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -79,6 +79,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2aa71241ff5532e3ceeb86a1" alt="" width="50" /> | 1 | 0 | Ozuna | [🔗](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 1 | 0 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 0 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ed627f5610500c2266200fd" alt="" width="50" /> | 1 | 0 | Emotional Oranges | [🔗](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 1 | 0 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
@@ -111,7 +112,7 @@
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 49 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -153,6 +154,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | 1 | 0 | Close To Me (Red Velvet Remix) | 2019-04-05 | [🔗](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | 1 | 0 | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c69f0e89448d122452327ad" alt="" width="50" /> | 1 | 0 | American | 2017-03-24 | [🔗](https://open.spotify.com/album/3WX0a9UW0ss5IOp9hSP4F2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="" width="50" /> | 1 | 0 | A Kind Of Magic | 1986-06-02 | [🔗](https://open.spotify.com/album/34xBXeJgmQrn1wQvhyVCsw) |
 
 </details>
 
@@ -176,7 +178,7 @@
 
 
 <details>
-<summary>See all 45 labels</summary>
+<summary>See all 46 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -209,6 +211,7 @@
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Parkwood Entertainment |
 | 1 | 0 | Not So Fast |
+| 1 | 0 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 0 | Fez's Finest |
 | 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 1 | 0 | DJ Snake Music Productions Limited |
@@ -238,7 +241,7 @@
 
 
 <details>
-<summary>See all 49 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -272,14 +275,17 @@
 | 1 | 1 | asian american hip hop |
 | 1 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 1 | 0 | strut |
+| 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | rap latina |
 | 1 | 0 | metropopolis |
 | 1 | 0 | meme |
 | 1 | 0 | melodic rap |
 | 1 | 0 | indietronica |
+| 1 | 0 | glam rock |
 | 1 | 0 | electronic trap |
 | 1 | 0 | diva house |
 | 1 | 0 | dfw rap |
+| 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
 | 1 | 0 | candy pop |
 
 </details>
@@ -295,13 +301,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> | Flowers (Cover) (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> | Let Go (2002-06-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (2022-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | 미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> | Taxidriver OST Part.1 (2021-04-16) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | Purpose (Deluxe) (2015-11-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> | Flowers (Cover) (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="A Kind Of Magic" width="50" /> | A Kind Of Magic (1986-06-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="Let Go" width="50" /> | Let Go (2002-06-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="When I Get Old" width="50" /> | When I Get Old (2022-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | 미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="Taxidriver OST Part.1" width="50" /> | Taxidriver OST Part.1 (2021-04-16) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |

@@ -1,13 +1,13 @@
 # Genie Music Corporation
 
-90 songs
+89 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (61 tracks)
+- Genie Music Corporation, Stone Music Entertainment (60 tracks)
 - Genie Music Corporation (22 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
@@ -15,8 +15,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 9 | 7 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 8 | 7 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="" width="50" /> | 8 | 7 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 6 | 5 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed21ce124d4cd70fd94a1402" alt="" width="50" /> | 6 | 4 | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="" width="50" /> | 4 | 3 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -69,7 +69,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96433ee17dd617d49454ee81" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | 1 | 0 | CHEETAH | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 1 | 0 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -103,7 +103,6 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 6 | 6 | 4 ONLY | 2021-09-09 | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | 3 | 2 | BOYS PLANET - ARTIST BATTLE | 2023-04-06 | [🔗](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 3 | 1 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | 2 | 2 | ˣ‿ˣ (SMiLEY) | 2022-01-17 | [🔗](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | 2 | 2 | Street Man Fighter Original Vol.3 (Mission by Rank) | 2022-09-06 | [🔗](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
@@ -111,6 +110,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | 2 | 1 | YOUTH IN THE SHADE | 2023-07-10 | [🔗](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 2 | 1 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | 2 | 1 | FIRST IMPACT | 2022-01-03 | [🔗](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 2 | 1 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
 
 
 <details>
@@ -192,9 +192,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 61 | 46 | [k-pop](../../genres/k_pop/overview.md) |
+| 60 | 46 | [k-pop](../../genres/k_pop/overview.md) |
 | 18 | 14 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 15 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 14 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 14 | 9 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 7 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 5 | 3 | [k-rap](../../genres/k_rap/overview.md) |
@@ -247,7 +247,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Don’t Speak | Return of The Girl | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4rTXasoYr4RICJeGRk5cnD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate | Return of The Girl | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | Make Me Feel | ALL MY GIRLS | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/5bXiPL39Zz9ADxgB9CG4eF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | Oh Ma Ma God | ALL MY GIRLS | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/6ftW9kPR9V85vgjRhQqAlX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | En Garde | BOYS PLANET - ARTIST BATTLE | En Butter | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | And July | And July | [HEIZE](../../artists/heize/overview.md), DEAN, dj friz | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn) |

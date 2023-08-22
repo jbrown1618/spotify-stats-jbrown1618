@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-61 tracks
+60 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -12,12 +12,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../..), [YG Entertainment](../../../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | BORN PINK | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../..), [YG Entertainment](../../../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Ready For Love | BORN PINK | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../..), [YG Entertainment](../../../yg_entertainment) | | [🔗](https://open.spotify.com/track/7Dq4YNgsltQuTmhYz1wJzq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | Believer | Evolve | Imagine Dragons | [Kid Ina Korner / Interscope](../..) | 💚 | [🔗](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273350ecac91d0f0af55788c648" alt="" width="50" /> | XOXO | XOXO | JEON SOMI | [THE BLACK LABEL/Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da22ba88dfc26a18122ee2d" alt="" width="50" /> | Pisces | GAME PLAN | JEON SOMI | [THEBLACKLABEL/Interscope Records](../..) | | [🔗](https://open.spotify.com/track/32g63Iumwcy21B2W31onXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | She Will Be Loved | Songs About Jane | [Maroon 5](../../../../artists/maroon_5/overview.md) | [Interscope Records*](../..) | 💚 | [🔗](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | Moves Like Jagger - Studio Recording From "The Voice" Performance | Hands All Over | [Maroon 5](../../../../artists/maroon_5/overview.md), Christina Aguilera | [Interscope Records*](../..) | | [🔗](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | VIBE (feat. Jimin of BTS) | Down to Earth | TAEYANG, Jimin | [THEBLACKLABEL/Interscope Records](../..) | 💚 | [🔗](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | Gives You Hell | When The World Comes Down | The All-American Rejects | [Interscope](../..) | | [🔗](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) |
 ## Cluster #2
 
 15 tracks

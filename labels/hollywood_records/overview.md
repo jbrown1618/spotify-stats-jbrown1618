@@ -1,19 +1,19 @@
 # Hollywood Records
 
-19 songs
+20 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Hollywood Records (19 tracks)
+- Hollywood Records (20 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 17 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 18 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 
 
@@ -35,25 +35,26 @@ Appears as:
 
 
 <details>
-<summary>See all 12 albums</summary>
+<summary>See all 13 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 1 | 0 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | 1 | 0 | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="" width="50" /> | 1 | 0 | A Kind Of Magic | 1986-06-02 | [🔗](https://open.spotify.com/album/34xBXeJgmQrn1wQvhyVCsw) |
 
 </details>
 
 
-![Bar chart of top 12 albums](../../images/labels/hollywood_records/albums.png)
+![Bar chart of top 13 albums](../../images/labels/hollywood_records/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 17 | 12 | [rock](../../genres/rock/overview.md) |
-| 17 | 12 | glam rock |
-| 17 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
+| 18 | 12 | [rock](../../genres/rock/overview.md) |
+| 18 | 12 | glam rock |
+| 18 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 1 | [pop](../../genres/pop/overview.md) |
 
@@ -87,6 +88,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Crazy Little Thing Called Love - Remastered 2011 | The Game (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Save Me - Remastered 2011 | The Game (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/2mGEqJahn3CSyCG1BTEqMs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | I Want To Break Free | The Works | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | | [🔗](https://open.spotify.com/track/1IVZX29ZuEXng3ChRnp3tL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="" width="50" /> | A Kind Of Magic | A Kind Of Magic | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | | [🔗](https://open.spotify.com/track/74QzobuYWH5BHMTrW9X7Yu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | Innuendo | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/1dG4lTOVFu8RkSzybolp7o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | The Show Must Go On | Innuendo | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | | [🔗](https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP) |
 

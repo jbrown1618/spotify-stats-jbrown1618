@@ -11,8 +11,7 @@
 ## Artist Rank
 EXO is currently:
 - The #18 artist of all time
-- The #30 artist of the last 6 months
-- The #24 artist of the last month
+- The #32 artist of the last 6 months
 
 ![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
 ## Top Tracks

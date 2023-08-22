@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | Naughty | Red Velvet - IRENE & SEULGI | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | Replay | The SHINee World - The First Album | SHINee | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | ZOO | 2021 Winter SMTOWN : SMCU EXPRESS | TAEYONG, JENO, HENDERY, YANGYANG, GISELLE | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Relax | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/2sCQJ9hiopTfr3Zo8iE2B8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Relax | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/2sCQJ9hiopTfr3Zo8iE2B8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | aenergy | Savage - The 1st Mini Album | [aespa](../../../../artists/aespa/overview.md) | [SM Entertainment](../..) | | [🔗](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) |
 ## Cluster #2
 

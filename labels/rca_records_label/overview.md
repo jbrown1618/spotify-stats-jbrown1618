@@ -65,7 +65,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb972a4e990fb36451db2f40f2" alt="" width="50" /> | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | 1 | 0 | Tove Styrke | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e7e6ded87a4e0f65b5afcec" alt="" width="50" /> | 1 | 0 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 1 | 0 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 
 </details>

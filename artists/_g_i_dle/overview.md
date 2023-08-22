@@ -12,21 +12,22 @@
 (G)I-DLE is currently:
 - The #7 artist of all time
 - The #6 artist of the last 6 months
-- The #8 artist of the last month
+- The #9 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - Uh-Oh is:
-    - the #26 track of all time
-- LATATA is:
     - the #27 track of all time
-- Nxde is:
-    - the #46 track of the last 6 months
+- LATATA is:
+    - the #28 track of all time
+- Oh my god is:
+    - the #50 track of all time
 - All Night is:
     - the #1 track of the last month
-- HANN (Alone in winter) is:
-    - the #15 track of the last month
+    - the #42 track of the last 6 months
+- Nxde is:
+    - the #47 track of the last 6 months
 
 ### Top tracks of all time over time
 

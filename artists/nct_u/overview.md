@@ -2,7 +2,7 @@
 # NCT U
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb8bd65b0efee10bfa8328c33b" alt="NCT U" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="NCT U" width="100" />
 
 ## Artist Rank
 

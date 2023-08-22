@@ -18,16 +18,17 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
+    - the #50 track of the last month
     - the #5 track of the last 6 months
-    - the #24 track of all time
+    - the #25 track of all time
 - Polaroid Love is:
-    - the #42 track of the last 6 months
+    - the #44 track of the last 6 months
     - the #42 track of all time
 - Just A Little Bit is:
     - the #44 track of all time
 - Bills is:
-    - the #10 track of the last month
-    - the #45 track of the last 6 months
+    - the #11 track of the last month
+    - the #46 track of the last 6 months
 - CRIMINAL LOVE is:
     - the #2 track of the last month
 

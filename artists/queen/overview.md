@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Queen is currently:
-- The #38 artist of the last 6 months
+- The #36 artist of the last 6 months
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
 ## Top Tracks
@@ -25,6 +25,7 @@ Queen is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 15 | [Classic Rock](../../playlists/classic_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k_pop_adjacent/overview.md) |
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -40,11 +41,22 @@ Queen is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 1 | 0 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 
+
+<details>
+<summary>See all albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="" width="50" /> | 1 | 0 | A Kind Of Magic | 1986-06-02 | [🔗](https://open.spotify.com/album/34xBXeJgmQrn1wQvhyVCsw) |
+
+</details>
+
+
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 17 | 12 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+| 18 | 12 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 
 ## Genres
 
@@ -78,6 +90,7 @@ Queen is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Crazy Little Thing Called Love - Remastered 2011 | The Game (Deluxe Remastered Version) | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Save Me - Remastered 2011 | The Game (Deluxe Remastered Version) | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/2mGEqJahn3CSyCG1BTEqMs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861" alt="" width="50" /> | I Want To Break Free | The Works | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/1IVZX29ZuEXng3ChRnp3tL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="" width="50" /> | A Kind Of Magic | A Kind Of Magic | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/74QzobuYWH5BHMTrW9X7Yu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/1dG4lTOVFu8RkSzybolp7o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | The Show Must Go On | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP) |
 

@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 10 | 6 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 10 | 7 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 5 | 5 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
@@ -31,7 +31,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 3 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 4 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | 2 | 1 | INSANE LOVE | 2016-06-21 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
@@ -73,7 +73,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 15 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 24 | 16 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 18 | 13 | [k-pop](../../genres/k_pop/overview.md) |
 | 3 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -102,7 +102,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | SMOKY | MIXTAPE [ PSYCHE ] | JOOHONEY | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/2RdsTI9mfgdrNBIoShmI99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | FREEDOM | LIGHTS | JOOHONEY | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="" width="50" /> | DRAMARAMA | THE CODE | MONSTA X | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) |

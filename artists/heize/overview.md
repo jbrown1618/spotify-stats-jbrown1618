@@ -6,7 +6,7 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #45 artist of the last 6 months
+- The #44 artist of the last 6 months
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
@@ -71,5 +71,5 @@ HEIZE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="" width="50" /> | HAPPEN | HAPPEN | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | VingleVingle (Prod. R.Tee) | VingleVingle | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="" width="50" /> | Don’t Wanna Go Back (Duet with Heize) | ZONE | JIHYO, [HEIZE](overview.md) | Republic Records – JIHYO (TWICE) | | [🔗](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="" width="50" /> | Don’t Wanna Go Back (Duet with Heize) | ZONE | [JIHYO](../jihyo/overview.md), [HEIZE](overview.md) | Republic Records – JIHYO (TWICE) | | [🔗](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b866ae204041c820a937a0f5" alt="" width="50" /> | When it snows(Feat.Heize) | When it snows(Feat.Heize) | Lee Mujin, [HEIZE](overview.md) | ShowPLAY ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) |

@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f02cb3e2e6c5d3b52b3d65ba" alt="" width="50" /> | 1 | 0 | Bob Brown | [🔗](https://open.spotify.com/artist/6xWlMtfrZNsW7ZRMxQLqxw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 1 | 0 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb63c1239ee9ff978b4005ea02" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7775a50db9341433ab1cf382" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273456ff006552c08e539391d12" alt="" width="50" /> | 1 | 0 | Mykola Dmytrovych Leontovych | [🔗](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273651e84af662d5cc6d9e3578d" alt="" width="50" /> | 1 | 0 | Johnny Marks | [🔗](https://open.spotify.com/artist/6UdAtUl2rb8AxzQ6uQRhzC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 1 | 0 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -98,8 +98,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 0 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="" width="50" /> | 1 | 0 | Gayla Peevey | [🔗](https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb22838e3759fc76e7c623ce5a" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb21208cb55df0bd4cec531055" alt="" width="50" /> | 1 | 0 | HAECHAN | [🔗](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5661c2277f5b965781709b7" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4509c631a428a468b4e8bd5f" alt="" width="50" /> | 1 | 0 | HAECHAN | [🔗](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 1 | 0 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Jay JungJae Moon | [🔗](https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c7c2f36269debe54658e0f2" alt="" width="50" /> | 1 | 0 | Boris Karloff | [🔗](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) |
@@ -295,7 +295,7 @@
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 8 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 13 | 0 | [lounge](../../genres/lounge/overview.md) |
+| 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
 | 7 | 0 | easy listening |
