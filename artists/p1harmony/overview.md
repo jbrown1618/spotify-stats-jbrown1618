@@ -9,8 +9,6 @@
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
 ## Top Tracks
 
-- JUMP is:
-    - the #6 track of the last month
 
 ### Top tracks of the last month over time
 

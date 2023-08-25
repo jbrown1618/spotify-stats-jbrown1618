@@ -6,7 +6,7 @@
 
 ## Artist Rank
 JIHYO is currently:
-- The #37 artist of the last month
+- The #36 artist of the last month
 
 
 ## Top Tracks

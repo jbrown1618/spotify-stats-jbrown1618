@@ -24,13 +24,13 @@ Red Velvet is currently:
 - Dumb Dumb is:
     - the #20 track of all time
 - Ice Cream Cake is:
-    - the #30 track of all time
+    - the #31 track of all time
 - BYE BYE is:
-    - the #14 track of the last 6 months
+    - the #15 track of the last 6 months
 - Birthday is:
     - the #31 track of the last 6 months
 - ZOOM is:
-    - the #41 track of the last 6 months
+    - the #44 track of the last 6 months
 
 ### Top tracks of all time over time
 

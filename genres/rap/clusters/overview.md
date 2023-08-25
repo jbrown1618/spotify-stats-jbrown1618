@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | Kendrick Lamar | Aftermath | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | Everyday | Bobby Tarantino II | Logic, Marshmello | [Def Jam Recordings](../../../../labels/def_jam_recordings) | | [🔗](https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="" width="50" /> | Clout (feat. Cardi B) | FATHER OF 4 | Offset, Cardi B | [Quality Control Music/Motown Records](../../../../labels/motown) | 💚 | [🔗](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J) | I Don't Mind (feat. Juicy J) | Usher, Juicy J | [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J) | I Don't Mind (feat. Juicy J) | USHER, Juicy J | [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | Flockaveli | Waka Flocka Flame, Roscoe Dash, Wale | [Asylum/Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) |
 ## Cluster #2
 

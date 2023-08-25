@@ -1,19 +1,19 @@
 # Big Machine Records
 
-32 songs
+31 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Big Machine Records, LLC (32 tracks)
+- Big Machine Records, LLC (31 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | 32 | 19 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | 31 | 19 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 
 
@@ -27,15 +27,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | 2 | 0 | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | 1 | 0 | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
 
-![Bar chart of top 7 albums](../../images/labels/big_machine_records/albums.png)
+![Bar chart of top 6 albums](../../images/labels/big_machine_records/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 19 | [pop](../../genres/pop/overview.md) |
+| 31 | 19 | [pop](../../genres/pop/overview.md) |
 
 
 
@@ -63,7 +62,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | I Knew You Were Trouble. | Red | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | Red | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 💚 | [🔗](https://open.spotify.com/track/0cITLOYn1Sv4q27zZPqlNK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | We Are Never Ever Getting Back Together | Red | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | All Too Well | Red (Deluxe Edition) | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | | [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Blank Space | 1989 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 💚 | [🔗](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Clean | 1989 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 💚 | [🔗](https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | I Know Places | 1989 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc) |

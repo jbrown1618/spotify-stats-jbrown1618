@@ -10,9 +10,13 @@
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #37 artist of the last 6 months
+- The #40 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
+## Top Tracks
+
+- What The Water Gave Me is:
+    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

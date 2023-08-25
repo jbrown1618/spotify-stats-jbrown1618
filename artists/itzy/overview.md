@@ -12,20 +12,20 @@
 ITZY is currently:
 - The #5 artist of all time
 - The #9 artist of the last 6 months
-- The #6 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #28 track of the last 6 months
-    - the #35 track of all time
+    - the #23 track of the last 6 months
+    - the #30 track of all time
 - Cheshire is:
-    - the #15 track of the last 6 months
+    - the #9 track of the last 6 months
 - Kill Shot is:
-    - the #8 track of the last month
+    - the #4 track of the last month
 - CAKE is:
-    - the #19 track of the last month
+    - the #8 track of the last month
 
 ### Top tracks of all time over time
 

@@ -7,7 +7,7 @@
 ## Artist Rank
 BABYMETAL is currently:
 - The #32 artist of all time
-- The #48 artist of the last 6 months
+- The #49 artist of the last 6 months
 
 ![Rank of BABYMETAL over time](../../images/artists/babymetal/rank_time_series.png)
 ## Top Tracks

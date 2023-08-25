@@ -156,10 +156,11 @@ Appears as:
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 0 | tin pan alley |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
 | 1 | 0 | roots rock |
@@ -181,7 +182,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 27 genres](../../images/labels/walt_disney_records/genres.png)
+![Bar chart of top 28 genres](../../images/labels/walt_disney_records/genres.png)
 
 ## Tracks released under Walt Disney Records
 

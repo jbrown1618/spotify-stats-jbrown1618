@@ -49,7 +49,6 @@ Taylor Swift is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | 1 | 1 | Speak Now (Taylor's Version) | 2023-07-07 | [🔗](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | 1 | 0 | Red (Deluxe Edition) | 2012-10-22 | [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | 1 | 0 | I Don’t Wanna Live Forever (Fifty Shades Darker) | 2016-12-09 | [🔗](https://open.spotify.com/album/5MxXY7DbFMUiHFTPUabgJJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | 1 | 0 | Fearless (Taylor's Version) | 2021-04-09 | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
 
@@ -61,7 +60,7 @@ Taylor Swift is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 34 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 32 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
+| 31 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 1 | 0 | Universal Music Group |
 
 ## Genres
@@ -92,7 +91,6 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | I Knew You Were Trouble. | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/0cITLOYn1Sv4q27zZPqlNK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | We Are Never Ever Getting Back Together | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3" alt="" width="50" /> | All Too Well | Red (Deluxe Edition) | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Blank Space | 1989 | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Clean | 1989 | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | I Know Places | 1989 | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc) |

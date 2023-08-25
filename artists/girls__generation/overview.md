@@ -12,17 +12,17 @@
 Girls' Generation is currently:
 - The #15 artist of all time
 - The #24 artist of the last 6 months
-- The #25 artist of the last month
+- The #26 artist of the last month
 
 ![Rank of Girls' Generation over time](../../images/artists/girls__generation/rank_time_series.png)
 ## Top Tracks
 
 - Run Devil Run is:
-    - the #32 track of all time
+    - the #33 track of all time
 - Lion Heart is:
     - the #40 track of all time
 - The Boys is:
-    - the #12 track of the last month
+    - the #13 track of the last month
     - the #32 track of the last 6 months
 
 ### Top tracks of all time over time

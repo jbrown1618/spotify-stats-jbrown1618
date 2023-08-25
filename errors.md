@@ -2,10 +2,7 @@
 
 ## Duplicate tracks
 
-| Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
-|:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| All Too Well [🔗](https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR) | 51 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 64 | Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Big Machine Records, LLC | 💚 |
-| All Too Well [🔗](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl) | 62 | 2012-10-22 | Taylor Swift [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | Red (Deluxe Edition) [🔗](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 63 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Big Machine Records, LLC | |
+None
 
 ## Duplicate albums
 
@@ -31,9 +28,9 @@
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 87 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 87 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 0 | 87 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
@@ -375,10 +372,10 @@
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 64 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 30 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 43 |
-| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
+| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
+| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
+| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 82 |
@@ -387,10 +384,11 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
-| RED | RED | The Rose | 1 | 0 | 64 |
-| She′s In The Rain | Dawn | The Rose | 1 | 0 | 64 |
-| BABY | Void | The Rose | 0 | 0 | 64 |
-| Sorry | Sorry | The Rose | 1 | 0 | 64 |
+| RED | RED | The Rose | 1 | 0 | 65 |
+| She′s In The Rain | Dawn | The Rose | 1 | 0 | 65 |
+| BABY | Void | The Rose | 0 | 0 | 65 |
+| Sorry | Sorry | The Rose | 1 | 0 | 65 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 2 | 0 | 50 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
@@ -401,7 +399,7 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 71 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 1 | 0 | 72 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 1 | 0 | 77 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | Miku | Miku | Anamanaguchi | 1 | 0 | 47 |

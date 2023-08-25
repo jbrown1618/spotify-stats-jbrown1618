@@ -28,8 +28,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | When I Get You Alone | A Beautiful World | Robin Thicke | Nu America Music | 💚 | [🔗](https://open.spotify.com/track/1jzWQHcMT8rxvgUjUiqGIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | No Scrubs | Fanmail | TLC | Arista/LaFace Records | | [🔗](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Yeah! (feat. Lil Jon & Ludacris) | Confessions (Expanded Edition) | Usher, Lil Jon, Ludacris | LaFace Records | | [🔗](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | DJ Got Us Fallin' In Love (feat. Pitbull) | Raymond v Raymond (Expanded Edition) | Usher, Pitbull | LaFace Records | | [🔗](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Yeah! (feat. Lil Jon & Ludacris) | Confessions (Expanded Edition) | USHER, Lil Jon, Ludacris | LaFace Records | | [🔗](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | DJ Got Us Fallin' In Love (feat. Pitbull) | Raymond v Raymond (Expanded Edition) | USHER, Pitbull | LaFace Records | | [🔗](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) |
 ## Cluster #3
 
 19 tracks
@@ -45,4 +45,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../../../artists/janelle_mon_e/overview.md), Jidenna | [Wondaland Records/Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | Body | Over It | Summer Walker | [LVRN/Interscope Records](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | There Goes My Baby | Raymond v Raymond (Expanded Edition) | Usher | LaFace Records | 💚 | [🔗](https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | There Goes My Baby | Raymond v Raymond (Expanded Edition) | USHER | LaFace Records | 💚 | [🔗](https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8) |

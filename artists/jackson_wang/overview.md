@@ -7,14 +7,14 @@
 ## Artist Rank
 Jackson Wang is currently:
 - The #48 artist of all time
-- The #40 artist of the last 6 months
+- The #39 artist of the last 6 months
 - The #27 artist of the last month
 
 ![Rank of Jackson Wang over time](../../images/artists/jackson_wang/rank_time_series.png)
 ## Top Tracks
 
 - Blow is:
-    - the #43 track of the last 6 months
+    - the #45 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
