@@ -13,7 +13,7 @@ SUNMI is currently:
 ## Top Tracks
 
 - Gashina is:
-    - the #36 track of the last month
+    - the #34 track of the last month
 
 ### Top tracks of the last month over time
 

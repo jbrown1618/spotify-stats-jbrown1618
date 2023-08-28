@@ -12,7 +12,7 @@ HEIZE is currently:
 ## Top Tracks
 
 - VingleVingle (Prod. R.Tee) is:
-    - the #29 track of the last month
+    - the #24 track of the last month
 
 ### Top tracks of the last 6 months over time
 

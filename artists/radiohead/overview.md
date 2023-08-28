@@ -12,15 +12,15 @@
 Radiohead is currently:
 - The #49 artist of all time
 - The #25 artist of the last 6 months
-- The #25 artist of the last month
+- The #22 artist of the last month
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
 ## Top Tracks
 
 - Exit Music (For A Film) is:
-    - the #37 track of the last month
+    - the #35 track of the last month
 - Street Spirit (Fade Out) is:
-    - the #45 track of the last month
+    - the #43 track of the last month
 
 ### Top tracks of the last month over time
 

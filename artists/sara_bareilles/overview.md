@@ -17,7 +17,7 @@ Sara Bareilles is currently:
 ## Top Tracks
 
 - Fairytale is:
-    - the #44 track of the last month
+    - the #42 track of the last month
 
 ### Top tracks of the last month over time
 

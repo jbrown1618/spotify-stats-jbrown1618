@@ -265,7 +265,7 @@
 
 
 <details>
-<summary>See all 57 genres</summary>
+<summary>See all 56 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -291,7 +291,6 @@
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk contemporary r&b |
 | 1 | 1 | tropical house |
-| 1 | 1 | singer-songwriter pop |
 | 1 | 1 | nu jazz |
 | 1 | 1 | korean indie rock |
 | 1 | 1 | k-rock |

@@ -12,9 +12,10 @@ JEON SOYEON is currently:
 ## Top Tracks
 
 - DESSERT is:
-    - the #4 track of all time
+    - the #7 track of all time
 - BEAM BEAM is:
-    - the #15 track of all time
+    - the #39 track of the last month
+    - the #14 track of all time
 
 ### Top tracks of all time over time
 

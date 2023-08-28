@@ -76,10 +76,10 @@ Appears as:
 | 95 | 0 | [early romantic era](../../genres/early_romantic_era/overview.md) |
 | 58 | 0 | [german romanticism](../../genres/german_romanticism/overview.md) |
 | 53 | 0 | polish classical |
+| 42 | 0 | [early modern classical](../../genres/early_modern_classical/overview.md) |
 | 42 | 0 | [classical era](../../genres/classical_era/overview.md) |
 | 33 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
 | 26 | 0 | [neoclassicism](../../genres/neoclassicism/overview.md) |
-| 26 | 0 | [early modern classical](../../genres/early_modern_classical/overview.md) |
 | 21 | 0 | [russian modern classical](../../genres/russian_modern_classical/overview.md) |
 | 17 | 0 | [russian romanticism](../../genres/russian_romanticism/overview.md) |
 

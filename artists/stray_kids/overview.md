@@ -18,8 +18,11 @@ Stray Kids is currently:
 ## Top Tracks
 
 - Thunderous is:
-    - the #26 track of the last 6 months
-    - the #49 track of all time
+    - the #17 track of the last 6 months
+    - the #39 track of all time
+- Back Door is:
+    - the #31 track of the last month
+    - the #42 track of the last 6 months
 
 ### Top tracks of all time over time
 

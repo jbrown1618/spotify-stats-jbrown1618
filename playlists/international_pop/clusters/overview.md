@@ -20,10 +20,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | W / X / Y | Memories | Tani Yuuki | Valley Records | | [🔗](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) |
 ## Cluster #2
 
-19 tracks
+18 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="" width="50" /> | 如果的事 | 一比一 | Christine Fan, Angela Chang | Linfair | | [🔗](https://open.spotify.com/track/47qkmo2smLRBNlbzDEwZHS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 就是愛妳 | 太平盛世 | David Tao | Gold Typhoon Taiwan | | [🔗](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | Tetap Dalam Jiwa | EXPLORE! | Isyana Sarasvati | Sony Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) |
@@ -33,7 +34,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ca5326f9c8cc55b3efd7b5" alt="" width="50" /> | ก่อนฤดูฝน | SUN | THE TOYS | What The Duck | | [🔗](https://open.spotify.com/track/5BS4lRz13ztnSaBy8spQ7W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 醒不来的梦 | 醒不来的梦 | 拾贰 | 一寸光年 | 💚 | [🔗](https://open.spotify.com/track/5EGJ1vMllT1cYXbpymPdyf) |
 ## Cluster #3
 
 37 tracks
