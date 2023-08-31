@@ -47,9 +47,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | I GOT IT (HAN) (0.365) | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Winter Sleep (0.0273) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (0.365) | <img src="https://i.scdn.co/image/ab67616d0000b2733e2194d332ceeb0ab6018b21" alt="세가지 소원 Wish Tree - WINTER GARDEN" width="50" /> | 세가지 소원 Wish Tree (0.0273) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | Feelin' Like (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | The Magic of Christmas Time (0.0274) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | VENOM (0.339) | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | Hope Not (0.0274) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="SIGNAL" width="50" /> | Signal (0.334) | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | Gee (0.0277) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | S-Class (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="GOT7" width="50" /> | NANANA (0.0277) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | JACKPOT (0.345) | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | Hope Not (0.0274) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | VENOM (0.339) | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | Gee (0.0277) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="SIGNAL" width="50" /> | Signal (0.334) | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="GOT7" width="50" /> | NANANA (0.0277) |
 
 ## Acousticness
 

@@ -12,7 +12,7 @@
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #1 artist of the last month
+- The #3 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
@@ -26,15 +26,13 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #32 track of all time
 - BYE BYE is:
-    - the #16 track of the last 6 months
-- Birthday is:
-    - the #31 track of the last 6 months
+    - the #22 track of the last 6 months
 - ZOOM is:
-    - the #46 track of the last 6 months
+    - the #42 track of the last 6 months
 - 어떤 별보다 is:
-    - the #47 track of the last month
+    - the #42 track of the last month
 - Better Be is:
-    - the #50 track of the last month
+    - the #43 track of the last month
 
 ### Top tracks of all time over time
 

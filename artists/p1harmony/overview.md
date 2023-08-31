@@ -6,7 +6,7 @@
 
 ## Artist Rank
 P1Harmony is currently:
-- The #35 artist of the last month
+- The #33 artist of the last month
 
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
 ## Top Tracks

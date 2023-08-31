@@ -2,7 +2,7 @@
 # Sia
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebec40474426f4401a4203dc9f" alt="Sia" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb6d2a287155c3bfd7b85fa886" alt="Sia" width="100" />
 
 ## Artist Rank
 

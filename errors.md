@@ -5,22 +5,18 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | BEcause [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | 57 | 2021-07-30 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Summer Holiday] [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 50 | | DREAMCATCHER COMPANY | |
-| BEcause [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | 41 | 2021-07-30 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Summer Holiday] [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 34 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | DREAMCATCHER COMPANY | 💚 |
-| Gimme Sympathy [🔗](https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV) | 0 | 2009-04-14 | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | Fantasies [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 0 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Metric Music International | 💚 |
-| Gimme Sympathy [🔗](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | 54 | 2009-05-02 | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | Fantasies [🔗](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 60 | | MMI / Crystal Math Music | |
+| BEcause [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | 40 | 2021-07-30 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Summer Holiday] [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 33 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | DREAMCATCHER COMPANY | 💚 |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| [Summer Holiday] [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 34 | 2021-07-30 | DREAMCATCHER COMPANY | BEcause [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| [Summer Holiday] [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 33 | 2021-07-30 | DREAMCATCHER COMPANY | BEcause [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 | [Summer Holiday] [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 50 | 2021-07-30 | DREAMCATCHER COMPANY | BEcause [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 39 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| Fantasies [🔗](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | 60 | 2009-05-02 | MMI / Crystal Math Music | Gimme Sympathy [🔗](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | |
-| Fantasies [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | Metric [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | 0 | 2009-04-14 | Metric Music International | Gimme Sympathy [🔗](https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
+| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 40 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
 ## Tracks with low popularity
 
@@ -249,33 +245,33 @@
 | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
-| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 34 |
+| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
+| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 58 |
-| PLAY | PLAY | CHANGMO | 0 | 0 | 54 |
+| PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
 | String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 52 |
@@ -400,7 +396,7 @@
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 2 | 0 | 50 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
-| FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 57 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 1 | 0 | 52 |

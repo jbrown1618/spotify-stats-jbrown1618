@@ -2,7 +2,7 @@
 # aespa
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebfedf7e156439ccdbcab421e4" alt="aespa" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb61e9c9fd0ff840cfbeb09714" alt="aespa" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -12,33 +12,36 @@
 aespa is currently:
 - The #10 artist of all time
 - The #3 artist of the last 6 months
-- The #2 artist of the last month
+- The #1 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
 
 - Savage is:
-    - the #8 track of the last month
-    - the #15 track of the last 6 months
+    - the #6 track of the last month
+    - the #14 track of the last 6 months
     - the #4 track of all time
 - Next Level is:
-    - the #19 track of the last month
-    - the #24 track of the last 6 months
+    - the #18 track of the last month
+    - the #23 track of the last 6 months
     - the #5 track of all time
 - Black Mamba is:
     - the #18 track of all time
 - Spicy is:
     - the #2 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
-    - the #7 track of the last month
+    - the #5 track of the last month
     - the #3 track of the last 6 months
 - Hold On Tight is:
-    - the #14 track of the last month
+    - the #11 track of the last month
     - the #5 track of the last 6 months
 - Illusion is:
-    - the #13 track of the last 6 months
+    - the #11 track of the last 6 months
 - Thirsty is:
-    - the #20 track of the last 6 months
+    - the #18 track of the last 6 months
+- Salty & Sweet is:
+    - the #17 track of the last month
+    - the #43 track of the last 6 months
 
 ### Top tracks of all time over time
 

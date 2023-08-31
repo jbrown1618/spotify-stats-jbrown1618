@@ -2,7 +2,7 @@
 # Pentatonix
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb1723d33e6837b553b2e512c1" alt="Pentatonix" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="Pentatonix" width="100" />
 
 [See Track Features](audio_features.md)
 

@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me (0.857) | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="Get Ready To Leave" width="50" /> | Get Ready To Leave (0.402) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.856) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.406) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="The Hyena on the Keyboard Pt. 4" width="50" /> | Don’t (0.85) | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty (0.416) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Bye (0.824) | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="Bambi - The 3rd Mini Album" width="50" /> | All I Got (0.417) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f8932cd9cb090069d7ba046" alt="Walkin&#x27;" width="50" /> | 1+1=0 (Feat. DEAN) (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="Bambi - The 3rd Mini Album" width="50" /> | All I Got (0.417) |
 
 ## Energy
 
@@ -91,16 +91,16 @@
 
 | ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Red Lipstick (feat. Yoonmirae) (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | It's Over (0.0471) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | Rose (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="SPRING" width="50" /> | How People Move (0.0511) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.0512) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="butterFLY" width="50" /> | Headlock (0.507) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.0512) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="When It Snows mmm (feat. Wheein)" width="50" /> | When It Snows mmm (feat. Wheein) (0.425) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | D (Half Moon) (0.0573) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="NEON" width="50" /> | NEON (0.379) | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="WOLF" width="50" /> | FACE (0.0581) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="Shutdown (Feat. Seori)" width="50" /> | Shutdown (Feat.Seori) (0.377) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | NO ONE (0.0664) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty (0.369) | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="Bambi - The 3rd Mini Album" width="50" /> | All I Got (0.0672) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="Lyricist" width="50" /> | Lyricist (0.352) | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="Traffic light" width="50" /> | Traffic light (0.0694) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | HOLD MY HAND (0.351) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Bye (0.0714) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Red Lipstick (feat. Yoonmirae) (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b2735f8932cd9cb090069d7ba046" alt="Walkin&#x27;" width="50" /> | 1+1=0 (Feat. DEAN) (0.0372) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | Rose (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | It's Over (0.0471) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="SPRING" width="50" /> | How People Move (0.0511) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="butterFLY" width="50" /> | Headlock (0.507) | <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.0512) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="When It Snows mmm (feat. Wheein)" width="50" /> | When It Snows mmm (feat. Wheein) (0.425) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.0512) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="NEON" width="50" /> | NEON (0.379) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | D (Half Moon) (0.0573) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="Shutdown (Feat. Seori)" width="50" /> | Shutdown (Feat.Seori) (0.377) | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="WOLF" width="50" /> | FACE (0.0581) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty (0.369) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | NO ONE (0.0664) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="Lyricist" width="50" /> | Lyricist (0.352) | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="Bambi - The 3rd Mini Album" width="50" /> | All I Got (0.0672) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | HOLD MY HAND (0.351) | <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="Traffic light" width="50" /> | Traffic light (0.0694) |
 
 ## Valence
 
