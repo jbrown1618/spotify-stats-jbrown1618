@@ -313,7 +313,7 @@
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -329,7 +329,6 @@
 | 2 | 0 | christian a cappella |
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
-| 1 | 0 | sleep |
 | 1 | 0 | renaissance |
 | 1 | 0 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
@@ -340,7 +339,6 @@
 | 1 | 0 | folk |
 | 1 | 0 | [early music](../../genres/early_music/overview.md) |
 | 1 | 0 | [classical](../../genres/classical/overview.md) |
-| 1 | 0 | christmas instrumental |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |
 | 1 | 0 | [album rock](../../genres/album_rock/overview.md) |

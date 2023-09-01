@@ -303,7 +303,7 @@
 
 
 <details>
-<summary>See all 62 genres</summary>
+<summary>See all 61 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -345,7 +345,6 @@
 | 1 | 0 | [k-rap](../../genres/k_rap/overview.md) |
 | 1 | 0 | indietronica |
 | 1 | 0 | indie rock |
-| 1 | 0 | indie folk |
 | 1 | 0 | hollywood |
 | 1 | 0 | girl group |
 | 1 | 0 | folk |

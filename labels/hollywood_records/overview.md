@@ -1,19 +1,19 @@
 # Hollywood Records
 
-21 songs
+20 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Hollywood Records (21 tracks)
+- Hollywood Records (20 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 19 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 18 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 
 
@@ -35,27 +35,26 @@ Appears as:
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 13 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | 1 | 0 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | 1 | 0 | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="" width="50" /> | 1 | 0 | A Kind Of Magic | 1986-06-02 | [🔗](https://open.spotify.com/album/34xBXeJgmQrn1wQvhyVCsw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395313a5eee00d9bdf37883e2" alt="" width="50" /> | 1 | 0 | A Day At The Races (Deluxe Remastered Version) | 1976-12-10 | [🔗](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) |
 
 </details>
 
 
-![Bar chart of top 14 albums](../../images/labels/hollywood_records/albums.png)
+![Bar chart of top 13 albums](../../images/labels/hollywood_records/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 12 | [rock](../../genres/rock/overview.md) |
-| 19 | 12 | glam rock |
-| 19 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
+| 18 | 12 | [rock](../../genres/rock/overview.md) |
+| 18 | 12 | glam rock |
+| 18 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 1 | [pop](../../genres/pop/overview.md) |
 
@@ -73,8 +72,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | A Night At The Opera (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Good Old Fashioned Lover Boy | A Day At The Races | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | | [🔗](https://open.spotify.com/track/3e9w80AUq0mT9Nrq471kLx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Somebody To Love | A Day At The Races | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/79M91zIoaIrm073sACpOtr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395313a5eee00d9bdf37883e2" alt="" width="50" /> | Somebody To Love - Remastered 2011 | A Day At The Races (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | | [🔗](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Are The Champions - Remastered 2011 | News Of The World (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/7ccI9cStQbQdystvc6TvxD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Will Rock You - Remastered 2011 | News Of The World (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) |
 
 
 <details>
@@ -82,7 +81,6 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Will Rock You - Remastered 2011 | News Of The World (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e5bfba76defb59b3acf6c47" alt="" width="50" /> | Don't Stop Me Now | Jazz | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | | [🔗](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Don't Stop Me Now - Remastered 2011 | Jazz (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Fat Bottomed Girls - Remastered 2011 | Jazz (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 💚 | [🔗](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) |

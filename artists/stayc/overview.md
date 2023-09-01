@@ -18,7 +18,9 @@ STAYC is currently:
 ## Top Tracks
 
 - POPPY - Japanese Ver. is:
-    - the #20 track of the last 6 months
+    - the #21 track of the last 6 months
+- Bubble is:
+    - the #45 track of the last month
 
 ### Top tracks of the last 6 months over time
 

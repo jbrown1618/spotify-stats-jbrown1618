@@ -13,7 +13,7 @@ ATEEZ is currently:
 ## Top Tracks
 
 - HALAZIA is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

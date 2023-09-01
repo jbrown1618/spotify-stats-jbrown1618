@@ -22,7 +22,7 @@ WENDY is currently:
     - the #42 track of all time
 - Time After Time is:
     - the #10 track of the last month
-    - the #15 track of the last 6 months
+    - the #13 track of the last 6 months
 
 ### Top tracks of all time over time
 

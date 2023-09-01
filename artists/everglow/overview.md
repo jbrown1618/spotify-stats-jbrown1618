@@ -2,7 +2,7 @@
 # EVERGLOW
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb63cc88daba8709af04c3d6ed" alt="EVERGLOW" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="EVERGLOW" width="100" />
 
 ## Artist Rank
 EVERGLOW is currently:

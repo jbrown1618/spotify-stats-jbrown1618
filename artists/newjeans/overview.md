@@ -18,13 +18,13 @@ NewJeans is currently:
 ## Top Tracks
 
 - Ditto is:
-    - the #10 track of the last 6 months
+    - the #9 track of the last 6 months
 - OMG is:
     - the #33 track of the last 6 months
 - ASAP is:
-    - the #19 track of the last month
+    - the #20 track of the last month
 - Hype Boy is:
-    - the #31 track of the last month
+    - the #33 track of the last month
 
 ### Top tracks of the last 6 months over time
 

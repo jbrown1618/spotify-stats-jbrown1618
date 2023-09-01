@@ -14,7 +14,7 @@ TREASURE is currently:
 ## Top Tracks
 
 - MOVE (T5) is:
-    - the #21 track of the last month
+    - the #23 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -12,7 +12,7 @@
 BLACKPINK is currently:
 - The #3 artist of all time
 - The #11 artist of the last 6 months
-- The #13 artist of the last month
+- The #12 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -32,7 +32,7 @@ BLACKPINK is currently:
 - Pink Venom is:
     - the #4 track of the last 6 months
 - DDU-DU DDU-DU is:
-    - the #16 track of the last month
+    - the #18 track of the last month
 
 ### Top tracks of all time over time
 

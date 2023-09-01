@@ -23,8 +23,8 @@ SEVENTEEN is currently:
 - HOME;RUN is:
     - the #44 track of all time
 - Pretty U is:
-    - the #34 track of the last month
-    - the #35 track of the last 6 months
+    - the #36 track of the last month
+    - the #46 track of the last 6 months
 
 ### Top tracks of all time over time
 
