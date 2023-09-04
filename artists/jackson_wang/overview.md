@@ -12,8 +12,6 @@ Jackson Wang is currently:
 ![Rank of Jackson Wang over time](../../images/artists/jackson_wang/rank_time_series.png)
 ## Top Tracks
 
-- Blow is:
-    - the #43 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

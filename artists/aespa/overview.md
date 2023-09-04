@@ -18,32 +18,32 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #5 track of the last month
+    - the #6 track of the last month
     - the #12 track of the last 6 months
     - the #4 track of all time
 - Next Level is:
-    - the #19 track of the last month
-    - the #23 track of the last 6 months
+    - the #24 track of the last month
+    - the #27 track of the last 6 months
     - the #5 track of all time
 - Black Mamba is:
     - the #18 track of all time
 - Spicy is:
     - the #2 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
-    - the #6 track of the last month
+    - the #5 track of the last month
     - the #3 track of the last 6 months
 - Hold On Tight is:
-    - the #12 track of the last month
-    - the #5 track of the last 6 months
+    - the #14 track of the last month
+    - the #4 track of the last 6 months
 - Illusion is:
-    - the #10 track of the last 6 months
+    - the #9 track of the last 6 months
 - Thirsty is:
     - the #19 track of the last 6 months
 - Salty & Sweet is:
-    - the #16 track of the last month
-    - the #42 track of the last 6 months
+    - the #20 track of the last month
+    - the #40 track of the last 6 months
 - Better Things is:
-    - the #29 track of the last month
+    - the #26 track of the last month
 
 ### Top tracks of all time over time
 

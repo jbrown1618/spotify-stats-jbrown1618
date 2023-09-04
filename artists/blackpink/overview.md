@@ -30,9 +30,9 @@ BLACKPINK is currently:
 - BOOMBAYAH is:
     - the #49 track of all time
 - Pink Venom is:
-    - the #4 track of the last 6 months
+    - the #5 track of the last 6 months
 - DDU-DU DDU-DU is:
-    - the #18 track of the last month
+    - the #17 track of the last month
 
 ### Top tracks of all time over time
 

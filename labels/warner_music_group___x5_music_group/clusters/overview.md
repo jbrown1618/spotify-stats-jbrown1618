@@ -24,7 +24,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="" width="50" /> | Dominick the Donkey (The Italian Christmas Donkey) | Dominick the Donkey | Lou Monte | [Warner Music Group - X5 Music Group](../..) | | [🔗](https://open.spotify.com/track/7kWD5fzU9Pkux4TQ5V5F3S) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fec199ea327123ad967a3946" alt="" width="50" /> | Dominick the Donkey (The Italian Christmas Donkey) | Fairytale of New York | Lou Monte, Joe Reisman's Orchestra and Chorus | [Warner Music Group - X5 Music Group](../..) | | [🔗](https://open.spotify.com/track/4EjOn21ToBHzjVnd6rqSyr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fec199ea327123ad967a3946" alt="" width="50" /> | Dominick the Donkey (The Italian Christmas Donkey) [with Joe Reisman's Orchestra and Chorus] | Fairytale of New York | Lou Monte, Joe Reisman's Orchestra and Chorus | [Warner Music Group - X5 Music Group](../..) | | [🔗](https://open.spotify.com/track/4EjOn21ToBHzjVnd6rqSyr) |
 ## Cluster #3
 
 12 tracks
