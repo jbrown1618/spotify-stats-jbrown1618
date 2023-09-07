@@ -2,7 +2,7 @@
 # Lindsey Stirling
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebd68284f34757dde6b0e86b02" alt="Lindsey Stirling" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="Lindsey Stirling" width="100" />
 
 ## Artist Rank
 

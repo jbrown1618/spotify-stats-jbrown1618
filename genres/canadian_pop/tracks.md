@@ -4,7 +4,6 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | You Oughta Know | Jagged Little Pill | Alanis Morissette | Maverick | 💚 | [🔗](https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="" width="50" /> | Boom | Anjulie | Anjulie | Hear Music | 💚 | [🔗](https://open.spotify.com/track/2Jf86nCe8O3LgAcflzxuy9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Sk8er Boi | Let Go | Avril Lavigne | Arista | | [🔗](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | My Happy Ending | Under My Skin | Avril Lavigne | Arista | 💚 | [🔗](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c" alt="" width="50" /> | Call Me Maybe | Kiss (Deluxe) | Carly Rae Jepsen | Silent Records IGA | | [🔗](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | I Feel It All | The Reminder | Feist | Universal Music Division Polydor | | [🔗](https://open.spotify.com/track/3ghgwo0BTPm329zGMQRfn7) |

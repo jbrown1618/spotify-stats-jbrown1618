@@ -2,7 +2,7 @@
 # HWASA
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb6de000137b41e45cc33a3566" alt="HWASA" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="HWASA" width="100" />
 
 ## Artist Rank
 
@@ -10,7 +10,7 @@
 ## Top Tracks
 
 - Maria is:
-    - the #32 track of the last month
+    - the #25 track of the last month
     - the #6 track of all time
 
 ### Top tracks of all time over time

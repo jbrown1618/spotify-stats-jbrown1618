@@ -18,14 +18,21 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #25 track of the last 6 months
+    - the #45 track of the last month
+    - the #31 track of the last 6 months
     - the #31 track of all time
 - Cheshire is:
-    - the #8 track of the last 6 months
+    - the #10 track of the last 6 months
 - Kill Shot is:
-    - the #4 track of the last month
+    - the #3 track of the last month
 - CAKE is:
-    - the #12 track of the last month
+    - the #7 track of the last month
+- None of My Business is:
+    - the #38 track of the last month
+- BET ON ME is:
+    - the #46 track of the last month
+- Voltage is:
+    - the #47 track of the last month
 
 ### Top tracks of all time over time
 

@@ -11,14 +11,14 @@
 ## Artist Rank
 Radiohead is currently:
 - The #49 artist of all time
-- The #24 artist of the last 6 months
-- The #20 artist of the last month
+- The #25 artist of the last 6 months
+- The #17 artist of the last month
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
 ## Top Tracks
 
 - Exit Music (For A Film) is:
-    - the #35 track of the last month
+    - the #28 track of the last month
 
 ### Top tracks of the last month over time
 

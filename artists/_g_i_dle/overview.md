@@ -11,8 +11,8 @@
 ## Artist Rank
 (G)I-DLE is currently:
 - The #7 artist of all time
-- The #6 artist of the last 6 months
-- The #8 artist of the last month
+- The #5 artist of the last 6 months
+- The #6 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
@@ -22,10 +22,10 @@
 - Uh-Oh is:
     - the #28 track of all time
 - All Night is:
-    - the #1 track of the last month
-    - the #38 track of the last 6 months
+    - the #2 track of the last month
+    - the #36 track of the last 6 months
 - Nxde is:
-    - the #44 track of the last 6 months
+    - the #49 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -94,7 +94,6 @@
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
 - [k-pop girl group](../../genres/k_pop_girl_group)
 
 ## Tracks

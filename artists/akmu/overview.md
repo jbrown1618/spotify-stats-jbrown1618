@@ -5,6 +5,8 @@
 <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="AKMU" width="100" />
 
 ## Artist Rank
+AKMU is currently:
+- The #50 artist of the last 6 months
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks

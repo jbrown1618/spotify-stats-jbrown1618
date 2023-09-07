@@ -11,18 +11,20 @@
 ## Artist Rank
 Billlie is currently:
 - The #21 artist of all time
-- The #10 artist of the last 6 months
-- The #23 artist of the last month
+- The #11 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
 
-- RING X RING is:
-    - the #31 track of the last 6 months
 - enchanted night ~ white night is:
-    - the #36 track of the last 6 months
+    - the #33 track of the last 6 months
+- RING X RING is:
+    - the #38 track of the last 6 months
 - EUNOIA is:
-    - the #42 track of the last 6 months
+    - the #39 track of the last 6 months
+- RING ma Bell (what a wonderful world) is:
+    - the #19 track of the last month
 
 ### Top tracks of the last 6 months over time
 

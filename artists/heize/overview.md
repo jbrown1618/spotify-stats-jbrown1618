@@ -10,13 +10,13 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #45 artist of the last 6 months
+- The #44 artist of the last 6 months
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
 
 - VingleVingle (Prod. R.Tee) is:
-    - the #7 track of the last month
+    - the #16 track of the last month
 
 ### Top tracks of the last 6 months over time
 

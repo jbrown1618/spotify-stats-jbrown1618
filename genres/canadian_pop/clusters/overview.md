@@ -4,12 +4,11 @@
 
 ## Cluster #1
 
-7 tracks
+6 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="" width="50" /> | You Oughta Know | Jagged Little Pill | Alanis Morissette | Maverick | 💚 | [🔗](https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240" alt="" width="50" /> | Sk8er Boi | Let Go | Avril Lavigne | Arista | | [🔗](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | My Happy Ending | Under My Skin | Avril Lavigne | Arista | 💚 | [🔗](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730315efc555d5a157b0392652" alt="" width="50" /> | All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](../../../../artists/justin_bieber/overview.md), Mariah Carey | RBMG/Def Jam | | [🔗](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | I'll Show You | Purpose (Deluxe) | [Justin Bieber](../../../../artists/justin_bieber/overview.md) | RBMG/Def Jam | | [🔗](https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc) |

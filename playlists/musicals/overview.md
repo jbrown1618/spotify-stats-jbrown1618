@@ -160,7 +160,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
+| 30 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 55 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |

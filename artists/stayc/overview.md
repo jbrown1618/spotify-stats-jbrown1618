@@ -10,17 +10,17 @@
 
 ## Artist Rank
 STAYC is currently:
-- The #19 artist of all time
-- The #12 artist of the last 6 months
-- The #6 artist of the last month
+- The #18 artist of all time
+- The #13 artist of the last 6 months
+- The #8 artist of the last month
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
 - POPPY - Japanese Ver. is:
-    - the #20 track of the last 6 months
+    - the #22 track of the last 6 months
 - Bubble is:
-    - the #44 track of the last month
+    - the #23 track of the last month
 
 ### Top tracks of the last 6 months over time
 

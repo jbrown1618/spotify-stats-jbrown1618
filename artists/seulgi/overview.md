@@ -7,16 +7,13 @@
 ## Artist Rank
 SEULGI is currently:
 - The #35 artist of all time
-- The #33 artist of the last 6 months
+- The #31 artist of the last 6 months
 
 ![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #24 track of the last 6 months
-- Dead Man Runnin’ is:
-    - the #45 track of the last month
-    - the #46 track of the last 6 months
+    - the #29 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

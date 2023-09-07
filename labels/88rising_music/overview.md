@@ -45,7 +45,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 8 | [k-pop](../../genres/k_pop/overview.md) |
+| 9 | 7 | [k-pop](../../genres/k_pop/overview.md) |
 | 4 | 4 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | asian american hip hop |
