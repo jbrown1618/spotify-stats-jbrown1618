@@ -20,6 +20,12 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 25 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 28 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
@@ -92,11 +98,11 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
+| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 79 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
-| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 59 |
+| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 60 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 66 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 62 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
@@ -333,7 +339,7 @@
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 53 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 46 |
 | Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 54 |
-| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 46 |
+| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 47 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 29 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 62 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
@@ -342,7 +348,7 @@
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 37 |
 | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 0 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
@@ -351,6 +357,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 79 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
+| Rainy Season | RED MOON | MAMAMOO | 0 | 2 | 62 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
@@ -359,8 +366,8 @@
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 51 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 51 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 51 |
-| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
-| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
+| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
+| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
@@ -387,14 +394,14 @@
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 82 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
-| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
+| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
 | RED | RED | The Rose | 0 | 0 | 65 |
 | She′s In The Rain | Dawn | The Rose | 1 | 0 | 65 |
 | BABY | Void | The Rose | 0 | 0 | 65 |
 | Sorry | Sorry | The Rose | 1 | 0 | 65 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 1 | 0 | 50 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
-| Gimme Sympathy | Fantasies | Metric | 0 | 1 | 59 |
+| Gimme Sympathy | Fantasies | Metric | 0 | 1 | 60 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 57 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
@@ -418,7 +425,7 @@
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 42 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 43 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
 | All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 75 |

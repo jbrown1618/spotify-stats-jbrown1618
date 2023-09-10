@@ -12,7 +12,7 @@
 Girls' Generation is currently:
 - The #15 artist of all time
 - The #20 artist of the last 6 months
-- The #15 artist of the last month
+- The #14 artist of the last month
 
 ![Rank of Girls' Generation over time](../../images/artists/girls__generation/rank_time_series.png)
 ## Top Tracks
@@ -22,7 +22,7 @@ Girls' Generation is currently:
 - Lion Heart is:
     - the #36 track of all time
 - The Boys is:
-    - the #25 track of the last 6 months
+    - the #20 track of the last 6 months
 
 ### Top tracks of all time over time
 

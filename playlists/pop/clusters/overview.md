@@ -20,19 +20,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | There Goes My Baby | Raymond v Raymond (Expanded Edition) | USHER | LaFace Records | 💚 | [🔗](https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8) |
 ## Cluster #2
 
-60 tracks
+63 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | Love's Train | [Bruno Mars](../../../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../../../labels/atlantic_records) | | [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | Toxic | In The Zone | Britney Spears | [Jive](../../../../labels/jive) | 💚 | [🔗](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | Attention | Voicenotes | Charlie Puth | Artist Partner | 💚 | [🔗](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="" width="50" /> | Woman | Planet Her | [Doja Cat](../../../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="" width="50" /> | Mercy | Rockferry | Duffy | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Peacock | Teenage Dream | [Katy Perry](../../../../artists/katy_perry/overview.md) | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/0kMLFbhrbo29nEx5M0A7km) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | The Fame | [Lady Gaga](../../../../artists/lady_gaga/overview.md) | [Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Lollipop | Life in Cartoon Motion | MIKA | Casablanca Records/Island UK | 💚 | [🔗](https://open.spotify.com/track/1JAnC4VkVIbO7C6Vislnue) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | Sugar | V | [Maroon 5](../../../../artists/maroon_5/overview.md) | [Interscope Records*](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | S&M | Loud | [Rihanna](../../../../artists/rihanna/overview.md) | [Def Jam Recordings](../../../../labels/def_jam_recordings) | 💚 | [🔗](https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../../../../artists/rihanna/overview.md) | [Def Jam Recordings](../../../../labels/def_jam_recordings) | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md) | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
 ## Cluster #3
 
@@ -52,23 +52,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | ...Ready For It? | reputation | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | 💚 | [🔗](https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5) |
 ## Cluster #4
 
-21 tracks
+22 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | Show Me What | 7G | A. G. Cook, Cecile Believe | PC Music | 💚 | [🔗](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bad guy | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../../artists/billie_eilish/overview.md) | [Darkroom](../../../../labels/darkroom), [Interscope Records](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="" width="50" /> | We Don't Talk Anymore (feat. Selena Gomez) | Nine Track Mind | Charlie Puth, Selena Gomez | Artist Partner | 💚 | [🔗](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Best Part (feat. H.E.R.) | Freudian | Daniel Caesar, H.E.R. | Golden Child Recordings | 💚 | [🔗](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I | How Can I | H 3 F | H 3 F | 💚 | [🔗](https://open.spotify.com/track/3Ka0IJwEvxI3ssqbF48SWZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](../../../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](../../../../artists/justin_bieber/overview.md) | RBMG/Def Jam | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | illicit affairs | folklore | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | invisible string | folklore | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | mad woman | folklore | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Taylor Swift](../../../../labels/taylor_swift) | | [🔗](https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6f7af36ecdc3ed6e0a1f169" alt="" width="50" /> | Dance Monkey | Dance Monkey (Stripped Back) / Dance Monkey | Tones And I | Elektra (NEK) | 💚 | [🔗](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) |
 ## Cluster #5
 
-43 tracks
+42 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -84,23 +84,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | Come Home | Dreaming Out Loud | OneRepublic | [Mosley / Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh) |
 ## Cluster #6
 
-36 tracks
+35 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Baby I | Yours Truly | [Ariana Grande](../../../../artists/ariana_grande/overview.md) | [Universal Records](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Honeymoon Avenue | Yours Truly | [Ariana Grande](../../../../artists/ariana_grande/overview.md) | [Universal Records](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, [Doja Cat](../../../../artists/doja_cat/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | Old Fashioned | The Lady Killer | CeeLo Green | Radiculture/Elektra | 💚 | [🔗](https://open.spotify.com/track/3lVoGZoKXQUElnJbU668Jf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | Maniac | Kid Krow | Conan Gray | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Break My Heart | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/59CrwNtNqzOmODXRxwaknc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | Close To Me - Red Velvet Remix | Close To Me (Red Velvet Remix) | Ellie Goulding, Diplo, [Red Velvet](../../../../artists/red_velvet/overview.md) | [Polydor Records](../../../../labels/polydor_records) | | [🔗](https://open.spotify.com/track/696Y3Jx3k4Rjsw8gm2q4l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake | Teenage Dream: The Complete Confection | [Katy Perry](../../../../artists/katy_perry/overview.md) | [Capitol Records](../../../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | Payphone | Overexposed (Deluxe) | [Maroon 5](../../../../artists/maroon_5/overview.md), Wiz Khalifa | [Interscope Records*](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | This Is Why We Can't Have Nice Things | reputation | [Taylor Swift](../../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../../labels/big_machine_records) | | [🔗](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP) |
 ## Cluster #7
 
-73 tracks
+72 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

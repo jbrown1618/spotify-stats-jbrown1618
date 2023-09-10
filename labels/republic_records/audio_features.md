@@ -65,8 +65,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="KILL MY DOUBT" width="50" /> | None of My Business (0.539) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.00151) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | 24 to 25 (0.533) | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="Kid Krow" width="50" /> | Maniac (0.00162) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="Positions" width="50" /> | positions (0.468) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | WANNABE - English Ver. (0.00392) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="Twicetagram" width="50" /> | Likey (0.413) | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="The Chaos Chapter: FREEZE" width="50" /> | Frost (0.00551) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | Merry & Happy (0.403) | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | SUPER BOARD (0.00653) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="Twicetagram" width="50" /> | Likey (0.413) | <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="24 Hours" width="50" /> | 24 Hours (0.00549) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | Merry & Happy (0.403) | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="The Chaos Chapter: FREEZE" width="50" /> | Frost (0.00551) |
 
 ## Instrumentalness
 

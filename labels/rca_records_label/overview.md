@@ -1,6 +1,6 @@
 # RCA Records Label
 
-95 songs
+96 songs
 
 [See Track Features](audio_features.md)
 
@@ -14,6 +14,7 @@ Appears as:
 - BPG/RVG/RCA Records (1 tracks)
 - Chris Brown Entertainment/300 Entertainment/RCA Records (1 tracks)
 - Cult Records/RCA Records (1 tracks)
+- House of Iona/RCA Records (1 tracks)
 - KAYTRANADA/RCA Records (1 tracks)
 - RCA/Legacy (1 tracks)
 - Top Dawg Entertainment/RCA Records (1 tracks)
@@ -25,7 +26,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2a287155c3bfd7b85fa886" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 5 | 3 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 6 | 4 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
@@ -90,7 +91,7 @@ Appears as:
 
 
 <details>
-<summary>See all 53 albums</summary>
+<summary>See all 54 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -110,6 +111,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | 1 | 1 | Hurts 2B Human | 2019-04-26 | [🔗](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd0316b194097528348c8eb0" alt="" width="50" /> | 1 | 1 | Hot Pink | 2019-11-07 | [🔗](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | 1 | 1 | ELVIS (Original Motion Picture Soundtrack) | 2022-06-24 | [🔗](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c" alt="" width="50" /> | 1 | 1 | Breakaway | 2004-01-17 | [🔗](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | 1 | 1 | Bangerz (Deluxe Version) | 2013-10-04 | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
@@ -147,10 +149,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 20 | [pop](../../genres/pop/overview.md) |
+| 28 | 21 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
-| 15 | 9 | [dance pop](../../genres/dance_pop/overview.md) |
+| 16 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | australian pop |
 | 8 | 8 | australian dance |
 | 4 | 3 | [rap](../../genres/rap/overview.md) |
@@ -228,6 +230,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="" width="50" /> | Need to Know | Planet Her | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | | [🔗](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="" width="50" /> | Woman | Planet Her | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="" width="50" /> | You Right | Planet Her | [Doja Cat](../../artists/doja_cat/overview.md), The Weeknd | [Kemosabe Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](../../artists/doja_cat/overview.md) | [House of Iona/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love | Blue Hawaii | Elvis Presley | [Legacy](../legacy), [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | Everlong | The Colour And The Shape | Foo Fighters | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |

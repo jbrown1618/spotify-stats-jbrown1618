@@ -13,8 +13,8 @@ BoA is currently:
 ## Top Tracks
 
 - Time After Time is:
-    - the #35 track of the last month
-    - the #13 track of the last 6 months
+    - the #31 track of the last month
+    - the #19 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

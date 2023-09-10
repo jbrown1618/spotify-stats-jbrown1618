@@ -11,13 +11,13 @@
 ## Artist Rank
 Sara Bareilles is currently:
 - The #26 artist of all time
-- The #27 artist of the last 6 months
+- The #26 artist of the last 6 months
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
 
 - Fairytale is:
-    - the #31 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of the last month over time
 

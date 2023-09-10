@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e3b99bd6e931e16752305bd" alt="" width="50" /> | 8 | 0 | Eric Whitacre | [🔗](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL) |
 | <img src="https://i.scdn.co/image/0b5020426f1e073f8c90d7e8e7375bffcbd89c07" alt="" width="50" /> | 8 | 0 | Eric Whitacre Singers | [🔗](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320949e635e974e73edeb7e32" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
 
 ![Bar chart of top 9 artists](../../images/labels/decca__umo_/artists.png)
 

@@ -12,7 +12,7 @@
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #4 artist of the last month
+- The #3 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
@@ -24,11 +24,14 @@ Red Velvet is currently:
 - Dumb Dumb is:
     - the #21 track of all time
 - Ice Cream Cake is:
+    - the #49 track of the last month
     - the #32 track of all time
 - BYE BYE is:
-    - the #16 track of the last 6 months
+    - the #24 track of the last 6 months
 - ZOOM is:
-    - the #35 track of the last 6 months
+    - the #42 track of the last 6 months
+- Feel My Rhythm is:
+    - the #48 track of the last 6 months
 
 ### Top tracks of all time over time
 
