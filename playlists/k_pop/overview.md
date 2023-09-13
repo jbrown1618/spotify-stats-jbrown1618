@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1095 tracks (801 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
+[1096 tracks (802 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
 
 [See Track Features](audio_features.md)
 
@@ -317,6 +317,7 @@
 | 4 | 1 | THEBLACKLABEL |
 | 2 | 1 | 해피트라이브엔터테인먼트 |
 | 2 | 1 | 올라트엔터테인먼트 |
+| 2 | 1 | S2 ENTERTAINMENT INC. |
 | 2 | 1 | Parlophone Denmark |
 | 2 | 1 | OFF THE RECORD Entertainment |
 | 2 | 1 | Klap |
@@ -355,7 +356,6 @@
 | 1 | 1 | IOK COMPANY |
 | 1 | 1 | HYBE LABELS JAPAN |
 | 1 | 1 | HAPPYTRIBE ENTERTAINMENT |
-| 1 | 1 | GU Music |
 
 </details>
 
@@ -367,7 +367,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 885 | 648 | [k-pop](../../genres/k_pop/overview.md) |
-| 458 | 352 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 459 | 353 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 279 | 189 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 185 | 133 | [pop](../../genres/pop/overview.md) |
 | 28 | 25 | [anime](../../genres/anime/overview.md) |
@@ -414,7 +414,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 153 |
+| [2023](2023.md) | 154 |
 | [2022](2022.md) | 260 |
 | [2021](2021.md) | 191 |
 | [2020](2020.md) | 125 |

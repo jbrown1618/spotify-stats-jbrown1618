@@ -175,7 +175,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27354f5c25dc365c6e1e1921047" alt="" width="50" /> | 3 | 0 | Covers, Vol. III | 2017-06-16 | [🔗](https://open.spotify.com/album/69zZ6utXSbC6dr6tdBsvNz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 3 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | 3 | 0 | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | 3 | 0 | BOCA 2018: Best of College A Cappella | 2018 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | 3 | 0 | BOCA 2018: Best of College A Cappella | 2021-02-04 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
@@ -357,10 +357,10 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2022 | 5 |
-| 2021 | 7 |
+| 2021 | 10 |
 | 2020 | 1 |
 | 2019 | 13 |
-| [2018](2018.md) | 29 |
+| [2018](2018.md) | 26 |
 | 2017 | 17 |
 | [2016](2016.md) | 38 |
 | [2015](2015.md) | 23 |
@@ -392,8 +392,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="Ignite" width="50" /> | Ignite (2021-06-28) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="Storming The Castle" width="50" /> | Storming The Castle (2021-06-09) | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="Circle Of Life" width="50" /> | Circle Of Life (1996-11-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | BOCA 2021: Best of College A Cappella (2021-02-06) | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="Against the Grain" width="50" /> | Against the Grain (2001-04-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="BOCA 2020: Best of College A Cappella" width="50" /> | BOCA 2020: Best of College A Cappella (2020-01-08) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | BOCA 2004: Best Of College A Cappella (2004-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="bad guy" width="50" /> | bad guy (2019-12-13) | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="Defrosted" width="50" /> | Defrosted (2004-04-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="Señorita" width="50" /> | Señorita (2019-12-02) | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | BOCA 2006: Best Of College A Cappella (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="G Train" width="50" /> | G Train (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Unwrapped (2006-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="Before He Cheats" width="50" /> | Before He Cheats (2019-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="Behind Bars" width="50" /> | Behind Bars (2007-02-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | BOCA 2018: Best of College A Cappella (2021-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | BOCA 2004: Best Of College A Cappella (2004-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c863f73a8ec70e519fbc808" alt="BOCA 2020: Best of College A Cappella" width="50" /> | BOCA 2020: Best of College A Cappella (2020-01-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="Defrosted" width="50" /> | Defrosted (2004-04-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fec526f773b919f6ec2e1127" alt="bad guy" width="50" /> | bad guy (2019-12-13) | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | BOCA 2006: Best Of College A Cappella (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348c7740526dec326d08b28d8" alt="Señorita" width="50" /> | Señorita (2019-12-02) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Unwrapped (2006-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="G Train" width="50" /> | G Train (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="Behind Bars" width="50" /> | Behind Bars (2007-02-21) |

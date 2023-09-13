@@ -24,14 +24,13 @@ Red Velvet is currently:
 - Dumb Dumb is:
     - the #21 track of all time
 - Ice Cream Cake is:
-    - the #49 track of the last month
     - the #32 track of all time
 - BYE BYE is:
-    - the #24 track of the last 6 months
-- ZOOM is:
-    - the #42 track of the last 6 months
+    - the #34 track of the last 6 months
 - Feel My Rhythm is:
-    - the #48 track of the last 6 months
+    - the #39 track of the last 6 months
+- 7월 7일 One Of These Nights is:
+    - the #48 track of the last month
 
 ### Top tracks of all time over time
 

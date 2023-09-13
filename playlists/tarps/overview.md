@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 83 genres</summary>
+<summary>See all 82 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -303,7 +303,6 @@
 | 1 | 0 | talent show |
 | 1 | 0 | swedish pop |
 | 1 | 0 | rockabilly |
-| 1 | 0 | rhythm and blues |
 | 1 | 0 | irish rock |
 | 1 | 0 | hip pop |
 | 1 | 0 | girl group |

@@ -11,7 +11,7 @@
 ## Artist Rank
 MAMAMOO is currently:
 - The #13 artist of all time
-- The #24 artist of the last 6 months
+- The #20 artist of the last 6 months
 
 ![Rank of MAMAMOO over time](../../images/artists/mamamoo/rank_time_series.png)
 ## Top Tracks

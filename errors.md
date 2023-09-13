@@ -105,84 +105,84 @@
 | Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 60 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 66 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 62 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 53 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 30 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 54 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
@@ -294,44 +294,44 @@
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 68 |
 | React | React | The Pussycat Dolls | 1 | 0 | 67 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 72 |
-| The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
-| The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
-| I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 52 |
-| Carey | Blue | Joni Mitchell | 0 | 0 | 52 |
-| Blue | Blue | Joni Mitchell | 0 | 0 | 52 |
-| A Case of You | Blue | Joni Mitchell | 0 | 0 | 52 |
-| Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 52 |
-| Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| The Fox | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Scarborough Fair | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| The Parting Glass | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| The Water is Wide | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Shenandoah | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Amazing Grace | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
-| Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Into The West | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Gollum's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 48 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| The Prayer | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| Imagine | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 48 |
-| The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 48 |
-| Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 48 |
-| Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 48 |
-| Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 48 |
-| Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 48 |
+| The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
+| The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
+| I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
+| Carey | Blue | Joni Mitchell | 0 | 0 | 53 |
+| Blue | Blue | Joni Mitchell | 0 | 0 | 53 |
+| A Case of You | Blue | Joni Mitchell | 0 | 0 | 53 |
+| Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 53 |
+| Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| The Fox | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Scarborough Fair | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| The Parting Glass | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| The Water is Wide | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Shenandoah | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Amazing Grace | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Danny Boy | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
+| Edge of Night | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Song of the Lonely Mountain | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Into The West | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Arwen's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Gollum's Song | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Peter Hollens | 0 | 0 | 49 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| The Prayer | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| Imagine | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| You Raise Me Up - A Cappella | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| Lullaby | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| Over the Rainbow | Legendary Covers, Vol. 1 | Peter Hollens | 0 | 0 | 49 |
+| The Sound of Silence | The Sound of Silence | Peter Hollens | 0 | 0 | 49 |
+| Les Miserables Medley | Peter Hollens | Peter Hollens | 0 | 0 | 49 |
+| Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 49 |
+| Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 49 |
+| Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 49 |
 | Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 32 |
 | Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 32 |
 | Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 32 |
@@ -346,14 +346,14 @@
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 37 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 37 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 37 |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 0 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 0 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 79 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 63 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
@@ -373,8 +373,9 @@
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 26 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 2 | 0 | 70 |
 | Enter Sandman | Metallica | Metallica | 2 | 2 | 80 |
-| Wings | Wings | PIXY | 2 | 0 | 39 |
+| Wings | Wings | PIXY | 1 | 0 | 39 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
@@ -382,41 +383,42 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 64 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 31 |
-| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 43 |
+| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
-| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 82 |
-| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 82 |
-| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 82 |
-| You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
-| Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
+| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 83 |
+| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 83 |
+| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 83 |
+| You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 83 |
+| Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 83 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
-| RED | RED | The Rose | 0 | 0 | 65 |
-| She′s In The Rain | Dawn | The Rose | 1 | 0 | 65 |
+| RED | RED | The Rose | 1 | 0 | 65 |
+| She′s In The Rain | Dawn | The Rose | 0 | 0 | 65 |
 | BABY | Void | The Rose | 0 | 0 | 65 |
 | Sorry | Sorry | The Rose | 1 | 0 | 65 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 1 | 0 | 50 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 1 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 1 | 60 |
-| FACE | WOLF | WOOSUNG | 0 | 0 | 57 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
+| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 2 | 2 | 51 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
-| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 52 |
+| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 53 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 72 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 73 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 1 | 0 | 47 |
-| Miku | Miku | Hatsune Miku | 1 | 0 | 60 |
+| Miku | Miku | Anamanaguchi | 1 | 0 | 48 |
+| Miku | Miku | Hatsune Miku | 1 | 0 | 61 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 48 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
@@ -428,4 +430,4 @@
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 43 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
-| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 75 |
+| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 76 |

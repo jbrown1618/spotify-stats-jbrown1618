@@ -11,7 +11,7 @@
 ## Artist Rank
 TWICE is currently:
 - The #2 artist of all time
-- The #4 artist of the last 6 months
+- The #5 artist of the last 6 months
 - The #4 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
@@ -19,10 +19,8 @@ TWICE is currently:
 
 - I CAN'T STOP ME is:
     - the #23 track of all time
-- BLAME IT ON ME is:
-    - the #31 track of the last 6 months
 - WALLFLOWER is:
-    - the #41 track of the last 6 months
+    - the #42 track of the last 6 months
 - SET ME FREE is:
     - the #44 track of the last 6 months
 

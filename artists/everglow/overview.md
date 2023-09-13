@@ -7,13 +7,18 @@
 ## Artist Rank
 EVERGLOW is currently:
 - The #25 artist of all time
-- The #26 artist of the last month
+- The #45 artist of the last 6 months
+- The #27 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Top Tracks
 
 - SLAY is:
-    - the #39 track of the last month
+    - the #29 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/everglow/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

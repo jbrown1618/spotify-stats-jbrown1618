@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="You Don&#x27;t Know Me" width="50" /> | You Don't Know Me (0.877) | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | So Sick (0.452) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> | Don't Cha (0.877) | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="Camila" width="50" /> | Consequences (0.455) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don&#x27;t Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) (0.87) | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="Play On" width="50" /> | Undo It (0.476) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6d5da9e8c6bb38a2e62f6f" alt="COLLECTION" width="50" /> | FIRE (0.867) | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us (0.491) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us (0.491) |
 
 ## Energy
 

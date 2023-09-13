@@ -911,6 +911,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.582,0.855,11,-4.168,1,0.0561,0.0308,0.0,0.144,0.355,94.958,4,spotify:track:1nmc8ngLcvccw7Lay5v5SP
 0.391,0.386,2,-18.984,0,0.0664,0.96,0.924,0.218,0.124,72.131,4,spotify:track:1npEvrkd5GA8djI76r68Ay
 0.702,0.607,2,-6.509,1,0.0405,0.364,0.0271,0.123,0.436,116.969,4,spotify:track:1o22EcqsCANhwYdaNOSdwS
+0.799,0.701,1,-3.604,1,0.0826,0.0293,3.33e-05,0.187,0.283,95.019,4,spotify:track:1o6uF8VmXna99ysHTcQRI2
 0.586,0.816,7,-6.331,1,0.283,0.0911,2.81e-06,0.235,0.265,119.8,4,spotify:track:1o844wI52S3TjXGBwvGcc7
 0.317,0.0205,4,-31.8,0,0.0351,0.913,0.775,0.17,0.0463,111.004,4,spotify:track:1oDAFTOXZGSQedBa6hXGhT
 0.568,0.89,6,-4.612,1,0.0554,0.309,0.0,0.207,0.644,90.025,4,spotify:track:1oMYET9xQB8XpxwTt2c5Dz
@@ -1160,6 +1161,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.402,0.584,8,-4.946,1,0.0332,0.595,0.0,0.121,0.208,129.023,4,spotify:track:2HD4JdEYMkpgeu22IcOSAg
 0.256,0.0151,5,-27.064,1,0.0378,0.993,0.924,0.0661,0.0802,132.03,4,spotify:track:2HGPwnDkObM0QxHduiQQf7
 0.507,0.533,3,-4.396,1,0.0264,0.379,0.0,0.0771,0.429,92.916,4,spotify:track:2I0LNCqlQpAPJlwOEWaefE
+0.868,0.538,5,-8.603,1,0.174,0.269,3.34e-06,0.0901,0.732,99.968,4,spotify:track:2IGMVunIBsBLtEQyoI1Mu7
 0.61,0.762,4,-5.21,0,0.0394,0.00834,0.00026,0.309,0.264,120.995,4,spotify:track:2IJIZnAmBgkbohDRZDIMl5
 0.0914,0.0142,4,-28.677,1,0.0455,0.916,0.395,0.0902,0.0377,82.873,4,spotify:track:2IYwrciXeZTxkrO4tusuNL
 0.403,0.686,11,-3.941,1,0.0372,0.807,0.0,0.353,0.142,123.803,4,spotify:track:2IdhvVi0vsa8ELKURGlMzV
@@ -2852,6 +2854,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.162,0.0718,5,-27.946,1,0.0376,0.989,0.918,0.099,0.266,74.183,4,spotify:track:5SdOHEgN9vaJ79loXY16qr
 0.473,0.0738,0,-24.189,1,0.0391,0.991,0.889,0.113,0.573,127.806,4,spotify:track:5Sm6qqdwaG8VbduSsEVyM6
 0.853,0.981,8,-3.947,1,0.0751,0.247,0.468,0.306,0.595,118.193,4,spotify:track:5T7ywazdGIydr6JCW6t02j
+0.81,0.44,4,-8.744,0,0.0507,0.504,0.0,0.127,0.692,119.977,4,spotify:track:5TIwTvdD7OpJBt0tqIWLH3
 0.323,0.0328,2,-18.022,1,0.0429,0.828,0.204,0.112,0.349,111.832,3,spotify:track:5TOkiqYKjFiwiE7biXo9GF
 0.718,0.582,1,-6.618,0,0.0348,0.00486,1.5e-06,0.0628,0.669,124.039,4,spotify:track:5TfKoQg9AjmDIWYKFoDqMN
 0.531,0.363,10,-7.672,1,0.0608,0.749,0.0,0.112,0.259,121.412,4,spotify:track:5TgEJ62DOzBpGxZ7WRsrqb
@@ -3705,6 +3708,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.538,0.346,9,-7.127,1,0.0294,0.827,0.0,0.0973,0.266,145.714,4,spotify:track:76do9IBWqoiwV3EyoP25Le
 0.709,0.77,8,-2.972,1,0.0668,0.044,0.0,0.127,0.586,145.921,4,spotify:track:76dpiZihYVl5VbiHNjVj5l
 0.422,0.255,1,-9.878,1,0.0375,0.921,0.0,0.137,0.437,114.426,5,spotify:track:76ko6F6QRmiviFILuF9g6J
+0.796,0.758,6,-4.402,1,0.117,0.156,2.65e-06,0.0622,0.829,99.98,4,spotify:track:76qqDJijAjFph7sjUxNVG8
 0.689,0.735,2,-4.545,1,0.267,0.00922,0.00072,0.365,0.059,171.403,4,spotify:track:77Ft1RJngppZlq59B6uP0z
 0.394,0.0739,0,-22.417,1,0.0636,0.952,0.197,0.216,0.184,147.739,3,spotify:track:77ZbS58RGMl0RE3S9TLSXx
 0.169,0.0378,0,-24.96,0,0.0416,0.987,0.0524,0.175,0.0311,126.634,3,spotify:track:78BLTUqTCCHuptFEGejEoS
