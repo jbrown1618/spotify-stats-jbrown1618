@@ -12,7 +12,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 40 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | 2 | 0 | Mandy Moore | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
@@ -28,7 +28,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | 1 | 0 | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5d747f2aa17e23d16bf293c" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad" alt="" width="50" /> | 1 | 0 | A$AP Rocky | [🔗](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 

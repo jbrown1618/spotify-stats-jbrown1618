@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2a287155c3bfd7b85fa886" alt="" width="50" /> | 1 | 1 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 1 | 1 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38" alt="" width="50" /> | 1 | 1 | Gnarls Barkley | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 1 | 1 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 1 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 1 | 0 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5d747f2aa17e23d16bf293c" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 1 | 0 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 82 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -244,7 +244,7 @@
 | 3 | 3 | merseybeat |
 | 3 | 3 | [british invasion](../../genres/british_invasion/overview.md) |
 | 3 | 3 | [beatlesque](../../genres/beatlesque/overview.md) |
-| 5 | 2 | urban contemporary |
+| 5 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 2 | pop soul |
 | 3 | 2 | new americana |
@@ -303,6 +303,7 @@
 | 1 | 0 | talent show |
 | 1 | 0 | swedish pop |
 | 1 | 0 | rockabilly |
+| 1 | 0 | rhythm and blues |
 | 1 | 0 | irish rock |
 | 1 | 0 | hip pop |
 | 1 | 0 | girl group |

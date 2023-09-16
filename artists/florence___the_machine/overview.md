@@ -15,8 +15,6 @@ Florence + The Machine is currently:
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
 ## Top Tracks
 
-- What The Water Gave Me is:
-    - the #19 track of the last month
 
 ### Top tracks of the last month over time
 

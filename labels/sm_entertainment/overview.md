@@ -1,13 +1,13 @@
 # SM Entertainment
 
-280 songs
+281 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (277 tracks)
+- SM Entertainment (278 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
@@ -50,6 +50,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 2 | 2 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 2 | 2 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 2 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb09fd55678b9797b20acb3d4" alt="" width="50" /> | 2 | 2 | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
@@ -57,7 +58,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebabbcc94319ab8ce0408a05b0" alt="" width="50" /> | 2 | 1 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebafe0cb4b9c7d0f0bad2f4be3" alt="" width="50" /> | 1 | 1 | ONEW | [🔗](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5124a99689be021ee3674950" alt="" width="50" /> | 1 | 1 | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 1 | 1 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | 1 | 1 | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29d6428b4b21a6c952b2aea9" alt="" width="50" /> | 1 | 1 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
@@ -67,7 +67,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f9244eb4a483b160f414c0c" alt="" width="50" /> | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11f9b8e5a1715fe12e219caa" alt="" width="50" /> | 1 | 1 | YURI | [🔗](https://open.spotify.com/artist/2TMRvcwsmvVhvuEbKVEbZe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 1 | 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2c1c1278283aa7ed56208496" alt="" width="50" /> | 1 | 1 | D.O. | [🔗](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb42ccdd00d2c88c492205d93d" alt="" width="50" /> | 1 | 1 | D.O. | [🔗](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ecc590101dde2ae2ffbea2d" alt="" width="50" /> | 1 | 1 | SULLI | [🔗](https://open.spotify.com/artist/1OjcBoc71FwlzD5cJGx7xk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f7939e31f0b9be669ab79cf" alt="" width="50" /> | 1 | 1 | SinB | [🔗](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a26467248badc54d2253c5e" alt="" width="50" /> | 1 | 1 | NCT DOJAEJUNG | [🔗](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) |
@@ -223,7 +223,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 276 | 188 | [k-pop](../../genres/k_pop/overview.md) |
+| 277 | 189 | [k-pop](../../genres/k_pop/overview.md) |
 | 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 69 | 43 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -314,6 +314,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | KAI, [SEULGI](../../artists/seulgi/overview.md), JENO, KARINA | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | Rover | Rover - The 3rd Mini Album | KAI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="" width="50" /> | Killer | Killer - The 2nd Album Repackage | KEY | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="" width="50" /> | Good & Great | Good & Great - The 2nd Mini Album | KEY | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d23f42c2583356e3147da65b" alt="" width="50" /> | Child | Child - SM STATION : NCT LAB | MARK | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="" width="50" /> | Golden Hour | Golden Hour - SM STATION : NCT LAB | MARK | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil | Devil - The 2nd Mini Album | MAX CHANGMIN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) |

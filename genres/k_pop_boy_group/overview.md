@@ -151,7 +151,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | 1 | 1 | ZERO : FEVER Part.3 | 2021-09-13 | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a23b62f52ade294c583d639e" alt="" width="50" /> | 1 | 1 | WIN-DOW | 2022-07-20 | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="" width="50" /> | 1 | 1 | WIN-DOW | 2022-07-20 | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | 1 | 1 | Void | 2018-04-16 | [🔗](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | 1 | 1 | Universe (Let's Play Ball) | 2021-12-10 | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |

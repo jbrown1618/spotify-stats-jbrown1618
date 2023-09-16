@@ -7,13 +7,13 @@
 ## Artist Rank
 BoA is currently:
 - The #37 artist of all time
-- The #31 artist of the last 6 months
+- The #30 artist of the last 6 months
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
 - Time After Time is:
-    - the #24 track of the last 6 months
+    - the #22 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

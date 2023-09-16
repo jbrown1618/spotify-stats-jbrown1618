@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 2 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89ad1bc33aa9abcaf4370c77" alt="" width="50" /> | 1 | 1 | Loving Caliber | [🔗](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | 1 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
@@ -78,7 +78,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1" alt="" width="50" /> | 1 | 0 | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bf330a57b9dcffd8f7b2c14" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2aa71241ff5532e3ceeb86a1" alt="" width="50" /> | 1 | 0 | Ozuna | [🔗](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e4c53ae14b1c6603e1cfce7" alt="" width="50" /> | 1 | 0 | Ozuna | [🔗](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 1 | 0 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 0 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ed627f5610500c2266200fd" alt="" width="50" /> | 1 | 0 | Emotional Oranges | [🔗](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) |

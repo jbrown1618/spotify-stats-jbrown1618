@@ -10,9 +10,9 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | BORN PINK | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | EUNOIA | the Billage of perception: chapter three | [Billlie](../../../../artists/billlie/overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 💚 | [🔗](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](../../../../artists/oh_my_girl/overview.md) | [WM Entertainment](../../../../labels/wm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | Naughty | Red Velvet - IRENE & SEULGI | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
 ## Cluster #4
 
-51 tracks
+52 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

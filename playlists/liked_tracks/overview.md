@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1630 tracks
+1634 tracks
 
 [See Track Features](audio_features.md)
 
@@ -64,7 +64,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="" width="50" /> | 8 | 8 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 8 | 8 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 8 | 8 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2a287155c3bfd7b85fa886" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 8 | 8 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 8 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="" width="50" /> | 8 | 8 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -104,6 +104,7 @@
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 5 | 5 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 5 | 5 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 5 | 5 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 5 | 5 | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 5 | 5 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 5 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 4 | 4 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
@@ -116,7 +117,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 4 | 4 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 4 | 4 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 4 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 4 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 
 </details>
 
@@ -246,7 +246,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 190 | 190 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 191 | 191 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 99 | 99 | [Republic Records](../../labels/republic_records/overview.md) |
 | 63 | 63 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 63 | 63 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
@@ -255,7 +255,7 @@
 | 57 | 57 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 57 | 57 | [Columbia](../../labels/columbia/overview.md) |
 | 53 | 53 | [Warner Records](../../labels/warner_records/overview.md) |
-| 47 | 47 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 48 | 48 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
 
 <details>
@@ -310,9 +310,11 @@
 | 5 | 5 | Studio MaumC |
 | 5 | 5 | [Reprise](../../labels/reprise/overview.md) |
 | 5 | 5 | Parkwood Entertainment |
+| 5 | 5 | Olivia Rodrigo PS |
 | 5 | 5 | KQ Entertainment |
 | 5 | 5 | Hwa&Dam pictures |
 | 5 | 5 | [HYBE](../../labels/hybe/overview.md) |
+| 5 | 5 | [Geffen](../../labels/geffen/overview.md) |
 | 5 | 5 | Fueled By Ramen |
 | 5 | 5 | Fave Entertainment |
 | 5 | 5 | Atlantic Records UK |
@@ -329,10 +331,8 @@
 | 4 | 4 | Republic Records – JIHYO (TWICE) |
 | 4 | 4 | Parlophone UK |
 | 4 | 4 | P NATION |
-| 4 | 4 | Olivia Rodrigo PS |
 | 4 | 4 | [Legacy](../../labels/legacy/overview.md) |
 | 4 | 4 | Kemosabe Records |
-| 4 | 4 | [Geffen](../../labels/geffen/overview.md) |
 | 4 | 4 | Elektra |
 | 4 | 4 | Beluga Heights |
 | 4 | 4 | Arista |
@@ -363,8 +363,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 714 | 714 | [k-pop](../../genres/k_pop/overview.md) |
-| 398 | 398 | [pop](../../genres/pop/overview.md) |
+| 715 | 715 | [k-pop](../../genres/k_pop/overview.md) |
+| 399 | 399 | [pop](../../genres/pop/overview.md) |
 | 356 | 356 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 193 | 193 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
@@ -392,8 +392,8 @@
 | 27 | 27 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 26 | 26 | [r&b](../../genres/r_b/overview.md) |
-| 26 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 25 | 25 | [viral pop](../../genres/viral_pop/overview.md) |
+| 25 | 25 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 25 | 25 | [piano rock](../../genres/piano_rock/overview.md) |
 | 25 | 25 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 25 | 25 | [anime](../../genres/anime/overview.md) |
@@ -405,9 +405,9 @@
 | 22 | 22 | merseybeat |
 | 22 | 22 | [korean pop](../../genres/korean_pop/overview.md) |
 | 20 | 20 | [k-rap](../../genres/k_rap/overview.md) |
+| 19 | 19 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 19 | 19 | melancholia |
 | 19 | 19 | [hard rock](../../genres/hard_rock/overview.md) |
-| 18 | 18 | urban contemporary |
 | 17 | 17 | art rock |
 | 17 | 17 | [a cappella](../../genres/a_cappella/overview.md) |
 | 15 | 15 | uk alternative pop |
@@ -439,6 +439,7 @@
 | 8 | 8 | etherpop |
 | 8 | 8 | british soul |
 | 8 | 8 | australian dance |
+| 8 | 8 | alternative r&b |
 | 7 | 7 | motown |
 | 7 | 7 | modern alternative rock |
 | 7 | 7 | latin pop |
@@ -452,7 +453,6 @@
 | 7 | 7 | chamber pop |
 | 7 | 7 | canadian singer-songwriter |
 | 7 | 7 | boy band |
-| 7 | 7 | alternative r&b |
 | 6 | 6 | uk dance |
 | 6 | 6 | talent show |
 | 6 | 6 | stomp and holler |
@@ -484,7 +484,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 142 |
+| [2023](2023.md) | 146 |
 | [2022](2022.md) | 243 |
 | [2021](2021.md) | 184 |
 | [2020](2020.md) | 133 |
@@ -549,13 +549,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="I Love My Body" width="50" /> | I Love My Body (2023-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Golden Age - The 4th Album (2023-08-28) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="Picture" width="50" /> | Picture (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="ALL MY GIRLS" width="50" /> | ALL MY GIRLS (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | ZONE (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | TEENFRESH (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August" width="50" /> | THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August (2023-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="Good &amp; Great - The 2nd Mini Album" width="50" /> | Good & Great - The 2nd Mini Album (2023-09-11) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="I Love My Body" width="50" /> | I Love My Body (2023-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Golden Age - The 4th Album (2023-08-28) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="JAGUAR II" width="50" /> | JAGUAR II (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="Picture" width="50" /> | Picture (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | ZONE (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |

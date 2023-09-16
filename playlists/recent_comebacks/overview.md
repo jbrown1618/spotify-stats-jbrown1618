@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733e3a242b1d34e50a6f28a7a3ab67616d0000b273957d63a17c008c8a7c499f4dab67616d0000b273f35b8a6c03cc633f734bd8acab67616d0000b273fe31201bbc019b1636066dc3" alt="Recent Comebacks" width="100" />
 
-[107 tracks (86 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
+[108 tracks (87 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 57 artists</summary>
+<summary>See all 58 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -44,6 +44,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | 1 | 1 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 1 | 1 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 1 | 1 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
@@ -102,7 +103,7 @@
 
 
 <details>
-<summary>See all 54 albums</summary>
+<summary>See all 55 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -141,6 +142,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 1 | 1 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="" width="50" /> | 1 | 1 | HARMONY : ALL IN | 2023-06-08 | [🔗](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | 1 | 1 | HARD - The 8th Album | 2023-06-26 | [🔗](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="" width="50" /> | 1 | 1 | Good & Great - The 2nd Mini Album | 2023-09-11 | [🔗](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="" width="50" /> | 1 | 1 | Golden Hour - SM STATION : NCT LAB | 2023-04-07 | [🔗](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="" width="50" /> | 1 | 1 | Get A Guitar | 2023-09-04 | [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273352c1795169e652972b848a6" alt="" width="50" /> | 1 | 1 | GRL GVNG | 2023-06-30 | [🔗](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) |
@@ -160,7 +162,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 10 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 11 | 10 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 9 | 7 | [Warner Records](../../labels/warner_records/overview.md) |
 | 9 | 7 | [Republic Records](../../labels/republic_records/overview.md) |
 | 7 | 6 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -214,7 +216,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 59 | 45 | [k-pop](../../genres/k_pop/overview.md) |
+| 60 | 46 | [k-pop](../../genres/k_pop/overview.md) |
 | 45 | 39 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 26 | 21 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 6 | 6 | [anime](../../genres/anime/overview.md) |
@@ -234,7 +236,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 107 |
+| [2023](2023.md) | 108 |
 
 </details>
 
@@ -243,13 +245,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="I Love My Body" width="50" /> | I Love My Body (2023-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (2023-03-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> | ME (2023-03-31) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Golden Age - The 4th Album (2023-08-28) | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="THE GIRLS (BLACKPINK THE GAME OST)" width="50" /> | THE GIRLS (BLACKPINK THE GAME OST) (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="Golden Hour - SM STATION : NCT LAB" width="50" /> | Golden Hour - SM STATION : NCT LAB (2023-04-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="Good &amp; Great - The 2nd Mini Album" width="50" /> | Good & Great - The 2nd Mini Album (2023-09-11) | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="I Love My Body" width="50" /> | I Love My Body (2023-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (2023-03-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> | ME (2023-03-31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Golden Age - The 4th Album (2023-08-28) | <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="Golden Hour - SM STATION : NCT LAB" width="50" /> | Golden Hour - SM STATION : NCT LAB (2023-04-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="THE GIRLS (BLACKPINK THE GAME OST)" width="50" /> | THE GIRLS (BLACKPINK THE GAME OST) (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="LOVESTRUCK!" width="50" /> | LOVESTRUCK! (2023-04-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="Picture" width="50" /> | Picture (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | I've IVE (2023-04-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="ALL MY GIRLS" width="50" /> | ALL MY GIRLS (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="LOVESTRUCK!" width="50" /> | LOVESTRUCK! (2023-04-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | ZONE (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> | Over The Moon (2023-04-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="Perfume - The 1st Mini Album" width="50" /> | Perfume - The 1st Mini Album (2023-04-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | TEENFRESH (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | D-DAY (2023-04-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="ALL MY GIRLS" width="50" /> | ALL MY GIRLS (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="Perfume - The 1st Mini Album" width="50" /> | Perfume - The 1st Mini Album (2023-04-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | D-DAY (2023-04-21) |

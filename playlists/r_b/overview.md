@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="R&amp;B" width="100" />
 
-[98 tracks (70 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
+[100 tracks (72 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 64 artists</summary>
+<summary>See all 67 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -43,11 +43,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28831abca4b27c9f46416eb1" alt="" width="50" /> | 1 | 1 | Blu Cantrell | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f4a1dbe1ac737577724f62c" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb34b67847a7d97fd5f163728f" alt="" width="50" /> | 1 | 1 | Lucky Daye | [🔗](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) |
 | <img src="https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38" alt="" width="50" /> | 1 | 1 | Gnarls Barkley | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 1 | 1 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
@@ -66,6 +68,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | 1 | 1 | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 1 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4ddb58b186bace4ed7e9f26e" alt="" width="50" /> | 1 | 1 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 1 | 1 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7791e2d61372a3c61bfbed85" alt="" width="50" /> | 1 | 1 | Jenevieve | [🔗](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) |
@@ -78,7 +81,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb299e78573ac6393aa9079d19" alt="" width="50" /> | 1 | 0 | Thundercat | [🔗](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8aec4284aed8bb502a411043" alt="" width="50" /> | 1 | 0 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb009ef60c0a99410630cc40c7" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5d747f2aa17e23d16bf293c" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
@@ -109,7 +112,7 @@
 
 
 <details>
-<summary>See all 73 albums</summary>
+<summary>See all 75 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -131,6 +134,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | 1 | 1 | St. Elsewhere | 2006-05-02 | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | 1 | 1 | Red Moon In Venus | 2023-03-03 | [🔗](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="" width="50" /> | 1 | 1 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="" width="50" /> | 1 | 1 | PCD | 2005-01-01 | [🔗](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | 1 | 1 | Music From The Motion Picture Cadillac Records | 2008-11-28 | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
@@ -138,6 +142,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | 1 | 1 | MONTERO (Call Me By Your Name) | 2021-03-31 | [🔗](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | 1 | 1 | Love In The Future (Expanded Edition) | 2013-08-30 | [🔗](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | 1 | 1 | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | 1 | 1 | JAGUAR II | 2023-08-25 | [🔗](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | 1 | 1 | How Can I | 2019-06-23 | [🔗](https://open.spotify.com/album/3qEib9B2LiOpc81jRYC4Fi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | 1 | 1 | Freudian | 2017-08-25 | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
@@ -194,19 +199,20 @@
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 5 | 4 | Beluga Heights |
 | 5 | 4 | Bad Boy |
+| 4 | 4 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 6 | 3 | Aftermath Entertainment |
-| 5 | 3 | [UNI](../../labels/uni/overview.md) |
 
 
 <details>
-<summary>See all 46 labels</summary>
+<summary>See all 47 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 5 | 3 | [UNI](../../labels/uni/overview.md) |
 | 5 | 3 | Music World Music |
-| 3 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | Wondaland |
 | 2 | 2 | [Jive](../../labels/jive/overview.md) |
+| 2 | 2 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 2 | G.O.O.D. Music |
 | 3 | 1 | LaFace Records |
 | 2 | 1 | Golden Child Recordings |
@@ -221,6 +227,7 @@
 | 1 | 1 | Nu America Music |
 | 1 | 1 | Not specified |
 | 1 | 1 | Nice Life |
+| 1 | 1 | Lovett Music |
 | 1 | 1 | Kemosabe Records |
 | 1 | 1 | JOYFACE Records |
 | 1 | 1 | J Records |
@@ -228,7 +235,6 @@
 | 1 | 1 | IDJ |
 | 1 | 1 | House of Iona |
 | 1 | 1 | H 3 F |
-| 1 | 1 | [Geffen](../../labels/geffen/overview.md) |
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | EMI |
@@ -252,17 +258,17 @@
 | 63 | 44 | [pop](../../genres/pop/overview.md) |
 | 34 | 23 | [dance pop](../../genres/dance_pop/overview.md) |
 | 31 | 19 | [r&b](../../genres/r_b/overview.md) |
-| 23 | 16 | urban contemporary |
+| 24 | 17 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 13 | 12 | neo soul |
 | 11 | 10 | barbadian pop |
 | 10 | 8 | atl hip hop |
+| 7 | 7 | alternative r&b |
 | 11 | 6 | [soul](../../genres/soul/overview.md) |
-| 6 | 6 | alternative r&b |
 | 5 | 5 | afrofuturism |
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -295,6 +301,7 @@
 | 1 | 1 | funk |
 | 1 | 1 | escape room |
 | 1 | 1 | disco |
+| 1 | 1 | colombian pop |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | british soul |
 | 1 | 1 | bedroom soul |
@@ -316,13 +323,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack)" width="50" /> | Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack) (2023-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> | Meet The Temptations (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | ELVIS (Original Motion Picture Soundtrack) (2022-06-24) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love&#x27;s Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin&#x27; Ready (Expanded Edition)" width="50" /> | Gettin' Ready (Expanded Edition) (1966) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | The Foundations (1968-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> | Tell Mama (1968-04-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> | MONTERO (Call Me By Your Name) (2021-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> | For Once In My Life (1968-12-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | The Prelude (2020-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="Signed, Sealed And Delivered" width="50" /> | Signed, Sealed And Delivered (1970-08-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (2020-07-03) | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Songs In The Key Of Life (1976-09-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder (2020-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Commodores (1977-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | After Hours (2020-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="JAGUAR II" width="50" /> | JAGUAR II (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="Meet The Temptations" width="50" /> | Meet The Temptations (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack)" width="50" /> | Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack) (2023-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="Red Moon In Venus" width="50" /> | Red Moon In Venus (2023-03-03) | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="Gettin&#x27; Ready (Expanded Edition)" width="50" /> | Gettin' Ready (Expanded Edition) (1966) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | ELVIS (Original Motion Picture Soundtrack) (2022-06-24) | <img src="https://i.scdn.co/image/ab67616d0000b273bbe4503b585d49c54174a4bf" alt="The Foundations" width="50" /> | The Foundations (1968-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love&#x27;s Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> | Tell Mama (1968-04-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> | For Once In My Life (1968-12-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="Signed, Sealed And Delivered" width="50" /> | Signed, Sealed And Delivered (1970-08-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> | MONTERO (Call Me By Your Name) (2021-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Songs In The Key Of Life (1976-09-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | The Prelude (2020-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Commodores (1977-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="Coño" width="50" /> | Coño (2020-07-03) | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s (2000-01-11) |

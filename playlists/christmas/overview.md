@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc47897b69089f59e31817f26" alt="" width="50" /> | 1 | 0 | The Ronettes | [🔗](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | 1 | 0 | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 1 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f02cb3e2e6c5d3b52b3d65ba" alt="" width="50" /> | 1 | 0 | Bob Brown | [🔗](https://open.spotify.com/artist/6xWlMtfrZNsW7ZRMxQLqxw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 1 | 0 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7775a50db9341433ab1cf382" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
@@ -295,7 +295,7 @@
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 8 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 13 | 0 | [lounge](../../genres/lounge/overview.md) |
+| 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
 | 7 | 0 | easy listening |
@@ -313,7 +313,7 @@
 | 4 | 0 | jazz pop |
 | 3 | 0 | swing |
 | 3 | 0 | motown |
-| 2 | 0 | urban contemporary |
+| 2 | 0 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 2 | 0 | rockabilly |
 | 2 | 0 | rock-and-roll |
 | 2 | 0 | movie tunes |

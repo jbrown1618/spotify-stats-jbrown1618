@@ -47,7 +47,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 2 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90a228bbe264818694c54834" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 1 | 1 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |

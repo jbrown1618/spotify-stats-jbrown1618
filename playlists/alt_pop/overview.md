@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2a287155c3bfd7b85fa886" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30602b43a0900ae84529c838" alt="" width="50" /> | 1 | 1 | säje | [🔗](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | 1 | 1 | Wyvern Lingo | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85d655f7fd1f599911d45891" alt="" width="50" /> | 1 | 1 | Thirdstory | [🔗](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52ca4fca28b86ca3a7d9846d" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe32a61d17ecbe732a99d6d92" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 1 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbfbb660113442efe5e18ac6" alt="" width="50" /> | 1 | 1 | Shelby Earl | [🔗](https://open.spotify.com/artist/6PIo5nhCQJbR0NfxPdGnGC) |

@@ -17,10 +17,12 @@ LeeHi is currently:
 ## Top Tracks
 
 - HOLO is:
-    - the #32 track of the last 6 months
+    - the #31 track of the last 6 months
     - the #15 track of all time
 - ONLY is:
-    - the #30 track of the last 6 months
+    - the #29 track of the last 6 months
+- Bittersweet (feat. LeeHi) is:
+    - the #10 track of the last month
 
 ### Top tracks of all time over time
 

@@ -5,14 +5,12 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="HWASA" width="100" />
 
 ## Artist Rank
-HWASA is currently:
-- The #23 artist of the last month
 
 
 ## Top Tracks
 
 - Maria is:
-    - the #15 track of the last month
+    - the #12 track of the last month
     - the #6 track of all time
 
 ### Top tracks of all time over time

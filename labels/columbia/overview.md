@@ -204,7 +204,7 @@ Appears as:
 | 3 | 3 | country dawn |
 | 3 | 3 | country |
 | 3 | 3 | contemporary country |
-| 6 | 2 | urban contemporary |
+| 6 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 4 | 2 | neo soul |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |

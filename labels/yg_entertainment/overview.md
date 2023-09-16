@@ -1,13 +1,13 @@
 # YG Entertainment
 
-80 songs
+82 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- YG Entertainment (47 tracks)
+- YG Entertainment (49 tracks)
 - YG Entertainment/Interscope Records (21 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
@@ -19,7 +19,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 29 | 22 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 10 | 9 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 8 | 8 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 10 | 8 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 9 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 5 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
@@ -68,7 +68,7 @@ Appears as:
 
 
 <details>
-<summary>See all 40 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -82,6 +82,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | 2 | 1 | SEOULITE | 2016-04-20 | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="" width="50" /> | 2 | 1 | Return | 2018-01-25 | [🔗](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | 2 | 1 | LALISA | 2021-09-10 | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | 2 | 0 | Love Lee | 2023-08-21 | [🔗](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | 1 | 1 | To Anyone | 2010-09-09 | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | 1 | 1 | THE SECOND STEP : CHAPTER TWO | 2022-10-04 | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | 1 | Still Life | 2022-04-05 | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
@@ -112,7 +113,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 70 | 57 | [k-pop](../../genres/k_pop/overview.md) |
+| 72 | 57 | [k-pop](../../genres/k_pop/overview.md) |
 | 30 | 23 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 29 | 22 | [pop](../../genres/pop/overview.md) |
 | 20 | 13 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -136,7 +137,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | How can I love the heartbreak, you're the one I love | SAILING | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU) | NEXT EPISODE | [AKMU](../../artists/akmu/overview.md), [IU](../../artists/iu/overview.md) | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | Fantastic Baby | ALIVE | BIGBANG | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
 
 
 <details>
@@ -144,6 +145,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | Fantastic Baby | ALIVE | BIGBANG | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | BANG BANG BANG | MADE | BIGBANG | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | LET'S NOT FALL IN LOVE | MADE | BIGBANG | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | LOSER | MADE | BIGBANG | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) |

@@ -40,9 +40,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 1 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 1 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 1 | 1 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0c7eeb314e52270af39920d" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357354d0cf206b5e890a45b15" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5c8fe4d8c72bbd833ceaf202" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c9eb01fd34c0a998913ae60" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93e2ce2a89750ea98891fe52" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |

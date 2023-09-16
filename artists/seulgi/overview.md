@@ -12,7 +12,7 @@ SEULGI is currently:
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #50 track of the last 6 months
+    - the #45 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | S-Class (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.436) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="IN LIFE" width="50" /> | Any (0.879) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | Just A Little Bit (0.441) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | Christmas EveL (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="Clé 2 : Yellow Wood" width="50" /> | Side Effects (0.444) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a23b62f52ade294c583d639e" alt="WIN-DOW" width="50" /> | Love is New Gravity (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap (0.445) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap (0.445) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="BORDER : DAY ONE" width="50" /> | 10 Months (0.876) | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="The Most Beautiful Moment in Life Pt.2" width="50" /> | Butterfly (0.448) |
 
 ## Energy

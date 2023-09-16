@@ -1,6 +1,6 @@
 # r&b
 
-[49 songs](tracks.md)
+[47 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 30 artists</summary>
+<summary>See all 29 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -32,7 +32,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | 1 | 1 | Robin Thicke | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb9a74db18fea9f05d5f6d5a" alt="" width="50" /> | 2 | 0 | The Carters | [🔗](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4710a4c927b222cfa785257" alt="" width="50" /> | 1 | 0 | Estelle | [🔗](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 1 | 0 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
@@ -51,7 +50,7 @@
 </details>
 
 
-![Bar chart of top 30 artists](../../images/genres/r_b/artists.png)
+![Bar chart of top 29 artists](../../images/genres/r_b/artists.png)
 
 ![Comparison of Artist](../../images/genres/r_b/artists_comparison.png)
 ## Top Albums
@@ -71,7 +70,7 @@
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 33 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -93,8 +92,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | 0 | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | 1 | 0 | Fanmail | 1999-02-23 | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317c21f1a52ccfbf05c05d0c9" alt="" width="50" /> | 1 | 0 | EVERYTHING IS LOVE (Clean) | 2018-06-15 | [🔗](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c9ef08879350a57e5f1d7ca2" alt="" width="50" /> | 1 | 0 | EVERYTHING IS LOVE | 2018-06-16 | [🔗](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | 1 | 0 | Dangerously In Love | 2003-06-24 | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | 1 | 0 | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | 1 | 0 | Confessions (Expanded Edition) | 2004-03-23 | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
@@ -123,7 +120,7 @@
 
 
 <details>
-<summary>See all 23 labels</summary>
+<summary>See all 22 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -131,7 +128,6 @@
 | 1 | 1 | Top Dawg Entertainment |
 | 1 | 1 | Nu America Music |
 | 1 | 1 | J Records |
-| 2 | 0 | Roc Nation – JAY-Z Duet |
 | 1 | 0 | Woah Dad! |
 | 1 | 0 | Not So Fast |
 | 1 | 0 | LVRN |
@@ -144,7 +140,7 @@
 </details>
 
 
-![Bar chart of top 23 record labels](../../images/genres/r_b/labels.png)
+![Bar chart of top 22 record labels](../../images/genres/r_b/labels.png)
 
 ## Years
 
@@ -158,7 +154,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="TAKE TIME" width="50" /> | TAKE TIME (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="HIStory - PAST, PRESENT AND FUTURE - BOOK I" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I (1995-06-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> | Cravin (2019-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c9ef08879350a57e5f1d7ca2" alt="EVERYTHING IS LOVE" width="50" /> | EVERYTHING IS LOVE (2018-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317c21f1a52ccfbf05c05d0c9" alt="EVERYTHING IS LOVE (Clean)" width="50" /> | EVERYTHING IS LOVE (Clean) (2018-06-15) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Dangerously In Love (2003-06-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Dirty Computer (2018-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Lemonade (2016-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Dirty Computer (2018-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Lemonade (2016-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Dangerously In Love (2003-06-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | Yoga (2015-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[259 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
+[260 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
 
 [See Track Features](audio_features.md)
 
@@ -273,11 +273,11 @@
 | 5 | 5 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 5 | 5 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 4 | 4 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
+| 4 | 4 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 4 | 4 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 4 | 4 | [ADOR](../../labels/ador/overview.md) |
 | 3 | 3 | WM Japan |
 | 3 | 3 | MNH ENTERTAINMENT |
-| 3 | 3 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 3 | 3 | EDAM Entertainment |
 | 3 | 3 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 3 | 3 | [88rising Music](../../labels/88rising_music/overview.md) |
@@ -325,7 +325,7 @@
 |---:|---:|:---|
 | 216 | 216 | [k-pop](../../genres/k_pop/overview.md) |
 | 110 | 110 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 59 | 59 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 60 | 60 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 39 | 39 | [pop](../../genres/pop/overview.md) |
 | 11 | 11 | [anime](../../genres/anime/overview.md) |
 | 6 | 6 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -358,7 +358,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | [2023](2023.md) | 40 |
-| [2022](2022.md) | 61 |
+| [2022](2022.md) | 62 |
 | [2021](2021.md) | 53 |
 | [2020](2020.md) | 34 |
 | 2019 | 17 |

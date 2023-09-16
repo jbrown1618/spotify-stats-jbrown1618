@@ -62,7 +62,7 @@
 
 - barbadian pop
 - [pop](../../genres/pop)
-- urban contemporary
+- [urban contemporary](../../genres/urban_contemporary)
 
 ## Tracks
 

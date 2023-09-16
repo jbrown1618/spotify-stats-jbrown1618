@@ -1,6 +1,6 @@
 # RCA Records Label
 
-97 songs
+98 songs
 
 [See Track Features](audio_features.md)
 
@@ -16,6 +16,7 @@ Appears as:
 - Cult Records/RCA Records (1 tracks)
 - House of Iona/RCA Records (1 tracks)
 - KAYTRANADA/RCA Records (1 tracks)
+- Lovett Music/RCA Records (1 tracks)
 - RCA/Legacy (1 tracks)
 - Top Dawg Entertainment/RCA Records (1 tracks)
 - half·alive/RCA Records (1 tracks)
@@ -25,7 +26,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2a287155c3bfd7b85fa886" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 7 | 5 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -37,7 +38,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 39 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -45,7 +46,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb34b67847a7d97fd5f163728f" alt="" width="50" /> | 1 | 1 | Lucky Daye | [🔗](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 1 | 1 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 1 | 1 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
@@ -91,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -109,6 +112,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | 1 | 1 | October Sky | 2021-06-11 | [🔗](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | 1 | 1 | Now, Not Yet | 2019-08-09 | [🔗](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f4af2c39b1e4a4eb45cd124" alt="" width="50" /> | 1 | 1 | Kiss Me More (feat. SZA) | 2021-04-09 | [🔗](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | 1 | 1 | JAGUAR II | 2023-08-25 | [🔗](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | 1 | 1 | Hurts 2B Human | 2019-04-26 | [🔗](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd0316b194097528348c8eb0" alt="" width="50" /> | 1 | 1 | Hot Pink | 2019-11-07 | [🔗](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) |
@@ -175,7 +179,8 @@ Appears as:
 | 2 | 2 | pop soul |
 | 2 | 1 | talent show |
 | 2 | 1 | pop rap |
-| 1 | 1 | urban contemporary |
+| 2 | 1 | alternative r&b |
+| 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 1 | south carolina hip hop |
 | 1 | 1 | pov: indie |
 | 1 | 1 | oakland hip hop |
@@ -199,7 +204,6 @@ Appears as:
 | 1 | 0 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 0 | doo-wop |
 | 1 | 0 | boy band |
-| 1 | 0 | alternative r&b |
 
 </details>
 
@@ -312,6 +316,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Lion Sleeps Tonight (Wimoweh) | Wimoweh!!! - The Best Of The Tokens | The Tokens | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Say My Name | Sway | Tove Styrke | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2XDJzMW1MUWeAIQoMOJeUj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J) | I Don't Mind (feat. Juicy J) | USHER, Juicy J | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | Smoke (feat. Lucky Daye) | JAGUAR II | Victoria Monét, Lucky Daye | [Lovett Music/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | October Sky | October Sky | Yebba | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel. | Now, Not Yet | half•alive | [half·alive/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 

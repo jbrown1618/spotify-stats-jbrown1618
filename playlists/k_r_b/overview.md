@@ -66,16 +66,16 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb06c6712743995ca10fcf9b9f" alt="" width="50" /> | 1 | 1 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb529759eb52ec826893164de1" alt="" width="50" /> | 1 | 1 | LUNCH | [🔗](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 1 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2c1c1278283aa7ed56208496" alt="" width="50" /> | 1 | 1 | D.O. | [🔗](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb42ccdd00d2c88c492205d93d" alt="" width="50" /> | 1 | 1 | D.O. | [🔗](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381db0f62317f03a38fb5d5f2" alt="" width="50" /> | 1 | 1 | lIlBOI | [🔗](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | 1 | 1 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 1 | 1 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | 1 | 1 | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0c7eeb314e52270af39920d" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357354d0cf206b5e890a45b15" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | 1 | 1 | G.Soul | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc127b34fde8611765a74301" alt="" width="50" /> | 1 | 1 | Sarah Kang | [🔗](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7cab4360258a831b8dcb3738" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5c8fe4d8c72bbd833ceaf202" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbb19ac3f264dea7cea4c42b" alt="" width="50" /> | 2 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | 1 | 0 | Basick | [🔗](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd89424b602251312223edd8f" alt="" width="50" /> | 1 | 0 | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
