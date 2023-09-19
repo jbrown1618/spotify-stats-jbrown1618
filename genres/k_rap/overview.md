@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 2 | 2 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | 2 | 2 | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe6e2740a63438eda3928f753" alt="" width="50" /> | 1 | 1 | Epik High | [🔗](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9962dc64cfd59d5edaf226db" alt="" width="50" /> | 1 | 1 | Epik High | [🔗](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) |
 
 
 <details>

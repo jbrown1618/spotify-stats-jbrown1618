@@ -5,8 +5,6 @@
 <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="JIHYO" width="100" />
 
 ## Artist Rank
-JIHYO is currently:
-- The #19 artist of the last month
 
 ![Rank of JIHYO over time](../../images/artists/jihyo/rank_time_series.png)
 ## Top Tracks

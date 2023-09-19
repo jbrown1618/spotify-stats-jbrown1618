@@ -10,7 +10,7 @@
 ## Top Tracks
 
 - Maria is:
-    - the #12 track of the last month
+    - the #8 track of the last month
     - the #6 track of all time
 
 ### Top tracks of all time over time

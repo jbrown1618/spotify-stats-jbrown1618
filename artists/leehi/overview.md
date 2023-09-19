@@ -22,7 +22,7 @@ LeeHi is currently:
 - ONLY is:
     - the #29 track of the last 6 months
 - Bittersweet (feat. LeeHi) is:
-    - the #10 track of the last month
+    - the #7 track of the last month
 
 ### Top tracks of all time over time
 

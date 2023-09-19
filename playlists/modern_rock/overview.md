@@ -61,7 +61,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b304f38d13be8a733130a1" alt="" width="50" /> | 1 | 0 | Ben Harper And The Innocent Criminals | [🔗](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb33639aaeecfcc5ebada97476" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
@@ -314,7 +314,7 @@
 | 1 | 1 | math rock |
 | 1 | 1 | japanese emo |
 | 1 | 1 | j-rock |
-| 1 | 1 | j-pop |
+| 1 | 1 | [j-pop](../../genres/j_pop/overview.md) |
 | 1 | 1 | italian pop |
 | 1 | 1 | industrial rock |
 | 1 | 1 | industrial metal |

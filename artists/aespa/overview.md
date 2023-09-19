@@ -22,32 +22,33 @@ aespa is currently:
     - the #6 track of the last 6 months
     - the #4 track of all time
 - Next Level is:
-    - the #22 track of the last month
-    - the #32 track of the last 6 months
+    - the #19 track of the last month
+    - the #37 track of the last 6 months
     - the #5 track of all time
 - Black Mamba is:
     - the #18 track of all time
 - Spicy is:
     - the #1 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
-    - the #19 track of the last month
+    - the #16 track of the last month
     - the #2 track of the last 6 months
 - Hold On Tight is:
-    - the #1 track of the last month
+    - the #2 track of the last month
     - the #3 track of the last 6 months
 - Thirsty is:
     - the #9 track of the last 6 months
 - Illusion is:
-    - the #15 track of the last 6 months
+    - the #14 track of the last 6 months
 - Salty & Sweet is:
-    - the #6 track of the last month
+    - the #4 track of the last month
     - the #20 track of the last 6 months
 - YEPPI YEPPI is:
+    - the #45 track of the last month
     - the #27 track of the last 6 months
 - I'll Make You Cry is:
     - the #47 track of the last 6 months
 - Better Things is:
-    - the #7 track of the last month
+    - the #17 track of the last month
 
 ### Top tracks of all time over time
 

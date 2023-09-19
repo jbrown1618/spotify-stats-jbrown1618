@@ -21,8 +21,8 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](../../../columbia), [Legacy](../..) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](../../../columbia), [Legacy](../..) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside | The Classic Christmas Album | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](../../../columbia), [Legacy](../..) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | Christmas Songs by Sinatra | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](../../../columbia), [Legacy](../..) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](../../../columbia), [Legacy](../..) | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
 ## Cluster #3
 

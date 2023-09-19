@@ -15,8 +15,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 2 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | 1 | 1 | Lou Bega | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbb2b58704b1f6740d39271c3" alt="" width="50" /> | 1 | 0 | Tatsuya Kitani | [🔗](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) |
@@ -50,13 +50,13 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 3 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | 1 | 1 | 弐 | 2023-03-29 | [🔗](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | 1 | 1 | A Little Bit of Mambo | 1999-07-19 | [🔗](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 1 | 0 | 青のすみか | 2023-07-07 | [🔗](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 1 | 0 | 炎 | 2020-10-12 | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 1 | 0 | 恋人じゃなくなった日 | 2023-02-14 | [🔗](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | 1 | 0 | 弐 | 2023-03-29 | [🔗](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | 1 | 0 | i'mperfect | 2013-04-10 | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
 
 
@@ -79,12 +79,12 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 9 | 2 | [j-pop](../../genres/j_pop/overview.md) |
+| 5 | 2 | japanese singer-songwriter |
+| 4 | 2 | japanese teen pop |
 | 2 | 2 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
-| 9 | 1 | j-pop |
-| 5 | 1 | japanese singer-songwriter |
-| 4 | 1 | japanese teen pop |
 | 1 | 1 | latin pop |
 | 3 | 0 | [anime](../../genres/anime/overview.md) |
 | 2 | 0 | j-rock |
@@ -143,7 +143,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | ビリミリオン | 弐 | Yuuri | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | ビリミリオン | 弐 | Yuuri | [Sony Music Labels Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) |
 
 </details>
 

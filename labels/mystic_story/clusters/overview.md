@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | Mcguffins ~ who’s the Joker? | the Billage of perception: chapter two | [Billlie](../../../../artists/billlie/overview.md) | [MYSTIC STORY](../..) | 💚 | [🔗](https://open.spotify.com/track/1MtbRyRbGe4qXMSNN999iI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | RING ma Bell (what a wonderful world) | the Billage of perception: chapter two | [Billlie](../../../../artists/billlie/overview.md) | [MYSTIC STORY](../..) | 💚 | [🔗](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](../../../../artists/billlie/overview.md) | [MYSTIC STORY](../..) | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733256d3278397eac8f7f44550" alt="" width="50" /> | Jogging | PANORAMA | LUCY | [MYSTIC STORY](../..) | | [🔗](https://open.spotify.com/track/2U4fODlayH2blucJuyjBrU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733256d3278397eac8f7f44550" alt="" width="50" /> | Jogging | PANORAMA | LUCY | [MYSTIC STORY](../..) | 💚 | [🔗](https://open.spotify.com/track/2U4fODlayH2blucJuyjBrU) |
 ## Cluster #2
 
 5 tracks

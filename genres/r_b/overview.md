@@ -1,6 +1,6 @@
 # r&b
 
-[47 songs](tracks.md)
+[48 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -14,9 +14,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 5 | 5 | [Janelle Monáe](../../artists/janelle_mon_e/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 2 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 2 | 1 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 2 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 1 | 1 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4710a4c927b222cfa785257" alt="" width="50" /> | 1 | 0 | Estelle | [🔗](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 1 | 0 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ac284d0d6afcb53a65558b3" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfade412170364e8067c9df7a" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 1 | 0 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
@@ -70,12 +70,13 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 34 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | 1 | 1 | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="" width="50" /> | 1 | 1 | Sweetest Pie | 2022-03-11 | [🔗](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-08 | [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | 1 | 1 | Music From The Motion Picture Cadillac Records | 2008-11-28 | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | 1 | 1 | Metropolis: The Chase Suite (Special Edition) | 2008-08-12 | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
@@ -112,11 +113,11 @@
 | 7 | 4 | Parkwood Entertainment |
 | 5 | 4 | Bad Boy |
 | 5 | 3 | Music World Music |
-| 3 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 4 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | Wondaland |
+| 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | [Jive](../../labels/jive/overview.md) |
 | 4 | 1 | LaFace Records |
-| 2 | 1 | [Legacy](../../labels/legacy/overview.md) |
 
 
 <details>
@@ -124,8 +125,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 1 | [Legacy](../../labels/legacy/overview.md) |
 | 2 | 1 | 300 Entertainment |
-| 1 | 1 | Top Dawg Entertainment |
 | 1 | 1 | Nu America Music |
 | 1 | 1 | J Records |
 | 1 | 0 | Woah Dad! |
@@ -148,13 +149,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="SOS" width="50" /> | SOS (2022-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="Off the Wall" width="50" /> | Off the Wall (1979-08-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="Sweetest Pie" width="50" /> | Sweetest Pie (2022-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | Thriller (1982-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="Bad (Remastered)" width="50" /> | Bad (Remastered) (1987-08-31) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="TAKE TIME" width="50" /> | TAKE TIME (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="HIStory - PAST, PRESENT AND FUTURE - BOOK I" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I (1995-06-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> | Cravin (2019-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Dirty Computer (2018-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Lemonade (2016-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Dangerously In Love (2003-06-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | Yoga (2015-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | SOS (2022-12-09) | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="Off the Wall" width="50" /> | Off the Wall (1979-08-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="SOS" width="50" /> | SOS (2022-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | Thriller (1982-11-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="Sweetest Pie" width="50" /> | Sweetest Pie (2022-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="Bad (Remastered)" width="50" /> | Bad (Remastered) (1987-08-31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="HIStory - PAST, PRESENT AND FUTURE - BOOK I" width="50" /> | HIStory - PAST, PRESENT AND FUTURE - BOOK I (1995-06-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="TAKE TIME" width="50" /> | TAKE TIME (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> | Cravin (2019-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Dirty Computer (2018-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Dangerously In Love (2003-06-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Lemonade (2016-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | Yoga (2015-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |

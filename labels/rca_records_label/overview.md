@@ -1,6 +1,6 @@
 # RCA Records Label
 
-98 songs
+99 songs
 
 [See Track Features](audio_features.md)
 
@@ -11,6 +11,7 @@ Appears as:
 - Monkey Puzzle Records/RCA Records (8 tracks)
 - Kemosabe Records/RCA Records (6 tracks)
 - Citizen Queen/RCA Records (5 tracks)
+- Top Dawg Entertainment/RCA Records (2 tracks)
 - BPG/RVG/RCA Records (1 tracks)
 - Chris Brown Entertainment/300 Entertainment/RCA Records (1 tracks)
 - Cult Records/RCA Records (1 tracks)
@@ -18,7 +19,6 @@ Appears as:
 - KAYTRANADA/RCA Records (1 tracks)
 - Lovett Music/RCA Records (1 tracks)
 - RCA/Legacy (1 tracks)
-- Top Dawg Entertainment/RCA Records (1 tracks)
 - half·alive/RCA Records (1 tracks)
 
 ## Top Artists
@@ -29,9 +29,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 7 | 5 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 2 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="" width="50" /> | 2 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 2 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 2 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
@@ -94,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 56 albums</summary>
+<summary>See all 57 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -106,6 +106,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b63bc9378aa07542c6db43d6" alt="" width="50" /> | 1 | 1 | Version | 2007-07-10 | [🔗](https://open.spotify.com/album/74ooEOK4jY2ZCWjMK6pYmk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | 1 | 1 | The Truth About Love | 2012-09-14 | [🔗](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-08 | [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | 1 | 1 | Paint The Town Red | 2023-08-04 | [🔗](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) |
@@ -154,16 +155,16 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 22 | [pop](../../genres/pop/overview.md) |
+| 30 | 23 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 17 | 11 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | australian pop |
 | 8 | 8 | australian dance |
-| 4 | 3 | [rap](../../genres/rap/overview.md) |
+| 5 | 4 | [rap](../../genres/rap/overview.md) |
+| 4 | 3 | [r&b](../../genres/r_b/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
-| 7 | 2 | [rock](../../genres/rock/overview.md) |
 
 
 <details>
@@ -171,10 +172,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 7 | 2 | [rock](../../genres/rock/overview.md) |
 | 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 7 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
-| 3 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 3 | 2 | garage rock |
 | 2 | 2 | pop soul |
 | 2 | 1 | talent show |
@@ -302,6 +303,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | Sweater Weather | Christmas Is Here! | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/50YYe94G19kWVyhzdEXxki) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence | The Sound of Silence | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Big Girls Cry | 1000 Forms Of Fear (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/7zE6pyXLjUCOy8PG0UL5SZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Chandelier | 1000 Forms Of Fear (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Elastic Heart | 1000 Forms Of Fear (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) |

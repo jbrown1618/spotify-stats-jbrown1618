@@ -65,9 +65,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb57332e3fc2b97bb33577e65" alt="" width="50" /> | 2 | 0 | The All-American Rejects | [🔗](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb33639aaeecfcc5ebada97476" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ac284d0d6afcb53a65558b3" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfade412170364e8067c9df7a" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |

@@ -7,6 +7,10 @@
 ## Artist Rank
 
 
+## Top Tracks
+
+- Señorita is:
+    - the #43 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

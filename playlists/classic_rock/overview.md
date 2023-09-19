@@ -200,7 +200,7 @@
 
 
 <details>
-<summary>See all 47 genres</summary>
+<summary>See all 48 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -232,6 +232,7 @@
 | 1 | 1 | electric blues |
 | 1 | 1 | australian rock |
 | 3 | 0 | zolo |
+| 3 | 0 | proto-metal |
 | 3 | 0 | jazz rock |
 | 3 | 0 | jazz fusion |
 | 3 | 0 | instrumental rock |

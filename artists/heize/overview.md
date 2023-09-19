@@ -11,8 +11,6 @@ HEIZE is currently:
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
 
-- VingleVingle (Prod. R.Tee) is:
-    - the #8 track of the last month
 
 ### Top tracks of the last 6 months over time
 

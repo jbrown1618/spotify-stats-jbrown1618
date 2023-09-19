@@ -11,8 +11,6 @@ SUNMI is currently:
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
 
-- Gashina is:
-    - the #42 track of the last month
 
 ### Top tracks of the last month over time
 

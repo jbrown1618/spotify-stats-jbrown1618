@@ -354,7 +354,7 @@
 | 4 | 4 | barbadian pop |
 | 4 | 3 | [rap](../../genres/rap/overview.md) |
 | 3 | 3 | japanese electropop |
-| 3 | 2 | j-pop |
+| 3 | 2 | [j-pop](../../genres/j_pop/overview.md) |
 | 2 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 2 | shibuya-kei |
 | 2 | 2 | queens hip hop |

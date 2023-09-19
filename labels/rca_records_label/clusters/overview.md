@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-30 tracks
+28 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -20,23 +20,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Bird Set Free | This Is Acting (Deluxe Version) | [Sia](../../../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) |
 ## Cluster #2
 
-41 tracks
+45 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd0316b194097528348c8eb0" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f4af2c39b1e4a4eb45cd124" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | [Doja Cat](../../../../artists/doja_cat/overview.md), SZA | [Kemosabe Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | TiK ToK | Animal (Expanded Edition) | Kesha | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Daft Punk | PTX, Vol. 2 | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Love Again | PTX, Vol. 2 | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | | [🔗](https://open.spotify.com/track/0vcyzDe6aoYTg6jM0U0T9r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Can't Sleep Love (feat. Tink) | Pentatonix (Deluxe Version) | [Pentatonix](../../../../artists/pentatonix/overview.md), Tink | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/1GXFYdKM6MNrogE2PacpKe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Na Na Na | Pentatonix (Deluxe Version) | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | | [🔗](https://open.spotify.com/track/6v08G3CGcoyiODIWZoOxR4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | It's the Most Wonderful Time of the Year | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | | [🔗](https://open.spotify.com/track/4DXJt41B9ZPh3UmxiPkBT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Attention | PTX Presents: Top Pop, Vol. I | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | | [🔗](https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | [Sia](../../../../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 ## Cluster #3
 
-22 tracks
+21 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

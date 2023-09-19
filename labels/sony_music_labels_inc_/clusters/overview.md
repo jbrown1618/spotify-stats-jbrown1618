@@ -25,7 +25,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | ビリミリオン | 弐 | Yuuri | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | ビリミリオン | 弐 | Yuuri | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) |
 ## Cluster #3
 
 4 tracks

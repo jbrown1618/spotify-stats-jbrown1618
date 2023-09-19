@@ -1,13 +1,13 @@
 # SM Entertainment
 
-281 songs
+278 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (278 tracks)
+- SM Entertainment (275 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
@@ -43,8 +43,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdbc3c5795a57caf0c9c4ab67" alt="" width="50" /> | 6 | 2 | U-KNOW | [🔗](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2aef04c86590ac7328fb37cd" alt="" width="50" /> | 4 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdbc3c5795a57caf0c9c4ab67" alt="" width="50" /> | 3 | 2 | U-KNOW | [🔗](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf6da22416dab41964cd6904" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | 2 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
@@ -109,13 +109,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | 6 | 6 | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | 6 | 6 | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | 5 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | 6 | 2 | Reality Show - The 3rd Mini Album | 2023-08-07 | [🔗](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 5 | 5 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 5 | 5 | Like Water - The 1st Mini Album | 2021-04-05 | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | 5 | 4 | Queendom - The 6th Mini Album | 2021-08-16 | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 5 | 4 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 5 | 3 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 
 
 <details>
@@ -123,7 +123,6 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | 3 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 5 | 3 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | 5 | 2 | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
@@ -135,6 +134,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | 4 | 0 | This Christmas – Winter is Coming | 2017-12-12 | [🔗](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | 3 | 3 | NCT 2018 EMPATHY | 2018-03-14 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | 3 | 3 | Forgive Me - The 3rd Mini Album | 2022-11-22 | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | 3 | 2 | Reality Show - The 3rd Mini Album | 2023-08-07 | [🔗](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | 3 | 2 | Bambi - The 3rd Mini Album | 2021-03-30 | [🔗](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 3 | 2 | 2 Baddies - The 4th Album | 2022-09-16 | [🔗](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 3 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
@@ -223,7 +223,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 277 | 189 | [k-pop](../../genres/k_pop/overview.md) |
+| 274 | 189 | [k-pop](../../genres/k_pop/overview.md) |
 | 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 69 | 43 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -491,12 +491,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="" width="50" /> | Birthday | Birthday - SM STATION : NCT LAB | TEN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC | MIROTIC - The 4th Album | TVXQ! | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 운명 The Chance of Love | New Chapter #1: The Chance of Love - The 8th Album | TVXQ! | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3XzxHvEomjJIKZcZqYfFut) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Curtain | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1BPW8p7JjiaqJnqhXT2aR7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Relax | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2sCQJ9hiopTfr3Zo8iE2B8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Spotlight | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1gC6MqDu32f36sH8kg07Ik) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Tarantino | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4f55KPb2UHSaWKJOLtxcvn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Vuja De | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/42UNd3AFYei50ztCyAKhWl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | Wannabe | Reality Show - The 3rd Mini Album | U-KNOW | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5d090U38gkL3oLJ5R4Kka7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 봄인가 봐 Spring Love | 봄인가 봐 Spring Love - SM STATION | [WENDY](../../artists/wendy/overview.md), Eric Nam | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | Doll | Doll - SM STATION | [WENDY](../../artists/wendy/overview.md), [SEULGI](../../artists/seulgi/overview.md), KANGTA | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5Iy48VE6KN7Ywml5hlOd9u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | Written In The Stars | Written In The Stars | [WENDY](../../artists/wendy/overview.md), John Legend | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6SLMyJPRTh2zCX9SJJHTZQ) |

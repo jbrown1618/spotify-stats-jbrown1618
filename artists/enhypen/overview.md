@@ -12,7 +12,7 @@
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #4 artist of the last 6 months
-- The #12 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks

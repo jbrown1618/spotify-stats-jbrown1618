@@ -12,7 +12,7 @@
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #3 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
@@ -26,13 +26,13 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #32 track of all time
 - Feel My Rhythm is:
-    - the #37 track of the last 6 months
+    - the #36 track of the last 6 months
 - BYE BYE is:
     - the #38 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #36 track of the last month
+    - the #24 track of the last month
 - BAMBOLEO is:
-    - the #43 track of the last month
+    - the #32 track of the last month
 
 ### Top tracks of all time over time
 

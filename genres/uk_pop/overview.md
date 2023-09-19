@@ -28,7 +28,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8202b13ef1872f16514e208" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe07597a45843119b6360119d" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |

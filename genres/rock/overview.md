@@ -64,7 +64,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6456e7b9c9215b3b09f4be57" alt="" width="50" /> | 1 | 0 | Iron Maiden | [🔗](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb33639aaeecfcc5ebada97476" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |

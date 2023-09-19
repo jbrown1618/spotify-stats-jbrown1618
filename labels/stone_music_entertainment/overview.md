@@ -23,7 +23,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="" width="50" /> | 4 | 3 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 3 | 3 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 3 | 3 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09b55f42dcb8086e37b084a8" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7283d8a8772263a7562447c9" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcc48cc2ee03cde91920d0c0" alt="" width="50" /> | 3 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6ba89aff53eea0b5f0444e8" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 
@@ -52,7 +52,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 1 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf6da22416dab41964cd6904" alt="" width="50" /> | 1 | 1 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb85a17814670b67c707f7bf08" alt="" width="50" /> | 1 | 1 | JO YURI | [🔗](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1605bb0e3881cfc8f63c2c6a" alt="" width="50" /> | 1 | 1 | JO YURI | [🔗](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 1 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59749ba840544efb98f280f1" alt="" width="50" /> | 1 | 1 | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 1 | 1 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |

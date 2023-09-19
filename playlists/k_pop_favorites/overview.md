@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[260 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
+[261 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
 
 [See Track Features](audio_features.md)
 
@@ -19,9 +19,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 10 | 10 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 10 | 10 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 9 | 9 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 9 | 9 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 9 | 9 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 9 | 9 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 8 | 8 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="" width="50" /> | 7 | 7 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 
 
@@ -193,6 +193,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | 1 | 1 | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | 1 | 1 | When I Get Old | 2022-10-20 | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | 1 | 1 | What Do I Call You - The 4th Mini Album | 2020-12-15 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="" width="50" /> | 1 | 1 | WINE | 2017-04-27 | [🔗](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
@@ -238,7 +239,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 1 | 1 | RISE | 2014-06-03 | [🔗](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | 1 | 1 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | 1 | 1 | REASON | 2023-01-09 | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | 1 | 1 | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 
 </details>
 
@@ -249,7 +249,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 70 | 70 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 71 | 71 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 25 | 25 | [Republic Records](../../labels/republic_records/overview.md) |
 | 23 | 23 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 12 | 12 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -323,7 +323,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 216 | 216 | [k-pop](../../genres/k_pop/overview.md) |
+| 217 | 217 | [k-pop](../../genres/k_pop/overview.md) |
 | 110 | 110 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 60 | 60 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 39 | 39 | [pop](../../genres/pop/overview.md) |
@@ -360,7 +360,7 @@
 | [2023](2023.md) | 40 |
 | [2022](2022.md) | 62 |
 | [2021](2021.md) | 53 |
-| [2020](2020.md) | 34 |
+| [2020](2020.md) | 35 |
 | 2019 | 17 |
 | 2018 | 11 |
 | 2017 | 12 |

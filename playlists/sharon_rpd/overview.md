@@ -57,7 +57,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 1 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca674f416a581a1b19f8150a" alt="" width="50" /> | 1 | 0 | KAYTRANADA | [🔗](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ac284d0d6afcb53a65558b3" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfade412170364e8067c9df7a" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb972a4e990fb36451db2f40f2" alt="" width="50" /> | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a4b709385244df321187756" alt="" width="50" /> | 1 | 0 | BLACKSWAN | [🔗](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) |

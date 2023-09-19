@@ -11,20 +11,21 @@
 ## Artist Rank
 (G)I-DLE is currently:
 - The #7 artist of all time
-- The #9 artist of the last 6 months
-- The #7 artist of the last month
+- The #8 artist of the last 6 months
+- The #9 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
+    - the #40 track of the last month
     - the #22 track of all time
 - Uh-Oh is:
     - the #28 track of all time
 - All Night is:
     - the #24 track of the last 6 months
 - TOMBOY is:
-    - the #36 track of the last 6 months
+    - the #35 track of the last 6 months
 
 ### Top tracks of all time over time
 

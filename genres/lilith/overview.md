@@ -1,6 +1,6 @@
 # lilith
 
-[89 songs](tracks.md)
+[88 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -17,23 +17,22 @@
 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | 4 | 1 | Jem | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9236c8060febc7d7fc7ea8c4" alt="" width="50" /> | 1 | 0 | Rachael Yamagata | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d17f3be38fe3d25707e840d" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 11 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 1 | 0 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 
 </details>
 
 
-![Bar chart of top 12 artists](../../images/genres/lilith/artists.png)
+![Bar chart of top 11 artists](../../images/genres/lilith/artists.png)
 
 ![Comparison of Artist](../../images/genres/lilith/artists_comparison.png)
 ## Top Albums
@@ -53,7 +52,7 @@
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 22 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -67,14 +66,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="" width="50" /> | 1 | 0 | PINES | 2012-01-01 | [🔗](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 1 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcfd8d2e1bb9f0d4fbe5794d" alt="" width="50" /> | 1 | 0 | Happenstance (Deluxe Version) | 2004-06-08 | [🔗](https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | 1 | 0 | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
 
-![Bar chart of top 23 albums](../../images/genres/lilith/albums.png)
+![Bar chart of top 22 albums](../../images/genres/lilith/albums.png)
 
 ## Top Record Labels
 
@@ -93,12 +91,11 @@
 
 
 <details>
-<summary>See all 15 labels</summary>
+<summary>See all 14 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 1 | 0 | Work |
-| 1 | 0 | Private Music |
 | 1 | 0 | Craft Recordings |
 | 1 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 0 | Clean Slate |
@@ -106,7 +103,7 @@
 </details>
 
 
-![Bar chart of top 15 record labels](../../images/genres/lilith/labels.png)
+![Bar chart of top 14 record labels](../../images/genres/lilith/labels.png)
 
 ## Years
 
@@ -118,9 +115,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Tidal (1996-07-23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Amidst the Chaos (Bonus Version) (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="The Execution Of All Things" width="50" /> | The Execution Of All Things (2002-10-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | What's Inside: Songs from Waitress (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | Finally Woken (2004-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b273fcfd8d2e1bb9f0d4fbe5794d" alt="Happenstance (Deluxe Version)" width="50" /> | Happenstance (Deluxe Version) (2004-06-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="More Adventurous (U.S. Release)" width="50" /> | More Adventurous (U.S. Release) (2004-07-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="Bear Creek" width="50" /> | Bear Creek (2012-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Eye To The Telescope (2005-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="PINES" width="50" /> | PINES (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="One Cell In The Sea" width="50" /> | One Cell In The Sea (2007) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="More Adventurous (U.S. Release)" width="50" /> | More Adventurous (U.S. Release) (2004-07-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Eye To The Telescope (2005-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="Bear Creek" width="50" /> | Bear Creek (2012-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="One Cell In The Sea" width="50" /> | One Cell In The Sea (2007) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="PINES" width="50" /> | PINES (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | Under The Blacklight (Standard Version) (2007-08-20) |

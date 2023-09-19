@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1097 tracks (803 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
+[1099 tracks (804 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
 
 [See Track Features](audio_features.md)
 
@@ -108,7 +108,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe76c66001c8d4973f992208" alt="" width="50" /> | 4 | 2 | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 4 | 2 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09b55f42dcb8086e37b084a8" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7283d8a8772263a7562447c9" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 4 | 2 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | 3 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 3 | 2 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
@@ -249,7 +249,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 251 | 189 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 252 | 189 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 130 | 89 | [Republic Records](../../labels/republic_records/overview.md) |
 | 64 | 48 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 52 | 35 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
@@ -278,7 +278,7 @@
 | 12 | 11 | [ADOR](../../labels/ador/overview.md) |
 | 13 | 10 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 13 | 10 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
-| 15 | 8 | [WM Korea](../../labels/wm_korea/overview.md) |
+| 16 | 9 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 10 | 8 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 9 | 8 | MNH ENTERTAINMENT |
 | 8 | 8 | WM Japan |
@@ -366,7 +366,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 886 | 649 | [k-pop](../../genres/k_pop/overview.md) |
+| 887 | 649 | [k-pop](../../genres/k_pop/overview.md) |
 | 459 | 353 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 279 | 189 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 185 | 133 | [pop](../../genres/pop/overview.md) |
@@ -399,7 +399,7 @@
 | 1 | 1 | danish pop |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
 | 1 | 0 | k-rock |
-| 1 | 0 | j-pop |
+| 1 | 0 | [j-pop](../../genres/j_pop/overview.md) |
 
 </details>
 
@@ -414,7 +414,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 155 |
+| [2023](2023.md) | 157 |
 | [2022](2022.md) | 260 |
 | [2021](2021.md) | 191 |
 | [2020](2020.md) | 125 |
@@ -442,13 +442,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="Good &amp; Great - The 2nd Mini Album" width="50" /> | Good & Great - The 2nd Mini Album (2023-09-11) | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="Seotaiji and Boys" width="50" /> | Seotaiji and Boys (1992-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="I Love My Body" width="50" /> | I Love My Body (2023-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="No.1 - The 2nd Album" width="50" /> | No.1 - The 2nd Album (2002-01-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Golden Age - The 4th Album (2023-08-28) | <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="Remapping the Human Soul" width="50" /> | Remapping the Human Soul (2007-01-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="THE GIRLS (BLACKPINK THE GAME OST)" width="50" /> | THE GIRLS (BLACKPINK THE GAME OST) (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="Picture" width="50" /> | Picture (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | ZONE (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="Loossemble" width="50" /> | Loossemble (2023-09-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="Seotaiji and Boys" width="50" /> | Seotaiji and Boys (1992-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="Good &amp; Great - The 2nd Mini Album" width="50" /> | Good & Great - The 2nd Mini Album (2023-09-11) | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="No.1 - The 2nd Album" width="50" /> | No.1 - The 2nd Album (2002-01-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="I Love My Body" width="50" /> | I Love My Body (2023-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="Remapping the Human Soul" width="50" /> | Remapping the Human Soul (2007-01-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Golden Age - The 4th Album (2023-08-28) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="THE GIRLS (BLACKPINK THE GAME OST)" width="50" /> | THE GIRLS (BLACKPINK THE GAME OST) (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="Picture" width="50" /> | Picture (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="ALL MY GIRLS" width="50" /> | ALL MY GIRLS (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> | MIROTIC - The 4th Album (2008-09-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | TEENFRESH (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | ZONE (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |

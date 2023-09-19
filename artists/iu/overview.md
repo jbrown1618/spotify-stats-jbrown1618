@@ -12,7 +12,7 @@
 IU is currently:
 - The #3 artist of all time
 - The #3 artist of the last 6 months
-- The #17 artist of the last month
+- The #13 artist of the last month
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
 ## Top Tracks
@@ -29,6 +29,8 @@ IU is currently:
     - the #41 track of all time
 - Jam Jam is:
     - the #30 track of the last 6 months
+- The Red Shoes is:
+    - the #47 track of the last month
 
 ### Top tracks of all time over time
 

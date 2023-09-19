@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.933) | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | Fine (0.36) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | RUN (HAN) (0.929) | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | Like Water (0.365) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | Epilogue (0.366) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="Reality Show - The 3rd Mini Album" width="50" /> | Curtain (0.369) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="Never Gonna Dance Again : Act 1 - The 3rd Album" width="50" /> | Clockwork (0.37) |
 
 ## Energy
 

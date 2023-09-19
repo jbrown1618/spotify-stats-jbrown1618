@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c7f0695e260619b85d687db" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 1 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 1 | 1 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8202b13ef1872f16514e208" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe07597a45843119b6360119d" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb211a4801caf24b3a52feab7a" alt="" width="50" /> | 1 | 1 | Alicia Keys | [🔗](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d599789ce2de9b742b804e3" alt="" width="50" /> | 1 | 1 | george | [🔗](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) |
@@ -261,7 +261,7 @@
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | japanese teen pop |
 | 1 | 1 | japanese singer-songwriter |
-| 1 | 1 | j-pop |
+| 1 | 1 | [j-pop](../../genres/j_pop/overview.md) |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |
 | 1 | 1 | girl group |

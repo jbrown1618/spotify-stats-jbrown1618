@@ -38,7 +38,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb57332e3fc2b97bb33577e65" alt="" width="50" /> | 2 | 0 | The All-American Rejects | [🔗](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb33639aaeecfcc5ebada97476" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |

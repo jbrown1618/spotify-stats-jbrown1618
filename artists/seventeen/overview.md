@@ -17,13 +17,15 @@ SEVENTEEN is currently:
 ## Top Tracks
 
 - Left & Right is:
-    - the #16 track of the last 6 months
+    - the #15 track of the last 6 months
     - the #13 track of all time
 - HOME;RUN is:
     - the #44 track of all time
 - Pretty U is:
-    - the #45 track of the last month
+    - the #34 track of the last month
     - the #44 track of the last 6 months
+- Darl+ing is:
+    - the #41 track of the last month
 
 ### Top tracks of all time over time
 

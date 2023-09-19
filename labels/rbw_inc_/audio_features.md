@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> | GGBB (0.77) | <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="Yellow Flower" width="50" /> | Starry Night (0.58) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) (0.757) | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="BLOOD MOON" width="50" /> | LUNA (0.591) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="SPIT IT OUT" width="50" /> | Spit it out (0.747) | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="RED MOON" width="50" /> | Egotistic (0.616) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | water color (0.739) | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="TRAVEL" width="50" /> | AYA (0.634) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | water color (0.739) | <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="RED MOON" width="50" /> | Egotistic (0.617) |
 
 ## Energy
 
@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | OHOO (0.55) | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | HIP (0.0376) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="容 : FACE" width="50" /> | Big Booty (0.494) | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="Dingga" width="50" /> | Dingga (0.0549) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="Shutdown (Feat. Seori)" width="50" /> | Shutdown (Feat.Seori) (0.36) | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | water color (0.0571) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="RED MOON" width="50" /> | Egotistic (0.315) | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (0.059) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="RED MOON" width="50" /> | Egotistic (0.318) | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (0.059) |
 
 ## Instrumentalness
 
@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="WANNA BE MYSELF" width="50" /> | WANNA BE MYSELF (8.25e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | water color (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="容 : FACE" width="50" /> | HONEY (3.55e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="BLUE;S" width="50" /> | Wind flower (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="TWIT" width="50" /> | TWIT (2.83e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Sweet Juice (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | Maria (2.03e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | Maria (2.03e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="RED MOON" width="50" /> | Egotistic (0.0) |
 
 ## Liveness
 
@@ -133,5 +133,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | HIP (138.032) | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="TRAVEL" width="50" /> | AYA (91.688) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> | GGBB (137.893) | <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="White Wind" width="50" /> | gogobebe (96.929) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="Geekyland" width="50" /> | Nerdy (136.083) | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="RED MOON" width="50" /> | Egotistic (97.898) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="TWIT" width="50" /> | TWIT (136.067) | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | OHOO (105.885) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="memeM" width="50" /> | Pretty Psycho (132.034) | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | water color (107.947) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="TWIT" width="50" /> | TWIT (136.067) | <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="RED MOON" width="50" /> | Egotistic (97.912) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="memeM" width="50" /> | Pretty Psycho (132.034) | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | OHOO (105.885) |

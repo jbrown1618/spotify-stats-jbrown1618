@@ -19,7 +19,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ddb58b186bace4ed7e9f26e" alt="" width="50" /> | 1 | 1 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 1 | 1 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ba8db83b01de120a6f2312c" alt="" width="50" /> | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="nan" alt="" width="50" /> | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
 | <img src="https://i.scdn.co/image/1dcd3f5d64a65f19d085b8e78746e457bd2d2e05" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
@@ -73,7 +73,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 genres</summary>
+<summary>See all 19 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -82,7 +82,6 @@ Appears as:
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | easy listening |
 | 1 | 0 | rock-and-roll |
-| 1 | 0 | rhythm and blues |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | grunge |
 | 1 | 0 | doo-wop |
@@ -91,7 +90,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 20 genres](../../images/labels/geffen/genres.png)
+![Bar chart of top 19 genres](../../images/labels/geffen/genres.png)
 
 ## Tracks released under Geffen
 

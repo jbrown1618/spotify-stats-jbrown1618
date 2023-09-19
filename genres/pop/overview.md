@@ -39,16 +39,17 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 7 | 5 | [Katy Perry](../../artists/katy_perry/overview.md) | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 6 | 5 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 5 | 5 | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 8 | 4 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 5 | 4 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 4 | 4 | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 6 | 3 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | 3 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | 3 | 3 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 3 | 3 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -69,7 +70,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 3 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 3 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | 3 | 2 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | 2 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 2 | 2 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 2 | 2 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 2 | 2 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
@@ -247,9 +247,9 @@
 |---:|---:|:---|
 | 104 | 62 | [Republic Records](../../labels/republic_records/overview.md) |
 | 61 | 46 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 30 | 23 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 35 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 29 | 22 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
-| 29 | 22 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 36 | 21 | [Columbia](../../labels/columbia/overview.md) |
 | 27 | 21 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 34 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
@@ -274,13 +274,13 @@
 | 8 | 8 | Monkey Puzzle Records |
 | 8 | 7 | EDAM Entertainment |
 | 7 | 5 | Fave Entertainment |
-| 5 | 5 | Olivia Rodrigo PS |
 | 10 | 4 | [HYBE](../../labels/hybe/overview.md) |
 | 7 | 4 | Parkwood Entertainment |
 | 6 | 4 | Kemosabe Records |
 | 6 | 4 | Fueled By Ramen |
 | 5 | 4 | Beluga Heights |
 | 5 | 4 | Atlantic Records UK |
+| 4 | 4 | Olivia Rodrigo PS |
 | 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 6 | 3 | Aftermath Entertainment |
 | 5 | 3 | Music World Music |
@@ -290,6 +290,7 @@
 | 5 | 2 | Def Jam |
 | 4 | 2 | Parlophone UK |
 | 2 | 2 | WM Japan |
+| 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 2 | 2 | Phonogenic |
 | 2 | 2 | Nicki Minaj |
@@ -308,7 +309,6 @@
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 2 | 1 | A&M |
 | 1 | 1 | Universal Music New Zealand Limited |
-| 1 | 1 | Top Dawg Entertainment |
 | 1 | 1 | Spinnin' Records |
 | 1 | 1 | Roc Nation |
 | 1 | 1 | Rihanna |
@@ -365,9 +365,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="THE GIRLS (BLACKPINK THE GAME OST)" width="50" /> | THE GIRLS (BLACKPINK THE GAME OST) (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b273147deb4de023d171b2a0868d" alt="A Very Special Christmas" width="50" /> | A Very Special Christmas (1987-10-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="Speak Now (Taylor&#x27;s Version)" width="50" /> | Speak Now (Taylor's Version) (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="Believe" width="50" /> | Believe (1998) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525" alt="vampire" width="50" /> | vampire (2023-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="Dance The Night (From Barbie The Album)" width="50" /> | Dance The Night (From Barbie The Album) (2023-05-25) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> | There (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | 5-STAR (2023-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="Dance The Night (From Barbie The Album)" width="50" /> | Dance The Night (From Barbie The Album) (2023-05-25) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | READY TO BE (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="There" width="50" /> | There (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | SKZ-REPLAY (2022-12-21) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |

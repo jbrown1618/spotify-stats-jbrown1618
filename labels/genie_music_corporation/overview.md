@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | 6 | 4 | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="" width="50" /> | 4 | 3 | The Rose | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 4 | 3 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09b55f42dcb8086e37b084a8" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7283d8a8772263a7562447c9" alt="" width="50" /> | 4 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfcc48cc2ee03cde91920d0c0" alt="" width="50" /> | 3 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6ba89aff53eea0b5f0444e8" alt="" width="50" /> | 3 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 2 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
@@ -55,7 +55,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | En Butter | [🔗](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fac23cac9699f84a8151a0" alt="" width="50" /> | 1 | 1 | HOMIES | [🔗](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb85a17814670b67c707f7bf08" alt="" width="50" /> | 1 | 1 | JO YURI | [🔗](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1605bb0e3881cfc8f63c2c6a" alt="" width="50" /> | 1 | 1 | JO YURI | [🔗](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) |
 | <img src="nan" alt="" width="50" /> | 1 | 1 | Overdose | [🔗](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b9524830b4d4f486e9c1dd8" alt="" width="50" /> | 1 | 1 | pH-1 | [🔗](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 1 | 1 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |

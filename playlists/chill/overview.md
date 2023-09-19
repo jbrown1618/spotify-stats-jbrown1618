@@ -403,7 +403,7 @@
 | 1 | 1 | lgbtq+ hip hop |
 | 1 | 1 | korean talent show |
 | 1 | 1 | japanese singer-songwriter |
-| 1 | 1 | j-pop |
+| 1 | 1 | [j-pop](../../genres/j_pop/overview.md) |
 | 1 | 1 | j-division |
 | 1 | 1 | indie r&b |
 | 1 | 1 | indie poptimism |

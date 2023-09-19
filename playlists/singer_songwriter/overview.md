@@ -217,7 +217,7 @@
 |---:|---:|:---|
 | 83 | 51 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
-| 74 | 48 | [lilith](../../genres/lilith/overview.md) |
+| 73 | 48 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 48 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 60 | 40 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
