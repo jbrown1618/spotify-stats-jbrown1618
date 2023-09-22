@@ -13,6 +13,10 @@ Billie Eilish is currently:
 - The #41 artist of all time
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
+## Top Tracks
+
+- xanny is:
+    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

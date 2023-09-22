@@ -9,8 +9,6 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-Radiohead is currently:
-- The #50 artist of all time
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
 ## Top Tracks

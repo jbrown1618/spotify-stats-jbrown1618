@@ -11,6 +11,8 @@ AKMU is currently:
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
 
+- Love Lee is:
+    - the #2 track of the last month
 
 ### Top tracks of the last month over time
 

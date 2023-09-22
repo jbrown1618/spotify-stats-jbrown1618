@@ -6,13 +6,13 @@
 
 ## Artist Rank
 YOASOBI is currently:
-- The #3 artist of the last month
+- The #4 artist of the last month
 
 
 ## Top Tracks
 
 - 群青 is:
-    - the #37 track of the last month
+    - the #34 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

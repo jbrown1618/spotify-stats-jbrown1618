@@ -16,6 +16,8 @@ BTS is currently:
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
 ## Top Tracks
 
+- Singularity is:
+    - the #36 track of the last month
 
 ### Top tracks of the last month over time
 

@@ -12,6 +12,7 @@
 SEVENTEEN is currently:
 - The #12 artist of all time
 - The #12 artist of the last 6 months
+- The #3 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
@@ -22,10 +23,12 @@ SEVENTEEN is currently:
 - HOME;RUN is:
     - the #44 track of all time
 - Pretty U is:
-    - the #34 track of the last month
+    - the #28 track of the last month
     - the #44 track of the last 6 months
+- VERY NICE is:
+    - the #30 track of the last month
 - Darl+ing is:
-    - the #41 track of the last month
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 
@@ -61,9 +64,9 @@ SEVENTEEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | 1 | 1 | SEVENTEEN 9th Mini Album 'Attacca' | 2021-10-22 | [🔗](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | 1 | 1 | SEVENTEEN 4th Mini Album ‘Al1’ | 2017-05-22 | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | 1 | 1 | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | 2016-04-25 | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | 1 | 1 | Love&Letter repackage album | 2016-07-04 | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | 1 | 1 | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | 1 | 0 | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | 2017-11-06 | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | 1 | 0 | SEVENTEEN 1st Mini Album ’17 CARAT’ | 2015-05-29 | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
 
 
 <details>
@@ -71,7 +74,7 @@ SEVENTEEN is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | 1 | 0 | SEVENTEEN 1st Mini Album ’17 CARAT’ | 2015-05-29 | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | 1 | 0 | Love&Letter repackage album | 2016-07-04 | [🔗](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e0415248f47b27441faa0ac" alt="" width="50" /> | 1 | 0 | 24H | 2020-08-24 | [🔗](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) |
 
 </details>
@@ -81,7 +84,7 @@ SEVENTEEN is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 18 | 11 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
+| 18 | 10 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 
 ## Genres
 
@@ -94,7 +97,7 @@ SEVENTEEN is currently:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | Adore U | SEVENTEEN 1st Mini Album ’17 CARAT’ | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | Pretty U | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | VERY NICE | Love&Letter repackage album | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb366517758754ca13a4adf5" alt="" width="50" /> | VERY NICE | Love&Letter repackage album | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | Don't Wanna Cry | SEVENTEEN 4th Mini Album ‘Al1’ | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | CLAP | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Fearless | Heng:garæ | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) |

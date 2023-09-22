@@ -12,7 +12,7 @@
 ITZY is currently:
 - The #5 artist of all time
 - The #5 artist of the last 6 months
-- The #4 artist of the last month
+- The #5 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks

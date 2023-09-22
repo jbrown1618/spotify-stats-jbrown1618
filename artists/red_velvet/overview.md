@@ -30,9 +30,9 @@ Red Velvet is currently:
 - BYE BYE is:
     - the #38 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #24 track of the last month
+    - the #20 track of the last month
 - BAMBOLEO is:
-    - the #32 track of the last month
+    - the #26 track of the last month
 
 ### Top tracks of all time over time
 

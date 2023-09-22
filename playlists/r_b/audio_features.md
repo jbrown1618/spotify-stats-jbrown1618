@@ -82,7 +82,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="Tomboy" width="50" /> | Tomboy (0.00512) | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Isn't She Lovely (0.00352) | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | Hold Up (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | I Like That (0.00243) | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="Tattoos (Deluxe Edition)" width="50" /> | Bubblegum (feat. Tyga) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acacbc45d78f1fb58cb6a4b" alt="Planet Her" width="50" /> | You Right (0.00233) | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> | Best Part (feat. H.E.R.) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | You Right (0.00233) | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Freudian" width="50" /> | Best Part (feat. H.E.R.) (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="channel ORANGE" width="50" /> | Thinkin Bout You (0.00153) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.0) |
 
 ## Liveness

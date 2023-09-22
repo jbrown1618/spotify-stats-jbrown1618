@@ -17,10 +17,10 @@ Girls' Generation is currently:
 ## Top Tracks
 
 - Run Devil Run is:
-    - the #20 track of the last month
+    - the #18 track of the last month
     - the #29 track of all time
 - Lion Heart is:
-    - the #49 track of the last month
+    - the #48 track of the last month
     - the #36 track of all time
 - The Boys is:
     - the #17 track of the last 6 months

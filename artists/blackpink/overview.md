@@ -12,7 +12,7 @@
 BLACKPINK is currently:
 - The #4 artist of all time
 - The #10 artist of the last 6 months
-- The #8 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -30,7 +30,6 @@ BLACKPINK is currently:
 - BOOMBAYAH is:
     - the #48 track of all time
 - Pink Venom is:
-    - the #26 track of the last month
     - the #11 track of the last 6 months
 
 ### Top tracks of all time over time

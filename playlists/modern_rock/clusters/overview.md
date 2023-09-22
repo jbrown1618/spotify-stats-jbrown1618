@@ -20,22 +20,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | Honeybee | The 2¢ Show | Steam Powered Giraffe | Steam Powered Giraffe | 💚 | [🔗](https://open.spotify.com/track/3MZjOGeXhpHbQ9ESMNFFnH) |
 ## Cluster #2
 
-50 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | Parachutes | [Coldplay](../../../../artists/coldplay/overview.md) | Parlophone UK | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Paradise | Mylo Xyloto | [Coldplay](../../../../artists/coldplay/overview.md) | Parlophone UK | | [🔗](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="" width="50" /> | The Phantom Of The Opera | Century Child | Nightwish | Spin-Farm Oy | 💚 | [🔗](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ec44fa4da96ea79e69fda00" alt="" width="50" /> | Nemo | Once | Nightwish | Nuclear Blast Entertainment | | [🔗](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | We Are | Ambitions | ONE OK ROCK | Fueled By Ramen | 💚 | [🔗](https://open.spotify.com/track/57sk9X1fPLXRfkw74XNrmK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../../../artists/radiohead/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Strip My Mind | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0J3ytriezGZ3KCREfHKDOI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](../../../../labels/island_records) | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |
-## Cluster #3
-
 51 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -50,3 +34,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | That's What You Get | Riot! | Paramore | Fueled By Ramen | | [🔗](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Snow (Hey Oh) | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
+## Cluster #3
+
+50 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | Parachutes | [Coldplay](../../../../artists/coldplay/overview.md) | Parlophone UK | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Paradise | Mylo Xyloto | [Coldplay](../../../../artists/coldplay/overview.md) | Parlophone UK | | [🔗](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="" width="50" /> | The Phantom Of The Opera | Century Child | Nightwish | Spin-Farm Oy | 💚 | [🔗](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ec44fa4da96ea79e69fda00" alt="" width="50" /> | Nemo | Once | Nightwish | Nuclear Blast Entertainment | | [🔗](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | We Are | Ambitions | ONE OK ROCK | Fueled By Ramen | 💚 | [🔗](https://open.spotify.com/track/57sk9X1fPLXRfkw74XNrmK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../../../artists/radiohead/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Strip My Mind | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0J3ytriezGZ3KCREfHKDOI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](../../../../labels/island_records) | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |

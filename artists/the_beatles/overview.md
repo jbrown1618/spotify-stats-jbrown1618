@@ -16,7 +16,11 @@ The Beatles is currently:
 ## Top Tracks
 
 - Because - Remastered 2009 is:
-    - the #11 track of the last month
+    - the #10 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/the_beatles/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -18,7 +18,6 @@
 ## Top Tracks
 
 - LATATA is:
-    - the #40 track of the last month
     - the #22 track of all time
 - Uh-Oh is:
     - the #28 track of all time
@@ -26,6 +25,8 @@
     - the #24 track of the last 6 months
 - TOMBOY is:
     - the #35 track of the last 6 months
+- THE BADDEST is:
+    - the #39 track of the last month
 
 ### Top tracks of all time over time
 

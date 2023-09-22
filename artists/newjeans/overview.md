@@ -19,7 +19,7 @@ NewJeans is currently:
 - Ditto is:
     - the #16 track of the last 6 months
 - Hype Boy is:
-    - the #30 track of the last month
+    - the #24 track of the last month
     - the #43 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
