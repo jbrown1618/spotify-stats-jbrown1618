@@ -14,7 +14,7 @@ BLACKPINK is currently:
 - The #10 artist of the last 6 months
 - The #15 artist of the last month
 
-
+![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
 
 - Pretty Savage is:
@@ -33,6 +33,18 @@ BLACKPINK is currently:
     - the #10 track of the last 6 months
 - Sour Candy (with BLACKPINK) is:
     - the #31 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/blackpink/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/blackpink/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/blackpink/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

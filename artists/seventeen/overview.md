@@ -11,10 +11,10 @@
 ## Artist Rank
 SEVENTEEN is currently:
 - The #12 artist of all time
-- The #12 artist of the last 6 months
+- The #11 artist of the last 6 months
 - The #4 artist of the last month
 
-
+![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
 
 - Left & Right is:
@@ -29,6 +29,18 @@ SEVENTEEN is currently:
     - the #33 track of the last month
 - Ready to love is:
     - the #47 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/seventeen/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/seventeen/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/seventeen/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

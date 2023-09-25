@@ -13,7 +13,7 @@ TAEYEON is currently:
 - The #9 artist of all time
 - The #9 artist of the last 6 months
 
-
+![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
 - I Got Love is:
@@ -22,6 +22,14 @@ TAEYEON is currently:
     - the #14 track of the last 6 months
 - Toddler is:
     - the #34 track of the last 6 months
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/taeyeon/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/taeyeon/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

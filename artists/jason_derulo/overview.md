@@ -6,7 +6,7 @@
 
 ## Artist Rank
 
-
+![Rank of Jason Derulo over time](../../images/artists/jason_derulo/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

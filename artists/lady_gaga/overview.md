@@ -10,7 +10,7 @@
 
 ## Artist Rank
 
-
+![Rank of Lady Gaga over time](../../images/artists/lady_gaga/rank_time_series.png)
 ## Top Tracks
 
 - Sour Candy (with BLACKPINK) is:

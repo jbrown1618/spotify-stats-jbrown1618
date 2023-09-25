@@ -14,7 +14,7 @@ ITZY is currently:
 - The #6 artist of the last 6 months
 - The #5 artist of the last month
 
-
+![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
@@ -24,6 +24,18 @@ ITZY is currently:
     - the #32 track of the last 6 months
 - Be In Love is:
     - the #8 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/itzy/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/itzy/track_rank_time_series_medium_term.png)
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/itzy/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

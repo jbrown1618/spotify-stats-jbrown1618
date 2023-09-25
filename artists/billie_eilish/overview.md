@@ -12,7 +12,7 @@
 Billie Eilish is currently:
 - The #43 artist of all time
 
-
+![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
