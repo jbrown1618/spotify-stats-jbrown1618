@@ -16,7 +16,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     env:
-      OUTPUT_DIR: ../spotify-stats-jbrown1618 python main.py
+      OUTPUT_DIR: ../spotify-stats-jbrown1618
       SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
       SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
     steps:
@@ -38,7 +38,7 @@ jobs:
           cd ./spotify-stats
           pip install -r requirements.txt
           echo '${{ secrets.SPOTIPY_CACHE }}' > .cache
-          OUTPUT_DIR=../spotify-stats-jbrown1618 python main.py
+          python main.py
           cd ../spotify-stats-jbrown1618
           git config --global user.name 'Josh Brown'
           git config --global user.email 'jbrown1618@github.com'
