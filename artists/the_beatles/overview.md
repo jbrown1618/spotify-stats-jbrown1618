@@ -10,17 +10,14 @@
 
 ## Artist Rank
 The Beatles is currently:
-- The #39 artist of all time
+- The #40 artist of all time
+- The #7 artist of the last month
 
-![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
+
 ## Top Tracks
 
 - Because - Remastered 2009 is:
-    - the #10 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/the_beatles/track_rank_time_series_short_term.png)
+    - the #9 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

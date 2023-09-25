@@ -9,19 +9,11 @@ BoA is currently:
 - The #37 artist of all time
 - The #31 artist of the last 6 months
 
-![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
+
 ## Top Tracks
 
 - Time After Time is:
-    - the #22 track of the last 6 months
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/boa/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/boa/track_rank_time_series_short_term.png)
+    - the #21 track of the last 6 months
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

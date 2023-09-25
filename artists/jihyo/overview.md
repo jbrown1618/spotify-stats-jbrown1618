@@ -6,13 +6,7 @@
 
 ## Artist Rank
 
-![Rank of JIHYO over time](../../images/artists/jihyo/rank_time_series.png)
-## Top Tracks
 
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/jihyo/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

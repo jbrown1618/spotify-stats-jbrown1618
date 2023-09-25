@@ -2,7 +2,7 @@
 # Kimbra
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb4765d540a1ebedeb7c9637a2" alt="Kimbra" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="Kimbra" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 ## Artist Rank
 
-![Rank of Kimbra over time](../../images/artists/kimbra/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

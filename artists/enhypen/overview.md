@@ -12,35 +12,24 @@
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #4 artist of the last 6 months
-- The #11 artist of the last month
 
-![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
+
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #25 track of the last 6 months
+    - the #24 track of the last 6 months
     - the #25 track of all time
 - Polaroid Love is:
-    - the #39 track of the last 6 months
-    - the #43 track of all time
+    - the #37 track of the last 6 months
+    - the #42 track of all time
 - Just A Little Bit is:
     - the #45 track of all time
 - Bills is:
-    - the #26 track of the last 6 months
+    - the #25 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #40 track of the last 6 months
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/enhypen/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/enhypen/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/enhypen/track_rank_time_series_short_term.png)
+    - the #39 track of the last 6 months
+- Drunk-Dazed is:
+    - the #40 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

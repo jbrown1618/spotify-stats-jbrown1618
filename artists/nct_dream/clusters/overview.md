@@ -12,7 +12,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Glitch Mode | Glitch Mode - The 2nd Album | [NCT DREAM](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Saturday Drip | Glitch Mode - The 2nd Album | [NCT DREAM](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | Candy | Candy - Winter Special Mini Album | [NCT DREAM](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | Best Friend Ever | Best Friend Ever | [NCT DREAM](../../overview.md) | avex trax | 💚 | [🔗](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | Best Friend Ever | Best Friend Ever | [NCT DREAM](../../overview.md) | avex trax | | [🔗](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) |
 ## Cluster #2
 
 2 tracks

@@ -316,7 +316,7 @@
 | 2 | 0 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 2 | 0 | rockabilly |
 | 2 | 0 | rock-and-roll |
-| 2 | 0 | movie tunes |
+| 2 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 2 | 0 | jazz blues |
 | 2 | 0 | jazz |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |

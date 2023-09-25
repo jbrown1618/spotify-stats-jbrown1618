@@ -6,13 +6,17 @@
 
 ## Artist Rank
 YOASOBI is currently:
-- The #4 artist of the last month
+- The #3 artist of the last month
 
 
 ## Top Tracks
 
+- アイドル is:
+    - the #3 track of the last month
+- セブンティーン is:
+    - the #35 track of the last month
 - 群青 is:
-    - the #34 track of the last month
+    - the #43 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

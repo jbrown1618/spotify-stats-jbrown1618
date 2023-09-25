@@ -28,7 +28,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |
 ## Cluster #3
 
-29 tracks
+30 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -41,4 +41,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | Gain | APOP Entertainment, MYSTIC Entertainment | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732957d10c7977f7a17166426d" alt="" width="50" /> | PARANOIA | PARANOIA | KANGDANIEL | KONNECT Ent. | 💚 | [🔗](https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | vampire | GUTS | Olivia Rodrigo | Olivia Rodrigo PS | 💚 | [🔗](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | Bewitched | Fairyforest : Temptation | PIXY | 올라트엔터테인먼트, 해피트라이브엔터테인먼트 | 💚 | [🔗](https://open.spotify.com/track/3iCW396ZgMwoAzi1uglI9r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="" width="50" /> | Villain | REBORN | PIXY | ALLART ENTERTAINMENT, HAPPYTRIBE ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/5Doeu3aSa5tBHayCx0EbHa) |

@@ -79,7 +79,6 @@
 | 41 | 0 | [classical](../../genres/classical/overview.md) |
 | 17 | 0 | [russian romanticism](../../genres/russian_romanticism/overview.md) |
 | 17 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
-| 16 | 0 | [early modern classical](../../genres/early_modern_classical/overview.md) |
 | 13 | 0 | [german romanticism](../../genres/german_romanticism/overview.md) |
 | 13 | 0 | [early romantic era](../../genres/early_romantic_era/overview.md) |
 | 11 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
@@ -87,7 +86,7 @@
 | 3 | 0 | impressionism |
 | 1 | 0 | classical drill |
 
-![Bar chart of top 10 genres](../../images/playlists/program_music/genres.png)
+![Bar chart of top 9 genres](../../images/playlists/program_music/genres.png)
 
 ## Years
 

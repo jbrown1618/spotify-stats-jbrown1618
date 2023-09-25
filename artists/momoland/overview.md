@@ -6,7 +6,7 @@
 
 ## Artist Rank
 
-![Rank of MOMOLAND over time](../../images/artists/momoland/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

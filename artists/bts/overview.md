@@ -11,17 +11,13 @@
 ## Artist Rank
 BTS is currently:
 - The #6 artist of all time
-- The #25 artist of the last 6 months
+- The #26 artist of the last 6 months
 
-![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
+
 ## Top Tracks
 
 - Singularity is:
-    - the #36 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/bts/track_rank_time_series_short_term.png)
+    - the #44 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

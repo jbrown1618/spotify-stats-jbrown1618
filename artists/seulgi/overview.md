@@ -8,19 +8,7 @@
 SEULGI is currently:
 - The #35 artist of all time
 
-![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
-## Top Tracks
 
-- 28 Reasons is:
-    - the #45 track of the last 6 months
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/seulgi/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/seulgi/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -11,19 +11,16 @@
 ## Artist Rank
 Sara Bareilles is currently:
 - The #26 artist of all time
-- The #26 artist of the last 6 months
+- The #27 artist of the last 6 months
+- The #6 artist of the last month
 
-![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
+
 ## Top Tracks
 
 - Many the Miles is:
     - the #7 track of the last month
 - Poetry by Dead Men is:
-    - the #31 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/sara_bareilles/track_rank_time_series_short_term.png)
+    - the #38 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

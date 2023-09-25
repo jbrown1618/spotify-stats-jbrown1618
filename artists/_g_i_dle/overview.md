@@ -12,9 +12,9 @@
 (G)I-DLE is currently:
 - The #7 artist of all time
 - The #8 artist of the last 6 months
-- The #9 artist of the last month
+- The #12 artist of the last month
 
-![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
+
 ## Top Tracks
 
 - LATATA is:
@@ -22,23 +22,13 @@
 - Uh-Oh is:
     - the #28 track of all time
 - All Night is:
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - TOMBOY is:
     - the #35 track of the last 6 months
+- DUMDi DUMDi is:
+    - the #10 track of the last month
 - THE BADDEST is:
-    - the #39 track of the last month
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/_g_i_dle/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/_g_i_dle/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/_g_i_dle/track_rank_time_series_short_term.png)
+    - the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6d55874f45c9b9108f5e3fb" alt="Burn To Shine" width="50" /> | Steal My Kisses (0.113) | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Plans" width="50" /> | What Sarah Said (0.0268) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="Paramore" width="50" /> | Ain't It Fun (0.0921) | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="Mylo Xyloto" width="50" /> | Paradise (0.0268) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="From Under The Cork Tree" width="50" /> | Sugar, We're Goin Down (0.0843) | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="Californication (Deluxe Edition)" width="50" /> | Californication (0.027) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> | Geronimo (0.0805) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | No Surprises (0.0278) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="Bombs Away" width="50" /> | Geronimo (0.0805) | <img src="https://i.scdn.co/image/ab67616d0000b273d8164c97d4a8e537a5d13db2" alt="Synthetica (Deluxe Edition)" width="50" /> | Lost Kitten (0.0271) |
 
 ## Acousticness
 
@@ -80,10 +80,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd" alt="Leviathan" width="50" /> | Blood and Thunder (0.729) | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Reptilia (0.713) | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | That's What You Get (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | Street Spirit (Fade Out) (0.694) | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Sunday Morning (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | 1979 - Remastered 2012 (0.583) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="Hail To the Thief" width="50" /> | There, There (0.52) | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Automatonic Electronic Harmonics (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | All I Need (0.428) | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="The Script" width="50" /> | Breakeven (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="Amnesiac" width="50" /> | Pyramid Song (0.427) | <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="From Under The Cork Tree" width="50" /> | Sugar, We're Goin Down (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8164c97d4a8e537a5d13db2" alt="Synthetica (Deluxe Edition)" width="50" /> | Lost Kitten (0.617) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | 1979 - Remastered 2012 (0.583) | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Automatonic Electronic Harmonics (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="Hail To the Thief" width="50" /> | There, There (0.52) | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="The Script" width="50" /> | Breakeven (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | All I Need (0.428) | <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="From Under The Cork Tree" width="50" /> | Sugar, We're Goin Down (0.0) |
 
 ## Liveness
 

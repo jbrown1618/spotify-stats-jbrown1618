@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Bruno Mars is currently:
-- The #39 artist of the last 6 months
+- The #40 artist of the last 6 months
 
-![Rank of Bruno Mars over time](../../images/artists/bruno_mars/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

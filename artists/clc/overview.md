@@ -6,21 +6,13 @@
 
 ## Artist Rank
 CLC is currently:
-- The #48 artist of all time
+- The #42 artist of all time
 
-![Rank of CLC over time](../../images/artists/clc/rank_time_series.png)
+
 ## Top Tracks
 
 - HELICOPTER is:
     - the #38 track of all time
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/clc/track_rank_time_series_long_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/clc/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

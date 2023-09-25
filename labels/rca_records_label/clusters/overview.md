@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739f4af2c39b1e4a4eb45cd124" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | [Doja Cat](../../../../artists/doja_cat/overview.md), SZA | [Kemosabe Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | [Doja Cat](../../../../artists/doja_cat/overview.md), SZA | [Kemosabe Records/RCA Records](../..) | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | TiK ToK | Animal (Expanded Edition) | Kesha | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Daft Punk | PTX, Vol. 2 | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | 💚 | [🔗](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Love Again | PTX, Vol. 2 | [Pentatonix](../../../../artists/pentatonix/overview.md) | [RCA Records Label](../..) | | [🔗](https://open.spotify.com/track/0vcyzDe6aoYTg6jM0U0T9r) |

@@ -10,9 +10,9 @@
 
 ## Artist Rank
 The Tarpeggios is currently:
-- The #42 artist of all time
+- The #39 artist of all time
 
-![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -22,7 +22,7 @@ The Tarpeggios is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 9 | 8 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | 5 | 4 | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
@@ -34,7 +34,7 @@ The Tarpeggios is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
-| 9 | 8 | The Unc - Chapel Hill Tarpeggios |
+| 9 | 7 | The Unc - Chapel Hill Tarpeggios |
 
 ## Tracks
 
@@ -48,7 +48,7 @@ The Tarpeggios is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | The Scientist | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 💚 | [🔗](https://open.spotify.com/track/6NOjptrSCGSEr6vvSQuDmC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | A Case of You | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 💚 | [🔗](https://open.spotify.com/track/6YwWeHUYCkRoGJWGtohs0j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Blank Space | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 💚 | [🔗](https://open.spotify.com/track/55uhowm3d20ahlHjQNa78b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Blank Space | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | | [🔗](https://open.spotify.com/track/55uhowm3d20ahlHjQNa78b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Bottom of the River | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 💚 | [🔗](https://open.spotify.com/track/25XUZBlrcbb5U2fsJBY03P) |
 
 

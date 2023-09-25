@@ -12,52 +12,33 @@
 aespa is currently:
 - The #10 artist of all time
 - The #2 artist of the last 6 months
-- The #1 artist of the last month
+- The #2 artist of the last month
 
-![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
+
 ## Top Tracks
 
 - Savage is:
     - the #6 track of the last 6 months
-    - the #4 track of all time
+    - the #3 track of all time
 - Next Level is:
-    - the #37 track of the last 6 months
+    - the #38 track of the last 6 months
     - the #5 track of all time
 - Black Mamba is:
-    - the #18 track of all time
+    - the #19 track of all time
 - Spicy is:
     - the #1 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
     - the #2 track of the last 6 months
 - Hold On Tight is:
-    - the #15 track of the last month
     - the #3 track of the last 6 months
 - Thirsty is:
     - the #9 track of the last 6 months
-- Illusion is:
-    - the #14 track of the last 6 months
 - Salty & Sweet is:
-    - the #3 track of the last month
-    - the #20 track of the last 6 months
+    - the #18 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #46 track of the last month
-    - the #27 track of the last 6 months
-- I'll Make You Cry is:
-    - the #47 track of the last 6 months
-- Better Things is:
-    - the #16 track of the last month
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/aespa/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/aespa/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/aespa/track_rank_time_series_short_term.png)
+    - the #26 track of the last 6 months
+- Illusion is:
+    - the #31 track of the last 6 months
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

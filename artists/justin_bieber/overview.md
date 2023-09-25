@@ -7,10 +7,6 @@
 ## Artist Rank
 
 
-## Top Tracks
-
-- Off My Face is:
-    - the #45 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

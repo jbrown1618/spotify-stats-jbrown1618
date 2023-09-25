@@ -10,7 +10,7 @@
 ## Top Tracks
 
 - Get Lucky (feat. Pharrell Williams and Nile Rodgers) is:
-    - the #13 track of the last month
+    - the #14 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

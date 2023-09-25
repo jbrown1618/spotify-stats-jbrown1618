@@ -12,39 +12,30 @@
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #2 artist of the last month
+- The #1 artist of the last month
 
-![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
+
 ## Top Tracks
 
-- 러시안 룰렛 Russian Roulette is:
-    - the #12 track of all time
 - Bad Boy is:
-    - the #14 track of all time
+    - the #42 track of the last 6 months
+    - the #10 track of all time
+- 러시안 룰렛 Russian Roulette is:
+    - the #13 track of all time
 - Dumb Dumb is:
-    - the #21 track of all time
+    - the #23 track of all time
 - Ice Cream Cake is:
     - the #32 track of all time
 - Feel My Rhythm is:
     - the #36 track of the last 6 months
 - BYE BYE is:
-    - the #38 track of the last 6 months
+    - the #50 track of the last 6 months
+- RBB (Really Bad Boy) is:
+    - the #18 track of the last month
 - 7월 7일 One Of These Nights is:
-    - the #20 track of the last month
+    - the #19 track of the last month
 - BAMBOLEO is:
-    - the #26 track of the last month
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/red_velvet/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/red_velvet/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/red_velvet/track_rank_time_series_short_term.png)
+    - the #25 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -6,7 +6,7 @@
 
 ## Artist Rank
 
-![Rank of PENTAGON over time](../../images/artists/pentagon/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
