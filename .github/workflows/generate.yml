@@ -39,6 +39,7 @@ jobs:
           pip install -r requirements.txt
           echo '${{ secrets.SPOTIPY_CACHE }}' > .cache
           python main.py
+          echo 'Finished running spotify-stats'
           cd ../spotify-stats-jbrown1618
           git config --global user.name 'Josh Brown'
           git config --global user.email 'jbrown1618@github.com'
