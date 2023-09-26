@@ -8,6 +8,22 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+EXO:
+- has member [BAEKHYUN](../baekhyun/overview.md)
+- has member CHEN
+- has member CHANYEOL
+- has member D.O.
+- has member KAI
+- has member LAY
+- has member 鹿晗 (Lu, Han)
+- has member SEHUN
+- has member SUHO
+- has member 吴亦凡 (Wu, Kris)
+- has member XIUMIN
+- has member Z.TAO
+
 ## Artist Rank
 EXO is currently:
 - The #17 artist of all time

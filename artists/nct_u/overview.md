@@ -4,6 +4,23 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="NCT U" width="100" />
 
+## Relationships
+
+NCT U:
+- has member 도영 (DOYOUNG)
+- has member 董寺丞 (Dong, Sicheng)
+- has member JAEHYUN
+- has member 정우 (JUNGWOO)
+- has member 재민 (Jaemin)
+- has member LUCAS
+- has member MARK
+- has member 大崎将太郎 (Osaki, Shotaro)
+- has member 태일 (TAEIL)
+- has member TAEYONG
+- has member TEN
+- has member 肖德俊 (Xiao Dejun)
+- is a subgroup of NCT
+
 ## Artist Rank
 
 

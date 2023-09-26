@@ -8,17 +8,30 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+TWICE:
+- has member 周子瑜 (Chou, Tzu-yu)
+- has member 平井もも (Hirai, Momo)
+- has member [JIHYO](../jihyo/overview.md)
+- has member 김다현 (Kim, Da-hyun)
+- has member 名井南 (Myoui, Mina)
+- has member NAYEON
+- has member SANA
+- has member 손채영 (Son, Chae-young)
+- has member 유정연 (Yoo, Jeong-yeon)
+- has the subgroup MISAMO
+
 ## Artist Rank
 TWICE is currently:
 - The #2 artist of all time
-- The #5 artist of the last 6 months
+- The #6 artist of the last 6 months
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
 
 - I CAN'T STOP ME is:
     - the #17 track of the last month
-    - the #47 track of the last 6 months
     - the #17 track of all time
 - The Feels is:
     - the #50 track of all time

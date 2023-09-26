@@ -4,6 +4,15 @@
 
 <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="Rilo Kiley" width="100" />
 
+## Relationships
+
+Rilo Kiley:
+- has member Mike Bloom
+- has member Jason Boesel
+- has member Jenny Lewis
+- has member Pierre de Reeder
+- has member Blake Sennett
+
 ## Artist Rank
 
 

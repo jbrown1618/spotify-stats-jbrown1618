@@ -8,6 +8,14 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+aespa:
+- has member ジゼル (Giselle)
+- has member 카리나 (Karina)
+- has member 宁艺卓 (Ning, Yizhuo)
+- has member 윈터 (Winter)
+
 ## Artist Rank
 aespa is currently:
 - The #10 artist of all time
@@ -34,9 +42,9 @@ aespa is currently:
 - Thirsty is:
     - the #9 track of the last 6 months
 - Salty & Sweet is:
-    - the #18 track of the last 6 months
+    - the #17 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #26 track of the last 6 months
+    - the #25 track of the last 6 months
 - Illusion is:
     - the #31 track of the last 6 months
 

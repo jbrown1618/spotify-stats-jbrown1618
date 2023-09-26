@@ -4,6 +4,17 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="NMIXX" width="100" />
 
+## Relationships
+
+NMIXX:
+- has member 배진솔 (Bae, Jin-sol)
+- has member JINI
+- has member 장규진 (Jang, Kyu-jin)
+- has member 김지우 (Kim, Ji-woo)
+- has member Lily Jin Morrow
+- has member 오해원 (Oh, Hae-won)
+- has member 설윤아 (Seol, Yoo-nah)
+
 ## Artist Rank
 NMIXX is currently:
 - The #34 artist of all time

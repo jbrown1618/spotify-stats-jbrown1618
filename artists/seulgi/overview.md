@@ -4,6 +4,13 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="SEULGI" width="100" />
 
+## Relationships
+
+SEULGI:
+- is a member of [GOT the beat](../got_the_beat/overview.md)
+- is a member of [Red Velvet](../red_velvet/overview.md)
+- is a member of Red Velvet - IRENE & SEULGI
+
 ## Artist Rank
 SEULGI is currently:
 - The #35 artist of all time

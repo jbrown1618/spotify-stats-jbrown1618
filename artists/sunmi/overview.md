@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="SUNMI" width="100" />
 
+## Relationships
+
+SUNMI:
+- is a member of Wonder Girls
+
 ## Artist Rank
 SUNMI is currently:
 - The #45 artist of all time

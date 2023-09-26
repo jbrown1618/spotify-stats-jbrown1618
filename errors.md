@@ -9,8 +9,8 @@
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 85 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 94 | | Top Dawg Entertainment/RCA Records | 💚 |
 | Why So Lonely [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | 55 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | 49 | | Republic Records - JYP Entertainment | |
-| Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | 41 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 35 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
-| 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 70 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 62 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
+| Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | 40 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 34 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
+| 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 70 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 63 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 69 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 67 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 
 ## Duplicate albums
@@ -24,7 +24,7 @@
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 94 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | |
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 85 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | Why So Lonely [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 49 | 2016-07-05 | Republic Records - JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | |
-| Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 35 | 2016-07-05 | JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 34 | 2016-07-05 | JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 
 ## Tracks with low popularity
 
@@ -49,7 +49,7 @@
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
@@ -302,7 +302,7 @@
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
-| React | React | The Pussycat Dolls | 0 | 0 | 67 |
+| React | React | The Pussycat Dolls | 0 | 0 | 68 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
@@ -368,7 +368,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 1 | 0 | 80 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 1 | 0 | 63 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
-| Starry Night | Yellow Flower | MAMAMOO | 2 | 0 | 62 |
+| Starry Night | Yellow Flower | MAMAMOO | 1 | 0 | 62 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 1 | 62 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
@@ -406,7 +406,7 @@
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Think About Things | Think About Things | Daði Freyr | 2 | 1 | 52 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
@@ -416,10 +416,10 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 83 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 83 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
-| RED | RED | The Rose | 0 | 0 | 65 |
-| She′s In The Rain | Dawn | The Rose | 1 | 0 | 65 |
-| BABY | Void | The Rose | 0 | 0 | 65 |
-| Sorry | Sorry | The Rose | 0 | 0 | 65 |
+| RED | RED | The Rose | 0 | 0 | 66 |
+| She′s In The Rain | Dawn | The Rose | 1 | 0 | 66 |
+| BABY | Void | The Rose | 0 | 0 | 66 |
+| Sorry | Sorry | The Rose | 0 | 0 | 66 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 60 |
@@ -436,7 +436,7 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 49 |
-| Miku | Miku | Hatsune Miku | 0 | 0 | 61 |
+| Miku | Miku | Hatsune Miku | 0 | 0 | 62 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 46 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |

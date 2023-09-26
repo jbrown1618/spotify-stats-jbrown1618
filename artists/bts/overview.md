@@ -8,6 +8,17 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+BTS:
+- has member JIN
+- has member Jimin
+- has member Jung Kook
+- has member RM
+- has member SUGA
+- has member V
+- has member j‐hope (j‐hope)
+
 ## Artist Rank
 BTS is currently:
 - The #6 artist of all time

@@ -8,6 +8,18 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+NCT DREAM:
+- has member 해찬 (Hae Chan)
+- has member 黄仁俊 (Huang, Ren Jun)
+- has member JENO
+- has member 재민 (Jaemin)
+- has member 지성 (Jisung)
+- has member MARK
+- has member 钟辰乐 (Zhong, Chen Le)
+- is a subgroup of NCT
+
 ## Artist Rank
 NCT DREAM is currently:
 - The #24 artist of all time
@@ -18,6 +30,8 @@ NCT DREAM is currently:
 
 - BOOM is:
     - the #24 track of all time
+- Hot Sauce is:
+    - the #50 track of the last 6 months
 
 ### Top tracks of all time over time
 

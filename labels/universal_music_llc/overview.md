@@ -1,6 +1,6 @@
 # Universal Music LLC
 
-70 songs
+68 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Universal Music LLC (42 tracks)
-- Universal Records (21 tracks)
+- Universal Records (19 tracks)
 - Universal Music Ltd. (5 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
 - Republic/Universal/FSF (1 tracks)
@@ -30,7 +30,7 @@ Appears as:
 
 
 <details>
-<summary>See all 35 artists</summary>
+<summary>See all 31 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -50,15 +50,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27313023e6f4e0e2264338eeb14" alt="" width="50" /> | 1 | 0 | Liz Gillies | [🔗](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | 1 | 0 | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | 1 | 0 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
-| <img src="https://i.scdn.co/image/2bc32ff72814f473ba5064f9c48d6373464c8ca0" alt="" width="50" /> | 1 | 0 | Webstar | [🔗](https://open.spotify.com/artist/4oWRwCsvTevGlcq7OVN2Jq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba51bae36c3e40b129f925fe" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9b90387741eae5250453054e" alt="" width="50" /> | 1 | 0 | Young B | [🔗](https://open.spotify.com/artist/3gHXLeb9xeEGgIDiJk0pFa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bb5ab9683125fc416c9dbfb" alt="" width="50" /> | 1 | 0 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1426474970e91edb272b93b1" alt="" width="50" /> | 1 | 0 | Yung Gravy | [🔗](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7aa9cd4bbb1e83d99d849e69" alt="" width="50" /> | 1 | 0 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | AG aka The Voice of Harlem | [🔗](https://open.spotify.com/artist/0K1DwTQ4cfIuFUrWQ4E13Q) |
 
 </details>
 
@@ -82,7 +78,7 @@ Appears as:
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -107,8 +103,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 1 | 1 | 130 Mood : TRBL | 2016-03-25 | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | 1 | 0 | さよならひとり | 2016-07-27 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | 1 | 0 | i'M THE TREND | 2020-07-07 | [🔗](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733dbd64c6273e74c14e931ab2" alt="" width="50" /> | 1 | 0 | Webstar Presents: Caught In The WEB | 2006-01-01 | [🔗](https://open.spotify.com/album/4RcQ4QcQISIA3hRsuTtAhA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ca7079fad6246966d57dc2c" alt="" width="50" /> | 1 | 0 | Snow Cougar | 2018-05-04 | [🔗](https://open.spotify.com/album/5JzxLWdYLLpZTE6kaBLooY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="" width="50" /> | 1 | 0 | SUM(ME:R) | 2019-07-17 | [🔗](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | 1 | 0 | MAP OF THE SOUL : 7 ~ THE JOURNEY ~ | 2020-07-14 | [🔗](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) |
@@ -142,7 +136,7 @@ Appears as:
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 20 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -156,13 +150,11 @@ Appears as:
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | indietronica |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
-| 1 | 0 | minnesota hip hop |
-| 1 | 0 | meme rap |
 
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 20 genres](../../images/labels/universal_music_llc/genres.png)
 
 ## Tracks released under Universal Music LLC
 
@@ -237,13 +229,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | Seth MacFarlane, [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Fuzzy Door Productions/Universal](.) | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり | さよならひとり | TAEMIN | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS | LEVIOSA | TRI.BE | [Universal Music Ltd.](.) | | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733dbd64c6273e74c14e931ab2" alt="" width="50" /> | Chicken Noodle Soup | Webstar Presents: Caught In The WEB | Webstar, Young B, AG aka The Voice of Harlem | [Universal Records](.) | | [🔗](https://open.spotify.com/track/6PGrYbKY6I0LnKmAseNBO2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | Cherry On Top | Cherry On Top | YOUHA | [Universal Music Ltd.](.) | 💚 | [🔗](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | Last Dance | love you more, | YOUHA | [Universal Music Ltd.](.) | | [🔗](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | NUMB | love you more, | YOUHA | [Universal Music Ltd.](.) | 💚 | [🔗](https://open.spotify.com/track/1yyyzZSKxNskVQqTCCE0pz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | YUQI | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | YUQI | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ca7079fad6246966d57dc2c" alt="" width="50" /> | Mr. Clean | Snow Cougar | Yung Gravy | [Universal Records](.) | | [🔗](https://open.spotify.com/track/5GxnROd93Y7NGt2ci0TwBw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 脳裏上のクラッカー | 潜潜話 | ZUTOMAYO | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/3FRU8JI3EK9G7hXSP3P4R8) |
 
 </details>

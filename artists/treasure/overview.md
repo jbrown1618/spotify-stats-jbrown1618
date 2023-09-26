@@ -4,10 +4,26 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="TREASURE" width="100" />
 
+## Relationships
+
+TREASURE:
+- has member はまだ あさひ (Hamada Asahi)
+- has member 현석 (Hyunsuk)
+- has member 재혁 (Jaehyuk)
+- has member 정우 (Jeongwoo)
+- has member 정환 (Junghwan)
+- has member 준규 (Junkyu)
+- has member かねもと よしのり (Kanemoto Yoshinori)
+- has member 김도영 (Kim, Do-young)
+- has member 박지훈 (Park, Ji-hoon)
+- has member たかた ましほ (Takata Mashiho)
+- has member 春虎 (Watanabe, Haruto)
+- has member 예담 (Yedam)
+
 ## Artist Rank
 TREASURE is currently:
 - The #48 artist of all time
-- The #38 artist of the last 6 months
+- The #37 artist of the last 6 months
 
 ![Rank of TREASURE over time](../../images/artists/treasure/rank_time_series.png)
 ## Top Tracks

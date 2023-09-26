@@ -4,6 +4,15 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="Clean Bandit" width="100" />
 
+## Relationships
+
+Clean Bandit:
+- has member Neil Amin-Smith
+- has member Stephanie Benedetti
+- has member Grace Chatto
+- has member Jack Patterson
+- has member Luke Patterson
+
 ## Artist Rank
 
 

@@ -8,11 +8,22 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Billlie:
+- has member 하람 (Haram)
+- has member 하루나 (Haruna)
+- has member 문수아 (Moon Sua)
+- has member 션 (Sheon)
+- has member 시윤 (Siyoon)
+- has member 수현 (Suhyeon)
+- has member 츠키 (Tsuki)
+
 ## Artist Rank
 Billlie is currently:
 - The #20 artist of all time
 - The #13 artist of the last 6 months
-- The #14 artist of the last month
+- The #15 artist of the last month
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
@@ -20,9 +31,9 @@ Billlie is currently:
 - RING X RING is:
     - the #16 track of the last 6 months
 - enchanted night ~ white night is:
-    - the #22 track of the last 6 months
+    - the #21 track of the last 6 months
 - EUNOIA is:
-    - the #27 track of the last 6 months
+    - the #26 track of the last 6 months
 - RING ma Bell (what a wonderful world) is:
     - the #4 track of the last month
 

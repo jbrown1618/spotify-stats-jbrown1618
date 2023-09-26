@@ -4,6 +4,19 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="OH MY GIRL" width="100" />
 
+## Relationships
+
+OH MY GIRL:
+- has member 배유빈 (Bae, Yubin)
+- has member 최효정 (Choi, Hyojung)
+- has member 최예원 (Choi, Yewon)
+- has member 현승희 (Hyun, Seunghee)
+- has member 김지호 (Kim, Jiho)
+- has member 김미현 (Kim, Mihyun)
+- has member 신혜진 (Shin, Hyejin)
+- has member YooA
+- has the subgroup OH MY GIRL BANHANA
+
 ## Artist Rank
 
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)

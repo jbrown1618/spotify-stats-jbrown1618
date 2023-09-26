@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="Michael Jackson" width="100" />
 
+## Relationships
+
+Michael Jackson:
+- is also known as W.A. Mozart
+
 ## Artist Rank
 
 

@@ -4,10 +4,21 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="GOT the beat" width="100" />
 
+## Relationships
+
+GOT the beat:
+- has member [BoA](../boa/overview.md)
+- has member HYO
+- has member 카리나 (Karina)
+- has member [SEULGI](../seulgi/overview.md)
+- has member [TAEYEON](../taeyeon/overview.md)
+- has member [WENDY](../wendy/overview.md)
+- has member 윈터 (Winter)
+
 ## Artist Rank
 GOT the beat is currently:
 - The #36 artist of all time
-- The #22 artist of the last 6 months
+- The #21 artist of the last 6 months
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks

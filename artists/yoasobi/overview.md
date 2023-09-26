@@ -4,6 +4,13 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebfbe071f5bc42f38d3485a29a" alt="YOASOBI" width="100" />
 
+## Relationships
+
+YOASOBI:
+- has member AssH
+- has member Ayase
+- has member 幾田りら (Ikuta, Lilas)
+
 ## Artist Rank
 YOASOBI is currently:
 - The #3 artist of the last month

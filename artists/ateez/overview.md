@@ -4,6 +4,18 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="ATEEZ" width="100" />
 
+## Relationships
+
+ATEEZ:
+- has member 최종호 (Choi, Jongho)
+- has member 최산 (Choi, San)
+- has member 정윤호 (Jeong, Yun-ho)
+- has member 정우영 (Jung, Wooyoung)
+- has member 강여상 (Kang, Yeo-sang)
+- has member 김홍중 (Kim, Hong Joong)
+- has member 박성화 (Park, Seonghwa)
+- has member 송민기 (Song, Mingi)
+
 ## Artist Rank
 ATEEZ is currently:
 - The #31 artist of all time

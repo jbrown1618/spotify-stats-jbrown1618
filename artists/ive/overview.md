@@ -2,13 +2,23 @@
 # IVE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebf44daaf3a37f5be9a0721be7" alt="IVE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb797f8fa38dc48d2acc3e3a2f" alt="IVE" width="100" />
+
+## Relationships
+
+IVE:
+- has member 안유진 (An, Yu-jin)
+- has member 가을 (GAEUL)
+- has member 장원영 (Jang, Won-young)
+- has member 이서 (LEESEO)
+- has member 리즈 (LIZ)
+- has member 레이 (REI)
 
 ## Artist Rank
 IVE is currently:
 - The #21 artist of all time
 - The #15 artist of the last 6 months
-- The #16 artist of the last month
+- The #17 artist of the last month
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks

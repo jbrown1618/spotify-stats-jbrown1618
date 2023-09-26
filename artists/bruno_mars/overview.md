@@ -8,9 +8,16 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Bruno Mars:
+- is a member of Shampoo Press & Curl
+- is a member of Silk Sonic
+- is a member of The Smeezingtons
+
 ## Artist Rank
 Bruno Mars is currently:
-- The #40 artist of the last 6 months
+- The #39 artist of the last 6 months
 
 ![Rank of Bruno Mars over time](../../images/artists/bruno_mars/rank_time_series.png)
 ## Featured on Playlists

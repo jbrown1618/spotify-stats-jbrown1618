@@ -8,6 +8,12 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+BAEKHYUN:
+- is a member of [EXO](../exo/overview.md)
+- is a member of SuperM
+
 ## Artist Rank
 
 ![Rank of BAEKHYUN over time](../../images/artists/baekhyun/rank_time_series.png)

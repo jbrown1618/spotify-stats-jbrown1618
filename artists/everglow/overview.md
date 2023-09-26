@@ -4,11 +4,21 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="EVERGLOW" width="100" />
 
+## Relationships
+
+EVERGLOW:
+- has member 아샤 (Aisha)
+- has member E:U
+- has member 미아 (Mia)
+- has member 온다 (Onda)
+- has member 시현 (Sihyeon)
+- has member 王怡人 (Wang, Yiren)
+
 ## Artist Rank
 EVERGLOW is currently:
 - The #25 artist of all time
 - The #45 artist of the last 6 months
-- The #17 artist of the last month
+- The #18 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Top Tracks

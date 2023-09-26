@@ -8,9 +8,21 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Queen:
+- was formerly known as Smile
+- has member Doug Bogie
+- has member John Deacon
+- has member Mike Grose
+- has member Brian May
+- has member Freddie Mercury
+- has member Barry Mitchell
+- has member Roger Taylor
+
 ## Artist Rank
 Queen is currently:
-- The #34 artist of the last 6 months
+- The #33 artist of the last 6 months
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
 ## Top Tracks

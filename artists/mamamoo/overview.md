@@ -8,6 +8,15 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+MAMAMOO:
+- has member [HWASA](../hwasa/overview.md)
+- has member Moon Byul
+- has member Solar
+- has member Whee In
+- has the subgroup MAMAMOO+
+
 ## Artist Rank
 MAMAMOO is currently:
 - The #13 artist of all time

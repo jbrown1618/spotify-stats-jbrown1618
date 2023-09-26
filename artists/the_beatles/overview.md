@@ -8,6 +8,20 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+The Beatles:
+- was formerly known as The Quarrymen
+- has member Pete Best
+- has member Norman Chapman
+- has member George Harrison
+- has member John Lennon
+- has member Paul McCartney
+- has member Tommy Moore
+- has member Chas Newby
+- has member Ringo Starr
+- has member Stuart Sutcliffe
+
 ## Artist Rank
 The Beatles is currently:
 - The #40 artist of all time

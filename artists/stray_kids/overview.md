@@ -8,6 +8,19 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Stray Kids:
+- has member 방찬 (Bang Chan)
+- has member 창빈 (Changbin)
+- has member 필릭스 (Felix)
+- has member 한 (Han)
+- has member 현진 (Hyunjin)
+- has member 아이엔 (I.N)
+- has member 리노 (Lee Know)
+- has member 승민 (Seungmin)
+- has member 우진 (Woojin)
+
 ## Artist Rank
 Stray Kids is currently:
 - The #8 artist of all time

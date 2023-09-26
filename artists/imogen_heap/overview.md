@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="Imogen Heap" width="100" />
 
+## Relationships
+
+Imogen Heap:
+- is a member of Frou Frou
+
 ## Artist Rank
 
 

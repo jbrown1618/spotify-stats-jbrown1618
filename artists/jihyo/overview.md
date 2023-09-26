@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="JIHYO" width="100" />
 
+## Relationships
+
+JIHYO:
+- is a member of [TWICE](../twice/overview.md)
+
 ## Artist Rank
 
 ![Rank of JIHYO over time](../../images/artists/jihyo/rank_time_series.png)

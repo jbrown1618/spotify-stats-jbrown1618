@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="JEON SOYEON" width="100" />
 
+## Relationships
+
+JEON SOYEON:
+- is a member of (G)I‐DLE ((G)I‐DLE)
+
 ## Artist Rank
 JEON SOYEON is currently:
 - The #30 artist of all time

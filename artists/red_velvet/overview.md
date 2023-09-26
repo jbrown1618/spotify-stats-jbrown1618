@@ -8,6 +8,16 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Red Velvet:
+- has member IRENE
+- has member JOY
+- has member [SEULGI](../seulgi/overview.md)
+- has member [WENDY](../wendy/overview.md)
+- has member YERI
+- has the subgroup Red Velvet - IRENE & SEULGI
+
 ## Artist Rank
 Red Velvet is currently:
 - The #1 artist of all time
@@ -29,7 +39,7 @@ Red Velvet is currently:
 - Feel My Rhythm is:
     - the #36 track of the last 6 months
 - BYE BYE is:
-    - the #50 track of the last 6 months
+    - the #49 track of the last 6 months
 - RBB (Really Bad Boy) is:
     - the #18 track of the last month
 - 7월 7일 One Of These Nights is:

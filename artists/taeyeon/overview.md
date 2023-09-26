@@ -8,6 +8,13 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+TAEYEON:
+- is a member of [GOT the beat](../got_the_beat/overview.md)
+- is a member of Girls' Generation-TTS
+- is a member of Girls’ Generation (Girls’ Generation)
+
 ## Artist Rank
 TAEYEON is currently:
 - The #9 artist of all time

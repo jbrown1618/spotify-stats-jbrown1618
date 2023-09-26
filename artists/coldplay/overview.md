@@ -4,6 +4,14 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="Coldplay" width="100" />
 
+## Relationships
+
+Coldplay:
+- has member Guy Berryman
+- has member Jonny Buckland
+- has member Will Champion
+- has member Chris Martin
+
 ## Artist Rank
 
 

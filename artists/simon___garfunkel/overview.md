@@ -4,6 +4,12 @@
 
 <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="Simon &amp; Garfunkel" width="100" />
 
+## Relationships
+
+Simon & Garfunkel:
+- has member Art Garfunkel
+- has member Paul Simon
+
 ## Artist Rank
 
 

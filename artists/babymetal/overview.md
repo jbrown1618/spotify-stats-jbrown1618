@@ -4,6 +4,14 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="BABYMETAL" width="100" />
 
+## Relationships
+
+BABYMETAL:
+- has member MOAMETAL
+- has member MOMOMETAL
+- has member SU-METAL
+- has member YUIMETAL
+
 ## Artist Rank
 BABYMETAL is currently:
 - The #32 artist of all time

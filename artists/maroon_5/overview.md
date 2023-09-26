@@ -4,6 +4,18 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="Maroon 5" width="100" />
 
+## Relationships
+
+Maroon 5:
+- was formerly known as Kara’s Flowers (Kara’s Flowers)
+- has member Jesse Carmichael
+- has member Ryan Dusick
+- has member Matt Flynn
+- has member Adam Levine
+- has member Mickey Madden
+- has member PJ Morton
+- has member James Valentine
+
 ## Artist Rank
 Maroon 5 is currently:
 - The #48 artist of the last 6 months

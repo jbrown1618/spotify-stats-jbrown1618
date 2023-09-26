@@ -24,7 +24,7 @@ IU is currently:
     - the #20 track of all time
 - My sea is:
     - the #7 track of the last 6 months
-    - the #27 track of all time
+    - the #28 track of all time
 - LILAC is:
     - the #43 track of all time
 - Jam Jam is:

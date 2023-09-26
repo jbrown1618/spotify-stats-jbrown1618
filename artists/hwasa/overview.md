@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="HWASA" width="100" />
 
+## Relationships
+
+HWASA:
+- is a member of [MAMAMOO](../mamamoo/overview.md)
+
 ## Artist Rank
 
 

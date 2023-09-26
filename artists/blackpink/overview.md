@@ -8,11 +8,19 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+BLACKPINK:
+- has member JENNIE
+- has member JISOO
+- has member LISA
+- has member ROSÉ
+
 ## Artist Rank
 BLACKPINK is currently:
 - The #4 artist of all time
 - The #10 artist of the last 6 months
-- The #15 artist of the last month
+- The #13 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -26,7 +34,7 @@ BLACKPINK is currently:
 - Kill This Love is:
     - the #9 track of all time
 - WHISTLE is:
-    - the #46 track of all time
+    - the #44 track of all time
 - BOOMBAYAH is:
     - the #48 track of all time
 - Pink Venom is:

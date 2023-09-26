@@ -8,6 +8,21 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+NCT 127:
+- has member 도영 (DOYOUNG)
+- has member 董寺丞 (Dong, Sicheng)
+- has member 해찬 (Hae Chan)
+- has member JAEHYUN
+- has member JOHNNY
+- has member 정우 (JUNGWOO)
+- has member MARK
+- has member 中本悠太 (Nakamoto, Yuta)
+- has member 태일 (TAEIL)
+- has member TAEYONG
+- is a subgroup of NCT
+
 ## Artist Rank
 NCT 127 is currently:
 - The #22 artist of all time

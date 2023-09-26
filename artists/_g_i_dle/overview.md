@@ -20,9 +20,9 @@
 - LATATA is:
     - the #22 track of all time
 - Uh-Oh is:
-    - the #28 track of all time
+    - the #27 track of all time
 - All Night is:
-    - the #23 track of the last 6 months
+    - the #22 track of the last 6 months
 - TOMBOY is:
     - the #35 track of the last 6 months
 - DUMDi DUMDi is:

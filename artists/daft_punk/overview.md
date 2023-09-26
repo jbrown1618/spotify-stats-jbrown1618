@@ -4,6 +4,12 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="Daft Punk" width="100" />
 
+## Relationships
+
+Daft Punk:
+- has member Thomas Bangalter
+- has member Guy‐Manuel de Homem‐Christo (de Homem‐Christo, Guy‐Manuel)
+
 ## Artist Rank
 
 
@@ -11,6 +17,10 @@
 
 - Get Lucky (feat. Pharrell Williams and Nile Rodgers) is:
     - the #14 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/daft_punk/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

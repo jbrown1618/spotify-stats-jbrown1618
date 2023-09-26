@@ -8,17 +8,26 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+ITZY:
+- has member 채령 (Chaeryeong)
+- has member LIA
+- has member 류진 (Ryujin)
+- has member 예지 (Yeji)
+- has member 유나 (Yuna)
+
 ## Artist Rank
 ITZY is currently:
 - The #5 artist of all time
-- The #6 artist of the last 6 months
+- The #5 artist of the last 6 months
 - The #5 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #19 track of the last 6 months
+    - the #18 track of the last 6 months
     - the #31 track of all time
 - Cheshire is:
     - the #32 track of the last 6 months

@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="Camila Cabello" width="100" />
 
+## Relationships
+
+Camila Cabello:
+- is a member of Fifth Harmony
+
 ## Artist Rank
 
 

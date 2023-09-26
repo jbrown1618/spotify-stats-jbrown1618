@@ -8,17 +8,27 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+STAYC:
+- has member 아이사 (ISA)
+- has member 재이 (J)
+- has member 세은 (SEEUN)
+- has member 시은 (SIEUN)
+- has member 수민 (SUMIN)
+- has member 윤 (YOON)
+
 ## Artist Rank
 STAYC is currently:
 - The #18 artist of all time
 - The #14 artist of the last 6 months
-- The #13 artist of the last month
+- The #14 artist of the last month
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
 - POPPY - Japanese Ver. is:
-    - the #48 track of the last 6 months
+    - the #47 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

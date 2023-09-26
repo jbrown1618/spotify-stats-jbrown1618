@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="Jackson Wang" width="100" />
 
+## Relationships
+
+Jackson Wang:
+- is a member of GOT7
+
 ## Artist Rank
 Jackson Wang is currently:
 - The #50 artist of all time

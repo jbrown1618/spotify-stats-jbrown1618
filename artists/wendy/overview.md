@@ -8,10 +8,16 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+WENDY:
+- is a member of [GOT the beat](../got_the_beat/overview.md)
+- is a member of [Red Velvet](../red_velvet/overview.md)
+
 ## Artist Rank
 WENDY is currently:
 - The #33 artist of all time
-- The #33 artist of the last 6 months
+- The #40 artist of the last 6 months
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
 ## Top Tracks
@@ -21,7 +27,7 @@ WENDY is currently:
 - Like Water is:
     - the #41 track of all time
 - Time After Time is:
-    - the #21 track of the last 6 months
+    - the #20 track of the last 6 months
 
 ### Top tracks of all time over time
 
