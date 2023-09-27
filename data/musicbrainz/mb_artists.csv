@@ -1,4 +1,4 @@
-mbid,name,sort_name,disambiguation,type,area,birthplace,start_date,end_date
+artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,artist_area,artist_birthplace,artist_start_date,artist_end_date
 0006ca8a-2a9b-4127-ac10-bb43251d186c,Kevin Turcotte,"Turcotte, Kevin",,Person,Canada,,1964-01-22,
 00119b04-e793-419a-8534-4fb768fc5642,Zak Rizvi,"Rizvi, Zak",guitarist & engineer,Person,New York,,,
 00136dd9-1047-4999-af1f-d709c5fa09f9,Andrew Watt,"Watt, Andrew",,Person,United States,New York,1990-10-20,
