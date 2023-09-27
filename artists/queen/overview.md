@@ -22,7 +22,7 @@ Queen:
 
 ## Artist Rank
 Queen is currently:
-- The #33 artist of the last 6 months
+- The #34 artist of the last 6 months
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
 ## Top Tracks
@@ -38,6 +38,7 @@ Queen is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k_pop_adjacent/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -72,10 +73,30 @@ Queen is currently:
 
 ## Genres
 
-- [classic rock](../../genres/classic_rock)
+- [classic rock](../../genres/classic_rock/overview.md)
 - glam rock
-- [rock](../../genres/rock)
+- [rock](../../genres/rock/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 2 |
+| Performer | 4 |
+| Producer | 12 |
+
+### Member Credits
+
+| | Brian May | Freddie Mercury | John Deacon | Roger Taylor |
+|:---|---:|---:|---:|---:|
+| Arranger | 1 | 0 | 0 | 0 |
+| Instrument | 13 | 9 | 12 | 12 |
+| Lyricist | 3 | 6 | 2 | 0 |
+| Producer | 5 | 0 | 0 | 5 |
+| Songwriter | 4 | 7 | 3 | 1 |
+| Vocal | 10 | 12 | 0 | 10 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -107,3 +128,4 @@ Queen is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | The Show Must Go On | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP) |
 
 </details>
+

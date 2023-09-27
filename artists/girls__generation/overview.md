@@ -12,6 +12,7 @@
 Girls' Generation is currently:
 - The #15 artist of all time
 - The #23 artist of the last 6 months
+- The #18 artist of the last month
 
 ![Rank of Girls' Generation over time](../../images/artists/girls__generation/rank_time_series.png)
 ## Top Tracks
@@ -45,6 +46,7 @@ Girls' Generation is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 1 | [Aegyo](../../playlists/aegyo/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -68,8 +70,8 @@ Girls' Generation is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
 ## Tracks
 
@@ -100,3 +102,4 @@ Girls' Generation is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | You Better Run | FOREVER 1 - The 7th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7AKKUOFQjjhFyjzvhtawsM) |
 
 </details>
+

@@ -19,6 +19,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 42 | [Beethoven](../../playlists/beethoven/overview.md) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | 16 | [Brahms](../../playlists/brahms/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 7 | [Program Music](../../playlists/program_music/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -41,7 +42,7 @@
 
 ## Genres
 
-- [classical](../../genres/classical)
+- [classical](../../genres/classical/overview.md)
 - classical performance
 - german orchestra
 - orchestra
@@ -268,3 +269,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="" width="50" /> | Violin Concerto No. 5 in A Major, K. 219: III. Rondeau (Tempo di minuetto) | Karajan - Mozart | [Wolfgang Amadeus Mozart](../wolfgang_amadeus_mozart/overview.md), Joseph Joachim, Ossip Schnirlin, Anne-Sophie Mutter, [Berliner Philharmoniker](overview.md), [Herbert von Karajan](../herbert_von_karajan/overview.md) | [UME - Global Clearing House](../../labels/ume___global_clearing_house) | | [🔗](https://open.spotify.com/track/6i7kZ8UaJ5WWNxVLCnIzdM) |
 
 </details>
+

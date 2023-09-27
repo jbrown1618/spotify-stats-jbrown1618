@@ -29,6 +29,7 @@ Pentatonix is currently:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 36 | [A Cappella](../../playlists/a_cappella/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 9 | [Christmas](../../playlists/christmas/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -64,9 +65,22 @@ Pentatonix is currently:
 
 ## Genres
 
-- [a cappella](../../genres/a_cappella)
-- [viral pop](../../genres/viral_pop)
+- [a cappella](../../genres/a_cappella/overview.md)
+- [viral pop](../../genres/viral_pop/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 2 |
+
+### Member Credits
+
+| | Avi Kaplan | Kevin Olusola | Kirstin | Mitch Grassi | Scott Hoying |
+|:---|---:|---:|---:|---:|---:|
+| Songwriter | 3 | 3 | 3 | 3 | 3 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -123,3 +137,4 @@ Pentatonix is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | The Sound of Silence | The Sound of Silence | [Pentatonix](overview.md) | [RCA Records Label](../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) |
 
 </details>
+

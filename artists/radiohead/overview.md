@@ -26,7 +26,7 @@ Radiohead is currently:
 ## Top Tracks
 
 - Jigsaw Falling Into Place is:
-    - the #23 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -36,6 +36,7 @@ Radiohead is currently:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 16 | [Modern Rock](../../playlists/modern_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -56,13 +57,35 @@ Radiohead is currently:
 
 ## Genres
 
-- [alternative rock](../../genres/alternative_rock)
+- [alternative rock](../../genres/alternative_rock/overview.md)
 - art rock
 - melancholia
 - oxford indie
-- [permanent wave](../../genres/permanent_wave)
-- [rock](../../genres/rock)
+- [permanent wave](../../genres/permanent_wave/overview.md)
+- [rock](../../genres/rock/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 5 |
+| Lyricist | 2 |
+| Producer | 9 |
+| Songwriter | 2 |
+
+### Member Credits
+
+| | Colin Greenwood | Ed O’Brien (O’Brien, Ed) | Jonny Greenwood | Philip Selway | Thom Yorke |
+|:---|---:|---:|---:|---:|---:|
+| Arranger | 0 | 0 | 3 | 0 | 2 |
+| Instrument | 11 | 10 | 11 | 11 | 9 |
+| Lyricist | 0 | 0 | 0 | 0 | 2 |
+| Performer | 2 | 2 | 2 | 2 | 2 |
+| Producer | 0 | 0 | 2 | 0 | 6 |
+| Songwriter | 12 | 12 | 11 | 12 | 12 |
+| Vocal | 0 | 10 | 1 | 0 | 11 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -92,3 +115,4 @@ Radiohead is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Weird Fishes/ Arpeggi | In Rainbows | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | | [🔗](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) |
 
 </details>
+

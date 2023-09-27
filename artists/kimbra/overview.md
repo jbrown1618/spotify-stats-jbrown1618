@@ -19,6 +19,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -40,8 +41,19 @@
 ## Genres
 
 - bergen indie
-- [electropop](../../genres/electropop)
+- [electropop](../../genres/electropop/overview.md)
 - nz pop
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Lyricist | 7 |
+| Producer | 5 |
+| Songwriter | 7 |
+| Vocal | 1 |
 
 ## Tracks
 
@@ -73,3 +85,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | la type | A Reckoning | [Kimbra](overview.md), Tommy Raps, Pink Siifu | Kimbra | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
 
 </details>
+

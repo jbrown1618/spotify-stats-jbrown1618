@@ -18,13 +18,11 @@ IVE:
 IVE is currently:
 - The #21 artist of all time
 - The #15 artist of the last 6 months
-- The #17 artist of the last month
+- The #19 artist of the last month
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
-- After LIKE is:
-    - the #50 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -43,6 +41,7 @@ IVE is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -61,8 +60,22 @@ IVE is currently:
 
 ## Genres
 
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 8 |
+
+### Member Credits
+
+| | 가을 (GAEUL) | 레이 (REI) | 리즈 (LIZ) | 안유진 (An, Yu-jin) | 이서 (LEESEO) | 장원영 (Jang, Won-young) |
+|:---|---:|---:|---:|---:|---:|---:|
+| Lyricist | 2 | 3 | 0 | 0 | 0 | 0 |
+| Vocal | 8 | 8 | 8 | 8 | 8 | 8 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

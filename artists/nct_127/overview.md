@@ -52,6 +52,7 @@ NCT 127 is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273107ade016c96b4769c200bc4ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -86,9 +87,19 @@ NCT 127 is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop boy group](../../genres/k_pop_boy_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | JAEHYUN | MARK | TAEYONG | 董寺丞 (Dong, Sicheng) | 도영 (DOYOUNG) | 정우 (JUNGWOO) |
+|:---|---:|---:|---:|---:|---:|---:|
+| Lyricist | 0 | 1 | 1 | 0 | 0 | 0 |
+| Performer | 0 | 0 | 1 | 0 | 0 | 0 |
+| Songwriter | 0 | 1 | 1 | 0 | 0 | 0 |
+| Vocal | 3 | 2 | 5 | 1 | 3 | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -118,3 +129,4 @@ NCT 127 is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c03f718597b468d16206581f" alt="" width="50" /> | 2 Baddies - Viann Remix | iScreaM Vol.21 : 2 Baddies Remixes | [NCT 127](overview.md), Viann | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5IEn4dvv7QLfOiXAQyTorC) |
 
 </details>
+

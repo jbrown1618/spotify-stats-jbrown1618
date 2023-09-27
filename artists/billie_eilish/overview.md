@@ -20,6 +20,7 @@ Billie Eilish is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 13 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273107ade016c96b4769c200bc4ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 4 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -41,9 +42,20 @@ Billie Eilish is currently:
 
 ## Genres
 
-- [art pop](../../genres/art_pop)
-- [electropop](../../genres/electropop)
-- [pop](../../genres/pop)
+- [art pop](../../genres/art_pop/overview.md)
+- [electropop](../../genres/electropop/overview.md)
+- [pop](../../genres/pop/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Lyricist | 2 |
+| Producer | 1 |
+| Songwriter | 9 |
+| Vocal | 7 |
 
 ## Tracks
 
@@ -71,3 +83,4 @@ Billie Eilish is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
 
 </details>
+

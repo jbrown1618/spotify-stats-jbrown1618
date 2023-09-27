@@ -22,6 +22,7 @@ Clean Bandit:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 5 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 5 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -41,10 +42,26 @@ Clean Bandit:
 
 ## Genres
 
-- [pop](../../genres/pop)
+- [pop](../../genres/pop/overview.md)
 - uk dance
 - uk funky
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 2 |
+
+### Member Credits
+
+| | Grace Chatto | Jack Patterson | Luke Patterson | Neil Amin-Smith | Stephanie Benedetti |
+|:---|---:|---:|---:|---:|---:|
+| Instrument | 3 | 3 | 3 | 1 | 1 |
+| Producer | 2 | 3 | 2 | 0 | 0 |
+| Songwriter | 3 | 6 | 0 | 0 | 0 |
+| Vocal | 1 | 0 | 0 | 0 | 0 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

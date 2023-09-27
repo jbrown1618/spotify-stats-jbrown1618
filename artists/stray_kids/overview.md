@@ -25,6 +25,7 @@ Stray Kids:
 Stray Kids is currently:
 - The #8 artist of all time
 - The #7 artist of the last 6 months
+- The #15 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
@@ -33,7 +34,7 @@ Stray Kids is currently:
     - the #11 track of the last 6 months
     - the #40 track of all time
 - Back Door is:
-    - the #22 track of the last month
+    - the #24 track of the last month
     - the #33 track of the last 6 months
 
 ### Top tracks of all time over time
@@ -62,6 +63,7 @@ Stray Kids is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273107ade016c96b4769c200bc4ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -106,10 +108,20 @@ Stray Kids is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop boy group](../../genres/k_pop_boy_group)
-- [pop](../../genres/pop)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
+- [pop](../../genres/pop/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | 방찬 (Bang Chan) | 창빈 (Changbin) | 필릭스 (Felix) | 한 (Han) |
+|:---|---:|---:|---:|---:|
+| Arranger | 1 | 0 | 0 | 0 |
+| Lyricist | 1 | 1 | 0 | 1 |
+| Songwriter | 2 | 2 | 0 | 2 |
+| Vocal | 0 | 0 | 1 | 0 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -172,3 +184,4 @@ Stray Kids is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](overview.md), Tiger JK | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
 
 </details>
+

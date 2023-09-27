@@ -28,7 +28,7 @@ BTS is currently:
 ## Top Tracks
 
 - Singularity is:
-    - the #44 track of the last month
+    - the #47 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -45,6 +45,7 @@ BTS is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 2 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -92,10 +93,28 @@ BTS is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop boy group](../../genres/k_pop_boy_group)
-- [pop](../../genres/pop)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
+- [pop](../../genres/pop/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Vocal | 2 |
+
+### Member Credits
+
+| | JIN | Jimin | Jung Kook | RM | SUGA | V | j‐hope (j‐hope) |
+|:---|---:|---:|---:|---:|---:|---:|---:|
+| Arranger | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+| Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| Producer | 0 | 0 | 0 | 2 | 2 | 0 | 0 |
+| Songwriter | 0 | 1 | 0 | 10 | 7 | 0 | 4 |
+| Vocal | 1 | 3 | 4 | 2 | 3 | 2 | 2 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -147,3 +166,4 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../jason_derulo/overview.md), [BTS](overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
 
 </details>
+

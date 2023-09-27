@@ -22,7 +22,7 @@ STAYC:
 STAYC is currently:
 - The #18 artist of all time
 - The #14 artist of the last 6 months
-- The #14 artist of the last month
+- The #17 artist of the last month
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
@@ -50,6 +50,7 @@ STAYC is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 2 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -72,9 +73,23 @@ STAYC is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 12 |
+| Vocal | 3 |
+
+### Member Credits
+
+| | 세은 (SEEUN) | 수민 (SUMIN) | 시은 (SIEUN) | 아이사 (ISA) | 윤 (YOON) | 재이 (J) |
+|:---|---:|---:|---:|---:|---:|---:|
+| Vocal | 9 | 12 | 12 | 12 | 12 | 12 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -106,3 +121,4 @@ STAYC is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
 
 </details>
+

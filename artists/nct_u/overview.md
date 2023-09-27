@@ -40,6 +40,7 @@ NCT U:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -58,9 +59,25 @@ NCT U:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop boy group](../../genres/k_pop_boy_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 1 |
+
+### Member Credits
+
+| | JAEHYUN | LUCAS | MARK | TAEYONG | TEN | 大崎将太郎 (Osaki, Shotaro) | 肖德俊 (Xiao Dejun) | 董寺丞 (Dong, Sicheng) | 도영 (DOYOUNG) | 재민 (Jaemin) | 정우 (JUNGWOO) |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Lyricist | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Performer | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Songwriter | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Vocal | 3 | 2 | 2 | 5 | 2 | 1 | 1 | 1 | 3 | 1 | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

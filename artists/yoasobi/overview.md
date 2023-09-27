@@ -21,9 +21,9 @@ YOASOBI is currently:
 - アイドル is:
     - the #3 track of the last month
 - セブンティーン is:
-    - the #35 track of the last month
+    - the #39 track of the last month
 - 群青 is:
-    - the #43 track of the last month
+    - the #46 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -32,6 +32,7 @@ YOASOBI is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="" width="50" /> | 7 | [International Pop](../../playlists/international_pop/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -51,9 +52,18 @@ YOASOBI is currently:
 
 ## Genres
 
-- [j-pop](../../genres/j_pop)
+- [j-pop](../../genres/j_pop/overview.md)
 - japanese teen pop
 
+## Credits
+
+### Member Credits
+
+| | AssH | Ayase |
+|:---|---:|---:|
+| Instrument | 2 | 0 |
+| Lyricist | 0 | 3 |
+| Songwriter | 0 | 3 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

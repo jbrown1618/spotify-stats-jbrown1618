@@ -12,7 +12,7 @@
 SEVENTEEN is currently:
 - The #12 artist of all time
 - The #11 artist of the last 6 months
-- The #4 artist of the last month
+- The #5 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
@@ -23,12 +23,12 @@ SEVENTEEN is currently:
 - HOME;RUN is:
     - the #45 track of all time
 - Pretty U is:
-    - the #29 track of the last month
+    - the #32 track of the last month
     - the #44 track of the last 6 months
 - VERY NICE is:
-    - the #33 track of the last month
+    - the #37 track of the last month
 - Ready to love is:
-    - the #47 track of the last month
+    - the #50 track of the last month
 
 ### Top tracks of all time over time
 
@@ -53,6 +53,7 @@ SEVENTEEN is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 1 | [Aegyo](../../playlists/aegyo/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -88,8 +89,8 @@ SEVENTEEN is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop boy group](../../genres/k_pop_boy_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
 
 ## Tracks
 
@@ -122,3 +123,4 @@ SEVENTEEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Super | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) |
 
 </details>
+

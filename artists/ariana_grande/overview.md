@@ -20,6 +20,7 @@ Ariana Grande is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -61,7 +62,19 @@ Ariana Grande is currently:
 
 ## Genres
 
-- [pop](../../genres/pop)
+- [pop](../../genres/pop/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 1 |
+| Performer | 2 |
+| Producer | 4 |
+| Songwriter | 11 |
+| Vocal | 5 |
 
 ## Tracks
 
@@ -104,3 +117,4 @@ Ariana Grande is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Rain On Me (with Ariana Grande) | Chromatica | [Lady Gaga](../lady_gaga/overview.md), [Ariana Grande](overview.md) | [Interscope](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) |
 
 </details>
+

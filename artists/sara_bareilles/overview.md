@@ -12,15 +12,17 @@
 Sara Bareilles is currently:
 - The #26 artist of all time
 - The #27 artist of the last 6 months
-- The #6 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
 
 - Many the Miles is:
-    - the #7 track of the last month
+    - the #4 track of the last month
+- Hercules is:
+    - the #35 track of the last month
 - Poetry by Dead Men is:
-    - the #38 track of the last month
+    - the #42 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -38,6 +40,7 @@ Sara Bareilles is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -82,11 +85,23 @@ Sara Bareilles is currently:
 
 ## Genres
 
-- [acoustic pop](../../genres/acoustic_pop)
-- [lilith](../../genres/lilith)
-- [neo mellow](../../genres/neo_mellow)
-- [pop rock](../../genres/pop_rock)
-- [post-teen pop](../../genres/post_teen_pop)
+- [acoustic pop](../../genres/acoustic_pop/overview.md)
+- [lilith](../../genres/lilith/overview.md)
+- [neo mellow](../../genres/neo_mellow/overview.md)
+- [pop rock](../../genres/pop_rock/overview.md)
+- [post-teen pop](../../genres/post_teen_pop/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Instrument | 22 |
+| Lyricist | 20 |
+| Producer | 11 |
+| Songwriter | 30 |
+| Vocal | 30 |
 
 ## Tracks
 
@@ -167,3 +182,4 @@ Sara Bareilles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | I Want You Back (feat. Sara Bareilles) | Under the Influence (Ultimate Edition) | Straight No Chaser, [Sara Bareilles](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/5teF3el9gP5j2cf7Dvkbm0) |
 
 </details>
+

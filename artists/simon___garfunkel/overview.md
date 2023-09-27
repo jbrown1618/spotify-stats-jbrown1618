@@ -20,6 +20,7 @@ Simon & Garfunkel:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -36,14 +37,25 @@ Simon & Garfunkel:
 
 ## Genres
 
-- [classic rock](../../genres/classic_rock)
+- [classic rock](../../genres/classic_rock/overview.md)
 - folk
 - folk rock
 - melancholia
-- [mellow gold](../../genres/mellow_gold)
-- [rock](../../genres/rock)
-- [soft rock](../../genres/soft_rock)
+- [mellow gold](../../genres/mellow_gold/overview.md)
+- [rock](../../genres/rock/overview.md)
+- [soft rock](../../genres/soft_rock/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | Art Garfunkel | Paul Simon |
+|:---|---:|---:|
+| Instrument | 0 | 3 |
+| Lyricist | 0 | 4 |
+| Producer | 3 | 3 |
+| Songwriter | 0 | 4 |
+| Vocal | 4 | 4 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

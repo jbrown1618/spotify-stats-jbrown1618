@@ -17,8 +17,8 @@ EVERGLOW:
 ## Artist Rank
 EVERGLOW is currently:
 - The #25 artist of all time
-- The #45 artist of the last 6 months
-- The #18 artist of the last month
+- The #44 artist of the last 6 months
+- The #22 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Top Tracks
@@ -36,6 +36,7 @@ EVERGLOW is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733e3a242b1d34e50a6f28a7a3ab67616d0000b273957d63a17c008c8a7c499f4dab67616d0000b273f35b8a6c03cc633f734bd8acab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k_memes/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -58,9 +59,16 @@ EVERGLOW is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | E:U |
+|:---|---:|
+| Lyricist | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

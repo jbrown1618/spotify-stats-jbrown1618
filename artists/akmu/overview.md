@@ -13,7 +13,7 @@ AKMU:
 
 ## Artist Rank
 AKMU is currently:
-- The #34 artist of the last 6 months
+- The #33 artist of the last 6 months
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
@@ -34,6 +34,7 @@ AKMU is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733e3a242b1d34e50a6f28a7a3ab67616d0000b273957d63a17c008c8a7c499f4dab67616d0000b273f35b8a6c03cc633f734bd8acab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -52,8 +53,16 @@ AKMU is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
+- [k-pop](../../genres/k_pop/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | 이찬혁 (Lee, Chanhyeok) |
+|:---|---:|
+| Lyricist | 2 |
+| Songwriter | 2 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

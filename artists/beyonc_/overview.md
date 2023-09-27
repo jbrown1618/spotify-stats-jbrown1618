@@ -20,6 +20,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k_pop_adjacent/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a8b6ce34511614c9373f423ab67616d0000b2732bf585fa65e5608b365f4909ab67616d0000b273597905f8f46dfc60f5a6d11fab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 1 | [Disney](../../playlists/disney/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -46,8 +47,18 @@
 
 ## Genres
 
-- [pop](../../genres/pop)
-- [r&b](../../genres/r_b)
+- [pop](../../genres/pop/overview.md)
+- [r&b](../../genres/r_b/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Producer | 7 |
+| Songwriter | 7 |
+| Vocal | 7 |
 
 ## Tracks
 
@@ -79,3 +90,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](../lady_gaga/overview.md), [Beyoncé](overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
 
 </details>
+

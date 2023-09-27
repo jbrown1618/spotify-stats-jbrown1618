@@ -16,6 +16,7 @@
 |:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 166 | [Beethoven](../../playlists/beethoven/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 95 | [String Quartets](../../playlists/string_quartets/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -39,10 +40,18 @@
 
 ## Genres
 
-- [classical](../../genres/classical)
-- [classical era](../../genres/classical_era)
-- [early romantic era](../../genres/early_romantic_era)
-- [german romanticism](../../genres/german_romanticism)
+- [classical](../../genres/classical/overview.md)
+- [classical era](../../genres/classical_era/overview.md)
+- [early romantic era](../../genres/early_romantic_era/overview.md)
+- [german romanticism](../../genres/german_romanticism/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Songwriter | 1 |
 
 ## Tracks
 
@@ -318,3 +327,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: IV. Adagio "La Malinconia" - Allegretto quasi allegro | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](overview.md), [Jerusalem Quartet](../jerusalem_quartet/overview.md) | [harmonia mundi](../../labels/harmonia_mundi) | | [🔗](https://open.spotify.com/track/307vQS6VavTKNbzYSnYTt9) |
 
 </details>
+

@@ -26,12 +26,13 @@ TWICE:
 TWICE is currently:
 - The #2 artist of all time
 - The #6 artist of the last 6 months
+- The #21 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
 
 - I CAN'T STOP ME is:
-    - the #17 track of the last month
+    - the #18 track of the last month
     - the #17 track of all time
 - The Feels is:
     - the #50 track of all time
@@ -39,6 +40,8 @@ TWICE is currently:
     - the #40 track of the last 6 months
 - What is Love is:
     - the #45 track of the last 6 months
+- First Time is:
+    - the #12 track of the last month
 
 ### Top tracks of all time over time
 
@@ -65,6 +68,7 @@ TWICE is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -112,10 +116,24 @@ TWICE is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop girl group](../../genres/k_pop_girl_group)
-- [pop](../../genres/pop)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
+- [pop](../../genres/pop/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 10 |
+
+### Member Credits
+
+| | NAYEON | SANA | [JIHYO](../jihyo/overview.md) | 名井南 (Myoui, Mina) | 周子瑜 (Chou, Tzu-yu) | 平井もも (Hirai, Momo) | 김다현 (Kim, Da-hyun) | 손채영 (Son, Chae-young) | 유정연 (Yoo, Jeong-yeon) |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Lyricist | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
+| Vocal | 11 | 9 | 9 | 10 | 10 | 9 | 9 | 9 | 10 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -174,3 +192,4 @@ TWICE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
 
 </details>
+

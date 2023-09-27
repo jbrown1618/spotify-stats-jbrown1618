@@ -12,7 +12,7 @@
 (G)I-DLE is currently:
 - The #7 artist of all time
 - The #8 artist of the last 6 months
-- The #12 artist of the last month
+- The #13 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
 ## Top Tracks
@@ -22,13 +22,11 @@
 - Uh-Oh is:
     - the #27 track of all time
 - All Night is:
-    - the #22 track of the last 6 months
+    - the #21 track of the last 6 months
 - TOMBOY is:
     - the #35 track of the last 6 months
 - DUMDi DUMDi is:
-    - the #10 track of the last month
-- THE BADDEST is:
-    - the #49 track of the last month
+    - the #8 track of the last month
 
 ### Top tracks of all time over time
 
@@ -54,6 +52,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273107ade016c96b4769c200bc4ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k_memes/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -97,7 +96,7 @@
 
 ## Genres
 
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
 ## Tracks
 
@@ -152,3 +151,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | MORE | ALL OUT | K/DA, Madison Beer, [(G)I-DLE](overview.md), Lexie Liu, Jaira Burns, Seraphine, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/6ZlvEI2HQC6R5TahN9Ffm4) |
 
 </details>
+

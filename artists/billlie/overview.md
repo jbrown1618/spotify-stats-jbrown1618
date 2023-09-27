@@ -2,7 +2,7 @@
 # Billlie
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb7a1644d7f1d5da83403a627a" alt="Billlie" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb55e8a39e2a8b962f49502354" alt="Billlie" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,6 @@ Billlie:
 Billlie is currently:
 - The #20 artist of all time
 - The #13 artist of the last 6 months
-- The #15 artist of the last month
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
@@ -31,11 +30,11 @@ Billlie is currently:
 - RING X RING is:
     - the #16 track of the last 6 months
 - enchanted night ~ white night is:
-    - the #21 track of the last 6 months
+    - the #27 track of the last 6 months
 - EUNOIA is:
-    - the #26 track of the last 6 months
+    - the #28 track of the last 6 months
 - RING ma Bell (what a wonderful world) is:
-    - the #4 track of the last month
+    - the #7 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -54,6 +53,7 @@ Billlie is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273107ade016c96b4769c200bc4ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -72,8 +72,15 @@ Billlie is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
+- [k-pop](../../genres/k_pop/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | 문수아 (Moon Sua) | 시윤 (Siyoon) |
+|:---|---:|---:|
+| Lyricist | 1 | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -102,3 +109,4 @@ Billlie is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
 
 </details>
+

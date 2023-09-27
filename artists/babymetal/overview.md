@@ -15,7 +15,7 @@ BABYMETAL:
 ## Artist Rank
 BABYMETAL is currently:
 - The #32 artist of all time
-- The #44 artist of the last 6 months
+- The #43 artist of the last 6 months
 
 ![Rank of BABYMETAL over time](../../images/artists/babymetal/rank_time_series.png)
 ## Top Tracks
@@ -29,6 +29,7 @@ BABYMETAL is currently:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="" width="50" /> | 8 | [International Pop](../../playlists/international_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | [Workout](../../playlists/workout/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -49,6 +50,13 @@ BABYMETAL is currently:
 - j-metal
 - kawaii metal
 
+## Credits
+
+### Member Credits
+
+| | MOAMETAL | SU-METAL | YUIMETAL |
+|:---|---:|---:|---:|
+| Vocal | 6 | 7 | 4 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

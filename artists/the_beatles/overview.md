@@ -25,13 +25,13 @@ The Beatles:
 ## Artist Rank
 The Beatles is currently:
 - The #40 artist of all time
-- The #7 artist of the last month
+- The #6 artist of the last month
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Top Tracks
 
 - Because - Remastered 2009 is:
-    - the #9 track of the last month
+    - the #6 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -42,6 +42,7 @@ The Beatles is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 31 | [Classic Rock](../../playlists/classic_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 5 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 3 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -79,13 +80,23 @@ The Beatles is currently:
 
 ## Genres
 
-- [beatlesque](../../genres/beatlesque)
-- [british invasion](../../genres/british_invasion)
-- [classic rock](../../genres/classic_rock)
+- [beatlesque](../../genres/beatlesque/overview.md)
+- [british invasion](../../genres/british_invasion/overview.md)
+- [classic rock](../../genres/classic_rock/overview.md)
 - merseybeat
-- [psychedelic rock](../../genres/psychedelic_rock)
-- [rock](../../genres/rock)
+- [psychedelic rock](../../genres/psychedelic_rock/overview.md)
+- [rock](../../genres/rock/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | George Harrison | John Lennon | Paul McCartney | Ringo Starr |
+|:---|---:|---:|---:|---:|
+| Instrument | 19 | 17 | 21 | 17 |
+| Lyricist | 2 | 1 | 0 | 0 |
+| Songwriter | 2 | 21 | 20 | 0 |
+| Vocal | 12 | 15 | 21 | 0 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -130,3 +141,4 @@ The Beatles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
 
 </details>
+

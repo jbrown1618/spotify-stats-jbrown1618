@@ -11,6 +11,10 @@
 ## Artist Rank
 
 
+## Top Tracks
+
+- Shades Of Cool is:
+    - the #14 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -18,6 +22,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 17 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -43,8 +48,20 @@
 
 ## Genres
 
-- [art pop](../../genres/art_pop)
-- [pop](../../genres/pop)
+- [art pop](../../genres/art_pop/overview.md)
+- [pop](../../genres/pop/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Lyricist | 1 |
+| Performer | 1 |
+| Producer | 1 |
+| Songwriter | 10 |
+| Vocal | 9 |
 
 ## Tracks
 
@@ -78,3 +95,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Taylor Swift](../taylor_swift/overview.md), [Lana Del Rey](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
 
 </details>
+

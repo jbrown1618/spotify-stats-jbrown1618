@@ -15,6 +15,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | 55 | [Bach](../../playlists/bach/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -31,10 +32,18 @@
 
 ## Genres
 
-- [baroque](../../genres/baroque)
-- [classical](../../genres/classical)
-- [early music](../../genres/early_music)
+- [baroque](../../genres/baroque/overview.md)
+- [classical](../../genres/classical/overview.md)
+- [early music](../../genres/early_music/overview.md)
 - german baroque
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Songwriter | 1 |
 
 ## Tracks
 
@@ -104,3 +113,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | Brandenburg Concerto No. 6 in B flat, BWV 1051: 3. Allegro | Bach, J.S.: Brandenburg Concertos etc. | [Johann Sebastian Bach](overview.md), English Chamber Orchestra, Benjamin Britten | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) | | [🔗](https://open.spotify.com/track/1RJzEki8sy95amLpGyqSCT) |
 
 </details>
+

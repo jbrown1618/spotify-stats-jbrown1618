@@ -33,6 +33,7 @@ OH MY GIRL:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 2 | [Aegyo](../../playlists/aegyo/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -50,9 +51,23 @@ OH MY GIRL:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 1 |
+
+### Member Credits
+
+| | YooA | 김미현 (Kim, Mihyun) | 김지호 (Kim, Jiho) | 배유빈 (Bae, Yubin) | 신혜진 (Shin, Hyejin) | 최예원 (Choi, Yewon) | 최효정 (Choi, Hyojung) | 현승희 (Hyun, Seunghee) |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Lyricist | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Vocal | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

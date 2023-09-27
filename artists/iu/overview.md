@@ -21,12 +21,12 @@ IU is currently:
     - the #16 track of all time
 - Coin is:
     - the #46 track of the last 6 months
-    - the #20 track of all time
+    - the #19 track of all time
 - My sea is:
     - the #7 track of the last 6 months
     - the #28 track of all time
 - LILAC is:
-    - the #43 track of all time
+    - the #41 track of all time
 - Jam Jam is:
     - the #29 track of the last 6 months
 
@@ -53,6 +53,7 @@ IU is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733e3a242b1d34e50a6f28a7a3ab67616d0000b273957d63a17c008c8a7c499f4dab67616d0000b273f35b8a6c03cc633f734bd8acab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273107ade016c96b4769c200bc4ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2736538b8e1b5c7b2a9d2211769ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -101,8 +102,18 @@ IU is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [pop](../../genres/pop)
+- [k-pop](../../genres/k_pop/overview.md)
+- [pop](../../genres/pop/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Lyricist | 5 |
+| Songwriter | 2 |
+| Vocal | 5 |
 
 ## Tracks
 
@@ -156,3 +167,4 @@ IU is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | Cat (Feat. IU) | Cat | Sunwoojunga, [IU](overview.md) | Magic Strawberry Sound | 💚 | [🔗](https://open.spotify.com/track/3LAnd3nxfVjYsNG14xuM7x) |
 
 </details>
+

@@ -24,7 +24,7 @@ GOT the beat is currently:
 ## Top Tracks
 
 - Stamp On It is:
-    - the #5 track of the last 6 months
+    - the #4 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -41,6 +41,7 @@ GOT the beat is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -56,8 +57,18 @@ GOT the beat is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
+- [k-pop](../../genres/k_pop/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
+|:---|---:|---:|---:|---:|
+| Arranger | 1 | 0 | 0 | 0 |
+| Lyricist | 2 | 0 | 1 | 0 |
+| Songwriter | 2 | 0 | 0 | 0 |
+| Vocal | 0 | 15 | 5 | 15 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

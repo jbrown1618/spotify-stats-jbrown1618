@@ -17,6 +17,7 @@ Imogen Heap:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 9 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 8 | [Singer-Songwriter](../../playlists/singer_songwriter/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -39,6 +40,18 @@ Imogen Heap:
 
 - etherpop
 - metropopolis
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Instrument | 1 |
+| Lyricist | 7 |
+| Producer | 7 |
+| Songwriter | 9 |
+| Vocal | 5 |
 
 ## Tracks
 

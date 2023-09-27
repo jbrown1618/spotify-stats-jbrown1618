@@ -19,6 +19,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -55,14 +56,27 @@
 
 ## Genres
 
-- [album rock](../../genres/album_rock)
-- [classic rock](../../genres/classic_rock)
-- [heartland rock](../../genres/heartland_rock)
-- [mellow gold](../../genres/mellow_gold)
-- [piano rock](../../genres/piano_rock)
-- [rock](../../genres/rock)
-- [singer-songwriter](../../genres/singer_songwriter)
-- [soft rock](../../genres/soft_rock)
+- [album rock](../../genres/album_rock/overview.md)
+- [classic rock](../../genres/classic_rock/overview.md)
+- [heartland rock](../../genres/heartland_rock/overview.md)
+- [mellow gold](../../genres/mellow_gold/overview.md)
+- [piano rock](../../genres/piano_rock/overview.md)
+- [rock](../../genres/rock/overview.md)
+- [singer-songwriter](../../genres/singer_songwriter/overview.md)
+- [soft rock](../../genres/soft_rock/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 1 |
+| Instrument | 13 |
+| Lyricist | 15 |
+| Producer | 2 |
+| Songwriter | 15 |
+| Vocal | 14 |
 
 ## Tracks
 
@@ -100,3 +114,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | The River of Dreams | River Of Dreams | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
 
 </details>
+

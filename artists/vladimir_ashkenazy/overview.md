@@ -16,6 +16,7 @@
 |:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 103 | [Beethoven](../../playlists/beethoven/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 102 | [Chopin](../../playlists/chopin/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -34,7 +35,7 @@
 
 ## Genres
 
-- [classical](../../genres/classical)
+- [classical](../../genres/classical/overview.md)
 - classical performance
 - russian classical piano
 
@@ -256,3 +257,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | Piano Sonata No. 9 in E, Op. 14 No. 1: 3. Rondo (Allegro comodo) | Beethoven: The Piano Sonatas | [Ludwig van Beethoven](../ludwig_van_beethoven/overview.md), [Vladimir Ashkenazy](overview.md) | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) | | [🔗](https://open.spotify.com/track/2xIQfni4ohls4aDybQLdWn) |
 
 </details>
+

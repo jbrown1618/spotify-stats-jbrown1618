@@ -32,7 +32,7 @@ aespa is currently:
     - the #38 track of the last 6 months
     - the #5 track of all time
 - Black Mamba is:
-    - the #19 track of all time
+    - the #20 track of all time
 - Spicy is:
     - the #1 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
@@ -44,7 +44,7 @@ aespa is currently:
 - Salty & Sweet is:
     - the #17 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #25 track of the last 6 months
+    - the #24 track of the last 6 months
 - Illusion is:
     - the #31 track of the last 6 months
 
@@ -74,6 +74,7 @@ aespa is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 1 | [Aegyo](../../playlists/aegyo/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -98,8 +99,16 @@ aespa is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop)
-- [k-pop girl group](../../genres/k_pop_girl_group)
+- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Vocal | 7 |
 
 ## Tracks
 
@@ -138,3 +147,4 @@ aespa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | Better Things | Better Things | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
 
 </details>
+

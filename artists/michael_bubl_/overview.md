@@ -18,6 +18,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 5 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 2 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -42,10 +43,20 @@
 
 ## Genres
 
-- [adult standards](../../genres/adult_standards)
-- [canadian pop](../../genres/canadian_pop)
+- [adult standards](../../genres/adult_standards/overview.md)
+- [canadian pop](../../genres/canadian_pop/overview.md)
 - jazz pop
-- [lounge](../../genres/lounge)
+- [lounge](../../genres/lounge/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 1 |
+| Songwriter | 3 |
+| Vocal | 3 |
 
 ## Tracks
 
@@ -77,3 +88,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) | love (Deluxe Edition) | [Michael Bublé](overview.md), Cécile McLorin Salvant | [Reprise](../../labels/reprise) | | [🔗](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) |
 
 </details>
+

@@ -15,6 +15,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 80 | [String Quartets](../../playlists/string_quartets/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -128,3 +129,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | String Quartet No. 4 in C Major, K. 157: III. Presto | Mozart: String Quartets Nos. 4, 17 & 22 | [Wolfgang Amadeus Mozart](../wolfgang_amadeus_mozart/overview.md), [Jerusalem Quartet](overview.md) | [harmonia mundi](../../labels/harmonia_mundi) | | [🔗](https://open.spotify.com/track/6wZJSUp9ucaVj1C7gQW1Rd) |
 
 </details>
+

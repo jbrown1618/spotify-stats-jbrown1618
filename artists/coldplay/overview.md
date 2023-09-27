@@ -23,6 +23,7 @@ Coldplay:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -42,9 +43,24 @@ Coldplay:
 
 ## Genres
 
-- [permanent wave](../../genres/permanent_wave)
-- [pop](../../genres/pop)
+- [permanent wave](../../genres/permanent_wave/overview.md)
+- [pop](../../genres/pop/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Producer | 4 |
+
+### Member Credits
+
+| | Chris Martin | Guy Berryman | Jonny Buckland | Will Champion |
+|:---|---:|---:|---:|---:|
+| Instrument | 2 | 2 | 2 | 2 |
+| Songwriter | 5 | 5 | 5 | 5 |
+| Vocal | 2 | 1 | 2 | 2 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

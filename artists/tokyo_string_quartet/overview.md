@@ -15,6 +15,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 71 | [String Quartets](../../playlists/string_quartets/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -117,3 +118,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | String Quartet No. 9 in C Major, Op. 59 No. 3: IV. Finale (Allegro molto) | Beethoven: Complete String Quartets | [Ludwig van Beethoven](../ludwig_van_beethoven/overview.md), [Tokyo String Quartet](overview.md) | [harmonia mundi](../../labels/harmonia_mundi) | | [🔗](https://open.spotify.com/track/1KM3GCkFAaob2g2GRTSeum) |
 
 </details>
+

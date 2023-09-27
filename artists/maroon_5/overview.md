@@ -18,7 +18,7 @@ Maroon 5:
 
 ## Artist Rank
 Maroon 5 is currently:
-- The #48 artist of the last 6 months
+- The #47 artist of the last 6 months
 
 ![Rank of Maroon 5 over time](../../images/artists/maroon_5/rank_time_series.png)
 ## Featured on Playlists
@@ -28,6 +28,7 @@ Maroon 5 is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 6 | [Modern Rock](../../playlists/modern_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -46,8 +47,25 @@ Maroon 5 is currently:
 
 ## Genres
 
-- [pop](../../genres/pop)
+- [pop](../../genres/pop/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 1 |
+| Producer | 1 |
+
+### Member Credits
+
+| | Adam Levine | James Valentine | Jesse Carmichael | Matt Flynn | Mickey Madden | PJ Morton | Ryan Dusick |
+|:---|---:|---:|---:|---:|---:|---:|---:|
+| Instrument | 0 | 1 | 1 | 1 | 1 | 1 | 0 |
+| Lyricist | 4 | 2 | 3 | 0 | 1 | 0 | 1 |
+| Songwriter | 5 | 3 | 3 | 0 | 2 | 0 | 2 |
+| Vocal | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

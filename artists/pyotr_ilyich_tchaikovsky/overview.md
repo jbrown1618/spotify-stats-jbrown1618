@@ -17,6 +17,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733620c09ca7ca202e676b783bab67616d0000b2733dc87408b73e227ec72eeab3ab67616d0000b2739daaa54cc50b6359ff1dc7a3ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | 55 | [Ballet](../../playlists/ballet/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | 3 | [Choral](../../playlists/choral/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 1 | [Program Music](../../playlists/program_music/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -36,10 +37,10 @@
 
 ## Genres
 
-- [classical](../../genres/classical)
+- [classical](../../genres/classical/overview.md)
 - classical drill
-- [late romantic era](../../genres/late_romantic_era)
-- [russian romanticism](../../genres/russian_romanticism)
+- [late romantic era](../../genres/late_romantic_era/overview.md)
+- [russian romanticism](../../genres/russian_romanticism/overview.md)
 
 ## Tracks
 
@@ -113,3 +114,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Swan Lake Suite, Op. 20a: II. Waltz | Mussorgsky: Pictures At An Exhibition | [Pyotr Ilyich Tchaikovsky](overview.md), Wiener Philharmoniker, Gustavo Dudamel | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) | | [🔗](https://open.spotify.com/track/0NOiSayyUFYnLllkTdFa1k) |
 
 </details>
+

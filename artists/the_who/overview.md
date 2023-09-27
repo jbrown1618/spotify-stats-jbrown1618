@@ -37,6 +37,7 @@ The Who:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 6 | [Classic Rock](../../playlists/classic_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -57,12 +58,29 @@ The Who:
 
 ## Genres
 
-- [album rock](../../genres/album_rock)
-- [british invasion](../../genres/british_invasion)
-- [classic rock](../../genres/classic_rock)
-- [hard rock](../../genres/hard_rock)
-- [rock](../../genres/rock)
+- [album rock](../../genres/album_rock/overview.md)
+- [british invasion](../../genres/british_invasion/overview.md)
+- [classic rock](../../genres/classic_rock/overview.md)
+- [hard rock](../../genres/hard_rock/overview.md)
+- [rock](../../genres/rock/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Producer | 3 |
+
+### Member Credits
+
+| | John Entwistle | Keith Moon | Pete Townshend | Pino Palladino | Roger Daltrey |
+|:---|---:|---:|---:|---:|---:|
+| Instrument | 2 | 2 | 3 | 1 | 0 |
+| Lyricist | 0 | 0 | 5 | 0 | 0 |
+| Producer | 0 | 1 | 0 | 0 | 0 |
+| Songwriter | 0 | 0 | 5 | 0 | 0 |
+| Vocal | 2 | 0 | 3 | 0 | 3 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

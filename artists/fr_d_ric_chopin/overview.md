@@ -15,6 +15,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 157 | [Chopin](../../playlists/chopin/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -39,8 +40,8 @@
 
 ## Genres
 
-- [classical](../../genres/classical)
-- [early romantic era](../../genres/early_romantic_era)
+- [classical](../../genres/classical/overview.md)
+- [early romantic era](../../genres/early_romantic_era/overview.md)
 - polish classical
 
 ## Tracks
@@ -213,3 +214,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | Polonaise No. 6 in A-Flat Major, Op. 53, "Heroic" | Martha Argerich Live, Vol. 4 | [Frédéric Chopin](overview.md), Martha Argerich | DOREMI | | [🔗](https://open.spotify.com/track/3QC8VK73CinEi0ZV8Jf9B5) |
 
 </details>
+

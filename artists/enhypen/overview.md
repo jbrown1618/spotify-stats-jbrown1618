@@ -12,24 +12,25 @@
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #4 artist of the last 6 months
+- The #16 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #23 track of the last 6 months
+    - the #22 track of the last 6 months
     - the #25 track of all time
 - Polaroid Love is:
     - the #37 track of the last 6 months
-    - the #42 track of all time
+    - the #43 track of all time
 - Just A Little Bit is:
-    - the #46 track of all time
+    - the #47 track of all time
 - Bills is:
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
     - the #39 track of the last 6 months
 - Drunk-Dazed is:
-    - the #40 track of the last month
+    - the #20 track of the last month
 
 ### Top tracks of all time over time
 
@@ -56,6 +57,7 @@ ENHYPEN is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k_memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -96,8 +98,8 @@ ENHYPEN is currently:
 
 ## Genres
 
-- [anime](../../genres/anime)
-- [k-pop boy group](../../genres/k_pop_boy_group)
+- [anime](../../genres/anime/overview.md)
+- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
 
 ## Tracks
 
@@ -142,3 +144,4 @@ ENHYPEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | CRIMINAL LOVE | CRIMINAL LOVE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 💚 | [🔗](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) |
 
 </details>
+

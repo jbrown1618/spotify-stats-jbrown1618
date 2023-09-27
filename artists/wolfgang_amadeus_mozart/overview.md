@@ -17,6 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | 148 | [Mozart](../../playlists/mozart/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | 14 | [Choral](../../playlists/choral/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 11 | [String Quartets](../../playlists/string_quartets/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -41,8 +42,8 @@
 
 ## Genres
 
-- [classical](../../genres/classical)
-- [classical era](../../genres/classical_era)
+- [classical](../../genres/classical/overview.md)
+- [classical era](../../genres/classical_era/overview.md)
 
 ## Tracks
 
@@ -216,3 +217,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | Piano Sonata No. 9 in D Major, K. 311: II. Andante con expressione | Mozart Piano Pieces | [Wolfgang Amadeus Mozart](overview.md), Axel Gillison | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group) | | [🔗](https://open.spotify.com/track/5OxM1YJI1qAzxpBPjTRiCn) |
 
 </details>
+

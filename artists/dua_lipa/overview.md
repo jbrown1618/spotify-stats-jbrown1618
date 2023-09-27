@@ -23,6 +23,7 @@ Dua Lipa is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k_pop_adjacent/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -49,9 +50,18 @@ Dua Lipa is currently:
 
 ## Genres
 
-- [dance pop](../../genres/dance_pop)
-- [pop](../../genres/pop)
-- [uk pop](../../genres/uk_pop)
+- [dance pop](../../genres/dance_pop/overview.md)
+- [pop](../../genres/pop/overview.md)
+- [uk pop](../../genres/uk_pop/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Songwriter | 7 |
+| Vocal | 6 |
 
 ## Tracks
 
@@ -81,3 +91,4 @@ Dua Lipa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="" width="50" /> | Sweetest Pie | Sweetest Pie | Megan Thee Stallion, [Dua Lipa](overview.md) | 300 Entertainment | 💚 | [🔗](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) |
 
 </details>
+

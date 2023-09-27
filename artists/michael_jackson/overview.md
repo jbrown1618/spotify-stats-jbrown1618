@@ -16,6 +16,7 @@ Michael Jackson:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 8 | [Classic Pop](../../playlists/classic_pop/overview.md) |
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -34,8 +35,21 @@ Michael Jackson:
 
 ## Genres
 
-- [r&b](../../genres/r_b)
-- [soul](../../genres/soul)
+- [r&b](../../genres/r_b/overview.md)
+- [soul](../../genres/soul/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Arranger | 2 |
+| Instrument | 1 |
+| Lyricist | 3 |
+| Producer | 3 |
+| Songwriter | 4 |
+| Vocal | 6 |
 
 ## Tracks
 
