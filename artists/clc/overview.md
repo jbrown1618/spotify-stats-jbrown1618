@@ -4,6 +4,17 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="CLC" width="100" />
 
+## Relationships
+
+CLC:
+- has member 장승연 (Chang, Seung-yeon)
+- has member 최유진 (Choi, Yu-jin)
+- has member ELKIE
+- has member 권은빈 (Kwon, Eun-bin)
+- has member 오승희 (Oh, Seung-hee)
+- has member Sorn
+- has member Yeeun
+
 ## Artist Rank
 CLC is currently:
 - The #42 artist of all time

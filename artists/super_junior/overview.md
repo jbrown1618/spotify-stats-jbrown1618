@@ -4,6 +4,23 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="SUPER JUNIOR" width="100" />
 
+## Relationships
+
+SUPER JUNIOR:
+- has member 최시원 (Choi, Si-won)
+- has member 동해 (Donghae)
+- has member EUNHYUK
+- has member 韩庚 (Han, Geng)
+- has member 강인 (Kangin)
+- has member 김희철 (Kim, Hee-chul)
+- has member 김기범 (Kim, Ki-bum)
+- has member 규현 (Kyuhyun)
+- has member 이특 (Leeteuk)
+- has member 려욱 (Ryeowook)
+- has member 신동 (Shindong)
+- has member 성민 (SungMin)
+- has member YESUNG
+
 ## Artist Rank
 SUPER JUNIOR is currently:
 - The #46 artist of all time

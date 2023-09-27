@@ -14,7 +14,7 @@ Radiohead:
 - was formerly known as On a Friday
 - has member Colin Greenwood
 - has member Jonny Greenwood
-- has member Ed O’Brien (O’Brien, Ed)
+- has member Ed O'Brien
 - has member Philip Selway
 - has member Thom Yorke
 
@@ -77,7 +77,7 @@ Radiohead is currently:
 
 ### Member Credits
 
-| | Colin Greenwood | Ed O’Brien (O’Brien, Ed) | Jonny Greenwood | Philip Selway | Thom Yorke |
+| | Colin Greenwood | Ed O'Brien | Jonny Greenwood | Philip Selway | Thom Yorke |
 |:---|---:|---:|---:|---:|---:|
 | Arranger | 0 | 0 | 3 | 0 | 2 |
 | Instrument | 11 | 10 | 11 | 11 | 9 |

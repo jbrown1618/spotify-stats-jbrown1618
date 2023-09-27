@@ -4,6 +4,16 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="P1Harmony" width="100" />
 
+## Relationships
+
+P1Harmony:
+- has member 인탁 (Intak)
+- has member 지웅 (Jiung)
+- has member 종섭 (Jongseob)
+- has member 기호 (Keeho)
+- has member 소울 (Soul)
+- has member 테오 (Theo)
+
 ## Artist Rank
 P1Harmony is currently:
 - The #42 artist of the last 6 months

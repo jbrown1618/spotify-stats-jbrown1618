@@ -7,7 +7,7 @@
 ## Relationships
 
 Maroon 5:
-- was formerly known as Kara’s Flowers (Kara’s Flowers)
+- was formerly known as Kara's Flowers
 - has member Jesse Carmichael
 - has member Ryan Dusick
 - has member Matt Flynn

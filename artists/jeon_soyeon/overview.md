@@ -7,7 +7,7 @@
 ## Relationships
 
 JEON SOYEON:
-- is a member of (G)I‐DLE ((G)I‐DLE)
+- is a member of [(G)I-DLE](../_g_i_dle/overview.md)
 
 ## Artist Rank
 JEON SOYEON is currently:

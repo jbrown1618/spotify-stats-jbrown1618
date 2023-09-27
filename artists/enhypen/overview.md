@@ -8,6 +8,17 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+ENHYPEN:
+- has member JAKE
+- has member JAY
+- has member 김선우 (Kim, Sun-oo)
+- has member 이희승 (Lee, Hee-seung)
+- has member NI-KI
+- has member 박성훈 (Park, Sung-hoon)
+- has member 양정원 (Yang, Jung-won)
+
 ## Artist Rank
 ENHYPEN is currently:
 - The #11 artist of all time
@@ -18,17 +29,17 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #22 track of the last 6 months
+    - the #19 track of the last 6 months
     - the #25 track of all time
 - Polaroid Love is:
-    - the #37 track of the last 6 months
+    - the #35 track of the last 6 months
     - the #43 track of all time
 - Just A Little Bit is:
     - the #47 track of all time
 - Bills is:
-    - the #23 track of the last 6 months
+    - the #22 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
 - Drunk-Dazed is:
     - the #20 track of the last month
 

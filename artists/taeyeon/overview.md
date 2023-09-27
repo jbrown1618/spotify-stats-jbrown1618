@@ -12,8 +12,8 @@
 
 TAEYEON:
 - is a member of [GOT the beat](../got_the_beat/overview.md)
+- is a member of [Girls' Generation](../girls__generation/overview.md)
 - is a member of Girls' Generation-TTS
-- is a member of Girls’ Generation (Girls’ Generation)
 
 ## Artist Rank
 TAEYEON is currently:

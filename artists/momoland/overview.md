@@ -4,6 +4,19 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="MOMOLAND" width="100" />
 
+## Relationships
+
+MOMOLAND:
+- has member 아인 (A-in)
+- has member 데이지 (Daisy)
+- has member 혜빈 (Hye-bin)
+- has member 제인 (Jane)
+- has member 주이 (Ju-i)
+- has member 나윤 (Na-yoon)
+- has member Nancy
+- has member Taeha
+- has member 연우 (Yeon-woo)
+
 ## Artist Rank
 
 ![Rank of MOMOLAND over time](../../images/artists/momoland/rank_time_series.png)

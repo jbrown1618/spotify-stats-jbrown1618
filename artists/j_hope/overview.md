@@ -4,6 +4,11 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="j-hope" width="100" />
 
+## Relationships
+
+j-hope:
+- is a member of [BTS](../bts/overview.md)
+
 ## Artist Rank
 
 
@@ -34,6 +39,15 @@
 
 - [k-pop](../../genres/k_pop/overview.md)
 - [k-rap](../../genres/k_rap/overview.md)
+
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Songwriter | 4 |
+| Vocal | 2 |
 
 ## Tracks
 

@@ -17,7 +17,7 @@ BTS:
 - has member RM
 - has member SUGA
 - has member V
-- has member j‐hope (j‐hope)
+- has member [j-hope](../j_hope/overview.md)
 
 ## Artist Rank
 BTS is currently:
@@ -107,7 +107,7 @@ BTS is currently:
 
 ### Member Credits
 
-| | JIN | Jimin | Jung Kook | RM | SUGA | V | j‐hope (j‐hope) |
+| | JIN | Jimin | Jung Kook | RM | SUGA | V | [j-hope](../j_hope/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
 | Arranger | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
 | Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |

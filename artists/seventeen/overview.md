@@ -8,6 +8,23 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+SEVENTEEN:
+- has member DINO
+- has member DK
+- has member HOSHI
+- has member 정한 (JEONGHAN)
+- has member JOSHUA
+- has member MINGYU
+- has member S.COUPS
+- has member 승관 (SEUNGKWAN)
+- has member THE 8
+- has member VERNON
+- has member WONWOO
+- has member WOOZI
+- has member 文俊辉 (Wen, Junhui)
+
 ## Artist Rank
 SEVENTEEN is currently:
 - The #12 artist of all time
@@ -18,7 +35,7 @@ SEVENTEEN is currently:
 ## Top Tracks
 
 - Left & Right is:
-    - the #19 track of the last 6 months
+    - the #20 track of the last 6 months
     - the #14 track of all time
 - HOME;RUN is:
     - the #45 track of all time

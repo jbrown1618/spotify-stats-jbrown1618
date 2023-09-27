@@ -19,7 +19,7 @@ NCT 127:
 - has member 정우 (JUNGWOO)
 - has member MARK
 - has member 中本悠太 (Nakamoto, Yuta)
-- has member 태일 (TAEIL)
+- has member TAEIL
 - has member TAEYONG
 - is a subgroup of NCT
 

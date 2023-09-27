@@ -4,6 +4,23 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="WJSN" width="100" />
 
+## Relationships
+
+WJSN:
+- has member 보나 (Bona)
+- has member 程潇 (Cheng, Xiao)
+- has member 다원 (Dawon)
+- has member 다영 (Dayoung)
+- has member 은서 (Eunseo)
+- has member Exy
+- has member 루다 (Luda)
+- has member 孟美岐 (Meng, Mei Qi)
+- has member 설아 (SeolA)
+- has member 수빈 (Soobin)
+- has member 吴宣仪 (Wu, Xuan Yi)
+- has member 여름 (Yeoreum)
+- has member 유연정 (Yoo, Yeon-jung)
+
 ## Artist Rank
 
 
@@ -38,6 +55,13 @@
 - [k-pop](../../genres/k_pop/overview.md)
 - [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | Exy |
+|:---|---:|
+| Lyricist | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

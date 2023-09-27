@@ -299,7 +299,6 @@
 | String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
 | String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
 | String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
-| RINGO | RINGO | ITZY | 0 | 0 | 71 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |

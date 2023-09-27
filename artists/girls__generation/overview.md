@@ -8,6 +8,21 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Girls' Generation:
+- has member HYOYEON
+- has member HYO
+- has member Jessica
+- has member 서현 (SEOHYUN)
+- has member SUNNY
+- has member 수영 (Sooyoung)
+- has member [TAEYEON](../taeyeon/overview.md)
+- has member YURI
+- has member 윤아 (YoonA)
+- has member Tiffany Young
+- has the subgroup Girls' Generation-TTS
+
 ## Artist Rank
 Girls' Generation is currently:
 - The #15 artist of all time
@@ -73,6 +88,20 @@ Girls' Generation is currently:
 - [k-pop](../../genres/k_pop/overview.md)
 - [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Vocal | 4 |
+
+### Member Credits
+
+| | Jessica | SUNNY | Tiffany Young | [TAEYEON](../taeyeon/overview.md) | 서현 (SEOHYUN) |
+|:---|---:|---:|---:|---:|---:|
+| Lyricist | 0 | 0 | 0 | 1 | 0 |
+| Vocal | 1 | 1 | 1 | 5 | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

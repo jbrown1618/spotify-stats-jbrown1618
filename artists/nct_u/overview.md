@@ -11,11 +11,11 @@ NCT U:
 - has member 董寺丞 (Dong, Sicheng)
 - has member JAEHYUN
 - has member 정우 (JUNGWOO)
-- has member 재민 (Jaemin)
+- has member JAEMIN
 - has member LUCAS
 - has member MARK
 - has member 大崎将太郎 (Osaki, Shotaro)
-- has member 태일 (TAEIL)
+- has member TAEIL
 - has member TAEYONG
 - has member TEN
 - has member 肖德俊 (Xiao Dejun)
@@ -72,12 +72,12 @@ NCT U:
 
 ### Member Credits
 
-| | JAEHYUN | LUCAS | MARK | TAEYONG | TEN | 大崎将太郎 (Osaki, Shotaro) | 肖德俊 (Xiao Dejun) | 董寺丞 (Dong, Sicheng) | 도영 (DOYOUNG) | 재민 (Jaemin) | 정우 (JUNGWOO) |
+| | JAEHYUN | JAEMIN | LUCAS | MARK | TAEYONG | TEN | 大崎将太郎 (Osaki, Shotaro) | 肖德俊 (Xiao Dejun) | 董寺丞 (Dong, Sicheng) | 도영 (DOYOUNG) | 정우 (JUNGWOO) |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Lyricist | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Performer | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Songwriter | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Vocal | 3 | 2 | 2 | 5 | 2 | 1 | 1 | 1 | 3 | 1 | 1 |
+| Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Performer | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Songwriter | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Vocal | 3 | 1 | 2 | 2 | 5 | 2 | 1 | 1 | 1 | 3 | 1 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

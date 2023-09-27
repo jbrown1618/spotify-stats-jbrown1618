@@ -8,12 +8,13 @@
 
 GOT the beat:
 - has member [BoA](../boa/overview.md)
+- has member HYOYEON
 - has member HYO
-- has member 카리나 (Karina)
+- has member KARINA
 - has member [SEULGI](../seulgi/overview.md)
 - has member [TAEYEON](../taeyeon/overview.md)
 - has member [WENDY](../wendy/overview.md)
-- has member 윈터 (Winter)
+- has member WINTER
 
 ## Artist Rank
 GOT the beat is currently:
@@ -24,7 +25,7 @@ GOT the beat is currently:
 ## Top Tracks
 
 - Stamp On It is:
-    - the #4 track of the last 6 months
+    - the #5 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

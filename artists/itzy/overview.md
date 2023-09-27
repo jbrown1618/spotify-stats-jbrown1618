@@ -20,7 +20,7 @@ ITZY:
 ## Artist Rank
 ITZY is currently:
 - The #5 artist of all time
-- The #5 artist of the last 6 months
+- The #7 artist of the last 6 months
 - The #7 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
@@ -30,7 +30,7 @@ ITZY is currently:
     - the #18 track of the last 6 months
     - the #31 track of all time
 - Cheshire is:
-    - the #32 track of the last 6 months
+    - the #36 track of the last 6 months
 - Be In Love is:
     - the #5 track of the last month
 

@@ -15,20 +15,18 @@ STAYC:
 - has member 재이 (J)
 - has member 세은 (SEEUN)
 - has member 시은 (SIEUN)
-- has member 수민 (SUMIN)
+- has member SUMIN
 - has member 윤 (YOON)
 
 ## Artist Rank
 STAYC is currently:
 - The #18 artist of all time
-- The #14 artist of the last 6 months
+- The #12 artist of the last 6 months
 - The #17 artist of the last month
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
-- POPPY - Japanese Ver. is:
-    - the #47 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -87,9 +85,9 @@ STAYC is currently:
 
 ### Member Credits
 
-| | 세은 (SEEUN) | 수민 (SUMIN) | 시은 (SIEUN) | 아이사 (ISA) | 윤 (YOON) | 재이 (J) |
+| | SUMIN | 세은 (SEEUN) | 시은 (SIEUN) | 아이사 (ISA) | 윤 (YOON) | 재이 (J) |
 |:---|---:|---:|---:|---:|---:|---:|
-| Vocal | 9 | 12 | 12 | 12 | 12 | 12 |
+| Vocal | 12 | 9 | 12 | 12 | 12 | 12 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

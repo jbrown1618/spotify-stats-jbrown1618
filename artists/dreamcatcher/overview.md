@@ -8,6 +8,17 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Dreamcatcher:
+- has member DAMI
+- has member GAHYEON
+- has member HANDONG
+- has member JI U
+- has member SIYEON
+- has member SU A
+- has member YOOHYEON
+
 ## Artist Rank
 Dreamcatcher is currently:
 - The #28 artist of all time
@@ -55,6 +66,14 @@ Dreamcatcher is currently:
 - [k-pop](../../genres/k_pop/overview.md)
 - [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | DAMI | GAHYEON | HANDONG | JI U | SIYEON | SU A | YOOHYEON |
+|:---|---:|---:|---:|---:|---:|---:|---:|
+| Lyricist | 2 | 0 | 0 | 2 | 2 | 0 | 1 |
+| Vocal | 8 | 8 | 4 | 8 | 10 | 8 | 9 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

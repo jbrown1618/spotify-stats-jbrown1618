@@ -8,6 +8,17 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+Florence + The Machine:
+- has member Robert Ackroyd
+- has member Rusty Bradshaw
+- has member Christopher Lloyd Hayden
+- has member Tom Moth
+- has member Mark Saunders
+- has member Isabella Summers
+- has member Florence Welch
+
 ## Artist Rank
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
@@ -49,6 +60,18 @@
 - [modern rock](../../genres/modern_rock/overview.md)
 - uk alternative pop
 
+## Credits
+
+### Member Credits
+
+| | Christopher Lloyd Hayden | Florence Welch | Isabella Summers | Mark Saunders | Robert Ackroyd | Rusty Bradshaw | Tom Moth |
+|:---|---:|---:|---:|---:|---:|---:|---:|
+| Arranger | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| Instrument | 13 | 1 | 6 | 7 | 10 | 6 | 12 |
+| Lyricist | 0 | 6 | 1 | 0 | 0 | 0 | 0 |
+| Producer | 0 | 1 | 3 | 0 | 0 | 0 | 0 |
+| Songwriter | 0 | 14 | 6 | 0 | 0 | 0 | 0 |
+| Vocal | 5 | 15 | 0 | 5 | 0 | 0 | 0 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

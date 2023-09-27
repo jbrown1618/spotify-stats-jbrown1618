@@ -8,6 +8,16 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+(G)I-DLE:
+- has member MINNIE
+- has member MIYEON
+- has member [JEON SOYEON](../jeon_soyeon/overview.md)
+- has member 수진 (Soojin)
+- has member YUQI
+- has member 叶叔华 (Yeh, Shuhua)
+
 ## Artist Rank
 (G)I-DLE is currently:
 - The #7 artist of all time
@@ -24,7 +34,7 @@
 - All Night is:
     - the #21 track of the last 6 months
 - TOMBOY is:
-    - the #35 track of the last 6 months
+    - the #46 track of the last 6 months
 - DUMDi DUMDi is:
     - the #8 track of the last month
 
@@ -98,6 +108,23 @@
 
 - [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
+## Credits
+
+### Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Performer | 6 |
+| Vocal | 1 |
+
+### Member Credits
+
+| | MINNIE | MIYEON | YUQI | [JEON SOYEON](../jeon_soyeon/overview.md) | 叶叔华 (Yeh, Shuhua) |
+|:---|---:|---:|---:|---:|---:|
+| Arranger | 0 | 0 | 0 | 7 | 0 |
+| Lyricist | 2 | 0 | 0 | 12 | 0 |
+| Songwriter | 2 | 0 | 1 | 9 | 0 |
+| Vocal | 5 | 7 | 4 | 9 | 4 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

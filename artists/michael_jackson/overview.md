@@ -8,6 +8,7 @@
 
 Michael Jackson:
 - is also known as W.A. Mozart
+- is a member of The Jackson 5
 
 ## Artist Rank
 

@@ -14,8 +14,8 @@ NCT DREAM:
 - has member 해찬 (Hae Chan)
 - has member 黄仁俊 (Huang, Ren Jun)
 - has member JENO
-- has member 재민 (Jaemin)
-- has member 지성 (Jisung)
+- has member JAEMIN
+- has member JISUNG
 - has member MARK
 - has member 钟辰乐 (Zhong, Chen Le)
 - is a subgroup of NCT
@@ -23,15 +23,13 @@ NCT DREAM:
 ## Artist Rank
 NCT DREAM is currently:
 - The #24 artist of all time
-- The #19 artist of the last 6 months
+- The #18 artist of the last 6 months
 
 ![Rank of NCT DREAM over time](../../images/artists/nct_dream/rank_time_series.png)
 ## Top Tracks
 
 - BOOM is:
     - the #24 track of all time
-- Hot Sauce is:
-    - the #50 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -86,11 +84,11 @@ NCT DREAM is currently:
 
 ### Member Credits
 
-| | MARK | 재민 (Jaemin) |
+| | JAEMIN | MARK |
 |:---|---:|---:|
-| Lyricist | 1 | 0 |
-| Songwriter | 1 | 0 |
-| Vocal | 2 | 1 |
+| Lyricist | 0 | 1 |
+| Songwriter | 0 | 1 |
+| Vocal | 1 | 2 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

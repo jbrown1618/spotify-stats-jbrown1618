@@ -8,6 +8,20 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+The Tarpeggios:
+- was formerly known as The Quarrymen
+- has member Pete Best
+- has member Norman Chapman
+- has member George Harrison
+- has member John Lennon
+- has member Paul McCartney
+- has member Tommy Moore
+- has member Chas Newby
+- has member Ringo Starr
+- has member Stuart Sutcliffe
+
 ## Artist Rank
 The Tarpeggios is currently:
 - The #39 artist of all time
@@ -37,6 +51,16 @@ The Tarpeggios is currently:
 | 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 9 | 7 | The Unc - Chapel Hill Tarpeggios |
 
+## Credits
+
+### Member Credits
+
+| | George Harrison | John Lennon | Paul McCartney | Ringo Starr |
+|:---|---:|---:|---:|---:|
+| Instrument | 19 | 17 | 21 | 17 |
+| Lyricist | 2 | 1 | 0 | 0 |
+| Songwriter | 2 | 21 | 20 | 0 |
+| Vocal | 12 | 15 | 21 | 0 |
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

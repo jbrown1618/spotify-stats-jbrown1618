@@ -20,10 +20,10 @@ IU is currently:
 - BBIBBI is:
     - the #16 track of all time
 - Coin is:
-    - the #46 track of the last 6 months
+    - the #42 track of the last 6 months
     - the #19 track of all time
 - My sea is:
-    - the #7 track of the last 6 months
+    - the #6 track of the last 6 months
     - the #28 track of all time
 - LILAC is:
     - the #41 track of all time

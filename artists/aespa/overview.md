@@ -11,10 +11,10 @@
 ## Relationships
 
 aespa:
-- has member ジゼル (Giselle)
-- has member 카리나 (Karina)
+- has member GISELLE
+- has member KARINA
 - has member 宁艺卓 (Ning, Yizhuo)
-- has member 윈터 (Winter)
+- has member WINTER
 
 ## Artist Rank
 aespa is currently:
@@ -26,27 +26,29 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #6 track of the last 6 months
+    - the #7 track of the last 6 months
     - the #3 track of all time
 - Next Level is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
     - the #5 track of all time
 - Black Mamba is:
     - the #20 track of all time
-- Spicy is:
-    - the #1 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
+    - the #1 track of the last 6 months
+- Spicy is:
     - the #2 track of the last 6 months
 - Hold On Tight is:
-    - the #3 track of the last 6 months
+    - the #4 track of the last 6 months
 - Thirsty is:
     - the #9 track of the last 6 months
 - Salty & Sweet is:
     - the #17 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - Illusion is:
-    - the #31 track of the last 6 months
+    - the #28 track of the last 6 months
+- I'll Make You Cry is:
+    - the #48 track of the last 6 months
 
 ### Top tracks of all time over time
 

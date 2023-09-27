@@ -11,7 +11,7 @@
 ## Relationships
 
 Stray Kids:
-- has member 방찬 (Bang Chan)
+- has member Bang Chan
 - has member 창빈 (Changbin)
 - has member 필릭스 (Felix)
 - has member 한 (Han)
@@ -24,7 +24,7 @@ Stray Kids:
 ## Artist Rank
 Stray Kids is currently:
 - The #8 artist of all time
-- The #7 artist of the last 6 months
+- The #6 artist of the last 6 months
 - The #15 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
@@ -35,7 +35,7 @@ Stray Kids is currently:
     - the #40 track of all time
 - Back Door is:
     - the #24 track of the last month
-    - the #33 track of the last 6 months
+    - the #30 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -116,7 +116,7 @@ Stray Kids is currently:
 
 ### Member Credits
 
-| | 방찬 (Bang Chan) | 창빈 (Changbin) | 필릭스 (Felix) | 한 (Han) |
+| | Bang Chan | 창빈 (Changbin) | 필릭스 (Felix) | 한 (Han) |
 |:---|---:|---:|---:|---:|
 | Arranger | 1 | 0 | 0 | 0 |
 | Lyricist | 1 | 1 | 0 | 1 |

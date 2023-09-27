@@ -8,6 +8,15 @@
 
 [See Clusters](clusters/overview.md)
 
+## Relationships
+
+TOMORROW X TOGETHER:
+- has member 범규 (BEOMGYU)
+- has member Kai Kamal Huening
+- has member 수빈 (SOOBIN)
+- has member 태현 (TAEHYUN)
+- has member 연준 (YEONJUN)
+
 ## Artist Rank
 
 

@@ -8,7 +8,7 @@
 
 Daft Punk:
 - has member Thomas Bangalter
-- has member Guy‐Manuel de Homem‐Christo (de Homem‐Christo, Guy‐Manuel)
+- has member Guy-Manuel de Homem-Christo
 
 ## Artist Rank
 
@@ -64,7 +64,7 @@ Daft Punk:
 
 ### Member Credits
 
-| | Guy‐Manuel de Homem‐Christo (de Homem‐Christo, Guy‐Manuel) | Thomas Bangalter |
+| | Guy-Manuel de Homem-Christo | Thomas Bangalter |
 |:---|---:|---:|
 | Producer | 5 | 5 |
 | Songwriter | 5 | 5 |

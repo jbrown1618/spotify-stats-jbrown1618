@@ -4,6 +4,20 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="PENTAGON" width="100" />
 
+## Relationships
+
+PENTAGON:
+- has member YAN AN
+- has member 足立湯と (Adachi, Yuto)
+- has member DAWN
+- has member 후이 (HUI)
+- has member 홍석 (Hong Seok)
+- has member 진호 (Jinho)
+- has member 키노 (KINO)
+- has member 신원 (Shinwon)
+- has member 우석 (Wooseok)
+- has member 여원 (Yeo One)
+
 ## Artist Rank
 
 ![Rank of PENTAGON over time](../../images/artists/pentagon/rank_time_series.png)
