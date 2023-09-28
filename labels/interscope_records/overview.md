@@ -193,6 +193,122 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/interscope_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | TEDDY | 20 | Lyricist, Producer, Songwriter, Arranger |
+| | 24 | 17 | Arranger, Producer, Songwriter |
+| | R.Tee | 12 | Arranger, Producer, Songwriter |
+| | FINNEAS | 10 | Lyricist, Producer, Songwriter, Arranger |
+| | Josh Gudwin | 8 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 8 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 8 | Lyricist, Songwriter, Producer |
+| | Danny Chung | 8 | Lyricist |
+| | YOUNGJU BANG | 7 | Producer |
+| | Rob Kinelski | 7 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 7 | Songwriter, Producer |
+| | Jason Roberts | 7 | Producer |
+| | Jason Robert | 5 | Producer |
+| | Adam Levine | 5 | Lyricist, Songwriter |
+| | Brian Lee | 4 | Songwriter, Lyricist, Producer |
+| | RedOne | 4 | Producer, Songwriter, Arranger |
+| | 최용인 (Choi, Yon-gin) | 4 | Producer |
+| | Manny Marroquin | 4 | Producer |
+| | Vince | 3 | Arranger, Lyricist |
+| | Wayne Sermon | 3 | Songwriter |
+| | LØREN (LOREN) | 3 | Lyricist |
+| | Ben McKee | 3 | Songwriter |
+| | Robert Orton | 3 | Producer |
+| | James Valentine | 3 | Lyricist, Songwriter |
+| | Dan Reynolds | 3 | Songwriter |
+| | Jesse Carmichael | 3 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 3 | Songwriter, Lyricist |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | FUTURE BOUNCE | 2 | Arranger, Songwriter |
+| | J.LBS | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
+| | John Hanes | 2 | Producer |
+| | Tim Maxey | 2 | Producer, Songwriter |
+| | Mickey Madden | 2 | Lyricist, Songwriter |
+| | IDO | 2 | Arranger, Songwriter |
+| | OKLAMA | 2 | Producer |
+| | Dave Russell | 2 | Producer |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Sounwave | 2 | Producer, Songwriter |
+| | Doug McKean | 1 | Producer |
+| | Willy Moon | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Ari Raskin | 1 | Producer |
+| | YONGJU BANG | 1 | Producer |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Rami | 1 | Songwriter |
+| | Mattman & Robin | 1 | Producer |
+| | Jose Balaguer | 1 | Producer |
+| | Cirkut | 1 | Producer, Songwriter |
+| | KUSH | 1 | Arranger, Lyricist, Songwriter |
+| | Horace Ward | 1 | Producer |
+| | James Hunt | 1 | Producer |
+| | Lazonate Franklin | 1 | Songwriter |
+| | Akon | 1 | Songwriter |
+| | Paul Foley | 1 | Producer |
+| | Jim Adkins | 1 | Songwriter |
+| | Dominsuk | 1 | Arranger, Songwriter |
+| | Ryan Tedder | 1 | Producer, Songwriter |
+| | Sam Farrar | 1 | Lyricist, Songwriter |
+| | Daniel Platzman | 1 | Songwriter |
+| | Olle Romo | 1 | Producer |
+| | Freddy Wexler | 1 | Lyricist, Songwriter |
+| | Mattias Larsson | 1 | Songwriter |
+| | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
+| | LaShawn Daniels | 1 | Songwriter |
+| | Hans Zimmer | 1 | Arranger |
+| | Ray Charles Brown, Jr | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | YG Family | 1 | Producer |
+| | BURNS | 1 | Producer, Songwriter |
+| | Steph Jones | 1 | Lyricist |
+| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
+| | Beach Noise | 1 | Producer |
+| | Eli Heisler | 1 | Producer |
+| | Madison Love | 1 | Songwriter |
+| | Matt Dunkley | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](../../artists/maroon_5/overview.md) | 1 | Producer |
+| | Jacob Kasher | 1 | Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | Alex Oriet | 1 | Lyricist, Songwriter |
+| | Zach Lind | 1 | Songwriter |
+| | Noah Passovoy | 1 | Producer |
+| | Ammo | 1 | Producer, Songwriter |
+| | David Phelan | 1 | Lyricist, Songwriter |
+| | Sam Dew | 1 | Songwriter |
+| | Soraya LaPread | 1 | Lyricist, Songwriter |
+| | Rodney Jerkins | 1 | Producer, Songwriter |
+| | Mike Posner | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
+| | David Guetta | 1 | Songwriter |
+| | Bianca Atterberry | 1 | Lyricist, Songwriter |
+| | Leah Haywood | 1 | Songwriter |
+| | DJ Dahi | 1 | Producer |
+| | Johnny Kosich | 1 | Producer, Songwriter |
+| | Amy Allen | 1 | Songwriter |
+| | Raul Cubina | 1 | Songwriter |
+| | Matt Schaeffer | 1 | Producer, Songwriter |
+| | Mike "Handz" Donaldson | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/interscope_records/producers.png)
 ## Tracks released under Interscope Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

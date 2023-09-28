@@ -156,6 +156,95 @@ Appears as:
 
 ![Bar chart of top 20 genres](../../images/labels/universal_music_llc/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Max Martin | 6 | Producer, Songwriter |
+| | ILYA | 5 | Producer, Songwriter |
+| | Savan Kotecha | 5 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 4 | Songwriter |
+| | Serban Ghenea | 4 | Producer |
+| | John Hanes | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Songwriter, Arranger |
+| | Peter Carlsson | 3 | Producer |
+| | TBHits | 2 | Producer, Songwriter |
+| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Babyface | 2 | Producer, Songwriter |
+| | Paul Boutin | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 2 | Producer, Songwriter |
+| | 최예지 (Choi, Ye-ji) | 2 | Producer |
+| | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
+| | Shellback | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| | Sam Holland | 2 | Producer |
+| | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
+| | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
+| | Rami | 1 | Producer, Songwriter |
+| | Dennis Jenkins | 1 | Songwriter |
+| | will.b | 1 | Songwriter |
+| | MooF | 1 | Arranger, Songwriter |
+| | Randy Ellis | 1 | Arranger |
+| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce98956e2ea2db4cc017c86d" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
+| | Andrew Watt | 1 | Songwriter |
+| | Tayla Parx | 1 | Songwriter |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 1 | Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+| | 안예은 (Ahn, Ye Eun) | 1 | Arranger, Lyricist, Songwriter |
+| | Pop Time | 1 | Arranger, Songwriter |
+| | DRK | 1 | Producer |
+| | Jaycen Joshua | 1 | Producer |
+| | Carl Falk | 1 | Producer, Songwriter |
+| | FLYT | 1 | Arranger, Songwriter |
+| | ACAね (ACANE) | 1 | Lyricist, Songwriter |
+| | 신재빈 (Shin, Jae Bin) | 1 | Producer |
+| | Johan Carlsson | 1 | Songwriter |
+| | Giorgio Tuinfort | 1 | Producer, Songwriter |
+| | Jimmy Van Heusen | 1 | Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
+| | Ali Tamposi | 1 | Songwriter |
+| | David Buckley | 1 | Arranger |
+| | Ali Payami | 1 | Producer, Songwriter |
+| | Roahn Hylton | 1 | Songwriter |
+| | BreadBeat | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
+| | Peter Svensson | 1 | Songwriter |
+| | Travis Sayles | 1 | Producer, Songwriter |
+| | 라도 (Rado) | 1 | Arranger |
+| | Bill Meyers | 1 | Arranger |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | JUNE | 1 | Arranger, Songwriter |
+| | David Guetta | 1 | Songwriter |
+| | Leon Thomas | 1 | Songwriter |
+| | Alexander Kronlund | 1 | Songwriter |
+| | Rickard Göransson (Göransson, Rickard) | 1 | Producer, Songwriter |
+| | Sammy Cahn | 1 | Lyricist |
+| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| | 眞武亨 (Matake, Toru) | 1 | Producer |
+| | Jon Taylor | 1 | Producer |
+| | Ross Golan | 1 | Songwriter |
+| | Matt Squire | 1 | Producer |
+| | The Rascals | 1 | Producer |
+| | Eric Weaver | 1 | Producer |
+| | Co-sho | 1 | Lyricist |
+| | Gregg Rominiecki | 1 | Producer |
+| | Kuk Harrell | 1 | Producer |
+| | 100回嘔吐 (100kaiouto) | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/universal_music_llc/producers.png)
 ## Tracks released under Universal Music LLC
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

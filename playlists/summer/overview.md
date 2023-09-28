@@ -426,6 +426,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/summer/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Serban Ghenea | 11 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 10 | Producer |
+| | John Hanes | 9 | Producer |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 8 | Lyricist, Songwriter, Arranger, Producer |
+| | 라도 (Rado) | 8 | Arranger, Lyricist, Songwriter, Producer |
+| | Kenzie | 6 | Arranger, Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 6 | Songwriter, Lyricist, Producer |
+| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
+| | Max Martin | 5 | Producer, Songwriter |
+| | Tony Maserati | 5 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Łukasz Gottwald (Gottwald, Łukasz) | 5 | Songwriter |
+| | 전군 (Jeon Goon) | 5 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 5 | Arranger, Producer |
+| | Sam Holland | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 5 | Songwriter, Lyricist, Producer |
+| | Roy Thomas Baker | 4 | Producer |
+| | Ryan S. Jhun | 4 | Arranger, Lyricist, Songwriter |
+| | DRK | 4 | Producer |
+| | FLYT | 4 | Arranger, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 4 | Songwriter |
+| | 양영은 (Yang, Young-eun) | 4 | Producer |
+| | 조윤경 (Jo, Yoon Kyung) | 4 | Lyricist |
+| | TEDDY | 4 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 3 | Lyricist, Songwriter |
+| | Ian Kirkpatrick | 3 | Producer, Songwriter |
+| | LDN Noise | 3 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 3 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 3 | Songwriter |
+| | Brian Lee | 3 | Songwriter |
+| | Brian May | 3 | Lyricist, Songwriter, Producer, Arranger |
+| | Dr. Luke | 3 | Producer |
+| | Manny Marroquin | 3 | Producer |
+| | Emily Wright | 3 | Producer |
+| | 김철순 (Kim, Chul-Soon) | 3 | Producer |
+| | Josh Gudwin | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 3 | Producer, Songwriter |
+| | Mike Stone | 3 | Producer |
+| | 남궁진 (Nam Goong, Jin) | 3 | Producer |
+| | 이수만 (Lee, Soo-Man) | 3 | Producer |
+| | Philip Lawrence | 3 | Songwriter |
+| | Freddie Mercury | 3 | Lyricist, Songwriter |
+| | Chris Galland | 2 | Producer |
+| | Kris Fredriksson | 2 | Producer |
+| | Geoff Workman | 2 | Producer |
+| | Michael Ilbert | 2 | Producer |
+| | Lauren Dyson | 2 | Songwriter, Arranger |
+| | Phil Ramone | 2 | Producer |
+| | Greg Wells | 2 | Producer |
+| | R.Tee | 2 | Arranger, Producer, Songwriter |
+| | John Etchells | 2 | Producer |
+| | 이상엽 (Lee, Sang-yeob) | 2 | Producer |
+| | 김병석 (Kim, Byung-seok) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | danke | 2 | Lyricist, Songwriter |
+| | 방시혁 (Bang, Si-Hyuk) | 2 | Lyricist, Songwriter |
+| | Charles Moniz | 2 | Producer |
+| | Roger Taylor | 2 | Producer |
+| | Caroline Ailin | 2 | Producer, Songwriter |
+| | Yeti Beats | 2 | Producer, Songwriter |
+| | Andrew Watt | 2 | Producer, Songwriter |
+| | 유영진 (Yoo, Young-jin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | BXN | 2 | Arranger, Lyricist, Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 2 | Songwriter, Lyricist |
+| | Ellen Berg Tollbom | 2 | Songwriter |
+| | Jonathan Low | 2 | Producer |
+| | 13 | 2 | Producer |
+| | 김용운 (Gim, Yong-un) | 2 | Producer |
+| | 김영현 (Kim, Young-hyun) | 2 | Producer |
+| | Sam Lewis | 2 | Lyricist, Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 2 | Arranger, Songwriter |
+| | Jim Boyer | 2 | Producer |
+| | 고현정 (Go, Hyeon-Jeong) | 2 | Producer |
+| | Shellback | 2 | Producer, Songwriter |
+| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Hayley Aitken | 2 | Arranger, Songwriter |
+| | Frank Dukes | 2 | Producer, Songwriter |
+| | 최혜진 (Cho, Hye-jin) | 2 | Producer |
+| | Louis Bell | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | 2 | Songwriter |
+| | Kyler Niko | 2 | Lyricist, Songwriter |
+| | SCORE | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 이성호 (Lee, Sung-ho) | 2 | Producer |
+| | 24 | 2 | Arranger, Producer, Songwriter |
+| | Martin Terefe | 2 | Producer |
+| | Fuxxy | 2 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad6237fcd3ef23e6dde2c55d" alt="" width="50" /> | MIKA | 2 | Producer, Songwriter |
+| | Florence Welch | 2 | Lyricist, Songwriter |
+| | 김동현 (Kim, Dong-hyun) | 2 | Lyricist |
+| | 이태섭 (Lee, Tae-Sub) | 2 | Producer |
+| | 구혜진 (Gu, Hye-jin) | 2 | Producer |
+| | Guy-Manuel de Homem-Christo | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
+| | Paulina Cerrilla | 2 | Lyricist, Songwriter |
+| | Supreme Boi | 2 | Lyricist, Songwriter |
+| | Anna Timgren | 2 | Lyricist, Songwriter |
+| | Laura Sisk | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | [Katy Perry](../../artists/katy_perry/overview.md) | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
+| | 황민희 (Hwang, Min-hee) | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Ali Tamposi | 2 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/summer/producers.png)
 ## Years
 
 

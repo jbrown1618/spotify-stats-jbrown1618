@@ -47,6 +47,25 @@
 | Songwriter | 5 |
 | Vocal | 4 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Big Yellow Taxi | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Carey | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Free Man in Paris | Lyricist, Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](overview.md) | 5 | Lyricist, Songwriter, Producer |
+| | Ellis Sorkin | 1 | Producer |
+| | Henry Lewy | 1 | Producer |
+
+![Bar chart of top 3 producers](../../images/artists/joni_mitchell/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

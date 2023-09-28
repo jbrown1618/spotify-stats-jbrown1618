@@ -42,6 +42,45 @@ Appears as:
 
 ![Bar chart of top 3 genres](../../images/labels/wm_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
+| | Ryan S. Jhun | 3 | Arranger, Songwriter, Lyricist |
+| | Steven Lee | 2 | Arranger, Songwriter |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
+| | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | Andreas Johansson | 1 | Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Arranger, Songwriter |
+| | Caroline Gerd Gustavsson | 1 | Songwriter |
+| | AFSHEEN | 1 | Arranger, Songwriter |
+| | Shari Short | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Josh Cumbee | 1 | Arranger, Songwriter |
+| | 김미현 (Kim, Mihyun) | 1 | Lyricist |
+| | Scott Stoddart | 1 | Arranger, Lyricist, Songwriter |
+| | Joe Lawrence | 1 | Arranger, Songwriter |
+| | Laurell | 1 | Songwriter |
+| | August Vinberg | 1 | Songwriter |
+| | Anna Timgren | 1 | Lyricist, Songwriter |
+| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
+| | Par Almqvist | 1 | Arranger, Songwriter |
+| | Chloe Latimer | 1 | Arranger, Songwriter |
+| | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
+| | Josephina Carr | 1 | Songwriter |
+| | Sebastian Thott | 1 | Arranger, Songwriter |
+
+</details>
+
+
+![Bar chart of top 23 producers](../../images/labels/wm_entertainment/producers.png)
 ## Tracks released under WM Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

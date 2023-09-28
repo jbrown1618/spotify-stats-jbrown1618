@@ -58,6 +58,13 @@ HEIZE is currently:
 - [korean pop](../../genres/korean_pop/overview.md)
 - [korean r&b](../../genres/korean_r_b/overview.md)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | R.Tee | 1 | Producer |
+
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

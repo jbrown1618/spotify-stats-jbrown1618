@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | 김아중 | [🔗](https://open.spotify.com/artist/5qMkh0MtptmH5XKinOnFom) |
+| | 1 | 1 | 김아중 | [🔗](https://open.spotify.com/artist/5qMkh0MtptmH5XKinOnFom) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | 1 | 1 | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | 1 | 1 | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
@@ -292,6 +292,88 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/k_pop_adjacent/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jaycen Joshua | 2 | Producer |
+| | Manny Marroquin | 2 | Producer |
+| | Jake Torrey | 2 | Producer, Songwriter |
+| | Mark Jackson | 1 | Songwriter |
+| | Perrie Edwards | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 1 | Lyricist, Songwriter |
+| | Aaron Joseph Aguilar | 1 | Arranger |
+| | Martin Terefe | 1 | Producer |
+| | Sebastien Najand | 1 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 1 | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Brendon Williams | 1 | Lyricist, Songwriter |
+| | Ian Scott | 1 | Songwriter |
+| | Daniel James | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | Miley Cyrus | 1 | Songwriter |
+| | El Guincho | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Leigh-Anne | 1 | Songwriter |
+| | Louis Bell | 1 | Producer, Songwriter |
+| | Alexander "Scherzophrenia" Temple | 1 | Lyricist, Songwriter |
+| | Peter Kelleher | 1 | Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| | TMS | 1 | Producer |
+| | Nicky D'Silva | 1 | Producer |
+| | Tia Scola | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | Simon Clarke | 1 | Arranger |
+| | Josh Gudwin | 1 | Producer |
+| | Jesy Nelson | 1 | Songwriter |
+| | Ben Collier | 1 | Producer |
+| | Tyler Johnson | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | Bishop Briggs | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Jade Thirlwall | 1 | Songwriter |
+| | Kid Harpoon | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 1 | Songwriter |
+| | Jussifer | 1 | Producer, Songwriter |
+| | Brian Rajaratnam | 1 | Producer |
+| | Riot Games Music Team | 1 | Producer |
+| | Ryan Tedder | 1 | Songwriter |
+| | Ben Kohn | 1 | Songwriter |
+| | Kole Audio Solutions | 1 | Lyricist, Songwriter |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Iain Hill | 1 | Producer |
+| | Jason Walsh | 1 | Lyricist, Songwriter |
+| | Timothy Fagan | 1 | Songwriter |
+| | Maegan Cottone | 1 | Arranger, Producer, Songwriter |
+| | Thomas Barnes | 1 | Songwriter |
+| | Bob Gaudio | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Evelynn | 1 | Producer |
+| | Michael Pollack | 1 | Songwriter |
+| | Gregory Hein | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
+| | Oscar Free | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | Charlie Puth | 1 | Producer, Songwriter |
+| | Leah Haywood | 1 | Songwriter |
+| | Peggy Farina | 1 | Songwriter |
+| | DURO | 1 | Producer |
+| | Antón Álvarez Alfaro (Álvarez Alfaro, Antón) | 1 | Lyricist |
+| | Chris "Tek" O'Ryan | 1 | Producer |
+| | Dreamlab | 1 | Producer |
+| | Mike Elizondo | 1 | Producer |
+| | Dyre Gormsen | 1 | Producer |
+| | Frank Dukes | 1 | Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/k_pop_adjacent/producers.png)
 ## Years
 
 

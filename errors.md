@@ -420,6 +420,8 @@
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 66 |
 | BABY | Void | The Rose | 0 | 0 | 66 |
 | Sorry | Sorry | The Rose | 0 | 0 | 66 |
+| GRL GVNG | NEW DNA | XG | 0 | 0 | 68 |
+| PUPPET SHOW | NEW DNA | XG | 0 | 0 | 68 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 61 |

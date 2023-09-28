@@ -112,9 +112,83 @@
 
 ![Bar chart of top 12 record labels](../../images/genres/urban_contemporary/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/urban_contemporary/years.png)
+![Bar chart of top 30 producers](../../images/genres/urban_contemporary/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Marcos Tovar | 9 | Producer |
+| | Phil Tan | 9 | Producer |
+| | Kuk Harrell | 8 | Producer |
+| | Stargate | 6 | Producer |
+| | Tor Erik Hermansen | 6 | Songwriter |
+| | Mikkel Storleer Eriksen | 6 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 3 | Songwriter |
+| | Josh Gudwin | 2 | Producer |
+| | Sandy Wilhelm | 2 | Songwriter |
+| | Miles Walker | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Sandy Vee | 2 | Producer |
+| | Daniela Rivera | 2 | Producer |
+| | Ester Dean | 2 | Songwriter |
+| | Makeba | 2 | Producer, Songwriter |
+| | Mike Gaydusek | 1 | Producer |
+| | Shahid Khan | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
+| | Al Hemberger | 1 | Producer |
+| | Jim Jonsin | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| | Hit-Boy | 1 | Producer, Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | Robert Allen | 1 | Songwriter |
+| | Rob Swire | 1 | Producer, Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| | Justin Parker | 1 | Arranger, Producer, Songwriter |
+| | Crystal Nicole | 1 | Songwriter |
+| | Parker Ighile | 1 | Producer, Songwriter |
+| | Frank Romano | 1 | Songwriter |
+| | Elof Loelv | 1 | Producer, Songwriter |
+| | Danny Morris | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 1 | Songwriter |
+| | Frankie Storm | 1 | Songwriter |
+| | Kevin Davis | 1 | Producer |
+| | Veronika Bozeman | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo | 1 | Producer, Songwriter |
+| | Andre Merritt | 1 | Songwriter |
+| | Andrew Vastola | 1 | Producer |
+| | Nathan Cassells | 1 | Producer, Songwriter |
+| | Cirkut | 1 | Songwriter |
+| | Happy Perez | 1 | Songwriter |
+| | Fred Ball | 1 | Producer, Songwriter |
+| | Naughty Boy | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | Miguel | 1 | Songwriter |
+| | Dallas Austin | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | USHER | 1 | Songwriter |
+| | Skylar Mones | 1 | Producer |
+| | Livvi Franc | 1 | Songwriter |
+| | Brian Kennedy | 1 | Producer, Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Josh Houghkirk | 1 | Producer |
+| | Alju Jackson | 1 | Songwriter |
+| | Emeli Sandé (Sandé, Emeli) | 1 | Songwriter |
+| | Rico Love | 1 | Songwriter |
+| | Joseph Angel | 1 | Arranger, Songwriter |
+| | Theron Thomas | 1 | Songwriter |
+| | Priscilla Renea | 1 | Songwriter |
+| | Timothy Thomas | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko | 1 | Arranger, Producer, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -128,3 +202,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | All I Want Is You (2010-11-26) | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | In My Own Words (2006-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | Loud (2010-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Cassie (U.S. Version) (2006-08-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="Raymond v Raymond (Expanded Edition)" width="50" /> | Raymond v Raymond (Expanded Edition) (2010-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
+
+![Bar chart of number of songs by year](../../images/genres/urban_contemporary/years.png)

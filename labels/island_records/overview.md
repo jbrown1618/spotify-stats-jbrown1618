@@ -70,6 +70,33 @@ Appears as:
 
 ![Bar chart of top 15 genres](../../images/labels/island_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mark Jackson | 1 | Songwriter |
+| | Drew Ramsey | 1 | Producer |
+| | Scott Harris | 1 | Songwriter |
+| | Marshall Altman | 1 | Arranger, Producer |
+| | Shannon Sanders | 1 | Producer |
+| | Geoff Warburton | 1 | Songwriter |
+| | Ian Scott | 1 | Songwriter |
+| | Joe Zook | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| | Teddy Geiger | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | Bishop Briggs | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 11 producers](../../images/labels/island_records/producers.png)
 ## Tracks released under Island Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

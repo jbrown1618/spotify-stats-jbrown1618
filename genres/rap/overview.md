@@ -187,9 +187,123 @@
 
 ![Bar chart of top 30 record labels](../../images/genres/rap/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/rap/years.png)
+![Bar chart of top 30 producers](../../images/genres/rap/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem | 4 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 3 | Songwriter |
+| | Mike Strange | 3 | Producer |
+| | Mike Dean | 3 | Producer, Arranger |
+| | OKLAMA | 2 | Producer |
+| | Tim Maxey | 2 | Producer, Songwriter |
+| | Manny Marroquin | 2 | Producer |
+| | Anthony Kilhoffer | 2 | Producer |
+| | Jordan Thorpe | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter, Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West | 2 | Producer, Songwriter |
+| | J.LBS | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | 2 | Songwriter |
+| | Andrew Dawson | 2 | Producer |
+| | Shawn "Source" Jarrett | 2 | Producer |
+| | Marcos Tovar | 2 | Producer |
+| | Sounwave | 2 | Producer, Songwriter |
+| | Johnathan Turner | 1 | Producer |
+| | Evan LaRay | 1 | Producer |
+| | Luis Resto | 1 | Producer, Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | Kane Beatz | 1 | Producer, Songwriter |
+| | James Foye III | 1 | Songwriter |
+| | Leslie Brathwaite | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
+| | JMIKE | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb36823ee68bf29bd676f55e7" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
+| | Brent Kolatalo | 1 | Producer |
+| | Stephen Kozmeniuk | 1 | Songwriter |
+| | Jeff Bhasker | 1 | Producer, Songwriter |
+| | Ariel Chobaz | 1 | Producer |
+| | Doc Ish | 1 | Producer |
+| | Timothy Thomas | 1 | Songwriter |
+| | Ray McCullough | 1 | Songwriter |
+| | Clarence Coffee Jr. | 1 | Songwriter |
+| | Jeremy Reeves | 1 | Songwriter |
+| | Tim Gomringer | 1 | Songwriter |
+| | Ray Romulus | 1 | Songwriter |
+| | Jamal Jones | 1 | Songwriter |
+| | KOZ | 1 | Producer |
+| | Tony Rey | 1 | Producer |
+| | The Stereotypes | 1 | Producer |
+| | Mauricio "Veto" Iragorri | 1 | Producer |
+| | Lido | 1 | Producer |
+| | Danny Morris | 1 | Songwriter |
+| | Frank Romano | 1 | Songwriter |
+| | Kid Cudi | 1 | Songwriter |
+| | Rob Bisel | 1 | Songwriter |
+| | Beach Noise | 1 | Producer |
+| | Southside | 1 | Producer, Songwriter |
+| | Frank Ski | 1 | Songwriter |
+| | Platinum Library | 1 | Producer |
+| | Jacob Kasher | 1 | Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | Christoph Andersson | 1 | Producer, Songwriter |
+| | CuBeatz | 1 | Producer |
+| | Jim Jonsin | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
+| | Frequency | 1 | Producer, Songwriter |
+| | Ayo the Producer | 1 | Producer, Songwriter |
+| | Skylar Grey | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | J. Cole | 1 | Producer |
+| | Theron Thomas | 1 | Songwriter |
+| | Romano | 1 | Producer |
+| | Mark Shick | 1 | Producer |
+| | Rico Love | 1 | Songwriter |
+| | Steve King | 1 | Producer |
+| | Ken Lewis | 1 | Arranger |
+| | Jon Bellion | 1 | Songwriter |
+| | DJ Toomp | 1 | Producer |
+| | Kevin Gomringer | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | 1 | Songwriter |
+| | Carter Lang | 1 | Songwriter |
+| | Nija | 1 | Songwriter |
+| | Thomas Barnes | 1 | Songwriter |
+| | Fergie | 1 | Songwriter |
+| | Jeff Bass | 1 | Producer, Songwriter |
+| | Aldrin Davis | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
+| | Tommy Danvers | 1 | Producer |
+| | Ernest Clark | 1 | Songwriter |
+| | James Hunt | 1 | Producer |
+| | Marcos Palacios | 1 | Songwriter |
+| | Jonathan Yip | 1 | Songwriter |
+| | Cirkut | 1 | Songwriter |
+| | Alex da Kid | 1 | Producer, Songwriter |
+| | Ben Kohn | 1 | Songwriter |
+| | Sarah Hudson | 1 | Songwriter |
+| | Ester Dean | 1 | Songwriter |
+| | Ray Charles Brown, Jr | 1 | Producer |
+| <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 1 | Songwriter |
+| | Noah Goldstein | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | USHER | 1 | Songwriter |
+| | Drumma Boy | 1 | Producer |
+| | Aalias | 1 | Songwriter |
+| | Duval Timothy | 1 | Producer, Songwriter |
+| | Peter Kelleher | 1 | Songwriter |
+| | Peder Losnegård (Losnegård, Peder) | 1 | Lyricist, Songwriter |
+| | Lauren Christy | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -203,3 +317,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | The Blueprint 3 (2009-09-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Meet The Woo (2019-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="Pink Friday" width="50" /> | Pink Friday (2010-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/rap/years.png)

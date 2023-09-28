@@ -76,6 +76,47 @@ HWASA:
 | Songwriter | 1 |
 | Vocal | 2 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](overview.md) | 2 | Lyricist, Songwriter |
+| | 박우상 (Park, Woo-sang) | 2 | Producer, Arranger, Lyricist |
+| | Sarah Hudson | 1 | Songwriter |
+| | Jason Evigan | 1 | Songwriter |
+| | Gustav Landell | 1 | Arranger, Lyricist, Songwriter |
+| | Steve Wittmack | 1 | Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | 유건형 (Yoo, Keon-Hyung) | 1 | Arranger |
+| | Clarence Coffee Jr. | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Peggy March | 1 | Songwriter |
+| | 해다영 (Hae, Da-young) | 1 | Lyricist |
+| | 이기호 (Lee, Ki-ho) | 1 | Producer |
+| | Musikality | 1 | Arranger, Lyricist, Songwriter |
+| | Simon Jonasson | 1 | Arranger, Lyricist, Songwriter |
+| | 오동식 (Oh Dong-sik) | 1 | Lyricist |
+| | Kristin Carpenter | 1 | Arranger, Lyricist, Songwriter |
+| | Michael Bradley | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/artists/hwasa/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

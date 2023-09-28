@@ -140,9 +140,101 @@
 
 ![Bar chart of top 17 record labels](../../images/genres/mellow_gold/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/mellow_gold/years.png)
+![Bar chart of top 30 producers](../../images/genres/mellow_gold/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Roy Halee | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Ted Brosnan | 2 | Producer |
+| | Ron Malo | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Bernie Taupin | 2 | Lyricist |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | Mick Jones | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Michael Omartian | 2 | Arranger |
+| | Barry Mraz | 2 | Producer |
+| | Don Puluse | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
+| | Michael Stewart | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | Aynsley Dunbar | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Jeff Glixman | 1 | Producer |
+| | Ian McDonald | 1 | Producer |
+| | Bruce Botnick | 1 | Producer |
+| | Jim Ed Norman | 1 | Arranger |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Liberty DeVitto | 1 | Arranger |
+| | John Sinclair | 1 | Producer |
+| | Lewis Merenstein | 1 | Producer |
+| | Jimmy Douglass | 1 | Producer |
+| | Don Henley | 1 | Songwriter |
+| | Gus Dudgeon | 1 | Producer |
+| | Glyn Johns | 1 | Producer |
+| | James Anthony Carmichael | 1 | Producer |
+| | David Hentschel | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Steve Perry | 1 | Songwriter |
+| | Glenn Frey | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Elliot Scheiner | 1 | Producer |
+| | John Bradley | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Ross Valory | 1 | Producer |
+| | Eddie Curtis | 1 | Songwriter |
+| | Kevin Herron | 1 | Producer |
+| | Gary Lyons | 1 | Producer |
+| | Lou Gramm | 1 | Songwriter |
+| | Randy Mason | 1 | Producer |
+| | Steve Boyer | 1 | Producer |
+| | Ed Walsh | 1 | Producer |
+| | Del Newman | 1 | Arranger |
+| | Lou Waxman | 1 | Producer |
+| | Brian Ross-Myring | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | Gregg Rolie | 1 | Producer |
+| | Kenny Ascher | 1 | Arranger |
+| | James William Guercio | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
+| | Lionel Richie | 1 | Lyricist, Songwriter |
+| | Geoff Workman | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Danny Kortchmar | 1 | Producer |
+| | Michael Getlin | 1 | Producer |
+| | Niko Bolas | 1 | Producer |
+| | Roy Thomas Baker | 1 | Producer |
+| | Neal Schon | 1 | Producer, Songwriter |
+| | Sandra Campbell Chapin | 1 | Songwriter |
+| | Tom Wilson | 1 | Producer |
+| | Brooks Arthur | 1 | Producer |
+| | Chris Hinshaw | 1 | Producer |
+| | Kerry Livgren | 1 | Lyricist, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -156,3 +248,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> | Moondance (Deluxe Edition) (1970-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Elton John (1970-04-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
+
+![Bar chart of number of songs by year](../../images/genres/mellow_gold/years.png)

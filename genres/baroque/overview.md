@@ -70,8 +70,6 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/baroque/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) (1983) |
@@ -80,3 +78,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="Bach, J.S.: Brandenburg Concertos etc." width="50" /> | Bach, J.S.: Brandenburg Concertos etc. (1995-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell: Anthems &amp; Sacred Songs" width="50" /> | Purcell: Anthems & Sacred Songs (2003-08-29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Allegri - Miserere (1994-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="Bach: Unaccompanied Cello Suites (Remastered)" width="50" /> | Bach: Unaccompanied Cello Suites (Remastered) (1983) | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/baroque/years.png)

@@ -57,6 +57,37 @@ BABYMETAL is currently:
 | | MOAMETAL | SU-METAL | YUIMETAL |
 |:---|---:|---:|---:|
 | Vocal | 6 | 7 | 4 |
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | KOBAMETAL | 7 | Producer |
+| | WATAMETAL | 4 | Producer |
+| | 渡辺未来 (Watanabe, Miki) | 3 | Lyricist |
+| | ゆよゆっぺ (Yuyoyuppe) | 3 | Arranger, Producer, Songwriter, Lyricist |
+| | KxBxMETAL | 2 | Lyricist |
+| | Adrian Breakspear | 2 | Producer |
+| | NORiMETAL | 1 | Lyricist, Songwriter |
+| | 上田剛士 (Ueda, Takeshi) | 1 | Arranger, Songwriter |
+| | NAKAMETAL | 1 | Lyricist |
+| | NARASAKI | 1 | Arranger, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | MUKTI-METAL | 1 | Songwriter |
+| | MEG | 1 | Arranger, Producer, Songwriter |
+| | EDOMETAL | 1 | Lyricist |
+| | Jens Bogren | 1 | Producer |
+| | KYOTO | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 15 producers](../../images/artists/babymetal/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

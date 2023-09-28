@@ -39,7 +39,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bd2ada8cc664dde48c07145" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
+| | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
 
 </details>
 
@@ -131,6 +131,40 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/legacy/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ross Valory | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | Aynsley Dunbar | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 1 | Lyricist, Producer, Songwriter |
+| | Bruce Swedien | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+| | Jeff Glixman | 1 | Producer |
+| | Jerry Hey | 1 | Arranger |
+| | Steve Perry | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Brooks Arthur | 1 | Producer |
+| | Neal Schon | 1 | Producer, Songwriter |
+| | Quincy Jones | 1 | Producer |
+| | Roy Thomas Baker | 1 | Producer |
+| | Geoff Workman | 1 | Producer |
+| | Gregg Rolie | 1 | Producer |
+| | Kerry Livgren | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/labels/legacy/producers.png)
 ## Tracks released under Legacy
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

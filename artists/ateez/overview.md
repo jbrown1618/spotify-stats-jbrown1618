@@ -84,6 +84,44 @@ ATEEZ is currently:
 |:---|---:|---:|
 | Lyricist | 2 | 2 |
 | Songwriter | 1 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | 김홍중 (Kim, Hong Joong), 송민기 (Song, Mingi) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | Deja Vu | 김홍중 (Kim, Hong Joong), 송민기 (Song, Mingi) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | 김홍중 (Kim, Hong Joong), 송민기 (Song, Mingi) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | EDEN | 3 | Arranger, Songwriter, Lyricist |
+| | Ollounder | 3 | Arranger, Songwriter, Lyricist |
+| | 김홍중 (Kim, Hong Joong) | 3 | Songwriter, Lyricist |
+| | 송민기 (Song, Mingi) | 3 | Songwriter, Lyricist |
+| | 정은경 (Jung, Eun-Kyung) | 3 | Producer |
+| | LEEZ | 3 | Arranger, Songwriter, Lyricist |
+| | BUDDY | 2 | Arranger, Songwriter, Lyricist |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | Peperoni | 1 | Arranger, Songwriter |
+| | 김수정 (김수정) | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Maddox | 1 | Arranger, Lyricist, Songwriter |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | Tom Norris | 1 | Producer |
+| | Oliv | 1 | Arranger, Songwriter |
+
+</details>
+
+
+![Bar chart of top 14 producers](../../images/artists/ateez/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

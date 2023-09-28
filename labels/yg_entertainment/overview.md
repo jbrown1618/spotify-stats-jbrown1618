@@ -124,6 +124,85 @@ Appears as:
 
 ![Bar chart of top 8 genres](../../images/labels/yg_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | TEDDY | 27 | Lyricist, Producer, Songwriter, Arranger |
+| | 24 | 17 | Arranger, Producer, Songwriter |
+| | R.Tee | 14 | Arranger, Producer, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 10 | Lyricist, Songwriter |
+| | Danny Chung | 8 | Lyricist |
+| | YOUNGJU BANG | 7 | Producer |
+| | Josh Gudwin | 7 | Producer |
+| | Jason Roberts | 7 | Producer |
+| | Jason Robert | 5 | Producer |
+| | FUTURE BOUNCE | 4 | Arranger, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 최용인 (Choi, Yon-gin) | 4 | Producer |
+| | Brian Lee | 4 | Songwriter, Lyricist, Producer |
+| | Vince | 3 | Arranger, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 3 | Songwriter, Lyricist |
+| | LØREN (LOREN) | 3 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 3 | Lyricist, Songwriter |
+| | T.O.P | 2 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
+| | Choice37 | 2 | Lyricist, Arranger, Songwriter |
+| | Tablo | 2 | Lyricist, Songwriter |
+| | IDO | 2 | Arranger, Songwriter |
+| | 현석 (Hyunsuk) | 1 | Lyricist |
+| | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
+| | KUSH | 1 | Arranger, Lyricist, Songwriter |
+| | NOHC | 1 | Arranger |
+| | Brother Su | 1 | Lyricist |
+| | YONGJU BANG | 1 | Producer |
+| | Willy Moon | 1 | Lyricist, Songwriter |
+| | Max Wolfgang | 1 | Lyricist, Songwriter |
+| | Dominsuk | 1 | Arranger, Songwriter |
+| | Alex Oriet | 1 | Lyricist, Songwriter |
+| | かねもと よしのり (Kanemoto Yoshinori) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | TAEYANG | 1 | Songwriter |
+| | Steph Jones | 1 | Lyricist |
+| | YG Family | 1 | Producer |
+| | Jose Balaguer | 1 | Producer |
+| | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
+| | David Phelan | 1 | Lyricist, Songwriter |
+| | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
+| | David Guetta | 1 | Songwriter |
+| | Bianca Atterberry | 1 | Lyricist, Songwriter |
+| | Lydia Paek | 1 | Songwriter |
+| | Chloe George | 1 | Lyricist |
+| | Paro | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | Dok2 | 1 | Lyricist |
+| | Raul Cubina | 1 | Songwriter |
+| | Amy Allen | 1 | Songwriter |
+| | Leah Haywood | 1 | Songwriter |
+| | JONGHYUN | 1 | Lyricist, Songwriter |
+| | 안신애 (Wheeler, Shinae An) | 1 | Lyricist, Songwriter |
+| | Soraya LaPread | 1 | Lyricist, Songwriter |
+| | Jon Bellion | 1 | Producer, Songwriter |
+| | Ojivolta | 1 | Producer |
+| | Jorgen Odegard | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
+| | VVN | 1 | Lyricist, Songwriter |
+| | Teddy Sinclair | 1 | Lyricist, Songwriter |
+| | Nat Dunn | 1 | Lyricist, Songwriter |
+| | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
+| | J. Lauryn | 1 | Songwriter |
+| | 위프리키 (Wipeuriki) | 1 | Songwriter |
+| | Freddy Wexler | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/yg_entertainment/producers.png)
 ## Tracks released under YG Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

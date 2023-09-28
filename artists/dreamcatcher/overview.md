@@ -74,6 +74,47 @@ Dreamcatcher is currently:
 |:---|---:|---:|---:|---:|---:|---:|---:|
 | Lyricist | 2 | 0 | 0 | 2 | 2 | 0 | 1 |
 | Vocal | 8 | 8 | 4 | 8 | 10 | 8 | 9 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Black Or White | SIYEON, JI U, DAMI | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Jazz Bar | SIYEON, YOOHYEON, JI U, DAMI | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ollounder | 11 | Arranger, Lyricist, Songwriter |
+| | LEEZ | 11 | Arranger, Lyricist, Songwriter, Producer |
+| | 김석민 (Kim Seog-min) | 9 | Producer |
+| | 정창현 (Jung, Chang-hyun) | 6 | Producer |
+| | 주선교 (주선교) | 2 | Producer |
+| | JI U | 2 | Lyricist |
+| | SIYEON | 2 | Lyricist |
+| | 김준혁 (Kim Joonhyuk) | 2 | Songwriter, Lyricist, Producer |
+| | 김보은 (Kim, Bo-eun) | 2 | Lyricist |
+| | DAMI | 2 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 주상경 (Ju, Sang-kyung) | 1 | Producer |
+| | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
+| | YOOHYEON | 1 | Lyricist |
+| | 김준원 (Kim, June-One) | 1 | Arranger, Songwriter |
+| | 전지은 (Jeon Ji-eun) | 1 | Lyricist |
+| | 0to1 | 1 | Songwriter |
+| | Maddox | 1 | Lyricist |
+| | 김정미 (Kim Jung-mi) | 1 | Lyricist |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/artists/dreamcatcher/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

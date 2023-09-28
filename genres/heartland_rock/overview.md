@@ -112,9 +112,85 @@
 
 ![Bar chart of top 12 record labels](../../images/genres/heartland_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/heartland_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/heartland_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Phil Ramone | 9 | Producer |
+| | Jim Boyer | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Mick Jones | 2 | Producer, Songwriter |
+| | Ron Malo | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Michael Stewart | 2 | Producer |
+| | Jim Ed Norman | 1 | Arranger |
+| | Ian McDonald | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Liberty DeVitto | 1 | Arranger |
+| | Jeff Glixman | 1 | Producer |
+| | John Sinclair | 1 | Producer |
+| | Steve Perry | 1 | Songwriter |
+| | Elliot Scheiner | 1 | Producer |
+| | Glyn Johns | 1 | Producer |
+| | Otis Redding | 1 | Songwriter |
+| | George Drakoulias | 1 | Producer |
+| | Rick Rubin | 1 | Producer |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Glenn Frey | 1 | Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Don Henley | 1 | Songwriter |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Alvertis Isbell | 1 | Songwriter |
+| | Lewis Merenstein | 1 | Producer |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Bruce Botnick | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| | Aynsley Dunbar | 1 | Producer |
+| | Steve Miller | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Kenny Ascher | 1 | Arranger |
+| | Brooks Arthur | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Ross Valory | 1 | Producer |
+| | Eddie Curtis | 1 | Songwriter |
+| | Kevin Herron | 1 | Producer |
+| | Gary Lyons | 1 | Producer |
+| | Lou Gramm | 1 | Songwriter |
+| | Randy Mason | 1 | Producer |
+| | Steve Boyer | 1 | Producer |
+| | Lou Waxman | 1 | Producer |
+| | Don Puluse | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | Brendan O'Brien | 1 | Producer |
+| | John Bradley | 1 | Producer |
+| | Gregg Rolie | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
+| | Geoff Workman | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Danny Kortchmar | 1 | Producer |
+| | Michael Getlin | 1 | Producer |
+| | Niko Bolas | 1 | Producer |
+| | Roy Thomas Baker | 1 | Producer |
+| | Neal Schon | 1 | Producer, Songwriter |
+| | Sandra Campbell Chapin | 1 | Songwriter |
+| | Allen Jones | 1 | Songwriter |
+| | Kerry Livgren | 1 | Lyricist, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -128,3 +204,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado (2013 Remaster) (1973-04-17) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | The Nylon Curtain (1982-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (1973-11-09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="Escape (Bonus Track Version)" width="50" /> | Escape (Bonus Track Version) (1981) | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="Verities &amp; Balderdash" width="50" /> | Verities & Balderdash (1974) |
+
+![Bar chart of number of songs by year](../../images/genres/heartland_rock/years.png)

@@ -79,8 +79,6 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/late_romantic_era/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia (2018-07-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | Tchaikovsky: Swan Lake (1976-01-01) |
@@ -92,3 +90,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Brahms: String Quartets & Piano Quintet (2007-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Mussorgsky: Pictures At An Exhibition (2016-12-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor &amp; Motets" width="50" /> | Bruckner: Mass in E Minor & Motets (2002) | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="Dvorak: String Quintet, Op. 97 &amp; String Sextet, Op. 48" width="50" /> | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 (2018-01-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | Tchaikovsky: Swan Lake (1976-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia (2018-07-06) |
+
+![Bar chart of number of songs by year](../../images/genres/late_romantic_era/years.png)

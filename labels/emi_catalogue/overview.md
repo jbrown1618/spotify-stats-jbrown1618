@@ -59,6 +59,37 @@ Appears as:
 
 ![Bar chart of top 6 genres](../../images/labels/emi_catalogue/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 21 | Producer, Arranger |
+| | John Lennon | 19 | Songwriter |
+| | Paul McCartney | 19 | Songwriter |
+| | Geoff Emerick | 10 | Producer |
+| | Phil McDonald | 8 | Producer |
+| | Norman Smith | 4 | Producer |
+| | Glyn Johns | 4 | Producer |
+| | Chris Thomas | 3 | Producer |
+| | Ken Scott | 3 | Producer |
+| | Barry Sheffield | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Jeff Jarratt | 2 | Producer |
+| | Phil Spector | 2 | Producer |
+| | John Mills | 1 | Arranger |
+| | Ron Pender | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 15 producers](../../images/labels/emi_catalogue/producers.png)
 ## Tracks released under EMI Catalogue
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

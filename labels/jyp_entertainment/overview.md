@@ -95,6 +95,38 @@ Appears as:
 
 ![Bar chart of top 5 genres](../../images/labels/jyp_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 2 | Arranger, Lyricist, Songwriter |
+| | Gavin Jones | 1 | Songwriter |
+| | Chizzy | 1 | Songwriter |
+| | Jay Dmuchowski | 1 | Songwriter |
+| | Ludwig Lindell | 1 | Songwriter |
+| | C. Minor | 1 | Songwriter |
+| | PENOMECO | 1 | Lyricist |
+| | Carlos Battey | 1 | Songwriter |
+| | Lauren Dyson | 1 | Songwriter |
+| | Ashley Alisha | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 이해솔 (Lee, Hae Sol) | 1 | Arranger |
+| | Steven Battey | 1 | Songwriter |
+| | Daniel Mikael Caesar | 1 | Songwriter |
+| | Cameron Neilson | 1 | Songwriter |
+| | Ellen Berg Tollbom | 1 | Songwriter |
+| | Cazzi Opeia | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 16 producers](../../images/labels/jyp_entertainment/producers.png)
 ## Tracks released under JYP Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

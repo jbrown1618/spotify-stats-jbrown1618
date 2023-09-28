@@ -115,9 +115,79 @@
 
 ![Bar chart of top 18 record labels](../../images/genres/canadian_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/canadian_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/canadian_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Alan Chang | 3 | Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_/overview.md) | 3 | Songwriter, Arranger |
+| | David Foster | 3 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 3 | Producer, Songwriter |
+| | Amy Foster-Gillies | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 3 | Songwriter |
+| | Humberto Gatica | 3 | Producer |
+| | Neil Devor | 2 | Producer |
+| | Jochem van der Saag | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Serban Ghenea | 2 | Producer |
+| | Bob Rock | 2 | Producer, Arranger |
+| | Alejandro Rodríguez (Rodríguez, Alejandro) | 2 | Producer |
+| | Josh Gudwin | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+| | Tom Lord-Alge | 1 | Producer |
+| | Teddy Geiger | 1 | Songwriter |
+| | John Hanes | 1 | Producer |
+| | Cashmere Cat | 1 | Producer, Songwriter |
+| | Lou Pomanti | 1 | Arranger |
+| | Anthony Newley | 1 | Songwriter |
+| | DaHeala | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | David Schiffman | 1 | Producer |
+| | Ted Blaisdell | 1 | Producer |
+| | Ed Sheeran | 1 | Songwriter |
+| | Tia Scola | 1 | Songwriter |
+| | Jimmy Boyelle | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Producer, Songwriter |
+| | Shin Kamiyama | 1 | Producer |
+| | Andrew Watt | 1 | Producer, Songwriter |
+| | Daniel James | 1 | Producer, Songwriter |
+| | Glen Ballard | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 1 | Songwriter |
+| | Ali Tamposi | 1 | Songwriter |
+| | FINNEAS | 1 | Producer, Songwriter |
+| | Leslie Bricusse | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Zubin Thakkar | 1 | Producer |
+| | Butch Walker | 1 | Producer, Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Jack Patterson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| | Leah Haywood | 1 | Songwriter |
+| | Geoff Warburton | 1 | Songwriter |
+| | Scott Harris | 1 | Songwriter |
+| | Jake Torrey | 1 | Producer, Songwriter |
+| | Nathaniel Alford | 1 | Producer |
+| | Chris "Tek" O'Ryan | 1 | Producer |
+| | Max Martin | 1 | Producer, Songwriter |
+| | Dreamlab | 1 | Producer |
+| | Chris Fogel | 1 | Producer |
+| | Don Sebesky | 1 | Arranger |
+| | William Ross | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | Avril Lavigne | 1 | Songwriter |
+| | Belly | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -131,3 +201,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="Illuminate (Deluxe)" width="50" /> | Illuminate (Deluxe) (2017-04-20) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | Starboy (2016-11-25) | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Crazy Love (2009-10-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b2730315efc555d5a157b0392652" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | Under The Mistletoe (Deluxe Edition) (2011-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/canadian_pop/years.png)

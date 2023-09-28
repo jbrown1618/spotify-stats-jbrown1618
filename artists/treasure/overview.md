@@ -73,6 +73,23 @@ TREASURE is currently:
 | | かねもと よしのり (Kanemoto Yoshinori) | 春虎 (Watanabe, Haruto) | 현석 (Hyunsuk) |
 |:---|---:|---:|---:|
 | Lyricist | 1 | 1 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | I LOVE YOU | 春虎 (Watanabe, Haruto), 현석 (Hyunsuk), かねもと よしのり (Kanemoto Yoshinori) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
+| | 현석 (Hyunsuk) | 1 | Lyricist |
+| | R.Tee | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
+| | かねもと よしのり (Kanemoto Yoshinori) | 1 | Lyricist |
+
+![Bar chart of top 5 producers](../../images/artists/treasure/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -250,6 +250,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/hip_hop/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem | 4 | Producer, Songwriter |
+| | Manny Marroquin | 3 | Producer |
+| | Mike Strange | 3 | Producer |
+| <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 2 | Songwriter |
+| | Tim Maxey | 2 | Producer, Songwriter |
+| | Anthony Kilhoffer | 2 | Producer |
+| | OKLAMA | 2 | Producer |
+| | Andrew Dawson | 2 | Producer |
+| | Sounwave | 2 | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Marcos Tovar | 2 | Producer |
+| | Mike Dean | 2 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 2 | Songwriter |
+| | Jordan Thorpe | 2 | Songwriter |
+| | J.LBS | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West | 2 | Producer, Songwriter |
+| | Jeff Bass | 1 | Producer, Songwriter |
+| | Jeff Bhasker | 1 | Producer, Songwriter |
+| | Luis Resto | 1 | Producer, Songwriter |
+| | Kane Beatz | 1 | Producer, Songwriter |
+| | Leslie Brathwaite | 1 | Producer |
+| | Ray Charles Brown, Jr | 1 | Producer |
+| | Billy Hume | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | Lil Jon | 1 | Lyricist, Producer, Songwriter |
+| | Taboo | 1 | Songwriter |
+| | JMIKE | 1 | Producer, Songwriter |
+| | Brent Kolatalo | 1 | Producer |
+| | Ariel Chobaz | 1 | Producer |
+| | Printz Board | 1 | Songwriter |
+| | Rian Lewis | 1 | Producer |
+| | Doc Ish | 1 | Producer |
+| | Ester Dean | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb36823ee68bf29bd676f55e7" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
+| | Johnathan Turner | 1 | Producer |
+| | Alex da Kid | 1 | Producer, Songwriter |
+| | Evan LaRay | 1 | Producer |
+| | Marcos Palacios | 1 | Songwriter |
+| | James Foye III | 1 | Songwriter |
+| | Ron Fair | 1 | Arranger, Producer |
+| | Tim Gomringer | 1 | Songwriter |
+| | Karl Rubin | 1 | Songwriter |
+| | Frank Ski | 1 | Songwriter |
+| | Imad Royal | 1 | Producer, Songwriter |
+| | Jamal Jones | 1 | Songwriter |
+| | Tony Rey | 1 | Producer |
+| | Mauricio "Veto" Iragorri | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
+| | Ray Seay | 1 | Producer |
+| | Isaac Earl Bynum | 1 | Songwriter |
+| | Kid Cudi | 1 | Songwriter |
+| | Beach Noise | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| | Southside | 1 | Producer, Songwriter |
+| | will.i.am | 1 | Producer, Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | Big Sam | 1 | Lyricist |
+| | CuBeatz | 1 | Producer |
+| | Jean-Baptiste Kouame | 1 | Songwriter |
+| | Tal Herzberg | 1 | Producer |
+| | Frequency | 1 | Producer, Songwriter |
+| | Ayo the Producer | 1 | Producer, Songwriter |
+| | Shawn "Source" Jarrett | 1 | Producer |
+| | Skylar Grey | 1 | Songwriter |
+| | Bryce Bordone | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | J. Cole | 1 | Producer |
+| | Fergie | 1 | Songwriter |
+| | Mike Fratantuno | 1 | Songwriter |
+| | Ernest Clark | 1 | Songwriter |
+| | Tommy Danvers | 1 | Producer |
+| | DJ Dahi | 1 | Producer |
+| | Johnny Kosich | 1 | Producer, Songwriter |
+| | J. Curtis | 1 | Songwriter |
+| | Matt Schaeffer | 1 | Producer, Songwriter |
+| | Hal David | 1 | Songwriter |
+| | Taj Tilghman | 1 | Producer |
+| | Jake Kosich | 1 | Songwriter |
+| | George Pajon, Jr. | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar | 1 | Songwriter |
+| | Drumma Boy | 1 | Producer |
+| | Sky Adams | 1 | Producer, Songwriter |
+| | Aldrin Davis | 1 | Songwriter |
+| | Noah Goldstein | 1 | Producer |
+| | Steve King | 1 | Producer |
+| | Ken Lewis | 1 | Arranger |
+| | Jon Bellion | 1 | Songwriter |
+| | DJ Toomp | 1 | Producer |
+| | Kevin Gomringer | 1 | Songwriter |
+| | Burt Bacharach | 1 | Songwriter |
+| | Keyz | 1 | Producer |
+| | Jonathan Solone-Myvett | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef" alt="" width="50" /> | Justin Timberlake | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | Ashnikko | 1 | Songwriter |
+| | Dylan Dresdow | 1 | Producer |
+| | De'Angelo Holmes | 1 | Lyricist |
+| | Duval Timothy | 1 | Producer, Songwriter |
+| | Tony Maserati | 1 | Producer |
+| | Eric Jackson | 1 | Lyricist |
+| | Ryan Buendia | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/hip_hop/producers.png)
 ## Years
 
 

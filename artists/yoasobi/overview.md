@@ -64,6 +64,23 @@ YOASOBI is currently:
 | Instrument | 2 | 0 |
 | Lyricist | 0 | 3 |
 | Songwriter | 0 | 3 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物 | Ayase | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="" width="50" /> | アイドル | Ayase | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ayase | 2 | Lyricist, Songwriter |
+| | 斎藤孝之 (Saito, Takayuki) | 1 | Producer |
+| | Konnie Aoki | 1 | Lyricist |
+| | 福井昌彦 (Fukui, Masahiko) | 1 | Producer |
+
+![Bar chart of top 4 producers](../../images/artists/yoasobi/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

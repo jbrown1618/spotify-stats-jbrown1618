@@ -70,9 +70,45 @@
 
 ![Bar chart of top 6 record labels](../../images/genres/psychedelic_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/psychedelic_rock/years.png)
+![Bar chart of top 22 producers](../../images/genres/psychedelic_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | Paul McCartney | 20 | Songwriter |
+| | John Lennon | 20 | Songwriter |
+| | Geoff Emerick | 10 | Producer |
+| | Phil McDonald | 8 | Producer |
+| | Norman Smith | 6 | Producer |
+| | Chris Thomas | 5 | Producer |
+| | Glyn Johns | 4 | Producer |
+| | Ken Scott | 3 | Producer |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Barry Sheffield | 2 | Producer |
+| | Jeff Jarratt | 2 | Producer |
+| | Alan Parsons | 2 | Producer |
+| | Phil Spector | 2 | Producer |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Peter Bown | 1 | Producer |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Ron Pender | 1 | Producer |
+| | David Gilmour | 1 | Songwriter |
+| | John Mills | 1 | Arranger |
+| | Richard Wright | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -86,3 +122,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | Abbey Road (Remastered) (1969-09-26) | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | Sgt. Pepper's Lonely Hearts Club Band (Remastered) (1967-06-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d283808926ad3d2220e63c1c" alt="Yellow Submarine (Remastered)" width="50" /> | Yellow Submarine (Remastered) (1969-01-17) | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="Magical Mystery Tour (Remastered)" width="50" /> | Magical Mystery Tour (Remastered) (1967-11-27) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="The Beatles (Remastered)" width="50" /> | The Beatles (Remastered) (1968-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | The Birds, The Bees, & The Monkees (1968-04-22) |
+
+![Bar chart of number of songs by year](../../images/genres/psychedelic_rock/years.png)

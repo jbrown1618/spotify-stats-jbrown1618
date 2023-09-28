@@ -113,9 +113,38 @@
 
 ![Bar chart of top 11 record labels](../../images/genres/j_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/j_pop/years.png)
+![Bar chart of top 15 producers](../../images/genres/j_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ayase | 2 | Lyricist, Songwriter |
+| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | Gen Hoshino | 1 | Lyricist, Songwriter |
+| | 斎藤孝之 (Saito, Takayuki) | 1 | Producer |
+| | Colin Brittain | 1 | Producer |
+| | Konnie Aoki | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
+| | 眞武亨 (Matake, Toru) | 1 | Producer |
+| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ben Sabin | 1 | Producer |
+| | ACAね (ACANE) | 1 | Lyricist, Songwriter |
+| | Jonathan Gerring | 1 | Producer |
+| | 100回嘔吐 (100kaiouto) | 1 | Arranger |
+| | 福井昌彦 (Fukui, Masahiko) | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -129,3 +158,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="Memories" width="50" /> | Memories (2021-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="BOOTLEG" width="50" /> | BOOTLEG (2017-11-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e897f4915425f0a48484e3f9" alt="THE BOOK 2" width="50" /> | THE BOOK 2 (2021-12-01) | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | POP VIRUS (2018-12-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Editorial (2021-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Traveler (2019-08-31) |
+
+![Bar chart of number of songs by year](../../images/genres/j_pop/years.png)

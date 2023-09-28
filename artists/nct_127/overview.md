@@ -100,6 +100,13 @@ NCT 127 is currently:
 | Performer | 0 | 0 | 1 | 0 | 0 | 0 |
 | Songwriter | 0 | 1 | 1 | 0 | 0 | 0 |
 | Vocal | 3 | 2 | 5 | 1 | 3 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | BOSS | MARK, TAEYONG | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | MARK, TAEYONG | Songwriter |
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

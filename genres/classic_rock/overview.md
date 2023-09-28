@@ -189,9 +189,123 @@
 
 ![Bar chart of top 22 record labels](../../images/genres/classic_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/classic_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/classic_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | John Lennon | 20 | Songwriter |
+| | Paul McCartney | 20 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
+| | Geoff Emerick | 10 | Producer |
+| | Jim Boyer | 9 | Producer |
+| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | Glyn Johns | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Phil McDonald | 8 | Producer |
+| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | Mike Stone | 6 | Producer |
+| | Norman Smith | 6 | Producer |
+| | Roy Thomas Baker | 6 | Producer |
+| | Roger Taylor | 6 | Songwriter, Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| | Chris Thomas | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | John Deacon | 3 | Songwriter, Lyricist |
+| | Ken Scott | 3 | Producer |
+| | Kris Fredriksson | 3 | Producer |
+| | Roy Halee | 3 | Producer |
+| | Geoff Workman | 3 | Producer |
+| | Mack | 3 | Producer |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Ted Brosnan | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | Ron Malo | 2 | Producer |
+| | Alan Parsons | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| | David DeVore | 2 | Producer |
+| | John Etchells | 2 | Producer |
+| | Mick Jones | 2 | Producer, Songwriter |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Keith Olsen | 2 | Producer |
+| | Barry Sheffield | 2 | Producer |
+| | Barry Mraz | 2 | Producer |
+| | Jeff Jarratt | 2 | Producer |
+| | Michael Stewart | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
+| | Don Puluse | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Phil Spector | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Aynsley Dunbar | 1 | Producer |
+| | Bill Ward | 1 | Songwriter |
+| | Jon Astley | 1 | Producer |
+| | Keith Richards | 1 | Songwriter |
+| | Jim Ed Norman | 1 | Arranger |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Terry Becker | 1 | Producer |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | Bruce Botnick | 1 | Producer |
+| | Keith Moon | 1 | Producer |
+| | John Sinclair | 1 | Producer |
+| | Caryl Weinstock | 1 | Producer |
+| | Liberty DeVitto | 1 | Arranger |
+| | Kit Lambert | 1 | Producer |
+| | Ian McDonald | 1 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Mick Jagger | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Don Henley | 1 | Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+| | Ray Colcord | 1 | Producer |
+| | Glenn Frey | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Lewis Merenstein | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | George Drakoulias | 1 | Producer |
+| | Rodger Bain | 1 | Producer |
+| | David Richards | 1 | Producer |
+| | Alvertis Isbell | 1 | Songwriter |
+| | Richard Wright | 1 | Songwriter |
+| | Jeff Glixman | 1 | Producer |
+| | Brendan O'Brien | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Damon Lyon-Shaw | 1 | Producer |
+| | Brian Ross-Myring | 1 | Producer |
+| | Lou Waxman | 1 | Producer |
+| | David Gilmour | 1 | Songwriter |
+| | Ed Walsh | 1 | Producer |
+| | Steve Boyer | 1 | Producer |
+| | Peter Meechan | 1 | Arranger |
+| | Tom Allom | 1 | Producer |
+| | Randy Mason | 1 | Producer |
+| | Lou Gramm | 1 | Songwriter |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Gary Lyons | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -205,3 +319,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Shake Your Money Maker (1990-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> | Aftermath (1966-04-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) |
+
+![Bar chart of number of songs by year](../../images/genres/classic_rock/years.png)

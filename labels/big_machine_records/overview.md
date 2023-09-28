@@ -38,6 +38,49 @@ Appears as:
 
 
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 19 | Songwriter, Lyricist, Producer |
+| | Serban Ghenea | 16 | Producer |
+| | Max Martin | 11 | Producer, Songwriter, Lyricist |
+| | Sam Holland | 10 | Producer |
+| | Shellback | 10 | Producer, Songwriter, Lyricist |
+| | Michael Ilbert | 9 | Producer |
+| | John Hanes | 8 | Producer |
+| | Jack Antonoff | 4 | Producer, Songwriter |
+| | Laura Sisk | 4 | Producer |
+| | Justin Niebank | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Nathan Chapman | 3 | Producer |
+| | Steve Marcantonio | 2 | Producer |
+| | David Huff | 2 | Producer |
+| | Ali Payami | 2 | Lyricist, Producer, Songwriter |
+| | Dann Huff | 2 | Producer |
+| | Liz Rose | 1 | Songwriter |
+| | Robert Manzoli | 1 | Songwriter |
+| | Ryan Tedder | 1 | Producer, Songwriter |
+| | Noel Zancanella | 1 | Producer |
+| | Peter Carlsson | 1 | Producer |
+| | Richard Fairbrass | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 1 | Producer, Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Mattias Bylund | 1 | Arranger, Producer |
+| | Brian David Willis | 1 | Producer |
+| | Fred Fairbrass | 1 | Songwriter |
+| | Smith Carlson | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 27 producers](../../images/labels/big_machine_records/producers.png)
 ## Tracks released under Big Machine Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

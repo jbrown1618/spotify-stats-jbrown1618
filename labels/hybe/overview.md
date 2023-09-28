@@ -44,6 +44,34 @@ Appears as:
 
 ![Bar chart of top 4 genres](../../images/labels/hybe/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 2 | Songwriter |
+| | Sebastian Garcia | 1 | Songwriter |
+| | Jenna Andrews | 1 | Songwriter |
+| | Pdogg | 1 | Producer, Songwriter |
+| | 방시혁 (Bang, Si-Hyuk) | 1 | Songwriter |
+| | Stephen Kirk | 1 | Songwriter |
+| | Supreme Boi | 1 | Songwriter |
+| | Ron Perry | 1 | Songwriter |
+| | Rob Grimaldi | 1 | Songwriter |
+| | Alex Bilowitz | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Songwriter |
+| | Kass | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/labels/hybe/producers.png)
 ## Tracks released under HYBE
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

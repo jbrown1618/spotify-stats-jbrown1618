@@ -78,6 +78,45 @@ NCT U:
 | Performer | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Songwriter | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Vocal | 3 | 1 | 2 | 2 | 5 | 2 | 1 | 1 | 1 | 3 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | BOSS | MARK, TAEYONG | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | MARK, TAEYONG | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2aef04c86590ac7328fb37cd" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
+| | MZMC | 1 | Songwriter |
+| | BUMZU | 1 | Arranger |
+| | Timothy "Bos" Bullock | 1 | Songwriter |
+| | Adrian McKinnon | 1 | Songwriter |
+| | Leven Kali | 1 | Songwriter |
+| | Sara Forsberg | 1 | Songwriter |
+| | 1월 8일 (1월 8일) | 1 | Songwriter |
+| | 유영진 (Yoo, Young-jin) | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 김동현 (Kim, Dong-hyun) | 1 | Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Arranger, Producer |
+| | Tay Jasper | 1 | Songwriter |
+| | 조진주 (Jo, Jinju) | 1 | Songwriter |
+| | Mike Jay | 1 | Songwriter |
+| | 정의석 (Jung, Euisuk) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 16 producers](../../images/artists/nct_u/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

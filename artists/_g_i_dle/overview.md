@@ -125,6 +125,89 @@
 | Lyricist | 2 | 0 | 0 | 12 | 0 |
 | Songwriter | 2 | 0 | 1 | 9 | 0 |
 | Vocal | 5 | 7 | 4 | 9 | 4 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | [JEON SOYEON](../jeon_soyeon/overview.md), YUQI | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | MINNIE, [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | MINNIE, [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../jeon_soyeon/overview.md) | 12 | Lyricist, Songwriter, Arranger |
+| | 최예지 (Choi, Ye-ji) | 7 | Producer |
+| | Riot Games Music Team | 3 | Producer, Songwriter |
+| | 빅싼초 (Bicksancho) | 3 | Songwriter, Arranger |
+| | Pop Time | 3 | Arranger, Songwriter |
+| | 전부연 (Jeon, Bu-yeon) | 3 | Producer |
+| | 신재빈 (Shin, Jae Bin) | 3 | Producer |
+| | 조씨아저씨 (Mr. Cho) | 2 | Producer |
+| | BreadBeat | 2 | Arranger, Songwriter |
+| | Alexander "Scherzophrenia" Temple | 2 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 2 | Lyricist, Songwriter |
+| | Kole Audio Solutions | 2 | Lyricist, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | Sebastien Najand | 2 | Lyricist, Songwriter, Producer |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | MINNIE | 2 | Lyricist, Songwriter |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | FCM 후디니 (FCM Houdini) | 1 | Arranger, Lyricist, Songwriter |
+| | Siixk Jun | 1 | Arranger, Songwriter |
+| | DRK | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | YUQI | 1 | Songwriter |
+| | Akali | 1 | Producer |
+| | Jason Walsh | 1 | Lyricist, Songwriter |
+| | 안예은 (Ahn, Ye Eun) | 1 | Arranger, Lyricist, Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+| | 홍승성 (Hong, Seung-sung) | 1 | Producer |
+| | Kako | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | K/DA | 1 | Producer |
+| | Brendon Williams | 1 | Lyricist, Songwriter |
+| | 로 (Raw) | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebba818688ae72d12215ee92f0" alt="" width="50" /> | Seraphine | 1 | Producer |
+| | HouDini | 1 | Arranger |
+| | Yasuo | 1 | Producer |
+| | JUNE | 1 | Arranger, Songwriter |
+| | MooF | 1 | Arranger, Songwriter |
+| | Justin Tranter | 1 | Producer |
+| | JENCI | 1 | Arranger, Songwriter |
+| | Harlœ (Harloe) | 1 | Songwriter |
+| | Oscar Free | 1 | Arranger |
+| | 강선영 (강선영) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/_g_i_dle/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

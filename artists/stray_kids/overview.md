@@ -122,6 +122,23 @@ Stray Kids is currently:
 | Lyricist | 1 | 1 | 0 | 1 |
 | Songwriter | 2 | 2 | 0 | 2 |
 | Vocal | 0 | 0 | 1 | 0 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | MIROH | 창빈 (Changbin), 한 (Han), Bang Chan | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | Back Door | 창빈 (Changbin), 한 (Han), Bang Chan | Songwriter, Arranger |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | HotSauce | 1 | Arranger, Songwriter |
+
+![Bar chart of top 4 producers](../../images/artists/stray_kids/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

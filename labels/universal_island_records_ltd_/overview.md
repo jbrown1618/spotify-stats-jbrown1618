@@ -42,6 +42,59 @@ Appears as:
 
 ![Bar chart of top 5 genres](../../images/labels/universal_island_records_ltd_/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Florence Welch | 13 | Songwriter, Lyricist |
+| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
+| | Craig Silvey | 4 | Producer |
+| | Cenzo Townshend | 4 | Producer |
+| | Tom Elmhirst | 3 | Producer |
+| | James Ford | 3 | Producer |
+| | Sally Herbert | 3 | Arranger |
+| | Jimmy Robertson | 3 | Producer |
+| | Robin Baynton | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mark "Spike" Stent | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Arranger, Producer, Songwriter |
+| | Markus Dravs | 2 | Producer |
+| | Bullion | 2 | Producer |
+| | Kid Harpoon | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | 2 | Lyricist, Songwriter |
+| | Ali Helnwein | 1 | Arranger |
+| | Vaughan Merrick | 1 | Producer |
+| | Steve Mackey | 1 | Producer |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Brian Degraw | 1 | Songwriter |
+| | Will Owen | 1 | Arranger |
+| | Mat Bartram | 1 | Producer |
+| | Charlie Hugall | 1 | Producer |
+| | Rush | 1 | Songwriter |
+| | Richard Flack | 1 | Producer |
+| | Lizzi Bougatsos | 1 | Songwriter |
+| | John Bellamy | 1 | Songwriter |
+| | Tim Dewit | 1 | Songwriter |
+| | Bosco Mann | 1 | Arranger |
+| | Mark "Top" Rankin | 1 | Producer |
+| | Matt Allchin | 1 | Songwriter |
+| | Chris Elliott | 1 | Arranger |
+| | Anthony B. Stephens | 1 | Songwriter |
+| | Pete Prokopiw | 1 | Producer |
+| | Arnecia Michelle Harris | 1 | Songwriter |
+| | Josh Diamond | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/universal_island_records_ltd_/producers.png)
 ## Tracks released under Universal-Island Records Ltd.
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

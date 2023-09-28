@@ -211,6 +211,122 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/rca_records_label/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Producer, Songwriter |
+| | Serban Ghenea | 7 | Producer |
+| | Greg Kurstin | 7 | Producer, Songwriter |
+| | Manny Marroquin | 6 | Producer |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 6 | Songwriter |
+| | Alex Pasco | 5 | Producer |
+| | John Hanes | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 4 | Lyricist, Producer, Songwriter |
+| | Julian Burg | 4 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Ben Bram | 4 | Songwriter, Arranger |
+| | Mitch Grassi | 3 | Songwriter |
+| | Kirstin | 3 | Songwriter |
+| | Yeti Beats | 3 | Producer, Songwriter |
+| | Dr. Luke | 3 | Producer |
+| | Avi Kaplan | 3 | Songwriter |
+| | Kevin Olusola | 3 | Songwriter |
+| | Scott Hoying | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix/overview.md) | 2 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | 2 | Songwriter |
+| | Rogét Chahayed (Chahayed, Rogét) | 2 | Producer, Songwriter |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442" alt="" width="50" /> | Nate Ruess | 2 | Songwriter |
+| | Bryce Bordone | 2 | Producer |
+| | Rian Lewis | 2 | Producer |
+| | Jimmy Napes | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Dan Reynolds | 2 | Producer, Songwriter |
+| | Carter Lang | 2 | Producer, Songwriter |
+| | Cirkut | 2 | Songwriter, Producer |
+| | Chris Braide | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | Kelly Clarkson | 1 | Songwriter |
+| | Elof Loelv | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
+| | Joe Visciano | 1 | Producer |
+| | Yoko Ono | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | 1 | Songwriter |
+| | Emiko Bankson | 1 | Songwriter |
+| | John X. Volaitis | 1 | Producer |
+| | Nikolai Fraiture | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb34b67847a7d97fd5f163728f" alt="" width="50" /> | Lucky Daye | 1 | Songwriter |
+| | Starrah | 1 | Songwriter |
+| | Boyan Chowdhury | 1 | Songwriter |
+| | James Krausse | 1 | Producer, Songwriter |
+| | Derek Pacuk | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | Diplo | 1 | Producer |
+| | Tyler Johnson | 1 | Producer |
+| | Isaac Earl Bynum | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Fred Falke | 1 | Producer |
+| | Gabe Burch | 1 | Producer |
+| | Marc Jameson | 1 | Producer |
+| | Tim Roberts | 1 | Producer |
+| | Albert Hammond, Jr. | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| | Sam Holland | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| | Dom Morley | 1 | Producer |
+| | Thomas Pentz | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | Kesha | 1 | Songwriter |
+| | Tom Elmhirst | 1 | Producer |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Ben Baptie | 1 | Producer |
+| | Josh Taylor | 1 | Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| | Terry Shaddick | 1 | Songwriter |
+| | Andrew Swanson | 1 | Producer, Songwriter |
+| | Lydia Asrat | 1 | Songwriter |
+| | Christoph Andersson | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Producer, Songwriter |
+| | Stephan Moccio | 1 | Songwriter |
+| | Gordon Raphael | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
+| | Abi Harding | 1 | Songwriter |
+| | Tim Suby | 1 | Songwriter |
+| | Jason Lader | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Songwriter |
+| | Rob Bisel | 1 | Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
+| | Jean-Baptiste Kouame | 1 | Songwriter |
+| | Luigi Creatore | 1 | Songwriter |
+| | David Campbell | 1 | Arranger |
+| | Ben McKee | 1 | Songwriter |
+| | Kiyanu Kim | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
+| | Maurice White | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer |
+| | J. Tyler Johnson | 1 | Songwriter |
+| | Louis Bell | 1 | Songwriter |
+| | Yogesh Tulsiani | 1 | Songwriter |
+| | Tyson Trax | 1 | Producer |
+| | Sergio Chavez | 1 | Producer |
+| | Andrew Watt | 1 | Songwriter |
+| | Karl Rubin | 1 | Songwriter |
+| | George David Weiss | 1 | Songwriter |
+| | Timothy Thomas | 1 | Songwriter |
+| | Jerry Leiber | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/rca_records_label/producers.png)
 ## Tracks released under RCA Records Label
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

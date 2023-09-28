@@ -89,6 +89,42 @@ Appears as:
 
 ![Bar chart of top 14 genres](../../images/labels/motown/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
+| | Berry Gordy | 2 | Songwriter |
+| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb36823ee68bf29bd676f55e7" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
+| | Freddie Perren | 1 | Songwriter |
+| | Hal Davis | 1 | Songwriter |
+| | James Anthony Carmichael | 1 | Producer |
+| | Southside | 1 | Producer, Songwriter |
+| | CuBeatz | 1 | Producer |
+| | Tim Gomringer | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ronald White | 1 | Songwriter |
+| | Kevin Gomringer | 1 | Songwriter |
+| | Willie Hutch | 1 | Songwriter |
+| | Deke Richards | 1 | Songwriter |
+| | Bob West | 1 | Songwriter |
+| | Jordan Thorpe | 1 | Songwriter |
+| | Lionel Richie | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 1 | Songwriter |
+| | The Corporation | 1 | Producer |
+| | Fonce Mizell | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 20 producers](../../images/labels/motown/producers.png)
 ## Tracks released under MOTOWN
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

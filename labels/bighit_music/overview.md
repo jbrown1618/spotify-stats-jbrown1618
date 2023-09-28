@@ -91,6 +91,83 @@ Appears as:
 
 ![Bar chart of top 4 genres](../../images/labels/bighit_music/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
+| | Pdogg | 11 | Producer, Songwriter, Arranger |
+| | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j_hope/overview.md) | 4 | Songwriter |
+| | Supreme Boi | 3 | Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
+| | Melanie Joy Fontana | 2 | Songwriter |
+| | Jaycen Joshua | 2 | Producer |
+| | Max Seaberg | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jang Yi-jeong | 2 | Producer |
+| | DJ Riggins | 2 | Producer |
+| | Arschtritt Lindgren | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 2 | Producer |
+| | Jacob Richards | 2 | Producer |
+| | Roman | 2 | Songwriter |
+| | August Rigo | 2 | Songwriter |
+| | danke | 1 | Songwriter |
+| | Camilla Anne Stewart | 1 | Songwriter |
+| | Charlie J. Perry | 1 | Producer, Songwriter |
+| | Julia Ross | 1 | Songwriter |
+| | Frants | 1 | Producer |
+| | Krysta Youngs | 1 | Songwriter |
+| | Erik Reichers | 1 | Producer |
+| | Hiss noise | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Songwriter |
+| | Hilda Stenmalm | 1 | Songwriter |
+| | Ryan Lawrie | 1 | Songwriter |
+| | Marcus McCoan | 1 | Producer, Songwriter |
+| | Arcades | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb44c99b9e1082a8273fd7c495" alt="" width="50" /> | SUMIN | 1 | Songwriter |
+| | Lutra | 1 | Songwriter |
+| | Antonina Armato | 1 | Songwriter |
+| | Clyde Kelly | 1 | Songwriter |
+| | Matt Thomson | 1 | Songwriter |
+| | dae Jung | 1 | Songwriter |
+| | Kass | 1 | Songwriter |
+| | DOCSKIM | 1 | Songwriter |
+| | Tom Wiklund | 1 | Producer, Songwriter |
+| | DJ Swivel | 1 | Producer, Songwriter |
+| | Alex Williams | 1 | Producer |
+| | Neon Boy | 1 | Songwriter |
+| | Candace Sosa | 1 | Songwriter |
+| | David Stewart | 1 | Songwriter |
+| | Jessica Agombar | 1 | Songwriter |
+| | Vince Nantes | 1 | Songwriter |
+| | Jenna Andrews | 1 | Songwriter |
+| | 김도훈 (Kim, Do-hoon) | 1 | Songwriter |
+| | Sebastian Garcia | 1 | Songwriter |
+| | Fallin' Dild | 1 | Songwriter |
+| | Liza Owen | 1 | Songwriter |
+| | Max Graham | 1 | Songwriter |
+| | Stephen Kirk | 1 | Songwriter |
+| | Phil Tan | 1 | Producer |
+| | 안복진 (Ahn, Bok-Jin) | 1 | Songwriter |
+| | Jinbo | 1 | Songwriter |
+| | Bill Zimmerman | 1 | Producer |
+| | Ron Perry | 1 | Songwriter |
+| | Rob Grimaldi | 1 | Songwriter |
+| | Alex Bilowitz | 1 | Songwriter |
+| | Seu Ran Lee | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/bighit_music/producers.png)
 ## Tracks released under BIGHIT MUSIC
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -103,6 +103,97 @@ Sara Bareilles is currently:
 | Songwriter | 30 |
 | Vocal | 30 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Come Round Soon | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Bottle It Up | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Love On the Rocks | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Breathe Again | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Kaleidoscope Heart | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | King of Anything | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Gonna Get Over You | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Let The Rain | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Bluebird | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | The Light | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Uncharted | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Satellite Call | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Manhattan | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Eden | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Little Black Dress | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Cassiopeia | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 1000 Times | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Islands | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Brave | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Chasing The Sun | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | She Used To Be Mine | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Fire | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | If I Can't Have You | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Armor | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Miss Simone | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | No Such Thing | Producer, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | T-Bone Burnett | 5 | Producer |
+| | Jason Wormer | 5 | Producer |
+| | Mark Endert | 3 | Producer |
+| | Matt Hales | 2 | Songwriter |
+| | Jeremy Darby | 2 | Producer |
+| | Jack Antonoff | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Todor Kobakov | 2 | Arranger |
+| | Mike Piersante | 2 | Producer |
+| | Pete Harper | 1 | Songwriter |
+| | Tommy Walter | 1 | Producer |
+| | Javier Dunn | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
+| | Aaron Sterling | 1 | Songwriter |
+| | Zachary Dawes | 1 | Producer |
+| | Suzie Katayama | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Jimmy Van Heusen | 1 | Songwriter |
+| | Lori McKenna | 1 | Songwriter |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | Sammy Cahn | 1 | Lyricist |
+| | Joseph Lorge | 1 | Producer |
+| | Justin Tranter | 1 | Songwriter |
+| | Mike Anderson | 1 | Songwriter |
+| | Eric Rosse | 1 | Producer |
+| | Sam Farrar | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/sara_bareilles/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

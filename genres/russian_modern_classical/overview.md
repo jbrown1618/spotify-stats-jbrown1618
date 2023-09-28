@@ -46,11 +46,11 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/russian_modern_classical/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Stravinsky: Petrushka, Jeu de cartes (2018-10-19) | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> | Stravinsky: The Firebird (Ballet Suite) (2009-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra (2007-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Stravinsky: The Firebird (Ballet Suite)" width="50" /> | Stravinsky: The Firebird (Ballet Suite) (2009-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 (2005) | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Stravinsky: Petrushka, Jeu de cartes (2018-10-19) |
+
+![Bar chart of number of songs by year](../../images/genres/russian_modern_classical/years.png)

@@ -42,6 +42,40 @@ Appears as:
 
 
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ollounder | 11 | Arranger, Lyricist, Songwriter |
+| | LEEZ | 11 | Arranger, Lyricist, Songwriter, Producer |
+| | 김석민 (Kim Seog-min) | 9 | Producer |
+| | 정창현 (Jung, Chang-hyun) | 6 | Producer |
+| | 주선교 (주선교) | 2 | Producer |
+| | JI U | 2 | Lyricist |
+| | SIYEON | 2 | Lyricist |
+| | 김준혁 (Kim Joonhyuk) | 2 | Songwriter, Lyricist, Producer |
+| | 김보은 (Kim, Bo-eun) | 2 | Lyricist |
+| | DAMI | 2 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 주상경 (Ju, Sang-kyung) | 1 | Producer |
+| | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
+| | YOOHYEON | 1 | Lyricist |
+| | 김준원 (Kim, June-One) | 1 | Arranger, Songwriter |
+| | 전지은 (Jeon Ji-eun) | 1 | Lyricist |
+| | 0to1 | 1 | Songwriter |
+| | Maddox | 1 | Lyricist |
+| | 김정미 (Kim Jung-mi) | 1 | Lyricist |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/labels/dreamcatcher_company/producers.png)
 ## Tracks released under DREAMCATCHER COMPANY
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

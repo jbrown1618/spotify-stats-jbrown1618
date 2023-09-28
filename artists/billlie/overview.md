@@ -81,6 +81,40 @@ Billlie is currently:
 | | 문수아 (Moon Sua) | 시윤 (Siyoon) |
 |:---|---:|---:|
 | Lyricist | 1 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | RING X RING | 문수아 (Moon Sua), 시윤 (Siyoon) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 오단영 (Oh, Dan-young) | 2 | Producer |
+| | 문수아 (Moon Sua) | 1 | Lyricist |
+| | Ahmad Izham Omar | 1 | Songwriter |
+| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | Anna Timgren | 1 | Songwriter |
+| | Le'mon | 1 | Lyricist |
+| | 시윤 (Siyoon) | 1 | Lyricist |
+| | Zaydro | 1 | Songwriter |
+| | 이민수 (이민수) | 1 | Arranger, Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Audi Mok | 1 | Songwriter |
+| | 김일호 (Kim, Il-Ho) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/artists/billlie/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

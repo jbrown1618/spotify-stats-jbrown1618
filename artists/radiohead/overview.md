@@ -86,6 +86,72 @@ Radiohead is currently:
 | Producer | 0 | 0 | 2 | 0 | 6 |
 | Songwriter | 12 | 12 | 11 | 12 | 12 |
 | Vocal | 0 | 10 | 1 | 0 | 11 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Creep | Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Street Spirit (Fade Out) | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | High and Dry | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Fake Plastic Trees | Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Exit Music (For A Film) | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | No Surprises | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Let Down | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | Everything In Its Right Place | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Pyramid Song | [Radiohead](overview.md), Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | There, There | Ed O'Brien, Philip Selway, Thom Yorke, Jonny Greenwood, Colin Greenwood | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Reckoner | [Radiohead](overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | [Radiohead](overview.md) | Lyricist, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Colin Greenwood | 12 | Songwriter |
+| | Ed O'Brien | 12 | Songwriter |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Philip Selway | 12 | Songwriter |
+| | Nigel Godrich | 12 | Producer |
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Sean Slade | 3 | Producer |
+| | Jim Warren | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Dan Grech-Marguerat | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| | John Leckie | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
+| | Mike Hazlewood | 1 | Songwriter |
+| | Gerard Navarro | 1 | Producer |
+| | Albert Hammond | 1 | Songwriter |
+| | Graeme Stewart | 1 | Producer |
+| | Darrell Thorp | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 21 producers](../../images/artists/radiohead/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

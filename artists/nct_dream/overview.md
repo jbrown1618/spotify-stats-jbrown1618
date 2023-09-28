@@ -89,6 +89,13 @@ NCT DREAM is currently:
 | Lyricist | 0 | 1 |
 | Songwriter | 0 | 1 |
 | Vocal | 1 | 2 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | BOSS | MARK | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | MARK | Songwriter |
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

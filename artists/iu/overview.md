@@ -115,6 +115,56 @@ IU is currently:
 | Songwriter | 2 |
 | Vocal | 5 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Ah puh | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Celebrity | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 손명갑 (Son, Myung-gap) | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |
+| | 오성근 (Oh, Seong-Keun) | 1 | Producer |
+| | N!ko | 1 | Arranger, Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
+| | Kako | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 김희원 (Kim, Hee-won) | 1 | Songwriter |
+| | 강효민 (Kang, Hyo-min) | 1 | Producer |
+| | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
+| | 이기 (IGGY) | 1 | Arranger, Songwriter |
+| | 이나일 (E, Na-Il) | 1 | Arranger |
+| | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
+| | Peejay | 1 | Arranger, Songwriter |
+| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | 웅킴 (Woong, Kim) | 1 | Arranger, Songwriter |
+| | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | 조준성 (Jo, June-sung) | 1 | Producer |
+| | Dr.JO | 1 | Songwriter |
+| | Chloe Latimer | 1 | Songwriter |
+| | Poptime | 1 | Arranger, Songwriter |
+
+</details>
+
+
+![Bar chart of top 24 producers](../../images/artists/iu/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

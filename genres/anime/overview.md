@@ -74,8 +74,6 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/anime/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="BOOTLEG" width="50" /> | BOOTLEG (2017-11-01) |
@@ -88,3 +86,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="Always" width="50" /> | Always (2022-02-21) | <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="BILLY POCO" width="50" /> | BILLY POCO (2021-08-11) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | DIMENSION : ANSWER (2022-01-10) | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Editorial (2021-08-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | DIMENSION : DILEMMA (2021-10-12) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | DIMENSION : DILEMMA (2021-10-12) |
+
+![Bar chart of number of songs by year](../../images/genres/anime/years.png)

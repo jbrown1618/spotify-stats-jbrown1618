@@ -68,6 +68,103 @@ Bruno Mars is currently:
 | Songwriter | 13 |
 | Vocal | 8 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | Fuck You | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Locked out of Heaven | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | That's What I Like | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | Finesse | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse - Remix; feat. Cardi B | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Fly As Me | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Smokin Out The Window | Producer, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](overview.md) | 12 | Songwriter, Producer |
+| | Philip Lawrence | 8 | Songwriter |
+| | Charles Moniz | 7 | Producer |
+| | Serban Ghenea | 5 | Producer |
+| | James Fauntleroy | 5 | Songwriter |
+| | Ray McCullough | 4 | Songwriter |
+| | Brody Brown | 4 | Songwriter |
+| | The Smeezingtons | 4 | Producer |
+| | Ari Levine | 4 | Producer, Songwriter |
+| | Jonathan Yip | 4 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jeremy Reeves | 4 | Songwriter |
+| | Ray Romulus | 4 | Songwriter |
+| | Manny Marroquin | 3 | Producer |
+| | John Hanes | 3 | Producer |
+| | Brandon Paak Anderson | 3 | Songwriter |
+| | D'Mile | 3 | Producer, Songwriter |
+| | The Stereotypes | 3 | Producer |
+| | Boo Mitchell | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
+| | Wayne Gordon | 2 | Producer |
+| | Andrew Wyatt | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
+| | Shampoo Press & Curl | 2 | Producer |
+| | Larry Gold | 2 | Arranger |
+| | Devin Nakao | 1 | Producer |
+| | Jens Jungkurth | 1 | Producer |
+| | Matthew Stevens | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
+| | Mike Caren | 1 | Songwriter |
+| | Joshua Lopez | 1 | Songwriter |
+| | Emile Haynie | 1 | Producer |
+| | Lonnie Simmons | 1 | Songwriter |
+| | Charlie Wilson | 1 | Songwriter |
+| | Riccardo Damian | 1 | Producer |
+| | Big Sean | 1 | Songwriter |
+| | Inaam Haq | 1 | Producer |
+| | Devon Gallaspy | 1 | Songwriter |
+| | Ken Lewis | 1 | Producer |
+| | Jeremy Ruzumna | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 1 | Songwriter |
+| | Kaveh Rastegar | 1 | Songwriter |
+| | Claude Kelly | 1 | Songwriter |
+| | Jeff Chestek | 1 | Producer |
+| | Trinidad James | 1 | Songwriter |
+| | Patrick Stump | 1 | Songwriter |
+| | Rudolph Taylor | 1 | Songwriter |
+| | John Wicks | 1 | Songwriter |
+| | alalal | 1 | Producer |
+| | Josh Blair | 1 | Producer |
+| | Cody Cichowski | 1 | Producer |
+| | Robert Wilson | 1 | Songwriter |
+| | Ronnie Wilson | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/bruno_mars/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

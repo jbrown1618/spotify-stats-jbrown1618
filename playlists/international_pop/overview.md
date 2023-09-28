@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76328e37a2c1280ab9adb90c" alt="" width="50" /> | 1 | 1 | Vishal Dadlani | [🔗](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbbde5038f6dd11a9bea4cd8" alt="" width="50" /> | 1 | 1 | Benny Dayal | [🔗](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | 1 | 1 | Stromae | [🔗](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
+| | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b2cf23c52a0963ae5feb27" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
@@ -454,6 +454,89 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/international_pop/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | KOBAMETAL | 6 | Producer |
+| | WATAMETAL | 4 | Producer |
+| | 渡辺未来 (Watanabe, Miki) | 3 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb584f79075db4e0c9304a7f85" alt="" width="50" /> | Daddy Yankee | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | Daði Freyr | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | 2 | Songwriter |
+| | Ayase | 2 | Lyricist, Songwriter |
+| | Adrian Breakspear | 2 | Producer |
+| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | Reol | 2 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | KxBxMETAL | 2 | Lyricist |
+| | ゆよゆっぺ (Yuyoyuppe) | 2 | Arranger, Producer, Songwriter, Lyricist |
+| | ギガP (GigaP) | 2 | Arranger, Producer |
+| | Erika Ender | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Arranger, Producer, Songwriter |
+| | Cecil Bernardy | 1 | Producer |
+| | Mauricio Rengifo | 1 | Producer |
+| | Ricky Montaner | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce98956e2ea2db4cc017c86d" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
+| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
+| | EDOMETAL | 1 | Lyricist |
+| | Derek Dixie | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | Kumaar | 1 | Lyricist |
+| | John Hill | 1 | Songwriter |
+| | Richard "P2J" Isong | 1 | Producer, Songwriter |
+| | Andrés Torres (Torres, Andrés) | 1 | Producer |
+| | Papa Dizzy | 1 | Arranger |
+| | Jens Bogren | 1 | Producer |
+| | Jaycen Joshua | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | Becky G | 1 | Songwriter |
+| | Camilo | 1 | Songwriter |
+| | ACAね (ACANE) | 1 | Lyricist, Songwriter |
+| | KYOTO | 1 | Arranger |
+| | Nate Company | 1 | Songwriter |
+| | 100回嘔吐 (100kaiouto) | 1 | Arranger |
+| | Jon Leone | 1 | Songwriter |
+| | Mauricio Montaner | 1 | Songwriter |
+| | Aron Ottignon | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
+| | Emilie Satt | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
+| | NORiMETAL | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe179b175d629c761438fb8ec" alt="" width="50" /> | NATTI NATASHA | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | 1 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | Gen Hoshino | 1 | Lyricist, Songwriter |
+| | Vishal-Shekhar | 1 | Songwriter |
+| | 上田剛士 (Ueda, Takeshi) | 1 | Arranger, Songwriter |
+| | 斎藤孝之 (Saito, Takayuki) | 1 | Producer |
+| | Konnie Aoki | 1 | Lyricist |
+| | NAKAMETAL | 1 | Lyricist |
+| | Stuart White | 1 | Producer |
+| | Jean-Karl Lucas | 1 | Songwriter |
+| | MEG | 1 | Arranger, Producer, Songwriter |
+| | Kyle Shearer | 1 | Songwriter |
+| | Gaby Music | 1 | Songwriter |
+| | Antón Álvarez Alfaro (Álvarez Alfaro, Antón) | 1 | Lyricist |
+| | Lionel Capouillez | 1 | Producer |
+| | Antonio Rayo Gibo | 1 | Songwriter |
+| | Raphy Pina | 1 | Songwriter |
+| | NARASAKI | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | Burna Boy | 1 | Songwriter |
+| | 眞武亨 (Matake, Toru) | 1 | Producer |
+| | El Guincho | 1 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 1 | Producer, Songwriter |
+| | MUKTI-METAL | 1 | Songwriter |
+| | 福井昌彦 (Fukui, Masahiko) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/international_pop/producers.png)
 ## Years
 
 

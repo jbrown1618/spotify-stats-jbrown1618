@@ -53,6 +53,50 @@ Appears as:
 
 ![Bar chart of top 10 genres](../../images/labels/xl_recordings/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Colin Greenwood | 12 | Songwriter |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Ed O'Brien | 12 | Songwriter |
+| | Philip Selway | 12 | Songwriter |
+| | Nigel Godrich | 12 | Producer |
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Paul Q. Kolderie | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 3 | Songwriter |
+| | Sean Slade | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Chris Blair | 2 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Dan Grech-Marguerat | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| | John Leckie | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
+| | Darrell Thorp | 1 | Producer |
+| | Gerard Navarro | 1 | Producer |
+| | Tom Elmhirst | 1 | Producer |
+| | Fraser T. Smith | 1 | Songwriter |
+| | Paul Epworth | 1 | Producer, Songwriter |
+| | J.A.C. Redford | 1 | Arranger |
+| | Francis White | 1 | Songwriter |
+| | Albert Hammond | 1 | Songwriter |
+| | Simon Rhodes | 1 | Producer |
+| | Graeme Stewart | 1 | Producer |
+| | Mike Hazlewood | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 28 producers](../../images/labels/xl_recordings/producers.png)
 ## Tracks released under XL Recordings
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -30,9 +30,9 @@
 | <img src="https://i.scdn.co/image/32bf53aa73dbb81c615a91324efea0bcfff4b440" alt="" width="50" /> | 13 | 0 | Felix Mendelssohn | [🔗](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710) |
 | <img src="https://i.scdn.co/image/48524e78bab6185ab73bca33bf6313070aea05df" alt="" width="50" /> | 13 | 0 | John Eliot Gardiner | [🔗](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a" alt="" width="50" /> | 12 | 0 | London Symphony Orchestra | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| <img src="nan" alt="" width="50" /> | 8 | 0 | Alexander Knox | [🔗](https://open.spotify.com/artist/4vzwv4zzBTlG8qsFCqP2Yv) |
-| <img src="nan" alt="" width="50" /> | 6 | 0 | Ceri-lyn Cissone | [🔗](https://open.spotify.com/artist/6F3jOFmhUwRxRdWAZU6G1A) |
-| <img src="nan" alt="" width="50" /> | 4 | 0 | Frankie Wakefield | [🔗](https://open.spotify.com/artist/7jobsaZIFhejECE605yxx6) |
+| | 8 | 0 | Alexander Knox | [🔗](https://open.spotify.com/artist/4vzwv4zzBTlG8qsFCqP2Yv) |
+| | 6 | 0 | Ceri-lyn Cissone | [🔗](https://open.spotify.com/artist/6F3jOFmhUwRxRdWAZU6G1A) |
+| | 4 | 0 | Frankie Wakefield | [🔗](https://open.spotify.com/artist/7jobsaZIFhejECE605yxx6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb501fa094147c4871549cdebd" alt="" width="50" /> | 4 | 0 | Krystian Zimerman | [🔗](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1572201eabc7158f8ab9ceff" alt="" width="50" /> | 2 | 0 | The Monteverdi Choir | [🔗](https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW) |
 | <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 1 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
@@ -98,8 +98,6 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/early_romantic_era/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | Mendelssohn: A Midsummer Night's Dream (2017-02-03) | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="Beethoven: Piano Sonatas &quot;Moonlight&quot;; &quot;Appassionata&quot;; &quot;Pathétique&quot;" width="50" /> | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" (1983-01-01) |
@@ -112,3 +110,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | Chopin: Nocturnes (2005-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | Chopin: Preludes; Sonata No.2 (2002-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | Chopin: Preludes; Sonata No.2 (2002-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | Chopin: Nocturnes (2005-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | Chopin: Waltzes; 4 Scherzos; 26 Preludes (1999-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="Beethoven: Piano Sonatas Nos. 1-3" width="50" /> | Beethoven: Piano Sonatas Nos. 1-3 (2008-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/early_romantic_era/years.png)

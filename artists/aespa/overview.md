@@ -112,6 +112,70 @@ aespa is currently:
 |:---|---:|
 | Vocal | 7 |
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 유영진 (Yoo, Young-jin) | 4 | Arranger, Lyricist, Producer, Songwriter |
+| | 노민지 (Noh, Min-ji) | 4 | Producer |
+| | 강은지 (Kang, Eun-ji) | 3 | Producer |
+| | 이지홍 (Lee, Ji-hong) | 2 | Producer |
+| | 이수만 (Lee, Soo-Man) | 2 | Producer |
+| | 김철순 (Kim, Chul-Soon) | 2 | Producer |
+| | IMLAY | 2 | Arranger |
+| | Hautboi Rich | 2 | Songwriter |
+| | Sophie Curtis | 2 | Songwriter |
+| | Kirsten Collins | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | [BoA](../boa/overview.md) | 1 | Arranger, Lyricist, Songwriter |
+| | Tay Jasper | 1 | Songwriter |
+| | Gabriela Geneva | 1 | Songwriter |
+| | Brandon Green | 1 | Arranger, Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
+| | COACH | 1 | Producer |
+| | David Dahlquist | 1 | Arranger, Songwriter |
+| | SAAY | 1 | Lyricist, Songwriter |
+| | Patrick Morrissey | 1 | Arranger, Songwriter |
+| | Shaun Kim | 1 | Arranger |
+| | Paul Phamous | 1 | Songwriter |
+| | 정의석 (Jung, Euisuk) | 1 | Producer |
+| | Jia Lih | 1 | Arranger, Songwriter |
+| | Risto Asikainen | 1 | Songwriter |
+| | Ellie Suh | 1 | Lyricist |
+| | 바다 (Bada) | 1 | Lyricist |
+| | Tim Tan | 1 | Producer |
+| | Omega | 1 | Arranger, Songwriter |
+| | Coach & Sendo | 1 | Arranger, Songwriter |
+| | Deez | 1 | Arranger, Lyricist, Songwriter |
+| | Shaun Lopez | 1 | Arranger, Songwriter |
+| | Adam McInnis | 1 | Arranger, Songwriter |
+| | Kenzie | 1 | Lyricist, Songwriter |
+| | 강선영 (강선영) | 1 | Producer |
+| | Marcus Lomax | 1 | Songwriter |
+| | Mario Marchetti | 1 | Arranger, Songwriter |
+| | Scott Chesak | 1 | Arranger, Songwriter |
+| | Timothy Tan | 1 | Arranger, Songwriter |
+| | Jordan Reyes | 1 | Arranger, Songwriter |
+| | Hayley Kiyoko | 1 | Songwriter |
+| | 장우영 (Jang, Woo-young) | 1 | Producer |
+| | 황현 (Hwang, Hyeon) | 1 | Producer |
+| | Valeria Del Prete | 1 | Songwriter |
+| | Ella Isaacson | 1 | Songwriter |
+| | Timothy "Bos" Bullock | 1 | Arranger, Songwriter |
+| | BXN | 1 | Arranger |
+| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | SENDO | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/aespa/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

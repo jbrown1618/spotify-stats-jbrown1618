@@ -63,7 +63,7 @@
 | <img src="https://i.scdn.co/image/e2930a243565b3a9675ef0943ba181f28c780109" alt="" width="50" /> | 1 | 0 | Skip Sempé | [🔗](https://open.spotify.com/artist/3DSclbx4DSkyIvouHCxHHZ) |
 | <img src="https://i.scdn.co/image/914364be0f93ff2756c1352c2a2a5ae25ddb53cd" alt="" width="50" /> | 1 | 0 | Philippe Herreweghe | [🔗](https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5) |
 | <img src="https://i.scdn.co/image/c8dc83d307c0a8c18ac505da6133bc37df4442a1" alt="" width="50" /> | 1 | 0 | Anton Bruckner | [🔗](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Mark Kruczek | [🔗](https://open.spotify.com/artist/2DNiyyc8Do3ym3IjCaKFCp) |
+| | 1 | 0 | Mark Kruczek | [🔗](https://open.spotify.com/artist/2DNiyyc8Do3ym3IjCaKFCp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80cf7552a065969238796d26" alt="" width="50" /> | 1 | 0 | Ola Gjeilo | [🔗](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="" width="50" /> | 1 | 0 | Zürcher Vokalisten | [🔗](https://open.spotify.com/artist/1YrY49Nj5lSs8otmnveoQQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e895483075f6e493f491476" alt="" width="50" /> | 1 | 0 | Collegium Vocale Gent | [🔗](https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1) |

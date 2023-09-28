@@ -166,6 +166,43 @@
 
 ![Bar chart of top 25 genres](../../images/playlists/jazz/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | David Foster | 3 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_/overview.md) | 3 | Songwriter, Arranger |
+| | Alan Chang | 3 | Songwriter, Arranger |
+| | Amy Foster-Gillies | 3 | Songwriter |
+| | Humberto Gatica | 3 | Producer |
+| | Neil Devor | 2 | Producer |
+| | Jochem van der Saag | 2 | Producer |
+| | Alejandro Rodríguez (Rodríguez, Alejandro) | 2 | Producer |
+| | Bob Rock | 2 | Producer, Arranger |
+| | Don Sebesky | 1 | Arranger |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | William Ross | 1 | Arranger |
+| | Jim Tomlinson | 1 | Songwriter |
+| | Sammy Cahn | 1 | Lyricist |
+| | Jimmy Van Heusen | 1 | Songwriter |
+| | Lou Pomanti | 1 | Arranger |
+| | Anthony Newley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+| | Kazuo Ishiguro | 1 | Songwriter |
+| | Leslie Bricusse | 1 | Songwriter |
+| | David Schreurs | 1 | Songwriter |
+| | Vincent Degiorgio | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 21 producers](../../images/playlists/jazz/producers.png)
 ## Years
 
 

@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1687995a9c0172c195049cb1" alt="" width="50" /> | 1 | 0 | Gavin DeGraw | [🔗](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d17f3be38fe3d25707e840d" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+| | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 
 </details>
 
@@ -125,9 +125,93 @@
 
 ![Bar chart of top 17 record labels](../../images/genres/neo_mellow/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/neo_mellow/years.png)
+![Bar chart of top 30 producers](../../images/genres/neo_mellow/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | T-Bone Burnett | 5 | Producer |
+| | Jason Wormer | 5 | Producer |
+| | Mark Endert | 3 | Producer |
+| | Jeremy Darby | 2 | Producer |
+| | Ben Lovett | 2 | Songwriter |
+| | Martin Terefe | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| | Lukas Burton | 2 | Producer, Songwriter |
+| | Ted Dwane | 2 | Songwriter |
+| | Todor Kobakov | 2 | Arranger |
+| | Alison Sudol | 2 | Lyricist, Songwriter |
+| | Markus Dravs | 2 | Producer |
+| | Ruadhri Cushnan | 2 | Producer |
+| | Marcus Mumford | 2 | Songwriter |
+| | Jack Antonoff | 2 | Songwriter |
+| | Hal Cragin | 2 | Producer, Songwriter |
+| | Mike Piersante | 2 | Producer |
+| | Winston Marshall | 2 | Songwriter |
+| | Matt Hales | 2 | Songwriter |
+| | David Schiffman | 1 | Producer |
+| | Robin Baynton | 1 | Producer |
+| | Suzie Katayama | 1 | Arranger |
+| | Tommy Walter | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Bruno Ellingham | 1 | Producer |
+| | Tyler Glenn | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
+| | Aaron Sterling | 1 | Songwriter |
+| | Chad Vaccarino | 1 | Songwriter |
+| | Steve Osborne | 1 | Producer |
+| | Pete Harper | 1 | Songwriter |
+| | Mike Campbell | 1 | Songwriter |
+| | Ted Blaisdell | 1 | Producer |
+| | Javier Dunn | 1 | Songwriter |
+| | Ren Swan | 1 | Producer |
+| | Billy Bush | 1 | Producer |
+| | Zachary Dawes | 1 | Producer |
+| | Andy Green | 1 | Producer |
+| | Iain Hill | 1 | Producer |
+| | Paul 'P Dub' Walton | 1 | Producer |
+| | Tim Pagnotta | 1 | Songwriter |
+| | Timothy Fagan | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Eric Rosse | 1 | Producer |
+| | Mike Anderson | 1 | Songwriter |
+| | Hal Y. Burton | 1 | Producer |
+| | Justin Tranter | 1 | Songwriter |
+| | Joseph Lorge | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| | Glen Ballard | 1 | Producer, Songwriter |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
+| | Michael Brauer | 1 | Producer |
+| | Justin Meldal-Johnsen | 1 | Producer |
+| | Chris Fogel | 1 | Producer |
+| | Ian Axel | 1 | Songwriter |
+| | Dyre Gormsen | 1 | Producer |
+| | Alex Gilbert | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | Jimmy Boyelle | 1 | Producer |
+| | Justin Vernon | 1 | Lyricist, Songwriter |
+| | Lori McKenna | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |
+| | Sam Farrar | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -141,3 +225,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="Babel (Deluxe Version)" width="50" /> | Babel (Deluxe Version) (2012-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b27327c371084dee1b83e614798d" alt="Indiana" width="50" /> | Indiana (2007-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="PINES" width="50" /> | PINES (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="OK Now" width="50" /> | OK Now (2008-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/neo_mellow/years.png)

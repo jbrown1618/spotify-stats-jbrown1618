@@ -115,9 +115,97 @@
 
 ![Bar chart of top 13 record labels](../../images/genres/art_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/art_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/art_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | FINNEAS | 11 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 9 | Songwriter, Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
+| | Rob Kinelski | 8 | Producer |
+| | Emile Haynie | 5 | Producer |
+| | Dan Grech-Marguerat | 4 | Producer |
+| | Robert Orton | 4 | Producer |
+| | Larry Gold | 4 | Arranger |
+| | RedOne | 4 | Producer, Songwriter, Arranger |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
+| | Justin Parker | 3 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | 2 | Songwriter |
+| | Joel Little | 2 | Producer, Songwriter |
+| | Tom Elmhirst | 2 | Producer |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| | Benjamin Rice | 2 | Producer |
+| | Dave Russell | 2 | Producer |
+| | Rami | 1 | Songwriter |
+| | Horace Ward | 1 | Producer |
+| | Paul Foley | 1 | Producer |
+| | Louiguy | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Brent Kolatalo | 1 | Producer |
+| | Nick Monson | 1 | Arranger, Producer, Songwriter |
+| | Tom Ware | 1 | Producer |
+| | Serban Ghenea | 1 | Producer |
+| | Thomas Warren | 1 | Producer |
+| | Matt Dunkley | 1 | Arranger |
+| | Lazonate Franklin | 1 | Songwriter |
+| | Madison Love | 1 | Songwriter |
+| | Eli Heisler | 1 | Producer |
+| | Robopop | 1 | Producer |
+| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
+| | BURNS | 1 | Producer, Songwriter |
+| | Noonie Bao | 1 | Songwriter |
+| | Dae Bennett | 1 | Producer |
+| | Hans Zimmer | 1 | Arranger |
+| | DJ White Shadow | 1 | Producer, Songwriter |
+| | Olle Romo | 1 | Producer |
+| | Dan Auerbach | 1 | Producer |
+| | Lionel Crasta | 1 | Producer |
+| | Stephen Lipson | 1 | Producer |
+| | Collin Dupuis | 1 | Producer |
+| | Lukas Nelson | 1 | Songwriter |
+| | Mattias Larsson | 1 | Songwriter |
+| | LaShawn Daniels | 1 | Songwriter |
+| | Trevor Yasuda | 1 | Producer |
+| | Akon | 1 | Songwriter |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Aaron Raitiere | 1 | Songwriter |
+| | Mark Nilan, Jr. | 1 | Arranger, Producer, Songwriter |
+| | Chris Garcia | 1 | Producer |
+| | Casey Cuayo | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | 1 | Lyricist, Songwriter |
+| | Kieron Menzies | 1 | Producer |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Mike "Handz" Donaldson | 1 | Producer |
+| | Matt Wiggins | 1 | Producer |
+| | Édith Piaf (Piaf, Édith) | 1 | Lyricist, Songwriter |
+| | Daniel Law Heath | 1 | Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Rodney Jerkins | 1 | Producer, Songwriter |
+| | Caroline Ailin | 1 | Songwriter |
+| | Robert John "Mutt" Lange | 1 | Producer |
+| | Paul Epworth | 1 | Producer |
+| | Hisashi Mizoguchi | 1 | Producer |
+| | Dean Reid | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 1 | Songwriter |
+| | John Hanes | 1 | Producer |
+| | Carl Bagge | 1 | Arranger |
+| | Brian Newman | 1 | Producer |
+| | Patrik Berger | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -131,3 +219,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="everything i wanted" width="50" /> | everything i wanted (2019-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="Young And Beautiful" width="50" /> | Young And Beautiful (2013-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | Norman Fucking Rockwell! (2019-08-30) | <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="Pure Heroine" width="50" /> | Pure Heroine (2013-09-27) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? (2019-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | Ultraviolence (Deluxe) (2014-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/art_pop/years.png)

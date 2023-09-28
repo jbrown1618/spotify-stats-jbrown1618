@@ -135,6 +135,96 @@ TWICE is currently:
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Lyricist | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
 | Vocal | 11 | 9 | 9 | 10 | 10 | 9 | 9 | 9 | 10 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | CRUEL | 김다현 (Kim, Da-hyun) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | 손채영 (Son, Chae-young) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 엄세희 (Um, Se-Hee) | 10 | Producer |
+| | 이태섭 (Lee, Tae-Sub) | 7 | Producer |
+| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
+| | 이상엽 (Lee, Sang-yeob) | 6 | Producer |
+| | 심은지 (Sim, Eunjee) | 5 | Arranger, Lyricist, Producer, Songwriter |
+| | 구혜진 (Gu, Hye-jin) | 5 | Producer |
+| | 임홍진 (Im, Hong-Jin) | 4 | Producer |
+| | Sophia Pae | 4 | Arranger |
+| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
+| | Tony Maserati | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Melanie Joy Fontana | 3 | Lyricist, Songwriter |
+| | 신지영 (Shin, Ji-young) | 3 | Producer |
+| | Sam Lewis | 3 | Lyricist, Songwriter |
+| | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
+| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
+| | 박은정 (박은정) | 2 | Producer |
+| | 김용운 (Gim, Yong-un) | 2 | Producer |
+| | 이경원 (Lee, Kyung-won) | 2 | Producer |
+| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 김영현 (Kim, Young-hyun) | 1 | Producer |
+| | Brooke Tomlinson | 1 | Songwriter |
+| | TBHits | 1 | Arranger, Songwriter |
+| | Mich Hansen | 1 | Songwriter |
+| | Kaedi Dalley | 1 | Lyricist, Songwriter |
+| | 72 | 1 | Songwriter |
+| | 임찬미 (Kim, Chan-mi) | 1 | Producer |
+| | Gingerbread | 1 | Arranger, Producer |
+| | 이우현 (Lee, Woo-hyun) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
+| | Boy Matthews | 1 | Lyricist |
+| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | Alma Goodman | 1 | Songwriter |
+| | 손채영 (Son, Chae-young) | 1 | Lyricist |
+| | Kelsey Klingensmith | 1 | Songwriter |
+| | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Cutfather | 1 | Arranger |
+| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
+| | A. Wright | 1 | Songwriter |
+| | Anna Timgren | 1 | Lyricist, Songwriter |
+| | Marcus van Wattum | 1 | Arranger, Songwriter |
+| | Barry Cohen | 1 | Songwriter |
+| | EJAE | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebac5af05b8330aabff5800382" alt="" width="50" /> | Zara Larsson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a6657df91aef7b4b422efe3" alt="" width="50" /> | MRCH | 1 | Arranger, Producer, Songwriter |
+| | Gray Trainer | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../bibi/overview.md) | 1 | Lyricist |
+| | MNEK | 1 | Songwriter |
+| | GG Ramirez | 1 | Lyricist, Songwriter |
+| | Nea | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | earattack | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Jenson Vaughan | 1 | Arranger, Songwriter |
+| | Julia Michaels | 1 | Songwriter |
+| | Musikality | 1 | Songwriter |
+| | Mr. Franks | 1 | Arranger, Songwriter |
+| | Nina Ann Nelson | 1 | Lyricist, Songwriter |
+| | danke | 1 | Lyricist |
+| | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
+| | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | Lauren Dyson | 1 | Arranger, Songwriter |
+| | Alexander Pavelich | 1 | Arranger, Songwriter |
+| | John Hanes | 1 | Producer |
+| | 조한솔 (Cho, Han-sol) | 1 | Producer |
+| | 최규성 (Choi, Kyu-sung) | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/twice/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

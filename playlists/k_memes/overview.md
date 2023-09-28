@@ -196,6 +196,60 @@
 
 ![Bar chart of top 9 genres](../../images/playlists/k_memes/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 1 | Arranger, Lyricist, Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
+| | Courtney Woolsey | 1 | Songwriter |
+| | Daniel Mikael Caesar | 1 | Songwriter |
+| | Cameron Neilson | 1 | Songwriter |
+| | 이성호 (Lee, Sung-ho) | 1 | Producer |
+| | MarkAlong | 1 | Songwriter |
+| | Brian U | 1 | Songwriter |
+| | Ellen Berg Tollbom | 1 | Songwriter |
+| | Sam Lewis | 1 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ayushy | 1 | Songwriter |
+| | E-Tribe | 1 | Arranger, Lyricist, Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
+| | Enan | 1 | Songwriter |
+| | Cazzi Opeia | 1 | Songwriter |
+| | Tomas Smagesjo | 1 | Songwriter |
+| | Awry | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | 1 | Lyricist, Songwriter |
+| | Chanti | 1 | Songwriter |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 1 | Songwriter |
+| | 유건형 (Yoo, Keon-Hyung) | 1 | Songwriter |
+| | 이태섭 (Lee, Tae-Sub) | 1 | Producer |
+| | EJAE | 1 | Songwriter |
+| | Rajan Muse | 1 | Songwriter |
+| | 라도 (Rado) | 1 | Arranger, Producer |
+| | Dr.JO | 1 | Lyricist |
+| | Jan Baars | 1 | Songwriter |
+| | Ludwig Lindell | 1 | Songwriter |
+| | 이수만 (Lee, Soo-Man) | 1 | Producer |
+| | Charlotte Wilson | 1 | Songwriter |
+| | PENOMECO | 1 | Lyricist |
+| | 최진석 (Choi, Jin-seok) | 1 | Arranger, Songwriter |
+| | 임홍진 (Im, Hong-Jin) | 1 | Producer |
+| | Lauren Dyson | 1 | Songwriter |
+| | Ashley Alisha | 1 | Songwriter |
+| | 이해솔 (Lee, Hae Sol) | 1 | Arranger |
+| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | 최혜진 (Cho, Hye-jin) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/k_memes/producers.png)
 ## Years
 
 

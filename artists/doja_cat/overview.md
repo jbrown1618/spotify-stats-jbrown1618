@@ -54,6 +54,72 @@
 | Songwriter | 7 |
 | Vocal | 3 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="" width="50" /> | Kiss Me More (feat. SZA) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | You Right | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | Paint The Town Red | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](overview.md) | 7 | Songwriter |
+| | Serban Ghenea | 4 | Producer |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 3 | Songwriter |
+| | Yeti Beats | 3 | Producer, Songwriter |
+| | John Hanes | 2 | Producer |
+| | Bryce Bordone | 2 | Producer |
+| | Rian Lewis | 2 | Producer |
+| | Rogét Chahayed (Chahayed, Rogét) | 2 | Producer, Songwriter |
+| | Jason Gill | 1 | Producer, Songwriter |
+| | Joe Visciano | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mike Stoller | 1 | Songwriter |
+| | Karl Rubin | 1 | Songwriter |
+| | Jean-Baptiste Kouame | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Songwriter |
+| | Lydia Asrat | 1 | Songwriter |
+| | Terry Shaddick | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| | Isaac Earl Bynum | 1 | Songwriter |
+| | Jaycen Joshua | 1 | Producer |
+| | Tyson Trax | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | Ashnikko | 1 | Songwriter |
+| | Steve Kipner | 1 | Songwriter |
+| | Jussifer | 1 | Producer, Songwriter |
+| | Ryan Buendia | 1 | Songwriter |
+| | Dr. Luke | 1 | Producer |
+| | Jerry Leiber | 1 | Songwriter |
+| | Carter Lang | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | 1 | Songwriter |
+| | Burt Bacharach | 1 | Songwriter |
+| | tizhimself | 1 | Producer, Songwriter |
+| | Earl on the Beat | 1 | Producer |
+| | Sky Adams | 1 | Producer, Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Clint Gibbs | 1 | Producer |
+| | Hal David | 1 | Songwriter |
+| | Pablo Bowman | 1 | Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Imad Royal | 1 | Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/doja_cat/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -195,6 +195,35 @@ Appears as:
 
 ![Bar chart of top 13 genres](../../images/labels/stone_music_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Anna Timgren | 1 | Lyricist, Songwriter |
+| | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
+| | R.Tee | 1 | Producer |
+| | 김재웅 (Kim, Jae-ung) | 1 | Lyricist, Songwriter |
+| | 최현준 (Choi, Hyun-Joon) | 1 | Arranger, Lyricist, Songwriter |
+| | Fuxxy | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | 김지현 (Kim, Ji Hyun) | 1 | Producer |
+| | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 고현정 (Ko, Hyeonjeong) | 1 | Lyricist |
+| | 김승수 (Kim, Seungsu) | 1 | Arranger, Lyricist, Songwriter |
+| | VINCENZO | 1 | Arranger, Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 13 producers](../../images/labels/stone_music_entertainment/producers.png)
 ## Tracks released under Stone Music Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

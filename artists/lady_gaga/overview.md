@@ -59,6 +59,68 @@
 | Songwriter | 8 |
 | Vocal | 5 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | LoveGame | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Bad Romance | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Yoü And I | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | Look What I Found | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | La Vie En Rose | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](overview.md) | 9 | Songwriter, Producer, Arranger |
+| | RedOne | 4 | Producer, Songwriter, Arranger |
+| | Robert Orton | 3 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| | Dave Russell | 2 | Producer |
+| | Benjamin Rice | 2 | Producer |
+| | Louiguy | 1 | Songwriter |
+| | Horace Ward | 1 | Producer |
+| | Rami | 1 | Songwriter |
+| | Tom Ware | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Lazonate Franklin | 1 | Songwriter |
+| | Nick Monson | 1 | Arranger, Producer, Songwriter |
+| | Madison Love | 1 | Songwriter |
+| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
+| | BURNS | 1 | Producer, Songwriter |
+| | Dae Bennett | 1 | Producer |
+| | DJ White Shadow | 1 | Producer, Songwriter |
+| | Paul Foley | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../beyonc_/overview.md) | 1 | Songwriter |
+| | Brian Newman | 1 | Producer |
+| | LaShawn Daniels | 1 | Songwriter |
+| | Hisashi Mizoguchi | 1 | Producer |
+| | Robert John "Mutt" Lange | 1 | Producer |
+| | Rodney Jerkins | 1 | Producer, Songwriter |
+| | Édith Piaf (Piaf, Édith) | 1 | Lyricist, Songwriter |
+| | Mike "Handz" Donaldson | 1 | Producer |
+| | Lukas Nelson | 1 | Songwriter |
+| | Mark Nilan, Jr. | 1 | Arranger, Producer, Songwriter |
+| | Aaron Raitiere | 1 | Songwriter |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Akon | 1 | Songwriter |
+| | Olle Romo | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/lady_gaga/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -73,6 +73,58 @@ NMIXX is currently:
 | | JINI | Lily Jin Morrow | 김지우 (Kim, Ji-woo) | 배진솔 (Bae, Jin-sol) | 설윤아 (Seol, Yoo-nah) | 오해원 (Oh, Hae-won) | 장규진 (Jang, Kyu-jin) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
 | Vocal | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Dr.JO | 3 | Lyricist, Arranger |
+| | Brian U | 2 | Songwriter, Arranger |
+| | Charlotte Wilson | 2 | Songwriter, Arranger |
+| | 차이린 (Chailin) | 1 | Lyricist |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | Chanti | 1 | Songwriter |
+| | Zaya | 1 | Lyricist |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | MarkAlong | 1 | Songwriter |
+| | MJ | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 오현선 (Oh, Hyun-sun) | 1 | Lyricist |
+| | Jonkind | 1 | Songwriter |
+| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
+| | 김영현 (Kim, Young-hyun) | 1 | Producer |
+| | Enan | 1 | Songwriter |
+| | Frankie Day | 1 | Songwriter |
+| | Awry | 1 | Songwriter |
+| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| | Deanna | 1 | Songwriter |
+| | Tony Maserati | 1 | Producer |
+| | Ayushy | 1 | Songwriter |
+| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | Ericka Coulter | 1 | Songwriter |
+| | 명혜인 (Myeong, Hyein) | 1 | Lyricist |
+| | danke | 1 | Lyricist |
+| | Matthew Jaragin | 1 | Songwriter |
+| | 백새임 (Baek, Sae-im) | 1 | Lyricist |
+| | 아르마딜로 (Armadillo) | 1 | Arranger, Songwriter |
+| | Jan Baars | 1 | Songwriter |
+| | Alawn | 1 | Producer |
+| | 정준호 (Jung, Joon-ho) | 1 | Lyricist |
+| | 랑가 (Langa) | 1 | Arranger, Songwriter |
+| | Rajan Muse | 1 | Songwriter |
+| | 엄세희 (Um, Se-Hee) | 1 | Producer |
+| | EJAE | 1 | Songwriter |
+| | 이경원 (Lee, Kyung-won) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/nmixx/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

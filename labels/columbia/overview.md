@@ -79,7 +79,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 1 | 0 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75559132f961dcf3ba4f5c7a" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
+| | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 1 | 0 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 
 </details>
@@ -257,6 +257,122 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/columbia/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Phil Ramone | 9 | Producer |
+| | Jim Boyer | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 8 | Producer, Songwriter |
+| | Mark "Spike" Stent | 6 | Producer |
+| | Serban Ghenea | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Tyler Johnson | 4 | Producer, Songwriter |
+| | Kid Harpoon | 3 | Producer, Songwriter |
+| | John Hanes | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | DJ Swivel | 3 | Producer |
+| | Roy Halee | 3 | Producer |
+| | David Campbell | 3 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | 3 | Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Rob Kirwan | 2 | Producer |
+| | Derek Dixie | 2 | Producer |
+| | Jim Caruana | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 2 | Songwriter |
+| | Gary Paczosa | 2 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Michael Omartian | 2 | Arranger |
+| | Ted Brosnan | 2 | Producer |
+| | Sammy Witte | 2 | Producer |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
+| | The-Dream | 2 | Songwriter |
+| | Ron Malo | 2 | Producer |
+| | Mitch Rowland | 2 | Songwriter |
+| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
+| | Guy-Manuel de Homem-Christo | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
+| | Stuart White | 2 | Producer |
+| | Shea Taylor | 2 | Producer, Songwriter |
+| | Lloyd Maines | 2 | Producer |
+| | Thomas Bangalter | 2 | Producer, Songwriter |
+| | Eric Bickel | 2 | Producer |
+| | Michael Stewart | 2 | Producer |
+| | Kuk Harrell | 1 | Producer |
+| | Fred Tenny | 1 | Producer |
+| | Anne Preven | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+| | Steve Churchyard | 1 | Producer |
+| | Angus Young | 1 | Songwriter |
+| | Dan Wilson | 1 | Lyricist, Songwriter |
+| | Bruce Botnick | 1 | Producer |
+| | Richard "P2J" Isong | 1 | Producer, Songwriter |
+| | Malcolm Young | 1 | Songwriter |
+| | Caryl Weinstock | 1 | Producer |
+| | E. Kidd Bogart | 1 | Songwriter |
+| | Julian Burg | 1 | Producer |
+| | Greg Kurstin | 1 | Producer, Songwriter |
+| | David Biral | 1 | Producer, Songwriter |
+| | Scott Cutler | 1 | Songwriter |
+| | Jaycen Joshua | 1 | Producer |
+| | Inaam Haq | 1 | Producer |
+| | Steve Perry | 1 | Songwriter |
+| | Devin Nakao | 1 | Producer |
+| | Robert Wilson | 1 | Songwriter |
+| | Zachary Abels | 1 | Songwriter |
+| | Jolie Levine | 1 | Arranger |
+| | Jesse | 1 | Lyricist, Songwriter |
+| | Aynsley Dunbar | 1 | Producer |
+| | Liberty DeVitto | 1 | Arranger |
+| | Matthew Stevens | 1 | Producer |
+| | Ray Colcord | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | Miley Cyrus | 1 | Songwriter |
+| | Toby Gad | 1 | Arranger, Producer, Songwriter |
+| | BC Jean | 1 | Songwriter |
+| | Brent Kutzle | 1 | Producer |
+| | Lonnie Simmons | 1 | Songwriter |
+| | Cainon Lamb | 1 | Songwriter |
+| | Denzel Baptiste | 1 | Producer, Songwriter |
+| | Omer Fedi | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
+| | Isaac Slade | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
+| | Matthew Scatchell | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Alex Salibian | 1 | Producer, Songwriter |
+| | Michael Bivins | 1 | Songwriter |
+| | Kevin Cossom | 1 | Songwriter |
+| | Tony Platt | 1 | Producer |
+| | Stevie Nicks | 1 | Lyricist, Songwriter |
+| | Wayne Gordon | 1 | Producer |
+| | Andrew Scheps | 1 | Producer |
+| | Emily Robison | 1 | Lyricist, Songwriter |
+| | Charlie Wilson | 1 | Songwriter |
+| | Brad Samuelsohn | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
+| | Diana Gordon | 1 | Songwriter |
+| | Bruce Robison | 1 | Lyricist, Songwriter |
+| | Cecil Bernardy | 1 | Producer |
+| | Riccardo Damian | 1 | Producer |
+| | El Guincho | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | John Bradley | 1 | Producer |
+| | Greg Fidelman | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | David Dickson | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/columbia/producers.png)
 ## Tracks released under Columbia
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

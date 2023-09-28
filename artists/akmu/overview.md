@@ -63,6 +63,20 @@ AKMU is currently:
 |:---|---:|
 | Lyricist | 2 |
 | Songwriter | 2 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | 이찬혁 (Lee, Chanhyeok) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Ah puh | 이찬혁 (Lee, Chanhyeok) | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
+
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

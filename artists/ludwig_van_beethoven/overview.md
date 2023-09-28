@@ -53,6 +53,12 @@
 |:---|---:|
 | Songwriter | 1 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c129b7e46bb0d8b054dae51f" alt="" width="50" /> | A Fifth Of Beethoven | Songwriter |
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

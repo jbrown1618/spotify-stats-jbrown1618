@@ -102,6 +102,56 @@ Girls' Generation is currently:
 |:---|---:|---:|---:|---:|---:|
 | Lyricist | 0 | 0 | 0 | 1 | 0 |
 | Vocal | 1 | 1 | 1 | 5 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | [TAEYEON](../taeyeon/overview.md) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 이수만 (Lee, Soo-Man) | 5 | Producer |
+| | 이성호 (Lee, Sung-ho) | 3 | Producer |
+| | 남궁진 (Nam Goong, Jin) | 3 | Producer |
+| | Kenzie | 2 | Arranger, Lyricist, Songwriter, Producer |
+| | 유영진 (Yoo, Young-jin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Teddy Riley | 1 | Arranger, Producer, Songwriter |
+| | Sarah Lundbäck-Bell (Lundbäck-Bell, Sarah) | 1 | Arranger, Songwriter |
+| | Moonshine | 1 | Arranger |
+| | E-Tribe | 1 | Arranger, Lyricist, Songwriter |
+| | Anne Judith Wik | 1 | Arranger, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | busbee | 1 | Arranger, Producer |
+| | Will Simms | 1 | Arranger, Producer, Songwriter |
+| | Ylva Dimberg | 1 | Songwriter |
+| | 김영후 (Kim, Young-hu) | 1 | Lyricist |
+| | DOM | 1 | Arranger, Songwriter |
+| | Avenue 52 | 1 | Arranger |
+| | Joyfactory | 1 | Lyricist |
+| | Claudia Brant | 1 | Songwriter |
+| | 1월 8일 (1월 8일) | 1 | Lyricist |
+| | 홍지유 (Hong, Ji Yu) | 1 | Lyricist |
+| | 김태성 (Kim, Tae Sung) | 1 | Arranger, Songwriter |
+| | 최소영 (Choi, Seo-young) | 1 | Lyricist |
+| | Darren Baby-dee Smith | 1 | Arranger, Songwriter |
+| | Kalle Engstrom | 1 | Arranger, Producer |
+| | Richard Garcia | 1 | Arranger, Songwriter |
+| | 김정배 (Kim, Jung Bae) | 1 | Lyricist |
+| | Alex James | 1 | Arranger, Producer |
+| | Sean Alexander | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 28 producers](../../images/artists/girls__generation/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

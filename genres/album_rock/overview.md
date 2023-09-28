@@ -144,9 +144,123 @@
 
 ![Bar chart of top 18 record labels](../../images/genres/album_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/album_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/album_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| | Glyn Johns | 5 | Producer |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| | Ron Malo | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Keith Olsen | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Don Puluse | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | Chris Thomas | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Mick Jones | 2 | Producer, Songwriter |
+| | Michael Stewart | 2 | Producer |
+| | Alan Parsons | 2 | Producer |
+| | Barry Mraz | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| | David DeVore | 2 | Producer |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | George Drakoulias | 1 | Producer |
+| | Rick Rubin | 1 | Producer |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Liberty DeVitto | 1 | Arranger |
+| | Jim Ed Norman | 1 | Arranger |
+| | Bill Ward | 1 | Songwriter |
+| | Ian McDonald | 1 | Producer |
+| | Jeff Glixman | 1 | Producer |
+| | John Sinclair | 1 | Producer |
+| | Jimmy Douglass | 1 | Producer |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Keith Moon | 1 | Producer |
+| | Aynsley Dunbar | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Caryl Weinstock | 1 | Producer |
+| | Bruce Botnick | 1 | Producer |
+| | Kit Lambert | 1 | Producer |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Keith Richards | 1 | Songwriter |
+| | Jon Astley | 1 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Alvertis Isbell | 1 | Songwriter |
+| | Rodger Bain | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Mick Jagger | 1 | Songwriter |
+| | Don Henley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| | Peter Bown | 1 | Producer |
+| | Ray Colcord | 1 | Producer |
+| | Glenn Frey | 1 | Songwriter |
+| | Ozzy Osbourne | 1 | Songwriter |
+| | Steven Tyler | 1 | Lyricist, Songwriter |
+| | Steve Perry | 1 | Songwriter |
+| | Randy Mason | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Damon Lyon-Shaw | 1 | Producer |
+| | Brian Ross-Myring | 1 | Producer |
+| | Lou Waxman | 1 | Producer |
+| | David Gilmour | 1 | Songwriter |
+| | Ed Walsh | 1 | Producer |
+| | Steve Boyer | 1 | Producer |
+| | Tom Allom | 1 | Producer |
+| | Lou Gramm | 1 | Songwriter |
+| | Brendan O'Brien | 1 | Producer |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Gary Lyons | 1 | Producer |
+| | Jim Tomlinson | 1 | Arranger |
+| | Kevin Herron | 1 | Producer |
+| | Eddie Curtis | 1 | Songwriter |
+| | Ross Valory | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Kenny Ascher | 1 | Arranger |
+| | David Hassinger | 1 | Producer |
+| | John Bradley | 1 | Producer |
+| | Otis Redding | 1 | Songwriter |
+| | Neal Schon | 1 | Producer, Songwriter |
+| | Brian Humphries | 1 | Producer |
+| | Chris Stamp | 1 | Producer |
+| | Andrew Loog Oldham | 1 | Producer |
+| | Richard Wright | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Chris Hinshaw | 1 | Producer |
+| | Adrian Barber | 1 | Producer |
+| | Allen Jones | 1 | Songwriter |
+| | Roy Thomas Baker | 1 | Producer |
+| | Gregg Rolie | 1 | Producer |
+| | Niko Bolas | 1 | Producer |
+| | Michael Getlin | 1 | Producer |
+| | Danny Kortchmar | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Geoff Workman | 1 | Producer |
+| | Norman Smith | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
+| | James William Guercio | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -160,3 +274,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Led Zeppelin III (Remaster)" width="50" /> | Led Zeppelin III (Remaster) (1970) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="The Nylon Curtain" width="50" /> | The Nylon Curtain (1982-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="Paranoid (Remaster)" width="50" /> | Paranoid (Remaster) (1970-09-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="Escape (Bonus Track Version)" width="50" /> | Escape (Bonus Track Version) (1981) | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | Who's Next (Deluxe Edition) (1971-08-14) |
+
+![Bar chart of number of songs by year](../../images/genres/album_rock/years.png)

@@ -85,6 +85,78 @@ CHUNG HA is currently:
 | Lyricist | 4 |
 | Vocal | 8 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 정은경 (Jung, Eun-Kyung) | 9 | Producer |
+| | Fuxxy | 7 | Lyricist, Songwriter, Arranger |
+| | VINCENZO | 5 | Arranger, Lyricist, Songwriter |
+| | 윤원권 (Yoon, Won-kwon) | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](overview.md) | 4 | Lyricist |
+| | 양영은 (Yang, Young-eun) | 3 | Producer |
+| | 김지현 (Kim, Ji Hyun) | 2 | Producer |
+| | 김재웅 (Kim, Jae-ung) | 2 | Arranger, Lyricist, Songwriter |
+| | 김수정 (김수정) | 2 | Producer |
+| | Anna Timgren | 2 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Rick Parkhouse | 1 | Lyricist, Songwriter |
+| | Roberto Vazquez | 1 | Producer |
+| | Stay Tuned | 1 | Producer |
+| | Sam Merrifield | 1 | Songwriter |
+| | 진리 (Jinri) | 1 | Lyricist, Songwriter |
+| | KLOË (KLOE) | 1 | Lyricist, Songwriter |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
+| | Lao Ra | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
+| | Jeremy G | 1 | Songwriter |
+| | Cutfather | 1 | Arranger |
+| | Michael Fatkin | 1 | Arranger, Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
+| | DRK | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB | 1 | Producer |
+| | 박재선 (Park, Jason) | 1 | Producer |
+| | Daniel Kim | 1 | Arranger, Songwriter |
+| | yuka | 1 | Arranger, Songwriter |
+| | Rebecca King | 1 | Lyricist |
+| | Prime Time | 1 | Songwriter |
+| | Peter Hanna | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../bibi/overview.md) | 1 | Lyricist |
+| | Red Triangle | 1 | Arranger |
+| | Alawn | 1 | Producer |
+| | 영광의 얼굴들 (Glorious Faces) | 1 | Arranger, Songwriter |
+| | George Tizzard | 1 | Lyricist, Songwriter |
+| | Musikality | 1 | Arranger, Songwriter |
+| | Dawn Elektra | 1 | Songwriter |
+| | luvssong | 1 | Lyricist |
+| | Tinashé Fazakerley (Fazakerley, Tinashé) | 1 | Arranger, Lyricist, Songwriter |
+| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba16d9cf3cc90e28089cdf291" alt="" width="50" /> | Guaynaa | 1 | Lyricist |
+| | Ryan S. Jhun | 1 | Arranger, Lyricist, Songwriter |
+| | BXN | 1 | Arranger, Lyricist, Songwriter |
+| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | Samuel Preston | 1 | Lyricist, Songwriter |
+| | Mich Hansen | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/chung_ha/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

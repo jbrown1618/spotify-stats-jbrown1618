@@ -67,6 +67,43 @@ SUNMI is currently:
 | Songwriter | 3 |
 | Vocal | 1 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | pporappippam | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | TAIL | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | [SUNMI](overview.md) | 5 | Lyricist, Songwriter |
+| | Frants | 2 | Arranger, Songwriter, Producer |
+| | Ash | 1 | Arranger, Songwriter |
+| | Sean Callery | 1 | Arranger, Lyricist, Songwriter |
+| | 강선영 (강선영) | 1 | Producer |
+| | CobiCudi | 1 | Lyricist, Songwriter |
+| | 최자연 (Choi, Ja-yeon) | 1 | Producer |
+| | 김규원 (Kim, Gyu-won) | 1 | Arranger, Lyricist, Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | Vince | 1 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | TEDDY | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 11 producers](../../images/artists/sunmi/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

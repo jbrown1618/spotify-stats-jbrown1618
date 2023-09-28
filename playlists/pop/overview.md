@@ -479,6 +479,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/pop/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Serban Ghenea | 62 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 34 | Songwriter, Lyricist, Producer |
+| | John Hanes | 34 | Producer |
+| | Max Martin | 28 | Producer, Songwriter, Lyricist |
+| | Sam Holland | 20 | Producer |
+| | Manny Marroquin | 19 | Producer |
+| | Laura Sisk | 15 | Producer |
+| | Jack Antonoff | 13 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 13 | Songwriter, Producer |
+| | FINNEAS | 12 | Lyricist, Producer, Songwriter, Arranger |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Shellback | 12 | Producer, Songwriter, Lyricist |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 12 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 10 | Songwriter, Producer, Arranger |
+| | Phil Tan | 10 | Producer |
+| | Mark "Spike" Stent | 10 | Producer |
+| | Dr. Luke | 9 | Producer |
+| | Marcos Tovar | 9 | Producer |
+| | Michael Ilbert | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| | Philip Lawrence | 9 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 9 | Songwriter, Producer, Arranger |
+| | Kuk Harrell | 9 | Producer |
+| | Josh Gudwin | 8 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Producer, Songwriter |
+| | ILYA | 8 | Producer, Songwriter |
+| | Greg Kurstin | 8 | Producer, Songwriter |
+| | Rob Kinelski | 8 | Producer |
+| | Savan Kotecha | 8 | Songwriter, Producer |
+| | Mikkel Storleer Eriksen | 7 | Songwriter, Producer |
+| | Stargate | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
+| | Tor Erik Hermansen | 7 | Songwriter |
+| | Charles Moniz | 7 | Producer |
+| | Jonathan Low | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 7 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
+| | Ricky Reed | 6 | Producer, Songwriter, Arranger |
+| | Aaron Dessner | 6 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
+| | Bryce Dessner | 6 | Arranger |
+| | Alex Pasco | 6 | Producer |
+| | Tom Elmhirst | 6 | Producer |
+| | Emily Wright | 6 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 6 | Producer, Songwriter, Arranger |
+| | Jacob Kasher | 5 | Songwriter |
+| | Chris Martin | 5 | Songwriter |
+| | Adam Levine | 5 | Lyricist, Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
+| | Guy Berryman | 5 | Songwriter |
+| | James Fauntleroy | 5 | Songwriter |
+| | Julian Burg | 5 | Producer |
+| | Jaycen Joshua | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 5 | Songwriter |
+| | Rami | 5 | Songwriter, Producer |
+| | Tyler Johnson | 5 | Producer, Songwriter |
+| | Ari Levine | 5 | Producer, Songwriter |
+| | Jack Patterson | 5 | Producer, Songwriter |
+| | Will Champion | 5 | Songwriter |
+| | Louis Bell | 5 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 5 | Songwriter |
+| | Andrew Watt | 5 | Songwriter, Producer |
+| | Ali Tamposi | 5 | Songwriter |
+| | Brody Brown | 5 | Songwriter |
+| | Frank Dukes | 5 | Songwriter, Producer |
+| | Daniel Nigro | 4 | Producer, Songwriter, Lyricist |
+| | Peter Carlsson | 4 | Producer |
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| | Jeff Bhasker | 4 | Producer, Songwriter |
+| | Ken Nelson | 4 | Producer |
+| | Ray Romulus | 4 | Songwriter |
+| | The Smeezingtons | 4 | Producer |
+| | Ryan Tedder | 4 | Producer, Songwriter |
+| | Justin Tranter | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | 4 | Songwriter |
+| | Caroline Ailin | 4 | Songwriter, Producer |
+| | Kyle Resnick | 4 | Producer |
+| | Jeremy Reeves | 4 | Songwriter |
+| | Cirkut | 4 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | Olivia Rodrigo | 4 | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | [Katy Perry](../../artists/katy_perry/overview.md) | 4 | Songwriter |
+| | Jason Evigan | 4 | Songwriter, Producer |
+| | Ray McCullough | 4 | Songwriter |
+| | KAMILLE | 4 | Songwriter |
+| | Jonathan Yip | 4 | Songwriter |
+| | TBHits | 4 | Producer, Songwriter |
+| | RedOne | 4 | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad6237fcd3ef23e6dde2c55d" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
+| | Sarah Hudson | 3 | Songwriter |
+| | Robin Fredriksson | 3 | Songwriter |
+| | The Stereotypes | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 3 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Songwriter, Lyricist |
+| | Steve Mac | 3 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 3 | Producer, Songwriter |
+| | Ester Dean | 3 | Songwriter |
+| | Dan Reynolds | 3 | Producer, Songwriter |
+| | Justin Niebank | 3 | Producer |
+| | Michael Brauer | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | 3 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/pop/producers.png)
 ## Years
 
 

@@ -81,6 +81,30 @@ The Who:
 | Producer | 0 | 1 | 0 | 0 | 0 |
 | Songwriter | 0 | 0 | 5 | 0 | 0 |
 | Vocal | 2 | 0 | 3 | 0 | 3 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Pete Townshend | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | [The Who](overview.md), Pete Townshend | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | Won't Get Fooled Again - Remix | [The Who](overview.md), Pete Townshend | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | [The Who](overview.md), Pete Townshend, Keith Moon | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Pete Townshend | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| | Glyn Johns | 4 | Producer |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](overview.md) | 3 | Producer |
+| | Damon Lyon-Shaw | 1 | Producer |
+| | Chris Stamp | 1 | Producer |
+| | Keith Moon | 1 | Producer |
+| | Jon Astley | 1 | Producer |
+| | Kit Lambert | 1 | Producer |
+
+![Bar chart of top 8 producers](../../images/artists/the_who/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

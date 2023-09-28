@@ -42,6 +42,37 @@ Appears as:
 
 ![Bar chart of top 4 genres](../../images/labels/143/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | David Foster | 3 | Producer, Arranger |
+| | Amy Foster-Gillies | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_/overview.md) | 3 | Songwriter, Arranger |
+| | Humberto Gatica | 3 | Producer |
+| | Alan Chang | 3 | Songwriter, Arranger |
+| | Bob Rock | 2 | Producer, Arranger |
+| | Alejandro Rodríguez (Rodríguez, Alejandro) | 2 | Producer |
+| | Jochem van der Saag | 2 | Producer |
+| | Neil Devor | 2 | Producer |
+| | Leslie Bricusse | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Don Sebesky | 1 | Arranger |
+| | William Ross | 1 | Arranger |
+| | Lou Pomanti | 1 | Arranger |
+| | Anthony Newley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 15 producers](../../images/labels/143/producers.png)
 ## Tracks released under 143
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -252,9 +252,123 @@
 
 ![Bar chart of top 30 record labels](../../images/genres/rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | John Lennon | 20 | Songwriter |
+| | Paul McCartney | 20 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Colin Greenwood | 12 | Songwriter |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Nigel Godrich | 12 | Producer |
+| | Philip Selway | 12 | Songwriter |
+| | Ed O'Brien | 12 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Geoff Emerick | 10 | Producer |
+| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | Glyn Johns | 9 | Producer |
+| | Phil McDonald | 8 | Producer |
+| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | Mike Stone | 6 | Producer |
+| | Roy Thomas Baker | 6 | Producer |
+| | Roger Taylor | 6 | Songwriter, Producer |
+| | Norman Smith | 6 | Producer |
+| | Thomas Bangalter | 5 | Producer, Songwriter |
+| | Chris Thomas | 5 | Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| | Guy-Manuel de Homem-Christo | 5 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Rick Rubin | 4 | Producer |
+| | Ken Scott | 3 | Producer |
+| | Geoff Workman | 3 | Producer |
+| | John Deacon | 3 | Songwriter, Lyricist |
+| | Dan Reynolds | 3 | Songwriter |
+| | Gus Unger-Hamilton | 3 | Songwriter |
+| | Charlie Andrew | 3 | Producer, Songwriter |
+| | Wayne Sermon | 3 | Songwriter |
+| | Joe Newman | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | Thom Green | 3 | Songwriter |
+| | Sean Slade | 3 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 3 | Lyricist, Songwriter, Producer |
+| | Roy Halee | 3 | Producer |
+| | John Leckie | 3 | Producer |
+| | Ben McKee | 3 | Songwriter |
+| | Mack | 3 | Producer |
+| | Kris Fredriksson | 3 | Producer |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Ted Brosnan | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | Keith Olsen | 2 | Producer |
+| | Tommaso Colliva | 2 | Producer |
+| | James Hetfield | 2 | Producer, Songwriter |
+| | Michael Stewart | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
+| | Adrian Bushby | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Hayley Williams | 2 | Songwriter |
+| | Trent Reznor | 2 | Lyricist, Songwriter, Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Jeff Jarratt | 2 | Producer |
+| | Manny Marroquin | 2 | Producer |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| | David DeVore | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Barry Mraz | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Alan Parsons | 2 | Producer |
+| | Ron Malo | 2 | Producer |
+| | Bernie Taupin | 2 | Lyricist |
+| | Barry Sheffield | 2 | Producer |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | Randy Staub | 2 | Producer |
+| | Bob Rock | 2 | Producer |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Jason Lader | 2 | Producer |
+| | Don Puluse | 2 | Producer |
+| | Mick Jones | 2 | Producer, Songwriter |
+| | Dan Grech-Marguerat | 2 | Producer |
+| | John Etchells | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
+| | Neal Avron | 2 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Phil Spector | 2 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Lars Ulrich | 2 | Producer, Songwriter |
+| | Tony Platt | 1 | Producer |
+| | David Hentschel | 1 | Producer |
+| | Joe Viers | 1 | Producer |
+| | Angus Young | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -268,3 +382,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | Random Access Memories (2013-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="Paramore" width="50" /> | Paramore (2013-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | The 2nd Law (2012-09-24) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+
+![Bar chart of number of songs by year](../../images/genres/rock/years.png)

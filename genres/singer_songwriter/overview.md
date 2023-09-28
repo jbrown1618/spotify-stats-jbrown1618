@@ -116,9 +116,65 @@
 
 ![Bar chart of top 15 record labels](../../images/genres/singer_songwriter/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/singer_songwriter/years.png)
+![Bar chart of top 30 producers](../../images/genres/singer_songwriter/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Phil Ramone | 9 | Producer |
+| | Jim Boyer | 9 | Producer |
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
+| | Michael Stewart | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Ron Malo | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Jimmy Boyelle | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Elliot Scheiner | 1 | Producer |
+| | Liberty DeVitto | 1 | Arranger |
+| | Kenny Ascher | 1 | Arranger |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Henry Lewy | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Ted Blaisdell | 1 | Producer |
+| | Lewis Merenstein | 1 | Producer |
+| | David Schiffman | 1 | Producer |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Chris Fogel | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | John Bradley | 1 | Producer |
+| | Ellis Sorkin | 1 | Producer |
+| | Eddie Curtis | 1 | Songwriter |
+| | Steve Boyer | 1 | Producer |
+| | Lou Waxman | 1 | Producer |
+| | Don Puluse | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
+| | Brooks Arthur | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Mick Jones | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| | Glen Ballard | 1 | Producer, Songwriter |
+| | Danny Kortchmar | 1 | Producer |
+| | Niko Bolas | 1 | Producer |
+| | Sandra Campbell Chapin | 1 | Songwriter |
+| | Bruce Botnick | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -132,3 +188,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="Blue" width="50" /> | Blue (1971-06-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
+
+![Bar chart of number of songs by year](../../images/genres/singer_songwriter/years.png)

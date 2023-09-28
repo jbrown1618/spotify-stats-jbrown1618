@@ -318,6 +318,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/r_b/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 10 | Songwriter, Producer |
+| | Serban Ghenea | 10 | Producer |
+| | Kuk Harrell | 9 | Producer |
+| | Marcos Tovar | 8 | Producer |
+| | Phil Tan | 8 | Producer |
+| | Manny Marroquin | 7 | Producer |
+| | John Hanes | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 7 | Producer, Songwriter |
+| | Philip Lawrence | 7 | Songwriter |
+| | Charles Moniz | 5 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mikkel Storleer Eriksen | 4 | Songwriter, Producer |
+| | Brody Brown | 4 | Songwriter |
+| | James Fauntleroy | 4 | Songwriter |
+| | Stargate | 4 | Producer |
+| | Ari Levine | 4 | Producer, Songwriter |
+| | D'Mile | 4 | Songwriter, Producer |
+| | Tor Erik Hermansen | 4 | Songwriter |
+| | The Smeezingtons | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 3 | Songwriter |
+| | Ray Romulus | 3 | Songwriter |
+| | Jeremy Reeves | 3 | Songwriter |
+| | Brandon Paak Anderson | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
+| | Shea Taylor | 3 | Producer, Songwriter |
+| | Ricky Reed | 3 | Producer, Songwriter |
+| | Ray McCullough | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](../../artists/janelle_mon_e/overview.md) | 3 | Songwriter, Producer |
+| | Jonathan Yip | 3 | Songwriter |
+| | Josh Gudwin | 2 | Producer |
+| | Andrew Wyatt | 2 | Songwriter |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Sandy Wilhelm | 2 | Songwriter |
+| | Ester Dean | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 2 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 2 | Songwriter |
+| | Sandy Vee | 2 | Producer |
+| | Miles Walker | 2 | Producer |
+| | Jason Evigan | 2 | Songwriter |
+| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
+| | Shampoo Press & Curl | 2 | Producer |
+| | Jim Caruana | 2 | Producer |
+| | Sean Douglas | 2 | Songwriter |
+| | DJ Swivel | 2 | Producer |
+| | The Stereotypes | 2 | Producer |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
+| | Boo Mitchell | 2 | Producer |
+| | Larry Gold | 2 | Arranger |
+| | The-Dream | 2 | Songwriter |
+| | Daniela Rivera | 2 | Producer |
+| | Jesse Saint John | 1 | Songwriter |
+| | Jens Jungkurth | 1 | Producer |
+| | Hit-Boy | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | Corinne Bailey Rae | 1 | Songwriter |
+| | Matthew Burnett | 1 | Producer |
+| | Big Sean | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 1 | Songwriter |
+| | Michael Bivins | 1 | Songwriter |
+| | Tom Elmhirst | 1 | Producer |
+| | Jeff Bhasker | 1 | Producer |
+| | Nathaniel Irvin, III | 1 | Songwriter |
+| | Wayne Gordon | 1 | Producer |
+| | Rogét Chahayed (Chahayed, Rogét) | 1 | Producer, Songwriter |
+| | Veronika Bozeman | 1 | Producer |
+| | Josh Collins | 1 | Producer |
+| | Imad Royal | 1 | Producer, Songwriter |
+| | Jeremy Wheatley | 1 | Producer |
+| | Anne Preven | 1 | Songwriter |
+| | Derek Dixie | 1 | Producer |
+| | Billy Foster | 1 | Lyricist |
+| | Andre Merritt | 1 | Songwriter |
+| | Diana Gordon | 1 | Songwriter |
+| | Shin Kamiyama | 1 | Producer |
+| | Ethan Shumaker | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb34b67847a7d97fd5f163728f" alt="" width="50" /> | Lucky Daye | 1 | Songwriter |
+| | Yogesh Tulsiani | 1 | Songwriter |
+| | Juan Pablo Negrete Ortiz | 1 | Producer |
+| | Frankie Storm | 1 | Songwriter |
+| | Shahid Khan | 1 | Songwriter |
+| | Patrick L. Brown | 1 | Songwriter |
+| | Justin Parker | 1 | Arranger, Producer, Songwriter |
+| | Matt Friedman | 1 | Songwriter |
+| | E. Kidd Bogart | 1 | Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| | Frank Romano | 1 | Songwriter |
+| | DaHeala | 1 | Songwriter |
+| | Emile Haynie | 1 | Producer |
+| | Toby Gad | 1 | Arranger, Producer, Songwriter |
+| | Joshua Lopez | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland | 1 | Producer |
+| | Smokey Robinson | 1 | Lyricist, Songwriter |
+| | BC Jean | 1 | Songwriter |
+| | James Anthony Carmichael | 1 | Producer |
+| | Crystal Nicole | 1 | Songwriter |
+| | Cainon Lamb | 1 | Songwriter |
+| | Kevin Cossom | 1 | Songwriter |
+| | Mike Caren | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/r_b/producers.png)
 ## Years
 
 

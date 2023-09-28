@@ -52,6 +52,42 @@ Michael Jackson:
 | Songwriter | 4 |
 | Vocal | 6 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Billie Jean | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Don't Stop The Music | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
+| | Bruce Swedien | 5 | Producer |
+| | Jerry Hey | 3 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
+| | Anthony Marinelli | 1 | Producer |
+| | James Ingram | 1 | Arranger, Songwriter |
+| | Steve Porcaro | 1 | Producer |
+| | Donn Landee | 1 | Producer |
+| | Greg Phillinganes | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Bill Wolfer | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 11 producers](../../images/artists/michael_jackson/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

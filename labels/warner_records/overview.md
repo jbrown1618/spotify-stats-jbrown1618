@@ -59,7 +59,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f23b93005b02c1503cc5379" alt="" width="50" /> | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb811da3b2e7c9e5a9c1a6c4f7" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
+| | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 1 | 0 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
@@ -205,6 +205,122 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/warner_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 5 | Songwriter |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| | Jenny Lewis | 4 | Lyricist, Songwriter |
+| | Jason Evigan | 3 | Songwriter |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Mike Mogis | 3 | Producer |
+| | Josh Gudwin | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Rich Costey | 2 | Producer |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Blake Sennett | 2 | Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| | Justin Tranter | 2 | Songwriter |
+| | Jason Lader | 2 | Producer |
+| | Jussifer | 2 | Producer, Songwriter |
+| | Keith Olsen | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | M-Phazes | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Caroline Ailin | 2 | Producer, Songwriter |
+| | Sean Douglas | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
+| | Ian Kirkpatrick | 2 | Producer, Songwriter |
+| | Emily Warren | 2 | Songwriter |
+| | Adrian Bushby | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Jaycen Joshua | 2 | Producer |
+| | Sarah Hudson | 2 | Songwriter |
+| | Clarence Coffee Jr. | 2 | Songwriter |
+| | David DeVore | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
+| | Billy Steinberg | 1 | Songwriter |
+| | Bill Ward | 1 | Songwriter |
+| | Dana Nielsen | 1 | Producer |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| | Michael Vail Blum | 1 | Producer |
+| | Michael Hutchence | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Producer, Songwriter |
+| | Juan Pablo Negrete Ortiz | 1 | Producer |
+| | Lorna Blackwood | 1 | Producer |
+| | Anthony Newley | 1 | Songwriter |
+| | Andrew Farriss | 1 | Songwriter |
+| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Producer |
+| | Ruffsound | 1 | Songwriter |
+| | John Cornfield | 1 | Producer |
+| | TEDDY | 1 | Songwriter |
+| | Jordan Johnson | 1 | Songwriter |
+| | Nate Walcott | 1 | Arranger |
+| | John Frusciante | 1 | Songwriter |
+| | Andrew Scheps | 1 | Producer |
+| | Matt Snell | 1 | Producer |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
+| | Alex Clare | 1 | Songwriter |
+| | Fagan Wilcox | 1 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Lewis Merenstein | 1 | Producer |
+| | Jack Samson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | 1 | Songwriter |
+| | Chris Holmes | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland | 1 | Producer |
+| | Chad Smith | 1 | Songwriter |
+| | KNY Factory | 1 | Songwriter |
+| | Ryan Ritchie | 1 | Producer |
+| | Jimmy Tamborello | 1 | Producer |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Producer |
+| | Nicolas Fournier | 1 | Producer |
+| | Anthony Kiedis | 1 | Songwriter |
+| | Rodger Bain | 1 | Producer |
+| | Ryan Hewitt | 1 | Producer |
+| | Josh Collins | 1 | Producer |
+| | Vince Watson | 1 | Producer |
+| | Andrew Watt | 1 | Producer, Songwriter |
+| | Daniel Johns | 1 | Songwriter |
+| | Leslie Bricusse | 1 | Songwriter |
+| | Billboard | 1 | Songwriter |
+| | Earl Burroughs | 1 | Songwriter |
+| | Drew Jurecka | 1 | Arranger, Producer |
+| | Paul LaMalfa | 1 | Producer |
+| | Drumma Boy | 1 | Producer |
+| | Flea | 1 | Songwriter |
+| | Jon Bellion | 1 | Producer, Songwriter |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Martin Cooke | 1 | Producer |
+| | Ori Kaplan | 1 | Songwriter |
+| | Rob Eaton | 1 | Producer |
+| | Blue Sky Black Death | 1 | Songwriter |
+| | Jason Corsaro | 1 | Producer |
+| | Erik Madrid | 1 | Producer |
+| | Tom Allom | 1 | Producer |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Jim Tomlinson | 1 | Arranger |
+| | Brian Humphries | 1 | Producer |
+| | Rick Rubin | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Michael Tayler | 1 | Producer |
+| | The Monsters & Strangerz | 1 | Producer |
+| | Ali Tamposi | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/warner_records/producers.png)
 ## Tracks released under Warner Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

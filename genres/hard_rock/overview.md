@@ -119,9 +119,96 @@
 
 ![Bar chart of top 17 record labels](../../images/genres/hard_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/hard_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/hard_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| | Glyn Johns | 4 | Producer |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| | Bob Rock | 2 | Producer |
+| | Barry Mraz | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | Lars Ulrich | 2 | Producer, Songwriter |
+| | Rob Kingsland | 2 | Producer |
+| | Randy Staub | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | James Hetfield | 2 | Producer, Songwriter |
+| | Ray Colcord | 1 | Producer |
+| | Alvertis Isbell | 1 | Songwriter |
+| | Rodger Bain | 1 | Producer |
+| | Jimmy Douglass | 1 | Producer |
+| | George Drakoulias | 1 | Producer |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Axl Rose | 1 | Songwriter |
+| | Angus Young | 1 | Songwriter |
+| | John Sinclair | 1 | Producer |
+| | Izzy Stradlin | 1 | Songwriter |
+| | Rick Rubin | 1 | Producer |
+| | Steven Adler | 1 | Songwriter |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Aynsley Dunbar | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Caryl Weinstock | 1 | Producer |
+| | Kit Lambert | 1 | Producer |
+| | Duff McKagan | 1 | Songwriter |
+| | Michael Barbiero | 1 | Producer |
+| | Tony Platt | 1 | Producer |
+| | Jon Astley | 1 | Producer |
+| | Malcolm Young | 1 | Songwriter |
+| | Keith Moon | 1 | Producer |
+| | Brad Samuelsohn | 1 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Ian McDonald | 1 | Producer |
+| | Bill Ward | 1 | Songwriter |
+| | Ozzy Osbourne | 1 | Songwriter |
+| | Jeff Glixman | 1 | Producer |
+| | Brian Johnson | 1 | Songwriter |
+| | Ross Valory | 1 | Producer |
+| | Eddie Curtis | 1 | Songwriter |
+| | Kevin Herron | 1 | Producer |
+| | Gary Lyons | 1 | Producer |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Lou Gramm | 1 | Songwriter |
+| | Randy Mason | 1 | Producer |
+| | Tom Allom | 1 | Producer |
+| | Ed Walsh | 1 | Producer |
+| | Damon Lyon-Shaw | 1 | Producer |
+| | Brendan O'Brien | 1 | Producer |
+| | Gregg Rolie | 1 | Producer |
+| | Geoff Workman | 1 | Producer |
+| | Mick Jones | 1 | Producer, Songwriter |
+| | Kirk Hammett | 1 | Songwriter |
+| | Brian Humphries | 1 | Producer |
+| | Michael Getlin | 1 | Producer |
+| | Roy Thomas Baker | 1 | Producer |
+| | Neal Schon | 1 | Producer, Songwriter |
+| | Steve Thompson | 1 | Producer |
+| | Allen Jones | 1 | Songwriter |
+| | Slash | 1 | Songwriter |
+| | Robert John "Mutt" Lange | 1 | Producer |
+| | Mike Clink | 1 | Producer |
+| | Adrian Barber | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Chris Stamp | 1 | Producer |
+| | Steven Tyler | 1 | Lyricist, Songwriter |
+| | Otis Redding | 1 | Songwriter |
+| | Steve Perry | 1 | Songwriter |
+| | Kerry Livgren | 1 | Lyricist, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -135,3 +222,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="Escape (Bonus Track Version)" width="50" /> | Escape (Bonus Track Version) (1981) | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="Machine Head" width="50" /> | Machine Head (1972-03-25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black (1980-07-25) | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker (1973-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="Departure" width="50" /> | Departure (1980) | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="Aerosmith" width="50" /> | Aerosmith (1973-01-05) |
+
+![Bar chart of number of songs by year](../../images/genres/hard_rock/years.png)

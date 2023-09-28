@@ -63,6 +63,79 @@ Dua Lipa is currently:
 | Songwriter | 7 |
 | Vocal | 6 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c31f2ce8009e2db57d718c2" alt="" width="50" /> | Kiss and Make Up | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Don't Start Now | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Break My Heart | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="" width="50" /> | Levitating (feat. DaBaby) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="" width="50" /> | Sweetest Pie | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | Dance The Night - From Barbie The Album | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](overview.md) | 7 | Songwriter |
+| | Clarence Coffee Jr. | 3 | Songwriter |
+| | Sarah Hudson | 3 | Songwriter |
+| | Caroline Ailin | 3 | Songwriter, Producer |
+| | Josh Gudwin | 3 | Producer |
+| | Emily Warren | 2 | Songwriter |
+| | Ian Kirkpatrick | 2 | Producer, Songwriter |
+| | Cameron Gower Poole | 2 | Producer |
+| | Stephen Kozmeniuk | 2 | Producer, Songwriter |
+| | Andrew Watt | 1 | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Michael Hutchence | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Lorna Blackwood | 1 | Producer |
+| | Andrew Farriss | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
+| | Ruffsound | 1 | Songwriter |
+| | Mike Dean | 1 | Producer |
+| | Serban Ghenea | 1 | Producer |
+| | KNY Factory | 1 | Songwriter |
+| | Platinum Library | 1 | Producer |
+| | Matt Snell | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
+| | KOZ | 1 | Producer |
+| | Jordan Johnson | 1 | Songwriter |
+| | Mark Shick | 1 | Producer |
+| | Stuart David Price | 1 | Producer |
+| | Andrew Wyatt | 1 | Producer, Songwriter |
+| | Drew Jurecka | 1 | Arranger, Producer |
+| | Ali Tamposi | 1 | Songwriter |
+| | The Monsters & Strangerz | 1 | Producer |
+| | Shawn "Source" Jarrett | 1 | Producer |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Nija | 1 | Songwriter |
+| | Brandon Bost | 1 | Producer |
+| | Paul LaMalfa | 1 | Producer |
+| | Billboard | 1 | Songwriter |
+| | Jason Evigan | 1 | Songwriter |
+| | OG Parker | 1 | Producer, Songwriter |
+| | Stefan Johnson | 1 | Songwriter |
+| | Picard Brothers | 1 | Producer |
+| | Soké (Soké) | 1 | Songwriter |
+| | Alex Venguer | 1 | Producer |
+| | Chelcee Grimes | 1 | Songwriter |
+| | Romano | 1 | Producer |
+| | TEDDY | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/dua_lipa/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

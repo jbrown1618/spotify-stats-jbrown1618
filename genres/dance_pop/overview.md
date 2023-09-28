@@ -84,12 +84,12 @@
 | <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | 1 | 0 | Bootsy Collins | [🔗](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb299e78573ac6393aa9079d19" alt="" width="50" /> | 1 | 0 | Thundercat | [🔗](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
+| | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
 | <img src="https://i.scdn.co/image/8a522c7faa13cf4321ca6bea075fd97f75f40cfe" alt="" width="50" /> | 1 | 0 | Ying Yang Twins | [🔗](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 0 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+| | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f19d4df57ae760cfbab33f5" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5d747f2aa17e23d16bf293c" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
@@ -274,9 +274,123 @@
 
 ![Bar chart of top 30 record labels](../../images/genres/dance_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/dance_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/dance_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Serban Ghenea | 16 | Producer |
+| | John Hanes | 12 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 10 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 9 | Songwriter, Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 7 | Songwriter |
+| | Philip Lawrence | 7 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 6 | Songwriter |
+| | Max Martin | 6 | Producer, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 5 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Manny Marroquin | 5 | Producer |
+| | Charles Moniz | 5 | Producer |
+| | Brody Brown | 4 | Songwriter |
+| | The Smeezingtons | 4 | Producer |
+| | James Fauntleroy | 4 | Songwriter |
+| | Rami | 4 | Songwriter, Producer |
+| | Frank Dukes | 4 | Songwriter, Producer |
+| | Ari Levine | 4 | Producer, Songwriter |
+| | RedOne | 4 | Producer, Songwriter, Arranger |
+| | Tony Maserati | 3 | Producer |
+| | Jonathan Yip | 3 | Songwriter |
+| | Jeremy Reeves | 3 | Songwriter |
+| | D'Mile | 3 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | 3 | Songwriter |
+| | Caroline Ailin | 3 | Songwriter, Producer |
+| | Ray McCullough | 3 | Songwriter |
+| | Josh Gudwin | 3 | Producer |
+| | Louis Bell | 3 | Songwriter, Producer |
+| | Sam Holland | 3 | Producer |
+| | Kristian Lundin | 3 | Producer, Songwriter |
+| | Dr. Luke | 3 | Producer |
+| | Ray Romulus | 3 | Songwriter |
+| | Brandon Paak Anderson | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
+| | Andreas Carlsson | 3 | Songwriter, Lyricist |
+| | Jaycen Joshua | 3 | Producer |
+| | Jason Evigan | 3 | Songwriter |
+| | Andrew Wyatt | 3 | Songwriter, Producer |
+| | Robert Orton | 3 | Producer |
+| | Yeti Beats | 3 | Producer, Songwriter |
+| | Savan Kotecha | 2 | Songwriter |
+| | Sean Douglas | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef" alt="" width="50" /> | Justin Timberlake | 2 | Songwriter, Lyricist, Producer |
+| | Clarence Coffee Jr. | 2 | Songwriter |
+| | Emily Wright | 2 | Producer |
+| | Benjamin Rice | 2 | Producer |
+| | Andrew Watt | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 2 | Songwriter |
+| | Rian Lewis | 2 | Producer |
+| | Bryce Bordone | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Dave Russell | 2 | Producer |
+| | Cameron Gower Poole | 2 | Producer |
+| | Bart Schoudel | 2 | Producer |
+| | Mike Elizondo | 2 | Songwriter, Producer |
+| | Justin Tranter | 2 | Songwriter |
+| | Rogét Chahayed (Chahayed, Rogét) | 2 | Producer, Songwriter |
+| | Tom Elmhirst | 2 | Producer |
+| | Ian Kirkpatrick | 2 | Producer, Songwriter |
+| | Claude Kelly | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
+| | Jussifer | 2 | Producer, Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | 2 | Songwriter |
+| | The Stereotypes | 2 | Producer |
+| | Sarah Hudson | 2 | Songwriter |
+| | Shampoo Press & Curl | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 2 | Songwriter |
+| | Boo Mitchell | 2 | Producer |
+| | John Amatiello | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland | 2 | Producer, Lyricist, Songwriter |
+| | Emily Warren | 2 | Songwriter |
+| | Larry Gold | 2 | Arranger |
+| | Martin Terefe | 2 | Producer |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Producer |
+| | Horace Ward | 1 | Producer |
+| | Jarami | 1 | Producer |
+| | Jacob Olofsson | 1 | Songwriter |
+| | Chris Tompkins | 1 | Songwriter |
+| | Gabe Burch | 1 | Producer |
+| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| | Michael Hutchence | 1 | Songwriter |
+| | Louiguy | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Omar Alfanno | 1 | Songwriter |
+| | KNY Factory | 1 | Songwriter |
+| | DJ White Shadow | 1 | Producer, Songwriter |
+| | Taboo | 1 | Songwriter |
+| | Billy Steinberg | 1 | Songwriter |
+| | Danny Morris | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | Kelly Clarkson | 1 | Songwriter |
+| | Josh Kear | 1 | Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -290,3 +404,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="Kiss Me More (feat. SZA)" width="50" /> | Kiss Me More (feat. SZA) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
+
+![Bar chart of number of songs by year](../../images/genres/dance_pop/years.png)

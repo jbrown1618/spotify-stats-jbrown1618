@@ -158,6 +158,60 @@
 
 ![Bar chart of top 9 genres](../../images/playlists/aegyo/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 블랙아이드필승 (Black Eyed Pilseung) | 6 | Arranger, Lyricist, Songwriter |
+| | 라도 (Rado) | 5 | Arranger, Producer |
+| | 이태섭 (Lee, Tae-Sub) | 3 | Producer |
+| | Sam Lewis | 3 | Lyricist, Songwriter |
+| | 최혜진 (Cho, Hye-jin) | 3 | Producer |
+| | FLYT | 3 | Arranger, Songwriter |
+| | 김용운 (Gim, Yong-un) | 2 | Producer |
+| | Anna Timgren | 2 | Lyricist, Songwriter |
+| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | Ryan S. Jhun | 2 | Arranger, Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 전군 (Jeon Goon) | 2 | Lyricist |
+| | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | 이성호 (Lee, Sung-ho) | 1 | Producer |
+| | will.b | 1 | Songwriter |
+| | 고현정 (Ko, Hyeonjeong) | 1 | Lyricist |
+| | DRK | 1 | Producer |
+| | 이우민 (Yiwoomin) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Arranger, Songwriter |
+| | Boy Matthews | 1 | Lyricist |
+| | E-Tribe | 1 | Arranger, Lyricist, Songwriter |
+| | 김승수 (Kim, Seungsu) | 1 | Arranger, Lyricist, Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | Co-sho | 1 | Lyricist |
+| | 조한솔 (Cho, Han-sol) | 1 | Producer |
+| | John Hanes | 1 | Producer |
+| | 최현준 (Choi, Hyun-Joon) | 1 | Arranger, Lyricist, Songwriter |
+| | Tony Maserati | 1 | Producer |
+| | 임홍진 (Im, Hong-Jin) | 1 | Producer |
+| | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | 이상엽 (Lee, Sang-yeob) | 1 | Producer |
+| | 이수만 (Lee, Soo-Man) | 1 | Producer |
+| | Chloe Latimer | 1 | Arranger, Songwriter |
+| | 엄세희 (Um, Se-Hee) | 1 | Producer |
+| | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
+| | Scott Stoddart | 1 | Arranger, Lyricist, Songwriter |
+| | Sophia Pae | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/aegyo/producers.png)
 ## Years
 
 

@@ -47,6 +47,22 @@ Appears as:
 
 ![Bar chart of top 3 genres](../../images/labels/fnc_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 한성호 (Han, Seong Ho) | 1 | Lyricist |
+| | 용배 (Seo, Yong-bae) | 1 | Arranger, Lyricist, Songwriter |
+| | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | MRey | 1 | Arranger, Songwriter |
+| | 밍키 (Mingki) | 1 | Arranger, Lyricist, Songwriter |
+| | Chakun | 1 | Lyricist |
+| | 최영미 (Choi, Yeong-mi) | 1 | Lyricist |
+| | Davey Nate | 1 | Songwriter |
+| | 신혁 (Shin, Hyuk) | 1 | Arranger, Songwriter |
+| | 이지은 (Lee, Ji-eun) | 1 | Lyricist |
+
+![Bar chart of top 10 producers](../../images/labels/fnc_entertainment/producers.png)
 ## Tracks released under FNC ENTERTAINMENT
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

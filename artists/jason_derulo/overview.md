@@ -52,6 +52,47 @@
 | Publishing | 2 |
 | Songwriter | 3 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty (feat. 2 Chainz) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](overview.md) | 3 | Songwriter |
+| | Sean Douglas | 2 | Songwriter |
+| | Jason Evigan | 2 | Songwriter |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Ori Kaplan | 1 | Songwriter |
+| | Vince Watson | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland | 1 | Producer |
+| | Josh Collins | 1 | Producer |
+| | Juan Pablo Negrete Ortiz | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="" width="50" /> | [Pentatonix](../pentatonix/overview.md) | 1 | Arranger |
+| | Tamir Muskat | 1 | Songwriter |
+| | Jon Bellion | 1 | Producer, Songwriter |
+| | Carl Martin | 1 | Songwriter |
+| | תומר יוסף (Yosef, Tomer) | 1 | Songwriter |
+| | Roberto "Tito" Vasquez | 1 | Producer |
+| | Ben Bram | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 17 producers](../../images/artists/jason_derulo/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -37,7 +37,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="nan" alt="" width="50" /> | 4 | 1 | Okieriete Onaodowan | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
+| | 4 | 1 | Okieriete Onaodowan | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | 4 | 1 | Daveed Diggs | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b47bb04577839c77f2e300bd" alt="" width="50" /> | 4 | 1 | Phillipa Soo | [🔗](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e7e0deeb6b99d1b756763bf" alt="" width="50" /> | 3 | 1 | Anthony Ramos | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
@@ -55,7 +55,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59a426d643b74f05b8749b8d" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
+| | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdfa216440c86986c2a780d0e" alt="" width="50" /> | 1 | 1 | Kaliii | [🔗](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
@@ -196,6 +196,122 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/atlantic_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 11 | Songwriter, Producer |
+| | Manny Marroquin | 8 | Producer |
+| | Philip Lawrence | 7 | Songwriter |
+| | Charles Moniz | 6 | Producer |
+| | Serban Ghenea | 6 | Producer |
+| | James Fauntleroy | 5 | Songwriter |
+| | Ray Romulus | 4 | Songwriter |
+| | John Hanes | 4 | Producer |
+| | Ari Levine | 4 | Producer, Songwriter |
+| | Jeremy Reeves | 4 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ray McCullough | 4 | Songwriter |
+| | Brody Brown | 4 | Songwriter |
+| | Jonathan Yip | 4 | Songwriter |
+| | The Smeezingtons | 4 | Producer |
+| | Andrew Wyatt | 3 | Songwriter, Producer |
+| | D'Mile | 3 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | Lin-Manuel Miranda | 3 | Lyricist, Songwriter |
+| | Brandon Paak Anderson | 3 | Songwriter |
+| | The Stereotypes | 3 | Producer |
+| | Caroline Ailin | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
+| | Larry Gold | 2 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
+| | Chris Galland | 2 | Producer |
+| | Ricky Reed | 2 | Arranger, Producer, Songwriter |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Boo Mitchell | 2 | Producer |
+| | Beau Sorenson | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735161c380bfea9322a4ef067f" alt="" width="50" /> | Alex Lacamoire | 2 | Arranger |
+| | Shampoo Press & Curl | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
+| | Chris Walla | 2 | Producer |
+| | Martin Terefe | 2 | Producer |
+| | Lionel Crasta | 1 | Producer |
+| | Ethan Shumaker | 1 | Producer |
+| | Jeff Bhasker | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | Ally Brooke | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
+| | Big Sean | 1 | Songwriter |
+| | Jesse Saint John | 1 | Songwriter |
+| | Julian Bunetta | 1 | Songwriter |
+| | Jens Jungkurth | 1 | Producer |
+| | Imad Royal | 1 | Producer, Songwriter |
+| | Cermyth Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
+| | Leslie Brathwaite | 1 | Producer |
+| | Jimmy Napes | 1 | Songwriter |
+| | Bill Malina | 1 | Producer |
+| | Teddy Geiger | 1 | Producer, Songwriter |
+| | Noonie Bao | 1 | Songwriter |
+| | Mike Caren | 1 | Songwriter |
+| | Joshua Lopez | 1 | Songwriter |
+| | Emile Haynie | 1 | Producer |
+| | Thomas Warren | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga | 1 | Songwriter |
+| | Malcolm McLaren | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Larry Price | 1 | Songwriter |
+| | Patrick Kehrier | 1 | Producer |
+| | Ayo the Producer | 1 | Producer, Songwriter |
+| | Frank Ski | 1 | Songwriter |
+| | Wayne Gordon | 1 | Producer |
+| | Ronald Larkins | 1 | Songwriter |
+| | Tony Maserati | 1 | Producer |
+| | Evan LaRay | 1 | Producer |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Terrace Martin | 1 | Producer |
+| | Picard Brothers | 1 | Producer |
+| | Jack Patterson | 1 | Producer, Songwriter |
+| | Tele | 1 | Producer |
+| | Jeff Chestek | 1 | Producer |
+| | Nick Harmer | 1 | Songwriter |
+| | Jordan Thorpe | 1 | Songwriter |
+| | Brett Shaw | 1 | Producer |
+| | Claude Kelly | 1 | Songwriter |
+| | Sky Adams | 1 | Producer, Songwriter |
+| | James Foye III | 1 | Songwriter |
+| | Brandon Bost | 1 | Producer |
+| | Kaveh Rastegar | 1 | Songwriter |
+| | Jeremy Ruzumna | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Liam Nolan | 1 | Producer |
+| | Timothy Fagan | 1 | Songwriter |
+| | Iain Hill | 1 | Producer |
+| | Steven Cheung | 1 | Songwriter |
+| | Shawn "Source" Jarrett | 1 | Producer |
+| | Alex Venguer | 1 | Producer |
+| | Blake Slatkin | 1 | Producer, Songwriter |
+| | John Ryan | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | Charlie Puth | 1 | Producer, Songwriter |
+| | Nikki Cislyn | 1 | Songwriter |
+| | Theron Thomas | 1 | Songwriter |
+| | Joe London | 1 | Songwriter |
+| | Cody Cichowski | 1 | Producer |
+| | Wez Clarke | 1 | Producer |
+| | Mattias Larsson | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/atlantic_records/producers.png)
 ## Tracks released under Atlantic Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

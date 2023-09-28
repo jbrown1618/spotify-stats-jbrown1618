@@ -54,6 +54,96 @@ Appears as:
 
 ![Bar chart of top 7 genres](../../images/labels/syco_music/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
+| | Serban Ghenea | 4 | Producer |
+| | Frank Dukes | 4 | Songwriter, Producer |
+| | John Hanes | 4 | Producer |
+| | Louis Bell | 3 | Songwriter, Producer |
+| | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
+| | Matt Radosevich | 2 | Producer |
+| | Bart Schoudel | 2 | Producer |
+| | KAMILLE | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Andrew Watt | 2 | Producer, Songwriter |
+| | Jaycen Joshua | 2 | Producer |
+| | Amy Wadge | 1 | Songwriter |
+| | Emily Weisband | 1 | Songwriter |
+| | Cashmere Cat | 1 | Producer, Songwriter |
+| | Mike Anderson | 1 | Producer |
+| | Kaan Gunesberk | 1 | Songwriter |
+| | Sasha Yatchenko | 1 | Songwriter |
+| | Robbie Soukiasyan | 1 | Producer |
+| | Jarami | 1 | Producer |
+| | Jacob Olofsson | 1 | Songwriter |
+| | Danny D | 1 | Producer |
+| | Screwface | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| | Matt Beckley | 1 | Producer |
+| | Henrik Barman Michelsen | 1 | Producer, Songwriter |
+| | Starrah | 1 | Songwriter |
+| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
+| | Mike Gaydusek | 1 | Producer |
+| | Jade Thirlwall | 1 | Songwriter |
+| | Ben Collier | 1 | Producer |
+| | Perrie Edwards | 1 | Songwriter |
+| | TMS | 1 | Producer |
+| | Nicky D'Silva | 1 | Producer |
+| | Robopop | 1 | Producer, Songwriter |
+| | Simon Clarke | 1 | Arranger |
+| | Noonie Bao | 1 | Songwriter |
+| | Jesy Nelson | 1 | Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
+| | Nicolle Galyon | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Thomas Barnes | 1 | Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
+| | Zubin Thakkar | 1 | Producer |
+| | Ed Drewett | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Ori Kaplan | 1 | Producer, Songwriter |
+| | Kyle Mann | 1 | Producer |
+| | Priscilla Renea | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Phil Tan | 1 | Producer |
+| | Ben Kohn | 1 | Songwriter |
+| | Ryan Tedder | 1 | Songwriter |
+| | Ant Clemons | 1 | Songwriter |
+| | Tor Erik Hermansen | 1 | Songwriter |
+| | Jack Patterson | 1 | Songwriter |
+| | Stargate | 1 | Producer |
+| | Chris Bishop | 1 | Producer |
+| | Miles Walker | 1 | Producer |
+| | Manny Marroquin | 1 | Producer |
+| | Rami Dawod | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
+| | JHart | 1 | Songwriter |
+| | DURO | 1 | Producer |
+| | Tim Blacksmith | 1 | Producer |
+| | Nathaniel Alford | 1 | Producer |
+| | Electric | 1 | Producer |
+| | Peter Kelleher | 1 | Songwriter |
+| | Brian Lee | 1 | Songwriter |
+| | Leigh-Anne | 1 | Songwriter |
+| | Steve James | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
+| | Edvard Førre Erfjord (Erfjord, Edvard Førre) | 1 | Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/syco_music/producers.png)
 ## Tracks released under Syco Music
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

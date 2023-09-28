@@ -62,6 +62,51 @@ Clean Bandit:
 | Producer | 2 | 3 | 2 | 0 | 0 |
 | Songwriter | 3 | 6 | 0 | 0 | 0 |
 | Vocal | 1 | 0 | 0 | 0 | 0 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | Rather Be (feat. Jess Glynne) | Jack Patterson, Grace Chatto | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Rather Be (Clean Bandit Cover) | Jack Patterson, Grace Chatto | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | Solo (feat. Demi Lovato) | Jack Patterson, Grace Chatto | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | Rockabye (feat. Sean Paul & Anne-Marie) | Luke Patterson, Jack Patterson | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | Symphony (feat. Zara Larsson) | Luke Patterson, Jack Patterson, Grace Chatto | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Jack Patterson | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jack Patterson | 4 | Producer, Songwriter |
+| | Grace Chatto | 3 | Producer, Songwriter |
+| | Ina Wroldsen | 2 | Songwriter |
+| | Mark Ralph | 2 | Producer |
+| | Steve Mac | 2 | Songwriter, Producer |
+| | Luke Patterson | 2 | Producer |
+| | Liam Nolan | 1 | Producer |
+| | Anmol Malik | 1 | Songwriter |
+| | Hal Ritson | 1 | Producer |
+| | KAMILLE | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | 1 | Songwriter |
+| | Jimmy Napes | 1 | Songwriter |
+| | Fred again.. | 1 | Songwriter |
+| | Nikki Cislyn | 1 | Songwriter |
+| | Wez Clarke | 1 | Producer |
+| | Ammar Malik | 1 | Songwriter |
+| | Brett Shaw | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | Demi Lovato | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/artists/clean_bandit/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

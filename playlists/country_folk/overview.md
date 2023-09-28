@@ -136,6 +136,68 @@
 
 ![Bar chart of top 23 genres](../../images/playlists/country_folk/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Marcus Mumford | 2 | Songwriter |
+| | Winston Marshall | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| | Ruadhri Cushnan | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
+| | Markus Dravs | 2 | Producer |
+| | Gary Paczosa | 2 | Producer |
+| | Ted Dwane | 2 | Songwriter |
+| | Ben Lovett | 2 | Songwriter |
+| | Eric Bickel | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Lloyd Maines | 2 | Producer |
+| | Rick Rubin | 2 | Producer |
+| | Josh Kear | 1 | Songwriter |
+| | Dan Wilson | 1 | Lyricist, Songwriter |
+| | David Ferguson | 1 | Producer |
+| | Bruce Robison | 1 | Lyricist, Songwriter |
+| | Stevie Nicks | 1 | Lyricist, Songwriter |
+| | Brett James | 1 | Songwriter |
+| | David Campbell | 1 | Arranger |
+| | Trent Reznor | 1 | Lyricist, Songwriter |
+| | Robin Baynton | 1 | Producer |
+| | Adam McKenzie | 1 | Songwriter |
+| | Chris Thile | 1 | Songwriter |
+| | Chris Tompkins | 1 | Songwriter |
+| | Emily Robison | 1 | Lyricist, Songwriter |
+| | Joe Zook | 1 | Producer |
+| | Jim Scott | 1 | Producer |
+| | Shannon Sanders | 1 | Producer |
+| | Don Law | 1 | Producer |
+| | Chris Testa | 1 | Producer |
+| | Drew Ramsey | 1 | Producer |
+| | Martie Maguire | 1 | Arranger, Lyricist, Songwriter |
+| | Greg Fidelman | 1 | Producer |
+| | Mark Bright | 1 | Producer |
+| | John Carter Cash | 1 | Producer |
+| | Richard Dodd | 1 | Producer |
+| | John Silva | 1 | Producer |
+| | Frank Jones | 1 | Producer |
+| | Natalie Maines | 1 | Lyricist, Songwriter |
+| | June Carter Cash | 1 | Songwriter |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
+| | Marshall Altman | 1 | Arranger, Producer |
+| | Mike Elizondo | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood | 1 | Songwriter |
+| | Paul Worley | 1 | Producer |
+| | Merle Kilgore | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/country_folk/producers.png)
 ## Years
 
 

@@ -79,6 +79,49 @@ Appears as:
 
 ![Bar chart of top 4 genres](../../images/labels/cube_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 9 | Lyricist, Songwriter, Arranger |
+| | 최예지 (Choi, Ye-ji) | 5 | Producer |
+| | 빅싼초 (Bicksancho) | 4 | Songwriter, Arranger, Lyricist |
+| | 신재빈 (Shin, Jae Bin) | 3 | Producer |
+| | 서재우 (Seo, Jae-woo) | 2 | Arranger, Lyricist, Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | 손영진 (Son, Young-jin) | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7f4b9b294a630d27f0c4d81" alt="" width="50" /> | HyunA | 2 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 조씨아저씨 (Mr. Cho) | 2 | Producer |
+| | Pop Time | 2 | Arranger, Songwriter |
+| | MINNIE | 2 | Lyricist, Songwriter |
+| | Kako | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | YUQI | 1 | Songwriter |
+| | DRK | 1 | Producer |
+| | FCM 후디니 (FCM Houdini) | 1 | Arranger, Lyricist, Songwriter |
+| | 홍승성 (Hong, Seung-sung) | 1 | Producer |
+| | BreadBeat | 1 | Arranger, Songwriter |
+| | HouDini | 1 | Arranger |
+| | 로 (Raw) | 1 | Arranger |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | 전지윤 (Jeon, Ji Yoon) | 1 | Lyricist |
+| | JENCI | 1 | Arranger, Songwriter |
+| | Siixk Jun | 1 | Arranger, Songwriter |
+| | 강선영 (강선영) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb61f92702ca14484aa263a931" alt="" width="50" /> | Skrillex | 1 | Arranger, Songwriter |
+
+</details>
+
+
+![Bar chart of top 27 producers](../../images/labels/cube_entertainment/producers.png)
 ## Tracks released under CUBE ENTERTAINMENT
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -142,9 +142,103 @@
 
 ![Bar chart of top 16 record labels](../../images/genres/soft_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/soft_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/soft_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Roy Halee | 3 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Barry Mraz | 2 | Producer |
+| | Keith Olsen | 2 | Producer |
+| | Ted Brosnan | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ron Malo | 2 | Producer |
+| | Mick Jones | 2 | Producer, Songwriter |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | David DeVore | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | Michael Stewart | 2 | Producer |
+| | Don Puluse | 2 | Producer |
+| | Don Henley | 1 | Songwriter |
+| | Liberty DeVitto | 1 | Arranger |
+| | Aynsley Dunbar | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| | Steve Perry | 1 | Songwriter |
+| | Freddie Perren | 1 | Songwriter |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Bruce Botnick | 1 | Producer |
+| | Jeff Glixman | 1 | Producer |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Ian McDonald | 1 | Producer |
+| | Jim Ed Norman | 1 | Arranger |
+| | Lewis Merenstein | 1 | Producer |
+| | John Sinclair | 1 | Producer |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | Glyn Johns | 1 | Producer |
+| | James Anthony Carmichael | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Glenn Frey | 1 | Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Chris Hinshaw | 1 | Producer |
+| | Elliot Scheiner | 1 | Producer |
+| | Randy Mason | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Brian Ross-Myring | 1 | Producer |
+| | Lou Waxman | 1 | Producer |
+| | Ed Walsh | 1 | Producer |
+| | Steve Boyer | 1 | Producer |
+| | Lou Gramm | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Gary Lyons | 1 | Producer |
+| | Jim Tomlinson | 1 | Arranger |
+| | Kevin Herron | 1 | Producer |
+| | Eddie Curtis | 1 | Songwriter |
+| | Ross Valory | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Dino Fekaris | 1 | Songwriter |
+| | John Bradley | 1 | Producer |
+| | Gregg Rolie | 1 | Producer |
+| | James William Guercio | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
+| | Lionel Richie | 1 | Lyricist, Songwriter |
+| | Geoff Workman | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Danny Kortchmar | 1 | Producer |
+| | Michael Getlin | 1 | Producer |
+| | Niko Bolas | 1 | Producer |
+| | Roy Thomas Baker | 1 | Producer |
+| | Neal Schon | 1 | Producer, Songwriter |
+| | Sandra Campbell Chapin | 1 | Songwriter |
+| | Tom Wilson | 1 | Producer |
+| | Brooks Arthur | 1 | Producer |
+| | Kenny Ascher | 1 | Arranger |
+| | Kerry Livgren | 1 | Lyricist, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -158,3 +252,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="...Nothing Like The Sun" width="50" /> | ...Nothing Like The Sun (1987-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> | Moondance (Deluxe Edition) (1970-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
+
+![Bar chart of number of songs by year](../../images/genres/soft_rock/years.png)

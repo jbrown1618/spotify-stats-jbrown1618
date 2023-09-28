@@ -88,6 +88,35 @@ STAYC is currently:
 | | SUMIN | 세은 (SEEUN) | 시은 (SIEUN) | 아이사 (ISA) | 윤 (YOON) | 재이 (J) |
 |:---|---:|---:|---:|---:|---:|---:|
 | Vocal | 12 | 9 | 12 | 12 | 12 | 12 |
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 블랙아이드필승 (Black Eyed Pilseung) | 11 | Lyricist, Songwriter, Arranger, Producer |
+| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
+| | 라도 (Rado) | 9 | Arranger, Producer |
+| | 정은경 (Jung, Eun-Kyung) | 9 | Producer |
+| | DRK | 6 | Producer |
+| | FLYT | 6 | Arranger, Songwriter, Producer |
+| | 고현정 (Go, Hyeon-Jeong) | 3 | Producer |
+| | will.b | 2 | Songwriter |
+| | Co-sho | 1 | Lyricist |
+| | 김수정 (김수정) | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Prime Time | 1 | Songwriter |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | BXN | 1 | Arranger, Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 13 producers](../../images/artists/stayc/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

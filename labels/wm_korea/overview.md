@@ -92,6 +92,40 @@ Appears as:
 
 ![Bar chart of top 7 genres](../../images/labels/wm_korea/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 권덕근 (Kwon, Duk-geun) | 1 | Arranger, Songwriter |
+| | PUFF | 1 | Arranger, Songwriter |
+| | Linemaster | 1 | Producer, Songwriter |
+| | 안창규 (An, Chang-kyu) | 1 | Producer |
+| | 황유빈 (황유빈) | 1 | Lyricist |
+| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | 김지현 (Kim, Ji Hyun) | 1 | Producer |
+| | Clovd | 1 | Arranger, Songwriter |
+| | 권유진 (Kwon, Eu-gene) | 1 | Producer |
+| | Sure Kim | 1 | Arranger, Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 김보성 (Kim, Bo-Seong) | 1 | Producer |
+| | C'SA | 1 | Songwriter |
+| | 신지영 (Shin, Ji-young) | 1 | Producer |
+| | 장우영 (Jang, Woo-young) | 1 | Producer |
+| | 이수빈 (Lee, Su-bin) | 1 | Arranger, Lyricist, Songwriter |
+| | Heejun Han | 1 | Lyricist |
+| | Elaina Klef | 1 | Lyricist |
+| | 이장빈 (Lee, Jang-bin) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/labels/wm_korea/producers.png)
 ## Tracks released under WM Korea
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

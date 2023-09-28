@@ -61,6 +61,50 @@ Coldplay:
 | Instrument | 2 | 2 | 2 | 2 |
 | Songwriter | 5 | 5 | 5 | 5 |
 | Vocal | 2 | 1 | 2 | 2 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | Clocks | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | The Scientist | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | Fix You | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | Viva La Vida | Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Guy Berryman | 5 | Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
+| | Will Champion | 5 | Songwriter |
+| | Chris Martin | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](overview.md) | 4 | Producer |
+| | Ken Nelson | 4 | Producer |
+| | Rik Simpson | 3 | Producer |
+| | Michael Brauer | 3 | Producer |
+| | Mark Phythian | 2 | Producer |
+| | Andy Wallace | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Audrey Riley | 1 | Arranger |
+| | Markus Dravs | 1 | Producer |
+| | Jon Coles | 1 | Producer |
+| | Jon Hopkins | 1 | Producer |
+| | Paul Read | 1 | Producer |
+| | Andrea Wright | 1 | Producer |
+| | Simon "Barny" Barnicott | 1 | Producer |
+| | Brian Eno | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/artists/coldplay/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

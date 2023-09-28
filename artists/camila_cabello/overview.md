@@ -51,6 +51,74 @@ Camila Cabello:
 | Songwriter | 7 |
 | Vocal | 3 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | Havana | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](overview.md) | 6 | Songwriter |
+| | Frank Dukes | 4 | Songwriter, Producer |
+| | John Hanes | 3 | Producer |
+| | Serban Ghenea | 3 | Producer |
+| | Louis Bell | 3 | Songwriter, Producer |
+| | Bart Schoudel | 2 | Producer |
+| | Andrew Watt | 2 | Producer, Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Jarami | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jaycen Joshua | 1 | Producer |
+| | Starrah | 1 | Songwriter |
+| | Amy Wadge | 1 | Songwriter |
+| | Emily Weisband | 1 | Songwriter |
+| | Noonie Bao | 1 | Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
+| | Mike Gaydusek | 1 | Producer |
+| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
+| | Ant Clemons | 1 | Songwriter |
+| | Matt Beckley | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| | Ryan Tedder | 1 | Songwriter |
+| | Jacob Olofsson | 1 | Songwriter |
+| | Robbie Soukiasyan | 1 | Producer |
+| | Zubin Thakkar | 1 | Producer |
+| | Sasha Yatchenko | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Kyle Mann | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Nicolle Galyon | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
+| | Brian Lee | 1 | Songwriter |
+| | Nathaniel Alford | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
+| | Rami Dawod | 1 | Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Jack Patterson | 1 | Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Cashmere Cat | 1 | Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/camila_cabello/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

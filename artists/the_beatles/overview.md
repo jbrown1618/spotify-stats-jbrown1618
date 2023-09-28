@@ -97,6 +97,75 @@ The Beatles is currently:
 | Lyricist | 2 | 1 | 0 | 0 |
 | Songwriter | 2 | 21 | 20 | 0 |
 | Vocal | 12 | 15 | 21 | 0 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | All My Loving - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="" width="50" /> | A Hard Day's Night - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | Yesterday - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="" width="50" /> | Norwegian Wood (This Bird Has Flown) - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | Got To Get You Into My Life - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | Eleanor Rigby - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | Penny Lane - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | I Am The Walrus - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | Revolution 1 - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | Sexy Sadie - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | While My Guitar Gently Weeps - Remastered 2009 | George Harrison | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | Dear Prudence - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | Blackbird - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Golden Slumbers - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Something - Remastered 2009 | George Harrison | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Because - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Come Together - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Oh! Darling - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | I Want You (She's So Heavy) - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | John Lennon, Paul McCartney | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | John Lennon | Lyricist, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | John Lennon | 20 | Songwriter |
+| | Paul McCartney | 20 | Songwriter |
+| | Geoff Emerick | 10 | Producer |
+| | Phil McDonald | 8 | Producer |
+| | Norman Smith | 5 | Producer |
+| | Glyn Johns | 4 | Producer |
+| | Chris Thomas | 3 | Producer |
+| | Ken Scott | 3 | Producer |
+| | Barry Sheffield | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Jeff Jarratt | 2 | Producer |
+| | Phil Spector | 2 | Producer |
+| | John Mills | 1 | Arranger |
+| | Ron Pender | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 15 producers](../../images/artists/the_beatles/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

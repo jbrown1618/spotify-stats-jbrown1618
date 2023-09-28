@@ -108,9 +108,109 @@
 
 ![Bar chart of top 12 record labels](../../images/genres/viral_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/viral_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/viral_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ben Bram | 4 | Songwriter, Arranger |
+| | Scott Hoying | 3 | Songwriter |
+| | Jacob Kasher | 3 | Songwriter |
+| | Mitch Grassi | 3 | Songwriter |
+| | Manny Marroquin | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | Charlie Puth | 3 | Producer, Songwriter |
+| | Kirstin | 3 | Songwriter |
+| | Kevin Olusola | 3 | Songwriter |
+| | Avi Kaplan | 3 | Songwriter |
+| | Jimmy Napes | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jack Patterson | 2 | Songwriter |
+| | Andrew Watt | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 2 | Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix/overview.md) | 2 | Arranger |
+| | Wayne Sermon | 1 | Songwriter |
+| | John Hanes | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | MAX | 1 | Songwriter |
+| | Yoko Ono | 1 | Lyricist |
+| | George David Weiss | 1 | Songwriter |
+| | Luigi Creatore | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
+| | Jeff Bhasker | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442" alt="" width="50" /> | Nate Ruess | 1 | Songwriter |
+| | ILYA | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| | Rogét Chahayed (Chahayed, Rogét) | 1 | Producer, Songwriter |
+| | Cashmere Cat | 1 | Producer, Songwriter |
+| | Ben McKee | 1 | Songwriter |
+| | Louis Bell | 1 | Songwriter |
+| | Teddy Geiger | 1 | Songwriter |
+| | Frank Dukes | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| | Jia Lih | 1 | Producer |
+| | Elof Loelv | 1 | Songwriter |
+| | Starrah | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | Troye Sivan | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | Selena Gomez | 1 | Songwriter |
+| | Mike Campbell | 1 | Songwriter |
+| | Chad Vaccarino | 1 | Songwriter |
+| | SLUMS | 1 | Producer |
+| | Dan Reynolds | 1 | Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | Bram Inscore | 1 | Producer, Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
+| | Nikki Cislyn | 1 | Songwriter |
+| | Brian Lee | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Andrew Dost | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 1 | Lyricist, Songwriter |
+| | 민윤기 (Min Yoon-gi) | 1 | Songwriter |
+| | Zubin Thakkar | 1 | Producer |
+| | Guy Lawrence | 1 | Songwriter |
+| | Hugo Peretti | 1 | Songwriter |
+| | Geoff Warburton | 1 | Songwriter |
+| | Teddy Peña (Peña, Teddy) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Sampha | 1 | Songwriter |
+| | Jack Antonoff | 1 | Songwriter |
+| | Alex da Kid | 1 | Songwriter |
+| | Leland | 1 | Songwriter |
+| | John Lennon | 1 | Lyricist, Songwriter |
+| | Josh Mosser | 1 | Songwriter |
+| | Scott Harris | 1 | Songwriter |
+| | Jake Torrey | 1 | Songwriter |
+| | Allie X | 1 | Songwriter |
+| | Michael Pollack | 1 | Songwriter |
+| | Howard Lawrence | 1 | Songwriter |
+| | Kevin Figueiredo | 1 | Songwriter |
+| | Carl Martin | 1 | Songwriter |
+| | Jessie Ware | 1 | Songwriter |
+| | Ian Axel | 1 | Songwriter |
+| | William Wells | 1 | Songwriter |
+| | Timmaz Zolleyn | 1 | Songwriter |
+| | Grace Chatto | 1 | Songwriter |
+| | Max Martin | 1 | Songwriter |
+| | Nathaniel Alford | 1 | Producer |
+| | Alex Hope | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
+| | Imad Royal | 1 | Producer, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -124,3 +224,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="Voicenotes" width="50" /> | Voicenotes (2018-05-11) | <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="Pentatonix (Deluxe Version)" width="50" /> | Pentatonix (Deluxe Version) (2015-10-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> | PTX Presents: Top Pop, Vol. I (2018-04-13) | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | That's Christmas To Me (Deluxe Edition) (2015-10-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | A Pentatonix Christmas Deluxe (2017-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> | Blue Neighbourhood (Deluxe) (2015-12-04) |
+
+![Bar chart of number of songs by year](../../images/genres/viral_pop/years.png)

@@ -65,6 +65,16 @@ CLC is currently:
 - [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 - korean city pop
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 빅싼초 (Bicksancho) | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7f4b9b294a630d27f0c4d81" alt="" width="50" /> | HyunA | 1 | Lyricist |
+| | 서재우 (Seo, Jae-woo) | 1 | Arranger, Lyricist, Songwriter |
+| | 손영진 (Son, Young-jin) | 1 | Arranger, Lyricist, Songwriter |
+
+![Bar chart of top 4 producers](../../images/artists/clc/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

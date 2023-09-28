@@ -97,6 +97,43 @@ Appears as:
 
 ![Bar chart of top 5 genres](../../images/labels/rbw_inc_/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 유키 (Yuki) | 3 | Lyricist |
+| | 강지원 (Kang, Jiwon) | 3 | Producer, Lyricist, Songwriter, Arranger |
+| | 나고은 (Na, Go-eun) | 2 | Lyricist |
+| | 김도훈 (Kim, Do-hoon) | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../../artists/hwasa/overview.md) | 2 | Lyricist, Songwriter |
+| | 박우상 (Park, Woo-sang) | 1 | Arranger, Lyricist, Producer |
+| | Gustav Landell | 1 | Arranger, Lyricist, Songwriter |
+| | LYRE | 1 | Arranger |
+| | 전다운 (Jun, Da-woon) | 1 | Arranger, Songwriter |
+| | Annalise Morelli | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 기욱 (Giuk) | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d192f1d830db1eba64854fc" alt="" width="50" /> | Moon Byul | 1 | Lyricist, Songwriter |
+| | 해다영 (Hae, Da-young) | 1 | Lyricist |
+| | 용배 (Seo, Yong-bae) | 1 | Lyricist, Songwriter |
+| | Alina Smith | 1 | Arranger, Producer, Songwriter |
+| | 이후상 (Lee, Hoo-sang) | 1 | Arranger, Lyricist, Songwriter |
+| | Musikality | 1 | Arranger, Lyricist, Songwriter |
+| | Simon Jonasson | 1 | Arranger, Lyricist, Songwriter |
+| | Dr.JO | 1 | Lyricist |
+| | Kristin Carpenter | 1 | Arranger, Lyricist, Songwriter |
+| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 21 producers](../../images/labels/rbw_inc_/producers.png)
 ## Tracks released under RBW Inc.
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

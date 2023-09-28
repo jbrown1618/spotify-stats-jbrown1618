@@ -274,6 +274,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/singer_songwriter/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 38 | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | Serban Ghenea | 27 | Producer |
+| | Laura Sisk | 20 | Producer |
+| | Jack Antonoff | 18 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Max Martin | 11 | Producer, Songwriter, Lyricist |
+| | Sam Holland | 10 | Producer |
+| | Shellback | 10 | Producer, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 10 | Songwriter, Lyricist, Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | John Hanes | 9 | Producer |
+| | Jim Boyer | 9 | Producer |
+| | Michael Ilbert | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| | John O'Mahony | 8 | Producer |
+| | Aaron Dessner | 7 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| | Jonathan Low | 7 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
+| | Bryce Dessner | 6 | Arranger |
+| | Kurt Uenala | 6 | Producer |
+| | Emile Haynie | 5 | Producer |
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
+| | T-Bone Burnett | 5 | Producer |
+| | Jason Wormer | 5 | Producer |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | Kyle Resnick | 4 | Producer |
+| | Dan Grech-Marguerat | 4 | Producer |
+| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
+| | Larry Gold | 4 | Arranger |
+| | David Kahne | 3 | Producer |
+| | Nathan Chapman | 3 | Producer |
+| | Justin Parker | 3 | Producer, Songwriter |
+| | James McAlister | 3 | Producer |
+| | Justin Niebank | 3 | Producer |
+| | Mark Endert | 3 | Producer |
+| | Craig Bishop | 3 | Producer |
+| | Sounwave | 3 | Producer, Songwriter |
+| | Lukas Burton | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
+| | Zoë Kravitz (Kravitz, Zoë) | 2 | Songwriter |
+| | Michael Omartian | 2 | Arranger |
+| | Jeremy Darby | 2 | Producer |
+| | Martin Terefe | 2 | Producer |
+| | Matt Hales | 2 | Songwriter |
+| | Ron Malo | 2 | Producer |
+| | Bernie Taupin | 2 | Lyricist |
+| | Michael Brauer | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
+| | Thomas Bartlett | 2 | Producer |
+| | Rob Moose | 2 | Arranger, Producer |
+| | Alison Sudol | 2 | Lyricist, Songwriter |
+| | Jonathan Gautier | 2 | Producer |
+| | Jahaan Sweet | 2 | Producer, Songwriter |
+| | Todor Kobakov | 2 | Arranger |
+| | Dann Huff | 2 | Producer |
+| | Justin Vernon | 2 | Lyricist, Songwriter, Producer |
+| | M-Phazes | 2 | Producer |
+| | Ali Payami | 2 | Lyricist, Producer, Songwriter |
+| | Steve Marcantonio | 2 | Producer |
+| | David Huff | 2 | Producer |
+| | Mike Piersante | 2 | Producer |
+| | Clarice Jensen | 2 | Producer |
+| | Hal Cragin | 2 | Producer, Songwriter |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| | Michael Stewart | 2 | Producer |
+| | Ryan Ritchie | 1 | Producer |
+| | Mike Williams | 1 | Producer |
+| | Iain Hill | 1 | Producer |
+| | Paul 'P Dub' Walton | 1 | Producer |
+| | Timothy Fagan | 1 | Songwriter |
+| | Rich Costey | 1 | Producer |
+| | Javier Dunn | 1 | Songwriter |
+| | Daniel Law Heath | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Steve Boyer | 1 | Producer |
+| | Patrick Benson | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
+| | Nicolas Fournier | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Blue Sky Black Death | 1 | Songwriter |
+| | Chris Garcia | 1 | Producer |
+| | Del Newman | 1 | Arranger |
+| | Lou Waxman | 1 | Producer |
+| | Bella Blasko | 1 | Producer |
+| | Mattias Bylund | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | David Hentschel | 1 | Producer |
+| | Tommy Walter | 1 | Producer |
+| | Jason Blynn | 1 | Songwriter |
+| | Dave Gross | 1 | Producer |
+| | Smith Carlson | 1 | Producer |
+| | Sam Farrar | 1 | Songwriter |
+| | Michael Tayler | 1 | Producer |
+| | Alex Sopp | 1 | Producer |
+| | Dan Auerbach | 1 | Producer |
+| | Bryan Devendorf | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb416bd8a66bfcbc545c2009ac" alt="" width="50" /> | Gracie Abrams | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/singer_songwriter/producers.png)
 ## Years
 
 

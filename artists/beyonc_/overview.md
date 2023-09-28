@@ -60,6 +60,80 @@
 | Songwriter | 7 |
 | Vocal | 7 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Love On Top | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | JA ARA E | Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](overview.md) | 8 | Producer, Songwriter |
+| | John Hanes | 3 | Producer |
+| | Mark "Spike" Stent | 3 | Producer |
+| | Serban Ghenea | 3 | Producer |
+| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
+| | DJ Swivel | 2 | Producer |
+| | Shea Taylor | 2 | Producer, Songwriter |
+| | Jim Caruana | 2 | Producer |
+| | The-Dream | 2 | Songwriter |
+| | Michael Bivins | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Kuk Harrell | 1 | Producer |
+| | Lazonate Franklin | 1 | Songwriter |
+| | Anne Preven | 1 | Songwriter |
+| | Diana Gordon | 1 | Songwriter |
+| | Derek Dixie | 1 | Producer |
+| | LaShawn Daniels | 1 | Songwriter |
+| | Paul Foley | 1 | Producer |
+| | David Campbell | 1 | Arranger |
+| | Scott Cutler | 1 | Songwriter |
+| | E. Kidd Bogart | 1 | Songwriter |
+| | Toby Gad | 1 | Arranger, Producer, Songwriter |
+| | BC Jean | 1 | Songwriter |
+| | Cainon Lamb | 1 | Songwriter |
+| | Kevin Cossom | 1 | Songwriter |
+| | Brent Kutzle | 1 | Producer |
+| | Jolie Levine | 1 | Arranger |
+| | Ester Dean | 1 | Songwriter |
+| | Hisashi Mizoguchi | 1 | Producer |
+| | Dabling Harward | 1 | Producer |
+| | Aaron Renner | 1 | Producer |
+| | Alex Delicata | 1 | Producer, Songwriter |
+| | The Underdogs | 1 | Producer |
+| | Henry Krieger | 1 | Songwriter |
+| | Stuart White | 1 | Producer |
+| | Julie Frost | 1 | Songwriter |
+| | Mike "Handz" Donaldson | 1 | Producer |
+| | Manny Marroquin | 1 | Producer |
+| | Rodney Jerkins | 1 | Producer, Songwriter |
+| | Wanya Morris | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Producer, Songwriter |
+| | Diane Warren | 1 | Songwriter |
+| | Rommel Nino Villanueva | 1 | Producer |
+| | Chris Spilfogel | 1 | Producer |
+| | Nathan Morris | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/beyonc_/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

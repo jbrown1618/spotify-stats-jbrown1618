@@ -116,6 +116,18 @@ Appears as:
 
 ![Bar chart of top 24 genres](../../images/labels/sony_music_labels_inc_/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
+| | Frank Lio | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega | 1 | Lyricist, Producer |
+| | Pérez Prado (Pérez Prado) | 1 | Songwriter |
+| | Zippy | 1 | Lyricist, Producer |
+| | D. Fact | 1 | Producer |
+
+![Bar chart of top 6 producers](../../images/labels/sony_music_labels_inc_/producers.png)
 ## Tracks released under Sony Music Labels Inc.
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

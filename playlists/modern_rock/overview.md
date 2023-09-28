@@ -362,6 +362,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/modern_rock/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Ed O'Brien | 12 | Songwriter |
+| | Philip Selway | 12 | Songwriter |
+| | Nigel Godrich | 12 | Producer |
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| | Colin Greenwood | 12 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Guy Berryman | 5 | Songwriter |
+| | Chris Martin | 5 | Songwriter |
+| | Will Champion | 5 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jonny Buckland | 5 | Songwriter |
+| | Jenny Lewis | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| | Ken Nelson | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| | Mike Mogis | 3 | Producer |
+| | Gus Unger-Hamilton | 3 | Songwriter |
+| | Sean Slade | 3 | Producer |
+| | Joe Newman | 3 | Songwriter |
+| | Dan Reynolds | 3 | Songwriter |
+| | Thom Green | 3 | Songwriter |
+| | John Leckie | 3 | Producer |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Blake Sennett | 3 | Songwriter |
+| | Michael Brauer | 3 | Producer |
+| | Charlie Andrew | 3 | Producer, Songwriter |
+| | Jason Lader | 3 | Producer |
+| | James Valentine | 3 | Lyricist, Songwriter |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Ben McKee | 3 | Songwriter |
+| | Adam Levine | 3 | Lyricist, Songwriter |
+| | Wayne Sermon | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Rik Simpson | 3 | Producer |
+| | James Hetfield | 2 | Producer, Songwriter |
+| | Justin Meldal-Johnsen | 2 | Producer |
+| | Chris Walla | 2 | Producer |
+| | Mark Phythian | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | Mickey Madden | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| | Mark Trombino | 2 | Producer |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Jesse Carmichael | 2 | Lyricist, Songwriter |
+| | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | Hayley Williams | 2 | Songwriter |
+| | Manny Marroquin | 2 | Producer |
+| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
+| | Tero Kinnunen | 2 | Producer, Arranger |
+| | Beau Sorenson | 2 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| | Lars Ulrich | 2 | Producer, Songwriter |
+| | Mikko Karmila | 2 | Producer |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Neal Avron | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Dan Grech-Marguerat | 2 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Bob Rock | 2 | Producer |
+| | Randy Staub | 2 | Producer |
+| | Rick Rubin | 2 | Producer |
+| | John Frusciante | 1 | Songwriter |
+| | Emppu Vuorinen | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Trent Reznor | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Gerard Navarro | 1 | Producer |
+| | Ryan Hewitt | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Terhi Kallio | 1 | Producer |
+| | Danny O'Donoghue | 1 | Songwriter |
+| | Bruno Ellingham | 1 | Producer |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Nate Walcott | 1 | Arranger |
+| | John Cornfield | 1 | Producer |
+| | Jonathan Gerring | 1 | Producer |
+| | John O'Mahony | 1 | Producer |
+| | Mark Linett | 1 | Producer |
+| | Andrew Scheps | 1 | Producer |
+| | Audrey Riley | 1 | Arranger |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Adam Hawkins | 1 | Producer |
+| | Mattman & Robin | 1 | Producer |
+| | Markus Dravs | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
+| | Ben Baptie | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | Charles Hart | 1 | Lyricist |
+| | Rich Costey | 1 | Producer |
+| | Chad Smith | 1 | Songwriter |
+| | Chris Holmes | 1 | Producer |
+| | Ben Tolliday | 1 | Producer |
+| | Jimmy Tamborello | 1 | Producer |
+| | Joe Viers | 1 | Producer |
+| | Ren Swan | 1 | Producer |
+| | Steve Osborne | 1 | Producer |
+| | Ben Boyer | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/modern_rock/producers.png)
 ## Years
 
 

@@ -42,7 +42,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
+| | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb584f79075db4e0c9304a7f85" alt="" width="50" /> | 1 | 1 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b79884e3182a75026eaace88" alt="" width="50" /> | 1 | 1 | Changbin (Stray Kids) | [🔗](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) |
@@ -187,6 +187,122 @@ Appears as:
 
 ![Bar chart of top 19 genres](../../images/labels/republic_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 엄세희 (Um, Se-Hee) | 14 | Producer |
+| | Serban Ghenea | 8 | Producer |
+| | 구혜진 (Gu, Hye-jin) | 8 | Producer |
+| | 이태섭 (Lee, Tae-Sub) | 7 | Producer |
+| | 이상엽 (Lee, Sang-yeob) | 7 | Producer |
+| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
+| | 심은지 (Sim, Eunjee) | 5 | Arranger, Lyricist, Producer, Songwriter |
+| | 임홍진 (Im, Hong-Jin) | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 5 | Producer, Songwriter, Arranger |
+| | Sophia Pae | 4 | Arranger |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
+| | Tony Maserati | 4 | Producer |
+| | Dr.JO | 3 | Lyricist, Arranger |
+| | TBHits | 3 | Arranger, Songwriter, Producer |
+| | Max Martin | 3 | Producer, Songwriter |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
+| | Sam Lewis | 3 | Lyricist, Songwriter |
+| | Sam Holland | 3 | Producer |
+| | 윤원권 (Yoon, Won-kwon) | 3 | Producer |
+| | Melanie Joy Fontana | 3 | Lyricist, Songwriter |
+| | 신지영 (Shin, Ji-young) | 3 | Producer |
+| | 이경원 (Lee, Kyung-won) | 3 | Producer |
+| | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
+| | Brian U | 2 | Songwriter, Arranger |
+| | Brendan Morawski | 2 | Producer |
+| | Savan Kotecha | 2 | Songwriter |
+| | Mr. Franks | 2 | Arranger, Songwriter, Producer |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
+| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
+| | danke | 2 | Lyricist |
+| | 김용운 (Gim, Yong-un) | 2 | Producer |
+| | Billy Hickey | 2 | Producer |
+| | ILYA | 2 | Producer, Songwriter |
+| | 김영현 (Kim, Young-hyun) | 2 | Producer |
+| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
+| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | EJAE | 2 | Songwriter |
+| | John Hanes | 2 | Producer |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | 박은정 (박은정) | 2 | Producer |
+| | Charlotte Wilson | 2 | Songwriter, Arranger |
+| | Poo Bear | 1 | Songwriter |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
+| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | Zaya | 1 | Lyricist |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | 임찬미 (Kim, Chan-mi) | 1 | Producer |
+| | Chanti | 1 | Songwriter |
+| | SELAH | 1 | Arranger |
+| | Shin Kamiyama | 1 | Producer |
+| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | Oscar Hammerstein II | 1 | Lyricist |
+| | Jameel Roberts | 1 | Songwriter |
+| | Boy Matthews | 1 | Lyricist |
+| | LDN Noise | 1 | Arranger, Producer |
+| | Erika Ender | 1 | Songwriter |
+| | Noah Passovoy | 1 | Producer |
+| | 손채영 (Son, Chae-young) | 1 | Lyricist |
+| | Andrew Watt | 1 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | Gingerbread | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | Alma Goodman | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
+| | 이우현 (Lee, Woo-hyun) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Frankie Day | 1 | Songwriter |
+| | Angelina Barrett | 1 | Songwriter |
+| | Awry | 1 | Songwriter |
+| | Cutfather | 1 | Arranger |
+| | Joe Gallagher | 1 | Producer |
+| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| | Scootie | 1 | Producer, Songwriter |
+| | 72 | 1 | Songwriter |
+| | Kaedi Dalley | 1 | Lyricist, Songwriter |
+| | Mich Hansen | 1 | Songwriter |
+| | Enan | 1 | Songwriter |
+| | Toby Gad | 1 | Producer, Songwriter |
+| | Kelsey Klingensmith | 1 | Songwriter |
+| | Greg Bonnick | 1 | Songwriter |
+| | Pop Wansel | 1 | Producer, Songwriter |
+| | MarkAlong | 1 | Songwriter |
+| | Karin Wilhemina Eurenius | 1 | Arranger, Producer, Songwriter |
+| | MJ | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
+| | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | 송희진 (Song, Hee-jin) | 1 | Arranger, Lyricist, Songwriter |
+| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
+| | Tayla Parx | 1 | Songwriter |
+| | DaHeala | 1 | Songwriter |
+| | Brooke Tomlinson | 1 | Songwriter |
+| | 오현선 (Oh, Hyun-sun) | 1 | Lyricist |
+| | Alexander Pavelich | 1 | Arranger, Songwriter |
+| | A. Wright | 1 | Songwriter |
+| | Njomza | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/republic_records/producers.png)
 ## Tracks released under Republic Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

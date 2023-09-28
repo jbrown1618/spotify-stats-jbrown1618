@@ -44,6 +44,33 @@ Appears as:
 
 ![Bar chart of top 4 genres](../../images/labels/uni/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
+| | Berry Gordy | 2 | Songwriter |
+| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| | The Corporation | 1 | Producer |
+| | Bob West | 1 | Songwriter |
+| | Deke Richards | 1 | Songwriter |
+| | Willie Hutch | 1 | Songwriter |
+| | Ronald White | 1 | Songwriter |
+| | Hal Davis | 1 | Songwriter |
+| | Freddie Perren | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Fonce Mizell | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 11 producers](../../images/labels/uni/producers.png)
 ## Tracks released under UNI
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

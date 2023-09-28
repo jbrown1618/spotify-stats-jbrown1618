@@ -130,9 +130,101 @@
 
 ![Bar chart of top 17 record labels](../../images/genres/permanent_wave/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/permanent_wave/years.png)
+![Bar chart of top 30 producers](../../images/genres/permanent_wave/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Nigel Godrich | 12 | Producer |
+| | Colin Greenwood | 12 | Songwriter |
+| | Ed O'Brien | 12 | Songwriter |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| | Philip Selway | 12 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Chris Martin | 5 | Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
+| | Guy Berryman | 5 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Will Champion | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| | Ken Nelson | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | John Leckie | 3 | Producer |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Sean Slade | 3 | Producer |
+| | Michael Brauer | 3 | Producer |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Rik Simpson | 3 | Producer |
+| | Richard Woodcraft | 2 | Producer |
+| | Jason Lader | 2 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| | Mark Phythian | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Rick Rubin | 2 | Producer |
+| | Dan Grech-Marguerat | 2 | Producer |
+| | John Ratcliff | 1 | Producer |
+| | Fabrizio Moretti | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Gerard Navarro | 1 | Producer |
+| | Mark Linett | 1 | Producer |
+| | Ben Baptie | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
+| | John Frusciante | 1 | Songwriter |
+| | Rich Costey | 1 | Producer |
+| | Markus Dravs | 1 | Producer |
+| | Andrew Scheps | 1 | Producer |
+| | Graeme Stewart | 1 | Producer |
+| | Audrey Riley | 1 | Arranger |
+| | Chris Holmes | 1 | Producer |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Chad Smith | 1 | Songwriter |
+| | Ryan Hewitt | 1 | Producer |
+| | Jon Coles | 1 | Producer |
+| | John Cornfield | 1 | Producer |
+| | Albert Hammond, Jr. | 1 | Songwriter |
+| | Andy Wallace | 1 | Producer |
+| | Jon Hopkins | 1 | Producer |
+| | Simon "Barny" Barnicott | 1 | Producer |
+| | Paul Waaktaar-Savoy | 1 | Songwriter |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Magne Furuholmen | 1 | Songwriter |
+| | Leslie Bricusse | 1 | Songwriter |
+| | Morten Harket | 1 | Songwriter |
+| | Flea | 1 | Songwriter |
+| | Andrea Wright | 1 | Producer |
+| | Albert Hammond | 1 | Songwriter |
+| | Paul Read | 1 | Producer |
+| | Nick Valensi | 1 | Songwriter |
+| | Ric Peet | 1 | Producer |
+| | Alan Tarney | 1 | Producer |
+| | Chris Lord-Alge | 1 | Producer |
+| | Pete Min | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | 1 | Producer |
+| | Toshikazu Yoshioka | 1 | Producer |
+| | Anthony Kiedis | 1 | Songwriter |
+| | Darrell Thorp | 1 | Producer |
+| | Claudius Mittendorfer | 1 | Producer |
+| | Dana Nielsen | 1 | Producer |
+| | Anthony Newley | 1 | Songwriter |
+| | Mike Hazlewood | 1 | Songwriter |
+| | Brian Eno | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -146,3 +238,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Black Holes and Revelations (2006-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Stadium Arcadium (2006-05-09) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> | Eyes Open (2006-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Tidal (1996-07-23) |
+
+![Bar chart of number of songs by year](../../images/genres/permanent_wave/years.png)

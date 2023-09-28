@@ -70,6 +70,22 @@ Appears as:
 
 ![Bar chart of top 16 genres](../../images/labels/virgin_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Hal Cragin | 2 | Producer, Songwriter |
+| | Lukas Burton | 2 | Producer, Songwriter |
+| | Alison Sudol | 2 | Lyricist, Songwriter |
+| | Hal Y. Burton | 1 | Producer |
+| | Michael Brauer | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |
+| | Andy Green | 1 | Producer |
+| | Bruno Ellingham | 1 | Producer |
+| | Steve Osborne | 1 | Producer |
+| | Ren Swan | 1 | Producer |
+
+![Bar chart of top 10 producers](../../images/labels/virgin_records/producers.png)
 ## Tracks released under Virgin Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -55,6 +55,58 @@
 | Songwriter | 7 |
 | Vocal | 1 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Good Intent | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Old Flame | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Cameo Lover | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Two Way Street | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | Waltz Me to the Grave | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | la type | Lyricist, Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](overview.md) | 7 | Lyricist, Producer, Songwriter |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | M-Phazes | 2 | Producer |
+| | Bo Hill | 1 | Producer |
+| | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
+| | Fagan Wilcox | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
+| | Rich Costey | 1 | Producer |
+| | Ryan Ritchie | 1 | Producer |
+| | Nicolas Fournier | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Nate Mercereau | 1 | Producer, Songwriter |
+| | Daniel Johns | 1 | Songwriter |
+| | Jon Castelli | 1 | Producer |
+| | Michael Tayler | 1 | Producer |
+| | Blue Sky Black Death | 1 | Songwriter |
+| | George Stone | 1 | Lyricist, Songwriter |
+| | John Rooney | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | Ryan Lott | 1 | Producer |
+| | Jimi Maroudas | 1 | Producer |
+| | Tommy Raps | 1 | Lyricist, Songwriter |
+| | Earl Burroughs | 1 | Songwriter |
+| | Martin Cooke | 1 | Producer |
+| | Eli Crews | 1 | Producer |
+| <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | Gotye | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 24 producers](../../images/artists/kimbra/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

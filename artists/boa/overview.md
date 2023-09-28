@@ -68,6 +68,42 @@ BoA is currently:
 | Lyricist | 2 |
 | Songwriter | 2 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b1ee39743c40b88a80b4ccf" alt="" width="50" /> | Dreams Come True | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Didrik Thott | 1 | Songwriter |
+| | Jordan Reyes | 1 | Songwriter |
+| | Deez | 1 | Songwriter |
+| | Kriz | 1 | Songwriter |
+| | Soaky Siren | 1 | Songwriter |
+| | 정하리 (Jeong, Hari) | 1 | Lyricist |
+| | Omega | 1 | Songwriter |
+| | 김보은 (Kim, Bo-eun) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | [BoA](overview.md) | 1 | Lyricist, Songwriter |
+| | Daniel Kim | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Brooke Tomlinson | 1 | Songwriter |
+| | SAAY | 1 | Songwriter |
+| | Ryan Williamson | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 13 producers](../../images/artists/boa/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

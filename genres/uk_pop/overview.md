@@ -126,9 +126,123 @@
 
 ![Bar chart of top 15 record labels](../../images/genres/uk_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/uk_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/uk_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
+| | Serban Ghenea | 5 | Producer |
+| | Caroline Ailin | 4 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 4 | Songwriter |
+| | Josh Gudwin | 3 | Producer |
+| | John Hanes | 3 | Producer |
+| | KAMILLE | 3 | Songwriter |
+| | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
+| | Andrew Watt | 2 | Songwriter, Producer |
+| | Emily Warren | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb854b6139b96beb6dbc398e06" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
+| | Matt Radosevich | 2 | Producer |
+| | Cameron Gower Poole | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Ian Kirkpatrick | 2 | Producer, Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
+| | Sarah Hudson | 2 | Songwriter |
+| | Clarence Coffee Jr. | 2 | Songwriter |
+| | Tom Elmhirst | 2 | Producer |
+| | Richard "Biff" Stannard | 1 | Producer, Songwriter |
+| | Jimmy Napes | 1 | Songwriter |
+| | Screwface | 1 | Producer |
+| | Ruffsound | 1 | Songwriter |
+| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| | Julian Burg | 1 | Producer |
+| | Michael Hutchence | 1 | Songwriter |
+| | Lionel Crasta | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
+| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
+| | Jason Elliott | 1 | Producer |
+| | Andrew Farriss | 1 | Songwriter |
+| | Lorna Blackwood | 1 | Producer |
+| | ILYA | 1 | Songwriter |
+| | Perrie Edwards | 1 | Songwriter |
+| | Henrik Barman Michelsen | 1 | Producer, Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Ash Howes | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
+| | TEDDY | 1 | Songwriter |
+| | Jordan Johnson | 1 | Songwriter |
+| | Jade Thirlwall | 1 | Songwriter |
+| | Matthew Scatchell | 1 | Producer |
+| | Greg Kurstin | 1 | Producer, Songwriter |
+| | Matt Snell | 1 | Producer |
+| | Steve Churchyard | 1 | Producer |
+| | Ben Collier | 1 | Producer |
+| | Jesy Nelson | 1 | Songwriter |
+| | Noonie Bao | 1 | Songwriter |
+| | Simon Clarke | 1 | Arranger |
+| | Robopop | 1 | Producer, Songwriter |
+| | Francis White | 1 | Songwriter |
+| | Thomas Warren | 1 | Producer |
+| | Nicky D'Silva | 1 | Producer |
+| | TMS | 1 | Producer |
+| | KNY Factory | 1 | Songwriter |
+| | Fraser T. Smith | 1 | Songwriter |
+| | Steve Mac | 1 | Producer, Songwriter |
+| | Omer Fedi | 1 | Songwriter |
+| | David Campbell | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Andrew Wyatt | 1 | Producer, Songwriter |
+| | Steve James | 1 | Producer |
+| | Leigh-Anne | 1 | Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Joe Kearns | 1 | Producer, Songwriter |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Brandon Bost | 1 | Producer |
+| | Chris Laws | 1 | Producer |
+| | Alex Pasco | 1 | Producer |
+| | Simon Rhodes | 1 | Producer |
+| | Ed Drewett | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Thomas Barnes | 1 | Songwriter |
+| | Paul 'P Dub' Walton | 1 | Producer |
+| | Daniel Pursey | 1 | Producer |
+| | Phil Tan | 1 | Producer |
+| | Justin Vernon | 1 | Lyricist, Songwriter |
+| | Ali Payami | 1 | Producer, Songwriter |
+| | Cirkut | 1 | Songwriter |
+| | Ben Kohn | 1 | Songwriter |
+| | David Buckley | 1 | Arranger |
+| | Leland | 1 | Songwriter |
+| | Mattias Larsson | 1 | Songwriter |
+| | The Monsters & Strangerz | 1 | Producer |
+| | Drew Jurecka | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
+| | Billboard | 1 | Songwriter |
+| | DURO | 1 | Producer |
+| | Jon Taylor | 1 | Producer |
+| | Peter Kelleher | 1 | Songwriter |
+| | Alex Gilbert | 1 | Producer |
+| | Jason Evigan | 1 | Songwriter |
+| | Electric | 1 | Producer |
+| | Stuart David Price | 1 | Producer |
+| | Chelcee Grimes | 1 | Songwriter |
+| | Max Martin | 1 | Producer |
+| | Paul Epworth | 1 | Producer, Songwriter |
+| | JHart | 1 | Songwriter |
+| | Stefan Johnson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -142,3 +256,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (2020-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> | Ella Eyre (2015-01-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" alt="Future Nostalgia" width="50" /> | Future Nostalgia (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Get Weird (Expanded Edition) (2015-11-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="Physical (feat. Hwa Sa)" width="50" /> | Physical (feat. Hwa Sa) (2020-01-28) | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Delirium (2015-11-13) |
+
+![Bar chart of number of songs by year](../../images/genres/uk_pop/years.png)

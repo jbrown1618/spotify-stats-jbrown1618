@@ -102,6 +102,68 @@ Appears as:
 
 ![Bar chart of top 13 genres](../../images/labels/def_jam_recordings/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Phil Tan | 9 | Producer |
+| | Marcos Tovar | 8 | Producer |
+| | Kuk Harrell | 7 | Producer |
+| | Tor Erik Hermansen | 6 | Songwriter |
+| | Mikkel Storleer Eriksen | 6 | Songwriter, Producer |
+| | Stargate | 6 | Producer |
+| | Josh Gudwin | 3 | Producer |
+| | Sandy Vee | 2 | Producer |
+| | Sandy Wilhelm | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Makeba | 2 | Producer, Songwriter |
+| | Miles Walker | 2 | Producer |
+| | Daniela Rivera | 2 | Producer |
+| | Ester Dean | 2 | Songwriter |
+| | Parker Ighile | 1 | Producer, Songwriter |
+| | Hit-Boy | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | Crystal Nicole | 1 | Songwriter |
+| | Justin Parker | 1 | Arranger, Producer, Songwriter |
+| | Elof Loelv | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 1 | Songwriter |
+| | Frankie Storm | 1 | Songwriter |
+| | Rob Swire | 1 | Producer, Songwriter |
+| | Mike Gaydusek | 1 | Producer |
+| | Al Hemberger | 1 | Producer |
+| | Shahid Khan | 1 | Songwriter |
+| | Kevin Davis | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| | Robert Allen | 1 | Songwriter |
+| | Veronika Bozeman | 1 | Producer |
+| | Brian Kennedy | 1 | Producer, Songwriter |
+| | Andrew Vastola | 1 | Producer |
+| | Nathan Cassells | 1 | Producer, Songwriter |
+| | FINNEAS | 1 | Producer, Songwriter |
+| | Naughty Boy | 1 | Producer |
+| | Skylar Mones | 1 | Producer |
+| | Livvi Franc | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo | 1 | Producer, Songwriter |
+| | Josh Houghkirk | 1 | Producer |
+| | Alju Jackson | 1 | Songwriter |
+| | Emeli Sandé (Sandé, Emeli) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | 1 | Producer, Songwriter |
+| | Priscilla Renea | 1 | Songwriter |
+| | Andre Merritt | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko | 1 | Arranger, Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/def_jam_recordings/producers.png)
 ## Tracks released under Def Jam Recordings
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

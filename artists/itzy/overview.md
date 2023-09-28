@@ -119,6 +119,56 @@ ITZY is currently:
 | | LIA | 류진 (Ryujin) | 예지 (Yeji) | 유나 (Yuna) | 채령 (Chaeryeong) |
 |:---|---:|---:|---:|---:|---:|
 | Vocal | 4 | 4 | 4 | 4 | 4 |
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 구혜진 (Gu, Hye-jin) | 4 | Producer |
+| | 엄세희 (Um, Se-Hee) | 3 | Producer |
+| | Czaer | 2 | Producer, Arranger, Lyricist, Songwriter |
+| | 윤원권 (Yoon, Won-kwon) | 2 | Producer |
+| | 심은지 (Sim, Eunjee) | 1 | Arranger, Producer, Songwriter |
+| | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
+| | LDN Noise | 1 | Arranger, Producer |
+| | Daniel Mikael Caesar | 1 | Songwriter |
+| | Cameron Neilson | 1 | Songwriter |
+| | SELAH | 1 | Arranger |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 1 | Arranger, Lyricist, Songwriter |
+| | 이해솔 (Lee, Hae Sol) | 1 | Arranger |
+| | 常楽寺澪 (Jorakuji, Mio) | 1 | Lyricist |
+| | Greg Bonnick | 1 | Songwriter |
+| | Ellen Berg Tollbom | 1 | Songwriter |
+| | 송희진 (Song, Hee-jin) | 1 | Arranger, Lyricist, Songwriter |
+| | Cazzi Opeia | 1 | Songwriter |
+| | 이민영 (Lee, Min-young) | 1 | Arranger, Producer, Songwriter |
+| | Karin Wilhemina Eurenius | 1 | Arranger, Producer, Songwriter |
+| | 새봄 (Sae Bom) | 1 | Lyricist |
+| | Noday | 1 | Lyricist, Songwriter |
+| | Ashley Alisha | 1 | Songwriter |
+| | Lauren Dyson | 1 | Songwriter |
+| | Chris Galland | 1 | Producer |
+| | 임홍진 (Im, Hong-Jin) | 1 | Producer |
+| | PENOMECO | 1 | Lyricist |
+| | Hayden Chapman | 1 | Songwriter |
+| | 케빈오빠 (Kevinoppa) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | 이상엽 (Lee, Sang-yeob) | 1 | Producer |
+| | 초이 (Choi) | 1 | Producer |
+| | Ludwig Lindell | 1 | Songwriter |
+| | Christoffer Semelius | 1 | Arranger, Producer, Songwriter |
+| | Yeul | 1 | Arranger, Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/itzy/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

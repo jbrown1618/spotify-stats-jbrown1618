@@ -95,9 +95,88 @@
 
 ![Bar chart of top 10 record labels](../../images/genres/alternative_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/alternative_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/alternative_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Colin Greenwood | 12 | Songwriter |
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| | Ed O'Brien | 12 | Songwriter |
+| | Nigel Godrich | 12 | Producer |
+| | Philip Selway | 12 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Sean Slade | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | John Leckie | 3 | Producer |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Beau Sorenson | 2 | Producer |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Rick Rubin | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Jason Lader | 2 | Producer |
+| | Tommaso Colliva | 2 | Producer |
+| | Dan Grech-Marguerat | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
+| | Chris Walla | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | John Frusciante | 1 | Songwriter |
+| | Fabrizio Moretti | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Graeme Stewart | 1 | Producer |
+| | Chad Smith | 1 | Songwriter |
+| | Trent Reznor | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Andrew Scheps | 1 | Producer |
+| | Jim Adkins | 1 | Songwriter |
+| | Rich Costey | 1 | Producer |
+| | Ryan Hewitt | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Chris Holmes | 1 | Producer |
+| | Ben Baptie | 1 | Producer |
+| | Gerard Navarro | 1 | Producer |
+| | Anthony Newley | 1 | Songwriter |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Pete Min | 1 | Producer |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Leslie Bricusse | 1 | Songwriter |
+| | Flea | 1 | Songwriter |
+| | Albert Hammond | 1 | Songwriter |
+| | Nick Valensi | 1 | Songwriter |
+| | Nick Harmer | 1 | Songwriter |
+| | Ric Peet | 1 | Producer |
+| | Rick Burch | 1 | Songwriter |
+| | Chris Lord-Alge | 1 | Producer |
+| | Toshikazu Yoshioka | 1 | Producer |
+| | John Cornfield | 1 | Producer |
+| | Mark Trombino | 1 | Producer |
+| | Anthony Kiedis | 1 | Songwriter |
+| | Darrell Thorp | 1 | Producer |
+| | Dana Nielsen | 1 | Producer |
+| | Tom Linton | 1 | Songwriter |
+| | Claudius Mittendorfer | 1 | Producer |
+| | Mike Hazlewood | 1 | Songwriter |
+| | Zach Lind | 1 | Songwriter |
+| | Albert Hammond, Jr. | 1 | Songwriter |
+| | Mark Linett | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -111,3 +190,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | In Your Honor (2005-06-14) | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="Californication (Deluxe Edition)" width="50" /> | Californication (Deluxe Edition) (1999-06-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Hot Fuss (2004) | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | There Is Nothing Left To Lose (1999-11-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Room On Fire (2003-10-28) | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Kid A" width="50" /> | Kid A (2000-10-02) |
+
+![Bar chart of number of songs by year](../../images/genres/alternative_rock/years.png)

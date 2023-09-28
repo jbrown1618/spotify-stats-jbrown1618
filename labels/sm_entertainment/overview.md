@@ -231,6 +231,122 @@ Appears as:
 
 ![Bar chart of top 5 genres](../../images/labels/sm_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 유영진 (Yoo, Young-jin) | 12 | Arranger, Lyricist, Producer, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 9 | Producer, Arranger |
+| | 이수만 (Lee, Soo-Man) | 9 | Producer |
+| | Kenzie | 8 | Songwriter, Arranger, Lyricist, Producer |
+| | 남궁진 (Nam Goong, Jin) | 8 | Producer |
+| | 이지홍 (Lee, Ji-hong) | 6 | Producer |
+| | 이민규 (Lee, Min-kyu) | 6 | Producer |
+| | 정의석 (Jung, Euisuk) | 6 | Producer |
+| | 김철순 (Kim, Chul-Soon) | 5 | Producer |
+| | 조윤경 (Jo, Yoon Kyung) | 5 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 노민지 (Noh, Min-ji) | 4 | Producer |
+| | 구종필 (Koo, Jong-Pil) | 4 | Producer |
+| | Ryan S. Jhun | 4 | Arranger, Songwriter |
+| | Cazzi Opeia | 3 | Songwriter, Lyricist |
+| | Johan Gustafsson | 3 | Arranger, Songwriter |
+| | Tay Jasper | 3 | Songwriter |
+| | 1월 8일 (1월 8일) | 3 | Lyricist, Songwriter |
+| | LDN Noise | 3 | Arranger, Songwriter, Producer |
+| | Tayla Parx | 3 | Songwriter, Arranger |
+| | Anne Judith Wik | 3 | Arranger, Songwriter |
+| | 이성호 (Lee, Sung-ho) | 3 | Producer |
+| | Ylva Dimberg | 3 | Songwriter, Arranger |
+| | 강은지 (Kang, Eun-ji) | 3 | Producer |
+| | 김동현 (Kim, Dong-hyun) | 3 | Lyricist, Songwriter |
+| | Will Simms | 2 | Arranger, Producer, Songwriter |
+| | 최소영 (Choi, Seo-young) | 2 | Lyricist |
+| | Adrian McKinnon | 2 | Songwriter |
+| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
+| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | SAAY | 2 | Lyricist, Songwriter |
+| | Timothy "Bos" Bullock | 2 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2aef04c86590ac7328fb37cd" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
+| | Dem Jointz | 2 | Arranger, Songwriter |
+| | Misfit | 2 | Lyricist |
+| | 황현 (Hwang, Hyeon) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Sophie Curtis | 2 | Songwriter |
+| | 전간디 (Jun, Gan Di) | 2 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
+| | Jordan Reyes | 2 | Songwriter, Arranger |
+| | 신지영 (Shin, Ji-young) | 2 | Producer |
+| | Hayley Aitken | 2 | Arranger, Songwriter |
+| | Maxx Song | 2 | Arranger, Producer, Lyricist, Songwriter |
+| | Deez | 2 | Arranger, Lyricist, Songwriter |
+| | Charli Taft | 2 | Arranger, Songwriter |
+| | Sebastian Lundberg | 2 | Arranger, Songwriter |
+| | IMLAY | 2 | Arranger |
+| | Kirsten Collins | 2 | Songwriter |
+| | 이주형 (Lee, Juhyeong) | 2 | Producer, Arranger |
+| | Fredrik Häggstam (Häggstam, Fredrik) | 2 | Arranger, Songwriter |
+| | Hautboi Rich | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | [BoA](../../artists/boa/overview.md) | 2 | Lyricist, Songwriter, Arranger |
+| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
+| | 진리 (Jinri) | 1 | Lyricist |
+| | DOM | 1 | Arranger, Songwriter |
+| | Jeremy Reeves | 1 | Lyricist, Songwriter |
+| | Erik Lewander | 1 | Arranger |
+| | 김영후 (Kim, Young-hu) | 1 | Lyricist |
+| | Daniel Davidsen | 1 | Songwriter |
+| | Didrik Thott | 1 | Songwriter |
+| | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
+| | Cathy Dennis | 1 | Arranger |
+| | Mafly | 1 | Lyricist |
+| | Joyfactory | 1 | Lyricist |
+| | Courtney Woolsey | 1 | Songwriter |
+| | Belle Humble | 1 | Arranger, Songwriter |
+| | 바다 (Bada) | 1 | Lyricist |
+| | Avenue 52 | 1 | Arranger |
+| | Daniel "Obi" Klein | 1 | Arranger, Producer, Songwriter |
+| | Markus Lindell | 1 | Arranger, Songwriter |
+| | 밍지션 (Ming, Jisyeon) | 1 | Producer |
+| | Ray McCullough | 1 | Lyricist, Songwriter |
+| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
+| | Herbie Crichlow | 1 | Arranger, Songwriter |
+| | Gabriela Geneva | 1 | Songwriter |
+| | Jia Lih | 1 | Arranger, Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
+| | 김부민 (Kim, Bu-min) | 1 | Lyricist, Songwriter |
+| | Shaun Kim | 1 | Arranger |
+| | 황성제 (Hwang, Sung Je) | 1 | Arranger |
+| | Sarah Lundbäck-Bell (Lundbäck-Bell, Sarah) | 1 | Arranger, Songwriter |
+| | Johannes R. Jørgensen (Jørgensen, Johannes R.) | 1 | Arranger, Songwriter |
+| | Paul Phamous | 1 | Songwriter |
+| | Tomas Smagesjo | 1 | Songwriter |
+| | Cutfather | 1 | Songwriter |
+| | Ryan Williamson | 1 | Songwriter |
+| | Risto Asikainen | 1 | Songwriter |
+| | 김규영 (Kim, Kyu-young) | 1 | Producer |
+| | Rob Fusari | 1 | Arranger |
+| | Ellie Suh | 1 | Lyricist |
+| | SENDO | 1 | Producer |
+| | Sean Alexander | 1 | Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
+| | Patrick Morrissey | 1 | Arranger, Songwriter |
+| | Jin Choi | 1 | Arranger, Songwriter |
+| | 정유라 (Jeong, Yu-ra) | 1 | Producer |
+| | Sophie Ellis-Bextor | 1 | Arranger |
+| | Ellen Berg Tollbom | 1 | Lyricist, Songwriter |
+| | Daniel Kim | 1 | Songwriter |
+| | Brandon Green | 1 | Arranger, Songwriter |
+| | busbee | 1 | Arranger, Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/sm_entertainment/producers.png)
 ## Tracks released under SM Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -64,6 +64,31 @@ Rilo Kiley:
 | Lyricist | 0 | 0 | 3 | 0 |
 | Songwriter | 3 | 0 | 5 | 0 |
 | Vocal | 1 | 0 | 3 | 0 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | The Execution Of All Things | Jenny Lewis, Blake Sennett | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | Jenny Lewis, Blake Sennett | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | Jenny Lewis, Blake Sennett | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | Jenny Lewis | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | [Rilo Kiley](overview.md), Jenny Lewis | Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jenny Lewis | 5 | Lyricist, Songwriter |
+| | Mike Mogis | 3 | Producer |
+| | Blake Sennett | 3 | Songwriter |
+| | Mark Trombino | 1 | Producer |
+| | Jimmy Tamborello | 1 | Producer |
+| | Jason Lader | 1 | Producer |
+| | Ben Boyer | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](overview.md) | 1 | Producer |
+| | Nate Walcott | 1 | Arranger |
+
+![Bar chart of top 9 producers](../../images/artists/rilo_kiley/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

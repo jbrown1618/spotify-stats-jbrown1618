@@ -92,9 +92,62 @@
 
 ![Bar chart of top 11 record labels](../../images/genres/piano_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/piano_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/piano_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
+| | Craig Bishop | 3 | Producer |
+| | David Kahne | 3 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Bernie Taupin | 2 | Lyricist |
+| | Michael Stewart | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ron Malo | 2 | Producer |
+| | Bruce Botnick | 1 | Producer |
+| | Liberty DeVitto | 1 | Arranger |
+| | Chad Vaccarino | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Gus Dudgeon | 1 | Producer |
+| | Ari Raskin | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
+| | Mike Campbell | 1 | Songwriter |
+| | David Hentschel | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Ryan Tedder | 1 | Producer, Songwriter |
+| | Ian Axel | 1 | Songwriter |
+| | John Bradley | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Steve Boyer | 1 | Producer |
+| | Del Newman | 1 | Arranger |
+| | Lou Waxman | 1 | Producer |
+| | Don Puluse | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Jonathan Plum | 1 | Producer |
+| | Kenny Ascher | 1 | Arranger |
+| | Bradshaw Leigh | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Mick Jones | 1 | Producer |
+| | Danny Kortchmar | 1 | Producer |
+| | Niko Bolas | 1 | Producer |
+| | Michael Brauer | 1 | Producer |
+| | Mike Elizondo | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -108,3 +161,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | Turnstiles (1976-05-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | The Stranger (1977-09-29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | 52nd Street (1978-10-13) |
+
+![Bar chart of number of songs by year](../../images/genres/piano_rock/years.png)

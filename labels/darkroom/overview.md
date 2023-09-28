@@ -43,6 +43,21 @@ Appears as:
 
 ![Bar chart of top 3 genres](../../images/labels/darkroom/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | FINNEAS | 11 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| | Rob Kinelski | 8 | Producer |
+| | Casey Cuayo | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | 1 | Lyricist, Songwriter |
+| | Stephen Lipson | 1 | Producer |
+| | Matt Dunkley | 1 | Arranger |
+| | Eli Heisler | 1 | Producer |
+| | Hans Zimmer | 1 | Arranger |
+
+![Bar chart of top 9 producers](../../images/labels/darkroom/producers.png)
 ## Tracks released under Darkroom
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

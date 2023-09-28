@@ -71,8 +71,6 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/russian_romanticism/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Mussorgsky: Pictures At An Exhibition (2016-12-02) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | Tchaikovsky: Swan Lake (1976-01-01) |
@@ -82,3 +80,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2154810a4e4472b4cc199e" alt="Rachmaninov: Preludes for Piano (Complete)" width="50" /> | Rachmaninov: Preludes for Piano (Complete) (2007-05-29) | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> | Rachmaninov: Piano Concerto No.2 (2012-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Rachmaninov: Vespers - All Night Vigil (1994) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | Tchaikovsky: Sacred Choral Music (2016-07-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | Tchaikovsky: Swan Lake (1976-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Mussorgsky: Pictures At An Exhibition (2016-12-02) |
+
+![Bar chart of number of songs by year](../../images/genres/russian_romanticism/years.png)

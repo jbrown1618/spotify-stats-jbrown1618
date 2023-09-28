@@ -79,6 +79,135 @@ Taylor Swift is currently:
 | Songwriter | 39 |
 | Vocal | 30 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Red | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | All Too Well | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Clean | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Blank Space | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | I Know Places | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Style | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Wildest Dreams | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Out Of The Woods | Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | Shake It Off | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Call It What You Want | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Look What You Made Me Do | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Don’t Blame Me | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Gorgeous | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | ...Ready For It? | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | I Did Something Bad | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Delicate | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Dress | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Dancing With Our Hands Tied | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cornelia Street | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | London Boy | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Lover | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Paper Rings | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | the 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | the last great american dynasty | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | august | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | cardigan | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | invisible string | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | tolerate it | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | willow | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Anti-Hero | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Midnight Rain | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Lavender Haze | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Karma | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | I Can See You (Taylor’s Version) (From The Vault) | Lyricist, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
+| | Serban Ghenea | 27 | Producer |
+| | Laura Sisk | 20 | Producer |
+| | Jack Antonoff | 16 | Producer, Songwriter |
+| | Max Martin | 11 | Producer, Songwriter, Lyricist |
+| | Sam Holland | 10 | Producer |
+| | Shellback | 10 | Producer, Songwriter, Lyricist |
+| | John Hanes | 9 | Producer |
+| | Michael Ilbert | 9 | Producer |
+| | Jonathan Low | 7 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Aaron Dessner | 7 | Producer, Songwriter |
+| | Bryce Dessner | 6 | Arranger |
+| | Kyle Resnick | 4 | Producer |
+| | Justin Niebank | 3 | Producer |
+| | Sounwave | 3 | Producer, Songwriter |
+| | Nathan Chapman | 3 | Producer |
+| | James McAlister | 3 | Producer |
+| | Dann Huff | 2 | Producer |
+| | Steve Marcantonio | 2 | Producer |
+| | Rob Moose | 2 | Arranger, Producer |
+| | David Huff | 2 | Producer |
+| | Ali Payami | 2 | Lyricist, Producer, Songwriter |
+| | Jonathan Gautier | 2 | Producer |
+| | Jahaan Sweet | 2 | Producer, Songwriter |
+| | Thomas Bartlett | 2 | Producer |
+| | Zoë Kravitz (Kravitz, Zoë) | 2 | Songwriter |
+| | Clarice Jensen | 2 | Producer |
+| | Jason Treuting | 1 | Producer |
+| | Ryan Tedder | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../lana_del_rey/overview.md) | 1 | Songwriter |
+| | Fred Fairbrass | 1 | Songwriter |
+| | Brian David Willis | 1 | Producer |
+| | Alex Sopp | 1 | Producer |
+| | Mike Williams | 1 | Producer |
+| | Justin Vernon | 1 | Producer, Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Bryan Devendorf | 1 | Producer |
+| | Smith Carlson | 1 | Producer |
+| | J. T. Bates | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../imogen_heap/overview.md) | 1 | Producer, Songwriter |
+| | Bella Blasko | 1 | Producer |
+| | Peter Carlsson | 1 | Producer |
+| | Robert Manzoli | 1 | Songwriter |
+| | St. Vincent | 1 | Songwriter |
+| | Liz Rose | 1 | Songwriter |
+| | Sam Dew | 1 | Songwriter |
+| | Evan Smith | 1 | Producer |
+| | Ken Lewis | 1 | Producer |
+| | Noel Zancanella | 1 | Producer |
+| | Keanu Beats | 1 | Producer, Songwriter |
+| | Dave Gross | 1 | Producer |
+| | Cautious Clay | 1 | Songwriter |
+| | Richard Fairbrass | 1 | Songwriter |
+| | William Bowery | 1 | Songwriter |
+| | CJ Camerieri | 1 | Producer |
+| | Mattias Bylund | 1 | Arranger, Producer |
+| | Braxton Cook | 1 | Producer |
+| | Dave Nelson | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/taylor_swift/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

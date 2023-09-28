@@ -56,6 +56,26 @@ Simon & Garfunkel:
 | Producer | 3 | 3 |
 | Songwriter | 0 | 4 |
 | Vocal | 4 | 4 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Paul Simon | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Paul Simon, Art Garfunkel | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | Paul Simon, Art Garfunkel | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Paul Simon, Art Garfunkel | Lyricist, Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Roy Halee | 3 | Producer |
+| | Art Garfunkel | 3 | Producer |
+| | Ted Brosnan | 2 | Producer |
+| | Tom Wilson | 1 | Producer |
+
+![Bar chart of top 5 producers](../../images/artists/simon___garfunkel/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -102,6 +102,57 @@ TAEYEON is currently:
 | Lyricist | 1 |
 | Vocal | 5 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Christian Vinten | 1 | Arranger, Songwriter |
+| | Jess Morgan | 1 | Songwriter |
+| | 이민규 (Lee, Min-kyu) | 1 | Producer |
+| | 정의석 (Jung, Euisuk) | 1 | Producer |
+| | 이주형 (Lee, Juhyeong) | 1 | Producer |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
+| | Cutfather | 1 | Songwriter |
+| | Rachel Furner | 1 | Songwriter |
+| | 정유라 (Jeong, Yu-ra) | 1 | Producer |
+| | 진리 (Jinri) | 1 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Daniel Davidsen | 1 | Songwriter |
+| | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
+| | Mafly | 1 | Lyricist |
+| | 밍지션 (Ming, Jisyeon) | 1 | Producer |
+| | PhD | 1 | Arranger |
+| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | Aaron Benward | 1 | Songwriter |
+| | 이유진 (Lee, Yoo-Jin) | 1 | Lyricist |
+| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | Felicia Barton | 1 | Songwriter |
+| | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | Chelcee Grimes | 1 | Arranger, Songwriter |
+| | 문설리 (Moon, Seol Ree) | 1 | Lyricist |
+| | Matthew Tishler | 1 | Arranger, Songwriter |
+| | Jacob Ubizz | 1 | Arranger, Songwriter |
+| | 이지홍 (Lee, Ji-hong) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](overview.md) | 1 | Lyricist |
+| | Olivia Holt | 1 | Songwriter |
+| | 김철순 (Kim, Chul-Soon) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 29 producers](../../images/artists/taeyeon/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

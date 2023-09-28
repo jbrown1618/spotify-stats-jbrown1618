@@ -115,9 +115,57 @@
 
 ![Bar chart of top 13 record labels](../../images/genres/soul/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/soul/years.png)
+![Bar chart of top 30 producers](../../images/genres/soul/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
+| | Bruce Swedien | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| | Jerry Hey | 3 | Arranger |
+| | Berry Gordy | 2 | Songwriter |
+| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
+| | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
+| | Freddie Perren | 1 | Songwriter |
+| | Hal Davis | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | John Beck | 1 | Songwriter |
+| | Bill Wolfer | 1 | Producer |
+| | Ronald White | 1 | Songwriter |
+| | James Anthony Carmichael | 1 | Producer |
+| | Rick Hall | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | Corinne Bailey Rae | 1 | Songwriter |
+| | Billy Foster | 1 | Lyricist |
+| | Jeremy Wheatley | 1 | Producer |
+| | Anthony Marinelli | 1 | Producer |
+| | Greg Phillinganes | 1 | Producer |
+| | James Ingram | 1 | Arranger, Songwriter |
+| | Donn Landee | 1 | Producer |
+| | Jimmy Hogarth | 1 | Producer |
+| | Lee Gillette | 1 | Producer |
+| | Willie Hutch | 1 | Songwriter |
+| | Steve Porcaro | 1 | Producer |
+| | Deke Richards | 1 | Songwriter |
+| | Bob West | 1 | Songwriter |
+| | Steve Chrisanthou | 1 | Producer, Songwriter |
+| | Lionel Richie | 1 | Lyricist, Songwriter |
+| | Ellington Jordan | 1 | Songwriter |
+| | The Corporation | 1 | Producer |
+| | eden ahbez | 1 | Lyricist, Songwriter |
+| | Fonce Mizell | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -131,3 +179,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | Unforgettable: With Love (1991-06-11) | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | I Never Loved a Man the Way I Love You (1967-03-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | The Nat King Cole Story (1991-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="Tell Mama" width="50" /> | Tell Mama (1968-04-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="Bad (Remastered)" width="50" /> | Bad (Remastered) (1987-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="For Once In My Life" width="50" /> | For Once In My Life (1968-12-01) |
+
+![Bar chart of number of songs by year](../../images/genres/soul/years.png)

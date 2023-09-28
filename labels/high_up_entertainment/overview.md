@@ -40,6 +40,34 @@ Appears as:
 
 
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 10 | Lyricist, Songwriter, Arranger, Producer |
+| | 라도 (Rado) | 8 | Arranger, Producer |
+| | 정은경 (Jung, Eun-Kyung) | 8 | Producer |
+| | DRK | 5 | Producer |
+| | FLYT | 5 | Arranger, Songwriter, Producer |
+| | 고현정 (Go, Hyeon-Jeong) | 3 | Producer |
+| | 김수정 (김수정) | 1 | Producer |
+| | Prime Time | 1 | Songwriter |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | BXN | 1 | Arranger, Lyricist, Songwriter |
+| | will.b | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/labels/high_up_entertainment/producers.png)
 ## Tracks released under High Up Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

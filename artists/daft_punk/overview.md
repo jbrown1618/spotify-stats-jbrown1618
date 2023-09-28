@@ -68,6 +68,31 @@ Daft Punk:
 |:---|---:|---:|
 | Producer | 5 | 5 |
 | Songwriter | 5 | 5 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Digital Love | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Harder, Better, Faster, Stronger | [Daft Punk](overview.md), Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Thomas Bangalter | 5 | Producer, Songwriter |
+| | Guy-Manuel de Homem-Christo | 5 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | [Daft Punk](overview.md) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Edwin Birdsong | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
+| | Carlos Sosa | 1 | Songwriter |
+| | George Duke | 1 | Songwriter |
+
+![Bar chart of top 9 producers](../../images/artists/daft_punk/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

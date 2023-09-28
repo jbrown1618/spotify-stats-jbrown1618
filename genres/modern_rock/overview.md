@@ -152,9 +152,123 @@
 
 ![Bar chart of top 24 record labels](../../images/genres/modern_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/modern_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/modern_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Florence Welch | 14 | Songwriter, Lyricist, Arranger, Producer |
+| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
+| | Craig Silvey | 4 | Producer |
+| | Markus Dravs | 4 | Producer |
+| | Cenzo Townshend | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| | James Ford | 3 | Producer |
+| | Jimmy Robertson | 3 | Producer |
+| | Wayne Sermon | 3 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Gus Unger-Hamilton | 3 | Songwriter |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Robin Baynton | 3 | Producer |
+| | Ben McKee | 3 | Songwriter |
+| | Thom Green | 3 | Songwriter |
+| | Joe Newman | 3 | Songwriter |
+| | Charlie Andrew | 3 | Producer, Songwriter |
+| | Dan Reynolds | 3 | Songwriter |
+| | Sally Herbert | 3 | Arranger |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Mark "Spike" Stent | 3 | Producer |
+| | Winston Marshall | 2 | Songwriter |
+| | Bullion | 2 | Producer |
+| | Tommaso Colliva | 2 | Producer |
+| | Kid Harpoon | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Adrian Bushby | 2 | Producer |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Beau Sorenson | 2 | Producer |
+| | Ted Dwane | 2 | Songwriter |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Chris Walla | 2 | Producer |
+| | Manny Marroquin | 2 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Ben Lovett | 2 | Songwriter |
+| | Rob Kirwan | 2 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Marcus Mumford | 2 | Songwriter |
+| | Tom Elmhirst | 2 | Producer |
+| | Neal Avron | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Ruadhri Cushnan | 2 | Producer |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Jack Antonoff | 1 | Producer, Songwriter |
+| | Jim Adkins | 1 | Songwriter |
+| | Rick Rubin | 1 | Producer |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Steve Mackey | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Rush | 1 | Songwriter |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Charlie Hugall | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Producer |
+| | Nick Valensi | 1 | Songwriter |
+| | Billy Bush | 1 | Producer |
+| | Mattias Larsson | 1 | Songwriter |
+| | Tom Moth | 1 | Arranger |
+| | Josh Diamond | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Andrew Scheps | 1 | Producer |
+| | Zachary Abels | 1 | Songwriter |
+| | Will Owen | 1 | Arranger |
+| | Joe Viers | 1 | Producer |
+| | Claudius Mittendorfer | 1 | Producer |
+| | Ben Tolliday | 1 | Producer |
+| | Brian Degraw | 1 | Songwriter |
+| | Jason Lader | 1 | Producer |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Rich Costey | 1 | Producer |
+| | Daniel Platzman | 1 | Songwriter |
+| | Mat Bartram | 1 | Producer |
+| | Ben Baptie | 1 | Producer |
+| | Mattman & Robin | 1 | Producer |
+| | Ali Helnwein | 1 | Arranger |
+| | Gordon Raphael | 1 | Producer |
+| | John Cornfield | 1 | Producer |
+| | Zach Lind | 1 | Songwriter |
+| | Tyler Glenn | 1 | Songwriter |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
+| | Mike Elizondo | 1 | Producer |
+| | Justin Meldal-Johnsen | 1 | Producer |
+| | Ben Schneider | 1 | Lyricist, Producer, Songwriter |
+| | Pete Prokopiw | 1 | Producer |
+| | Matt Allchin | 1 | Songwriter |
+| | Pete Min | 1 | Producer |
+| | Rick Parker | 1 | Producer |
+| | Dave Bayley | 1 | Songwriter |
+| | Chris Lord-Alge | 1 | Producer |
+| | Toshikazu Yoshioka | 1 | Producer |
+| | Jeremy Freedman | 1 | Songwriter |
+| | Mark Barry | 1 | Producer |
+| | Anthony B. Stephens | 1 | Songwriter |
+| | Rick Burch | 1 | Songwriter |
+| | Ric Peet | 1 | Producer |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Nick Harmer | 1 | Songwriter |
+| | Justyn Pilbrow | 1 | Producer |
+| | John Leckie | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -168,3 +282,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | How To Be A Human Being (2016-08-26) | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Room On Fire (2003-10-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="Heathens" width="50" /> | Heathens (2016-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Hot Fuss (2004) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (2015-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (2004-09-21) |
+
+![Bar chart of number of songs by year](../../images/genres/modern_rock/years.png)

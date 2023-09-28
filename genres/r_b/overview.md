@@ -149,9 +149,112 @@
 
 ![Bar chart of top 23 record labels](../../images/genres/r_b/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/r_b/years.png)
+![Bar chart of top 30 producers](../../images/genres/r_b/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 7 | Producer, Songwriter |
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
+| | Bruce Swedien | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](../../artists/janelle_mon_e/overview.md) | 3 | Songwriter, Producer |
+| | John Hanes | 3 | Producer |
+| | Serban Ghenea | 3 | Producer |
+| | Jerry Hey | 3 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| | Shea Taylor | 2 | Producer, Songwriter |
+| | Jim Caruana | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mark "Spike" Stent | 2 | Producer |
+| | The-Dream | 2 | Songwriter |
+| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
+| | DJ Swivel | 2 | Producer |
+| | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | Derek Dixie | 1 | Producer |
+| | Diana Gordon | 1 | Songwriter |
+| | Anne Preven | 1 | Songwriter |
+| | Patrick L. Brown | 1 | Songwriter |
+| | Stephen Kozmeniuk | 1 | Songwriter |
+| | Nathaniel Irvin, III | 1 | Songwriter |
+| | Clarence Coffee Jr. | 1 | Songwriter |
+| | Kuk Harrell | 1 | Producer |
+| | Timothy Thomas | 1 | Songwriter |
+| | Scott Cutler | 1 | Songwriter |
+| | KOZ | 1 | Producer |
+| | Michael Bivins | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
+| | Ray Murray | 1 | Songwriter |
+| | BC Jean | 1 | Songwriter |
+| | Matt Friedman | 1 | Songwriter |
+| | Bill Wolfer | 1 | Producer |
+| | Frank Romano | 1 | Songwriter |
+| | Rob Bisel | 1 | Songwriter |
+| | Kevin Cossom | 1 | Songwriter |
+| | Cainon Lamb | 1 | Songwriter |
+| | Toby Gad | 1 | Arranger, Producer, Songwriter |
+| | Danny Morris | 1 | Songwriter |
+| | Platinum Library | 1 | Producer |
+| | Jacob Kasher | 1 | Songwriter |
+| | E. Kidd Bogart | 1 | Songwriter |
+| | Greg Phillinganes | 1 | Producer |
+| | Jim Jonsin | 1 | Songwriter |
+| | David Campbell | 1 | Arranger |
+| | Brent Kutzle | 1 | Producer |
+| | Romano | 1 | Producer |
+| | Donn Landee | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | Miguel | 1 | Songwriter |
+| | Carter Lang | 1 | Songwriter |
+| | Nate "Rocket" Wonder | 1 | Producer |
+| | Henry Krieger | 1 | Songwriter |
+| | Nija | 1 | Songwriter |
+| | The Underdogs | 1 | Producer |
+| | James Ingram | 1 | Arranger, Songwriter |
+| | Anthony Marinelli | 1 | Producer |
+| | Alex Delicata | 1 | Producer, Songwriter |
+| | Happy Perez | 1 | Songwriter |
+| | Cirkut | 1 | Songwriter |
+| | Aaron Renner | 1 | Producer |
+| | Taylor Parks | 1 | Songwriter |
+| | Sarah Hudson | 1 | Songwriter |
+| | Dabling Harward | 1 | Producer |
+| | Chuck Lightning | 1 | Producer |
+| | Ester Dean | 1 | Songwriter |
+| | Shawn "Source" Jarrett | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | 1 | Songwriter |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Theron Thomas | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | USHER | 1 | Songwriter |
+| | Rico Wade | 1 | Songwriter |
+| | Jolie Levine | 1 | Arranger |
+| | Mark Shick | 1 | Producer |
+| | Rico Love | 1 | Songwriter |
+| | Steve Porcaro | 1 | Producer |
+| | Mike Dean | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 1 | Songwriter |
+| | Chris Spilfogel | 1 | Producer |
+| | Rommel Nino Villanueva | 1 | Producer |
+| | Diane Warren | 1 | Songwriter |
+| | Wanya Morris | 1 | Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Julia Michaels | 1 | Songwriter |
+| | OG Parker | 1 | Producer, Songwriter |
+| | Julie Frost | 1 | Songwriter |
+| | Stuart White | 1 | Producer |
+| | Justin Tranter | 1 | Songwriter |
+| | Nathan Morris | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -165,3 +268,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Dangerously In Love (2003-06-24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="The Lion King (Original Motion Picture Soundtrack)" width="50" /> | The Lion King (Original Motion Picture Soundtrack) (2019-07-11) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="Dirty Computer" width="50" /> | Dirty Computer (2018-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
+
+![Bar chart of number of songs by year](../../images/genres/r_b/years.png)

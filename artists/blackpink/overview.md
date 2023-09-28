@@ -112,6 +112,84 @@ BLACKPINK is currently:
 | Performer | 0 | 0 | 0 | 1 |
 | Songwriter | 1 | 0 | 0 | 2 |
 | Vocal | 15 | 15 | 16 | 18 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Lovesick Girls | JENNIE, JISOO | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | ROSÉ | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | ROSÉ | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah | ROSÉ, JISOO | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | TEDDY | 22 | Lyricist, Producer, Songwriter, Arranger |
+| | 24 | 14 | Arranger, Producer, Songwriter |
+| | R.Tee | 12 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 9 | Lyricist, Songwriter |
+| | Danny Chung | 8 | Lyricist |
+| | YOUNGJU BANG | 7 | Producer |
+| | Josh Gudwin | 7 | Producer |
+| | Jason Roberts | 6 | Producer |
+| | Jason Robert | 5 | Producer |
+| | FUTURE BOUNCE | 4 | Arranger, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | LØREN (LOREN) | 3 | Lyricist |
+| | Vince | 3 | Arranger, Lyricist |
+| | 최용인 (Choi, Yon-gin) | 3 | Producer |
+| | Brian Lee | 3 | Songwriter, Lyricist |
+| | IDO | 2 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
+| | Choice37 | 2 | Lyricist, Arranger, Songwriter |
+| | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
+| | Brother Su | 1 | Lyricist |
+| | Ruffsound | 1 | Songwriter |
+| | Rami | 1 | Songwriter |
+| | YG Family | 1 | Producer |
+| | BURNS | 1 | Producer, Songwriter |
+| | Willy Moon | 1 | Lyricist, Songwriter |
+| | Dominsuk | 1 | Arranger, Songwriter |
+| | Alex Oriet | 1 | Lyricist, Songwriter |
+| | KUSH | 1 | Arranger, Lyricist, Songwriter |
+| | Madison Love | 1 | Songwriter |
+| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
+| | Steph Jones | 1 | Lyricist |
+| | KNY Factory | 1 | Songwriter |
+| | Freddy Wexler | 1 | Lyricist, Songwriter |
+| | David Phelan | 1 | Lyricist, Songwriter |
+| | Soké (Soké) | 1 | Songwriter |
+| | NOHC | 1 | Arranger |
+| | Teddy Sinclair | 1 | Lyricist, Songwriter |
+| | Lydia Paek | 1 | Songwriter |
+| | David Guetta | 1 | Songwriter |
+| | Bianca Atterberry | 1 | Lyricist, Songwriter |
+| | Chloe George | 1 | Lyricist |
+| | Billboard | 1 | Songwriter |
+| | Paro | 1 | Lyricist, Songwriter |
+| | Leah Haywood | 1 | Songwriter |
+| | Max Wolfgang | 1 | Lyricist, Songwriter |
+| | Soraya LaPread | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Songwriter |
+| | Chelcee Grimes | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
+| | VVN | 1 | Lyricist, Songwriter |
+| | Nat Dunn | 1 | Lyricist, Songwriter |
+| | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 1 | Lyricist |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/blackpink/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

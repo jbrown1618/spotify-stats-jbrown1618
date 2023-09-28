@@ -87,8 +87,6 @@
 
 ## Years
 
-![Bar chart of number of songs by year](../../images/genres/post_romantic_era/years.png)
-
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> | Fauré Pavane (2020-05-30) | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | Holst: The Planets (1981-01-01) |
@@ -101,3 +99,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a68c06155b7c3cf82b00cb96" alt="Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]" width="50" /> | Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition] (1990) | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="Rachmaninov: Piano Concerto No.2" width="50" /> | Rachmaninov: Piano Concerto No.2 (2012-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="Debussy: La Mer; Jeux; Prélude à l&#x27;après-midi d&#x27;un faune; Le Martyre de Saint Sébastien (Symphonic Fragments)" width="50" /> | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) (1989-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="Debussy &amp; Ravel: String Quartets" width="50" /> | Debussy & Ravel: String Quartets (2018-05-25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | Holst: The Planets (1981-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="Fauré Pavane" width="50" /> | Fauré Pavane (2020-05-30) |
+
+![Bar chart of number of songs by year](../../images/genres/post_romantic_era/years.png)

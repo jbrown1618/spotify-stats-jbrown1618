@@ -70,6 +70,24 @@ GOT the beat is currently:
 | Lyricist | 2 | 0 | 1 | 0 |
 | Songwriter | 2 | 0 | 0 | 0 |
 | Vocal | 0 | 15 | 5 | 15 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b1ee39743c40b88a80b4ccf" alt="" width="50" /> | Dreams Come True | [BoA](../boa/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | [TAEYEON](../taeyeon/overview.md) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | [BoA](../boa/overview.md) | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | 유영진 (Yoo, Young-jin) | 1 | Arranger, Lyricist, Songwriter |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | Tayla Parx | 1 | Songwriter |
+
+![Bar chart of top 4 producers](../../images/artists/got_the_beat/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

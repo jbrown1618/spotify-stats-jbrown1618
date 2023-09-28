@@ -49,6 +49,41 @@
 | Producer | 2 |
 | Songwriter | 3 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Song of the Caged Bird | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Crystallize | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | Shatter Me Featuring Lzzy Hale | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="" width="50" /> | [Lindsey Stirling](overview.md) | 3 | Producer, Songwriter |
+| | Marko G | 2 | Producer, Songwriter |
+| | Ryan Wyler | 2 | Producer |
+| | Alex da Kid | 1 | Songwriter |
+| | Josh Mosser | 1 | Songwriter |
+| | Mark Maxwell | 1 | Producer, Songwriter |
+| | Wayne Sermon | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
+| | Ben McKee | 1 | Songwriter |
+| | Dan Reynolds | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Dia Frampton | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 11 producers](../../images/artists/lindsey_stirling/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

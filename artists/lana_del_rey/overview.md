@@ -63,6 +63,63 @@
 | Songwriter | 10 |
 | Vocal | 9 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Dark Paradise | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Radio | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Video Games | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Bel Air | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Cherry | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](overview.md) | 10 | Songwriter, Lyricist, Producer |
+| | Emile Haynie | 5 | Producer |
+| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
+| | Larry Gold | 4 | Arranger |
+| | Dan Grech-Marguerat | 4 | Producer |
+| | Justin Parker | 3 | Producer, Songwriter |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| | Dean Reid | 1 | Producer |
+| | Dan Auerbach | 1 | Producer |
+| | Robopop | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Serban Ghenea | 1 | Producer |
+| | Brent Kolatalo | 1 | Producer |
+| | Collin Dupuis | 1 | Producer |
+| | Carl Bagge | 1 | Arranger |
+| | Laura Sisk | 1 | Producer |
+| | Dave Gross | 1 | Producer |
+| | Robert Orton | 1 | Producer |
+| | Evan Smith | 1 | Producer |
+| | Manny Marroquin | 1 | Producer |
+| | Daniel Law Heath | 1 | Songwriter |
+| | Kieron Menzies | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../taylor_swift/overview.md) | 1 | Producer, Songwriter |
+| | Chris Garcia | 1 | Producer |
+| | Jack Antonoff | 1 | Producer, Songwriter |
+| | Trevor Yasuda | 1 | Producer |
+| | Patrik Berger | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 26 producers](../../images/artists/lana_del_rey/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

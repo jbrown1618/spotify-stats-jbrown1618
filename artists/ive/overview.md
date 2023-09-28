@@ -76,6 +76,80 @@ IVE is currently:
 |:---|---:|---:|---:|---:|---:|---:|
 | Lyricist | 2 | 3 | 0 | 0 | 0 | 0 |
 | Vocal | 8 | 8 | 8 | 8 | 8 | 8 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | 레이 (REI) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | 레이 (REI), 가을 (GAEUL) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Kitsch | 레이 (REI), 가을 (GAEUL) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Kriz | 8 | Arranger |
+| | 양영은 (Yang, Young-eun) | 8 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 7 | Producer |
+| | Ryan S. Jhun | 5 | Arranger, Songwriter |
+| | Alawn | 5 | Producer, Arranger |
+| | 서지음 (Seo, Ji Eum) | 4 | Lyricist |
+| | Sophia Brenan | 3 | Songwriter |
+| | 레이 (REI) | 3 | Lyricist |
+| | 김민희 (Kim, Min Hee) | 3 | Producer |
+| | Simon Bergseth | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Audun Agnar | 2 | Arranger, Songwriter |
+| | Lauren Aquilina | 2 | Songwriter |
+| | Nick Hahn | 2 | Arranger, Songwriter |
+| | Elle Campbell | 2 | Songwriter |
+| | 가을 (GAEUL) | 2 | Lyricist |
+| | Stally | 1 | Arranger, Songwriter |
+| | SOHLHEE | 1 | Lyricist |
+| | Kyle Joseph Faulkner | 1 | Songwriter |
+| | Eline Noelia | 1 | Songwriter |
+| | Exy | 1 | Lyricist |
+| | BlackSmith | 1 | Songwriter |
+| | Markus Gustafson | 1 | Producer |
+| | Iselin Solheim | 1 | Songwriter |
+| | Elof Loelv | 1 | Arranger, Songwriter |
+| | Benjamin Pinkus | 1 | Arranger, Songwriter |
+| | Emily Harbakk | 1 | Songwriter |
+| | 이경원 (Lee, Kyung-won) | 1 | Producer |
+| | Starsmith | 1 | Arranger, Songwriter |
+| | Lars Kristian Rosness | 1 | Arranger, Songwriter |
+| | Alexander Pavelich | 1 | Songwriter |
+| | Andre Davidson | 1 | Songwriter |
+| | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
+| | Anders Nilsen | 1 | Arranger, Songwriter |
+| | Adriana Caldas de Barros | 1 | Songwriter |
+| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | LOSTBOY | 1 | Arranger, Songwriter |
+| | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | Avin | 1 | Arranger |
+| | Tea Carpenter | 1 | Songwriter |
+| | 황현 (Hwang, Hyeon) | 1 | Lyricist |
+| | RISC | 1 | Arranger |
+| | Sean Davidson | 1 | Songwriter |
+| | Kristin Marie | 1 | Arranger, Songwriter |
+| | Mommy Son | 1 | Lyricist |
+| | Sofiloud | 1 | Songwriter |
+| | Lauren Keen | 1 | Songwriter |
+| | Tor-Andrè Jensen Skaar (Skaar, Tor-Andrè Jensen) | 1 | Songwriter |
+| | PATEKO | 1 | Arranger, Songwriter |
+| | Corey Sanders | 1 | Songwriter |
+| | Slay | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/ive/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

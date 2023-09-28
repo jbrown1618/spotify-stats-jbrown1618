@@ -66,6 +66,25 @@ Jackson Wang is currently:
 | Songwriter | 1 |
 | Vocal | 2 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Erik Madrid | 1 | Producer |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Cambo | 1 | Producer, Songwriter |
+| | Louis Bartolini | 1 | Producer, Songwriter |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](overview.md) | 1 | Songwriter |
+| | Jack Samson | 1 | Songwriter |
+
+![Bar chart of top 7 producers](../../images/artists/jackson_wang/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

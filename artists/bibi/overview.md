@@ -79,6 +79,50 @@
 | Lyricist | 5 |
 | Songwriter | 2 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | MORE & MORE | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Wet Nightmare | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | BIBI Vengeance | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](overview.md) | 4 | Lyricist, Songwriter |
+| | THE NEED | 2 | Arranger, Songwriter |
+| | luvssong | 1 | Lyricist |
+| | Rick Parkhouse | 1 | Lyricist, Songwriter |
+| | KLOË (KLOE) | 1 | Lyricist, Songwriter |
+| | Stay Tuned | 1 | Producer |
+| | twlv | 1 | Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | Fuxxy | 1 | Arranger |
+| | Kyle Scherrer | 1 | Arranger, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Samuel Preston | 1 | Lyricist, Songwriter |
+| | Ryan S. Jhun | 1 | Arranger, Lyricist, Songwriter |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | George Tizzard | 1 | Lyricist, Songwriter |
+| | Max Levin | 1 | Arranger, Songwriter |
+| | Red Triangle | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../chung_ha/overview.md) | 1 | Lyricist |
+| | 박재선 (Park, Jason) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 18 producers](../../images/artists/bibi/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

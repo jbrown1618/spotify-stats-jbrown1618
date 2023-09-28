@@ -66,6 +66,51 @@ Maroon 5 is currently:
 | Lyricist | 4 | 2 | 3 | 0 | 1 | 0 | 1 |
 | Songwriter | 5 | 3 | 3 | 0 | 2 | 0 | 2 |
 | Vocal | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | Sunday Morning | Mickey Madden, Jesse Carmichael, Adam Levine, Ryan Dusick, James Valentine | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | This Love | Mickey Madden, Jesse Carmichael, Adam Levine, Ryan Dusick, James Valentine | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | She Will Be Loved | Adam Levine, James Valentine | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | Misery | Jesse Carmichael, Adam Levine | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | Sugar | [Maroon 5](overview.md), Adam Levine | Producer, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Adam Levine | 5 | Lyricist, Songwriter |
+| | Jesse Carmichael | 3 | Lyricist, Songwriter |
+| | James Valentine | 3 | Lyricist, Songwriter |
+| | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | Mickey Madden | 2 | Lyricist, Songwriter |
+| | Noah Passovoy | 1 | Producer |
+| | Jacob Kasher | 1 | Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | Doug McKean | 1 | Producer |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](overview.md) | 1 | Producer |
+| | Cirkut | 1 | Producer, Songwriter |
+| | Ammo | 1 | Producer, Songwriter |
+| | John Hanes | 1 | Producer |
+| | Mike Posner | 1 | Songwriter |
+| | Clint Gibbs | 1 | Producer |
+| | Dr. Luke | 1 | Producer |
+| | Jonathan Sher | 1 | Producer |
+| | Sam Farrar | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 19 producers](../../images/artists/maroon_5/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

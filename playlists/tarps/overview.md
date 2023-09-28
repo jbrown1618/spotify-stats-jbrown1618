@@ -318,6 +318,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/tarps/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 3 | Producer, Arranger |
+| | Paul McCartney | 2 | Songwriter |
+| | Phil McDonald | 2 | Producer |
+| | Glyn Johns | 2 | Producer |
+| | Geoff Emerick | 2 | Producer |
+| | Serban Ghenea | 2 | Producer |
+| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| | John Lennon | 2 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | Tom Elmhirst | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jeff Jarratt | 1 | Producer |
+| | Robin Wiley | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Anthony Kilhoffer | 1 | Producer |
+| | D. Fact | 1 | Producer |
+| | Taboo | 1 | Songwriter |
+| | Glenn Frey | 1 | Songwriter |
+| | Julian Burg | 1 | Producer |
+| | Ryan Dusick | 1 | Lyricist, Songwriter |
+| | Zippy | 1 | Lyricist, Producer |
+| | Don Henley | 1 | Songwriter |
+| | Robert Allen | 1 | Songwriter |
+| | Adam Levine | 1 | Lyricist, Songwriter |
+| | Jesse Shatkin | 1 | Producer, Songwriter |
+| | Florence Welch | 1 | Lyricist, Songwriter |
+| | John Hanes | 1 | Producer |
+| | Ronald White | 1 | Songwriter |
+| | Andrew Dawson | 1 | Producer |
+| | Jim Ed Norman | 1 | Arranger |
+| | Martin Terefe | 1 | Producer |
+| | Laleh | 1 | Arranger, Producer |
+| | Ron Fair | 1 | Arranger, Producer |
+| | Jesse Carmichael | 1 | Lyricist, Songwriter |
+| | Chris Martin | 1 | Songwriter |
+| | Adam McKenzie | 1 | Songwriter |
+| | Bullion | 1 | Producer |
+| | Pérez Prado (Pérez Prado) | 1 | Songwriter |
+| | Andre Merritt | 1 | Songwriter |
+| | Joe Zook | 1 | Producer |
+| | Robin Baynton | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 1 | Lyricist, Songwriter |
+| | Brady Barnett | 1 | Producer |
+| | Art Garfunkel | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 1 | Lyricist, Songwriter |
+| | James Valentine | 1 | Lyricist, Songwriter |
+| | Tony Rey | 1 | Producer |
+| | Sam Holland | 1 | Producer |
+| | Rik Simpson | 1 | Producer |
+| | Greg Kurstin | 1 | Producer |
+| | Shellback | 1 | Producer, Songwriter |
+| | Brian Burton | 1 | Songwriter |
+| | Neal Avron | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 1 | Songwriter |
+| | Pat McMakin | 1 | Producer |
+| | Kiyanu Kim | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| | Ben Lovett | 1 | Songwriter |
+| | Stephan Moccio | 1 | Songwriter |
+| | Francis White | 1 | Songwriter |
+| | will.i.am | 1 | Producer, Songwriter |
+| | Jonny Buckland | 1 | Songwriter |
+| | Markus Dravs | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 1 | Producer |
+| | Chris Thile | 1 | Songwriter |
+| | Mark Phythian | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Songwriter |
+| | Tal Herzberg | 1 | Producer |
+| | Mike Fratantuno | 1 | Songwriter |
+| | Shannon Sanders | 1 | Producer |
+| | Dylan Dresdow | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 1 | Songwriter |
+| | Danger Mouse | 1 | Producer |
+| | George Harrison | 1 | Lyricist, Songwriter |
+| | Ruadhri Cushnan | 1 | Producer |
+| | Norman Smith | 1 | Producer |
+| | George Pajon, Jr. | 1 | Songwriter |
+| | Kennie Takahashi | 1 | Producer |
+| | Marcus Mumford | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 1 | Producer, Songwriter |
+| | Mark Bright | 1 | Producer |
+| | Alex Pasco | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | CeeLo Green | 1 | Lyricist |
+| | DJ Toomp | 1 | Producer |
+| | Chris Thomas | 1 | Producer |
+| | Winston Marshall | 1 | Songwriter |
+| | Gian Piero Reverberi | 1 | Songwriter |
+| | Brett James | 1 | Songwriter |
+| | Drew Ramsey | 1 | Producer |
+| | Dr. Luke | 1 | Producer |
+| | Aldrin Davis | 1 | Songwriter |
+| | Guy Berryman | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | Kanye West | 1 | Producer, Songwriter |
+| | Phil Tan | 1 | Producer |
+| | apl.de.ap | 1 | Songwriter |
+| | Cirkut | 1 | Producer, Songwriter |
+| | Ben H. Allen | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Printz Board | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/tarps/producers.png)
 ## Years
 
 

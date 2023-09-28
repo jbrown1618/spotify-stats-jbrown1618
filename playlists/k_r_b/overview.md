@@ -312,6 +312,34 @@
 
 ![Bar chart of top 14 genres](../../images/playlists/k_r_b/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 3 | Lyricist, Songwriter |
+| | Tablo | 2 | Lyricist, Songwriter |
+| | THE NEED | 2 | Arranger, Songwriter |
+| | Kyle Scherrer | 1 | Arranger, Songwriter |
+| | Max Levin | 1 | Arranger, Songwriter |
+| | JONGHYUN | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | Dok2 | 1 | Lyricist |
+| | 안신애 (Wheeler, Shinae An) | 1 | Lyricist, Songwriter |
+| | R.Tee | 1 | Producer |
+| | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 위프리키 (Wipeuriki) | 1 | Songwriter |
+| | twlv | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/playlists/k_r_b/producers.png)
 ## Years
 
 

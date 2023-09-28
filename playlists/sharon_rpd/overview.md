@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaab238968309b88b14407cbd" alt="" width="50" /> | 1 | 0 | Swizz Beatz | [🔗](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | 1 | 0 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | LACHICA | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
+| | 1 | 0 | LACHICA | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
@@ -235,6 +235,122 @@
 
 ![Bar chart of top 22 genres](../../images/playlists/sharon_rpd/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | TEDDY | 6 | Arranger, Lyricist, Songwriter, Producer |
+| | 24 | 4 | Arranger, Producer, Songwriter |
+| | R.Tee | 4 | Producer, Arranger, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 3 | Lyricist, Songwriter |
+| | Manny Marroquin | 3 | Producer |
+| | Danny Chung | 3 | Lyricist |
+| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | Kyler Niko | 2 | Lyricist, Songwriter |
+| | SCORE | 2 | Arranger, Lyricist, Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 13 | 2 | Producer |
+| | Josh Gudwin | 2 | Producer |
+| | 김병석 (Kim, Byung-seok) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 유영진 (Yoo, Young-jin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 전군 (Jeon Goon) | 2 | Lyricist, Songwriter |
+| | Paulina Cerrilla | 2 | Lyricist, Songwriter |
+| | Ryan S. Jhun | 2 | Arranger, Songwriter |
+| | 양영은 (Yang, Young-eun) | 2 | Producer |
+| | Chris Galland | 2 | Producer |
+| | Vince | 2 | Lyricist |
+| | 방시혁 (Bang, Si-Hyuk) | 2 | Lyricist, Songwriter |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 2 | Lyricist, Songwriter |
+| | Supreme Boi | 2 | Lyricist, Songwriter |
+| | 라도 (Rado) | 2 | Arranger |
+| | Alawn | 2 | Producer, Arranger |
+| | Jason Roberts | 2 | Producer |
+| | 황민희 (Hwang, Min-hee) | 2 | Producer |
+| | Kriz | 2 | Arranger |
+| | YOUNGJU BANG | 2 | Producer |
+| | Nathalie Blue | 1 | Lyricist, Songwriter |
+| | YONGJU BANG | 1 | Producer |
+| | BLVSH | 1 | Lyricist, Songwriter |
+| | Tim Maxey | 1 | Producer |
+| | Tim Gomringer | 1 | Songwriter |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | Erik Madrid | 1 | Producer |
+| | Gabriela Geneva | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | Destiny Rogers | 1 | Lyricist, Songwriter |
+| | IDO | 1 | Arranger, Songwriter |
+| | LØREN (LOREN) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | MARK | 1 | Lyricist |
+| | Sophia Brenan | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
+| | 이연수 (Lee, Yeon-soo) | 1 | Producer |
+| | CuBeatz | 1 | Producer |
+| | Shaun Lopez | 1 | Arranger, Songwriter |
+| | J.LBS | 1 | Producer |
+| | 우민정 (Umin, Je-ong) | 1 | Producer |
+| | Lido | 1 | Producer |
+| | FLYT | 1 | Arranger, Songwriter |
+| | Jaycen Joshua | 1 | Producer |
+| | DRK | 1 | Producer |
+| | Cazzi Opeia | 1 | Songwriter |
+| | Jack Samson | 1 | Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| | Nikolay Mohr | 1 | Lyricist, Songwriter |
+| | Southside | 1 | Producer, Songwriter |
+| | Tayla Parx | 1 | Songwriter |
+| | emmy kasai. | 1 | Lyricist, Songwriter |
+| | EJAE | 1 | Songwriter |
+| | JARO | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
+| | FUTURE BOUNCE | 1 | Arranger, Songwriter |
+| | Elle Campbell | 1 | Songwriter |
+| | Lauren Aquilina | 1 | Songwriter |
+| | 최용인 (Choi, Yon-gin) | 1 | Producer |
+| | Scott Chesak | 1 | Arranger, Songwriter |
+| | David Stewart | 1 | Songwriter |
+| | danke | 1 | Lyricist, Songwriter |
+| | Cambo | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2aef04c86590ac7328fb37cd" alt="" width="50" /> | TAEYONG | 1 | Lyricist |
+| | DJ Dahi | 1 | Producer |
+| | Jessica Agombar | 1 | Songwriter |
+| | 이수만 (Lee, Soo-Man) | 1 | Producer |
+| | Ronnie Icon | 1 | Lyricist, Songwriter |
+| | Shintaro Yasuda | 1 | Lyricist, Songwriter |
+| | Jordan Thorpe | 1 | Songwriter |
+| | Nick Hahn | 1 | Arranger, Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Ella Isaacson | 1 | Songwriter |
+| | Isabella Lovestory | 1 | Lyricist, Songwriter |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| | Mike Elizondo | 1 | Producer |
+| | OKLAMA | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb36823ee68bf29bd676f55e7" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
+| | Sounwave | 1 | Producer |
+| | Josefin Glenmark | 1 | Lyricist, Songwriter |
+| | Louis Bartolini | 1 | Producer, Songwriter |
+| | Omega | 1 | Arranger, Songwriter |
+| | LOSTBOY | 1 | Arranger, Songwriter |
+| | Kenzie | 1 | Songwriter |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Jordan Reyes | 1 | Arranger, Songwriter |
+| | Kevin Gomringer | 1 | Songwriter |
+| | Pontus Petersson | 1 | Lyricist, Songwriter |
+| | Druski | 1 | Producer |
+| | Jussifer | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 1 | Songwriter |
+| | Peder Losnegård (Losnegård, Peder) | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/sharon_rpd/producers.png)
 ## Years
 
 

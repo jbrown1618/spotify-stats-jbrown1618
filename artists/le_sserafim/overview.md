@@ -81,6 +81,104 @@ LE SSERAFIM is currently:
 | Lyricist | 4 | 0 | 0 | 0 | 1 | 0 |
 | Songwriter | 4 | 0 | 0 | 0 | 1 | 0 |
 | Vocal | 10 | 10 | 10 | 3 | 10 | 10 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Blue Flame | HUH YUNJIN, 김채원 (Kim, Chae-won) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | No Celestial | HUH YUNJIN | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | Impurities | HUH YUNJIN | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Eve, Psyche & The Bluebeard’s wife | HUH YUNJIN | Lyricist, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 13 | 10 | Producer |
+| | 김병석 (Kim, Byung-seok) | 10 | Arranger, Lyricist, Producer, Songwriter |
+| | SCORE | 10 | Arranger, Lyricist, Producer, Songwriter |
+| | 황민희 (Hwang, Min-hee) | 8 | Producer |
+| | 이연수 (Lee, Yeon-soo) | 7 | Producer |
+| | 방시혁 (Bang, Si-Hyuk) | 6 | Lyricist, Songwriter |
+| | danke | 6 | Lyricist, Songwriter |
+| | Supreme Boi | 6 | Lyricist, Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 4 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa42f180402c30730380a90" alt="" width="50" /> | HUH YUNJIN | 4 | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 김준혁 (Kim Joonhyuk) | 4 | Producer |
+| | Kyler Niko | 4 | Lyricist, Songwriter |
+| | Manny Marroquin | 3 | Producer |
+| | Paulina Cerrilla | 3 | Lyricist, Songwriter |
+| | Ronnie Icon | 3 | Lyricist, Songwriter |
+| | Chris Galland | 3 | Producer |
+| | Young Chance | 3 | Lyricist, Songwriter |
+| | 김인형 (Kim, In Hyung) | 3 | Lyricist, Songwriter |
+| | Arineh Karimi | 2 | Lyricist, Songwriter |
+| | 박상유 (Park, Sang-yu) | 2 | Lyricist, Songwriter |
+| | Josefin Glenmark | 2 | Lyricist, Songwriter |
+| | Daniel "Obi" Klein | 2 | Lyricist, Songwriter |
+| | JARO | 2 | Lyricist, Songwriter |
+| | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
+| | Sunshine | 2 | Lyricist, Songwriter |
+| | Nikolay Mohr | 2 | Lyricist, Songwriter |
+| | 김영현 (Kim, Young-hyun) | 2 | Producer |
+| | Jonna Hall | 2 | Lyricist, Songwriter |
+| | BLVSH | 2 | Lyricist, Songwriter |
+| | Anne Judith Wik | 2 | Lyricist, Songwriter |
+| | 우민정 (Umin, Je-ong) | 2 | Producer |
+| | Tony Maserati | 2 | Producer |
+| | Charli Taft | 2 | Lyricist, Songwriter |
+| | Shorelle | 2 | Lyricist, Songwriter |
+| | BENJMN | 2 | Lyricist, Songwriter |
+| | Pontus Petersson | 2 | Lyricist, Songwriter |
+| | 이형석 (Lee, Hyung-seok) | 2 | Lyricist, Songwriter |
+| | Maggie Szabo | 1 | Lyricist, Songwriter |
+| | emmy kasai. | 1 | Lyricist, Songwriter |
+| | Shintaro Yasuda | 1 | Lyricist, Songwriter |
+| | Adam Hawkins | 1 | Producer |
+| | Kayofkaj | 1 | Lyricist, Songwriter |
+| | 김채원 (Kim, Chae-won) | 1 | Lyricist, Songwriter |
+| | Anders Gukko | 1 | Lyricist, Songwriter |
+| | Max Thulin | 1 | Lyricist, Songwriter |
+| | Josh Gudwin | 1 | Producer |
+| | Lady V | 1 | Lyricist, Songwriter |
+| | James Reynolds | 1 | Producer |
+| | Caroline Gerd Gustavsson | 1 | Lyricist, Songwriter |
+| | Maia Wright | 1 | Lyricist, Songwriter |
+| | Yang Ga | 1 | Producer |
+| | Cazzi Opeia | 1 | Lyricist, Songwriter |
+| | Feli Ferraro | 1 | Lyricist, Songwriter |
+| | 김현수 (Kim, Hyun-soo) | 1 | Producer |
+| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist, Songwriter |
+| | poutyface | 1 | Lyricist, Songwriter |
+| | Makaila J Garcia | 1 | Lyricist, Songwriter |
+| | 양가영 (Yang, Gayoung) | 1 | Lyricist, Songwriter |
+| | Belle | 1 | Lyricist, Songwriter |
+| | John Hanes | 1 | Producer |
+| | Hayes Kramer | 1 | Lyricist, Songwriter |
+| | Gusten Dahlqvist | 1 | Lyricist, Songwriter |
+| | Isabella Lovestory | 1 | Lyricist, Songwriter |
+| | Duane Benjamin | 1 | Arranger |
+| | Nathalie Blue | 1 | Lyricist, Songwriter |
+| | Believve | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | ABIR | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | Destiny Rogers | 1 | Lyricist, Songwriter |
+| | Kris Jana | 1 | Lyricist, Songwriter |
+| | 김채아 (Kim, Chae-ah) | 1 | Lyricist, Songwriter |
+| | Bob Horn | 1 | Producer |
+| | Glenda Proby | 1 | Lyricist, Songwriter |
+| | Julia Bognar Finnseter | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/le_sserafim/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

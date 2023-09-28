@@ -105,9 +105,85 @@
 
 ![Bar chart of top 14 record labels](../../images/genres/lilith/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/lilith/years.png)
+![Bar chart of top 30 producers](../../images/genres/lilith/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | Jenny Lewis | 5 | Lyricist, Songwriter |
+| | Jason Wormer | 5 | Producer |
+| | T-Bone Burnett | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
+| | Mark Endert | 3 | Producer |
+| | Blake Sennett | 3 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Craig Bishop | 3 | Producer |
+| | David Kahne | 3 | Producer |
+| | Mike Mogis | 3 | Producer |
+| | Todor Kobakov | 2 | Arranger |
+| | Hal Cragin | 2 | Producer, Songwriter |
+| | Lukas Burton | 2 | Producer, Songwriter |
+| | Michael Brauer | 2 | Producer |
+| | Alison Sudol | 2 | Lyricist, Songwriter |
+| | Jeremy Darby | 2 | Producer |
+| | Mike Piersante | 2 | Producer |
+| | Jack Antonoff | 2 | Songwriter |
+| | Matt Hales | 2 | Songwriter |
+| | Glen Ballard | 1 | Producer, Songwriter |
+| | Pete Harper | 1 | Songwriter |
+| | Mike Anderson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | 1 | Songwriter |
+| | Javier Dunn | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | 1 | Producer, Songwriter |
+| | Tommy Walter | 1 | Producer |
+| | David Schiffman | 1 | Producer |
+| | Ted Blaisdell | 1 | Producer |
+| | Aaron Sterling | 1 | Songwriter |
+| | Jimmy Tamborello | 1 | Producer |
+| | Eric Rosse | 1 | Producer |
+| | Ben Boyer | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
+| | Nate Walcott | 1 | Arranger |
+| | Jason Lader | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
+| | Ren Swan | 1 | Producer |
+| | Mark Trombino | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| | Joseph Lorge | 1 | Producer |
+| | Mike Elizondo | 1 | Producer |
+| | Chris Fogel | 1 | Producer |
+| | Yoad Nevo | 1 | Producer |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | Jimmy Boyelle | 1 | Producer |
+| | Lori McKenna | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Steve Osborne | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |
+| | Andy Green | 1 | Producer |
+| | Zachary Dawes | 1 | Producer |
+| | Suzie Katayama | 1 | Arranger |
+| | Hal Y. Burton | 1 | Producer |
+| | Bruno Ellingham | 1 | Producer |
+| | GE-OLOGY | 1 | Producer, Songwriter |
+| | Patrick Benson | 1 | Producer |
+| | Sam Farrar | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -121,3 +197,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="One Cell In The Sea" width="50" /> | One Cell In The Sea (2007) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="PINES" width="50" /> | PINES (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | Under The Blacklight (Standard Version) (2007-08-20) |
+
+![Bar chart of number of songs by year](../../images/genres/lilith/years.png)

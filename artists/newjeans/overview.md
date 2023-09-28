@@ -83,6 +83,54 @@ NewJeans is currently:
 | | Danielle Marsh | 강해린 (Kang, Hae-rin) |
 |:---|---:|---:|
 | Lyricist | 3 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | Danielle Marsh | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Super Shy | Danielle Marsh | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ASAP | Danielle Marsh | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | New Jeans | 강해린 (Kang, Hae-rin) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Bokyeong Wang | 5 | Producer |
+| | Gigi | 5 | Lyricist |
+| | Pyungwook Lee | 5 | Producer |
+| | Erika de Casier | 4 | Lyricist, Songwriter |
+| | Frankie Scoca | 3 | Producer, Songwriter |
+| | Fine Glindvad Jensen | 3 | Lyricist, Songwriter |
+| | Danielle Marsh | 3 | Lyricist |
+| | Yeji Cha | 2 | Producer |
+| | 250 | 2 | Producer, Songwriter |
+| | Kim Ximya | 2 | Songwriter, Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Phil Tan | 2 | Producer |
+| | FRNK | 2 | Producer, Songwriter |
+| | Bill Zimmerman | 2 | Producer |
+| | 강해린 (Kang, Hae-rin) | 1 | Lyricist |
+| | Kristine Bogan | 1 | Lyricist, Songwriter |
+| | 김영현 (Kim, Young-hyun) | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| | Ylva Dimberg | 1 | Lyricist, Songwriter |
+| | Henriette Motzfeldt | 1 | Lyricist, Producer, Songwriter |
+| | Nathan Boddy | 1 | Producer |
+| | Jonny Breakwell | 1 | Producer |
+| | Catharina Stoltenberg | 1 | Lyricist, Producer, Songwriter |
+| | Beenzino | 1 | Lyricist |
+
+</details>
+
+
+![Bar chart of top 23 producers](../../images/artists/newjeans/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

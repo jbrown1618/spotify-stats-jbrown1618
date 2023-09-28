@@ -81,6 +81,84 @@ Pentatonix is currently:
 | | Avi Kaplan | Kevin Olusola | Kirstin | Mitch Grassi | Scott Hoying |
 |:---|---:|---:|---:|---:|---:|
 | Songwriter | 3 | 3 | 3 | 3 | 3 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | The Baddest Girl | Avi Kaplan, Kevin Olusola, Kirstin, Scott Hoying, Mitch Grassi | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | Run to You | Avi Kaplan, Kevin Olusola, Kirstin, Scott Hoying, Mitch Grassi | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | Can't Sleep Love (feat. Tink) | [Pentatonix](overview.md), Avi Kaplan, Kevin Olusola, Kirstin, Scott Hoying, Mitch Grassi | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | If I Ever Fall In Love (feat. Jason Derulo) | [Pentatonix](overview.md) | Arranger |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ben Bram | 4 | Songwriter, Arranger |
+| | Kevin Olusola | 3 | Songwriter |
+| | Avi Kaplan | 3 | Songwriter |
+| | Kirstin | 3 | Songwriter |
+| | Scott Hoying | 3 | Songwriter |
+| | Mitch Grassi | 3 | Songwriter |
+| | Jimmy Napes | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8b155de1569279d9a91428c5" alt="" width="50" /> | [Pentatonix](overview.md) | 2 | Arranger |
+| | Savan Kotecha | 1 | Songwriter |
+| | Ben McKee | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Songwriter |
+| | Nikki Cislyn | 1 | Songwriter |
+| | Wayne Sermon | 1 | Songwriter |
+| | ILYA | 1 | Songwriter |
+| | George David Weiss | 1 | Songwriter |
+| | Luigi Creatore | 1 | Songwriter |
+| | Elof Loelv | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442" alt="" width="50" /> | Nate Ruess | 1 | Songwriter |
+| | Jeff Bhasker | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
+| | Brian Lee | 1 | Songwriter |
+| | Yoko Ono | 1 | Lyricist |
+| | Starrah | 1 | Songwriter |
+| | Dan Reynolds | 1 | Songwriter |
+| | Louis Bell | 1 | Songwriter |
+| | Andrew Watt | 1 | Songwriter |
+| | Howard Lawrence | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../camila_cabello/overview.md) | 1 | Songwriter |
+| | Kevin Figueiredo | 1 | Songwriter |
+| | Ali Tamposi | 1 | Songwriter |
+| | Alex da Kid | 1 | Songwriter |
+| | Jack Antonoff | 1 | Songwriter |
+| | Sampha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Teddy Peña (Peña, Teddy) | 1 | Songwriter |
+| | Hugo Peretti | 1 | Songwriter |
+| | Guy Lawrence | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../imogen_heap/overview.md) | 1 | Lyricist, Songwriter |
+| | Andrew Dost | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
+| | Jack Patterson | 1 | Songwriter |
+| | John Lennon | 1 | Lyricist, Songwriter |
+| | Josh Mosser | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
+| | Max Martin | 1 | Songwriter |
+| | Grace Chatto | 1 | Songwriter |
+| | Timmaz Zolleyn | 1 | Songwriter |
+| | William Wells | 1 | Songwriter |
+| | Jessie Ware | 1 | Songwriter |
+| | Carl Martin | 1 | Songwriter |
+| | Frank Dukes | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/pentatonix/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

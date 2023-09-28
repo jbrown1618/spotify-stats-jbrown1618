@@ -72,6 +72,85 @@ Florence + The Machine:
 | Producer | 0 | 1 | 3 | 0 | 0 | 0 | 0 |
 | Songwriter | 0 | 14 | 6 | 0 | 0 | 0 | 0 |
 | Vocal | 5 | 15 | 0 | 5 | 0 | 0 | 0 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | Florence Welch | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | Florence Welch, Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Florence Welch | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Between Two Lungs | Florence Welch, Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | I'm Not Calling You A Liar | Florence Welch, Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Florence Welch | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Florence Welch | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | Florence Welch | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | Florence Welch, Isabella Summers | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Florence Welch | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Florence Welch | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | Florence Welch, Isabella Summers | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | Florence Welch, Isabella Summers | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Free | Florence Welch, Tom Moth | Arranger, Producer, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Florence Welch | 14 | Songwriter, Lyricist, Arranger, Producer |
+| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
+| | Craig Silvey | 4 | Producer |
+| | Cenzo Townshend | 4 | Producer |
+| | James Ford | 3 | Producer |
+| | Sally Herbert | 3 | Arranger |
+| | Jimmy Robertson | 3 | Producer |
+| | Kid Harpoon | 2 | Songwriter |
+| | Robin Baynton | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Markus Dravs | 2 | Producer |
+| | Bullion | 2 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Mat Bartram | 1 | Producer |
+| | Brian Degraw | 1 | Songwriter |
+| | Ali Helnwein | 1 | Arranger |
+| | Tom Moth | 1 | Arranger |
+| | Will Owen | 1 | Arranger |
+| | Steve Mackey | 1 | Producer |
+| | Charlie Hugall | 1 | Producer |
+| | Rush | 1 | Songwriter |
+| | Richard Flack | 1 | Producer |
+| | Jack Antonoff | 1 | Producer, Songwriter |
+| | Lizzi Bougatsos | 1 | Songwriter |
+| | John Bellamy | 1 | Songwriter |
+| | Tim Dewit | 1 | Songwriter |
+| | Mark "Top" Rankin | 1 | Producer |
+| | Matt Allchin | 1 | Songwriter |
+| | Anthony B. Stephens | 1 | Songwriter |
+| | Pete Prokopiw | 1 | Producer |
+| | Arnecia Michelle Harris | 1 | Songwriter |
+| | Josh Diamond | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/florence___the_machine/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

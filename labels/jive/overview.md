@@ -56,6 +56,55 @@ Appears as:
 
 ![Bar chart of top 7 genres](../../images/labels/jive/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Max Martin | 5 | Producer, Songwriter, Lyricist |
+| | Andreas Carlsson | 3 | Songwriter, Lyricist |
+| | Rami | 3 | Producer, Songwriter |
+| | Kristian Lundin | 3 | Producer, Songwriter |
+| | John Amatiello | 2 | Producer |
+| | Happy Perez | 1 | Songwriter |
+| | Brian T. Littrell | 1 | Songwriter |
+| | Robin Wiley | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+| | Cathy Dennis | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Janson+Janson | 1 | Arranger |
+| | Pontus Winnberg | 1 | Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | Steve Lunt | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ec030557b0529c01639529b" alt="" width="50" /> | Timbaland | 1 | Lyricist, Producer, Songwriter |
+| | Brady Barnett | 1 | Producer |
+| | Andrew Coleman | 1 | Producer |
+| | Danja | 1 | Lyricist, Producer, Songwriter |
+| | Chad Hugo | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Bloodshy and Avant | 1 | Arranger, Producer |
+| | Niklas Flyckt | 1 | Producer |
+| | Jonathan Kaplan | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef" alt="" width="50" /> | Justin Timberlake | 1 | Lyricist, Producer, Songwriter |
+| | Brian Garten | 1 | Producer |
+| | Michael Tucker | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | Miguel | 1 | Songwriter |
+| | The Neptunes | 1 | Producer |
+| | Christian Karlsson | 1 | Songwriter |
+| | Henrik Jonback | 1 | Songwriter |
+| | Chris Trevett | 1 | Producer |
+| | Jacob Schulze | 1 | Producer, Songwriter |
+| | Pat McMakin | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/jive/producers.png)
 ## Tracks released under Jive
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

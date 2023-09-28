@@ -229,6 +229,87 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/classic_pop/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Bruce Swedien | 5 | Producer |
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Jerry Hey | 3 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| | Roy Halee | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael | 3 | Arranger, Producer, Songwriter, Lyricist |
+| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| | Bernie Taupin | 2 | Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ted Brosnan | 2 | Producer |
+| | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
+| | Berry Gordy | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
+| | Freddie Perren | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | Walter Murphy | 1 | Arranger |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Producer |
+| | Ronald White | 1 | Songwriter |
+| | Hal Davis | 1 | Songwriter |
+| | Pérez Prado (Pérez Prado) | 1 | Songwriter |
+| | Michael Vail Blum | 1 | Producer |
+| | Zippy | 1 | Lyricist, Producer |
+| | Billy Steinberg | 1 | Songwriter |
+| | D. Fact | 1 | Producer |
+| | Bill Wolfer | 1 | Producer |
+| | Gus Dudgeon | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Fonce Mizell | 1 | Songwriter |
+| | James Anthony Carmichael | 1 | Producer |
+| | David Hentschel | 1 | Producer |
+| | Bob Crewe | 1 | Songwriter |
+| | Thomas J. Valentino | 1 | Producer |
+| | Donn Landee | 1 | Producer |
+| | Greg Phillinganes | 1 | Producer |
+| | Steve Porcaro | 1 | Producer |
+| | Lee Gillette | 1 | Producer |
+| | Bill Bottrell | 1 | Producer |
+| | James Ingram | 1 | Arranger, Songwriter |
+| | Del Newman | 1 | Arranger |
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | 1 | Songwriter |
+| | Rob Eaton | 1 | Producer |
+| | eden ahbez | 1 | Lyricist, Songwriter |
+| | Bob Gaudio | 1 | Songwriter |
+| | The Corporation | 1 | Producer |
+| | Dino Fekaris | 1 | Songwriter |
+| | Don Law | 1 | Producer |
+| | Lionel Richie | 1 | Lyricist, Songwriter |
+| | Tom Kelly | 1 | Songwriter |
+| | Jason Corsaro | 1 | Producer |
+| | Patrick Leonard | 1 | Producer, Songwriter |
+| | Willie Hutch | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/e9df5954d907411a43487d61c1acae8a04ae0b93" alt="" width="50" /> | Chuck Mangione | 1 | Songwriter |
+| | Frank Lio | 1 | Producer |
+| | June Carter Cash | 1 | Songwriter |
+| | Sandra Campbell Chapin | 1 | Songwriter |
+| | Tom Wilson | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega | 1 | Lyricist, Producer |
+| | Bob West | 1 | Songwriter |
+| | Andrew Ridgeley | 1 | Songwriter |
+| | Deke Richards | 1 | Songwriter |
+| | Frank Jones | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | Madonna | 1 | Producer, Songwriter |
+| | Anthony Marinelli | 1 | Producer |
+| | Merle Kilgore | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/classic_pop/producers.png)
 ## Years
 
 

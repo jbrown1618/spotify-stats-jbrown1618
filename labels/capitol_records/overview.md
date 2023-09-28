@@ -128,6 +128,59 @@ Appears as:
 
 ![Bar chart of top 28 genres](../../images/labels/capitol_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | John Hanes | 5 | Producer |
+| | Serban Ghenea | 5 | Producer |
+| | Dr. Luke | 4 | Producer |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 4 | Songwriter |
+| | Max Martin | 4 | Songwriter, Producer |
+| | Sam Holland | 4 | Producer |
+| | Emily Wright | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | [Katy Perry](../../artists/katy_perry/overview.md) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 3 | Producer, Songwriter |
+| | Mark "Spike" Stent | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
+| | Bonnie McKee | 2 | Songwriter |
+| | Kid Harpoon | 2 | Lyricist, Producer, Songwriter |
+| | Greg Kurstin | 1 | Producer |
+| | Aniela Gottwald | 1 | Producer |
+| | Calvin Broadus | 1 | Songwriter |
+| | Jamie Scott | 1 | Songwriter |
+| | Louis Bell | 1 | Songwriter |
+| | Jeremy Hatcher | 1 | Producer |
+| | Cathy Dennis | 1 | Songwriter |
+| | Julian Burg | 1 | Producer |
+| | Ammo | 1 | Producer, Songwriter |
+| | Andrew Watt | 1 | Songwriter |
+| | Nick Banns | 1 | Producer |
+| | Lee Gillette | 1 | Producer |
+| | Mark "Top" Rankin | 1 | Producer |
+| | Mike Caffrey | 1 | Producer |
+| | Tina Kennedy | 1 | Producer |
+| | Calum Hood | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | Niall Horan | 1 | Songwriter |
+| | Ashton Irwin | 1 | Songwriter |
+| | Alex Pasco | 1 | Producer |
+| | Luke Hemmings | 1 | Songwriter |
+| | Mike Needle | 1 | Songwriter |
+| | eden ahbez | 1 | Lyricist, Songwriter |
+| | Ali Tamposi | 1 | Songwriter |
+| | Daniel Bryer | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/capitol_records/producers.png)
 ## Tracks released under Capitol Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

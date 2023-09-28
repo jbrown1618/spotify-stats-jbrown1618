@@ -124,9 +124,14 @@
 
 ![Bar chart of top 17 record labels](../../images/genres/korean_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/korean_pop/years.png)
+
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | R.Tee | 1 | Producer |
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -140,3 +145,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="YOUNHA 6th Album Repackage &#x27;END THEORY : Final Edition&#x27;" width="50" /> | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' (2022-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (2017-12-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (A Business Proposal OST Special Track) (2022-02-18) | <img src="https://i.scdn.co/image/ab67616d0000b273e5b72a052cd11134380eeb8a" alt="Wish &amp; Wind" width="50" /> | Wish & Wind (2018-03-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="HAPPEN" width="50" /> | HAPPEN (2021-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="Written In The Stars" width="50" /> | Written In The Stars (2018-10-11) |
+
+![Bar chart of number of songs by year](../../images/genres/korean_pop/years.png)

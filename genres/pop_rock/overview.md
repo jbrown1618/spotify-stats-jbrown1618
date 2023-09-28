@@ -110,9 +110,87 @@
 
 ![Bar chart of top 14 record labels](../../images/genres/pop_rock/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/pop_rock/years.png)
+![Bar chart of top 30 producers](../../images/genres/pop_rock/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | Jason Wormer | 5 | Producer |
+| | T-Bone Burnett | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad6237fcd3ef23e6dde2c55d" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
+| | Mark Endert | 3 | Producer |
+| | Todor Kobakov | 2 | Arranger |
+| | Matt Hales | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mike Piersante | 2 | Producer |
+| | Jeremy Darby | 2 | Producer |
+| | Jack Antonoff | 2 | Songwriter |
+| | Greg Wells | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Suzie Katayama | 1 | Arranger |
+| | Bruno Ellingham | 1 | Producer |
+| | Jim Adkins | 1 | Songwriter |
+| | Fabien Waltmann | 1 | Producer |
+| | Tyler Glenn | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
+| | Billy Bush | 1 | Producer |
+| | Steve Osborne | 1 | Producer |
+| | Ren Swan | 1 | Producer |
+| | Mike Campbell | 1 | Songwriter |
+| | Ricky Reed | 1 | Producer, Songwriter |
+| | Javier Dunn | 1 | Songwriter |
+| | Dan Warner | 1 | Songwriter |
+| | Tommy Walter | 1 | Producer |
+| | Pete Harper | 1 | Songwriter |
+| | Ted Blaisdell | 1 | Producer |
+| | Aaron Sterling | 1 | Songwriter |
+| | David Schiffman | 1 | Producer |
+| | Chad Vaccarino | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
+| | Zachary Dawes | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |
+| | Zach Lind | 1 | Songwriter |
+| | Justin Meldal-Johnsen | 1 | Producer |
+| | Jodi Marr | 1 | Songwriter |
+| | Tim Pagnotta | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Eric Rosse | 1 | Producer |
+| | Joe Chiccarelli | 1 | Producer |
+| | Mike Anderson | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Rick Burch | 1 | Songwriter |
+| | Joseph Lorge | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| | Glen Ballard | 1 | Producer, Songwriter |
+| | Chris Fogel | 1 | Producer |
+| | Andy Green | 1 | Producer |
+| | Ian Axel | 1 | Songwriter |
+| | Joe Zook | 1 | Producer |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | John Merchant | 1 | Songwriter |
+| | Jimmy Boyelle | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | Fitz and The Tantrums | 1 | Songwriter |
+| | Lori McKenna | 1 | Songwriter |
+| | Mark Trombino | 1 | Producer |
+| | Chris Nicolaides | 1 | Producer |
+| | Sam Hollander | 1 | Songwriter |
+| | Tom Linton | 1 | Songwriter |
+| | Sam Farrar | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -126,3 +204,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="Eyes Open" width="50" /> | Eyes Open (2006-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Life in Cartoon Motion (2007-02-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Picture Show (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
+
+![Bar chart of number of songs by year](../../images/genres/pop_rock/years.png)

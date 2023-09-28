@@ -69,6 +69,24 @@ EVERGLOW is currently:
 | | E:U |
 |:---|---:|
 | Lyricist | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="" width="50" /> | LA DI DA | E:U | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Olof Lindskog | 1 | Songwriter |
+| | Gavin Jones | 1 | Songwriter |
+| | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | E:U | 1 | Lyricist |
+| | 72 | 1 | Songwriter |
+| | Hayley Aitken | 1 | Songwriter |
+
+![Bar chart of top 6 producers](../../images/artists/everglow/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

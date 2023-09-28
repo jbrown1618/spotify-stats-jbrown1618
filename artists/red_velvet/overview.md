@@ -145,6 +145,105 @@ Red Velvet is currently:
 | | IRENE | JOY | YERI | [SEULGI](../seulgi/overview.md) | [WENDY](../wendy/overview.md) |
 |:---|---:|---:|---:|---:|---:|
 | Vocal | 15 | 15 | 13 | 15 | 15 |
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 정은경 (Jung, Eun-Kyung) | 5 | Producer |
+| | Kenzie | 5 | Songwriter, Arranger, Lyricist |
+| | 조윤경 (Jo, Yoon Kyung) | 4 | Lyricist |
+| | 이지홍 (Lee, Ji-hong) | 3 | Producer |
+| | 이민규 (Lee, Min-kyu) | 3 | Producer |
+| | 정의석 (Jung, Euisuk) | 3 | Producer |
+| | 유영진 (Yoo, Young-jin) | 3 | Arranger, Lyricist, Producer, Songwriter |
+| | Charli Taft | 2 | Arranger, Songwriter |
+| | Tayla Parx | 2 | Arranger, Songwriter |
+| | 김철순 (Kim, Chul-Soon) | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Hayley Aitken | 2 | Arranger, Songwriter |
+| | LDN Noise | 2 | Arranger, Producer, Songwriter |
+| | Misfit | 2 | Lyricist |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | 신지영 (Shin, Ji-young) | 2 | Producer |
+| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | Johan Gustafsson | 2 | Arranger, Songwriter |
+| | 김동현 (Kim, Dong-hyun) | 2 | Lyricist |
+| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
+| | Ryan S. Jhun | 2 | Arranger, Songwriter |
+| | Maxx Song | 2 | Arranger, Producer, Lyricist, Songwriter |
+| | Fredrik Häggstam (Häggstam, Fredrik) | 2 | Arranger, Songwriter |
+| | Sebastian Lundberg | 2 | Arranger, Songwriter |
+| | Cazzi Opeia | 2 | Songwriter, Lyricist |
+| | Ray Romulus | 1 | Lyricist, Songwriter |
+| | 김규영 (Kim, Kyu-young) | 1 | Producer |
+| | Ray McCullough | 1 | Lyricist, Songwriter |
+| | Markus Lindell | 1 | Arranger, Songwriter |
+| | Daniel "Obi" Klein | 1 | Arranger, Producer, Songwriter |
+| | Johannes R. Jørgensen (Jørgensen, Johannes R.) | 1 | Arranger, Songwriter |
+| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
+| | Courtney Woolsey | 1 | Songwriter |
+| | 이주형 (Lee, Juhyeong) | 1 | Arranger, Producer |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | 이승주 (Lee Sung-joo) | 1 | Arranger |
+| | Jeremy Reeves | 1 | Lyricist, Songwriter |
+| | Belle Humble | 1 | Arranger, Songwriter |
+| | Ylva Dimberg | 1 | Arranger, Songwriter |
+| | Jin Choi | 1 | Arranger, Songwriter |
+| | Ellen Berg Tollbom | 1 | Lyricist, Songwriter |
+| | Tomas Smagesjo | 1 | Songwriter |
+| | 김부민 (Kim, Bu-min) | 1 | Lyricist, Songwriter |
+| | Herbie Crichlow | 1 | Arranger, Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
+| | Anne Judith Wik | 1 | Arranger, Songwriter |
+| | Will Simms | 1 | Arranger, Producer, Songwriter |
+| | John Fulford | 1 | Songwriter |
+| | Deanna | 1 | Arranger, Songwriter |
+| | 1월 8일 (1월 8일) | 1 | Lyricist |
+| | 박인영 (Park, In-Young) | 1 | Arranger |
+| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
+| | 전승우 (Jeon, SeungWoo) | 1 | Arranger, Producer |
+| | 장우영 (Jang, Wooyoung) | 1 | Producer |
+| | Ludvig Carl Evers | 1 | Lyricist, Songwriter |
+| | Malin Johansson | 1 | Arranger, Songwriter |
+| | Jinbo | 1 | Arranger, Producer, Songwriter |
+| | 100%서정 (100%Seojung) | 1 | Lyricist |
+| | Ollipop | 1 | Arranger, Songwriter |
+| | 구태우 (Gutaeu) | 1 | Lyricist |
+| | Jeff Gartenbaum | 1 | Producer |
+| | Josef Melin | 1 | Arranger, Songwriter |
+| | 김형곤 (Kim, Hyeong-kon) | 1 | Producer |
+| | Jonathan Yip | 1 | Lyricist, Songwriter |
+| | HYUGGIE | 1 | Lyricist |
+| | Maria Marcus | 1 | Songwriter |
+| | JQ | 1 | Lyricist |
+| | Jonatan Gusmark | 1 | Lyricist, Songwriter |
+| | 최진석 (Choi, Jin-seok) | 1 | Arranger, Songwriter |
+| | Chad Hugo | 1 | Arranger, Producer, Songwriter |
+| | EJAE | 1 | Songwriter |
+| | Hee Yeun Moon | 1 | Lyricist |
+| | Druski | 1 | Producer |
+| | Lauren Dyson | 1 | Arranger, Songwriter |
+| | Daniel Klein | 1 | Arranger, Songwriter |
+| | Chris Holsten | 1 | Arranger, Songwriter |
+| | Hitchhiker | 1 | Songwriter |
+| | 김진환 (Kim, Jin Hwan) | 1 | Arranger |
+| | Whitney Phillips | 1 | Lyricist, Songwriter |
+| | 황현 (Hwang, Hyeon) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | 최소영 (Choi, Seo-young) | 1 | Lyricist |
+| | 구종밀 (Koo, Jong-mil) | 1 | Producer |
+| | Albi Albertsson | 1 | Arranger, Songwriter |
+| | 홍소진 (Hong So-jin) | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/red_velvet/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -42,6 +42,48 @@
 | Songwriter | 4 |
 | Vocal | 3 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Sam Holland | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | [Katy Perry](overview.md) | 4 | Songwriter |
+| | Dr. Luke | 4 | Producer |
+| | Emily Wright | 4 | Producer |
+| | Max Martin | 4 | Songwriter, Producer |
+| | John Hanes | 4 | Producer |
+| | Serban Ghenea | 4 | Producer |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 3 | Producer, Songwriter |
+| | Bonnie McKee | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Cathy Dennis | 1 | Songwriter |
+| | Aniela Gottwald | 1 | Producer |
+| | Mike Caffrey | 1 | Producer |
+| | Ammo | 1 | Producer, Songwriter |
+| | Calvin Broadus | 1 | Songwriter |
+| | Tina Kennedy | 1 | Producer |
+| | Nick Banns | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 17 producers](../../images/artists/katy_perry/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

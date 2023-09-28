@@ -45,6 +45,12 @@
 |:---|---:|
 | Songwriter | 1 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="" width="50" /> | They | Songwriter |
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -60,7 +60,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb245e3a1c6500880fbd051dbd" alt="" width="50" /> | 1 | 1 | Will Jordan | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdedbe7030797b73b6a77e39f" alt="" width="50" /> | 1 | 1 | Caravan Palace | [🔗](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12fd1bd22516e35ef8c2e591" alt="" width="50" /> | 1 | 1 | David Kushner | [🔗](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
+| | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4575919af03b59087704bd77" alt="" width="50" /> | 1 | 1 | Anna Graceman | [🔗](https://open.spotify.com/artist/2B69uGl0nh5LMFUAZxVw5y) |
 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | 1 | 1 | Gotye | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | 1 | 1 | Anne-Marie | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90b6980f0ddd2a5c3d6a400f" alt="" width="50" /> | 1 | 0 | Lerin Herzer | [🔗](https://open.spotify.com/artist/1O3tPNfosJcQQNI6wmR5Xt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | 1 | 0 | Ryan Lott | [🔗](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | 1 | 0 | Adra Boo | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Billy McCarthy | [🔗](https://open.spotify.com/artist/02v2poO7JL5ixVE5GGfwkn) |
+| | 1 | 0 | Billy McCarthy | [🔗](https://open.spotify.com/artist/02v2poO7JL5ixVE5GGfwkn) |
 
 </details>
 
@@ -321,6 +321,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/alt_pop/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Florence Welch | 14 | Songwriter, Lyricist, Arranger, Producer |
+| | FINNEAS | 11 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Producer, Songwriter |
+| | Greg Kurstin | 8 | Producer, Songwriter |
+| | Rob Kinelski | 8 | Producer |
+| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Songwriter, Lyricist, Producer |
+| | Manny Marroquin | 7 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| | Alex Pasco | 6 | Producer |
+| | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | Julian Burg | 5 | Producer |
+| | Emile Haynie | 5 | Producer |
+| | Larry Gold | 4 | Arranger |
+| | Dan Grech-Marguerat | 4 | Producer |
+| | Cenzo Townshend | 4 | Producer |
+| | Craig Silvey | 4 | Producer |
+| | Jack Patterson | 4 | Producer, Songwriter |
+| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
+| | Kid Harpoon | 4 | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Mark "Spike" Stent | 4 | Producer |
+| | David Kahne | 3 | Producer |
+| | Sally Herbert | 3 | Arranger |
+| | James Ford | 3 | Producer |
+| | Jimmy Robertson | 3 | Producer |
+| | Tom Elmhirst | 3 | Producer |
+| | Grace Chatto | 3 | Producer, Songwriter |
+| | Craig Bishop | 3 | Producer |
+| | Justin Parker | 3 | Producer, Songwriter |
+| | Mark "Top" Rankin | 2 | Producer |
+| | John Hanes | 2 | Producer |
+| | Serban Ghenea | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Markus Dravs | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | 2 | Songwriter |
+| | Steve Mac | 2 | Songwriter, Producer |
+| | Robin Baynton | 2 | Producer |
+| | Ina Wroldsen | 2 | Songwriter |
+| | Bullion | 2 | Producer |
+| | Luke Patterson | 2 | Producer |
+| | M-Phazes | 2 | Producer |
+| | Chris Braide | 2 | Producer, Songwriter |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
+| | Rob Kirwan | 2 | Producer |
+| | Mark Ralph | 2 | Producer |
+| | Vincent Degiorgio | 1 | Songwriter |
+| | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
+| | Brent Kolatalo | 1 | Producer |
+| | Will Owen | 1 | Arranger |
+| | Josh Taylor | 1 | Songwriter |
+| | Jia Lih | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
+| | Steve Mackey | 1 | Producer |
+| | Nicolas Fournier | 1 | Producer |
+| | Andrew Scheps | 1 | Producer |
+| | Anmol Malik | 1 | Songwriter |
+| | Fred again.. | 1 | Songwriter |
+| | David Schreurs | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | Demi Lovato | 1 | Songwriter |
+| | Josh Diamond | 1 | Songwriter |
+| | Jeremy Hatcher | 1 | Producer |
+| | J. Tyler Johnson | 1 | Songwriter |
+| | James Krausse | 1 | Producer, Songwriter |
+| | Richard Flack | 1 | Producer |
+| | Dan Auerbach | 1 | Producer |
+| | Rush | 1 | Songwriter |
+| | Emiko Bankson | 1 | Songwriter |
+| | Jimmy Napes | 1 | Songwriter |
+| | Andrew Swanson | 1 | Producer, Songwriter |
+| | Hugues Payen de La Garanderie | 1 | Producer |
+| | Hans Zimmer | 1 | Arranger |
+| | Hal Ritson | 1 | Producer |
+| | Eli Heisler | 1 | Producer |
+| | SLUMS | 1 | Producer |
+| | Brian Degraw | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | Diplo | 1 | Producer |
+| | Rich Costey | 1 | Producer |
+| | Robopop | 1 | Producer |
+| | Matt Dunkley | 1 | Arranger |
+| | Thomas Warren | 1 | Producer |
+| | Mat Bartram | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
+| | Tom Moth | 1 | Arranger |
+| | Noonie Bao | 1 | Songwriter |
+| | KAMILLE | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | Troye Sivan | 1 | Songwriter |
+| | Ali Helnwein | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | Jacob Banks | 1 | Songwriter |
+| | Ryan Ritchie | 1 | Producer |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Bram Inscore | 1 | Producer, Songwriter |
+| | Fagan Wilcox | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/alt_pop/producers.png)
 ## Years
 
 

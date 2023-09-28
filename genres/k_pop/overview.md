@@ -358,9 +358,123 @@
 
 ![Bar chart of top 30 record labels](../../images/genres/k_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/k_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/k_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 정은경 (Jung, Eun-Kyung) | 31 | Producer, Arranger |
+| | TEDDY | 28 | Lyricist, Producer, Songwriter, Arranger |
+| | 24 | 17 | Arranger, Producer, Songwriter |
+| | Ollounder | 14 | Arranger, Lyricist, Songwriter |
+| | LEEZ | 14 | Arranger, Lyricist, Songwriter, Producer |
+| | R.Tee | 14 | Producer, Arranger, Songwriter |
+| | 엄세희 (Um, Se-Hee) | 14 | Producer |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 14 | Lyricist, Songwriter, Arranger, Producer |
+| | 라도 (Rado) | 13 | Arranger, Lyricist, Songwriter, Producer |
+| | 유영진 (Yoo, Young-jin) | 12 | Arranger, Lyricist, Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 구종필 (Koo, Jong-Pil) | 11 | Producer |
+| | 구혜진 (Gu, Hye-jin) | 11 | Producer |
+| | Pdogg | 11 | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 10 | Lyricist, Songwriter |
+| | Ryan S. Jhun | 10 | Arranger, Lyricist, Songwriter |
+| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
+| | 이수만 (Lee, Soo-Man) | 9 | Producer |
+| | Kenzie | 9 | Songwriter, Arranger, Lyricist, Producer |
+| | 김석민 (Kim Seog-min) | 9 | Producer |
+| | 윤원권 (Yoon, Won-kwon) | 8 | Producer |
+| | 남궁진 (Nam Goong, Jin) | 8 | Producer |
+| | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| | 이상엽 (Lee, Sang-yeob) | 8 | Producer |
+| | 이태섭 (Lee, Tae-Sub) | 8 | Producer |
+| | Danny Chung | 8 | Lyricist |
+| | YOUNGJU BANG | 7 | Producer |
+| | DRK | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 7 | Producer, Songwriter |
+| | 심은지 (Sim, Eunjee) | 7 | Arranger, Lyricist, Producer, Songwriter |
+| | Fuxxy | 7 | Lyricist, Songwriter, Arranger |
+| | 조윤경 (Jo, Yoon Kyung) | 7 | Lyricist |
+| | Josh Gudwin | 7 | Producer |
+| | 서지음 (Seo, Ji Eum) | 7 | Lyricist |
+| | Jason Roberts | 7 | Producer |
+| | 정창현 (Jung, Chang-hyun) | 6 | Producer |
+| | 이지홍 (Lee, Ji-hong) | 6 | Producer |
+| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
+| | Tony Maserati | 6 | Producer |
+| | 이민규 (Lee, Min-kyu) | 6 | Producer |
+| | 정의석 (Jung, Euisuk) | 6 | Producer |
+| | Anna Timgren | 6 | Lyricist, Songwriter |
+| | FLYT | 6 | Arranger, Songwriter, Producer |
+| | 신지영 (Shin, Ji-young) | 6 | Producer |
+| | 손명갑 (Son, Myung-gap) | 5 | Producer |
+| | 임홍진 (Im, Hong-Jin) | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 5 | Lyricist, Songwriter |
+| | Gigi | 5 | Lyricist |
+| | Jason Robert | 5 | Producer |
+| | Arschtritt Lindgren | 5 | Arranger, Songwriter, Producer |
+| | VINCENZO | 5 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 5 | Lyricist, Songwriter |
+| | Melanie Joy Fontana | 5 | Lyricist, Songwriter |
+| | Bokyeong Wang | 5 | Producer |
+| | LDN Noise | 5 | Arranger, Songwriter, Producer |
+| | 김철순 (Kim, Chul-Soon) | 5 | Producer |
+| | Pyungwook Lee | 5 | Producer |
+| | Dr.JO | 5 | Lyricist, Songwriter, Arranger |
+| | 고현정 (Go, Hyeon-Jeong) | 5 | Producer |
+| | 양영은 (Yang, Young-eun) | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | [SUNMI](../../artists/sunmi/overview.md) | 5 | Lyricist, Songwriter |
+| | 이스란 (Lee, Seran) | 4 | Lyricist |
+| | FUTURE BOUNCE | 4 | Arranger, Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 4 | Arranger, Songwriter |
+| | Brian Lee | 4 | Songwriter, Lyricist, Producer |
+| | Vince | 4 | Arranger, Lyricist, Songwriter |
+| | Cazzi Opeia | 4 | Songwriter, Lyricist |
+| | 김영현 (Kim, Young-hyun) | 4 | Producer |
+| | 김수정 (김수정) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j_hope/overview.md) | 4 | Songwriter |
+| | Ylva Dimberg | 4 | Songwriter, Arranger, Lyricist |
+| | 이경원 (Lee, Kyung-won) | 4 | Producer |
+| | Erika de Casier | 4 | Lyricist, Songwriter |
+| | Sophia Pae | 4 | Arranger |
+| | 최용인 (Choi, Yon-gin) | 4 | Producer |
+| | Lauritz Emil Christiansen | 4 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha/overview.md) | 4 | Lyricist |
+| | 노민지 (Noh, Min-ji) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 4 | Lyricist, Arranger, Songwriter |
+| | Jeppe London Bilsby | 4 | Arranger, Songwriter |
+| | 송민기 (Song, Mingi) | 3 | Songwriter, Lyricist |
+| | Dem Jointz | 3 | Arranger, Songwriter |
+| | Lauren Dyson | 3 | Songwriter, Arranger |
+| | danke | 3 | Lyricist, Songwriter |
+| | 1월 8일 (1월 8일) | 3 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 3 | Songwriter, Lyricist |
+| | Ellen Berg Tollbom | 3 | Songwriter, Lyricist |
+| | 이성호 (Lee, Sung-ho) | 3 | Producer |
+| | Johan Gustafsson | 3 | Arranger, Songwriter |
+| | Cutfather | 3 | Songwriter, Arranger |
+| | BXN | 3 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 3 | Lyricist, Songwriter |
+| | Fine Glindvad Jensen | 3 | Lyricist, Songwriter |
+| | 김홍중 (Kim, Hong Joong) | 3 | Songwriter, Lyricist |
+| | Musikality | 3 | Songwriter, Arranger, Lyricist |
+| | Anne Judith Wik | 3 | Arranger, Songwriter |
+| | 강지원 (Kang, Jiwon) | 3 | Producer, Lyricist, Songwriter, Arranger |
+| | Tayla Parx | 3 | Songwriter, Arranger |
+| | Danielle Marsh | 3 | Lyricist |
+| | Supreme Boi | 3 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -374,3 +488,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="THE GIRLS (BLACKPINK THE GAME OST)" width="50" /> | THE GIRLS (BLACKPINK THE GAME OST) (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="Picture" width="50" /> | Picture (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | Love Lee (2023-08-21) | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="MIROTIC - The 4th Album" width="50" /> | MIROTIC - The 4th Album (2008-09-19) |
+
+![Bar chart of number of songs by year](../../images/genres/k_pop/years.png)

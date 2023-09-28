@@ -48,6 +48,42 @@
 | Producer | 1 |
 | Songwriter | 2 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Sincerely, Jane | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | I Like That | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Make Me Feel | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](overview.md) | 3 | Songwriter, Producer |
+| | Rico Wade | 1 | Songwriter |
+| | Chuck Lightning | 1 | Producer |
+| | Taylor Parks | 1 | Songwriter |
+| | Nate "Rocket" Wonder | 1 | Producer |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Julia Michaels | 1 | Songwriter |
+| | Nathaniel Irvin, III | 1 | Songwriter |
+| | Ray Murray | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Matt Friedman | 1 | Songwriter |
+| | Patrick L. Brown | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/artists/janelle_mon_e/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

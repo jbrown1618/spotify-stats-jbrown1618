@@ -76,6 +76,119 @@ Ariana Grande is currently:
 | Songwriter | 11 |
 | Vocal | 5 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | Focus | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Side To Side | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | no tears left to cry | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | breathin | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 7 rings | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions | Arranger, Producer, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](overview.md) | 10 | Songwriter, Producer, Arranger |
+| | Serban Ghenea | 8 | Producer |
+| | Savan Kotecha | 7 | Songwriter, Producer |
+| | ILYA | 7 | Producer, Songwriter |
+| | Max Martin | 6 | Producer, Songwriter |
+| | TBHits | 4 | Producer, Songwriter |
+| | Sam Holland | 4 | Producer |
+| | John Hanes | 4 | Producer |
+| | Billy Hickey | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 3 | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Peter Carlsson | 3 | Producer |
+| | Peter Svensson | 2 | Songwriter |
+| | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
+| | Brendan Morawski | 2 | Producer |
+| | Tayla Parx | 2 | Songwriter |
+| | Paul Boutin | 2 | Producer |
+| | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| | Babyface | 2 | Producer, Songwriter |
+| | Shellback | 2 | Producer |
+| | Jameel Roberts | 1 | Songwriter |
+| | Alexander Kronlund | 1 | Songwriter |
+| | Rami | 1 | Producer, Songwriter |
+| | Oscar Hammerstein II | 1 | Lyricist |
+| | Noah Passovoy | 1 | Producer |
+| | Lionel Crasta | 1 | Producer |
+| | Priscilla Renea | 1 | Songwriter |
+| | Dennis Jenkins | 1 | Songwriter |
+| | Pop Wansel | 1 | Producer, Songwriter |
+| | Randy Ellis | 1 | Arranger |
+| | Giorgio Tuinfort | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../justin_bieber/overview.md) | 1 | Songwriter |
+| | Josh Gudwin | 1 | Producer |
+| | Angelina Barrett | 1 | Songwriter |
+| | Jaycen Joshua | 1 | Producer |
+| | Carl Falk | 1 | Producer, Songwriter |
+| | Joe Gallagher | 1 | Producer |
+| | Devin Nakao | 1 | Producer |
+| | Scootie | 1 | Producer, Songwriter |
+| | Gian Stone | 1 | Producer, Songwriter |
+| | Kuk Harrell | 1 | Producer |
+| | Ross Golan | 1 | Songwriter |
+| | Gregg Rominiecki | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
+| | Happy Perez | 1 | Producer, Songwriter |
+| | Roahn Hylton | 1 | Songwriter |
+| | Travis Sayles | 1 | Producer, Songwriter |
+| | Michael "Mikey" Foster | 1 | Producer, Songwriter |
+| | Nija | 1 | Songwriter |
+| | Brian Vincent Bates | 1 | Songwriter |
+| | Bill Meyers | 1 | Arranger |
+| | Njomza | 1 | Songwriter |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Scooter Braun | 1 | Songwriter |
+| | David Guetta | 1 | Songwriter |
+| | Richard Rodgers | 1 | Songwriter |
+| | Skyler Stonestreet | 1 | Songwriter |
+| | Eric Weaver | 1 | Producer |
+| | Leon Thomas | 1 | Songwriter |
+| | Rickard Göransson (Göransson, Rickard) | 1 | Producer, Songwriter |
+| | Whitney Phillips | 1 | Songwriter |
+| | Mr. Franks | 1 | Producer, Songwriter |
+| | Kaydence | 1 | Songwriter |
+| | London on da Track | 1 | Producer, Songwriter |
+| | Jason Evigan | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| | Rafael Fadul | 1 | Producer |
+| | Freddy Wexler | 1 | Producer, Songwriter |
+| | Matt Squire | 1 | Producer |
+| | The Rascals | 1 | Producer |
+| | Johan Carlsson | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/ariana_grande/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

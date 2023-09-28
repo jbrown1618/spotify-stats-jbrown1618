@@ -118,9 +118,36 @@
 
 ![Bar chart of top 14 record labels](../../images/genres/k_rap/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/k_rap/years.png)
+![Bar chart of top 13 producers](../../images/genres/k_rap/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 이기호 (Lee, Ki-ho) | 2 | Producer |
+| | 유건형 (Yoo, Keon-Hyung) | 2 | Arranger, Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | 2 | Lyricist, Songwriter |
+| | 홍수연 (홍수연) | 1 | Producer |
+| | Peggy March | 1 | Songwriter |
+| | 오동식 (Oh Dong-sik) | 1 | Lyricist |
+| | 박우상 (Park, Woo-sang) | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Arranger, Lyricist, Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Steve Wittmack | 1 | Songwriter |
+| | Jang Yi-jeong | 1 | Arranger, Songwriter |
+| | Michael Bradley | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -134,3 +161,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="When It Snows mmm (feat. Wheein)" width="50" /> | When It Snows mmm (feat. Wheein) (2020-12-23) | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 (2016-08-29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d2d5a30d82c355bfadfca1b" alt="Tik Tock Hits 2020" width="50" /> | Tik Tock Hits 2020 (2020-06-12) | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="EVERYTHING YOU WANTED" width="50" /> | EVERYTHING YOU WANTED (2016-10-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | D-2 (2020-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | KWON JI YONG (2017-06-08) |
+
+![Bar chart of number of songs by year](../../images/genres/k_rap/years.png)

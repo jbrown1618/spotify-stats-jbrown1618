@@ -90,6 +90,17 @@ LeeHi is currently:
 
 - [k-pop](../../genres/k_pop/overview.md)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Tablo | 2 | Lyricist, Songwriter |
+| | JONGHYUN | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | Dok2 | 1 | Lyricist |
+| | 안신애 (Wheeler, Shinae An) | 1 | Lyricist, Songwriter |
+| | 위프리키 (Wipeuriki) | 1 | Songwriter |
+
+![Bar chart of top 5 producers](../../images/artists/leehi/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

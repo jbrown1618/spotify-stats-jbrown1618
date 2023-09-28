@@ -62,6 +62,12 @@ WJSN:
 | | Exy |
 |:---|---:|
 | Lyricist | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | Exy | Lyricist |
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

@@ -248,6 +248,122 @@
 
 ![Bar chart of top 30 genres](../../images/playlists/classic_rock/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | Paul McCartney | 20 | Songwriter |
+| | John Lennon | 20 | Songwriter |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
+| | Geoff Emerick | 10 | Producer |
+| | Glyn Johns | 9 | Producer |
+| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | Phil McDonald | 8 | Producer |
+| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | Roy Thomas Baker | 6 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Roger Taylor | 6 | Songwriter, Producer |
+| | Norman Smith | 6 | Producer |
+| | Mike Stone | 6 | Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| | Chris Thomas | 5 | Producer |
+| | Ken Scott | 3 | Producer |
+| | Geoff Workman | 3 | Producer |
+| | Mack | 3 | Producer |
+| | Kris Fredriksson | 3 | Producer |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+| | John Deacon | 3 | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Rob Kingsland | 2 | Producer |
+| | Jeff Jarratt | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Alan Parsons | 2 | Producer |
+| | Barry Mraz | 2 | Producer |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | John Etchells | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | David DeVore | 2 | Producer |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Keith Olsen | 2 | Producer |
+| | Phil Spector | 2 | Producer |
+| | Barry Sheffield | 2 | Producer |
+| | Angus Young | 1 | Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+| | Ray Colcord | 1 | Producer |
+| | Glenn Frey | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | George Drakoulias | 1 | Producer |
+| | David Richards | 1 | Producer |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Rodger Bain | 1 | Producer |
+| | Don Henley | 1 | Songwriter |
+| | Mick Jagger | 1 | Songwriter |
+| | Aynsley Dunbar | 1 | Producer |
+| | Terry Becker | 1 | Producer |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Caryl Weinstock | 1 | Producer |
+| | Kit Lambert | 1 | Producer |
+| | Duff McKagan | 1 | Songwriter |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | Michael Barbiero | 1 | Producer |
+| | Keith Richards | 1 | Songwriter |
+| | Jon Astley | 1 | Producer |
+| | Malcolm Young | 1 | Songwriter |
+| | Alex Clare | 1 | Songwriter |
+| | Keith Moon | 1 | Producer |
+| | Brad Samuelsohn | 1 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Lewis Merenstein | 1 | Producer |
+| | Tony Platt | 1 | Producer |
+| | Steven Adler | 1 | Songwriter |
+| | Axl Rose | 1 | Songwriter |
+| | Izzy Stradlin | 1 | Songwriter |
+| | Alvertis Isbell | 1 | Songwriter |
+| | John Sinclair | 1 | Producer |
+| | Elliot Scheiner | 1 | Producer |
+| | Jim Ed Norman | 1 | Arranger |
+| | Bill Ward | 1 | Songwriter |
+| | Ron Pender | 1 | Producer |
+| | Brendan O'Brien | 1 | Producer |
+| | David Hassinger | 1 | Producer |
+| | Bert Russell Berns | 1 | Producer |
+| | Damon Lyon-Shaw | 1 | Producer |
+| | Brian Ross-Myring | 1 | Producer |
+| | Don Puluse | 1 | Producer |
+| | David Gilmour | 1 | Songwriter |
+| | Ed Walsh | 1 | Producer |
+| | Peter Meechan | 1 | Arranger |
+| | Tom Allom | 1 | Producer |
+| | Randy Mason | 1 | Producer |
+| | Lou Gramm | 1 | Songwriter |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Gary Lyons | 1 | Producer |
+| | Jim Tomlinson | 1 | Arranger |
+| | Kevin Herron | 1 | Producer |
+| | John Mills | 1 | Arranger |
+| | Eddie Curtis | 1 | Songwriter |
+| | Ross Valory | 1 | Producer |
+| | Brian Humphries | 1 | Producer |
+| | Rick Rubin | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Gregg Rolie | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/classic_rock/producers.png)
 ## Years
 
 

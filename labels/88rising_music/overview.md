@@ -52,6 +52,34 @@ Appears as:
 
 ![Bar chart of top 4 genres](../../images/labels/88rising_music/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 3 | Lyricist, Songwriter |
+| | THE NEED | 2 | Arranger, Songwriter |
+| | Kyle Scherrer | 1 | Arranger, Songwriter |
+| | Erik Madrid | 1 | Producer |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Max Levin | 1 | Arranger, Songwriter |
+| | Cambo | 1 | Producer, Songwriter |
+| | Louis Bartolini | 1 | Producer, Songwriter |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | twlv | 1 | Songwriter |
+| | Jack Samson | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/labels/88rising_music/producers.png)
 ## Tracks released under 88rising Music
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

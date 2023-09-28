@@ -74,6 +74,86 @@
 | Songwriter | 4 |
 | Vocal | 5 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rude Boy | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | The Monster | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | Love On The Brain | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Marcos Tovar | 10 | Producer |
+| | Phil Tan | 9 | Producer |
+| | Kuk Harrell | 8 | Producer |
+| | Mikkel Storleer Eriksen | 6 | Songwriter, Producer |
+| | Tor Erik Hermansen | 6 | Songwriter |
+| | Stargate | 6 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](overview.md) | 4 | Songwriter |
+| | Makeba | 3 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem | 2 | Producer, Songwriter |
+| | Sandy Wilhelm | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Sandy Vee | 2 | Producer |
+| | Miles Walker | 2 | Producer |
+| | Josh Gudwin | 2 | Producer |
+| | Daniela Rivera | 2 | Producer |
+| | Ester Dean | 2 | Songwriter |
+| | Parker Ighile | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../michael_jackson/overview.md) | 1 | Songwriter |
+| | Kevin Davis | 1 | Producer |
+| | Frankie Storm | 1 | Songwriter |
+| | Skylar Grey | 1 | Songwriter |
+| | Hit-Boy | 1 | Producer, Songwriter |
+| | Frequency | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| | Shahid Khan | 1 | Songwriter |
+| | Crystal Nicole | 1 | Songwriter |
+| | Al Hemberger | 1 | Producer |
+| | Mike Gaydusek | 1 | Producer |
+| | Rob Swire | 1 | Producer, Songwriter |
+| | Elof Loelv | 1 | Producer, Songwriter |
+| | Justin Parker | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| | Veronika Bozeman | 1 | Producer |
+| | Robert Allen | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo | 1 | Producer, Songwriter |
+| | Andre Merritt | 1 | Songwriter |
+| | Andrew Vastola | 1 | Producer |
+| | Nathan Cassells | 1 | Producer, Songwriter |
+| | Alex da Kid | 1 | Producer, Songwriter |
+| | Fred Ball | 1 | Producer, Songwriter |
+| | Naughty Boy | 1 | Producer |
+| | Jon Bellion | 1 | Songwriter |
+| | Skylar Mones | 1 | Producer |
+| | Livvi Franc | 1 | Songwriter |
+| | Brian Kennedy | 1 | Producer, Songwriter |
+| | Mike Strange | 1 | Producer |
+| | Manny Marroquin | 1 | Producer |
+| | Josh Houghkirk | 1 | Producer |
+| | Aalias | 1 | Songwriter |
+| | Alju Jackson | 1 | Songwriter |
+| | Maki Athanasiou | 1 | Songwriter |
+| | Emeli Sandé (Sandé, Emeli) | 1 | Songwriter |
+| | Joseph Angel | 1 | Arranger, Songwriter |
+| | Priscilla Renea | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | Calvin Harris | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | Mikky Ekko | 1 | Arranger, Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/artists/rihanna/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

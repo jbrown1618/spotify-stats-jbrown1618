@@ -66,9 +66,50 @@
 
 ![Bar chart of top 5 record labels](../../images/genres/british_invasion/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/british_invasion/years.png)
+![Bar chart of top 27 producers](../../images/genres/british_invasion/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | Paul McCartney | 20 | Songwriter |
+| | John Lennon | 20 | Songwriter |
+| | Geoff Emerick | 10 | Producer |
+| | Phil McDonald | 8 | Producer |
+| | Glyn Johns | 8 | Producer |
+| | Norman Smith | 5 | Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| | Chris Thomas | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ken Scott | 3 | Producer |
+| | Jeff Jarratt | 2 | Producer |
+| | Phil Spector | 2 | Producer |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Barry Sheffield | 2 | Producer |
+| | David Hassinger | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| | John Mills | 1 | Arranger |
+| | Mick Jagger | 1 | Songwriter |
+| | Damon Lyon-Shaw | 1 | Producer |
+| | Chris Stamp | 1 | Producer |
+| | Keith Moon | 1 | Producer |
+| | Andrew Loog Oldham | 1 | Producer |
+| | Jon Astley | 1 | Producer |
+| | Keith Richards | 1 | Songwriter |
+| | Kit Lambert | 1 | Producer |
+| | Ron Pender | 1 | Producer |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -82,3 +123,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d283808926ad3d2220e63c1c" alt="Yellow Submarine (Remastered)" width="50" /> | Yellow Submarine (Remastered) (1969-01-17) | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> | Aftermath (1966-04-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="The Beatles (Remastered)" width="50" /> | The Beatles (Remastered) (1968-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="Magical Mystery Tour (Remastered)" width="50" /> | Magical Mystery Tour (Remastered) (1967-11-27) | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | Sgt. Pepper's Lonely Hearts Club Band (Remastered) (1967-06-01) |
+
+![Bar chart of number of songs by year](../../images/genres/british_invasion/years.png)

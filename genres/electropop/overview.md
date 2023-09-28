@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052" alt="" width="50" /> | 1 | 1 | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 1 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
+| | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | 1 | 1 | VÉRITÉ | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 
@@ -87,9 +87,61 @@
 
 ![Bar chart of top 10 record labels](../../images/genres/electropop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/electropop/years.png)
+![Bar chart of top 30 producers](../../images/genres/electropop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | FINNEAS | 11 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| | Rob Kinelski | 8 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | M-Phazes | 2 | Producer |
+| | Hans Zimmer | 1 | Arranger |
+| | Fagan Wilcox | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
+| | Eli Heisler | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Rich Costey | 1 | Producer |
+| | Matt Dunkley | 1 | Arranger |
+| | Jon Castelli | 1 | Producer |
+| | Isaac Slade | 1 | Songwriter |
+| | Nicolas Fournier | 1 | Producer |
+| | DJ Swivel | 1 | Producer |
+| | Stephen Lipson | 1 | Producer |
+| | Nate Mercereau | 1 | Producer, Songwriter |
+| | Daniel Johns | 1 | Songwriter |
+| | Ryan Ritchie | 1 | Producer |
+| | Michael Tayler | 1 | Producer |
+| | Freddy Kennett | 1 | Songwriter |
+| | Shaun Frank | 1 | Songwriter |
+| | Blue Sky Black Death | 1 | Songwriter |
+| | Eli Crews | 1 | Producer |
+| | Casey Cuayo | 1 | Producer |
+| | Martin Cooke | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | Halsey | 1 | Songwriter |
+| | Earl Burroughs | 1 | Songwriter |
+| | Bo Hill | 1 | Producer |
+| | Tommy Raps | 1 | Lyricist, Songwriter |
+| | Andrew Taggart | 1 | Songwriter |
+| | Jimi Maroudas | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | Ryan Lott | 1 | Producer |
+| | John Rooney | 1 | Producer |
+| | George Stone | 1 | Lyricist, Songwriter |
+| | Joe King | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -103,3 +155,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? (2019-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | Primal Heart (2018-04-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="Sway" width="50" /> | Sway (2018-05-04) | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="Sway" width="50" /> | Sway (2018-05-04) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | Primal Heart (2018-04-20) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? (2019-03-29) |
+
+![Bar chart of number of songs by year](../../images/genres/electropop/years.png)

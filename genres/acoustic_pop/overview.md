@@ -103,9 +103,67 @@
 
 ![Bar chart of top 12 record labels](../../images/genres/acoustic_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/acoustic_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/acoustic_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | Jason Wormer | 5 | Producer |
+| | T-Bone Burnett | 5 | Producer |
+| | Mark Endert | 3 | Producer |
+| | Jack Antonoff | 2 | Songwriter |
+| | Alison Sudol | 2 | Lyricist, Songwriter |
+| | Matt Hales | 2 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Martin Terefe | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
+| | Lukas Burton | 2 | Producer, Songwriter |
+| | Jeremy Darby | 2 | Producer |
+| | Todor Kobakov | 2 | Arranger |
+| | Hal Cragin | 2 | Producer, Songwriter |
+| | Mike Piersante | 2 | Producer |
+| | Michael Brauer | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3e2899d15006c9df5cf02130" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
+| | Timothy Fagan | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Aaron Sterling | 1 | Songwriter |
+| | Pete Harper | 1 | Songwriter |
+| | Tommy Walter | 1 | Producer |
+| | Drew Ramsey | 1 | Producer |
+| | Javier Dunn | 1 | Songwriter |
+| | Eric Rosse | 1 | Producer |
+| | Patrick Benson | 1 | Producer |
+| | Mike Anderson | 1 | Songwriter |
+| | Suzie Katayama | 1 | Arranger |
+| | Zachary Dawes | 1 | Producer |
+| | Joe Zook | 1 | Producer |
+| | Hal Y. Burton | 1 | Producer |
+| | Justin Tranter | 1 | Songwriter |
+| | Lori McKenna | 1 | Songwriter |
+| | Iain Hill | 1 | Producer |
+| | Joseph Lorge | 1 | Producer |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | Shannon Sanders | 1 | Producer |
+| | Tony Maserati | 1 | Producer |
+| | Dyre Gormsen | 1 | Producer |
+| | Marshall Altman | 1 | Arranger, Producer |
+| | Sam Farrar | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -119,3 +177,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cf1dcc65396176307f23524" alt="PINES" width="50" /> | PINES (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="Love, Save The Empty" width="50" /> | Love, Save The Empty (2009) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Barton Hollow (2011-02-01) | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="Bomb In A Birdcage" width="50" /> | Bomb In A Birdcage (2009-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/acoustic_pop/years.png)

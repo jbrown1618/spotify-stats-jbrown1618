@@ -68,6 +68,47 @@ OH MY GIRL:
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Lyricist | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Vocal | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Nonstop | 김미현 (Kim, Mihyun) | Lyricist |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 서지음 (Seo, Ji Eum) | 4 | Lyricist |
+| | Steven Lee | 2 | Arranger, Songwriter |
+| | Ryan S. Jhun | 2 | Arranger, Lyricist, Songwriter |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
+| | 김미현 (Kim, Mihyun) | 1 | Lyricist |
+| | Andreas Johansson | 1 | Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Arranger, Songwriter |
+| | Caroline Gerd Gustavsson | 1 | Songwriter |
+| | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | Joe Lawrence | 1 | Arranger, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Scott Stoddart | 1 | Arranger, Lyricist, Songwriter |
+| | Laurell | 1 | Songwriter |
+| | August Vinberg | 1 | Songwriter |
+| | Anna Timgren | 1 | Lyricist, Songwriter |
+| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
+| | Par Almqvist | 1 | Arranger, Songwriter |
+| | Chloe Latimer | 1 | Arranger, Songwriter |
+| | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
+| | Sebastian Thott | 1 | Arranger, Songwriter |
+
+</details>
+
+
+![Bar chart of top 19 producers](../../images/artists/oh_my_girl/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

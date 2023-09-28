@@ -78,6 +78,74 @@
 | Songwriter | 15 |
 | Vocal | 14 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Captain Jack | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | New York State of Mind | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Just the Way You Are | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Scenes from an Italian Restaurant | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Only the Good Die Young | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Movin' Out (Anthony's Song) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Vienna | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | My Life | Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | The Longest Time | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | Uptown Girl | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | And So It Goes | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | Lullabye (Goodnight, My Angel) | Lyricist, Songwriter |
+
+</details>
+
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
+| | Michael Stewart | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Ron Malo | 2 | Producer |
+| | Kenny Ascher | 1 | Arranger |
+| | Niko Bolas | 1 | Producer |
+| | Doug Stegmeyer | 1 | Arranger |
+| | Fred Tenny | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Liberty DeVitto | 1 | Arranger |
+| | Danny Kortchmar | 1 | Producer |
+| | Ira Newborn | 1 | Arranger |
+| | Mick Jones | 1 | Producer |
+| | Jay Healy | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
+| | John Bradley | 1 | Producer |
+| | David Dickson | 1 | Producer |
+| | Don Puluse | 1 | Producer |
+| | Lou Waxman | 1 | Producer |
+| | Steve Boyer | 1 | Producer |
+| | Bruce Botnick | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 22 producers](../../images/artists/billy_joel/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

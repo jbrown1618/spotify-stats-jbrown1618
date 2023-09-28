@@ -41,6 +41,34 @@ Appears as:
 
 
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 오단영 (Oh, Dan-young) | 2 | Producer |
+| | 문수아 (Moon Sua) | 1 | Lyricist |
+| | Ahmad Izham Omar | 1 | Songwriter |
+| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | Anna Timgren | 1 | Songwriter |
+| | Le'mon | 1 | Lyricist |
+| | 시윤 (Siyoon) | 1 | Lyricist |
+| | Zaydro | 1 | Songwriter |
+| | 이민수 (이민수) | 1 | Arranger, Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Audi Mok | 1 | Songwriter |
+| | 김일호 (Kim, Il-Ho) | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 12 producers](../../images/labels/mystic_story/producers.png)
 ## Tracks released under MYSTIC STORY
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

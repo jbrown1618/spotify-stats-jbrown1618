@@ -43,6 +43,58 @@ Appears as:
 
 
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 20 | Songwriter, Producer, Lyricist |
+| | Laura Sisk | 16 | Producer |
+| | Jack Antonoff | 12 | Producer, Songwriter |
+| | Serban Ghenea | 11 | Producer |
+| | Aaron Dessner | 7 | Producer, Songwriter |
+| | Jonathan Low | 7 | Producer |
+| | Bryce Dessner | 6 | Arranger |
+| | Kyle Resnick | 4 | Producer |
+| | Sounwave | 3 | Producer, Songwriter |
+| | James McAlister | 3 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jonathan Gautier | 2 | Producer |
+| | Jahaan Sweet | 2 | Producer, Songwriter |
+| | Thomas Bartlett | 2 | Producer |
+| | Clarice Jensen | 2 | Producer |
+| | Rob Moose | 2 | Arranger, Producer |
+| | Zoë Kravitz (Kravitz, Zoë) | 2 | Songwriter |
+| | Dave Gross | 1 | Producer |
+| | Mike Williams | 1 | Producer |
+| | Bella Blasko | 1 | Producer |
+| | J. T. Bates | 1 | Producer |
+| | Jason Treuting | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 1 | Songwriter |
+| | John Hanes | 1 | Producer |
+| | Dave Nelson | 1 | Producer |
+| | Braxton Cook | 1 | Producer |
+| | CJ Camerieri | 1 | Producer |
+| | Alex Sopp | 1 | Producer |
+| | Cautious Clay | 1 | Songwriter |
+| | Keanu Beats | 1 | Producer, Songwriter |
+| | Evan Smith | 1 | Producer |
+| | Sam Dew | 1 | Songwriter |
+| | St. Vincent | 1 | Songwriter |
+| | Ken Lewis | 1 | Producer |
+| | William Bowery | 1 | Songwriter |
+| | Justin Vernon | 1 | Producer, Songwriter |
+| | Bryan Devendorf | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/taylor_swift/producers.png)
 ## Tracks released under Taylor Swift
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

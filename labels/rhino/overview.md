@@ -125,6 +125,54 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/rhino/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Brian Humphries | 1 | Producer |
+| | Alex Clare | 1 | Songwriter |
+| | Tony Iommi | 1 | Songwriter |
+| | Bob Crewe | 1 | Songwriter |
+| | Rodger Bain | 1 | Producer |
+| | Don Henley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Glenn Frey | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Glyn Johns | 1 | Producer |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | Jim Ed Norman | 1 | Arranger |
+| | Bill Ward | 1 | Songwriter |
+| | Ozzy Osbourne | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | 1 | Producer |
+| | Henry Lewy | 1 | Producer |
+| | Chris Hinshaw | 1 | Producer |
+| | Sandra Campbell Chapin | 1 | Songwriter |
+| | Alan Tarney | 1 | Producer |
+| | James William Guercio | 1 | Producer |
+| | Bob Gaudio | 1 | Songwriter |
+| | Brian Ross-Myring | 1 | Producer |
+| | Don Puluse | 1 | Producer |
+| | Morten Harket | 1 | Songwriter |
+| | Magne Furuholmen | 1 | Songwriter |
+| | Tom Allom | 1 | Producer |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Paul Waaktaar-Savoy | 1 | Songwriter |
+| | Ellis Sorkin | 1 | Producer |
+| | John Ratcliff | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/rhino/producers.png)
 ## Tracks released under Rhino
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

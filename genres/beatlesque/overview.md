@@ -58,9 +58,39 @@
 
 ![Bar chart of top 3 record labels](../../images/genres/beatlesque/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/beatlesque/years.png)
+![Bar chart of top 16 producers](../../images/genres/beatlesque/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Martin | 22 | Producer, Arranger |
+| | John Lennon | 20 | Songwriter |
+| | Paul McCartney | 20 | Songwriter |
+| | Geoff Emerick | 10 | Producer |
+| | Phil McDonald | 8 | Producer |
+| | Norman Smith | 5 | Producer |
+| | Glyn Johns | 4 | Producer |
+| | Chris Thomas | 3 | Producer |
+| | Ken Scott | 3 | Producer |
+| | Barry Sheffield | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Jeff Jarratt | 2 | Producer |
+| | Phil Spector | 2 | Producer |
+| | John Mills | 1 | Arranger |
+| | Ron Pender | 1 | Producer |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -74,3 +104,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | Sgt. Pepper's Lonely Hearts Club Band (Remastered) (1967-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | Sgt. Pepper's Lonely Hearts Club Band (Remastered) (1967-06-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="More of The Monkees (Deluxe Edition)" width="50" /> | More of The Monkees (Deluxe Edition) (1967-01-09) | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="Magical Mystery Tour (Remastered)" width="50" /> | Magical Mystery Tour (Remastered) (1967-11-27) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | The Birds, The Bees, & The Monkees (1968-04-22) |
+
+![Bar chart of number of songs by year](../../images/genres/beatlesque/years.png)

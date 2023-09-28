@@ -60,6 +60,39 @@ Appears as:
 
 ![Bar chart of top 5 genres](../../images/labels/hollywood_records/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
+| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | Mike Stone | 6 | Producer |
+| | Roger Taylor | 6 | Songwriter, Producer |
+| | Roy Thomas Baker | 5 | Producer |
+| | Mack | 3 | Producer |
+| | John Deacon | 3 | Songwriter, Lyricist |
+| | Kris Fredriksson | 3 | Producer |
+| | John Etchells | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Geoff Workman | 2 | Producer |
+| | Justin Shirley-Smith | 1 | Producer |
+| | Gustaf Thörn (Thörn, Gustaf) | 1 | Arranger |
+| | Laleh | 1 | Arranger, Producer |
+| | David Richards | 1 | Producer |
+| | Peter Meechan | 1 | Arranger |
+| | Serban Ghenea | 1 | Producer |
+
+</details>
+
+
+![Bar chart of top 17 producers](../../images/labels/hollywood_records/producers.png)
 ## Tracks released under Hollywood Records
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

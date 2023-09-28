@@ -57,6 +57,59 @@
 | Songwriter | 5 |
 | Vocal | 2 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Love Yourself | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](overview.md) | 5 | Songwriter |
+| | Josh Gudwin | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 2 | Producer, Songwriter |
+| | Freddy Wexler | 1 | Producer, Songwriter |
+| | Daniel James | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Producer, Songwriter |
+| | Devin Nakao | 1 | Producer |
+| | Tia Scola | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | Ed Sheeran | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Erika Ender | 1 | Songwriter |
+| | Lionel Crasta | 1 | Producer |
+| | Poo Bear | 1 | Songwriter |
+| | Rafael Fadul | 1 | Producer |
+| | Jason Evigan | 1 | Producer |
+| | FINNEAS | 1 | Producer, Songwriter |
+| | Billy Hickey | 1 | Producer |
+| | Dreamlab | 1 | Producer |
+| | Chris "Tek" O'Ryan | 1 | Producer |
+| | Marty James | 1 | Songwriter |
+| | Jake Torrey | 1 | Producer, Songwriter |
+| | Leah Haywood | 1 | Songwriter |
+| | Whitney Phillips | 1 | Songwriter |
+| | Skyler Stonestreet | 1 | Songwriter |
+| | Scooter Braun | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb584f79075db4e0c9304a7f85" alt="" width="50" /> | Daddy Yankee | 1 | Songwriter |
+| | Gian Stone | 1 | Producer, Songwriter |
+
+</details>
+
+
+![Bar chart of top 27 producers](../../images/artists/justin_bieber/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

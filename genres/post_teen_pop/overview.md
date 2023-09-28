@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | 1 | 0 | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d17f3be38fe3d25707e840d" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+| | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 
 
 <details>
@@ -101,9 +101,65 @@
 
 ![Bar chart of top 12 record labels](../../images/genres/post_teen_pop/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/post_teen_pop/years.png)
+![Bar chart of top 30 producers](../../images/genres/post_teen_pop/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | Jason Wormer | 5 | Producer |
+| | T-Bone Burnett | 5 | Producer |
+| | Mark Endert | 3 | Producer |
+| | Jack Antonoff | 2 | Songwriter |
+| | Todor Kobakov | 2 | Arranger |
+| | Jeremy Darby | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Matt Hales | 2 | Songwriter |
+| | Mike Piersante | 2 | Producer |
+| | Ian Kirkpatrick | 1 | Producer, Songwriter |
+| | Joseph Lorge | 1 | Producer |
+| | Jason Blynn | 1 | Songwriter |
+| | Eric Rosse | 1 | Producer |
+| | Mike Anderson | 1 | Songwriter |
+| | Teddy Geiger | 1 | Producer, Songwriter |
+| | Aaron Sterling | 1 | Songwriter |
+| | Pete Harper | 1 | Songwriter |
+| | Tommy Walter | 1 | Producer |
+| | Serban Ghenea | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | Tyga | 1 | Songwriter |
+| | Javier Dunn | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
+| | John Ryan | 1 | Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Suzie Katayama | 1 | Arranger |
+| | Zachary Dawes | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | Ally Brooke | 1 | Songwriter |
+| | Cermyth Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Laleh | 1 | Arranger, Producer |
+| | Julian Bunetta | 1 | Songwriter |
+| | Lori McKenna | 1 | Songwriter |
+| | Scott Harris | 1 | Songwriter |
+| | Joe London | 1 | Songwriter |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | Gustaf Thörn (Thörn, Gustaf) | 1 | Arranger |
+| | Chris Galland | 1 | Producer |
+| | Sam Farrar | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -117,3 +173,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) |
+
+![Bar chart of number of songs by year](../../images/genres/post_teen_pop/years.png)

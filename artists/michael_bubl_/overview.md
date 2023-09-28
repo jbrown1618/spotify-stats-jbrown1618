@@ -58,6 +58,45 @@
 | Songwriter | 3 |
 | Vocal | 3 |
 
+### Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Everything | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Haven't Met You Yet | Arranger, Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | David Foster | 3 | Producer, Arranger |
+| | Amy Foster-Gillies | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](overview.md) | 3 | Songwriter, Arranger |
+| | Humberto Gatica | 3 | Producer |
+| | Alan Chang | 3 | Songwriter, Arranger |
+| | Bob Rock | 2 | Producer, Arranger |
+| | Alejandro Rodríguez (Rodríguez, Alejandro) | 2 | Producer |
+| | Jochem van der Saag | 2 | Producer |
+| | Neil Devor | 2 | Producer |
+| | Leslie Bricusse | 1 | Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Don Sebesky | 1 | Arranger |
+| | William Ross | 1 | Arranger |
+| | Lou Pomanti | 1 | Arranger |
+| | Anthony Newley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+
+</details>
+
+
+![Bar chart of top 15 producers](../../images/artists/michael_bubl_/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |

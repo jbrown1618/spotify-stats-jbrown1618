@@ -173,6 +173,81 @@
 
 ![Bar chart of top 9 genres](../../images/playlists/halloween/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Ollounder | 6 | Arranger, Lyricist, Songwriter |
+| | 김석민 (Kim Seog-min) | 6 | Producer |
+| | LEEZ | 6 | Arranger, Lyricist, Songwriter, Producer |
+| | FINNEAS | 4 | Producer, Songwriter, Arranger |
+| | 정창현 (Jung, Chang-hyun) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 4 | Songwriter |
+| | Rob Kinelski | 3 | Producer |
+| | 김보은 (Kim, Bo-eun) | 2 | Lyricist |
+| | 이수만 (Lee, Soo-Man) | 2 | Producer |
+| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Daniel Nigro | 1 | Producer, Songwriter |
+| | Sophie Ellis-Bextor | 1 | Arranger |
+| | Ellen Berg Tollbom | 1 | Lyricist, Songwriter |
+| | Serban Ghenea | 1 | Producer |
+| | 손영진 (Son, Young-jin) | 1 | Arranger, Lyricist, Songwriter |
+| | 김준혁 (Kim Joonhyuk) | 1 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Lyricist |
+| | busbee | 1 | Arranger, Producer |
+| | 오단영 (Oh, Dan-young) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | YUQI | 1 | Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
+| | Cazzi Opeia | 1 | Lyricist, Songwriter |
+| | Dan Viafore | 1 | Producer |
+| | 서재우 (Seo, Jae-woo) | 1 | Arranger, Lyricist, Songwriter |
+| | 김일호 (Kim, Il-Ho) | 1 | Producer |
+| | 최예지 (Choi, Ye-ji) | 1 | Producer |
+| | Tomas Smagesjo | 1 | Songwriter |
+| | 주선교 (주선교) | 1 | Producer |
+| | 이민규 (Lee, Min-kyu) | 1 | Producer |
+| | 신재빈 (Shin, Jae Bin) | 1 | Producer |
+| | 김정미 (Kim Jung-mi) | 1 | Lyricist |
+| | 이성호 (Lee, Sung-ho) | 1 | Producer |
+| | Courtney Woolsey | 1 | Songwriter |
+| | Cathy Dennis | 1 | Arranger |
+| | 이민수 (이민수) | 1 | Arranger, Songwriter |
+| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 1 | Lyricist, Songwriter |
+| | 빅싼초 (Bicksancho) | 1 | Arranger, Lyricist, Songwriter |
+| | Kenzie | 1 | Lyricist |
+| | Ludvig Carl Evers | 1 | Lyricist, Songwriter |
+| | Alex James | 1 | Arranger, Producer |
+| | Siixk Jun | 1 | Arranger, Songwriter |
+| | Kalle Engstrom | 1 | Arranger, Producer |
+| | Jonatan Gusmark | 1 | Lyricist, Songwriter |
+| | 시윤 (Siyoon) | 1 | Lyricist |
+| | 홍지유 (Hong, Ji Yu) | 1 | Lyricist |
+| | 최진석 (Choi, Jin-seok) | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | Olivia Rodrigo | 1 | Songwriter |
+| | 전지은 (Jeon Ji-eun) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7f4b9b294a630d27f0c4d81" alt="" width="50" /> | HyunA | 1 | Lyricist |
+| | 전간디 (Jun, Gan Di) | 1 | Lyricist |
+| | THE NEED | 1 | Arranger, Songwriter |
+| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
+| | Chris Kasych | 1 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | Michael Harris | 1 | Producer |
+| | 문수아 (Moon Sua) | 1 | Lyricist |
+| | Rob Fusari | 1 | Arranger |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/playlists/halloween/producers.png)
 ## Years
 
 

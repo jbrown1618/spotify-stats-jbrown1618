@@ -50,13 +50,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf181c24af596cd241186adb" alt="" width="50" /> | 1 | 1 | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | 1 | 1 | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2fba28d51fc972ed9d8fbaaa" alt="" width="50" /> | 1 | 1 | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
+| | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe2762a1d3f4254a896d67e79" alt="" width="50" /> | 1 | 1 | EPEX | [🔗](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273557495a98e59a523400b42ea" alt="" width="50" /> | 1 | 1 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b79884e3182a75026eaace88" alt="" width="50" /> | 1 | 1 | Changbin (Stray Kids) | [🔗](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | En Butter | [🔗](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) |
+| | 1 | 1 | En Butter | [🔗](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9409322bc70bd56bc4f0950" alt="" width="50" /> | 1 | 1 | TAN | [🔗](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) |
-| <img src="nan" alt="" width="50" /> | 1 | 1 | Overdose | [🔗](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) |
+| | 1 | 1 | Overdose | [🔗](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | 1 | 1 | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323bd8b27aeb3ad6d4f4339c4" alt="" width="50" /> | 1 | 1 | Wanna One | [🔗](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a91656db6afb7a3dd398f22" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb150d3f8877d6101b2a397b6a" alt="" width="50" /> | 1 | 0 | Viann | [🔗](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf649844f36380dbcad2ce070" alt="" width="50" /> | 1 | 0 | Biicla | [🔗](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) |
-| <img src="nan" alt="" width="50" /> | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
+| | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 1 | 0 | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc16962350ffaa0b6360630a" alt="" width="50" /> | 1 | 0 | VIXX | [🔗](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee6186f4ba9d39d9438ad7d8" alt="" width="50" /> | 1 | 0 | ASTRO | [🔗](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) |
@@ -255,9 +255,123 @@
 
 ![Bar chart of top 30 record labels](../../images/genres/k_pop_boy_group/labels.png)
 
-## Years
+## Top Producers
 
-![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/years.png)
+![Bar chart of top 30 producers](../../images/genres/k_pop_boy_group/producers.png)
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Pdogg | 11 | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
+| | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 4 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j_hope/overview.md) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 3 | Lyricist, Songwriter |
+| | EDEN | 3 | Arranger, Songwriter, Lyricist |
+| | 김홍중 (Kim, Hong Joong) | 3 | Songwriter, Lyricist |
+| | Ollounder | 3 | Arranger, Songwriter, Lyricist |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | LEEZ | 3 | Arranger, Songwriter, Lyricist |
+| | 송민기 (Song, Mingi) | 3 | Songwriter, Lyricist |
+| | TEDDY | 3 | Arranger, Lyricist, Songwriter |
+| | Supreme Boi | 3 | Songwriter |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
+| | Jacob Richards | 2 | Producer |
+| | BUDDY | 2 | Arranger, Songwriter, Lyricist |
+| | Ali Tamposi | 2 | Songwriter |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | Melanie Joy Fontana | 2 | Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | T.O.P | 2 | Lyricist |
+| | DJ Riggins | 2 | Producer |
+| | Jang Yi-jeong | 2 | Producer |
+| | Max Seaberg | 2 | Producer |
+| | Jaycen Joshua | 2 | Producer |
+| | Arschtritt Lindgren | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 2 | Producer |
+| | Roman | 2 | Songwriter |
+| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2aef04c86590ac7328fb37cd" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
+| | August Rigo | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb871993320e80725d1b57fe1a" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
+| | Chizzy | 1 | Songwriter |
+| | Camilla Anne Stewart | 1 | Songwriter |
+| | Hiss noise | 1 | Producer |
+| | Erik Reichers | 1 | Producer |
+| | Arcades | 1 | Producer |
+| | DJ Swivel | 1 | Producer, Songwriter |
+| | Steven Battey | 1 | Songwriter |
+| | Marcus McCoan | 1 | Producer, Songwriter |
+| | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
+| | Tom Norris | 1 | Producer |
+| | Krysta Youngs | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Songwriter |
+| | Tay Jasper | 1 | Songwriter |
+| | MZMC | 1 | Songwriter |
+| | Julia Ross | 1 | Songwriter |
+| | Charlie J. Perry | 1 | Producer, Songwriter |
+| | 조진주 (Jo, Jinju) | 1 | Songwriter |
+| | かねもと よしのり (Kanemoto Yoshinori) | 1 | Lyricist |
+| | Mike Jay | 1 | Songwriter |
+| | Phil Tan | 1 | Producer |
+| | Peperoni | 1 | Arranger, Songwriter |
+| | DOCSKIM | 1 | Songwriter |
+| | Kass | 1 | Songwriter |
+| | dae Jung | 1 | Songwriter |
+| | Matt Thomson | 1 | Songwriter |
+| | Clyde Kelly | 1 | Songwriter |
+| | Antonina Armato | 1 | Songwriter |
+| | 정의석 (Jung, Euisuk) | 1 | Producer |
+| | Frants | 1 | Producer |
+| | Lutra | 1 | Songwriter |
+| | Gavin Jones | 1 | Songwriter |
+| | Ryan Lawrie | 1 | Songwriter |
+| | Oliv | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb44c99b9e1082a8273fd7c495" alt="" width="50" /> | SUMIN | 1 | Songwriter |
+| | Hilda Stenmalm | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | TAEYANG | 1 | Songwriter |
+| | Max Graham | 1 | Songwriter |
+| | Sebastian Garcia | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
+| | Maddox | 1 | Arranger, Lyricist, Songwriter |
+| | Liza Owen | 1 | Songwriter |
+| | Carlos Battey | 1 | Songwriter |
+| | Neon Boy | 1 | Songwriter |
+| | 김도훈 (Kim, Do-hoon) | 1 | Songwriter |
+| | Jay Dmuchowski | 1 | Songwriter |
+| | Fallin' Dild | 1 | Songwriter |
+| | Vince Nantes | 1 | Songwriter |
+| | David Stewart | 1 | Songwriter |
+| | Stephen Kirk | 1 | Songwriter |
+| | BUMZU | 1 | Arranger |
+| | Candace Sosa | 1 | Songwriter |
+| | Alex Williams | 1 | Producer |
+| | danke | 1 | Songwriter |
+| | C. Minor | 1 | Songwriter |
+| | Jessica Agombar | 1 | Songwriter |
+| | Jenna Andrews | 1 | Songwriter |
+| | R.Tee | 1 | Arranger, Lyricist, Songwriter |
+| | 현석 (Hyunsuk) | 1 | Lyricist |
+| | HotSauce | 1 | Arranger, Songwriter |
+| | 1월 8일 (1월 8일) | 1 | Songwriter |
+| | Rob Grimaldi | 1 | Songwriter |
+| | Ron Perry | 1 | Songwriter |
+| | Bill Zimmerman | 1 | Producer |
+| | Tom Wiklund | 1 | Producer, Songwriter |
+| | 김동현 (Kim, Dong-hyun) | 1 | Songwriter |
+| | 유영진 (Yoo, Young-jin) | 1 | Producer |
+| | Jinbo | 1 | Songwriter |
+
+</details>
+
+## Years
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
@@ -271,3 +385,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="THE WORLD EP.2 : OUTLAW" width="50" /> | THE WORLD EP.2 : OUTLAW (2023-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="ALIVE" width="50" /> | ALIVE (2012-02-29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="HARMONY : ALL IN" width="50" /> | HARMONY : ALL IN (2023-06-08) | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="Sherlock - The 4th Mini Album" width="50" /> | Sherlock - The 4th Mini Album (2012-03-21) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | 2 Cool 4 Skool (2013-06-12) |
+
+![Bar chart of number of songs by year](../../images/genres/k_pop_boy_group/years.png)

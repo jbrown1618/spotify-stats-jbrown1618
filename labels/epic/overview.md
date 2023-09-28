@@ -159,6 +159,122 @@ Appears as:
 
 ![Bar chart of top 30 genres](../../images/labels/epic/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | John O'Mahony | 8 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
+| | Kurt Uenala | 6 | Producer |
+| | Neal Avron | 6 | Arranger, Producer |
+| | T-Bone Burnett | 5 | Producer |
+| | Jason Wormer | 5 | Producer |
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
+| | Bruce Swedien | 5 | Producer |
+| | Frank Dukes | 4 | Songwriter, Producer |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jerry Hey | 3 | Arranger |
+| | Mark Endert | 3 | Producer |
+| | John Hanes | 3 | Producer |
+| | Louis Bell | 3 | Songwriter, Producer |
+| | Serban Ghenea | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | 2 | Songwriter |
+| | Bart Schoudel | 2 | Producer |
+| | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
+| | Matt Hales | 2 | Songwriter |
+| | Jaycen Joshua | 2 | Producer |
+| | Jeremy Darby | 2 | Producer |
+| | Todor Kobakov | 2 | Arranger |
+| | Andrew Watt | 2 | Producer, Songwriter |
+| | Mike Piersante | 2 | Producer |
+| | Ali Tamposi | 2 | Songwriter |
+| | Jack Antonoff | 2 | Songwriter |
+| | Anthony Marinelli | 1 | Producer |
+| | Javier Dunn | 1 | Songwriter |
+| | Luis Diaz | 1 | Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
+| | Mike Gaydusek | 1 | Producer |
+| | Mike Campbell | 1 | Songwriter |
+| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Matt Beckley | 1 | Producer |
+| | James Ingram | 1 | Arranger, Songwriter |
+| | Kyle Mann | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| | Ori Kaplan | 1 | Producer, Songwriter |
+| | Suzie Katayama | 1 | Arranger |
+| | Eric Rosse | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | George Michael | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | John Hill | 1 | Songwriter |
+| | Ryan Tedder | 1 | Songwriter |
+| | Sam Farrar | 1 | Songwriter |
+| | Terry Becker | 1 | Producer |
+| | Danny O'Donoghue | 1 | Songwriter |
+| | Steve Kipner | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
+| | Tor Erik Hermansen | 1 | Songwriter |
+| | Ant Clemons | 1 | Songwriter |
+| | Starrah | 1 | Songwriter |
+| | Danny D | 1 | Producer |
+| | Amy Wadge | 1 | Songwriter |
+| | Bill Wolfer | 1 | Producer |
+| | Chad Vaccarino | 1 | Songwriter |
+| | Emily Weisband | 1 | Songwriter |
+| | Noonie Bao | 1 | Songwriter |
+| | Aaron Sterling | 1 | Songwriter |
+| | Pete Harper | 1 | Songwriter |
+| | Tommy Walter | 1 | Producer |
+| | Omar Alfanno | 1 | Songwriter |
+| | Jack Patterson | 1 | Songwriter |
+| | Steve Porcaro | 1 | Producer |
+| | LaTabia Parker | 1 | Songwriter |
+| | Ian Axel | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
+| | Mark Sheehan | 1 | Songwriter |
+| | Nathaniel Alford | 1 | Producer |
+| | Tim Blacksmith | 1 | Producer |
+| | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
+| | Jerry Duplessis | 1 | Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Rami Dawod | 1 | Songwriter |
+| | Manny Marroquin | 1 | Producer |
+| | Miles Walker | 1 | Producer |
+| | Andrew Frampton | 1 | Songwriter |
+| | Stargate | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | Wyclef Jean | 1 | Songwriter |
+| | Joseph Lorge | 1 | Producer |
+| | Brian Lee | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
+| | Zachary Dawes | 1 | Producer |
+| | Carl Lieberman, RPT | 1 | Producer |
+| | Jacob Olofsson | 1 | Songwriter |
+| | Jarami | 1 | Producer |
+| | Robbie Soukiasyan | 1 | Producer |
+| | Sasha Yatchenko | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Mike Anderson | 1 | Producer |
+| | Cashmere Cat | 1 | Producer, Songwriter |
+| | Jeff Glixman | 1 | Producer |
+| | Mike Anderson | 1 | Songwriter |
+| | Priscilla Renea | 1 | Songwriter |
+
+</details>
+
+
+![Bar chart of top 30 producers](../../images/labels/epic/producers.png)
 ## Tracks released under Epic
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
