@@ -30,7 +30,7 @@ MAMAMOO is currently:
 - Egotistic is:
     - the #33 track of all time
 - Piano Man is:
-    - the #48 track of the last month
+    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

@@ -80,9 +80,10 @@ Appears as:
 | 1 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 1 | 0 | korean old school hip hop |
 | 1 | 0 | [k-rap](../../genres/k_rap/overview.md) |
+| 1 | 0 | easy listening |
 | 1 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 
-![Bar chart of top 9 genres](../../images/labels/ume___global_clearing_house/genres.png)
+![Bar chart of top 10 genres](../../images/labels/ume___global_clearing_house/genres.png)
 
 ## Tracks released under UME - Global Clearing House
 

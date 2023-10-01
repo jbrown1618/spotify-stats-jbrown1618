@@ -73,7 +73,7 @@ Appears as:
 
 
 <details>
-<summary>See all 19 genres</summary>
+<summary>See all 20 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -82,6 +82,7 @@ Appears as:
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | easy listening |
 | 1 | 0 | rock-and-roll |
+| 1 | 0 | rhythm and blues |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | grunge |
 | 1 | 0 | doo-wop |
@@ -90,7 +91,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 19 genres](../../images/labels/geffen/genres.png)
+![Bar chart of top 20 genres](../../images/labels/geffen/genres.png)
 
 ## Top Producers
 

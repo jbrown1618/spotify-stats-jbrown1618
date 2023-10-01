@@ -57,7 +57,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7dc63c51d6b24862592e9" alt="" width="50" /> | 2 | 0 | Richard White | [🔗](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G) |
 | | 2 | 0 | Linda Talcott | [🔗](https://open.spotify.com/artist/0XmsLZGAfaW5GvksORVlXJ) |
 | | 2 | 0 | Ernie Sabella | [🔗](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ee4d1cb7dcedbfd3b4fa6ea" alt="" width="50" /> | 2 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce1fc502ac6683d5d36e3f20" alt="" width="50" /> | 2 | 0 | Nathan Lane | [🔗](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv) |
 | | 2 | 0 | Gary Beach | [🔗](https://open.spotify.com/artist/0OckhIDFyA68SQXxyefMcH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e167cbf34879564304ed076" alt="" width="50" /> | 2 | 0 | David Ogden Stiers | [🔗](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP) |
 | | 2 | 0 | Paige Price | [🔗](https://open.spotify.com/artist/0GzTqQj6pGeI2iW6cA0uSR) |
@@ -70,7 +70,7 @@ Appears as:
 | | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
-| | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | | 1 | 0 | Max Casella | [🔗](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8) |
@@ -172,26 +172,26 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 48 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
+| 47 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 5 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 4 | 0 | tagalog worship |
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 2 | 0 | idol |
 | 2 | 0 | hollywood |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
 | 2 | 0 | comedy |
-| 2 | 0 | alternative hip hop |
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 36 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |
-| 1 | 0 | tin pan alley |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
 | 1 | 0 | roots rock |
@@ -208,7 +208,6 @@ Appears as:
 | 1 | 0 | jump blues |
 | 1 | 0 | jazz blues |
 | 1 | 0 | hip pop |
-| 1 | 0 | funk |
 | 1 | 0 | escape room |
 | 1 | 0 | comedy rap |
 | 1 | 0 | bubblegum pop |

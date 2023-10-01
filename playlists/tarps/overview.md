@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 1 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
-| <img src="https://i.scdn.co/image/c56cf0cc89c8ecfec7145cf065ea2006d0706605" alt="" width="50" /> | 1 | 1 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9414ef07d0ca697726912df1" alt="" width="50" /> | 1 | 1 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
@@ -188,7 +188,7 @@
 | 1 | 1 | Parlophone Records Limited |
 | 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
-| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
+| 1 | 1 | Island Records |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 1 | Glassnote Entertainment Group LLC |
@@ -223,7 +223,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 20 | 12 | [pop](../../genres/pop/overview.md) |
+| 21 | 13 | [pop](../../genres/pop/overview.md) |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 82 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -270,11 +270,13 @@
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 2 | 1 | hip hop |
 | 2 | 1 | folk rock |
+| 2 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 1 | 1 | yacht rock |
 | 1 | 1 | uk americana |
 | 1 | 1 | uk alternative pop |
+| 1 | 1 | southern soul |
 | 1 | 1 | progressive bluegrass |
 | 1 | 1 | pop rap |
 | 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
@@ -303,11 +305,11 @@
 | 1 | 0 | talent show |
 | 1 | 0 | swedish pop |
 | 1 | 0 | rockabilly |
+| 1 | 0 | rhythm and blues |
 | 1 | 0 | irish rock |
 | 1 | 0 | hip pop |
 | 1 | 0 | girl group |
 | 1 | 0 | europop |
-| 1 | 0 | ectofolk |
 | 1 | 0 | doo-wop |
 | 1 | 0 | contemporary r&b |
 | 1 | 0 | comic |

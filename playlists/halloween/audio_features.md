@@ -13,9 +13,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | Bite Me (0.795) | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="Devil - The 2nd Mini Album" width="50" /> | Devil (0.506) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | vampire (0.511) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="Devil" width="50" /> | Devil (0.79) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | xanny (0.521) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | Devil (0.773) | <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="Fantasy" width="50" /> | Fantasy (0.531) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA (0.772) | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="［Dystopia : Road to Utopia］" width="50" /> | Odd Eye (0.534) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | 미행 (그림자 : Shadow) (0.768) | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | Sacrifice (Eat Me Up) (0.536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d3cc4b932b0e51723ab01" alt="DEEP - The 1st Mini Album" width="50" /> | DEEP (0.784) | <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="Fantasy" width="50" /> | Fantasy (0.531) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | Devil (0.773) | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="［Dystopia : Road to Utopia］" width="50" /> | Odd Eye (0.534) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA (0.772) | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | Sacrifice (Eat Me Up) (0.536) |
 
 ## Energy
 

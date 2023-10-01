@@ -88,7 +88,7 @@ Appears as:
 | 1 | 1 | korean talent show |
 | 1 | 1 | korean ost |
 | 2 | 0 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 1 | 0 | [k-rap](../../genres/k_rap/overview.md) |
+| 2 | 0 | [k-rap](../../genres/k_rap/overview.md) |
 
 ![Bar chart of top 7 genres](../../images/labels/wm_korea/genres.png)
 

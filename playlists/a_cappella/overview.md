@@ -300,7 +300,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 82 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
+| 81 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 36 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 118 | 0 | [college a cappella](../../genres/college_a_cappella/overview.md) |
 | 32 | 0 | fantasy |
@@ -313,7 +313,7 @@
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -332,7 +332,6 @@
 | 1 | 0 | renaissance |
 | 1 | 0 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 1 | 0 | hengelliset laulut |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | gregorian chant |
 | 1 | 0 | franco-flemish school |

@@ -195,7 +195,7 @@
 | 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | Mercury Records |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
-| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
+| 1 | 1 | Island Records |
 | 1 | 1 | Island Def Jam |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | 1 | Down Up Down Music |
@@ -217,7 +217,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 20 | 17 | [pop](../../genres/pop/overview.md) |
+| 19 | 16 | [pop](../../genres/pop/overview.md) |
 | 18 | 16 | [rock](../../genres/rock/overview.md) |
 | 14 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
 | 13 | 12 | [neo mellow](../../genres/neo_mellow/overview.md) |
@@ -230,13 +230,14 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 85 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 6 | [heartland rock](../../genres/heartland_rock/overview.md) |
+| 6 | 6 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 6 | 5 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 5 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 5 | 5 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |

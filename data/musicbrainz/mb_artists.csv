@@ -409,6 +409,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 1326ac05-565b-423b-815f-e1c566b7bc1b,山田杏華,"Yamada, Kyōka",,Person,Japan,Oita,2002-11-03,,Female
 1339ef12-47f5-40a9-aa4a-ff696c9b42de,김형곤,"Kim, Hyeong-kon",,Person,South Korea,Bucheon,1988-12-03,,Male
 133aa7f9-dc71-4f18-9740-c6f52d72c210,Ahmad Izham Omar,"Omar, Ahmad Izham",,Person,Malaysia,,,,Male
+134cb0bc-06fa-42f7-8078-b0c858349975,Jack Harlow,"Harlow, Jack",,Person,United States,Louisville,1998-03-13,,Male
 134e6410-6954-45d1-bd4a-0f2d2ad5471d,Zara Larsson,"Larsson, Zara",,Person,Sweden,Solna municipality,1997-12-16,,Female
 134f7e09-7170-4055-b81d-638a3f045c08,Chris Caswell,"Caswell, Chris",Film & TV composer,Person,,Rochester,,,Male
 135229f7-1387-4c9d-a1e2-09b46df675c7,민,Min,"Korean singer, TV personality, songwriter & actress",Person,South Korea,Seoul,1991-06-21,,Female
@@ -1176,6 +1177,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 352d48b6-aadf-482d-b4f9-22c910d05bfc,전승우,"Jeon, SeungWoo",,Person,South Korea,South Korea,1974-07-23,,Male
 352e7a55-0746-41d3-aef2-922a01cc3ada,코코로,Kokoro,former Cherry Bullet member,Person,South Korea,Nagoya,2000-11-01,,Female
 354a632e-878f-4165-8f92-c818df3f2087,Trevor Murrell,"Murrell, Trevor",,Person,,,,,Male
+355cc194-b8db-4af2-8678-c7ad54213f4b,Latto,Latto,"f/k/a Mulatto, American rapper and singer",Person,United States,Columbus,1998-12-22,,Female
 357f5276-27b4-4013-8032-8165ccd4f3d0,Young Chance,"Young, Chance",,Person,South Korea,,,,Male
 3597f0bb-033d-4690-92f9-70031fd9f2af,태석,TAESEOK,,Person,South Korea,,,,Male
 35a431eb-347f-4963-8ec6-534e124e3e65,Drumma Boy,Drumma Boy,"US rapper, producer",Person,United States,Memphis,1983-08-11,,Male
@@ -1223,6 +1225,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 37bf1eb6-7cc3-4fdb-b616-8d3765beb592,YOUNG,YOUNG,"guitarrist, probably South Korean",Unknown,,,,,
 37cc872c-22e8-43e1-abc3-5b0f31631acb,NCT DOJAEJUNG,NCT DOJAEJUNG,,Group,South Korea,Seoul,2023-03-09,,
 37d405b9-b2b4-4d6f-8f5a-db20ec8ea09f,Drew Jurecka,"Jurecka, Drew",,Person,Canada,,,,Male
+37d689aa-fd63-4f65-89da-5eee9cdf9af8,정모연,"Jeong, Mo-yeon",,Person,South Korea,,,,
 37dcd633-bb48-469b-9cef-9235ec20d3f6,채령,Chaeryeong,,Person,South Korea,Yongin,2001-06-05,,Female
 37e26b65-fe5d-476b-9811-8256a43c7962,노민우,"No, Min Woo",,Person,,Seoul,1986-05-29,,Male
 37ed89f2-c1e4-4836-8f68-190014a48034,Mike Campbell,"Campbell, Mike",Tom Petty and the Heartbreakers guitarist,Person,United States,Panama City,1950-02-01,,Male
@@ -1758,6 +1761,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 4fe9c99d-7c24-4ea9-aa0e-faa90f65743d,Aaron Varnell,"Varnell, Aaron",,Person,United States,,,,Male
 4ff8dc8f-7005-473f-8ac5-11617fc46cd6,Deen Castronovo,"Castronovo, Deen",,Person,United States,Westminster,1965-08-17,,Male
 4ff92b67-279e-40dd-b8fe-c1930f85059b,Daniel Law Heath,"Heath, Daniel Law",production music,Person,United Kingdom,,,,Male
+5019e514-7ba1-4725-8da9-0620848285fa,김강현,"Kim, Kang-hyun",recording engineer,Person,South Korea,,,,
 501ea1e0-5c11-4b68-9b65-bc16955ddb73,岩﨑萌花,"Iwasaki, Moeka",,Person,Japan,Nagasaki,2000-04-24,,Female
 50259c88-f747-4279-8d97-694cabde390f,MINNIE,MINNIE,(G)I‐DLE,Person,South Korea,Thailand,1997-10-23,,Female
 50435319-54d5-4e0f-a3ca-32f69b77b198,김병석,"Kim, Byung-seok",Megatone,Person,South Korea,,,,Male
@@ -2262,6 +2266,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 6806600b-f824-4874-b574-f7b9a3e6cd3d,Netta,Netta,Netta Barzilai,Person,Israel,,1993-01-22,,Female
 683a8357-f52c-4c5c-be76-ad041872202b,Fabrizio Moro,"Moro, Fabrizio",Italian singer-songwriter,Person,Italy,Roma,1975-04-09,,Male
 683d8479-5e5f-463b-b57b-17330f7c2fd7,Josef Sakonov,"Sakonov, Josef",,Person,United Kingdom,,1913,2005,Male
+68429fd4-6483-445b-99d6-89f336bd65b3,KayOne,KayOne,recording engineer,Person,South Korea,,,,
 684fc397-3a80-4aeb-89a7-b70e00ee5ad9,Chris Hinshaw,"Hinshaw, Chris",,Person,,,,,Male
 685adc6a-cf0a-4ef6-a520-95049fca1b4c,Jack Da Ripper,Jack Da Ripper,,Person,,,,,
 685e1d86-b9fd-4c43-ab49-308c7a166a9f,Ryan Gilligan,"Gilligan, Ryan",,Person,United States,,,,Male
@@ -2328,6 +2333,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 6b8cb0b6-d866-43e6-8984-7e2b25b29369,900X,900X,,Unknown,,,,,
 6b9793bc-03ce-49e2-968d-7057dca142ec,WJSN : THE BLACK,WJSN : THE BLACK,,Group,South Korea,Seoul,2021-04,,
 6b989617-aaa1-4101-a3b2-dc7bc9581848,임홍진,"Im, Hong-Jin",,Person,,,,,
+6ba04f82-d7e1-46c3-887d-a0d5e3cbad84,Manny Park,"Park, Manny",,Person,United States,,,,Male
 6baeae49-cfd2-4e06-abb7-87c4e71b475d,Timmaz Zolleyn,"Zolleyn, Timmaz",,Person,,,,,
 6bbc87f8-b778-4e2b-84e8-0d95bd44f254,Jason Bonham,"Bonham, Jason",,Person,United Kingdom,Dudley,1966-07-15,,Male
 6bbfc71b-5f18-4e61-82fb-bee0c2a6b5f9,WILLOW,WILLOW,punk rock singer Willow Smith,Person,United States,Los Angeles,2000-10-31,,Female
@@ -3734,6 +3740,7 @@ aff3a61b-097d-44fe-8803-e545a620bf3c,Julia Choi,"Choi, Julia",violinist,Person,,
 affb2253-da27-488b-b4f4-2be057edf4b2,MooF,MooF,K-pop producer duo,Group,South Korea,,,,
 b0009a96-6671-4ad0-8fc7-2142026078c4,Eric Jackson,"Jackson, Eric",aka Kaine of Ying Yang Twins,Person,,,,,Male
 b01766eb-0c8b-4ee3-a583-1e9e77914580,Jameel Roberts,"Roberts, Jameel",,Person,,,,,
+b01f68a3-bdc6-488b-a0a0-019acc37fd38,WATT,WATT,composer,Unknown,,,,,
 b02854d2-d2b0-448e-a4d8-8b8a30c220da,DJ Crazy B,DJ Crazy B,,Person,,,,,Male
 b02cb10f-20f7-45a9-9de6-bac74e65fcba,구종필,"Koo, Jong-Pil",,Person,South Korea,,,,Male
 b032f00d-25c7-4f37-841d-dd5283294a4f,Ruffsound,Ruffsound,,Person,Québec,,,,Male

@@ -24,7 +24,7 @@
 | ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.967) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.0871) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.944) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.142) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | Uptown Girl (0.944) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.142) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="Departure" width="50" /> | Any Way You Want It (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.157) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Scenes from an Italian Restaurant (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | Bridge Over Troubled Water (0.206) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="This Is What You Came For" width="50" /> | This Is What You Came For (0.927) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | The Sound of Silence - Acoustic Version (0.216) |
@@ -57,7 +57,7 @@
 
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.00107) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.00107) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | Baby, It's Cold Outside (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Bootylicious (0.00247) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Crazy In Love (feat. Jay-Z) (0.00249) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> | All of Me (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="Departure" width="50" /> | Any Way You Want It (0.00251) |
@@ -115,7 +115,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | STUPID (0.897) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | Partition (0.172) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Movin' Out (Anthony's Song) (0.895) | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="B&#x27;Day Deluxe Edition" width="50" /> | Listen (From the Motion Picture "Dreamgirls") (0.187) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | We Didn't Start the Fire (0.895) | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | New York State of Mind (0.194) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="Toys In The Attic" width="50" /> | Walk This Way (0.894) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.196) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="Toys In The Attic" width="50" /> | Walk This Way (0.894) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (0.196) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> | INDUSTRY BABY (feat. Jack Harlow) (0.892) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Ave Maria (0.201) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="At Folsom Prison" width="50" /> | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (0.889) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (0.22) |
 
@@ -125,7 +125,7 @@
 
 | ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights (205.422) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (75.859) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights (205.422) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | She's Got a Way (75.859) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black (188.386) | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | Skyfall (75.881) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="Wrap Me In Plastic" width="50" /> | Wrap Me In Plastic (179.932) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Only the Good Die Young (76.214) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (179.239) | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | Lullabye (Goodnight, My Angel) (76.48) |

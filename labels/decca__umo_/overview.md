@@ -40,6 +40,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 1 | folk-pop |
+| 1 | 1 | australian pop |
 | 1 | 1 | australian indie |
 | 18 | 0 | italian baroque |
 | 18 | 0 | [early music](../../genres/early_music/overview.md) |
@@ -48,9 +49,19 @@ Appears as:
 | 8 | 0 | contemporary choir |
 | 8 | 0 | choral |
 | 8 | 0 | american 21st century classical |
+
+
+<details>
+<summary>See all 11 genres</summary>
+
+| Tracks | 💚 | Genre |
+|---:|---:|:---|
 | 8 | 0 | 21st century classical |
 
-![Bar chart of top 10 genres](../../images/labels/decca__umo_/genres.png)
+</details>
+
+
+![Bar chart of top 11 genres](../../images/labels/decca__umo_/genres.png)
 
 ## Tracks released under Decca (UMO)
 

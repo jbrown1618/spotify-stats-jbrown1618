@@ -108,7 +108,7 @@
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Cult Records |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
+| 2 | 0 | Island Records |
 | 2 | 0 | A&M |
 
 

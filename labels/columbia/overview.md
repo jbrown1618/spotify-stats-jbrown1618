@@ -156,7 +156,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | 1 | 0 | Dangerously In Love | 2003-06-24 | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | 1 | 0 | Christmas Songs by Sinatra | 1994-11-08 | [🔗](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | 1 | 0 | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | 1 | 0 | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
@@ -178,7 +178,7 @@ Appears as:
 | 33 | 23 | [classic rock](../../genres/classic_rock/overview.md) |
 | 31 | 22 | [soft rock](../../genres/soft_rock/overview.md) |
 | 31 | 22 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 36 | 21 | [pop](../../genres/pop/overview.md) |
+| 34 | 19 | [pop](../../genres/pop/overview.md) |
 | 27 | 17 | [album rock](../../genres/album_rock/overview.md) |
 | 26 | 17 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 23 | 16 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
@@ -187,7 +187,7 @@ Appears as:
 
 
 <details>
-<summary>See all 70 genres</summary>
+<summary>See all 72 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -215,11 +215,13 @@ Appears as:
 | 1 | 1 | nigerian hip hop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | mandopop |
+| 1 | 1 | latin viral pop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
+| 1 | 1 | azontobeats |
 | 1 | 1 | australian rock |
 | 1 | 1 | afrobeats |
 | 3 | 0 | jazz quartet |
@@ -246,7 +248,7 @@ Appears as:
 | 1 | 0 | girl group |
 | 1 | 0 | electronic trap |
 | 1 | 0 | electro house |
-| 1 | 0 | ectofolk |
+| 1 | 0 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 1 | 0 | cowboy western |
 | 1 | 0 | classic oklahoma country |
 | 1 | 0 | arkansas country |
@@ -405,7 +407,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Lemonade | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | She's Got a Way | Cold Spring Harbor | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/3Ie2eLOIj2IhKnzPwXrLbJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | She's Got a Way | Cold Spring Harbor | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/3Ie2eLOIj2IhKnzPwXrLbJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Captain Jack | Piano Man | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3igkLltDaiFiMl83IdDBfm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | Piano Man | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | New York State of Mind | Turnstiles | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1) |

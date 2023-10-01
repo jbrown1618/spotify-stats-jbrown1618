@@ -288,8 +288,8 @@
 | 88 | 74 | [k-pop](../../genres/k_pop/overview.md) |
 | 34 | 26 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 19 | 12 | [korean pop](../../genres/korean_pop/overview.md) |
-| 8 | 5 | [k-rap](../../genres/k_rap/overview.md) |
-| 6 | 4 | k-indie |
+| 9 | 5 | [k-rap](../../genres/k_rap/overview.md) |
+| 8 | 5 | k-indie |
 | 5 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 3 | korean city pop |
 | 2 | 2 | korean ost |

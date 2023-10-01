@@ -1,7 +1,7 @@
 # Classic Pop
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27306ce0d1f846c525e847d60e7ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
 [59 tracks (32 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
 
@@ -113,7 +113,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="" width="50" /> | 1 | 0 | Gettin' Ready (Expanded Edition) | 1966 | [🔗](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | 1 | 0 | For Once In My Life | 1968-12-01 | [🔗](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="" width="50" /> | 1 | 0 | Don't Shoot Me I'm Only The Piano Player | 1973-01-22 | [🔗](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | 1 | 0 | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c9f79fbe073eb95007ed48f" alt="" width="50" /> | 1 | 0 | ABC | 1970-05-08 | [🔗](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="" width="50" /> | 1 | 0 | 50 Big Ones: Greatest Hits | 2012-01-01 | [🔗](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) |
@@ -184,7 +184,7 @@
 
 
 <details>
-<summary>See all 45 genres</summary>
+<summary>See all 46 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -203,7 +203,9 @@
 | 3 | 1 | bubblegum pop |
 | 3 | 1 | arkansas country |
 | 2 | 1 | swing |
+| 2 | 1 | southern soul |
 | 2 | 1 | rock-and-roll |
+| 2 | 1 | easy listening |
 | 2 | 1 | classic soul |
 | 1 | 1 | smooth jazz |
 | 1 | 1 | quiet storm |
@@ -214,7 +216,6 @@
 | 1 | 1 | funk |
 | 1 | 1 | country rock |
 | 2 | 0 | sunshine pop |
-| 1 | 0 | southern soul |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | neo soul |

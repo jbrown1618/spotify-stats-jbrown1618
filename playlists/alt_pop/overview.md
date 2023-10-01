@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | 1 | 1 | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac5af05b8330aabff5800382" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbdda317f63c5d23255eb7248" alt="" width="50" /> | 1 | 1 | GoldFish | [🔗](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca25f8ab46855bc337be5180" alt="" width="50" /> | 1 | 1 | GoldFish | [🔗](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | 1 | 1 | Guy Sigsworth | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe997c35b5546c5fa4eeb8c02" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc127b34fde8611765a74301" alt="" width="50" /> | 1 | 1 | Sarah Kang | [🔗](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) |
@@ -252,7 +252,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 50 | 38 | [pop](../../genres/pop/overview.md) |
+| 47 | 35 | [pop](../../genres/pop/overview.md) |
 | 34 | 21 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 20 | [electropop](../../genres/electropop/overview.md) |
 | 22 | 18 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -265,18 +265,19 @@
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 8 | 8 | australian dance |
 | 9 | 7 | etherpop |
 | 8 | 6 | indie pop |
-| 8 | 5 | [lilith](../../genres/lilith/overview.md) |
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |
 | 6 | 4 | pov: indie |
 | 4 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
+| 4 | 4 | [lilith](../../genres/lilith/overview.md) |
+| 4 | 4 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 3 | nyc pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 2 | 2 | irish singer-songwriter |
@@ -308,6 +309,7 @@
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish electropop |
 | 1 | 0 | swedish alternative rock |
+| 1 | 0 | shimmer pop |
 | 1 | 0 | new rave |
 | 1 | 0 | escape room |
 | 1 | 0 | dance-punk |

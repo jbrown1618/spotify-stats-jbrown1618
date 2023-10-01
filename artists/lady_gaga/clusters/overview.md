@@ -26,7 +26,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](../../overview.md), Colby O'Donis | [Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](../../overview.md), Colby O'Donis | [Interscope](../../../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | LoveGame | The Fame | [Lady Gaga](../../overview.md) | [Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | The Fame | [Lady Gaga](../../overview.md) | [Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Bad Romance | The Fame Monster (Deluxe Edition) | [Lady Gaga](../../overview.md) | [Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) |

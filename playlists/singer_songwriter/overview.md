@@ -150,7 +150,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | 1 | 0 | Fearless (Taylor's Version) | 2021-04-09 | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="" width="50" /> | 1 | 0 | Don't Shoot Me I'm Only The Piano Player | 1973-01-22 | [🔗](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba49075f7bba31bdadbdf012" alt="" width="50" /> | 1 | 0 | Creep Live At (Le)Poisson Rouge | 2012-09-09 | [🔗](https://open.spotify.com/album/3tzHjGnv1WpG78SzgRKFIi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | 1 | 0 | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
@@ -215,16 +215,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 83 | 50 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 87 | 54 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 73 | 47 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 61 | 39 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
 | 35 | 22 | [piano rock](../../genres/piano_rock/overview.md) |
 | 34 | 22 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 31 | 18 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 28 | 17 | [rock](../../genres/rock/overview.md) |
 
 
 <details>
@@ -232,6 +232,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 28 | 17 | [rock](../../genres/rock/overview.md) |
 | 25 | 16 | [soft rock](../../genres/soft_rock/overview.md) |
 | 25 | 16 | [classic rock](../../genres/classic_rock/overview.md) |
 | 23 | 16 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -264,7 +265,6 @@
 | 1 | 0 | modern folk rock |
 | 1 | 0 | indie rock |
 | 1 | 0 | indie folk |
-| 1 | 0 | ectofolk |
 | 1 | 0 | dark pop |
 | 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | canadian indie |
@@ -445,7 +445,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="Fearless (Taylor&#x27;s Version)" width="50" /> | Fearless (Taylor's Version) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Elton John (1970-04-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="evermore" width="50" /> | evermore (2020-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="Blue" width="50" /> | Blue (1971-06-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | folklore (2020-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b273431daec5815fd0255437b43b" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | folklore (2020-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="minor" width="50" /> | minor (2020-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="Madman Across The Water" width="50" /> | Madman Across The Water (1971-11-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae62cadb0b437ff1c5ea0310" alt="Jackie Onassis" width="50" /> | Jackie Onassis (2020-06-05) | <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="Honky Chateau" width="50" /> | Honky Chateau (1972-05-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736668cca4cf49b642d43316e5" alt="Whatever We Feel" width="50" /> | Whatever We Feel (2020-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="Don&#x27;t Shoot Me I&#x27;m Only The Piano Player" width="50" /> | Don't Shoot Me I'm Only The Piano Player (1973-01-22) |

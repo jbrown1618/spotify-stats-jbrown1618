@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="" width="50" /> | 8 | 6 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbe071f5bc42f38d3485a29a" alt="" width="50" /> | 7 | 5 | [YOASOBI](../../artists/yoasobi/overview.md) | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36" alt="" width="50" /> | 7 | 5 | [YOASOBI](../../artists/yoasobi/overview.md) | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | 3 | 3 | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 5 | 2 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 5 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | 1 | 1 | Stromae | [🔗](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) |
 | | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b2cf23c52a0963ae5feb27" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4196349398da67ae88d8f47e" alt="" width="50" /> | 1 | 1 | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
@@ -359,6 +359,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 3 | 3 | sunnlensk tonlist |
+| 3 | 3 | latin viral pop |
 | 3 | 3 | icelandic pop |
 | 6 | 2 | anime rock |
 | 5 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -376,7 +377,6 @@
 | 2 | 2 | italian hip hop |
 | 2 | 2 | french pop |
 | 2 | 2 | danish pop |
-| 2 | 2 | chinese viral pop |
 | 2 | 2 | belgian pop |
 | 8 | 1 | mandopop |
 | 4 | 1 | indonesian r&b |
@@ -391,11 +391,11 @@
 | 1 | 1 | r&b en espanol |
 | 1 | 1 | pinoy idol pop |
 | 1 | 1 | p-pop |
+| 1 | 1 | opm |
 | 1 | 1 | nigerian pop |
 | 1 | 1 | nigerian hip hop |
 | 1 | 1 | modern bollywood |
 | 1 | 1 | milan indie |
-| 1 | 1 | latin viral pop |
 | 1 | 1 | latin talent show |
 | 1 | 1 | latin hip hop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
@@ -408,9 +408,11 @@
 | 1 | 1 | escape room |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
+| 1 | 1 | chinese viral pop |
 | 1 | 1 | bulgarian pop |
 | 1 | 1 | bulgarian hip hop |
 | 1 | 1 | basshall |
+| 1 | 1 | azontobeats |
 | 1 | 1 | alt z |
 | 1 | 1 | afrobeats |
 | 7 | 0 | [anime](../../genres/anime/overview.md) |
@@ -446,8 +448,6 @@
 | 1 | 0 | israeli rock |
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
-| 1 | 0 | finnish pop |
-| 1 | 0 | eurobeat |
 
 </details>
 
@@ -495,7 +495,7 @@
 | | Papa Dizzy | 1 | Arranger |
 | | Jens Bogren | 1 | Producer |
 | | Jaycen Joshua | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | Becky G | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | Becky G | 1 | Songwriter |
 | | Camilo | 1 | Songwriter |
 | | ACAね (ACANE) | 1 | Lyricist, Songwriter |
 | | KYOTO | 1 | Arranger |

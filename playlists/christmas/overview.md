@@ -77,7 +77,7 @@
 | | 1 | 0 | Chundung | [🔗](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Nile Lee | [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56625e685d02cbc6a1700642" alt="" width="50" /> | 1 | 0 | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
-| | 1 | 0 | Jan Utbult | [🔗](https://open.spotify.com/artist/4cdzuhtmHpWvdn1nXn2Aga) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ecfefcddb02c66f45ac79ac4" alt="" width="50" /> | 1 | 0 | Jan Utbult | [🔗](https://open.spotify.com/artist/4cdzuhtmHpWvdn1nXn2Aga) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" alt="" width="50" /> | 1 | 0 | Brenda Lee | [🔗](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
@@ -290,7 +290,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 35 | 7 | [k-pop](../../genres/k_pop/overview.md) |
+| 33 | 6 | [k-pop](../../genres/k_pop/overview.md) |
 | 21 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 8 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
@@ -298,7 +298,7 @@
 | 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
-| 7 | 0 | easy listening |
+| 8 | 0 | easy listening |
 | 6 | 0 | vocal jazz |
 
 

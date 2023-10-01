@@ -231,7 +231,7 @@
 | 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | Big Scary Monsters |
 | 4 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 3 | 0 | [Island Records](../../labels/island_records/overview.md) |
+| 3 | 0 | Island Records |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | S-Curve Records |
 | 1 | 0 | Relapse Records |
@@ -253,8 +253,8 @@
 | 60 | 35 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 42 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
-| 38 | 21 | [modern rock](../../genres/modern_rock/overview.md) |
-| 30 | 20 | [pop](../../genres/pop/overview.md) |
+| 41 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
+| 29 | 19 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
@@ -263,7 +263,7 @@
 
 
 <details>
-<summary>See all 99 genres</summary>
+<summary>See top 100 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -310,13 +310,16 @@
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | nu metal |
 | 3 | 1 | neon pop punk |
+| 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | emo |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
+| 1 | 1 | talent show |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | modern power pop |
 | 1 | 1 | math rock |
+| 1 | 1 | math pop |
 | 1 | 1 | japanese emo |
 | 1 | 1 | j-rock |
 | 1 | 1 | [j-pop](../../genres/j_pop/overview.md) |
@@ -332,6 +335,7 @@
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | british math rock |
 | 1 | 1 | brighton indie |
+| 1 | 1 | australian pop |
 | 1 | 1 | australian indie |
 | 2 | 0 | stoner rock |
 | 2 | 0 | stoner metal |
@@ -345,6 +349,7 @@
 | 1 | 0 | swedish alternative rock |
 | 1 | 0 | spacegrunge |
 | 1 | 0 | socal pop punk |
+| 1 | 0 | shimmer pop |
 | 1 | 0 | power pop |
 | 1 | 0 | noise pop |
 | 1 | 0 | new rave |
@@ -352,10 +357,6 @@
 | 1 | 0 | lo-fi |
 | 1 | 0 | k-rock |
 | 1 | 0 | elephant 6 |
-| 1 | 0 | dance-punk |
-| 1 | 0 | canadian singer-songwriter |
-| 1 | 0 | baroque pop |
-| 1 | 0 | alternative dance |
 
 </details>
 

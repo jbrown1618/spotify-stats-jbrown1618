@@ -1,13 +1,13 @@
 # BIGHIT MUSIC
 
-52 songs
+54 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- BIGHIT MUSIC (41 tracks)
+- BIGHIT MUSIC (43 tracks)
 - BIGHIT MUSIC / HYBE (11 tracks)
 
 ## Top Artists
@@ -17,27 +17,30 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 35 | 22 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 8 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0484b7280b02a3676b5adfb3" alt="" width="50" /> | 2 | 2 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 2 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebccdd832b52624521f19181d2" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9" alt="" width="50" /> | 1 | 1 | Latto | [🔗](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb75559132f961dcf3ba4f5c7a" alt="" width="50" /> | 1 | 1 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 15 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | 1 | 0 | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 
 </details>
 
 
-![Bar chart of top 12 artists](../../images/labels/bighit_music/artists.png)
+![Bar chart of top 15 artists](../../images/labels/bighit_music/artists.png)
 
 ## Top Albums
 
@@ -56,7 +59,7 @@ Appears as:
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -69,22 +72,24 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | 1 | 1 | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74" alt="" width="50" /> | 1 | 1 | Seven (feat. Latto) | 2023-07-14 | [🔗](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 1 | 1 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | 1 | 1 | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" alt="" width="50" /> | 1 | 1 | 3D (feat. Jack Harlow) | 2023-09-29 | [🔗](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="" width="50" /> | 1 | 0 | Dynamite (Holiday Remix) | 2020-12-11 | [🔗](https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | 1 | 0 | Butter (Holiday Remix) | 2021-12-03 | [🔗](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) |
 
 </details>
 
 
-![Bar chart of top 24 albums](../../images/labels/bighit_music/albums.png)
+![Bar chart of top 26 albums](../../images/labels/bighit_music/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 42 | 29 | [k-pop](../../genres/k_pop/overview.md) |
+| 44 | 31 | [k-pop](../../genres/k_pop/overview.md) |
 | 35 | 22 | [pop](../../genres/pop/overview.md) |
 | 35 | 22 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 13 | 9 | [k-rap](../../genres/k_rap/overview.md) |
@@ -119,49 +124,54 @@ Appears as:
 | | Jacob Richards | 2 | Producer |
 | | Roman | 2 | Songwriter |
 | | August Rigo | 2 | Songwriter |
-| | danke | 1 | Songwriter |
-| | Camilla Anne Stewart | 1 | Songwriter |
+| | Jenna Andrews | 1 | Songwriter |
+| | Arcades | 1 | Producer |
+| | Frants | 1 | Producer |
 | | Charlie J. Perry | 1 | Producer, Songwriter |
 | | Julia Ross | 1 | Songwriter |
-| | Frants | 1 | Producer |
+| | WATT | 1 | Lyricist, Producer, Songwriter |
 | | Krysta Youngs | 1 | Songwriter |
+| | Camilla Anne Stewart | 1 | Songwriter |
 | | Erik Reichers | 1 | Producer |
 | | Hiss noise | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Songwriter |
 | | Hilda Stenmalm | 1 | Songwriter |
 | | Ryan Lawrie | 1 | Songwriter |
-| | Marcus McCoan | 1 | Producer, Songwriter |
-| | Arcades | 1 | Producer |
+| | DJ Swivel | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44c99b9e1082a8273fd7c495" alt="" width="50" /> | SUMIN | 1 | Songwriter |
 | | Lutra | 1 | Songwriter |
+| | Phil Tan | 1 | Producer |
 | | Antonina Armato | 1 | Songwriter |
 | | Clyde Kelly | 1 | Songwriter |
 | | Matt Thomson | 1 | Songwriter |
 | | dae Jung | 1 | Songwriter |
 | | Kass | 1 | Songwriter |
 | | DOCSKIM | 1 | Songwriter |
-| | Tom Wiklund | 1 | Producer, Songwriter |
-| | DJ Swivel | 1 | Producer, Songwriter |
+| | Marcus McCoan | 1 | Producer, Songwriter |
+| | Max Graham | 1 | Songwriter |
+| | Jessica Agombar | 1 | Songwriter |
+| | Alex Bilowitz | 1 | Songwriter |
+| | Sebastian Garcia | 1 | Songwriter |
+| | danke | 1 | Songwriter |
 | | Alex Williams | 1 | Producer |
-| | Neon Boy | 1 | Songwriter |
 | | Candace Sosa | 1 | Songwriter |
 | | David Stewart | 1 | Songwriter |
-| | Jessica Agombar | 1 | Songwriter |
-| | Vince Nantes | 1 | Songwriter |
-| | Jenna Andrews | 1 | Songwriter |
-| | 김도훈 (Kim, Do-hoon) | 1 | Songwriter |
-| | Sebastian Garcia | 1 | Songwriter |
 | | Fallin' Dild | 1 | Songwriter |
+| | Vince Nantes | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9" alt="" width="50" /> | Latto | 1 | Lyricist, Songwriter |
+| | 김도훈 (Kim, Do-hoon) | 1 | Songwriter |
+| | Jon Bellion | 1 | Lyricist, Songwriter |
+| | Neon Boy | 1 | Songwriter |
 | | Liza Owen | 1 | Songwriter |
-| | Max Graham | 1 | Songwriter |
 | | Stephen Kirk | 1 | Songwriter |
-| | Phil Tan | 1 | Producer |
-| | 안복진 (Ahn, Bok-Jin) | 1 | Songwriter |
 | | Jinbo | 1 | Songwriter |
+| | Cirkut | 1 | Lyricist, Producer, Songwriter |
+| | 안복진 (Ahn, Bok-Jin) | 1 | Songwriter |
+| | Tom Wiklund | 1 | Producer, Songwriter |
+| | Theron Thomas | 1 | Lyricist, Songwriter |
 | | Bill Zimmerman | 1 | Producer |
 | | Ron Perry | 1 | Songwriter |
 | | Rob Grimaldi | 1 | Songwriter |
-| | Alex Bilowitz | 1 | Songwriter |
 | | Seu Ran Lee | 1 | Songwriter |
 
 </details>
@@ -224,6 +234,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Like Crazy | FACE | Jimin | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Set Me Free Pt.2 | FACE | Jimin | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74" alt="" width="50" /> | Seven (feat. Latto) (Explicit Ver.) | Seven (feat. Latto) | Jung Kook, Latto | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" alt="" width="50" /> | 3D (feat. Jack Harlow) | 3D (feat. Jack Harlow) | Jung Kook, Jack Harlow | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (English Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/3Fqa3X4hbk54twe1ccbt1l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (Korean Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/5PZA7uiIdIvRMTPftv0LF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](../../artists/j_hope/overview.md), Becky G | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |

@@ -185,16 +185,17 @@
 | 7 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 7 | 1 | [lilith](../../genres/lilith/overview.md) |
+| 7 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 7 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 40 | 0 | west end |
-| 16 | 0 | hollywood |
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 16 | 0 | hollywood |
 | 6 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | neo soul |
 | 1 | 0 | alternative hip hop |
@@ -202,7 +203,7 @@
 </details>
 
 
-![Bar chart of top 13 genres](../../images/playlists/musicals/genres.png)
+![Bar chart of top 14 genres](../../images/playlists/musicals/genres.png)
 
 ## Top Producers
 

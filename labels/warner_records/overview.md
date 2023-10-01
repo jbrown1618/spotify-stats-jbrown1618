@@ -45,7 +45,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eed54e1eb0fed222434d867" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e1f90bdff70c339838dcf90" alt="" width="50" /> | 1 | 1 | Wale | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf91c2e559a5a8233d3b35fb1" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8b52805fca55fa5d09e1687b" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -129,7 +129,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aeeb722667c831a4f5429ff0" alt="" width="50" /> | 1 | 0 | Build a Bitch | 2021-05-14 | [🔗](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 
 </details>
 
@@ -140,7 +140,6 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 15 | [k-pop](../../genres/k_pop/overview.md) |
 | 24 | 14 | [pop](../../genres/pop/overview.md) |
 | 24 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 13 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
@@ -150,6 +149,7 @@ Appears as:
 | 13 | 8 | bergen indie |
 | 11 | 6 | [uk pop](../../genres/uk_pop/overview.md) |
 | 11 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 
 
 <details>
@@ -157,8 +157,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
+| 6 | 4 | [k-pop](../../genres/k_pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
@@ -178,7 +178,6 @@ Appears as:
 | 2 | 1 | stoner rock |
 | 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 2 | 1 | [rap](../../genres/rap/overview.md) |
-| 2 | 1 | pop rap |
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -193,6 +192,7 @@ Appears as:
 | 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
 | 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
+| 1 | 0 | pop rap |
 | 1 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | modern alternative pop |
 | 1 | 0 | hollywood |
@@ -333,7 +333,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273aeeb722667c831a4f5429ff0" alt="" width="50" /> | Build a Bitch | Build a Bitch | Bella Poarch | [Warner Records](.) | | [🔗](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="" width="50" /> | Iron Man | The Ultimate Collection | Black Sabbath | [Rhino](../rhino), [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361c83e0a3e42be611729c840" alt="" width="50" /> | Believe | Believe | Cher | [Warner Records](.) | | [🔗](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | Believe | Believe | Cher | [Warner Records](.) | | [🔗](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | Smoke on the Water | Machine Head | Deep Purple | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) |
 
 

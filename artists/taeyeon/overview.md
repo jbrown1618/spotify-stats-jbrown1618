@@ -19,17 +19,17 @@ TAEYEON:
 TAEYEON is currently:
 - The #9 artist of all time
 - The #9 artist of the last 6 months
-- The #14 artist of the last month
+- The #16 artist of the last month
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
-- I Got Love is:
-    - the #8 track of the last 6 months
 - Can't Control Myself is:
-    - the #14 track of the last 6 months
+    - the #13 track of the last 6 months
+- I Got Love is:
+    - the #15 track of the last 6 months
 - Toddler is:
-    - the #34 track of the last 6 months
+    - the #33 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

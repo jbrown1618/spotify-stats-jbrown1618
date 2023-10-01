@@ -11,8 +11,8 @@
 ## Artist Rank
 Sara Bareilles is currently:
 - The #26 artist of all time
-- The #27 artist of the last 6 months
-- The #4 artist of the last month
+- The #24 artist of the last 6 months
+- The #6 artist of the last month
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
@@ -20,9 +20,9 @@ Sara Bareilles is currently:
 - Many the Miles is:
     - the #4 track of the last month
 - Hercules is:
-    - the #35 track of the last month
+    - the #38 track of the last month
 - Poetry by Dead Men is:
-    - the #42 track of the last month
+    - the #44 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -86,6 +86,7 @@ Sara Bareilles is currently:
 ## Genres
 
 - [acoustic pop](../../genres/acoustic_pop/overview.md)
+- [ectofolk](../../genres/ectofolk/overview.md)
 - [lilith](../../genres/lilith/overview.md)
 - [neo mellow](../../genres/neo_mellow/overview.md)
 - [pop rock](../../genres/pop_rock/overview.md)

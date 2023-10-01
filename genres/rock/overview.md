@@ -238,7 +238,7 @@
 | 1 | 1 | CAPITOL CATALOG MKT (C92) |
 | 4 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 3 | 0 | [Island Records](../../labels/island_records/overview.md) |
+| 3 | 0 | Island Records |
 | 3 | 0 | EMI |
 | 2 | 0 | RCA Victor |
 | 2 | 0 | Legacy Recordings |

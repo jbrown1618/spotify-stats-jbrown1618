@@ -177,11 +177,10 @@
 
 
 <details>
-<summary>See all 47 labels</summary>
+<summary>See all 48 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 2 | 1 | Def Jam |
 | 1 | 1 | 코어콘텐츠미디어 |
 | 1 | 1 | 케이엠컬쳐 |
@@ -198,6 +197,7 @@
 | 1 | 1 | Not specified |
 | 1 | 1 | Music Recipe |
 | 1 | 1 | J Records |
+| 1 | 1 | Island Records |
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | CRAFT AND JUN |
@@ -217,6 +217,7 @@
 | 1 | 0 | DJ Snake Music Productions Limited |
 | 1 | 0 | Chris Brown Entertainment |
 | 1 | 0 | Back Lot Music |
+| 1 | 0 | Avant Garden PS |
 | 1 | 0 | 300 Entertainment |
 
 </details>
@@ -228,7 +229,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 18 | 11 | [pop](../../genres/pop/overview.md) |
+| 17 | 10 | [pop](../../genres/pop/overview.md) |
 | 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -241,7 +242,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 53 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -255,6 +256,7 @@
 | 1 | 1 | neo soul |
 | 1 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 1 | modern alternative rock |
+| 1 | 1 | latin viral pop |
 | 1 | 1 | korean city pop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
@@ -277,6 +279,7 @@
 | 1 | 0 | strut |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | rap latina |
+| 1 | 0 | pop r&b |
 | 1 | 0 | metropopolis |
 | 1 | 0 | meme |
 | 1 | 0 | melodic rap |

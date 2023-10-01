@@ -86,7 +86,7 @@
 | 43 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | [Epic](../../labels/epic/overview.md) |
 | 2 | 2 | Artist Partner |
-| 3 | 1 | [Island Records](../../labels/island_records/overview.md) |
+| 3 | 1 | Island Records |
 | 1 | 1 | [Syco Music](../../labels/syco_music/overview.md) |
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Silent Records |

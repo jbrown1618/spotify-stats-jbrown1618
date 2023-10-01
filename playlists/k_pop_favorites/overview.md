@@ -323,7 +323,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 216 | 216 | [k-pop](../../genres/k_pop/overview.md) |
+| 201 | 201 | [k-pop](../../genres/k_pop/overview.md) |
 | 109 | 109 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 59 | 59 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 39 | 39 | [pop](../../genres/pop/overview.md) |

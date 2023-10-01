@@ -113,19 +113,20 @@ Appears as:
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 39 | [lilith](../../genres/lilith/overview.md) |
+| 60 | 39 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 15 | 11 | [pop](../../genres/pop/overview.md) |
 | 11 | 7 | [r&b](../../genres/r_b/overview.md) |
 | 9 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 5 | [soul](../../genres/soul/overview.md) |
-| 3 | 2 | latin pop |
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 3 | 2 | latin pop |
 | 3 | 2 | colombian pop |
 | 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | celtic rock |

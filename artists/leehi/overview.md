@@ -11,21 +11,21 @@
 ## Artist Rank
 LeeHi is currently:
 - The #14 artist of all time
-- The #24 artist of the last 6 months
-- The #20 artist of the last month
+- The #27 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of LeeHi over time](../../images/artists/leehi/rank_time_series.png)
 ## Top Tracks
 
 - HOLO is:
-    - the #27 track of the last 6 months
+    - the #29 track of the last 6 months
     - the #15 track of all time
 - ONLY is:
-    - the #25 track of the last 6 months
+    - the #26 track of the last 6 months
 - Bittersweet (feat. LeeHi) is:
     - the #10 track of the last month
 - For You is:
-    - the #23 track of the last month
+    - the #24 track of the last month
 
 ### Top tracks of all time over time
 

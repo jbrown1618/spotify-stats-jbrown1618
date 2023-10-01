@@ -1538,6 +1538,7 @@ tag,artist_mbid,mb_tag
 ,0d79fe8e-ba27-4859-bb8c-2f255f346853,english
 ,0fe5df51-ba65-4784-ba85-7d024a107a8a,english
 ,12327d75-47d5-45d9-84c2-3760b9210c17,english
+,134cb0bc-06fa-42f7-8078-b0c858349975,english
 ,164f0d73-1234-4e2c-8743-d77bf2191051,english
 ,1b3e92d4-1c68-412d-a92d-1172f24f7de3,english
 ,1ba5e790-ab00-4acc-9083-e3bdc47b2f0b,english
@@ -2085,6 +2086,7 @@ tag,artist_mbid,mb_tag
 ,1036b808-f58c-4a3e-b461-a2c4492ecf1b,hip hop
 ,10a9ff92-9637-4498-afea-7044b2ab0dc0,hip hop
 ,1138a764-2212-4d0a-b02d-0dc14df91e08,hip hop
+,134cb0bc-06fa-42f7-8078-b0c858349975,hip hop
 ,14102906-da3c-469c-96b0-3e9ca2bf48de,hip hop
 ,149f91ef-1287-46da-9a8e-87fee02f1471,hip hop
 ,164f0d73-1234-4e2c-8743-d77bf2191051,hip hop
@@ -2106,6 +2108,7 @@ tag,artist_mbid,mb_tag
 ,2f3c4d70-0462-40da-bba3-0aec5772c556,hip hop
 ,2f522f5c-111c-4ce8-8bd0-d82e97c227ad,hip hop
 ,30aeb57f-bb16-47fa-86ca-79fc57b4d12c,hip hop
+,355cc194-b8db-4af2-8678-c7ad54213f4b,hip hop
 ,35a431eb-347f-4963-8ec6-534e124e3e65,hip hop
 ,378cf601-bda2-4cb2-b57f-bd547614a3df,hip hop
 ,381086ea-f511-4aba-bdf9-71c753dc5077,hip hop
@@ -3293,6 +3296,7 @@ tag,artist_mbid,mb_tag
 ,1c46e82f-4764-4d82-a33b-5d5aee5e2881,pop rap
 ,2e80ba15-ec0f-4bd4-b263-7e0671f38255,pop rap
 ,3414d446-735a-443c-931f-10634f57e5b9,pop rap
+,355cc194-b8db-4af2-8678-c7ad54213f4b,pop rap
 ,381086ea-f511-4aba-bdf9-71c753dc5077,pop rap
 ,3a052c99-8c18-484a-8beb-9873b4fb3106,pop rap
 ,3dda8202-ce15-4031-862a-77bc6759d15e,pop rap
@@ -3699,6 +3703,7 @@ tag,artist_mbid,mb_tag
 ,097e3f11-6ddd-4d0a-8e10-15207b49a043,rap
 ,0fe5df51-ba65-4784-ba85-7d024a107a8a,rap
 ,1036b808-f58c-4a3e-b461-a2c4492ecf1b,rap
+,134cb0bc-06fa-42f7-8078-b0c858349975,rap
 ,164f0d73-1234-4e2c-8743-d77bf2191051,rap
 ,166cb987-3156-4166-b0d3-f1ad5a6c514c,rap
 ,29eead4d-3793-4625-8727-c03edbb38b8b,rap
@@ -4753,6 +4758,7 @@ tag,artist_mbid,mb_tag
 ,fb588f59-af1a-493a-9508-ed487caa2a11,south korea
 ,99689c05-4f6d-4bff-9b00-06731277fe42,south korean
 ,2e80ba15-ec0f-4bd4-b263-7e0671f38255,southern hip hop
+,355cc194-b8db-4af2-8678-c7ad54213f4b,southern hip hop
 ,87ae83df-6173-40cc-a0f2-bad543faa6aa,southern hip hop
 ,94c338ff-1985-4429-9dc8-997b61bb5932,southern hip hop
 ,c45d161f-83ce-4464-ba41-44202e6916d9,southern hip hop
@@ -4943,6 +4949,7 @@ tag,artist_mbid,mb_tag
 ,0fe5df51-ba65-4784-ba85-7d024a107a8a,trap
 ,1c46e82f-4764-4d82-a33b-5d5aee5e2881,trap
 ,2f3c4d70-0462-40da-bba3-0aec5772c556,trap
+,355cc194-b8db-4af2-8678-c7ad54213f4b,trap
 ,3a052c99-8c18-484a-8beb-9873b4fb3106,trap
 ,3dda8202-ce15-4031-862a-77bc6759d15e,trap
 ,59eda569-b380-4958-b98c-051d1667b3e1,trap

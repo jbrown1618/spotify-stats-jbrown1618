@@ -1,6 +1,6 @@
 # modern rock
 
-[67 songs](tracks.md)
+[70 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -15,18 +15,19 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 3 | 3 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | 4 | 2 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 3 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 3 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 
 
 <details>
-<summary>See all 26 artists</summary>
+<summary>See all 27 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
@@ -47,7 +48,7 @@
 </details>
 
 
-![Bar chart of top 26 artists](../../images/genres/modern_rock/artists.png)
+![Bar chart of top 27 artists](../../images/genres/modern_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/modern_rock/artists_comparison.png)
 ## Top Albums
@@ -67,10 +68,11 @@
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 46 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | 1 | 1 | Young The Giant (Special Edition) | 2011 | [🔗](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) |
@@ -78,6 +80,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="" width="50" /> | 1 | 1 | Strange Trails | 2015-04-07 | [🔗](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 1 | 1 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | 1 | 1 | I Love You. | 2013-04-19 | [🔗](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="" width="50" /> | 1 | 1 | How To Be A Human Being | 2016-08-26 | [🔗](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) |
@@ -118,13 +121,13 @@
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 7 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
+| 5 | 4 | Fueled By Ramen |
 | 3 | 3 | Kid Ina Korner |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
 | 3 | 3 | Canvasback |
 | 3 | 3 | ATL |
 | 7 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 4 | 2 | Glassnote Entertainment Group LLC |
-| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 
 
 <details>
@@ -132,7 +135,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 2 | Fueled By Ramen |
+| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Wolf Tone |
 | 1 | 1 | Roadrunner Records |
@@ -141,7 +144,7 @@
 | 1 | 1 | Elektra (NEK) |
 | 1 | 1 | Cult Records |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 3 | 0 | [Island Records](../../labels/island_records/overview.md) |
+| 3 | 0 | Island Records |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | Sub Pop Records |
 | 1 | 0 | Parlophone UK |
@@ -186,85 +189,85 @@
 | | Sally Herbert | 3 | Arranger |
 | | Gwil Sainsbury | 3 | Songwriter |
 | | Mark "Spike" Stent | 3 | Producer |
-| | Winston Marshall | 2 | Songwriter |
-| | Bullion | 2 | Producer |
-| | Tommaso Colliva | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Ben Lovett | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
 | | Kid Harpoon | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87ac264d392a72af95ca9fdb" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
 | | Alex da Kid | 2 | Producer, Songwriter |
 | | Adrian Bushby | 2 | Producer |
+| | Justin Meldal-Johnsen | 2 | Producer |
 | | Benjamin Gibbard | 2 | Lyricist, Songwriter |
 | | Beau Sorenson | 2 | Producer |
 | | Ted Dwane | 2 | Songwriter |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
 | | Chris Walla | 2 | Producer |
+| | Winston Marshall | 2 | Songwriter |
 | | Manny Marroquin | 2 | Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
-| | Ben Lovett | 2 | Songwriter |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Tommaso Colliva | 2 | Producer |
 | | Rob Kirwan | 2 | Producer |
 | | Josh Mosser | 2 | Producer, Songwriter |
+| | Hayley Williams | 2 | Songwriter |
 | | Marcus Mumford | 2 | Songwriter |
-| | Tom Elmhirst | 2 | Producer |
 | | Neal Avron | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Tom Elmhirst | 2 | Producer |
+| | Bullion | 2 | Producer |
 | | Ruadhri Cushnan | 2 | Producer |
 | | Ricky Reed | 2 | Producer, Songwriter |
-| | Jack Antonoff | 1 | Producer, Songwriter |
+| | Nikolai Fraiture | 1 | Songwriter |
 | | Jim Adkins | 1 | Songwriter |
 | | Rick Rubin | 1 | Producer |
-| | Nikolai Fraiture | 1 | Songwriter |
-| | Steve Mackey | 1 | Producer |
-| | Adam Hawkins | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| | Rush | 1 | Songwriter |
-| | Fabrizio Moretti | 1 | Songwriter |
-| | Charlie Hugall | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Producer |
+| | Jack Antonoff | 1 | Producer, Songwriter |
+| | Adam Hawkins | 1 | Producer |
+| | Steve Mackey | 1 | Producer |
+| | Fabrizio Moretti | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Charlie Hugall | 1 | Producer |
+| | Rush | 1 | Songwriter |
 | | Nick Valensi | 1 | Songwriter |
-| | Billy Bush | 1 | Producer |
 | | Mattias Larsson | 1 | Songwriter |
-| | Tom Moth | 1 | Arranger |
+| | Jason Lader | 1 | Producer |
 | | Josh Diamond | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
 | | Andrew Scheps | 1 | Producer |
 | | Zachary Abels | 1 | Songwriter |
 | | Will Owen | 1 | Arranger |
+| | Taylor York | 1 | Producer, Songwriter |
 | | Joe Viers | 1 | Producer |
 | | Claudius Mittendorfer | 1 | Producer |
 | | Ben Tolliday | 1 | Producer |
+| | Tom Moth | 1 | Arranger |
 | | Brian Degraw | 1 | Songwriter |
-| | Jason Lader | 1 | Producer |
 | | Francis White | 1 | Lyricist, Songwriter |
 | | Rich Costey | 1 | Producer |
 | | Daniel Platzman | 1 | Songwriter |
 | | Mat Bartram | 1 | Producer |
-| | Ben Baptie | 1 | Producer |
-| | Mattman & Robin | 1 | Producer |
+| | John Cornfield | 1 | Producer |
+| | Billy Bush | 1 | Producer |
 | | Ali Helnwein | 1 | Arranger |
 | | Gordon Raphael | 1 | Producer |
-| | John Cornfield | 1 | Producer |
+| | Ben Baptie | 1 | Producer |
 | | Zach Lind | 1 | Songwriter |
-| | Tyler Glenn | 1 | Songwriter |
-| | François Chevallier (Chevallier, François) | 1 | Producer |
+| | Mattman & Robin | 1 | Producer |
+| | Toshikazu Yoshioka | 1 | Producer |
+| | Josh Farro | 1 | Songwriter |
 | | Mike Elizondo | 1 | Producer |
-| | Justin Meldal-Johnsen | 1 | Producer |
 | | Ben Schneider | 1 | Lyricist, Producer, Songwriter |
 | | Pete Prokopiw | 1 | Producer |
 | | Matt Allchin | 1 | Songwriter |
 | | Pete Min | 1 | Producer |
 | | Rick Parker | 1 | Producer |
 | | Dave Bayley | 1 | Songwriter |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
 | | Chris Lord-Alge | 1 | Producer |
-| | Toshikazu Yoshioka | 1 | Producer |
+| | David Bendeth | 1 | Producer |
 | | Jeremy Freedman | 1 | Songwriter |
 | | Mark Barry | 1 | Producer |
 | | Anthony B. Stephens | 1 | Songwriter |
 | | Rick Burch | 1 | Songwriter |
 | | Ric Peet | 1 | Producer |
 | | Robin Fredriksson | 1 | Songwriter |
-| | Nick Harmer | 1 | Songwriter |
-| | Justyn Pilbrow | 1 | Producer |
-| | John Leckie | 1 | Producer |
 
 </details>
 

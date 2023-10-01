@@ -16,7 +16,7 @@ Simon & Garfunkel:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b27361c83e0a3e42be611729c840ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 5 | [Classic Pop](../../playlists/classic_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27306ce0d1f846c525e847d60e7ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 5 | [Classic Pop](../../playlists/classic_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |

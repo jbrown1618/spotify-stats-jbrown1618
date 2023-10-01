@@ -353,7 +353,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 130 | 97 | [k-pop](../../genres/k_pop/overview.md) |
+| 123 | 92 | [k-pop](../../genres/k_pop/overview.md) |
 | 46 | 35 | [pop](../../genres/pop/overview.md) |
 | 41 | 29 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 27 | 19 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
@@ -361,22 +361,23 @@
 | 17 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 5 | 5 | [k-rap](../../genres/k_rap/overview.md) |
 | 5 | 5 | [anime](../../genres/anime/overview.md) |
+| 4 | 4 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 4 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 4 | 4 | korean ost |
 
 
 <details>
-<summary>See all 62 genres</summary>
+<summary>See all 64 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 4 | 4 | korean ost |
 | 4 | 4 | [electropop](../../genres/electropop/overview.md) |
 | 4 | 4 | [art pop](../../genres/art_pop/overview.md) |
-| 3 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 3 | pop soul |
 | 3 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 3 | neo soul |
 | 3 | 3 | [lilith](../../genres/lilith/overview.md) |
+| 3 | 3 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | korean city pop |
@@ -390,6 +391,7 @@
 | 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 1 | uk contemporary r&b |
 | 1 | 1 | thai indie pop |
+| 1 | 1 | teen pop |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | singer-songwriter pop |

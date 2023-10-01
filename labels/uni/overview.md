@@ -40,9 +40,10 @@ Appears as:
 | 10 | 6 | [soul](../../genres/soul/overview.md) |
 | 10 | 6 | motown |
 | 2 | 1 | memphis soul |
+| 1 | 1 | southern soul |
 | 1 | 1 | classic soul |
 
-![Bar chart of top 4 genres](../../images/labels/uni/genres.png)
+![Bar chart of top 5 genres](../../images/labels/uni/genres.png)
 
 ## Top Producers
 

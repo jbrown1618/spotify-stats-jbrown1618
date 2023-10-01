@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | セブンティーン | セブンティーン | [YOASOBI](../../../../artists/yoasobi/overview.md) | YOASOBI | 💚 | [🔗](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) |
 ## Cluster #3
 
-16 tracks
+15 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -44,9 +44,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a09d99cdbfdb0fafee0c2318" alt="" width="50" /> | 刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲 | 刻在我心底的名字 (Your Name Engraved Herein) | Crowd Lu | Team Ear Music | | [🔗](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 就是愛妳 | 太平盛世 | David Tao | Gold Typhoon Taiwan | | [🔗](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b6057e116a54d99708f77ae" alt="" width="50" /> | 永不失聯的愛 | 如果雨之後 | Eric Chou | Sony Music Entertainment | | [🔗](https://open.spotify.com/track/46fURCnWErjFdNM2yBJ2c8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | Tetap Dalam Jiwa | EXPLORE! | Isyana Sarasvati | Sony Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven | Heaven | Isyana Sarasvati, Afgan, Rendy Pandugo | Sony Music Entertainment Indonesia/Trinity Optima Production | | [🔗](https://open.spotify.com/track/3gBFAvpAVSNohs3ESRMYHi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | Melawan Restu | fábula | Mahalini | Hits records | 💚 | [🔗](https://open.spotify.com/track/3PP6leq3XCLDzi32Fb35Nw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 醒不来的梦 | 醒不来的梦 | 拾贰 | 一寸光年 | 💚 | [🔗](https://open.spotify.com/track/5EGJ1vMllT1cYXbpymPdyf) |

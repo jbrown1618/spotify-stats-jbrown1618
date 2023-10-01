@@ -91,12 +91,12 @@ Appears as:
 | 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 2 | indie pop |
 | 5 | 1 | [lounge](../../genres/lounge/overview.md) |
+| 5 | 1 | easy listening |
 | 5 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 1 | vocal jazz |
 | 3 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 2 | 1 | indie poptimism |
 | 2 | 1 | etherpop |
-| 2 | 1 | [electropop](../../genres/electropop/overview.md) |
 
 
 <details>
@@ -104,10 +104,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | swing |
 | 1 | 1 | [soul](../../genres/soul/overview.md) |
 | 1 | 1 | boy band |
-| 4 | 0 | easy listening |
 | 2 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 0 | folk rock |

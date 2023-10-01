@@ -85,7 +85,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 1 | Columbia Nashville Legacy |
-| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
+| 1 | 1 | Island Records |
 | 1 | 1 | Arista |
 | 1 | 1 | American Recordings Catalog P&D |
 | 1 | 0 | Nonesuch |
@@ -106,17 +106,18 @@
 | 7 | 4 | country road |
 | 6 | 4 | stomp and holler |
 | 6 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 4 | 3 | [pop](../../genres/pop/overview.md) |
 | 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | classic oklahoma country |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 5 | 2 | folk-pop |
 
 
 <details>
-<summary>See all 23 genres</summary>
+<summary>See all 24 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 5 | 2 | folk-pop |
 | 4 | 2 | uk americana |
 | 4 | 2 | [rock](../../genres/rock/overview.md) |
 | 4 | 2 | outlaw country |
@@ -134,7 +135,7 @@
 </details>
 
 
-![Bar chart of top 23 genres](../../images/playlists/country_folk/genres.png)
+![Bar chart of top 24 genres](../../images/playlists/country_folk/genres.png)
 
 ## Top Producers
 
