@@ -22,12 +22,14 @@ TREASURE:
 
 ## Artist Rank
 TREASURE is currently:
-- The #48 artist of all time
-- The #38 artist of the last 6 months
+- The #49 artist of all time
+- The #40 artist of the last 6 months
 
 ![Rank of TREASURE over time](../../images/artists/treasure/rank_time_series.png)
 ## Top Tracks
 
+- BONA BONA is:
+    - the #41 track of the last month
 
 ### Top tracks of the last 6 months over time
 

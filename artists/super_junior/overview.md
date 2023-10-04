@@ -23,7 +23,7 @@ SUPER JUNIOR:
 
 ## Artist Rank
 SUPER JUNIOR is currently:
-- The #46 artist of all time
+- The #47 artist of all time
 
 ![Rank of SUPER JUNIOR over time](../../images/artists/super_junior/rank_time_series.png)
 ## Top Tracks

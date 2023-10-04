@@ -20,7 +20,7 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #5 artist of all time
 - The #10 artist of the last 6 months
-- The #10 artist of the last month
+- The #15 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -28,7 +28,7 @@ BLACKPINK is currently:
 - Pretty Savage is:
     - the #2 track of all time
 - How You Like That is:
-    - the #4 track of all time
+    - the #5 track of all time
 - Crazy Over You is:
     - the #7 track of all time
 - Kill This Love is:
@@ -38,9 +38,7 @@ BLACKPINK is currently:
 - BOOMBAYAH is:
     - the #50 track of all time
 - Pink Venom is:
-    - the #10 track of the last 6 months
-- Sour Candy (with BLACKPINK) is:
-    - the #36 track of the last month
+    - the #9 track of the last 6 months
 
 ### Top tracks of all time over time
 

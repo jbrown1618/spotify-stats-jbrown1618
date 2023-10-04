@@ -20,7 +20,7 @@ MAMAMOO:
 ## Artist Rank
 MAMAMOO is currently:
 - The #13 artist of all time
-- The #20 artist of the last 6 months
+- The #21 artist of the last 6 months
 
 ![Rank of MAMAMOO over time](../../images/artists/mamamoo/rank_time_series.png)
 ## Top Tracks
@@ -29,8 +29,6 @@ MAMAMOO is currently:
     - the #1 track of all time
 - Egotistic is:
     - the #33 track of all time
-- Piano Man is:
-    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

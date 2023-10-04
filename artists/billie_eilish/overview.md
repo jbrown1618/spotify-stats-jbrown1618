@@ -16,7 +16,7 @@ Billie Eilish is currently:
 ## Top Tracks
 
 - GOLDWING is:
-    - the #23 track of the last month
+    - the #40 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

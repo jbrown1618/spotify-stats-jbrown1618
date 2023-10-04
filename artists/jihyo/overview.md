@@ -10,12 +10,16 @@ JIHYO:
 - is a member of [TWICE](../twice/overview.md)
 
 ## Artist Rank
+JIHYO is currently:
+- The #46 artist of the last 6 months
 
 ![Rank of JIHYO over time](../../images/artists/jihyo/rank_time_series.png)
 ## Top Tracks
 
+- Killin’ Me Good is:
+    - the #27 track of the last month
 - Closer is:
-    - the #28 track of the last month
+    - the #46 track of the last month
 
 ### Top tracks of the last month over time
 

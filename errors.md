@@ -295,8 +295,8 @@
 | String Quartet in G Major, Op. 76, No. 1: I. Allegro con spirito | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
 | String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
 | String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
-| CHERRY | IT'z ICY | ITZY | 0 | 0 | 71 |
-| ICY | IT'z ICY | ITZY | 0 | 0 | 71 |
+| CHERRY | IT'z ICY | ITZY | 0 | 0 | 72 |
+| ICY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
 | React | React | The Pussycat Dolls | 0 | 0 | 68 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
@@ -307,7 +307,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 1 | 53 |
 | A Case of You | Blue | Joni Mitchell | 0 | 1 | 53 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 53 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 2 | 53 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 1 | 53 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
@@ -361,8 +361,8 @@
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 1 | 0 | 80 |
-| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 1 | 0 | 63 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 80 |
+| Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
 | Starry Night | Yellow Flower | MAMAMOO | 1 | 0 | 62 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 1 | 62 |
@@ -374,12 +374,12 @@
 | Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 52 |
 | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 52 |
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 52 |
-| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
-| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
-| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 26 |
+| The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
+| A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
+| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
 | I Will Follow You Into the Dark | M | Vanderbilt Melodores | 0 | 0 | 26 |
 | Bang Bang | M | Vanderbilt Melodores | 0 | 0 | 26 |
 | Take Me To Church | M | Vanderbilt Melodores | 0 | 0 | 26 |
@@ -397,14 +397,14 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
 | ABC | ABC | The Jackson 5 | 2 | 0 | 65 |
-| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 32 |
+| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 33 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
-| Think About Things | Think About Things | Daði Freyr | 2 | 1 | 52 |
+| Think About Things | Think About Things | Daði Freyr | 2 | 0 | 52 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 83 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 83 |
@@ -427,7 +427,7 @@
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 33 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 53 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 73 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
@@ -447,8 +447,6 @@
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 66 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
-| 3D (feat. Jack Harlow) | 3D (feat. Jack Harlow) | Jack Harlow | 0 | 0 | 77 |
-| 3D (feat. Jack Harlow) | 3D (feat. Jack Harlow) | Jung Kook | 0 | 0 | 86 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 1 | 2 | 54 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |

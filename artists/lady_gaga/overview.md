@@ -13,8 +13,6 @@
 ![Rank of Lady Gaga over time](../../images/artists/lady_gaga/rank_time_series.png)
 ## Top Tracks
 
-- Sour Candy (with BLACKPINK) is:
-    - the #36 track of the last month
 
 ### Top tracks of the last month over time
 

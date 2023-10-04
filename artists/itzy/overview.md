@@ -21,18 +21,20 @@ ITZY:
 ITZY is currently:
 - The #4 artist of all time
 - The #7 artist of the last 6 months
-- The #7 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #17 track of the last 6 months
-    - the #30 track of all time
+    - the #16 track of the last 6 months
+    - the #29 track of all time
 - Cheshire is:
-    - the #48 track of the last 6 months
+    - the #49 track of the last 6 months
 - Be In Love is:
-    - the #5 track of the last month
+    - the #8 track of the last month
+- Bratty is:
+    - the #37 track of the last month
 
 ### Top tracks of all time over time
 

@@ -20,17 +20,17 @@ aespa:
 aespa is currently:
 - The #10 artist of all time
 - The #2 artist of the last 6 months
-- The #2 artist of the last month
+- The #1 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
 
 - Savage is:
-    - the #7 track of the last 6 months
+    - the #6 track of the last 6 months
     - the #3 track of all time
 - Next Level is:
-    - the #36 track of the last 6 months
-    - the #5 track of all time
+    - the #34 track of the last 6 months
+    - the #4 track of all time
 - Black Mamba is:
     - the #20 track of all time
 - Welcome To MY World (feat. nævis) is:
@@ -40,15 +40,17 @@ aespa is currently:
 - Hold On Tight is:
     - the #4 track of the last 6 months
 - Thirsty is:
-    - the #8 track of the last 6 months
+    - the #7 track of the last 6 months
 - Salty & Sweet is:
-    - the #18 track of the last 6 months
+    - the #17 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #23 track of the last 6 months
+    - the #22 track of the last 6 months
 - Illusion is:
     - the #24 track of the last 6 months
 - I'll Make You Cry is:
-    - the #47 track of the last 6 months
+    - the #40 track of the last 6 months
+- 'Til We Meet Again is:
+    - the #20 track of the last month
 
 ### Top tracks of all time over time
 
