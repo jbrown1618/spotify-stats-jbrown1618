@@ -123,13 +123,14 @@ Appears as:
 
 
 <details>
-<summary>See all 32 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 3 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 1 | uk alternative pop |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
+| 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | disco |
 | 1 | 1 | british soul |
 | 1 | 1 | baroque pop |

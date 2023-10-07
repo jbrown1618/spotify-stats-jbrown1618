@@ -25,7 +25,7 @@ GOT the beat is currently:
 ## Top Tracks
 
 - Stamp On It is:
-    - the #5 track of the last 6 months
+    - the #7 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

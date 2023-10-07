@@ -4,19 +4,21 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
+| Tell Me [🔗](https://open.spotify.com/track/5CA3D0Tch1x4sky45aOcEq) | 53 | 2023-09-22 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning [🔗](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 69 | | WM Korea | |
+| Tell Me [🔗](https://open.spotify.com/track/7i8Jxfd0Sx98271iuNYSQp) | 8 | 2022-11-18 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | THE FIFTY [🔗](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 10 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | ATTRAKT | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 72 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 64 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 81 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 78 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 85 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 94 | | Top Dawg Entertainment/RCA Records | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 70 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 62 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
-| 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 69 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 67 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
+| 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 70 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 67 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 52 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 47 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 94 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | |
@@ -26,12 +28,12 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 25 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 26 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 26 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 26 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 29 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 29 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 29 |
@@ -45,7 +47,7 @@
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
@@ -108,7 +110,7 @@
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
-| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 63 |
+| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 64 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 1 | 0 | 66 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 64 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
@@ -281,7 +283,7 @@
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 84 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 59 |
-| PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
+| PLAY | PLAY | CHANGMO | 0 | 0 | 56 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
 | String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 54 |
@@ -299,6 +301,17 @@
 | ICY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
 | React | React | The Pussycat Dolls | 0 | 0 | 68 |
+| Je Ne Sais Quoi | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
+| Yacht | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
+| Love is a beauty | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
+| Misty | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
+| Fact Check | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
+| Real Life | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
+| Flip It | HEAT | (G)I-DLE | 0 | 0 | 75 |
+| I Want That | HEAT | (G)I-DLE | 0 | 0 | 75 |
+| Tall Trees | HEAT | (G)I-DLE | 0 | 0 | 75 |
+| I DO | HEAT | (G)I-DLE | 0 | 0 | 75 |
+| Eyes Roll | HEAT | (G)I-DLE | 0 | 0 | 75 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
@@ -364,8 +377,9 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 80 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
-| Starry Night | Yellow Flower | MAMAMOO | 1 | 0 | 62 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 1 | 62 |
+| You & Me (Coachella ver.) | JENNIE Special Single [You & Me] | JENNIE | 0 | 0 | 68 |
+| You & Me | JENNIE Special Single [You & Me] | JENNIE | 0 | 0 | 68 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
@@ -376,19 +390,20 @@
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 52 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
-| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
+| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
-| I Will Follow You Into the Dark | M | Vanderbilt Melodores | 0 | 0 | 26 |
-| Bang Bang | M | Vanderbilt Melodores | 0 | 0 | 26 |
-| Take Me To Church | M | Vanderbilt Melodores | 0 | 0 | 26 |
-| Stay With Me | M | Vanderbilt Melodores | 0 | 0 | 26 |
-| Uptown Funk | M | Vanderbilt Melodores | 0 | 0 | 26 |
-| Colder Weather | M | Vanderbilt Melodores | 0 | 0 | 26 |
-| Attention | The Reading Room Sessions (Fall 2017) | Vanderbilt Melodores | 0 | 0 | 26 |
-| Cough Syrup | Encore | Vanderbilt Melodores | 0 | 0 | 26 |
+| I Will Follow You Into the Dark | M | Vanderbilt Melodores | 0 | 0 | 25 |
+| Bang Bang | M | Vanderbilt Melodores | 0 | 0 | 25 |
+| Take Me To Church | M | Vanderbilt Melodores | 0 | 0 | 25 |
+| Stay With Me | M | Vanderbilt Melodores | 0 | 0 | 25 |
+| Uptown Funk | M | Vanderbilt Melodores | 0 | 0 | 25 |
+| Colder Weather | M | Vanderbilt Melodores | 0 | 0 | 25 |
+| Attention | The Reading Room Sessions (Fall 2017) | Vanderbilt Melodores | 0 | 0 | 25 |
+| Cough Syrup | Encore | Vanderbilt Melodores | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 78 |
+| ZOOM ZOOM | ZOOM ZOOM | aespa | 0 | 0 | 74 |
 | Wings | Wings | PIXY | 0 | 0 | 39 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -396,16 +411,15 @@
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
-| ABC | ABC | The Jackson 5 | 2 | 0 | 65 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 33 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
-| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
-| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
-| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 31 |
+| Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
+| Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 32 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
-| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
-| Think About Things | Think About Things | Daði Freyr | 2 | 0 | 52 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
+| Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 53 |
+| Think About Things | Think About Things | Daði Freyr | 2 | 0 | 53 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 53 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 83 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 83 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 83 |
@@ -430,7 +444,7 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 71 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 50 |
@@ -438,15 +452,15 @@
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 46 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 1 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 1 | 0 | 75 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 63 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 70 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 49 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 66 |
-| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 66 |
+| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 67 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 1 | 2 | 54 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |

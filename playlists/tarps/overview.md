@@ -255,6 +255,7 @@
 | 3 | 2 | atl hip hop |
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | motown |
+| 2 | 2 | [electropop](../../genres/electropop/overview.md) |
 | 2 | 2 | country road |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
@@ -288,7 +289,6 @@
 | 1 | 1 | latin pop |
 | 1 | 1 | lafayette indie |
 | 1 | 1 | instrumental bluegrass |
-| 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
 | 1 | 1 | classic soul |

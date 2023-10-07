@@ -20,25 +20,25 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #5 artist of all time
 - The #10 artist of the last 6 months
-- The #15 artist of the last month
+- The #18 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
 
 - Pretty Savage is:
     - the #2 track of all time
-- How You Like That is:
-    - the #5 track of all time
 - Crazy Over You is:
-    - the #7 track of all time
+    - the #6 track of all time
 - Kill This Love is:
     - the #8 track of all time
+- How You Like That is:
+    - the #9 track of all time
 - WHISTLE is:
     - the #42 track of all time
 - BOOMBAYAH is:
     - the #50 track of all time
 - Pink Venom is:
-    - the #9 track of the last 6 months
+    - the #8 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -178,7 +178,7 @@ BLACKPINK is currently:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Songwriter |
 | | Chelcee Grimes | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd42a27db3286b58553da8858" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd95cf4457fac4cc62311f84f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
 | | VVN | 1 | Lyricist, Songwriter |
 | | Nat Dunn | 1 | Lyricist, Songwriter |
 | | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |

@@ -255,7 +255,6 @@ spotify:artist:0k17h0D3J5VfsdmQ1iZtE9,symphonic rock
 spotify:artist:0kErUwb6xgWfkdn0RyZWHZ,la pop
 spotify:artist:0kbgyaL9g2Eba79p2jiYlN,string quartet
 spotify:artist:0kkxsdcaWmWU2yWAqclDh4,post-teen pop
-spotify:artist:0kkxsdcaWmWU2yWAqclDh4,talent show
 spotify:artist:0kkxsdcaWmWU2yWAqclDh4,teen pop
 spotify:artist:0kkxsdcaWmWU2yWAqclDh4,viral pop
 spotify:artist:0lAWpj5szCSwM4rUMHYmrr,indie rock italiano
@@ -547,6 +546,7 @@ spotify:artist:1mcTU81TzQhprhouKaTkpq,trap latino
 spotify:artist:1mcTU81TzQhprhouKaTkpq,urbano latino
 spotify:artist:1mgzY8CsK8lyJy96tT8bV5,k-pop girl group
 spotify:artist:1moxjboGR7GNWYIMWsRjgG,baroque pop
+spotify:artist:1moxjboGR7GNWYIMWsRjgG,electropop
 spotify:artist:1moxjboGR7GNWYIMWsRjgG,modern rock
 spotify:artist:1moxjboGR7GNWYIMWsRjgG,uk alternative pop
 spotify:artist:1o2NpYGqHiCq7FoiYdyd1x,alt z
@@ -876,7 +876,6 @@ spotify:artist:2e4G04F77jxVuDYo44TCSm,k-pop
 spotify:artist:2e4G04F77jxVuDYo44TCSm,k-rap
 spotify:artist:2e4G04F77jxVuDYo44TCSm,korean r&b
 spotify:artist:2fAwOOtpSCnuUU1lyBB7ab,broadway
-spotify:artist:2fHcpUAFhqmfloo2HkBN3e,show tunes
 spotify:artist:2gClsBep1tt1rv1CN210SO,classical
 spotify:artist:2gClsBep1tt1rv1CN210SO,post-romantic era
 spotify:artist:2gsggkzM5R49q6jpPvazou,dance pop
@@ -1437,13 +1436,13 @@ spotify:artist:4AcHt3JxKy59IX7JNNlZn4,pop rock
 spotify:artist:4AcHt3JxKy59IX7JNNlZn4,pov: indie
 spotify:artist:4AcXapei4U7xnWecv9AEBd,orchestra
 spotify:artist:4AjjMZxILxc83KJAEuwu9j,american choir
-spotify:artist:4AjjMZxILxc83KJAEuwu9j,choral
 spotify:artist:4BBN286rBKyCWsSPq2cxYO,k-pop
 spotify:artist:4BBN286rBKyCWsSPq2cxYO,korean r&b
 spotify:artist:4BtDAwCZhR6nPrJtbVgQNX,adult standards
 spotify:artist:4BtDAwCZhR6nPrJtbVgQNX,vintage hollywood
 spotify:artist:4DTbdShHu2RPYEEMUp2XWV,canadian pop
 spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW,atl hip hop
+spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW,hip hop
 spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW,pop rap
 spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW,rap
 spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW,trap
@@ -1797,7 +1796,6 @@ spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,hip hop
 spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,rap
 spotify:artist:5KKpBU5eC2tJDzf0wmlRp2,uk contemporary r&b
 spotify:artist:5KKpBU5eC2tJDzf0wmlRp2,uk pop
-spotify:artist:5KPaeBm0fVfCSZLydp9jdy,k-pop girl group
 spotify:artist:5Kkhk21siwbW3BfZUwpykJ,movie tunes
 spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT,k-pop
 spotify:artist:5L30XpwHG77eWCZtelTns9,college a cappella
@@ -1821,7 +1819,7 @@ spotify:artist:5M52tdBnJaKSvOpJGz8mfZ,metal
 spotify:artist:5M52tdBnJaKSvOpJGz8mfZ,rock
 spotify:artist:5M52tdBnJaKSvOpJGz8mfZ,stoner rock
 spotify:artist:5M52tdBnJaKSvOpJGz8mfZ,uk doom metal
-spotify:artist:5MmVJVhhYKQ86izuGHzJYA,pop rock
+spotify:artist:5MmVJVhhYKQ86izuGHzJYA,electropop
 spotify:artist:5NUVwRESNqYBUTRbiATjy7,k-rap
 spotify:artist:5PS3ZZE5bBiZ3Ct9HiRG2B,korean r&b
 spotify:artist:5PdBpsZXvnEbbTe1589fMO,college a cappella
@@ -1878,6 +1876,7 @@ spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ,pop rap
 spotify:artist:5YGY8feqx7naU7z4HrwZM6,pop
 spotify:artist:5Z71xE9prhpHrqL5thVMyK,k-pop girl group
 spotify:artist:5ZEAzHE2TzAwUcOj6jMIgf,bubblegum pop
+spotify:artist:5ZEAzHE2TzAwUcOj6jMIgf,movie tunes
 spotify:artist:5ZS223C6JyBfXasXxrRqOk,r&b
 spotify:artist:5ZsFI1h6hIdQRw2ti0hz81,pop
 spotify:artist:5ZsFI1h6hIdQRw2ti0hz81,uk pop
@@ -2055,6 +2054,7 @@ spotify:artist:61if35zz1W11GejEkxTLEQ,modern bollywood
 spotify:artist:62FPyLpIhmk27hBw6RHlhh,jazz blues
 spotify:artist:62FPyLpIhmk27hBw6RHlhh,rhythm and blues
 spotify:artist:62T5PGHWJ9sxP2SJq20IHq,k-pop
+spotify:artist:62e1EYSpSgrfu0Vxb5uqph,military band
 spotify:artist:630wzNP2OL7fl4Xl0GnMWq,idol rock
 spotify:artist:630wzNP2OL7fl4Xl0GnMWq,j-metal
 spotify:artist:630wzNP2OL7fl4Xl0GnMWq,kawaii metal
@@ -2099,7 +2099,6 @@ spotify:artist:68TP2Pr8i7dvyFHU0p748r,movie tunes
 spotify:artist:68h2f0WXn4zEctSgNYozXx,broadway
 spotify:artist:68h2f0WXn4zEctSgNYozXx,hollywood
 spotify:artist:68h2f0WXn4zEctSgNYozXx,show tunes
-spotify:artist:69GGBxA162lTqCwzJG5jLp,electropop
 spotify:artist:69GGBxA162lTqCwzJG5jLp,pop
 spotify:artist:6BeO1KuAWBqFriL1mLHtNc,bachata
 spotify:artist:6BeO1KuAWBqFriL1mLHtNc,latin viral pop
@@ -2648,7 +2647,6 @@ spotify:artist:7t5H3uQv0Zw6cQUnSTF5BB,k-pop
 spotify:artist:7t5H3uQv0Zw6cQUnSTF5BB,k-pop girl group
 spotify:artist:7tCg9aiVKZ5Cmhbfb7UoqM,k-pop boy group
 spotify:artist:7tHd518aPjJYUgyv9bidBz,movie tunes
-spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,pop
 spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,r&b
 spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,rap
 spotify:artist:7v4imS0moSyGdXyLgVTIV7,adult standards

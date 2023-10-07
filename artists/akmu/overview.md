@@ -19,9 +19,9 @@ AKMU is currently:
 ## Top Tracks
 
 - Fry’s Dream is:
-    - the #4 track of the last month
+    - the #7 track of the last month
 - Love Lee is:
-    - the #5 track of the last month
+    - the #10 track of the last month
 
 ### Top tracks of the last month over time
 

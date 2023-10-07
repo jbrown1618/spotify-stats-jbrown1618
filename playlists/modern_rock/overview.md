@@ -314,7 +314,6 @@
 | 2 | 1 | emo |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
-| 1 | 1 | talent show |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | modern power pop |
@@ -357,6 +356,7 @@
 | 1 | 0 | lo-fi |
 | 1 | 0 | k-rock |
 | 1 | 0 | elephant 6 |
+| 1 | 0 | dance-punk |
 
 </details>
 

@@ -187,7 +187,7 @@ Appears as:
 
 
 <details>
-<summary>See all 72 genres</summary>
+<summary>See all 71 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -218,7 +218,6 @@ Appears as:
 | 1 | 1 | latin viral pop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
-| 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
 | 1 | 1 | azontobeats |

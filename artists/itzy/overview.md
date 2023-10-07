@@ -21,7 +21,7 @@ ITZY:
 ITZY is currently:
 - The #4 artist of all time
 - The #7 artist of the last 6 months
-- The #2 artist of the last month
+- The #3 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
@@ -29,12 +29,12 @@ ITZY is currently:
 - LOCO is:
     - the #16 track of the last 6 months
     - the #29 track of all time
-- Cheshire is:
-    - the #49 track of the last 6 months
 - Be In Love is:
-    - the #8 track of the last month
+    - the #15 track of the last month
+- None of My Business is:
+    - the #45 track of the last month
 - Bratty is:
-    - the #37 track of the last month
+    - the #49 track of the last month
 
 ### Top tracks of all time over time
 
@@ -98,7 +98,7 @@ ITZY is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 37 | 22 | [Republic Records](../../labels/republic_records/overview.md) |
-| 3 | 2 | WM Japan |
+| 3 | 2 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 2 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -208,14 +208,14 @@ ITZY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | SWIPE | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5o0urLKhjQLIFMoJH5SSrY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | Sooo LUCKY | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) | Street Dance Girls Fighter(SGF) Special | [ITZY](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 💚 | [🔗](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | WM Japan | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | DOMINO | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2Yi1F6c06h8HY5ZIvNRogo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | RACER | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | SNEAKERS (English Ver.) | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afa3ff83579d3450ad73eaf8" alt="" width="50" /> | Blah Blah Blah | Blah Blah Blah | [ITZY](overview.md) | WM Japan | 💚 | [🔗](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afa3ff83579d3450ad73eaf8" alt="" width="50" /> | Blah Blah Blah | Blah Blah Blah | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Boys Like You | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/1V3EKDf81bitSEQTYjOJzZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Freaky | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) |
@@ -225,7 +225,7 @@ ITZY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4c454405a471d4e650484bc" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | WM Japan | | [🔗](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4c454405a471d4e650484bc" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | | [🔗](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) |
 
 </details>
 

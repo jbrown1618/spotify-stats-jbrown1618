@@ -2,7 +2,7 @@
 # SUNMI
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="SUNMI" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="SUNMI" width="100" />
 
 ## Relationships
 
@@ -11,7 +11,7 @@ SUNMI:
 
 ## Artist Rank
 SUNMI is currently:
-- The #46 artist of all time
+- The #45 artist of all time
 
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
@@ -81,7 +81,7 @@ SUNMI is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4a29246fa242d0b9f8de3b31" alt="" width="50" /> | [SUNMI](overview.md) | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | [SUNMI](overview.md) | 5 | Lyricist, Songwriter |
 | | Frants | 2 | Arranger, Songwriter, Producer |
 | | Ash | 1 | Arranger, Songwriter |
 | | Sean Callery | 1 | Arranger, Lyricist, Songwriter |

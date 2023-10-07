@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 86 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -295,6 +295,7 @@
 | 1 | 1 | funktronica |
 | 1 | 1 | funk |
 | 1 | 1 | emo |
+| 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | disco |
 | 1 | 1 | chamber pop |
 | 1 | 1 | boy band |

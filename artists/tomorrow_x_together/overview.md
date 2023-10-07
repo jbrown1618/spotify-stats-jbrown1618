@@ -2,7 +2,7 @@
 # TOMORROW X TOGETHER
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eba31675abc6399c98291986db" alt="TOMORROW X TOGETHER" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31" alt="TOMORROW X TOGETHER" width="100" />
 
 [See Track Features](audio_features.md)
 

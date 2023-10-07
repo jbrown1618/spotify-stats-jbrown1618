@@ -199,7 +199,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 31 | 15 | [rap](../../genres/rap/overview.md) |
-| 23 | 9 | hip hop |
+| 24 | 10 | hip hop |
 | 9 | 8 | [pop](../../genres/pop/overview.md) |
 | 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 4 | detroit hip hop |

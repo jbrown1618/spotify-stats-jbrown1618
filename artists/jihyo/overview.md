@@ -17,9 +17,7 @@ JIHYO is currently:
 ## Top Tracks
 
 - Killin’ Me Good is:
-    - the #27 track of the last month
-- Closer is:
-    - the #46 track of the last month
+    - the #3 track of the last month
 
 ### Top tracks of the last month over time
 

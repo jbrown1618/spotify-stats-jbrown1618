@@ -20,13 +20,11 @@ Radiohead:
 
 ## Artist Rank
 Radiohead is currently:
-- The #37 artist of the last 6 months
+- The #38 artist of the last 6 months
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
 ## Top Tracks
 
-- Jigsaw Falling Into Place is:
-    - the #44 track of the last month
 
 ### Top tracks of the last month over time
 

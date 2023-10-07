@@ -23,12 +23,10 @@ IVE is currently:
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
-- Blue Blood is:
-    - the #29 track of the last month
 - I AM is:
-    - the #38 track of the last month
-- Lips is:
-    - the #47 track of the last month
+    - the #13 track of the last month
+- Blue Blood is:
+    - the #48 track of the last month
 
 ### Top tracks of the last 6 months over time
 

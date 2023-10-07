@@ -15,7 +15,7 @@ HWASA:
 ## Top Tracks
 
 - Maria is:
-    - the #6 track of all time
+    - the #5 track of all time
 
 ### Top tracks of all time over time
 
@@ -44,9 +44,9 @@ HWASA:
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | 1 | 1 | PSY 9th | 2022-04-29 | [🔗](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | 1 | 1 | María | 2020-06-29 | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | 1 | 1 | I Love My Body | 2023-09-06 | [🔗](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="" width="50" /> | 1 | 0 | Somebody | 2022-07-25 | [🔗](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | 1 | 0 | I Love My Body | 2023-09-06 | [🔗](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) |
 
 ## Top Record Labels
 
@@ -54,11 +54,11 @@ HWASA:
 |---:|---:|:---|
 | 5 | 4 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
-| 1 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 1 | 1 | P NATION |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | ㈜RBW |
+| 1 | 0 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 0 | AOMG |
 
 ## Genres
@@ -127,7 +127,7 @@ HWASA:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | FOMO | Guilty Pleasure | [HWASA](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | | [🔗](https://open.spotify.com/track/3f2I2bydLQ38Xr0jvUcNJn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | Guilty Pleasure | [HWASA](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](overview.md) | [WM Korea](../../labels/wm_korea) | 💚 | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](overview.md) | [WM Korea](../../labels/wm_korea) | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | Don’t | The Hyena on the Keyboard Pt. 4 | Loco, [HWASA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6KyafpXji3NKMmlmSokT9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c56c7294324afd02baff40b4" alt="" width="50" /> | Somebody! | Somebody | Loco, [HWASA](overview.md) | AOMG, ㈜RBW | | [🔗](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | Now (feat. Hwa Sa) | PSY 9th | PSY, [HWASA](overview.md) | P NATION | 💚 | [🔗](https://open.spotify.com/track/3tXzsm4d0w4w1Dyx7Eo88g) |

@@ -155,7 +155,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 22 | [pop](../../genres/pop/overview.md) |
+| 27 | 20 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 17 | 11 | [dance pop](../../genres/dance_pop/overview.md) |

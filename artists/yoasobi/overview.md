@@ -19,7 +19,7 @@ YOASOBI is currently:
 ## Top Tracks
 
 - アイドル is:
-    - the #6 track of the last month
+    - the #11 track of the last month
 
 ### Top tracks of the last month over time
 

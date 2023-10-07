@@ -75,10 +75,11 @@ Appears as:
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | hip hop |
 | 1 | 1 | funk |
 | 1 | 1 | disco |
 | 1 | 1 | classic soul |
@@ -88,7 +89,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 15 genres](../../images/labels/motown/genres.png)
+![Bar chart of top 16 genres](../../images/labels/motown/genres.png)
 
 ## Top Producers
 
