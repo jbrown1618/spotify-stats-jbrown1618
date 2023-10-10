@@ -24,17 +24,15 @@ The Beatles:
 
 ## Artist Rank
 The Beatles is currently:
-- The #40 artist of all time
-- The #37 artist of the last 6 months
-- The #12 artist of the last month
+- The #41 artist of all time
+- The #35 artist of the last 6 months
+- The #15 artist of the last month
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Top Tracks
 
-- Because - Remastered 2009 is:
-    - the #19 track of the last month
 - Day Tripper - Remastered 2015 is:
-    - the #20 track of the last month
+    - the #22 track of the last month
 
 ### Top tracks of the last month over time
 

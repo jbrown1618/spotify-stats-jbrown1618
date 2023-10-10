@@ -34,7 +34,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 3 | 2 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b5ea56e51915918c24c6e61" alt="" width="50" /> | 2 | 2 | Metric | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf3517333f4713a51b9ee5457" alt="" width="50" /> | 2 | 2 | Metric | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
@@ -253,7 +253,7 @@
 | 60 | 35 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 42 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
-| 41 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
+| 42 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
 | 29 | 19 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
@@ -275,7 +275,7 @@
 | 5 | 5 | modern alternative rock |
 | 5 | 4 | pov: indie |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
-| 8 | 3 | pop punk |
+| 7 | 3 | pop punk |
 | 7 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 4 | 3 | candy pop |
 | 3 | 3 | steampunk |
@@ -314,6 +314,7 @@
 | 2 | 1 | emo |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
+| 1 | 1 | talent show |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | modern power pop |
@@ -330,6 +331,7 @@
 | 1 | 1 | indie folk |
 | 1 | 1 | folk-pop |
 | 1 | 1 | electronic rock |
+| 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | cyberpunk |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | british math rock |
@@ -355,8 +357,6 @@
 | 1 | 0 | modern folk rock |
 | 1 | 0 | lo-fi |
 | 1 | 0 | k-rock |
-| 1 | 0 | elephant 6 |
-| 1 | 0 | dance-punk |
 
 </details>
 

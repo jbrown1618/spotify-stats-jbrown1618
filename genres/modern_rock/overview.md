@@ -1,6 +1,6 @@
 # modern rock
 
-[70 songs](tracks.md)
+[71 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -44,11 +44,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb337d671a32b2f44d4a4e6cf2" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
 
 </details>
 
 
-![Bar chart of top 27 artists](../../images/genres/modern_rock/artists.png)
+![Bar chart of top 28 artists](../../images/genres/modern_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/modern_rock/artists_comparison.png)
 ## Top Albums
@@ -68,7 +69,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -108,6 +109,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | 1 | 0 | Dreamland (+ Bonus Levels) | 2020-08-06 | [🔗](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 1 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | 1 | 0 | A Fever You Can't Sweat Out | 2005-09-27 | [🔗](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) |
 
 </details>
 
@@ -120,8 +122,8 @@
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 7 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 6 | 4 | Fueled By Ramen |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
-| 5 | 4 | Fueled By Ramen |
 | 3 | 3 | Kid Ina Korner |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
 | 3 | 3 | Canvasback |
@@ -131,7 +133,7 @@
 
 
 <details>
-<summary>See all 24 labels</summary>
+<summary>See all 25 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -149,11 +151,12 @@
 | 1 | 0 | Sub Pop Records |
 | 1 | 0 | Parlophone UK |
 | 1 | 0 | EMI |
+| 1 | 0 | Decaydance |
 
 </details>
 
 
-![Bar chart of top 24 record labels](../../images/genres/modern_rock/labels.png)
+![Bar chart of top 25 record labels](../../images/genres/modern_rock/labels.png)
 
 ## Top Producers
 

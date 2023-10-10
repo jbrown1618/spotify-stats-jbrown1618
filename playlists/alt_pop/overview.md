@@ -253,7 +253,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 47 | 35 | [pop](../../genres/pop/overview.md) |
-| 47 | 35 | [electropop](../../genres/electropop/overview.md) |
+| 34 | 24 | [electropop](../../genres/electropop/overview.md) |
 | 34 | 21 | [art pop](../../genres/art_pop/overview.md) |
 | 22 | 18 | [modern rock](../../genres/modern_rock/overview.md) |
 | 18 | 15 | baroque pop |

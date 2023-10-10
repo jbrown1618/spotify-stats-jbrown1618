@@ -13,7 +13,7 @@ YOASOBI:
 
 ## Artist Rank
 YOASOBI is currently:
-- The #7 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of YOASOBI over time](../../images/artists/yoasobi/rank_time_series.png)
 ## Top Tracks

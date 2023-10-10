@@ -20,20 +20,18 @@ ITZY:
 ## Artist Rank
 ITZY is currently:
 - The #4 artist of all time
-- The #7 artist of the last 6 months
-- The #3 artist of the last month
+- The #8 artist of the last 6 months
+- The #4 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #16 track of the last 6 months
+    - the #17 track of the last 6 months
     - the #29 track of all time
 - Be In Love is:
-    - the #15 track of the last month
+    - the #17 track of the last month
 - None of My Business is:
-    - the #45 track of the last month
-- Bratty is:
     - the #49 track of the last month
 
 ### Top tracks of all time over time
@@ -83,10 +81,10 @@ ITZY is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4c454405a471d4e650484bc" alt="" width="50" /> | 1 | 1 | RINGO | 2023-09-27 | [🔗](https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | 1 | 1 | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273afa3ff83579d3450ad73eaf8" alt="" width="50" /> | 1 | 1 | Blah Blah Blah | 2022-09-21 | [🔗](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4c454405a471d4e650484bc" alt="" width="50" /> | 1 | 0 | RINGO | 2023-09-27 | [🔗](https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
 
@@ -98,7 +96,7 @@ ITZY is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 37 | 22 | [Republic Records](../../labels/republic_records/overview.md) |
-| 3 | 2 | [WM Japan](../../labels/wm_japan/overview.md) |
+| 3 | 3 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 2 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -225,7 +223,7 @@ ITZY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4c454405a471d4e650484bc" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | | [🔗](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4c454405a471d4e650484bc" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) |
 
 </details>
 

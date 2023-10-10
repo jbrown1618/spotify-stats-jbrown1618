@@ -16,17 +16,15 @@ IVE:
 
 ## Artist Rank
 IVE is currently:
-- The #20 artist of all time
-- The #14 artist of the last 6 months
+- The #21 artist of all time
+- The #13 artist of the last 6 months
 - The #8 artist of the last month
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
 - I AM is:
-    - the #13 track of the last month
-- Blue Blood is:
-    - the #48 track of the last month
+    - the #15 track of the last month
 
 ### Top tracks of the last 6 months over time
 

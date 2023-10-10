@@ -223,7 +223,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 21 | 13 | [pop](../../genres/pop/overview.md) |
+| 20 | 12 | [pop](../../genres/pop/overview.md) |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |

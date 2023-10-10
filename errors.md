@@ -4,13 +4,13 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Tell Me [🔗](https://open.spotify.com/track/5CA3D0Tch1x4sky45aOcEq) | 53 | 2023-09-22 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning [🔗](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 69 | | WM Korea | |
-| Tell Me [🔗](https://open.spotify.com/track/7i8Jxfd0Sx98271iuNYSQp) | 8 | 2022-11-18 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | THE FIFTY [🔗](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 10 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | ATTRAKT | 💚 |
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 72 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 64 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 81 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 78 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
+| Tell Me [🔗](https://open.spotify.com/track/5CA3D0Tch1x4sky45aOcEq) | 54 | 2023-09-22 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | The Beginning [🔗](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 70 | | WM Korea | |
+| Tell Me [🔗](https://open.spotify.com/track/7i8Jxfd0Sx98271iuNYSQp) | 8 | 2022-11-18 | FIFTY FIFTY [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | THE FIFTY [🔗](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 9 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | ATTRAKT | 💚 |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 72 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 65 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 79 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 85 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 94 | | Top Dawg Entertainment/RCA Records | 💚 |
-| 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 70 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 62 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
+| 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 71 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 63 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 70 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 67 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 
 ## Duplicate albums
@@ -300,27 +300,16 @@
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 72 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 69 |
-| React | React | The Pussycat Dolls | 0 | 0 | 68 |
-| Je Ne Sais Quoi | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
-| Yacht | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
-| Love is a beauty | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
-| Misty | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
-| Fact Check | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
-| Real Life | Fact Check - The 5th Album | NCT 127 | 0 | 0 | 67 |
-| Flip It | HEAT | (G)I-DLE | 0 | 0 | 75 |
-| I Want That | HEAT | (G)I-DLE | 0 | 0 | 75 |
-| Tall Trees | HEAT | (G)I-DLE | 0 | 0 | 75 |
-| I DO | HEAT | (G)I-DLE | 0 | 0 | 75 |
-| Eyes Roll | HEAT | (G)I-DLE | 0 | 0 | 75 |
+| React | React | The Pussycat Dolls | 1 | 0 | 68 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
-| The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
-| The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
-| I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
-| Carey | Blue | Joni Mitchell | 0 | 1 | 53 |
-| Blue | Blue | Joni Mitchell | 0 | 1 | 53 |
-| A Case of You | Blue | Joni Mitchell | 0 | 1 | 53 |
-| Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 53 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 1 | 53 |
+| The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
+| The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
+| I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 54 |
+| Carey | Blue | Joni Mitchell | 0 | 1 | 54 |
+| Blue | Blue | Joni Mitchell | 0 | 1 | 54 |
+| A Case of You | Blue | Joni Mitchell | 0 | 1 | 54 |
+| Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 54 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 1 | 54 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
@@ -368,7 +357,7 @@
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 38 |
 | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 48 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 48 |
@@ -378,8 +367,6 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 1 | 62 |
-| You & Me (Coachella ver.) | JENNIE Special Single [You & Me] | JENNIE | 0 | 0 | 68 |
-| You & Me | JENNIE Special Single [You & Me] | JENNIE | 0 | 0 | 68 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
 | The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
@@ -390,7 +377,7 @@
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 52 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
-| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
+| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
@@ -403,8 +390,7 @@
 | Attention | The Reading Room Sessions (Fall 2017) | Vanderbilt Melodores | 0 | 0 | 25 |
 | Cough Syrup | Encore | Vanderbilt Melodores | 0 | 0 | 25 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 78 |
-| ZOOM ZOOM | ZOOM ZOOM | aespa | 0 | 0 | 74 |
-| Wings | Wings | PIXY | 0 | 0 | 39 |
+| Wings | Wings | PIXY | 0 | 0 | 40 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
@@ -427,7 +413,7 @@
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 83 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
 | RED | RED | The Rose | 0 | 0 | 66 |
-| She′s In The Rain | Dawn | The Rose | 0 | 0 | 66 |
+| She′s In The Rain | Dawn | The Rose | 1 | 0 | 66 |
 | BABY | Void | The Rose | 0 | 0 | 66 |
 | Sorry | Sorry | The Rose | 0 | 0 | 66 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
@@ -436,10 +422,10 @@
 | Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 71 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 2 | 2 | 71 |
 | The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 71 |
-| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 1 | 51 |
+| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 1 | 52 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 33 |
-| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 53 |
+| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 52 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
@@ -447,8 +433,8 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 71 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Miku | Miku | Anamanaguchi | 0 | 0 | 50 |
-| Miku | Miku | Hatsune Miku | 0 | 0 | 62 |
+| Miku | Miku | Anamanaguchi | 2 | 0 | 50 |
+| Miku | Miku | Hatsune Miku | 2 | 0 | 62 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 46 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
@@ -462,6 +448,6 @@
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 1 | 2 | 54 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
 | All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 78 |

@@ -5,8 +5,6 @@
 <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="HEIZE" width="100" />
 
 ## Artist Rank
-HEIZE is currently:
-- The #45 artist of the last 6 months
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks

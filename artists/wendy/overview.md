@@ -17,17 +17,17 @@ WENDY:
 ## Artist Rank
 WENDY is currently:
 - The #33 artist of all time
-- The #48 artist of the last 6 months
+- The #47 artist of the last 6 months
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
 ## Top Tracks
 
 - When This Rain Stops is:
-    - the #18 track of all time
+    - the #17 track of all time
 - Like Water is:
     - the #43 track of all time
 - Time After Time is:
-    - the #32 track of the last 6 months
+    - the #31 track of the last 6 months
 
 ### Top tracks of all time over time
 

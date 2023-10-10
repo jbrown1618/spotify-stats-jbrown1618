@@ -13,7 +13,7 @@
 TWICE:
 - has member 周子瑜 (Chou, Tzu-yu)
 - has member 平井もも (Hirai, Momo)
-- has member [JIHYO](../jihyo/overview.md)
+- has member JIHYO
 - has member 김다현 (Kim, Da-hyun)
 - has member 名井南 (Myoui, Mina)
 - has member NAYEON
@@ -32,16 +32,16 @@ TWICE is currently:
 ## Top Tracks
 
 - I CAN'T STOP ME is:
-    - the #17 track of all time
+    - the #16 track of all time
 - The Feels is:
-    - the #47 track of the last 6 months
+    - the #48 track of the last 6 months
     - the #47 track of all time
 - SET ME FREE is:
-    - the #37 track of the last 6 months
+    - the #38 track of the last 6 months
 - What is Love is:
-    - the #41 track of the last 6 months
+    - the #42 track of the last 6 months
 - First Time is:
-    - the #25 track of the last month
+    - the #27 track of the last month
 
 ### Top tracks of all time over time
 
@@ -130,10 +130,10 @@ TWICE is currently:
 
 ### Member Credits
 
-| | NAYEON | SANA | [JIHYO](../jihyo/overview.md) | 名井南 (Myoui, Mina) | 周子瑜 (Chou, Tzu-yu) | 平井もも (Hirai, Momo) | 김다현 (Kim, Da-hyun) | 손채영 (Son, Chae-young) | 유정연 (Yoo, Jeong-yeon) |
+| | JIHYO | NAYEON | SANA | 名井南 (Myoui, Mina) | 周子瑜 (Chou, Tzu-yu) | 平井もも (Hirai, Momo) | 김다현 (Kim, Da-hyun) | 손채영 (Son, Chae-young) | 유정연 (Yoo, Jeong-yeon) |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Lyricist | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
-| Vocal | 11 | 9 | 9 | 10 | 10 | 9 | 9 | 9 | 10 |
+| Vocal | 9 | 11 | 9 | 10 | 10 | 9 | 9 | 9 | 10 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

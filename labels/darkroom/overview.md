@@ -38,10 +38,9 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 13 | 11 | [pop](../../genres/pop/overview.md) |
-| 13 | 11 | [electropop](../../genres/electropop/overview.md) |
 | 13 | 11 | [art pop](../../genres/art_pop/overview.md) |
 
-![Bar chart of top 3 genres](../../images/labels/darkroom/genres.png)
+
 
 ## Top Producers
 

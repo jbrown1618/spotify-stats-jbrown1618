@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731f5de98907a7f969ea7c28dbab67616d0000b273992cdb975f91efd91b998628ab67616d0000b273addef7fad07f17acdf7d6b98ab67616d0000b273e827c21f833661043f8dd588" alt="누구?" width="100" />
 
-[48 tracks (30 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
+[48 tracks (31 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
 
 [See Track Features](audio_features.md)
 
@@ -31,6 +31,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf52c8bad49f00cee3618346" alt="" width="50" /> | 1 | 1 | Raon | [🔗](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a361eb2adfa465d953415b1" alt="" width="50" /> | 1 | 1 | EVNNE | [🔗](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3c3b242795700d097f49341d" alt="" width="50" /> | 1 | 1 | tripleS | [🔗](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="" width="50" /> | 1 | 1 | LADIES' CODE | [🔗](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74ca2dfde93d9807b2ec18da" alt="" width="50" /> | 1 | 1 | EPEX | [🔗](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) |
@@ -40,7 +41,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | 1 | 1 | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c2b485b85a09d8bcaae5cca" alt="" width="50" /> | 1 | 1 | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb194b53f4785ed4ddef0061ca" alt="" width="50" /> | 1 | 1 | ALICE | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9a361eb2adfa465d953415b1" alt="" width="50" /> | 1 | 0 | EVNNE | [🔗](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb17fcf709bb355f05fa22e74b" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | 1 | 0 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
@@ -69,10 +69,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="" width="50" /> | 1 | 1 | ♡Like Like♡ | 2023-03-15 | [🔗](https://open.spotify.com/album/1pDOA02w9EkzlNz1qnUedg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | 1 | 1 | Wings | 2021-02-24 | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="" width="50" /> | 1 | 1 | WIN-DOW | 2022-07-20 | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="" width="50" /> | 1 | 1 | Target: ME | 2023-09-19 | [🔗](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="" width="50" /> | 1 | 1 | REBORN | 2022-06-15 | [🔗](https://open.spotify.com/album/6kp9dsLnll5WEiBlBUwBME) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | 1 | 1 | REBEL | 2022-04-28 | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="" width="50" /> | 1 | 1 | Play Game : Holiday | 2021-08-04 | [🔗](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="" width="50" /> | 1 | 1 | Macarena | 2023-04-24 | [🔗](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) |
 
 
 <details>
@@ -80,6 +80,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="" width="50" /> | 1 | 1 | Macarena | 2023-04-24 | [🔗](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="" width="50" /> | 1 | 1 | MYST3RY | 2016-02-24 | [🔗](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | 1 | 1 | Liminality - EP.LOVE | 2022-11-14 | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | 1 | 1 | LUPIN | 2020-03-15 | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
@@ -102,7 +103,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be910fd8122cd805d651a8d" alt="" width="50" /> | 1 | 1 | Acid Angel from Asia <ACCESS> | 2022-10-28 | [🔗](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="" width="50" /> | 1 | 1 | 8TURNRISE | 2023-01-30 | [🔗](https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a15ed7d84a6c773126b12b" alt="" width="50" /> | 1 | 0 | We play | 2021-03-17 | [🔗](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="" width="50" /> | 1 | 0 | Target: ME | 2023-09-19 | [🔗](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | 1 | 0 | TAKE A CHANCE | 2022-10-04 | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | 1 | 0 | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | 1 | 0 | LEVIOSA | 2022-08-09 | [🔗](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) |
@@ -126,8 +126,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 6 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 7 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 6 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 3 | 우조엔터테인먼트 |
 | 6 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 3 | 2 | 마이돌엔터테인먼트 |
@@ -186,16 +186,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Rick Bridges | 2 | Lyricist, Songwriter |
 | | 용배 (Seo, Yong-bae) | 1 | Arranger, Lyricist, Songwriter |
-| | Le'mon | 1 | Lyricist |
-| | Julie Han | 1 | Lyricist |
-| | 밍키 (Mingki) | 1 | Arranger, Lyricist, Songwriter |
-| | Natty | 1 | Songwriter |
 | | 이태섭 (Lee, Tae-Sub) | 1 | Producer |
-| | Belle | 1 | Lyricist, Songwriter |
-| | TAK | 1 | Arranger, Songwriter |
-| | 우민정 (Umin, Je-ong) | 1 | Producer |
 | | ギガP (GigaP) | 1 | Arranger, Songwriter |
+| | 우민정 (Umin, Je-ong) | 1 | Producer |
+| | 희창 (Hee-chang) | 1 | Arranger, Songwriter |
+| | THE HUB 88 | 1 | Songwriter |
+| | TAK | 1 | Arranger, Songwriter |
+| | Belle | 1 | Lyricist, Songwriter |
+| | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
 
 
 <details>
@@ -203,13 +203,20 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Rick Bridges | 1 | Lyricist, Songwriter |
+| | Dr.JO | 1 | Lyricist |
+| | hongsamman | 1 | Arranger, Songwriter |
+| | Natty | 1 | Songwriter |
+| | Noerio | 1 | Songwriter |
+| | Jacob Aaron | 1 | Songwriter |
+| | 밍키 (Mingki) | 1 | Arranger, Lyricist, Songwriter |
+| | Julie Han | 1 | Lyricist |
+| | Le'mon | 1 | Lyricist |
 | | Strawberrybananaclub | 1 | Arranger, Lyricist, Songwriter |
 
 </details>
 
 
-![Bar chart of top 12 producers](../../images/playlists/___/producers.png)
+![Bar chart of top 19 producers](../../images/playlists/___/producers.png)
 ## Years
 
 
