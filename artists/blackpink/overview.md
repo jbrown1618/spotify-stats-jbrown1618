@@ -34,11 +34,9 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #13 track of all time
 - WHISTLE is:
-    - the #42 track of all time
-- BOOMBAYAH is:
-    - the #50 track of all time
+    - the #43 track of all time
 - Pink Venom is:
-    - the #8 track of the last 6 months
+    - the #9 track of the last 6 months
 
 ### Top tracks of all time over time
 

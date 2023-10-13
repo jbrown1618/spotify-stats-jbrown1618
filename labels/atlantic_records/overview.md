@@ -53,7 +53,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8b52805fca55fa5d09e1687b" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59a426d643b74f05b8749b8d" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4be3cd76cff0dd9c80c7133" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
@@ -74,7 +74,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a39389bb6dd8fd79c0fff3a2" alt="" width="50" /> | 1 | 0 | American Song Contest | [🔗](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 1 | 0 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85b6cbf01747c44e145c5a20" alt="" width="50" /> | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb27c55a5e9ed2a41c01589fae" alt="" width="50" /> | 1 | 0 | Tiësto | [🔗](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe84e08fb1dfa2bf9b5a61563" alt="" width="50" /> | 1 | 0 | Tiësto | [🔗](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) |
 
 </details>
 
@@ -266,7 +266,7 @@ Appears as:
 | | Thomas Warren | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
 | | Jacob Kasher | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8b52805fca55fa5d09e1687b" alt="" width="50" /> | Tyga | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | Tyga | 1 | Songwriter |
 | | Malcolm McLaren | 1 | Songwriter |
 | | Oscar Holter | 1 | Producer, Songwriter |
 | | Larry Price | 1 | Songwriter |

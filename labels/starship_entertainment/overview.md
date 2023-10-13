@@ -17,8 +17,8 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb797f8fa38dc48d2acc3e3a2f" alt="" width="50" /> | 10 | 8 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 5 | 5 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 2 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb41d4a656d92f93daed36366" alt="" width="50" /> | 2 | 1 | JOOHONEY | [🔗](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b39b99f91ca659e213ab93" alt="" width="50" /> | 1 | 1 | WJSN THE BLACK | [🔗](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) |
@@ -33,7 +33,7 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 5 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | 2 | 1 | INSANE LOVE | 2016-06-21 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | 2 | 0 | INSANE LOVE | 2016-06-21 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | 1 | 1 | THE SECRET | 2016-08-17 | [🔗](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="" width="50" /> | 1 | 1 | THE CODE | 2017-11-07 | [🔗](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) |
@@ -73,8 +73,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 17 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 18 | 13 | [k-pop](../../genres/k_pop/overview.md) |
+| 24 | 16 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 18 | 12 | [k-pop](../../genres/k_pop/overview.md) |
 | 3 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
@@ -179,7 +179,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | SHAKE IT | SHAKE IT | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | I Like That | INSANE LOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | Say! Yes | INSANE LOVE | SISTAR | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5gDxhjgpRoClBFrOcNGiEQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | Say! Yes | INSANE LOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/5gDxhjgpRoClBFrOcNGiEQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](../../artists/wjsn/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | Babyface | HAPPY MOMENT (1) | [WJSN](../../artists/wjsn/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6l6sytFAfe0esA5DYLwqhE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | Pantomime | Neverland | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ) |

@@ -34,14 +34,14 @@ TWICE is currently:
 - I CAN'T STOP ME is:
     - the #16 track of all time
 - The Feels is:
-    - the #48 track of the last 6 months
+    - the #45 track of the last 6 months
     - the #47 track of all time
-- SET ME FREE is:
-    - the #38 track of the last 6 months
 - What is Love is:
-    - the #42 track of the last 6 months
+    - the #39 track of the last 6 months
+- SET ME FREE is:
+    - the #40 track of the last 6 months
 - First Time is:
-    - the #27 track of the last month
+    - the #28 track of the last month
 
 ### Top tracks of all time over time
 

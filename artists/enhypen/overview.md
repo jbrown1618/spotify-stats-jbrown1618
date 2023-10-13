@@ -29,24 +29,24 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #22 track of the last 6 months
+    - the #20 track of the last 6 months
     - the #24 track of all time
 - Polaroid Love is:
-    - the #35 track of the last 6 months
-    - the #44 track of all time
+    - the #34 track of the last 6 months
+    - the #45 track of all time
 - Just A Little Bit is:
     - the #48 track of all time
 - Bills is:
-    - the #20 track of the last 6 months
+    - the #19 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #45 track of the last month
-    - the #26 track of the last 6 months
+    - the #47 track of the last month
+    - the #24 track of the last 6 months
 - One and Only is:
     - the #8 track of the last month
 - Always is:
-    - the #35 track of the last month
+    - the #36 track of the last month
 - Chaconne is:
-    - the #38 track of the last month
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 

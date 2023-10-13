@@ -9,6 +9,9 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
+Lana Del Rey is currently:
+- The #48 artist of the last 6 months
+- The #24 artist of the last month
 
 
 ## Top Tracks
@@ -16,7 +19,7 @@
 - Off To The Races is:
     - the #9 track of the last month
 - Shades Of Cool is:
-    - the #30 track of the last month
+    - the #31 track of the last month
 
 ### Top tracks of the last month over time
 

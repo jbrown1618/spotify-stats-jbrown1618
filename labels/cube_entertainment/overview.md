@@ -1,6 +1,6 @@
 # CUBE ENTERTAINMENT
 
-43 songs
+44 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - CUBE ENTERTAINMENT (21 tracks)
-- Cube Entertainment (19 tracks)
+- Cube Entertainment (20 tracks)
 - CUBE ENTERTAINMENT INC./88rising Music (2 tracks)
 - CUBE Entertainment (1 tracks)
 
@@ -17,7 +17,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 24 | 17 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 4 | 4 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 5 | 4 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 3 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
@@ -45,7 +45,7 @@ Appears as:
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -55,6 +55,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | 1 | 1 | CRYSTYLE | 2017-01-17 | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | 1 | 1 | BLACK DRESS | 2018-02-22 | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | 1 | 1 | Act. 7 | 2016-02-01 | [🔗](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac7e60fb7ec1349cbadfd95a" alt="" width="50" /> | 1 | 0 | With UNIVERSE | 2023-10-10 | [🔗](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | 1 | 0 | The Winter's Tale | 2014-12-22 | [🔗](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="" width="50" /> | 1 | 0 | Lip & Hip | 2017-12-04 | [🔗](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | 1 | 0 | Idle song | 2018-02-28 | [🔗](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) |
@@ -66,15 +67,15 @@ Appears as:
 </details>
 
 
-![Bar chart of top 23 albums](../../images/labels/cube_entertainment/albums.png)
+![Bar chart of top 24 albums](../../images/labels/cube_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 31 | 22 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 19 | 11 | [k-pop](../../genres/k_pop/overview.md) |
-| 7 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 20 | 11 | [k-pop](../../genres/k_pop/overview.md) |
+| 8 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 5 | 3 | korean city pop |
 
 ![Bar chart of top 4 genres](../../images/labels/cube_entertainment/genres.png)
@@ -175,6 +176,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Feelin' Like | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | The Game | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4uqfxy4VCvlbSfALhRQedJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac7e60fb7ec1349cbadfd95a" alt="" width="50" /> | With UNIVERSE | With UNIVERSE | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | Trouble Maker | Trouble Maker | Trouble Maker | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) |
 
 </details>

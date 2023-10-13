@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-8 tracks
+7 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -14,7 +14,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](../../../../artists/florence___the_machine/overview.md) | EMI | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Take Me to Church | Hozier (Expanded Edition) | Hozier | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Work Song | Hozier (Expanded Edition) | Hozier | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="" width="50" /> | The Night We Met | Strange Trails | Lord Huron | IAMSOUND | 💚 | [🔗](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="" width="50" /> | Timshel | Sigh No More | Mumford & Sons | Glassnote Entertainment Group LLC | | [🔗](https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ) |
 ## Cluster #2
 

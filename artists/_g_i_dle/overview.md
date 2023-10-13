@@ -21,7 +21,7 @@
 ## Artist Rank
 (G)I-DLE is currently:
 - The #6 artist of all time
-- The #6 artist of the last 6 months
+- The #7 artist of the last 6 months
 - The #5 artist of the last month
 
 ![Rank of (G)I-DLE over time](../../images/artists/_g_i_dle/rank_time_series.png)
@@ -31,14 +31,16 @@
     - the #21 track of all time
 - Uh-Oh is:
     - the #26 track of all time
+- Oh my god is:
+    - the #49 track of all time
 - All Night is:
     - the #18 track of the last 6 months
 - TOMBOY is:
-    - the #47 track of the last 6 months
+    - the #46 track of the last 6 months
 - DUMDi DUMDi is:
     - the #2 track of the last month
 - Lucid is:
-    - the #14 track of the last month
+    - the #16 track of the last month
 
 ### Top tracks of all time over time
 

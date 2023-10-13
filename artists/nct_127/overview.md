@@ -26,14 +26,14 @@ NCT 127:
 ## Artist Rank
 NCT 127 is currently:
 - The #19 artist of all time
-- The #26 artist of the last 6 months
-- The #18 artist of the last month
+- The #25 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks
 
 - Love is a beauty is:
-    - the #44 track of the last month
+    - the #46 track of the last month
 
 ### Top tracks of the last 6 months over time
 

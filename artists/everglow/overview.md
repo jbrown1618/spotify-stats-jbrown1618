@@ -18,7 +18,7 @@ EVERGLOW:
 EVERGLOW is currently:
 - The #25 artist of all time
 - The #36 artist of the last 6 months
-- The #30 artist of the last month
+- The #32 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Top Tracks

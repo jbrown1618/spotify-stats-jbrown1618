@@ -1,13 +1,13 @@
 # SM Entertainment
 
-283 songs
+285 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (280 tracks)
+- SM Entertainment (282 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
@@ -43,6 +43,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 4 | 2 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61609651871b1ba4e61ecf7b" alt="" width="50" /> | 4 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbc3c5795a57caf0c9c4ab67" alt="" width="50" /> | 3 | 2 | U-KNOW | [🔗](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf6da22416dab41964cd6904" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
@@ -50,7 +51,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 2 | 2 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 2 | 2 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 2 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb09fd55678b9797b20acb3d4" alt="" width="50" /> | 2 | 2 | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8166baa6c8c9a5d1dbc41b5" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
@@ -223,7 +223,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 268 | 183 | [k-pop](../../genres/k_pop/overview.md) |
+| 270 | 183 | [k-pop](../../genres/k_pop/overview.md) |
 | 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 73 | 44 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -429,6 +429,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21" alt="" width="50" /> | Peaches | Peaches - The 2nd Mini Album | KAI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | KAI, [SEULGI](../../artists/seulgi/overview.md), JENO, KARINA | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | Rover | Rover - The 3rd Mini Album | KAI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3ff3f09cdfbcd9455acd3c2" alt="" width="50" /> | BAD LOVE | BAD LOVE - The 1st Mini Album | KEY | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7B8JKfqm63AO8MCHFO3pIb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7e8b974505dd44161e2762f" alt="" width="50" /> | Another Life | Gasoline - The 2nd Album | KEY | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5BKdJVtzkF4b3hleo541Po) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="" width="50" /> | Killer | Killer - The 2nd Album Repackage | KEY | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="" width="50" /> | Good & Great | Good & Great - The 2nd Mini Album | KEY | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d23f42c2583356e3147da65b" alt="" width="50" /> | Child | Child - SM STATION : NCT LAB | MARK | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) |

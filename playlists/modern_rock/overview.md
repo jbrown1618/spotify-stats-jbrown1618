@@ -253,7 +253,7 @@
 | 60 | 35 | [rock](../../genres/rock/overview.md) |
 | 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 42 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
-| 42 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
+| 41 | 22 | [modern rock](../../genres/modern_rock/overview.md) |
 | 29 | 19 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
@@ -269,11 +269,11 @@
 |---:|---:|:---|
 | 9 | 7 | chamber pop |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
+| 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
-| 5 | 4 | pov: indie |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 3 | pop punk |
 | 7 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |

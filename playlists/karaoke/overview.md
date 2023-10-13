@@ -249,6 +249,7 @@
 | 4 | 3 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 3 | [lounge](../../genres/lounge/overview.md) |
 | 3 | 3 | [soul](../../genres/soul/overview.md) |
+| 3 | 3 | pov: indie |
 | 3 | 3 | motown |
 | 3 | 3 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 3 | 3 | australian pop |
@@ -256,7 +257,6 @@
 | 4 | 2 | glam rock |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
-| 2 | 2 | pov: indie |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |

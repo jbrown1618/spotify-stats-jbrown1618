@@ -228,7 +228,7 @@
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -262,6 +262,7 @@
 | 2 | 0 | brill building pop |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new americana |
+| 1 | 0 | neo r&b |
 | 1 | 0 | modern folk rock |
 | 1 | 0 | indie rock |
 | 1 | 0 | indie folk |

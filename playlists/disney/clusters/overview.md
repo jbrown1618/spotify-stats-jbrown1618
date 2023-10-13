@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-10 tracks
+9 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -16,11 +16,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | I Just Can't Wait to Be King - From "The Lion King" Soundtrack | The Lion King | Jason Weaver, Rowan Atkinson, Laura Williams | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared - From "The Lion King" / Soundtrack Version | The Lion King | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Love Is an Open Door - From "Frozen"/Soundtrack Version | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | Kristen Bell, Santino Fontana | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Honor To Us All | Mulan (Original Soundtrack) | Lea Salonga, Beth Fowler, Marni Nixon, Chorus - Mulan, Disney | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | Tangled | Mandy Moore | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) |
 ## Cluster #2
 
-33 tracks
+31 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -36,13 +35,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | Out There | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | Tony Jay, Tom Hulce | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/7cX2nwvVfWW3bfScg2f15K) |
 ## Cluster #3
 
-18 tracks
+21 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Be Our Guest | Beauty and the Beast | Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="" width="50" /> | Under the Sea | The Little Mermaid (Original Motion Picture Soundtrack) | Daveed Diggs, Cast - The Little Mermaid, Disney | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/7Cux0Rc1hY5Pt5T28apnzv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | Down in New Orleans | The Princess and the Frog (Original Motion Picture Soundtrack) | Dr. John | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/4tCdoXt7EiwZZhMevxmY8u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | A Girl Worth Fighting For | Mulan (Original Soundtrack) | Lea Salonga, Harvey Fierstein, Matthew Wilder, James Hong, Jerry Tondo, Disney | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/3wjgPeXocinhLyPL37p70e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | I Wan'na Be Like You (The Monkey Song) | The Jungle Book | Louis Prima, Phil Harris, Bruce Reitherman | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/2EeVPGHq2I7fjeDfT6LEYX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Hakuna Matata - From "The Lion King" Soundtrack | The Lion King | Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Gaston | Beauty and the Beast | Richard White, Jesse Corti, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](../../../../labels/walt_disney_records) | | [🔗](https://open.spotify.com/track/0zstgBrV1t1g6n4jHrUVBY) |
