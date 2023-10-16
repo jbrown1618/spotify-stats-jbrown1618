@@ -27,7 +27,7 @@ WENDY is currently:
 - Like Water is:
     - the #44 track of all time
 - Time After Time is:
-    - the #30 track of the last 6 months
+    - the #31 track of the last 6 months
 
 ### Top tracks of all time over time
 

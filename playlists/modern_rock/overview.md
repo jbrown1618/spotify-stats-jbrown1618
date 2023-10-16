@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[119 tracks (72 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
+[120 tracks (73 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 53 artists</summary>
+<summary>See all 54 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -44,6 +44,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4213569798d691ccce6dfec9" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ecf213c7dd78e0049379c5b" alt="" width="50" /> | 1 | 1 | Evanescence | [🔗](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 1 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 1 | 1 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
@@ -98,7 +99,7 @@
 
 
 <details>
-<summary>See all 84 albums</summary>
+<summary>See all 85 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -137,6 +138,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="" width="50" /> | 1 | 1 | Ghost City | 2018-08-10 | [🔗](https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | 1 | 1 | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="" width="50" /> | 1 | 1 | Fallen | 2003-03-04 | [🔗](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7" alt="" width="50" /> | 1 | 1 | Dark Passion Play | 2007 | [🔗](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
@@ -199,7 +201,7 @@
 
 
 <details>
-<summary>See all 47 labels</summary>
+<summary>See all 48 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -216,6 +218,7 @@
 | 2 | 1 | Spin-Farm Oy |
 | 2 | 1 | Saddle Creek |
 | 2 | 1 | Nuclear Blast Entertainment |
+| 1 | 1 | The Bicycle Music Company |
 | 1 | 1 | TVT Records |
 | 1 | 1 | Silent Records |
 | 1 | 1 | Roadrunner Records |
@@ -274,12 +277,12 @@
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
+| 13 | 3 | alternative metal |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 3 | pop punk |
 | 7 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 4 | 3 | candy pop |
 | 3 | 3 | steampunk |
-| 12 | 2 | alternative metal |
 | 8 | 2 | post-grunge |
 | 5 | 2 | metal |
 | 4 | 2 | symphonic metal |
@@ -367,16 +370,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
-| | Ed O'Brien | 12 | Songwriter |
-| | Philip Selway | 12 | Songwriter |
 | | Nigel Godrich | 12 | Producer |
-| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
 | | Colin Greenwood | 12 | Songwriter |
+| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
+| | Philip Selway | 12 | Songwriter |
+| | Ed O'Brien | 12 | Songwriter |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
-| | Guy Berryman | 5 | Songwriter |
-| | Chris Martin | 5 | Songwriter |
 | | Will Champion | 5 | Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
+| | Jenny Lewis | 5 | Lyricist, Songwriter |
 
 
 <details>
@@ -384,96 +387,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Jonny Buckland | 5 | Songwriter |
-| | Jenny Lewis | 5 | Lyricist, Songwriter |
+| | Chris Martin | 5 | Songwriter |
+| | Guy Berryman | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
 | | Ken Nelson | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
-| | Mike Mogis | 3 | Producer |
-| | Gus Unger-Hamilton | 3 | Songwriter |
-| | Sean Slade | 3 | Producer |
-| | Joe Newman | 3 | Songwriter |
-| | Dan Reynolds | 3 | Songwriter |
-| | Thom Green | 3 | Songwriter |
-| | John Leckie | 3 | Producer |
-| | Gwil Sainsbury | 3 | Songwriter |
+| | James Valentine | 3 | Lyricist, Songwriter |
 | | Blake Sennett | 3 | Songwriter |
 | | Michael Brauer | 3 | Producer |
+| | Joe Newman | 3 | Songwriter |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Thom Green | 3 | Songwriter |
+| | John Leckie | 3 | Producer |
+| | Dan Reynolds | 3 | Songwriter |
+| | Ben McKee | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | Wayne Sermon | 3 | Songwriter |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Sean Slade | 3 | Producer |
+| | Gus Unger-Hamilton | 3 | Songwriter |
+| | Adam Levine | 3 | Lyricist, Songwriter |
 | | Charlie Andrew | 3 | Producer, Songwriter |
 | | Jason Lader | 3 | Producer |
-| | James Valentine | 3 | Lyricist, Songwriter |
-| | Paul Q. Kolderie | 3 | Producer |
-| | Ben McKee | 3 | Songwriter |
-| | Adam Levine | 3 | Lyricist, Songwriter |
-| | Wayne Sermon | 3 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
-| | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Mike Mogis | 3 | Producer |
 | | Rik Simpson | 3 | Producer |
-| | James Hetfield | 2 | Producer, Songwriter |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Jim Warren | 2 | Producer |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Randy Staub | 2 | Producer |
 | | Justin Meldal-Johnsen | 2 | Producer |
-| | Chris Walla | 2 | Producer |
-| | Mark Phythian | 2 | Producer |
+| | James Hetfield | 2 | Producer, Songwriter |
 | | Richard Woodcraft | 2 | Producer |
 | | Adrian Bushby | 2 | Producer |
+| | Mark Phythian | 2 | Producer |
+| | Chris Blair | 2 | Producer |
 | | Mickey Madden | 2 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
-| | Tommaso Colliva | 2 | Producer |
 | | Mark Trombino | 2 | Producer |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
-| | Jesse Carmichael | 2 | Lyricist, Songwriter |
-| | Ryan Dusick | 2 | Lyricist, Songwriter |
-| | Hayley Williams | 2 | Songwriter |
-| | Manny Marroquin | 2 | Producer |
-| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
+| | Tommaso Colliva | 2 | Producer |
 | | Tero Kinnunen | 2 | Producer, Arranger |
-| | Beau Sorenson | 2 | Producer |
-| | Jim Warren | 2 | Producer |
+| | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Hayley Williams | 2 | Songwriter |
+| | Jesse Carmichael | 2 | Lyricist, Songwriter |
 | | Hugo Nicolson | 2 | Producer |
+| | Rick Rubin | 2 | Producer |
+| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
+| | Chris Walla | 2 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Bob Rock | 2 | Producer |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Manny Marroquin | 2 | Producer |
 | | Lars Ulrich | 2 | Producer, Songwriter |
 | | Mikko Karmila | 2 | Producer |
-| | Alex da Kid | 2 | Producer, Songwriter |
 | | Neal Avron | 2 | Producer |
-| | Chris Blair | 2 | Producer |
-| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
 | | Dan Grech-Marguerat | 2 | Producer |
+| | Beau Sorenson | 2 | Producer |
 | | Josh Mosser | 2 | Producer, Songwriter |
-| | Bob Rock | 2 | Producer |
-| | Randy Staub | 2 | Producer |
-| | Rick Rubin | 2 | Producer |
-| | John Frusciante | 1 | Songwriter |
-| | Emppu Vuorinen | 1 | Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| | Trent Reznor | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | John Cornfield | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | Charles Hart | 1 | Lyricist |
 | | Gerard Navarro | 1 | Producer |
 | | Ryan Hewitt | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
-| | Terhi Kallio | 1 | Producer |
-| | Danny O'Donoghue | 1 | Songwriter |
+| | Joe Viers | 1 | Producer |
 | | Bruno Ellingham | 1 | Producer |
 | | Nikolai Fraiture | 1 | Songwriter |
-| | Nate Walcott | 1 | Arranger |
-| | John Cornfield | 1 | Producer |
-| | Jonathan Gerring | 1 | Producer |
-| | John O'Mahony | 1 | Producer |
-| | Mark Linett | 1 | Producer |
-| | Andrew Scheps | 1 | Producer |
-| | Audrey Riley | 1 | Arranger |
-| | Fabrizio Moretti | 1 | Songwriter |
-| | Adam Hawkins | 1 | Producer |
-| | Mattman & Robin | 1 | Producer |
-| | Markus Dravs | 1 | Producer |
-| | Gordon Raphael | 1 | Producer |
-| | Ben Baptie | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | Charles Hart | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
 | | Rich Costey | 1 | Producer |
+| | John Frusciante | 1 | Songwriter |
+| | Ben Baptie | 1 | Producer |
+| | John O'Mahony | 1 | Producer |
 | | Chad Smith | 1 | Songwriter |
+| | Mattman & Robin | 1 | Producer |
 | | Chris Holmes | 1 | Producer |
-| | Ben Tolliday | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Tyler Glenn | 1 | Songwriter |
+| | Andrew Kapner | 1 | Producer |
+| | Danny O'Donoghue | 1 | Songwriter |
+| | Mark Linett | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Emppu Vuorinen | 1 | Arranger, Producer |
+| | Nate Walcott | 1 | Arranger |
+| | Taylor York | 1 | Producer, Songwriter |
 | | Jimmy Tamborello | 1 | Producer |
-| | Joe Viers | 1 | Producer |
-| | Ren Swan | 1 | Producer |
-| | Steve Osborne | 1 | Producer |
+| | Graeme Stewart | 1 | Producer |
+| | Ben Sabin | 1 | Producer |
 | | Ben Boyer | 1 | Songwriter |
+| | Ren Swan | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
+| | Zachary Abels | 1 | Songwriter |
+| | Steve Osborne | 1 | Producer |
+| | Ben Tolliday | 1 | Producer |
+| | Markus Dravs | 1 | Producer |
 
 </details>
 
@@ -487,8 +490,8 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="Ghost City" width="50" /> | Ghost City (2018-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Chosen (2017-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> | The Downward Spiral (1994-03-08) |

@@ -302,10 +302,10 @@
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Mercury Records |
 | 1 | 1 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
-| 1 | 1 | MNH ENTERTAINMENT |
+| 1 | 1 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
 | 1 | 1 | Lindseystomp Records |
 | 1 | 1 | KSR |
-| 1 | 1 | KQ Entertainment |
+| 1 | 1 | [KQ Entertainment](../../labels/kq_entertainment/overview.md) |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
 | 1 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | G.O.O.D. Music |

@@ -240,10 +240,13 @@ tag,artist_mbid,mb_tag
 ,e0e1db18-f7ba-4dee-95ff-7ae8cf545460,alternative hip hop
 ,0923598e-2b97-4527-b984-5feed94c168d,alternative metal
 ,27e2997f-f7a1-4353-bcc4-57b9274fa9a4,alternative metal
+,60fd91c9-d22c-4775-9ac6-7993fdf1c81d,alternative metal
 ,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,alternative metal
+,7ee89158-3446-4044-bb88-0dcc4d4cd6c0,alternative metal
 ,ab4625d4-9947-481c-af95-5955b0b13023,alternative metal
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,alternative metal
 ,b7ffd2af-418f-4be2-bdd1-22f8b48613da,alternative metal
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,alternative metal
 ,2c6c53ea-09d4-4d98-b174-c9aa83d4fecf,alternative pop
 ,2f3c4d70-0462-40da-bba3-0aec5772c556,alternative pop
 ,3377f3bb-60fc-4403-aea9-7e800612e060,alternative pop
@@ -302,6 +305,7 @@ tag,artist_mbid,mb_tag
 ,ee0c82bb-85ca-4a3c-94b8-d7221e74333f,alternative rock
 ,f1571db1-c672-4a54-a2cf-aaa329f26f0b,alternative rock
 ,f181961b-20f7-459e-89de-920ef03c7ed0,alternative rock
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,alternative rock
 ,fbb375f9-48bb-4635-824e-4120273b3ba7,alternative rock
 ,fc7bbf00-fbaa-4736-986b-b3ac0266ca9b,alternative rock
 ,ff621094-2a76-401f-8398-b75b5fd2be24,alternative rock
@@ -1451,6 +1455,7 @@ tag,artist_mbid,mb_tag
 ,3255ddb2-bd7f-4850-b314-bdfa10d14706,electronica
 ,4b356f05-bcc2-4544-925b-fd9a1bf708be,electronica
 ,53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c,electronica
+,7ee89158-3446-4044-bb88-0dcc4d4cd6c0,electronica
 ,8da127cc-c432-418f-b356-ef36210d82ac,electronica
 ,8eb88f27-58f4-4495-83d8-74ce58e78a7f,electronica
 ,98f1b98b-2296-4fb3-ab16-4dffe67f2174,electronica
@@ -1605,6 +1610,7 @@ tag,artist_mbid,mb_tag
 ,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,europop
 ,e2b96b55-35c4-45b9-8d7b-726ac927982f,europop
 ,fab34286-b8e1-4879-bce3-194e1358fbd2,europop
+,7c679635-a892-496b-82e7-84abe3eb5739,evanescence
 ,67f66c07-6e61-4026-ade5-7e782fad3a5d,everlong
 ,06640aed-48bc-4488-9409-dd53f4356d85,experimental
 ,42a8f507-8412-4611-854f-926571049fa0,experimental
@@ -1637,6 +1643,7 @@ tag,artist_mbid,mb_tag
 ,9252ca18-015c-484c-ae59-5670784887d3,fashion model
 ,83d91898-7763-47d7-b03b-b92132375c47,favoritos
 ,e22d2f66-881e-41ca-9356-544697ee5f90,favoritos
+,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,female
 ,e430c9c5-b096-450d-b322-a85be6d5f0bd,female singers
 ,2c4dae8c-e591-49e0-9c5a-62b310a15788,female vocalists
 ,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,female vocalists
@@ -1864,6 +1871,7 @@ tag,artist_mbid,mb_tag
 ,38f59974-2f4d-4bfa-b2e3-d2696de1b675,girl group
 ,3b56979c-8c87-4e4e-997a-38c247a560e1,girl group
 ,3bd894b2-ec26-4ca0-b6cf-b5e66ead1f2e,girl group
+,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,girl group
 ,40017bd7-139b-4998-8688-9b2478ad3325,girl group
 ,4142301a-8bd8-4ea0-b509-0baf84fe6906,girl group
 ,42976ddb-0ad5-4baa-9304-f31d7d84e3e0,girl group
@@ -1932,6 +1940,8 @@ tag,artist_mbid,mb_tag
 ,eb3bcef2-0a08-4afc-8315-1730c3c35c59,gospel
 ,ad7b6571-9832-4aa1-8e58-d345d9ee06c0,goth
 ,ad7b6571-9832-4aa1-8e58-d345d9ee06c0,goth rock
+,7ee89158-3446-4044-bb88-0dcc4d4cd6c0,gothic metal
+,7ee89158-3446-4044-bb88-0dcc4d4cd6c0,gothic rock
 ,ad7b6571-9832-4aa1-8e58-d345d9ee06c0,gothic rock
 ,164f0d73-1234-4e2c-8743-d77bf2191051,grammy winner
 ,1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e,grammy winner
@@ -2023,6 +2033,7 @@ tag,artist_mbid,mb_tag
 ,d8433dee-d1a8-4b40-b27c-40bc53481167,hard rock
 ,e430c9c5-b096-450d-b322-a85be6d5f0bd,hard rock
 ,eeb1195b-f213-4ce1-b28c-8565211f8e43,hard rock
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,hard rock
 ,fc06a339-d14b-40ea-a87e-4672de5deb0f,hard rock
 ,fc5f555c-dfa2-4f16-9da5-98342105c23a,hard rock
 ,ff2a0e30-aec1-44dd-ae06-dc78877f512d,hard rock
@@ -2056,6 +2067,7 @@ tag,artist_mbid,mb_tag
 ,4f0730d0-fd52-4818-8a5d-f3f69ce8f378,heavy metal
 ,5182c1d9-c7d2-4dad-afa0-ccfeada921a8,heavy metal
 ,5e7a7026-dfc5-4aba-8496-95140716f3db,heavy metal
+,60fd91c9-d22c-4775-9ac6-7993fdf1c81d,heavy metal
 ,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,heavy metal
 ,68c34082-c1d5-4399-af9b-3921ca0a6a1f,heavy metal
 ,6bbc87f8-b778-4e2b-84e8-0d95bd44f254,heavy metal
@@ -2263,6 +2275,7 @@ tag,artist_mbid,mb_tag
 ,27e2997f-f7a1-4353-bcc4-57b9274fa9a4,idol
 ,304adbb4-1993-45c1-907e-34ddfc08af5e,idol
 ,be547bca-8718-4762-bf1b-34a3bdb4938f,idol
+,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,idol group
 ,9252ca18-015c-484c-ae59-5670784887d3,idol group
 ,9252ca18-015c-484c-ae59-5670784887d3,idols
 ,9252ca18-015c-484c-ae59-5670784887d3,ihawan
@@ -2378,10 +2391,12 @@ tag,artist_mbid,mb_tag
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,industrial metal
 ,b7ffd2af-418f-4be2-bdd1-22f8b48613da,industrial metal
 ,30343313-1e24-4758-950f-4a96309d7893,industrial rock
+,7ee89158-3446-4044-bb88-0dcc4d4cd6c0,industrial rock
 ,ab4625d4-9947-481c-af95-5955b0b13023,industrial rock
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,industrial rock
 ,b7ffd2af-418f-4be2-bdd1-22f8b48613da,industrial rock
 ,bc880664-6751-4998-984d-ebdbff15d229,industrial rock
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,industrial rock
 ,73e5e69d-3554-40d8-8516-00cb38737a1c,influential pop star
 ,13840f44-af26-4f5b-b01d-1f180481ae91,ingénieur du son
 ,141ec521-1e17-4807-9eec-a6f3c9f6f5bd,ingénieur du son
@@ -2614,6 +2629,7 @@ tag,artist_mbid,mb_tag
 ,35f3e736-e27b-4a26-892c-c00179d163d5,k-pop
 ,37fa0bfd-8bf7-422c-a97a-f8deda49b3a4,k-pop
 ,3bd894b2-ec26-4ca0-b6cf-b5e66ead1f2e,k-pop
+,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,k-pop
 ,40017bd7-139b-4998-8688-9b2478ad3325,k-pop
 ,40bf55ac-700a-42b1-9a22-37d1092cee5d,k-pop
 ,4142301a-8bd8-4ea0-b509-0baf84fe6906,k-pop
@@ -2720,6 +2736,7 @@ tag,artist_mbid,mb_tag
 ,30aeb57f-bb16-47fa-86ca-79fc57b4d12c,kpop
 ,30f9b3e7-690b-4199-8441-916c37176532,kpop
 ,37fa0bfd-8bf7-422c-a97a-f8deda49b3a4,kpop
+,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,kpop
 ,4f0cb3b7-6c06-4317-ae35-ddf3106a17ee,kpop
 ,5676c373-0569-4e64-9ac7-1ece03891334,kpop
 ,57f1cdd6-cf32-4004-a095-3ef043c91b61,kpop
@@ -2880,6 +2897,7 @@ tag,artist_mbid,mb_tag
 ,d3f83561-cab4-4930-a5b1-18145c34ccff,metal
 ,e5fa0175-2e93-4ca7-90c3-33f239381252,metal
 ,eeb1195b-f213-4ce1-b28c-8565211f8e43,metal
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,metal
 ,b071f9fa-14b0-4217-8e97-eb41da73f598,mick jagger
 ,0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd,microhouse
 ,05cbaf37-6dc2-4f71-a0ce-d633447d90c3,mid-tempo
@@ -3053,6 +3071,7 @@ tag,artist_mbid,mb_tag
 ,64b94289-9474-4d43-8c93-918ccc1920d1,piano rock
 ,b83bc61f-8451-4a5d-8b8e-7e9ed295e822,piano rock
 ,cc197bad-dc9c-440d-a5b5-d52ba2e14234,piano rock
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,piano rock
 ,fbb375f9-48bb-4635-824e-4120273b3ba7,piano rock
 ,9252ca18-015c-484c-ae59-5670784887d3,pinoy
 ,9252ca18-015c-484c-ae59-5670784887d3,pinoy pop
@@ -4113,6 +4132,7 @@ tag,artist_mbid,mb_tag
 ,4b462375-c508-432a-8c88-ceeec38b16ae,rock
 ,4b782d7e-fa42-411f-bb5a-a7c4aeea2c2d,rock
 ,4b9a00f9-7ec0-4171-af30-dcfd5ac09db5,rock
+,4bb7a928-ac1d-4c99-8f16-75fb7c7eeeb8,rock
 ,4bdcee62-4902-4773-8cd1-e252e2e31225,rock
 ,4c45495f-b9f3-4d03-9fac-d44c8a77f5de,rock
 ,4c47e18a-c034-4ab6-98a6-110e14b63965,rock
@@ -4297,6 +4317,7 @@ tag,artist_mbid,mb_tag
 ,f390d996-c840-4008-8202-85cb2071bf71,rock
 ,f42080a1-0ebe-466d-9c2f-e27cc6f06709,rock
 ,f46bd570-5768-462e-b84c-c7c993bbf47e,rock
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,rock
 ,f4d5cc07-3bc9-4836-9b15-88a08359bc63,rock
 ,f581a3dc-3319-4656-8b97-66d560482f4a,rock
 ,f86dd435-287d-47d3-b202-c7983fa4939d,rock
@@ -4351,6 +4372,7 @@ tag,artist_mbid,mb_tag
 ,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86,rockabilly
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,romantic
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,romantic classical
+,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,rookie of the year
 ,490a40c1-f0c4-4203-b62b-0d5e25cf6412,roots rock
 ,4d965cc0-86a6-49e2-80f9-7c2bdf606242,roots rock
 ,b071f9fa-14b0-4217-8e97-eb41da73f598,roots rock
@@ -4828,6 +4850,8 @@ tag,artist_mbid,mb_tag
 ,1fd8c24b-eaf3-4ee2-9931-b8130099d789,symphonic metal
 ,39b8f29b-2881-471b-9f33-5a23df6388fc,symphonic metal
 ,7244f99c-e056-412c-836d-b3933bb51229,symphonic metal
+,7ee89158-3446-4044-bb88-0dcc4d4cd6c0,symphonic metal
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,symphonic metal
 ,00a9f935-ba93-4fc8-a33a-993abe9c936b,symphonic power metal
 ,39b8f29b-2881-471b-9f33-5a23df6388fc,symphonic power metal
 ,7244f99c-e056-412c-836d-b3933bb51229,symphonic power metal
@@ -4840,6 +4864,7 @@ tag,artist_mbid,mb_tag
 ,8aa5b65a-5b3c-4029-92bf-47a544356934,symphonic rock
 ,9774cfd1-8862-42bd-919e-156c31f079b4,symphonic rock
 ,9c9f1380-2516-4fc9-a3e6-f9f61941d090,symphonic rock
+,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,symphonic rock
 ,38712b4c-0fd4-4c65-8c7a-45676fecc973,symphony orchestra
 ,fa37018e-3557-4cb7-973f-555003c30174,symphony orchestra
 ,070d193a-845c-479f-980e-bef15710653e,synth funk

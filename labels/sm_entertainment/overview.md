@@ -1,13 +1,13 @@
 # SM Entertainment
 
-285 songs
+286 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (282 tracks)
+- SM Entertainment (283 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
@@ -37,9 +37,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 8 | 5 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 8 | 5 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 8 | 4 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 6 | 4 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 7 | 3 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7aa9cd4bbb1e83d99d849e69" alt="" width="50" /> | 6 | 3 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 5 | 3 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
@@ -156,6 +156,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | 2 | 1 | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | 1 | Sticker - The 3rd Album | 2021-09-17 | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="" width="50" /> | 2 | 1 | Something New - The 3rd Mini Album | 2018-06-18 | [🔗](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | 2 | 1 | Red Light - The 3rd Album | 2014-07-11 | [🔗](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | 2 | 1 | Never Gonna Dance Again : Act 1 - The 3rd Album | 2020-09-07 | [🔗](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | 2 | 1 | LOVE SHOT– The 5th Album Repackage | 2018-12-13 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | 2 | 1 | ISTJ - The 3rd Album | 2023-07-17 | [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) |
@@ -205,14 +206,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 1 | 1 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | 1 | 1 | Monster - The 1st Mini Album | 2020-07-06 | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | 1 | 1 | MOVE - The 2nd Album | 2017-10-16 | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 1 | 1 | MIROTIC - The 4th Album | 2008-09-19 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 1 | 1 | MIROTIC - The 4th Album | 2008-09-26 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | 1 | 1 | MAMACITA - The 7th Album | 2014-08-29 | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="" width="50" /> | 1 | 1 | Love Theory - SM STATION | 2022-04-14 | [🔗](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 1 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | 1 | 1 | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="" width="50" /> | 1 | 1 | Killer - The 2nd Album Repackage | 2023-02-13 | [🔗](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337ff46852249bdfc938beefa" alt="" width="50" /> | 1 | 1 | KAI - The 1st Mini Album | 2020-11-30 | [🔗](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | 1 | 1 | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
 
 </details>
 
@@ -223,8 +223,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 270 | 183 | [k-pop](../../genres/k_pop/overview.md) |
-| 95 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 271 | 184 | [k-pop](../../genres/k_pop/overview.md) |
+| 96 | 71 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 73 | 44 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -236,15 +236,15 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 유영진 (Yoo, Young-jin) | 12 | Arranger, Lyricist, Producer, Songwriter |
-| | 정은경 (Jung, Eun-Kyung) | 9 | Producer, Arranger |
-| | 이수만 (Lee, Soo-Man) | 9 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 10 | Producer, Arranger |
+| | 이수만 (Lee, Soo-Man) | 10 | Producer |
 | | Kenzie | 8 | Songwriter, Arranger, Lyricist, Producer |
 | | 남궁진 (Nam Goong, Jin) | 8 | Producer |
-| | 이지홍 (Lee, Ji-hong) | 6 | Producer |
+| | 정의석 (Jung, Euisuk) | 7 | Producer |
 | | 이민규 (Lee, Min-kyu) | 6 | Producer |
-| | 정의석 (Jung, Euisuk) | 6 | Producer |
+| | 이지홍 (Lee, Ji-hong) | 6 | Producer |
+| | 조윤경 (Jo, Yoon Kyung) | 6 | Lyricist |
 | | 김철순 (Kim, Chul-Soon) | 5 | Producer |
-| | 조윤경 (Jo, Yoon Kyung) | 5 | Lyricist |
 
 
 <details>
@@ -252,71 +252,72 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 노민지 (Noh, Min-ji) | 4 | Producer |
-| | 구종필 (Koo, Jong-Pil) | 4 | Producer |
 | | Ryan S. Jhun | 4 | Arranger, Songwriter |
-| | Cazzi Opeia | 3 | Songwriter, Lyricist |
-| | Johan Gustafsson | 3 | Arranger, Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 4 | Producer |
+| | 노민지 (Noh, Min-ji) | 4 | Producer |
 | | Tay Jasper | 3 | Songwriter |
-| | 1월 8일 (1월 8일) | 3 | Lyricist, Songwriter |
-| | LDN Noise | 3 | Arranger, Songwriter, Producer |
 | | Tayla Parx | 3 | Songwriter, Arranger |
-| | Anne Judith Wik | 3 | Arranger, Songwriter |
-| | 이성호 (Lee, Sung-ho) | 3 | Producer |
+| | LDN Noise | 3 | Arranger, Songwriter, Producer |
 | | Ylva Dimberg | 3 | Songwriter, Arranger |
+| | Anne Judith Wik | 3 | Arranger, Songwriter |
+| | Johan Gustafsson | 3 | Arranger, Songwriter |
 | | 강은지 (Kang, Eun-ji) | 3 | Producer |
+| | Cazzi Opeia | 3 | Songwriter, Lyricist |
+| | 이성호 (Lee, Sung-ho) | 3 | Producer |
 | | 김동현 (Kim, Dong-hyun) | 3 | Lyricist, Songwriter |
-| | Will Simms | 2 | Arranger, Producer, Songwriter |
-| | 최소영 (Choi, Seo-young) | 2 | Lyricist |
-| | Adrian McKinnon | 2 | Songwriter |
-| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
-| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | 1월 8일 (1월 8일) | 3 | Lyricist, Songwriter |
+| | 이주형 (Lee, Juhyeong) | 2 | Producer, Arranger |
 | | SAAY | 2 | Lyricist, Songwriter |
-| | Timothy "Bos" Bullock | 2 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb61609651871b1ba4e61ecf7b" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
+| | Jordan Reyes | 2 | Songwriter, Arranger |
+| | 황현 (Hwang, Hyeon) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 최소영 (Choi, Seo-young) | 2 | Lyricist |
+| | Will Simms | 2 | Arranger, Producer, Songwriter |
+| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
+| | Hayley Aitken | 2 | Arranger, Songwriter |
 | | Dem Jointz | 2 | Arranger, Songwriter |
 | | Misfit | 2 | Lyricist |
-| | 황현 (Hwang, Hyeon) | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | Sophie Curtis | 2 | Songwriter |
-| | 전간디 (Jun, Gan Di) | 2 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb13eac1b51784e97af0b3f7ae" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
-| | Jordan Reyes | 2 | Songwriter, Arranger |
-| | 신지영 (Shin, Ji-young) | 2 | Producer |
-| | Hayley Aitken | 2 | Arranger, Songwriter |
 | | Maxx Song | 2 | Arranger, Producer, Lyricist, Songwriter |
 | | Deez | 2 | Arranger, Lyricist, Songwriter |
-| | Charli Taft | 2 | Arranger, Songwriter |
-| | Sebastian Lundberg | 2 | Arranger, Songwriter |
-| | IMLAY | 2 | Arranger |
 | | Kirsten Collins | 2 | Songwriter |
-| | 이주형 (Lee, Juhyeong) | 2 | Producer, Arranger |
-| | Fredrik Häggstam (Häggstam, Fredrik) | 2 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb61609651871b1ba4e61ecf7b" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
+| | Timothy "Bos" Bullock | 2 | Arranger, Songwriter |
+| | Charli Taft | 2 | Arranger, Songwriter |
+| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | Sebastian Lundberg | 2 | Arranger, Songwriter |
 | | Hautboi Rich | 2 | Songwriter |
+| | Adrian McKinnon | 2 | Songwriter |
+| | Sophie Curtis | 2 | Songwriter |
+| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
+| | IMLAY | 2 | Arranger |
+| | 신지영 (Shin, Ji-young) | 2 | Producer |
+| | Fredrik Häggstam (Häggstam, Fredrik) | 2 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | [BoA](../../artists/boa/overview.md) | 2 | Lyricist, Songwriter, Arranger |
-| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
-| | 진리 (Jinri) | 1 | Lyricist |
+| | 전간디 (Jun, Gan Di) | 2 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb13eac1b51784e97af0b3f7ae" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
 | | DOM | 1 | Arranger, Songwriter |
+| | Avenue 52 | 1 | Arranger |
+| | Ray McCullough | 1 | Lyricist, Songwriter |
 | | Jeremy Reeves | 1 | Lyricist, Songwriter |
 | | Erik Lewander | 1 | Arranger |
 | | 김영후 (Kim, Young-hu) | 1 | Lyricist |
+| | Jess Morgan | 1 | Songwriter |
+| | 진리 (Jinri) | 1 | Lyricist |
+| | Courtney Woolsey | 1 | Songwriter |
 | | Daniel Davidsen | 1 | Songwriter |
-| | Didrik Thott | 1 | Songwriter |
+| | Joachim Vermeulen Windsant | 1 | Arranger |
+| | Markus Lindell | 1 | Arranger, Songwriter |
 | | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
+| | 바다 (Bada) | 1 | Lyricist |
+| | Daniel "Obi" Klein | 1 | Arranger, Producer, Songwriter |
 | | Cathy Dennis | 1 | Arranger |
+| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
 | | Mafly | 1 | Lyricist |
 | | Joyfactory | 1 | Lyricist |
-| | Courtney Woolsey | 1 | Songwriter |
-| | Belle Humble | 1 | Arranger, Songwriter |
-| | 바다 (Bada) | 1 | Lyricist |
-| | Avenue 52 | 1 | Arranger |
-| | Daniel "Obi" Klein | 1 | Arranger, Producer, Songwriter |
-| | Markus Lindell | 1 | Arranger, Songwriter |
 | | 밍지션 (Ming, Jisyeon) | 1 | Producer |
-| | Ray McCullough | 1 | Lyricist, Songwriter |
-| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
-| | Herbie Crichlow | 1 | Arranger, Songwriter |
+| | Didrik Thott | 1 | Songwriter |
+| | Belle Humble | 1 | Arranger, Songwriter |
 | | Gabriela Geneva | 1 | Songwriter |
-| | Jia Lih | 1 | Arranger, Songwriter |
+| | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
 | | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
 | | 김부민 (Kim, Bu-min) | 1 | Lyricist, Songwriter |
 | | Shaun Kim | 1 | Arranger |
@@ -324,8 +325,8 @@ Appears as:
 | | Sarah Lundbäck-Bell (Lundbäck-Bell, Sarah) | 1 | Arranger, Songwriter |
 | | Johannes R. Jørgensen (Jørgensen, Johannes R.) | 1 | Arranger, Songwriter |
 | | Paul Phamous | 1 | Songwriter |
+| | Jia Lih | 1 | Arranger, Songwriter |
 | | Tomas Smagesjo | 1 | Songwriter |
-| | Cutfather | 1 | Songwriter |
 | | Ryan Williamson | 1 | Songwriter |
 | | Risto Asikainen | 1 | Songwriter |
 | | 김규영 (Kim, Kyu-young) | 1 | Producer |
@@ -333,15 +334,14 @@ Appears as:
 | | Ellie Suh | 1 | Lyricist |
 | | SENDO | 1 | Producer |
 | | Sean Alexander | 1 | Songwriter |
-| | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
+| | Cutfather | 1 | Songwriter |
 | | Patrick Morrissey | 1 | Arranger, Songwriter |
+| | Moonshine | 1 | Arranger |
+| | 조진주 (Jo, Jinju) | 1 | Songwriter |
 | | Jin Choi | 1 | Arranger, Songwriter |
-| | 정유라 (Jeong, Yu-ra) | 1 | Producer |
 | | Sophie Ellis-Bextor | 1 | Arranger |
 | | Ellen Berg Tollbom | 1 | Lyricist, Songwriter |
 | | Daniel Kim | 1 | Songwriter |
-| | Brandon Green | 1 | Arranger, Songwriter |
-| | busbee | 1 | Arranger, Producer |
 
 </details>
 
@@ -570,7 +570,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | House Party | The Renaissance - The 10th Album | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](../capitol_records), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](../capitol_records), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../artists/baekhyun/overview.md) | ChoongangICS, MYSTIC ENTERTAINMENT, [JYP Entertainment](../jyp_entertainment), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../artists/baekhyun/overview.md) | ChoongangICS, MYSTIC Entertainment, [JYP Entertainment](../jyp_entertainment), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop | Press It - The 1st Album | TAEMIN | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE | MOVE - The 2nd Album | TAEMIN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Clockwork | Never Gonna Dance Again : Act 1 - The 3rd Album | TAEMIN | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) |
@@ -641,6 +641,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | f(x) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | f(x) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | 4 Walls - The 4th Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) |
 

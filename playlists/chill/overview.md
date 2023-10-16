@@ -310,7 +310,7 @@
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Parlophone UK |
 | 1 | 1 | Parlophone Records Limited |
-| 1 | 1 | MYSTIC ENTERTAINMENT |
+| 1 | 1 | MYSTIC Entertainment |
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
 | 1 | 1 | MORE VISION |
 | 1 | 1 | JOYFACE Records |

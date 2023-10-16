@@ -26,37 +26,36 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #4 track of the last 6 months
+    - the #3 track of the last 6 months
     - the #3 track of all time
 - Next Level is:
-    - the #37 track of the last 6 months
-    - the #5 track of all time
+    - the #33 track of the last 6 months
+    - the #4 track of all time
 - Black Mamba is:
     - the #19 track of all time
 - Welcome To MY World (feat. nævis) is:
-    - the #42 track of the last month
+    - the #29 track of the last month
     - the #1 track of the last 6 months
 - Spicy is:
     - the #2 track of the last 6 months
 - Thirsty is:
-    - the #5 track of the last 6 months
+    - the #4 track of the last 6 months
 - Hold On Tight is:
-    - the #7 track of the last 6 months
+    - the #9 track of the last 6 months
 - Salty & Sweet is:
-    - the #15 track of the last 6 months
+    - the #12 track of the last 6 months
 - Illusion is:
-    - the #22 track of the last 6 months
-- YEPPI YEPPI is:
-    - the #31 track of the last 6 months
+    - the #17 track of the last 6 months
 - I'm Unhappy is:
-    - the #37 track of the last month
-    - the #35 track of the last 6 months
-- I'll Make You Cry is:
-    - the #42 track of the last 6 months
+    - the #39 track of the last month
+    - the #32 track of the last 6 months
+- YEPPI YEPPI is:
+    - the #34 track of the last 6 months
 - 'Til We Meet Again is:
-    - the #34 track of the last month
+    - the #35 track of the last month
+    - the #49 track of the last 6 months
 - Better Things is:
-    - the #44 track of the last month
+    - the #45 track of the last month
 
 ### Top tracks of all time over time
 
@@ -80,6 +79,7 @@ aespa is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k_memes/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 1 | [Aegyo](../../playlists/aegyo/overview.md) |

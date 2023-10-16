@@ -171,7 +171,7 @@
 | 2 | 0 | [HYBE](../../labels/hybe/overview.md) |
 | 1 | 0 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 1 | 0 | Pledis |
-| 1 | 0 | KQ Entertainment |
+| 1 | 0 | [KQ Entertainment](../../labels/kq_entertainment/overview.md) |
 | 1 | 0 | Cre.ker Entertainment |
 | 1 | 0 | Brave Entertainment |
 

@@ -116,8 +116,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="THE POYZ BANANA CHACHA" width="50" /> | THE POYZ BANANA CHACHA (Korean Ver.) (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="The Chaos Chapter: FREEZE" width="50" /> | Anti-Romantic (0.206) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | Left & Right (0.95) | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> | The 7th Sense (0.218) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="One and Only" width="50" /> | One and Only (0.936) | <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="Still Life" width="50" /> | Still Life (0.239) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.916) | <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="THE CODE" width="50" /> | DRAMARAMA (0.261) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="New Chapter #1: The Chance of Love - The 8th Album" width="50" /> | 운명 The Chance of Love (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="Mixtape" width="50" /> | Hellevator (0.288) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf76c2678bb45fa73a8b5e4e" alt="SKZ-REPLAY" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.933) | <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="THE CODE" width="50" /> | DRAMARAMA (0.261) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.916) | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="Mixtape" width="50" /> | Hellevator (0.288) |
 
 ## Tempo
 

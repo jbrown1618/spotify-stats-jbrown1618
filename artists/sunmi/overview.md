@@ -11,7 +11,7 @@ SUNMI:
 
 ## Artist Rank
 SUNMI is currently:
-- The #38 artist of all time
+- The #39 artist of all time
 
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
