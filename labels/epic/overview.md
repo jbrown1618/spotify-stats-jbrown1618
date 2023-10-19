@@ -206,7 +206,7 @@ Appears as:
 | | Mike Campbell | 1 | Songwriter |
 | | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
 | | Patrick Benson | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Matt Beckley | 1 | Producer |
 | | James Ingram | 1 | Arranger, Songwriter |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731f5de98907a7f969ea7c28dbab67616d0000b273992cdb975f91efd91b998628ab67616d0000b273addef7fad07f17acdf7d6b98ab67616d0000b273e827c21f833661043f8dd588" alt="누구?" width="100" />
 
-[48 tracks (31 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
+[49 tracks (31 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 32 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -43,6 +43,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb194b53f4785ed4ddef0061ca" alt="" width="50" /> | 1 | 1 | ALICE | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb17fcf709bb355f05fa22e74b" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | 1 | 0 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | 1 | 0 | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb568d2846f8b9c8267da1e34d" alt="" width="50" /> | 1 | 0 | KIM WOO SEOK | [🔗](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | 1 | 0 | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
@@ -76,7 +77,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -105,6 +106,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a15ed7d84a6c773126b12b" alt="" width="50" /> | 1 | 0 | We play | 2021-03-17 | [🔗](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | 1 | 0 | TAKE A CHANCE | 2022-10-04 | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | 1 | 0 | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="" width="50" /> | 1 | 0 | Re-Original | 2022-05-25 | [🔗](https://open.spotify.com/album/4vb8wQPnaNgnmUrrmnISOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | 1 | 0 | LEVIOSA | 2022-08-09 | [🔗](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="" width="50" /> | 1 | 0 | Joker is Alive | 2015-04-15 | [🔗](https://open.spotify.com/album/4vxOwoqNxefHAdZLWVrbmL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="" width="50" /> | 1 | 0 | Jelly box Flower Way SEJEONG | 2016-11-23 | [🔗](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) |
@@ -126,8 +128,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 6 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 8 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 7 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 3 | 우조엔터테인먼트 |
 | 6 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 3 | 2 | 마이돌엔터테인먼트 |
@@ -174,9 +176,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 18 | 13 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 19 | 13 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 17 | 13 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 22 | 12 | [k-pop](../../genres/k_pop/overview.md) |
+| 23 | 12 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | otacore |
 | 1 | 0 | [k-rap](../../genres/k_rap/overview.md) |
 

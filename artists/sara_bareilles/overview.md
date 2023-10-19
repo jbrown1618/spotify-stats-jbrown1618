@@ -12,13 +12,11 @@
 Sara Bareilles is currently:
 - The #26 artist of all time
 - The #19 artist of the last 6 months
-- The #11 artist of the last month
+- The #17 artist of the last month
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
 
-- Many the Miles is:
-    - the #15 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -176,7 +174,7 @@ Sara Bareilles is currently:
 | | Aaron Sterling | 1 | Songwriter |
 | | Zachary Dawes | 1 | Producer |
 | | Suzie Katayama | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
 | | Jimmy Van Heusen | 1 | Songwriter |
 | | Lori McKenna | 1 | Songwriter |
 | | Carl Lieberman, RPT | 1 | Producer |

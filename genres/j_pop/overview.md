@@ -96,7 +96,7 @@
 | 1 | 1 | Fueled By Ramen |
 | 2 | 0 | KING RECORDS |
 | 2 | 0 | IRORI Records |
-| 1 | 0 | avex trax |
+| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 0 | Valley Records |
 | 1 | 0 | PONY CANYON INC. |
 

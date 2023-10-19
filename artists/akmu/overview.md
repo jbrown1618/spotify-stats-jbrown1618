@@ -18,10 +18,8 @@ AKMU is currently:
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
 
-- Love Lee is:
-    - the #20 track of the last month
 - Fry’s Dream is:
-    - the #38 track of the last month
+    - the #36 track of the last month
 
 ### Top tracks of the last month over time
 

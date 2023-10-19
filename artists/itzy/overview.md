@@ -27,7 +27,7 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #14 track of the last 6 months
+    - the #15 track of the last 6 months
     - the #29 track of all time
 - Be In Love is:
     - the #16 track of the last month

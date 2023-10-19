@@ -22,13 +22,11 @@ LE SSERAFIM:
 LE SSERAFIM is currently:
 - The #20 artist of all time
 - The #11 artist of the last 6 months
-- The #28 artist of the last month
+- The #24 artist of the last month
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
-- FEARLESS is:
-    - the #50 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

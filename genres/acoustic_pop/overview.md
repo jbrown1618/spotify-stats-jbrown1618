@@ -149,7 +149,7 @@
 | | Aaron Sterling | 1 | Songwriter |
 | | Adam Hawkins | 1 | Producer |
 | | Drew Ramsey | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
 | | Timothy Fagan | 1 | Songwriter |
 | | Jason Blynn | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |

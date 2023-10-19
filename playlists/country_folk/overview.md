@@ -1,7 +1,7 @@
 # Country/Folk
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27324e1589fb3eab8ae8831f388ab67616d0000b2735726e327fd968a6fb5974350ab67616d0000b2735f3273f88052684d42b9248aab67616d0000b273724bd326692d222c5906b0b0" alt="Country/Folk" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b27324e1589fb3eab8ae8831f388ab67616d0000b2735726e327fd968a6fb5974350ab67616d0000b273724bd326692d222c5906b0b0ab67616d0000b273aa2ce07c8b78b4c96f604734" alt="Country/Folk" width="100" />
 
 [32 tracks (17 liked) 🔗](https://open.spotify.com/playlist/6M7uIRzByJjX0q7wGcujJo)
 

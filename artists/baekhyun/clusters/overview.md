@@ -9,7 +9,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | UN Village | City Lights - The 1st Mini Album | [BAEKHYUN](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Stars | BAEKHYUN | [BAEKHYUN](../../overview.md) | avex trax | 💚 | [🔗](https://open.spotify.com/track/1Gxrej5rBiUbB9QqwmIbDp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Stars | BAEKHYUN | [BAEKHYUN](../../overview.md) | [avex trax](../../../../labels/avex_trax) | 💚 | [🔗](https://open.spotify.com/track/1Gxrej5rBiUbB9QqwmIbDp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | All I Got | Bambi - The 3rd Mini Album | [BAEKHYUN](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2iVsJ2ZuD6b0aHUSi6wcQG) |
 ## Cluster #2
 
@@ -19,7 +19,7 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f" alt="" width="50" /> | Bungee | Delight - The 2nd Mini Album | [BAEKHYUN](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/6wwmbBoBaFxptJwuvF2QdM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f" alt="" width="50" /> | Candy | Delight - The 2nd Mini Album | [BAEKHYUN](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Get You Alone | BAEKHYUN | [BAEKHYUN](../../overview.md) | avex trax | 💚 | [🔗](https://open.spotify.com/track/3K1hH4PSGXbzczwtdBvMNW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Get You Alone | BAEKHYUN | [BAEKHYUN](../../overview.md) | [avex trax](../../../../labels/avex_trax) | 💚 | [🔗](https://open.spotify.com/track/3K1hH4PSGXbzczwtdBvMNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | Cry For Love | Bambi - The 3rd Mini Album | [BAEKHYUN](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) |
 ## Cluster #3
 

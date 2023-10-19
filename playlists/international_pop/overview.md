@@ -283,6 +283,7 @@
 | 1 | 1 | Universal Music Indochina Distributed Labels |
 | 1 | 1 | Universal Music Distributed Labels |
 | 1 | 1 | UMLE - Latino |
+| 1 | 1 | The Leader Entertainment |
 | 1 | 1 | Speedstar |
 | 1 | 1 | S-Curve Records |
 | 1 | 1 | Ríkisútvarpið - Exclusively distributed by Alda Music |
@@ -291,7 +292,6 @@
 | 1 | 1 | Parlophone UK |
 | 1 | 1 | Parkwood Entertainment |
 | 1 | 1 | Mescal |
-| 1 | 1 | Hoang Thuy Linh |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | El Cartel Records (EC3) |
 | 1 | 1 | CMMG |
@@ -300,7 +300,7 @@
 | 2 | 0 | KING RECORDS |
 | 2 | 0 | IRORI Records |
 | 2 | 0 | Gold Typhoon Taiwan |
-| 1 | 0 | avex trax |
+| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 0 | a Saban Music Group Joint Venture |
 | 1 | 0 | What The Duck |
 | 1 | 0 | Wanitwa Mos Entertainment |

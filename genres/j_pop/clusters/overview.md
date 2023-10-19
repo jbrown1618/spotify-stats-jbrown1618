@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | Boys & Girls | A BEST | Ayumi Hamasaki | avex trax | | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | Boys & Girls | A BEST | Ayumi Hamasaki | [avex trax](../../../../labels/avex_trax) | | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎 | 炎 | LiSA | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | | [🔗](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | Pretender | Traveler | OFFICIAL HIGE DANDISM | PONY CANYON INC. | | [🔗](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | Cry Baby | Editorial | OFFICIAL HIGE DANDISM | IRORI Records | | [🔗](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) |

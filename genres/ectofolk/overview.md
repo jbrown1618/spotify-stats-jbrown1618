@@ -94,7 +94,7 @@
 | | Steve Osborne | 1 | Producer |
 | | Suzie Katayama | 1 | Arranger |
 | | Bruno Ellingham | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb52f8a2ca744163e12b2c4e83" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
 | | Zachary Dawes | 1 | Producer |
 | | Andy Green | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |

@@ -15,8 +15,6 @@ Daft Punk:
 
 ## Top Tracks
 
-- Get Lucky (feat. Pharrell Williams and Nile Rodgers) is:
-    - the #36 track of the last month
 
 ### Top tracks of the last month over time
 

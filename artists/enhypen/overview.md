@@ -36,17 +36,17 @@ ENHYPEN is currently:
     - the #45 track of all time
 - Just A Little Bit is:
     - the #48 track of all time
-- Bills is:
-    - the #16 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #49 track of the last month
-    - the #23 track of the last 6 months
-- One and Only is:
     - the #6 track of the last month
+    - the #13 track of the last 6 months
+- Bills is:
+    - the #17 track of the last 6 months
+- One and Only is:
+    - the #5 track of the last month
 - Always is:
-    - the #37 track of the last month
+    - the #34 track of the last month
 - Chaconne is:
-    - the #42 track of the last month
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 

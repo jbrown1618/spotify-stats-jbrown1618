@@ -21,8 +21,8 @@ IVE:
 ## Artist Rank
 IVE is currently:
 - The #21 artist of all time
-- The #13 artist of the last 6 months
-- The #9 artist of the last month
+- The #16 artist of the last 6 months
+- The #10 artist of the last month
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks

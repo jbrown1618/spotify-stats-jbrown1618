@@ -32,16 +32,16 @@
 - Uh-Oh is:
     - the #26 track of all time
 - Oh my god is:
-    - the #46 track of the last 6 months
+    - the #47 track of the last 6 months
     - the #49 track of all time
 - All Night is:
-    - the #15 track of the last 6 months
+    - the #16 track of the last 6 months
 - TOMBOY is:
     - the #40 track of the last 6 months
 - DUMDi DUMDi is:
     - the #2 track of the last month
 - Lucid is:
-    - the #13 track of the last month
+    - the #12 track of the last month
 
 ### Top tracks of all time over time
 
