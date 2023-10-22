@@ -29,7 +29,7 @@ SUPER JUNIOR is currently:
 ## Top Tracks
 
 - Devil is:
-    - the #24 track of the last month
+    - the #23 track of the last month
 
 ### Top tracks of the last month over time
 

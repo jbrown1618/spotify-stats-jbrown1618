@@ -18,7 +18,7 @@ CLC:
 ## Artist Rank
 CLC is currently:
 - The #38 artist of all time
-- The #18 artist of the last month
+- The #17 artist of the last month
 
 ![Rank of CLC over time](../../images/artists/clc/rank_time_series.png)
 ## Top Tracks
@@ -26,7 +26,7 @@ CLC is currently:
 - HELICOPTER is:
     - the #39 track of all time
 - Like It is:
-    - the #38 track of the last month
+    - the #37 track of the last month
 
 ### Top tracks of all time over time
 

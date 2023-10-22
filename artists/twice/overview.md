@@ -26,7 +26,7 @@ TWICE:
 TWICE is currently:
 - The #2 artist of all time
 - The #5 artist of the last 6 months
-- The #8 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
@@ -36,9 +36,11 @@ TWICE is currently:
 - The Feels is:
     - the #46 track of all time
 - What is Love is:
-    - the #36 track of the last 6 months
+    - the #34 track of the last 6 months
+- SET ME FREE is:
+    - the #50 track of the last 6 months
 - First Time is:
-    - the #25 track of the last month
+    - the #24 track of the last month
 
 ### Top tracks of all time over time
 

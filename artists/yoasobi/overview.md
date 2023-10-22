@@ -16,8 +16,6 @@ YOASOBI:
 ![Rank of YOASOBI over time](../../images/artists/yoasobi/rank_time_series.png)
 ## Top Tracks
 
-- アイドル is:
-    - the #41 track of the last month
 
 ### Top tracks of the last month over time
 

@@ -111,7 +111,7 @@ Appears as:
 | | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
 | | Zubin Thakkar | 1 | Producer |
 | | Ed Drewett | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Ori Kaplan | 1 | Producer, Songwriter |
 | | Kyle Mann | 1 | Producer |
 | | Priscilla Renea | 1 | Songwriter |

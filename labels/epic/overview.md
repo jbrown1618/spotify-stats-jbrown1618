@@ -265,7 +265,7 @@ Appears as:
 | | Robbie Soukiasyan | 1 | Producer |
 | | Sasha Yatchenko | 1 | Songwriter |
 | | Kaan Gunesberk | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec4dd20b40167683cf164804" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Mike Anderson | 1 | Producer |
 | | Cashmere Cat | 1 | Producer, Songwriter |
 | | Jeff Glixman | 1 | Producer |

@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | Boys & Girls | A BEST | Ayumi Hamasaki | [avex trax](../../../../labels/avex_trax) | | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | Boys & Girls | A BEST | Ayumi Hamasaki | avex trax | | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Gimme Chocolate!! | BABYMETAL | [BABYMETAL](../../../../artists/babymetal/overview.md) | Cooking Vinyl Limited | 💚 | [🔗](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](../../../../artists/babymetal/overview.md) | Cooking Vinyl Limited | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="" width="50" /> | Matsuri | LOVE ALL SERVE ALL | Fujii Kaze | [Universal Music LLC](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) |

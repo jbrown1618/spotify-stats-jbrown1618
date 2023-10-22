@@ -16,15 +16,13 @@ CHUNG HA:
 ## Artist Rank
 CHUNG HA is currently:
 - The #16 artist of all time
-- The #22 artist of the last 6 months
+- The #25 artist of the last 6 months
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
 - Gotta Go is:
     - the #11 track of all time
-- When I Get Old is:
-    - the #28 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -40,11 +38,10 @@ CHUNG HA is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 16 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 17 | [K-Pop](../../playlists/k_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734d00ac692bae6ce08d2b49adab67616d0000b273ac7e60fb7ec1349cbadfd95aab67616d0000b273b7e8b974505dd44161e2762fab67616d0000b273f3ff3f09cdfbcd9455acd3c2" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 
@@ -52,7 +49,7 @@ CHUNG HA is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 6 | 5 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 6 | 6 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 3 | 2 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | 1 | 1 | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | 1 | 1 | When I Get Old | 2022-10-20 | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
@@ -67,7 +64,7 @@ CHUNG HA is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 10 | 8 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
+| 10 | 9 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
 | 4 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 3 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 2 | 1 | Parlophone Denmark |
@@ -84,7 +81,7 @@ CHUNG HA is currently:
 | Credit Type | Tracks |
 |:---|---:|
 | Lyricist | 4 |
-| Vocal | 8 |
+| Vocal | 9 |
 
 ### Production Credits
 
@@ -99,15 +96,15 @@ CHUNG HA is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 정은경 (Jung, Eun-Kyung) | 9 | Producer |
-| | Fuxxy | 7 | Lyricist, Songwriter, Arranger |
-| | VINCENZO | 5 | Arranger, Lyricist, Songwriter |
-| | 윤원권 (Yoon, Won-kwon) | 5 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 10 | Producer |
+| | Fuxxy | 8 | Lyricist, Songwriter, Arranger |
+| | VINCENZO | 6 | Arranger, Lyricist, Songwriter |
+| | 윤원권 (Yoon, Won-kwon) | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](overview.md) | 4 | Lyricist |
 | | 양영은 (Yang, Young-eun) | 3 | Producer |
+| | Cutfather | 2 | Arranger |
 | | 김지현 (Kim, Ji Hyun) | 2 | Producer |
 | | 김재웅 (Kim, Jae-ung) | 2 | Arranger, Lyricist, Songwriter |
-| | 김수정 (김수정) | 2 | Producer |
 | | Anna Timgren | 2 | Lyricist, Songwriter |
 
 
@@ -116,27 +113,30 @@ CHUNG HA is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Rick Parkhouse | 1 | Lyricist, Songwriter |
+| | Mich Hansen | 2 | Songwriter, Lyricist |
+| | 김수정 (김수정) | 2 | Producer |
+| | Jeremy G | 1 | Songwriter |
+| | 박재선 (Park, Jason) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB | 1 | Producer |
 | | Roberto Vazquez | 1 | Producer |
+| | DRK | 1 | Producer |
 | | Stay Tuned | 1 | Producer |
 | | Sam Merrifield | 1 | Songwriter |
+| | Daniel Davidsen | 1 | Arranger, Lyricist, Songwriter |
+| | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
 | | 진리 (Jinri) | 1 | Lyricist, Songwriter |
 | | KLOË (KLOE) | 1 | Lyricist, Songwriter |
-| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
-| | Lao Ra | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
-| | Jeremy G | 1 | Songwriter |
-| | Cutfather | 1 | Arranger |
+| | Rick Parkhouse | 1 | Lyricist, Songwriter |
 | | Michael Fatkin | 1 | Arranger, Songwriter |
-| | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
-| | DRK | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | R3HAB | 1 | Producer |
-| | 박재선 (Park, Jason) | 1 | Producer |
+| | Daniel Mirza Salcedo | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
 | | Daniel Kim | 1 | Arranger, Songwriter |
-| | yuka | 1 | Arranger, Songwriter |
+| | Lao Ra | 1 | Lyricist, Songwriter |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | | Rebecca King | 1 | Lyricist |
 | | Prime Time | 1 | Songwriter |
 | | Peter Hanna | 1 | Lyricist |
+| | Lucas | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../bibi/overview.md) | 1 | Lyricist |
 | | Red Triangle | 1 | Arranger |
 | | Alawn | 1 | Producer |
@@ -146,13 +146,14 @@ CHUNG HA is currently:
 | | Dawn Elektra | 1 | Songwriter |
 | | luvssong | 1 | Lyricist |
 | | Tinashé Fazakerley (Fazakerley, Tinashé) | 1 | Arranger, Lyricist, Songwriter |
+| | Wayne Hector | 1 | Lyricist, Songwriter |
 | | 조씨아저씨 (Mr. Cho) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba16d9cf3cc90e28089cdf291" alt="" width="50" /> | Guaynaa | 1 | Lyricist |
 | | Ryan S. Jhun | 1 | Arranger, Lyricist, Songwriter |
 | | BXN | 1 | Arranger, Lyricist, Songwriter |
 | | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
 | | Samuel Preston | 1 | Lyricist, Songwriter |
-| | Mich Hansen | 1 | Songwriter |
+| | yuka | 1 | Arranger, Songwriter |
 
 </details>
 
@@ -169,7 +170,7 @@ CHUNG HA is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Querencia | [CHUNG HA](overview.md), R3HAB | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | | [🔗](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 💚 | [🔗](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Masquerade | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
 

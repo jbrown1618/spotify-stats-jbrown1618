@@ -17,9 +17,9 @@ Lana Del Rey is currently:
 ## Top Tracks
 
 - Shades Of Cool is:
-    - the #29 track of the last month
+    - the #28 track of the last month
 - Off To The Races is:
-    - the #39 track of the last month
+    - the #38 track of the last month
 
 ### Top tracks of the last month over time
 
