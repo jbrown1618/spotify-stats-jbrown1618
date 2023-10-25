@@ -2,7 +2,7 @@
 # Stray Kids
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebada60ffd7a8ce554fd733fb5" alt="Stray Kids" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="Stray Kids" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -25,18 +25,18 @@ Stray Kids:
 Stray Kids is currently:
 - The #7 artist of all time
 - The #8 artist of the last 6 months
-- The #6 artist of the last month
+- The #9 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
-    - the #10 track of the last 6 months
-    - the #41 track of all time
+    - the #19 track of the last 6 months
+    - the #43 track of all time
 - Back Door is:
-    - the #28 track of the last 6 months
+    - the #27 track of the last 6 months
 - TOPLINE (Feat. Tiger JK) is:
-    - the #14 track of the last month
+    - the #20 track of the last month
 
 ### Top tracks of all time over time
 

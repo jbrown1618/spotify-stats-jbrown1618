@@ -216,6 +216,7 @@
 | 3 | 2 | folk |
 | 4 | 1 | metal |
 | 4 | 1 | blues rock |
+| 3 | 1 | alternative metal |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
 | 2 | 1 | sunshine pop |
@@ -226,7 +227,6 @@
 | 2 | 1 | funk |
 | 2 | 1 | bubblegum pop |
 | 2 | 1 | birmingham metal |
-| 2 | 1 | alternative metal |
 | 1 | 1 | southern rock |
 | 1 | 1 | jam band |
 | 1 | 1 | electric blues |

@@ -140,7 +140,6 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 15 | [k-pop](../../genres/k_pop/overview.md) |
 | 24 | 14 | [pop](../../genres/pop/overview.md) |
 | 24 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 13 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
@@ -150,6 +149,7 @@ Appears as:
 | 13 | 8 | bergen indie |
 | 11 | 6 | [uk pop](../../genres/uk_pop/overview.md) |
 | 11 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 
 
 <details>
@@ -157,8 +157,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
+| 6 | 4 | [k-pop](../../genres/k_pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |

@@ -262,6 +262,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 0be4c438-bbaa-40ad-853f-691b60d4c7b5,Kick Horns,Kick Horns,,Group,United Kingdom,London,,,
 0bf69115-9b4a-491a-9265-d026cfd8af5d,Kenny Ascher,"Ascher, Kenny",,Person,United States,"Washington, D.C.",1944-10-26,,Male
 0c0a3b34-5298-49e7-a7a6-acfcae2f6cb9,Dabling Harward,"Harward, Dabling",,Person,,,,,Male
+0c0aa53a-5c3d-4e34-a002-0a290ab7a7dc,"Marlin ""Hookman"" Bonds","Bonds, Marlin ""Hookman""",,Person,,,,,Male
 0c348ba3-af64-40f4-aaee-274d38de34ab,Kevin McKeown,"McKeown, Kevin",,Person,Canada,,,,Male
 0c396edf-b45a-4323-b951-04cce89444d3,浅居円,"Asai, Madoka",,Person,Japan,Shiga,1991-07-28,,Female
 0c447b22-cfb6-4ee5-8925-0f62e5a31cda,孟美岐,"Meng, Mei Qi",,Person,South Korea,,1998-10-15,,Female
@@ -363,6 +364,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 1070dc05-01d4-4982-8a63-f9be420fca0f,Cole Kamen-Green,"Kamen-Green, Cole",,Person,,,,,Male
 107760dd-ce1f-463f-9bb0-d42d13a30657,Marcos Palacios,"Palacios, Marcos",,Person,United States,,,,Male
 10958397-9d0b-4dc2-8dc2-0d57dc7904c9,제인,Jane,,Person,South Korea,,,,Female
+109b06e4-d7b1-49df-b6b3-429051eb1950,Jon Hume,"Hume, Jon","Australian-born New Zealand singer-songwriter, guitarist and, record producer",Person,,Lismore,1983-11-06,,Male
 10a389b3-be58-4986-a42d-a388cdd21727,Kevin Herron,"Herron, Kevin",,Person,United States,,,,Male
 10a9ff92-9637-4498-afea-7044b2ab0dc0,Busta Rhymes,Busta Rhymes,,Person,United States,Brooklyn,1972-05-20,,Male
 10b860bf-f225-4ee0-8c28-e32f1759b4a2,Linda McCartney,"McCartney, Linda",,Person,United Kingdom,New York,1941-09-24,1998-04-17,Female
@@ -3635,6 +3637,7 @@ a923d25f-c805-43e2-be40-c25f1b43d0ab,Ron Tyson,"Tyson, Ron",,Person,United State
 a9277a53-47c0-48ca-ad01-6f340273f86a,谷川聖,"Tanikawa, Hijiri",,Person,Japan,Akita,2000-12-26,,Female
 a931929d-4965-4027-9be1-2c6e6aa26a84,鈴木紫帆里,"Suzuki, Shihori",,Person,Japan,Kanagawa,1994-02-17,,Female
 a93dc115-c709-4d25-ab5e-874a1c8835ab,"MC Spy-D + ""Friends""","MC Spy-D + ""Friends""",,Person,,,,,Male
+a940a518-4102-490c-a559-e21d66ae6839,Ivy Adara,"Adara, Ivy",,Person,Australia,Sydney,1995-01-22,,Female
 a95384b1-6aec-468c-ae0d-8c6daf87c4c2,Lil Jon,Lil Jon,US producer & rapper,Person,United States,Atlanta,1971-01-17,,Male
 a9619831-6ede-4673-8d67-58102f469f28,Joyfactory,Joyfactory,Jam Factory,Unknown,,,,,
 a9790937-dd05-48e1-9f1d-0da6f9a86ca9,Jeff Jacobs,"Jacobs, Jeff",,Person,,Chicago,1962,,Male

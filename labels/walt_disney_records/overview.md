@@ -172,24 +172,23 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 48 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
+| 47 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 5 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 4 | 0 | tagalog worship |
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | idol |
 | 2 | 0 | hollywood |
-| 2 | 0 | europop |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
+| 2 | 0 | comedy |
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 36 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 0 | comedy |
 | 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |
@@ -235,7 +234,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="" width="50" /> | Cruella De Vil - From "101 Dalmatians"/Soundtrack Version | 101 Dalmatians | Bill Lee | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | One Jump Ahead | Aladdin Special Edition | Brad Kane, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/69ZNzwrCGP6h5ewkJQWWaT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Arabian Nights | Aladdin Special Edition | Bruce Adler, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/31vVcYpecILSQ02PIGdqYi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Circle of Life - From "The Lion King" Soundtrack | The Lion King | Carmen Twillie, Lebo M. | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Circle of Life | The Lion King | Carmen Twillie, Lebo M. | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) |
 
 
 <details>
@@ -260,10 +259,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff59d18c018a2845758deed" alt="" width="50" /> | Into the Unknown | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | Idina Menzel, AURORA | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="" width="50" /> | A Dream Is a Wish Your Heart Makes | Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) | Ilene Woods, Mice Chorus | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | I Just Can't Wait to Be King | The Lion King (Original Motion Picture Soundtrack) | JD McCrary, Shahadi Wright Joseph, John Oliver | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/2xUdYfY3LpJb4Iv37RypnO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | I Just Can't Wait to Be King - From "The Lion King" Soundtrack | The Lion King | Jason Weaver, Rowan Atkinson, Laura Williams | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared - From "The Lion King" / Soundtrack Version | The Lion King | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | I Just Can't Wait to Be King | The Lion King | Jason Weaver, Rowan Atkinson, Laura Williams | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared | The Lion King | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Part of Your World | The Little Mermaid Special Edition | Jodi Benson, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version | The Lion King | Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella, Kristle Edwards | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Can You Feel the Love Tonight | The Lion King | Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella, Kristle Edwards | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Colors of the Wind - From "Pocahontas" / Soundtrack Version | Pocahontas | Judy Kuhn | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Just Around the Riverbend - From "Pocahontas" / Soundtrack Version | Pocahontas | Judy Kuhn | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | Friends on the Other Side | The Princess and the Frog (Original Motion Picture Soundtrack) | Keith David | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/14mNTV7rsvzkVfBmRepX1X) |
@@ -280,7 +279,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | I See the Light - From "Tangled" / Soundtrack Version | Tangled | Mandy Moore, Zachary Levi | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | Tangled | Mandy Moore | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | An Unusual Prince / Once Upon A Dream - From "Sleeping Beauty"/Soundtrack Version | Sleeping Beauty | Mary Costa, Bill Shirley, Chorus - Sleeping Beauty | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/5WKxcFnCO244tMnVElhFuk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Hakuna Matata - From "The Lion King" Soundtrack | The Lion King | Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Hakuna Matata | The Lion King | Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Poor Unfortunate Souls | The Little Mermaid Special Edition | Pat Carroll, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | The Bare Necessities | The Jungle Book | Phil Harris, Bruce Reitherman | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | Disney's Greatest Vol. 3 | Pinto Colvig, Mary Moder, Dorothy Compton, Billy Bletcher | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/4K1kR94TrMRoznMHBFaa3C) |

@@ -18,14 +18,14 @@ GOT the beat:
 
 ## Artist Rank
 GOT the beat is currently:
-- The #39 artist of all time
-- The #22 artist of the last 6 months
+- The #40 artist of all time
+- The #24 artist of the last 6 months
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks
 
 - Stamp On It is:
-    - the #7 track of the last 6 months
+    - the #8 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -67,13 +67,14 @@ GOT the beat is currently:
 | | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
 |:---|---:|---:|---:|---:|
 | Arranger | 1 | 0 | 0 | 0 |
-| Lyricist | 2 | 0 | 1 | 0 |
+| Lyricist | 3 | 0 | 1 | 0 |
 | Songwriter | 2 | 0 | 0 | 0 |
 | Vocal | 0 | 15 | 5 | 15 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d076165a515afd63688b968" alt="" width="50" /> | Woman | [BoA](../boa/overview.md) | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b1ee39743c40b88a80b4ccf" alt="" width="50" /> | Dreams Come True | [BoA](../boa/overview.md) | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | [TAEYEON](../taeyeon/overview.md) | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | [BoA](../boa/overview.md) | Lyricist, Songwriter |

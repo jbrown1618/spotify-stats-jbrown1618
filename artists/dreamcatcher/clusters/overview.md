@@ -4,11 +4,11 @@
 
 ## Cluster #1
 
-10 tracks
+11 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8" alt="" width="50" /> | PIRI | The End of Nightmare | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | | [🔗](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Raid of Dream | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | | [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Silent Night | Raid of Dream | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 데자부 (Deja Vu) | Raid of Dream | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Scream | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) |

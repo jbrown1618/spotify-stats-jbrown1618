@@ -17,14 +17,14 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #35 artist of all time
+- The #38 artist of all time
 - The #30 artist of the last 6 months
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - Love Me Like This is:
-    - the #36 track of the last 6 months
+    - the #37 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

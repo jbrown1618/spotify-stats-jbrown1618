@@ -5,12 +5,12 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="Gain" width="100" />
 
 ## Artist Rank
+Gain is currently:
+- The #20 artist of the last month
 
 
 ## Top Tracks
 
-- Paradise Lost is:
-    - the #42 track of the last month
 
 ### Top tracks of the last month over time
 

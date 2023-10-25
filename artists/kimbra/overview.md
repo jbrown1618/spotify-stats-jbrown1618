@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Cameo Lover | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Two Way Street | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | Waltz Me to the Grave | Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | la type | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | LA Type | Lyricist, Producer, Songwriter |
 
 ## Top Producers
 
@@ -132,9 +132,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Recovery | Primal Heart | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0HqtTIH9Eo7IdTiiFvpdjM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | The Good War | Primal Heart | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/3Py6qWHKkcdBEVcYThxhp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Top of the World | Primal Heart | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/1Gbdx88ElOui7lczwxGX6m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | Foolish Thinking | A Reckoning | [Kimbra](overview.md), Ryan Lott | Kimbra | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | LA Type | A Reckoning | [Kimbra](overview.md), Tommy Raps, Pink Siifu | Kimbra | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | Replay! | A Reckoning | [Kimbra](overview.md) | Kimbra | | [🔗](https://open.spotify.com/track/4wJq9Vut5WktGLIo02IYA2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | foolish thinking | A Reckoning | [Kimbra](overview.md), Ryan Lott | Kimbra | | [🔗](https://open.spotify.com/track/2TVMfEi6tqg5cxrg18n21s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | la type | A Reckoning | [Kimbra](overview.md), Tommy Raps, Pink Siifu | Kimbra | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |
 
 </details>
 
