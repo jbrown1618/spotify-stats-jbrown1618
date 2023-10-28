@@ -184,7 +184,7 @@
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 45 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -205,7 +205,6 @@
 | 2 | 1 | swing |
 | 2 | 1 | southern soul |
 | 2 | 1 | rock-and-roll |
-| 2 | 1 | easy listening |
 | 2 | 1 | classic soul |
 | 1 | 1 | smooth jazz |
 | 1 | 1 | quiet storm |

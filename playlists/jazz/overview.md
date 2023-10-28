@@ -132,7 +132,7 @@
 | 20 | 7 | [lounge](../../genres/lounge/overview.md) |
 | 12 | 5 | jazz pop |
 | 12 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 8 | 2 | easy listening |
+| 7 | 2 | easy listening |
 | 9 | 1 | vocal jazz |
 | 6 | 1 | contemporary vocal jazz |
 | 1 | 1 | electro swing |

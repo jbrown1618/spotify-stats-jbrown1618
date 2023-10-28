@@ -31,7 +31,7 @@ The Beatles is currently:
 ## Top Tracks
 
 - Day Tripper - Remastered 2015 is:
-    - the #26 track of the last month
+    - the #35 track of the last month
 
 ### Top tracks of the last month over time
 

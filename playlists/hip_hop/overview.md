@@ -202,8 +202,8 @@
 | 24 | 10 | hip hop |
 | 9 | 8 | [pop](../../genres/pop/overview.md) |
 | 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
+| 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
-| 14 | 3 | pop rap |
 | 8 | 3 | conscious hip hop |
 | 6 | 3 | atl hip hop |
 | 6 | 2 | trap |

@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Lana Del Rey is currently:
-- The #48 artist of the last 6 months
+- The #49 artist of the last 6 months
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
 ## Top Tracks
@@ -114,7 +114,7 @@ Lana Del Rey is currently:
 | | Manny Marroquin | 1 | Producer |
 | | Daniel Law Heath | 1 | Songwriter |
 | | Kieron Menzies | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](../taylor_swift/overview.md) | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../taylor_swift/overview.md) | 1 | Producer, Songwriter |
 | | Chris Garcia | 1 | Producer |
 | | Jack Antonoff | 1 | Producer, Songwriter |
 | | Trevor Yasuda | 1 | Producer |

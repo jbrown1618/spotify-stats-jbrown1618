@@ -26,7 +26,7 @@ TWICE:
 TWICE is currently:
 - The #2 artist of all time
 - The #6 artist of the last 6 months
-- The #21 artist of the last month
+- The #28 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
@@ -34,9 +34,9 @@ TWICE is currently:
 - I CAN'T STOP ME is:
     - the #16 track of all time
 - The Feels is:
-    - the #49 track of all time
+    - the #48 track of all time
 - What is Love is:
-    - the #33 track of the last 6 months
+    - the #32 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -193,7 +193,7 @@ TWICE is currently:
 | | Barry Cohen | 1 | Songwriter |
 | | EJAE | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac5af05b8330aabff5800382" alt="" width="50" /> | Zara Larsson | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a6657df91aef7b4b422efe3" alt="" width="50" /> | MRCH | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e58b1f86bf1ddb97e3de1e0d" alt="" width="50" /> | MRCH | 1 | Arranger, Producer, Songwriter |
 | | Gray Trainer | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../bibi/overview.md) | 1 | Lyricist |
 | | MNEK | 1 | Songwriter |

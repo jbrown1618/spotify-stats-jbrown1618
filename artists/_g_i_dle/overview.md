@@ -32,18 +32,16 @@
 - Uh-Oh is:
     - the #26 track of all time
 - All Night is:
-    - the #15 track of the last 6 months
+    - the #13 track of the last 6 months
 - TOMBOY is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
 - Oh my god is:
-    - the #47 track of the last 6 months
-- Lucid is:
-    - the #14 track of the last month
-- DUMDi DUMDi is:
-    - the #28 track of the last month
+    - the #46 track of the last 6 months
 - DARK (X-file) is:
-    - the #38 track of the last month
-- VILLAIN DIES is:
+    - the #11 track of the last month
+- DUMDi DUMDi is:
+    - the #37 track of the last month
+- Put It Straight - Nightmare Version is:
     - the #46 track of the last month
 
 ### Top tracks of all time over time

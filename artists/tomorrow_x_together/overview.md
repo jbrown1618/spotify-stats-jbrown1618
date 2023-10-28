@@ -19,7 +19,7 @@ TOMORROW X TOGETHER:
 
 ## Artist Rank
 TOMORROW X TOGETHER is currently:
-- The #23 artist of the last month
+- The #22 artist of the last month
 
 
 ## Featured on Playlists

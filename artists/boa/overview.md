@@ -17,16 +17,16 @@ BoA:
 ## Artist Rank
 BoA is currently:
 - The #29 artist of all time
-- The #19 artist of the last 6 months
+- The #18 artist of the last 6 months
 - The #7 artist of the last month
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
 - Time After Time is:
-    - the #28 track of the last 6 months
+    - the #27 track of the last 6 months
 - Hurricane Venus is:
-    - the #29 track of the last month
+    - the #38 track of the last month
 
 ### Top tracks of the last 6 months over time
 

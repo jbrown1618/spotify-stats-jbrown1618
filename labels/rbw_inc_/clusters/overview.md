@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC | 6equence | Moon Byul | [RBW Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC (English Ver.) | 6equence | Moon Byul | [RBW Inc.](../..) | | [🔗](https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | BLACK MIRROR | BINARY CODE | ONEUS | [RBW Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/0KERuWnGiBnoFiMyJCLTcj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | PURPLE KISS | [RBW Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | PURPLE KISS | [RBW Inc.](../..) | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Nerdy | Geekyland | PURPLE KISS | [RBW Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | HONEY | 容 : FACE | Solar | [RBW Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) |
 ## Cluster #2

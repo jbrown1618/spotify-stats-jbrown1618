@@ -28,18 +28,18 @@ BLACKPINK is currently:
 - Pretty Savage is:
     - the #4 track of all time
 - Kill This Love is:
-    - the #7 track of all time
+    - the #8 track of all time
 - Crazy Over You is:
-    - the #10 track of all time
+    - the #11 track of all time
 - How You Like That is:
     - the #13 track of all time
 - DDU-DU DDU-DU is:
-    - the #10 track of the last month
+    - the #21 track of the last month
     - the #35 track of all time
 - WHISTLE is:
-    - the #46 track of all time
+    - the #47 track of all time
 - Pink Venom is:
-    - the #17 track of the last 6 months
+    - the #15 track of the last 6 months
 
 ### Top tracks of all time over time
 

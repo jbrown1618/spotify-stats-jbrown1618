@@ -18,8 +18,6 @@ AKMU is currently:
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
 
-- Fry’s Dream is:
-    - the #49 track of the last month
 
 ### Top tracks of the last month over time
 

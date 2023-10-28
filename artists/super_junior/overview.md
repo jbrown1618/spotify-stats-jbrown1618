@@ -23,13 +23,13 @@ SUPER JUNIOR:
 
 ## Artist Rank
 SUPER JUNIOR is currently:
-- The #48 artist of all time
+- The #49 artist of all time
 
 ![Rank of SUPER JUNIOR over time](../../images/artists/super_junior/rank_time_series.png)
 ## Top Tracks
 
 - Devil is:
-    - the #7 track of the last month
+    - the #8 track of the last month
     - the #48 track of the last 6 months
     - the #45 track of all time
 

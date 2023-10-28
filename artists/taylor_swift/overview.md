@@ -2,7 +2,7 @@
 # Taylor Swift
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="Taylor Swift" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="Taylor Swift" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -11,7 +11,7 @@
 ## Artist Rank
 Taylor Swift is currently:
 - The #23 artist of all time
-- The #18 artist of the last 6 months
+- The #19 artist of the last 6 months
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
 ## Featured on Playlists
@@ -138,7 +138,7 @@ Taylor Swift is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
 | | Serban Ghenea | 27 | Producer |
 | | Laura Sisk | 20 | Producer |
 | | Jack Antonoff | 16 | Producer, Songwriter |

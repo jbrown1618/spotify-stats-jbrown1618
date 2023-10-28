@@ -98,7 +98,7 @@
 | | 1 | 0 | Libertad García Fonzi | [🔗](https://open.spotify.com/artist/1jQ4JIz6HwngSsLWnzgPxA) |
 | | 1 | 0 | Chorus - Sleeping Beauty | [🔗](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b6a0854b680c0f8b6aef6f7" alt="" width="50" /> | 1 | 0 | Whoopi Goldberg | [🔗](https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1cf32251011d049c26855ae4" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68369596eaf232b28b63d583" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c7c2f36269debe54658e0f2" alt="" width="50" /> | 1 | 0 | Boris Karloff | [🔗](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) |
 | | 1 | 0 | Keith David | [🔗](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |

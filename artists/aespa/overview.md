@@ -29,10 +29,14 @@ aespa is currently:
     - the #4 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #30 track of the last 6 months
+    - the #29 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #20 track of all time
+- Illusion is:
+    - the #15 track of the last month
+    - the #8 track of the last 6 months
+    - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
 - Spicy is:
@@ -40,18 +44,13 @@ aespa is currently:
 - Thirsty is:
     - the #3 track of the last 6 months
 - Salty & Sweet is:
-    - the #10 track of the last 6 months
-- Hold On Tight is:
     - the #11 track of the last 6 months
-- Illusion is:
-    - the #13 track of the last 6 months
+- Hold On Tight is:
+    - the #19 track of the last 6 months
 - I'm Unhappy is:
-    - the #50 track of the last month
-    - the #29 track of the last 6 months
+    - the #28 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #32 track of the last 6 months
-- 'Til We Meet Again is:
-    - the #45 track of the last month
+    - the #31 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -68,7 +67,7 @@ aespa is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 25 | [K-Pop](../../playlists/k_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 12 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 13 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 10 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b273662be38ecc5e14742193b653ab67616d0000b27382dd2427e6d302711b1b9616ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 8 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |

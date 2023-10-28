@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> | Good Girls Go Bad (feat. Leighton Meester) (0.549) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Yeah! (feat. Lil Jon & Ludacris) (0.0388) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="In The Zone" width="50" /> | (I Got That) Boom Boom (feat. Ying Yang Twins) (0.508) | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | I Knew You Were Trouble. (0.0398) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | Sour Candy (with BLACKPINK) (0.489) | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="Good Thing (with Kehlani)" width="50" /> | Good Thing (with Kehlani) (0.0409) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370" alt="In the Name of Love" width="50" /> | In the Name of Love (0.454) | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> | Hot In It (0.0413) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370" alt="In the Name of Love" width="50" /> | In the Name of Love (0.454) | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="Hot In It" width="50" /> | Hot In It (feat. Charli XCX) (0.0413) |
 
 ## Valence
 

@@ -179,16 +179,17 @@ Appears as:
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | idol |
 | 2 | 0 | hollywood |
+| 2 | 0 | europop |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
-| 2 | 0 | comedy |
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | comedy |
 | 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |
@@ -263,8 +264,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared | The Lion King | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Part of Your World | The Little Mermaid Special Edition | Jodi Benson, Disney | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Can You Feel the Love Tonight | The Lion King | Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella, Kristle Edwards | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Colors of the Wind - From "Pocahontas" / Soundtrack Version | Pocahontas | Judy Kuhn | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Just Around the Riverbend - From "Pocahontas" / Soundtrack Version | Pocahontas | Judy Kuhn | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Colors of the Wind | Pocahontas | Judy Kuhn | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | Just Around the Riverbend | Pocahontas | Judy Kuhn | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | Friends on the Other Side | The Princess and the Frog (Original Motion Picture Soundtrack) | Keith David | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/14mNTV7rsvzkVfBmRepX1X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Gaston | Beauty And The Beast: The Broadway Musical | Kenny Raskin, Burke Moses, Sarah Solie Shannon, Paige Price, Linda Talcott | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/44NzMOVW1wFA2W2GH6prB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b1899123e484c034e31164e" alt="" width="50" /> | Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | Kristen Bell, Agatha Lee Monn, Katie Lopez | [Walt Disney Records](.) | | [🔗](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) |

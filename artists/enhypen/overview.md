@@ -23,28 +23,26 @@ ENHYPEN:
 ENHYPEN is currently:
 - The #11 artist of all time
 - The #3 artist of the last 6 months
-- The #5 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #20 track of the last 6 months
+    - the #23 track of the last 6 months
     - the #23 track of all time
 - Polaroid Love is:
-    - the #40 track of the last 6 months
-    - the #48 track of all time
+    - the #50 track of all time
 - Sacrifice (Eat Me Up) is:
-    - the #2 track of the last month
+    - the #3 track of the last month
     - the #7 track of the last 6 months
 - Bills is:
-    - the #16 track of the last 6 months
+    - the #14 track of the last 6 months
 - Bite Me is:
-    - the #36 track of the last 6 months
-- One and Only is:
-    - the #9 track of the last month
-- Always is:
-    - the #47 track of the last month
+    - the #25 track of the last 6 months
+- CRIMINAL LOVE is:
+    - the #25 track of the last month
+    - the #44 track of the last 6 months
 
 ### Top tracks of all time over time
 

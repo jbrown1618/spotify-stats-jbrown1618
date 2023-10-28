@@ -11,6 +11,10 @@
 ## Artist Rank
 
 ![Rank of Rihanna over time](../../images/artists/rihanna/rank_time_series.png)
+## Top Tracks
+
+- The Monster is:
+    - the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
