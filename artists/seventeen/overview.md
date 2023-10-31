@@ -29,7 +29,7 @@ SEVENTEEN:
 SEVENTEEN is currently:
 - The #12 artist of all time
 - The #12 artist of the last 6 months
-- The #14 artist of the last month
+- The #18 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
@@ -38,8 +38,6 @@ SEVENTEEN is currently:
     - the #12 track of all time
 - HOME;RUN is:
     - the #42 track of all time
-- Dust is:
-    - the #39 track of the last 6 months
 
 ### Top tracks of all time over time
 

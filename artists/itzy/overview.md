@@ -30,7 +30,7 @@ ITZY is currently:
     - the #12 track of the last 6 months
     - the #28 track of all time
 - #Twenty is:
-    - the #26 track of the last month
+    - the #21 track of the last month
 
 ### Top tracks of all time over time
 

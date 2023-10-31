@@ -25,16 +25,14 @@ Stray Kids:
 Stray Kids is currently:
 - The #7 artist of all time
 - The #8 artist of the last 6 months
-- The #8 artist of the last month
+- The #7 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
-    - the #17 track of the last 6 months
+    - the #16 track of the last 6 months
     - the #43 track of all time
-- TOPLINE (Feat. Tiger JK) is:
-    - the #28 track of the last month
 
 ### Top tracks of all time over time
 

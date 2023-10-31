@@ -8,11 +8,11 @@
 Gain is currently:
 - The #20 artist of the last month
 
-
+![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks
 
 - Paradise Lost is:
-    - the #4 track of the last month
+    - the #3 track of the last month
 
 ### Top tracks of the last month over time
 

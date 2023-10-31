@@ -10,7 +10,7 @@
 ## Top Tracks
 
 - Yoga is:
-    - the #42 track of the last month
+    - the #36 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

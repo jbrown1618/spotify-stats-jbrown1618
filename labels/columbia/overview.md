@@ -187,7 +187,7 @@ Appears as:
 
 
 <details>
-<summary>See all 71 genres</summary>
+<summary>See all 70 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -220,7 +220,6 @@ Appears as:
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
-| 1 | 1 | azontobeats |
 | 1 | 1 | australian rock |
 | 1 | 1 | afrobeats |
 | 3 | 0 | jazz quartet |

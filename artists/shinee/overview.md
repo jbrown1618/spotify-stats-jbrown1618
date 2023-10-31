@@ -11,7 +11,7 @@ SHINee:
 - has member KEY
 - has member MINHO
 - has member ONEW
-- has member TAEMIN
+- has member [TAEMIN](../taemin/overview.md)
 
 ## Artist Rank
 SHINee is currently:
@@ -21,7 +21,7 @@ SHINee is currently:
 ## Top Tracks
 
 - Orgel is:
-    - the #5 track of the last month
+    - the #4 track of the last month
 
 ### Top tracks of the last month over time
 

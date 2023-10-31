@@ -12,7 +12,7 @@
 IU is currently:
 - The #3 artist of all time
 - The #4 artist of the last 6 months
-- The #27 artist of the last month
+- The #28 artist of the last month
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
 ## Top Tracks
@@ -22,12 +22,14 @@ IU is currently:
 - Coin is:
     - the #19 track of all time
 - My sea is:
-    - the #22 track of the last 6 months
+    - the #21 track of the last 6 months
     - the #27 track of all time
 - LILAC is:
     - the #31 track of all time
 - Jam Jam is:
     - the #33 track of the last 6 months
+- Scary Fairy Tale is:
+    - the #44 track of the last month
 
 ### Top tracks of all time over time
 

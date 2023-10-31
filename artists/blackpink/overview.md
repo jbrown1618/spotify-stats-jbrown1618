@@ -20,7 +20,7 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #5 artist of all time
 - The #10 artist of the last 6 months
-- The #10 artist of the last month
+- The #9 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -34,10 +34,10 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #13 track of all time
 - DDU-DU DDU-DU is:
-    - the #21 track of the last month
+    - the #17 track of the last month
     - the #35 track of all time
 - WHISTLE is:
-    - the #47 track of all time
+    - the #48 track of all time
 - Pink Venom is:
     - the #15 track of the last 6 months
 

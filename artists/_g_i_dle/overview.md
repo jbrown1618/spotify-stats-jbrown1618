@@ -36,13 +36,13 @@
 - TOMBOY is:
     - the #38 track of the last 6 months
 - Oh my god is:
-    - the #46 track of the last 6 months
+    - the #45 track of the last 6 months
 - DARK (X-file) is:
-    - the #11 track of the last month
+    - the #9 track of the last month
 - DUMDi DUMDi is:
-    - the #37 track of the last month
+    - the #31 track of the last month
 - Put It Straight - Nightmare Version is:
-    - the #46 track of the last month
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 

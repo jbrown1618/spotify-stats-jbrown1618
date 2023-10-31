@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1671 tracks
+1672 tracks
 
 [See Track Features](audio_features.md)
 
@@ -364,11 +364,11 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 704 | 704 | [k-pop](../../genres/k_pop/overview.md) |
-| 395 | 395 | [pop](../../genres/pop/overview.md) |
+| 396 | 396 | [pop](../../genres/pop/overview.md) |
 | 358 | 358 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 196 | 196 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
-| 83 | 83 | [dance pop](../../genres/dance_pop/overview.md) |
+| 84 | 84 | [dance pop](../../genres/dance_pop/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
 | 56 | 56 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 54 | 54 | [lilith](../../genres/lilith/overview.md) |
@@ -437,18 +437,19 @@
 | 9 | 9 | [lounge](../../genres/lounge/overview.md) |
 | 9 | 9 | japanese teen pop |
 | 9 | 9 | bergen indie |
-| 8 | 8 | pop rap |
 | 8 | 8 | korean city pop |
 | 8 | 8 | etherpop |
 | 8 | 8 | british soul |
 | 8 | 8 | australian dance |
 | 8 | 8 | alternative r&b |
+| 7 | 7 | pop rap |
 | 7 | 7 | motown |
 | 7 | 7 | modern alternative rock |
 | 7 | 7 | latin pop |
 | 7 | 7 | kawaii metal |
 | 7 | 7 | j-metal |
 | 7 | 7 | idol rock |
+| 7 | 7 | girl group |
 | 7 | 7 | country dawn |
 | 7 | 7 | country |
 | 7 | 7 | contemporary country |
@@ -460,7 +461,6 @@
 | 6 | 6 | stomp and holler |
 | 6 | 6 | progressive rock |
 | 6 | 6 | la indie |
-| 6 | 6 | girl group |
 | 6 | 6 | electro |
 | 5 | 5 | vocal jazz |
 | 5 | 5 | uk funky |
@@ -618,7 +618,7 @@
 | [2008](2008.md) | 23 |
 | [2007](2007.md) | 28 |
 | 2006 | 13 |
-| 2005 | 14 |
+| 2005 | 15 |
 | 2004 | 7 |
 | 2003 | 9 |
 | 2002 | 13 |

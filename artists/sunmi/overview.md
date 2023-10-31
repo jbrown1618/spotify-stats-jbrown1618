@@ -23,9 +23,9 @@ SUNMI is currently:
 ## Top Tracks
 
 - STRANGER is:
-    - the #19 track of the last month
+    - the #16 track of the last month
 - Oh Sorry Ya is:
-    - the #23 track of the last month
+    - the #18 track of the last month
 
 ### Top tracks of the last month over time
 

@@ -34,8 +34,8 @@ aespa is currently:
 - Black Mamba is:
     - the #20 track of all time
 - Illusion is:
-    - the #15 track of the last month
-    - the #8 track of the last 6 months
+    - the #12 track of the last month
+    - the #11 track of the last 6 months
     - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
@@ -44,9 +44,9 @@ aespa is currently:
 - Thirsty is:
     - the #3 track of the last 6 months
 - Salty & Sweet is:
-    - the #11 track of the last 6 months
+    - the #10 track of the last 6 months
 - Hold On Tight is:
-    - the #19 track of the last 6 months
+    - the #20 track of the last 6 months
 - I'm Unhappy is:
     - the #28 track of the last 6 months
 - YEPPI YEPPI is:

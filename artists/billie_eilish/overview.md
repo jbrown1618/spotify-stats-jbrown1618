@@ -18,7 +18,7 @@ Billie Eilish is currently:
 ## Top Tracks
 
 - you should see me in a crown is:
-    - the #47 track of the last month
+    - the #41 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
