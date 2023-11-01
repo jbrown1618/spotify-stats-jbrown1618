@@ -29,7 +29,7 @@ aespa is currently:
     - the #4 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #29 track of the last 6 months
+    - the #28 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #20 track of all time
@@ -46,11 +46,13 @@ aespa is currently:
 - Salty & Sweet is:
     - the #10 track of the last 6 months
 - Hold On Tight is:
-    - the #20 track of the last 6 months
+    - the #26 track of the last 6 months
 - I'm Unhappy is:
-    - the #28 track of the last 6 months
+    - the #27 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #31 track of the last 6 months
+    - the #30 track of the last 6 months
+- 'Til We Meet Again is:
+    - the #50 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -92,7 +94,7 @@ aespa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | 1 | Hold On Tight | 2023-03-30 | [🔗](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b1ee39743c40b88a80b4ccf" alt="" width="50" /> | 1 | 1 | Dreams Come True - SM STATION | 2021-12-20 | [🔗](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | 1 | 1 | Black Mamba | 2020-11-17 | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 1 | 1 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 
 ## Top Record Labels
@@ -214,7 +216,7 @@ aespa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](overview.md), nævis | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | Better Things | Better Things | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="" width="50" /> | ZOOM ZOOM | ZOOM ZOOM | [aespa](overview.md) | [WM Japan](../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) |
 
 </details>

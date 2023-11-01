@@ -1,6 +1,6 @@
 # Genie Music Corporation
 
-103 songs
+106 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Genie Music Corporation, Stone Music Entertainment (71 tracks)
-- Genie Music Corporation (25 tracks)
+- Genie Music Corporation (28 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 
 ## Top Artists
@@ -28,13 +28,14 @@ Appears as:
 
 
 <details>
-<summary>See all 78 artists</summary>
+<summary>See all 80 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 2 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 2 | 2 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 2 | 2 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 2 | 2 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 2 | 1 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | 2 | 1 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb511f570580c79107b2fa70b9" alt="" width="50" /> | 2 | 1 | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
@@ -44,6 +45,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6947ee70e28e545a2aba3d07" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f97d79b20d5c1106baa2c5a" alt="" width="50" /> | 1 | 1 | BOBBY | [🔗](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb104a945056fc7598ef7f5b2d" alt="" width="50" /> | 1 | 1 | ZEROBASEONE | [🔗](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e63d03f37efe1acd2feddae" alt="" width="50" /> | 1 | 1 | CHANYEOL | [🔗](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 1 | 1 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a361eb2adfa465d953415b1" alt="" width="50" /> | 1 | 1 | EVNNE | [🔗](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) |
@@ -53,6 +55,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29d6428b4b21a6c952b2aea9" alt="" width="50" /> | 1 | 1 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 1 | 1 | Solar | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 1 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb18b5e84af500dc8efbd5f889" alt="" width="50" /> | 1 | 1 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf6da22416dab41964cd6904" alt="" width="50" /> | 1 | 1 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | | 1 | 1 | En Butter | [🔗](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) |
@@ -69,11 +72,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 1 | 1 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59749ba840544efb98f280f1" alt="" width="50" /> | 1 | 1 | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357354d0cf206b5e890a45b15" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c8fe4d8c72bbd833ceaf202" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 2 | 0 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | 2 | 0 | JAMIE | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13eac1b51784e97af0b3f7ae" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | 1 | 0 | CHEETAH | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
 | | 1 | 0 | NINTYSIX | [🔗](https://open.spotify.com/artist/6PR5lyCpN2aFKgHUvY9B3O) |
@@ -89,7 +92,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | 1 | 0 | BOYS PLANET | [🔗](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | 1 | 0 | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1722d31b67b9f5a48e94e465" alt="" width="50" /> | 1 | 0 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | 1 | 0 | JAMIE | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 1 | 0 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 1 | 0 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | 1 | 0 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
@@ -118,15 +120,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 2 | 2 | Song of the Bandits (Music from The Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | 2 | 2 | ONLY LOVERS LEFT | 2021-10-05 | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | 2 | 1 | Street Woman Fighter2 (SWF2) Crew Songs | 2023-08-22 | [🔗](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 2 | 1 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | 2 | 1 | FIRST IMPACT | 2022-01-03 | [🔗](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) |
 
 
 <details>
-<summary>See all 84 albums</summary>
+<summary>See all 86 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | 2 | 1 | FIRST IMPACT | 2022-01-03 | [🔗](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | 2 | 1 | And July | 2016-07-18 | [🔗](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 2 | 1 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
@@ -140,6 +143,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | 1 | 1 | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | 1 | 1 | The Hyena on the Keyboard Pt. 4 | 2018-04-21 | [🔗](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="" width="50" /> | 1 | 1 | Target: ME | 2023-09-19 | [🔗](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | 1 | 1 | Street Woman Fighter2 (SWF2) Class Mission | 2023-09-05 | [🔗](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | 1 | 1 | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | 1 | 1 | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | 1 | 1 | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
@@ -211,12 +215,12 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 70 | 49 | [k-pop](../../genres/k_pop/overview.md) |
-| 22 | 15 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 72 | 50 | [k-pop](../../genres/k_pop/overview.md) |
+| 24 | 17 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 16 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 17 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 7 | [korean pop](../../genres/korean_pop/overview.md) |
-| 5 | 3 | [k-rap](../../genres/k_rap/overview.md) |
+| 6 | 4 | [k-rap](../../genres/k_rap/overview.md) |
 | 3 | 3 | korean ost |
 | 1 | 1 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | korean trap |
@@ -302,6 +306,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY | PLAY | [CHUNG HA](../../artists/chung_ha/overview.md), CHANGMO | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | 458 | CIX 5th EP Album ‘OK’ Episode 1 : OK Not | CIX | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="" width="50" /> | The Whispering Spell | Doona! (Music from The Netflix Series) | DREAM SWEET | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/2nNwocxaAoKkh36Lw8LT3t) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | Smoke (Prod. Dynamicduo, Padi) | Street Woman Fighter2 (SWF2) Class Mission | Dynamicduo, Lee Young Ji | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="" width="50" /> | I Need The Light | I Need The Light | [ENHYPEN](../../artists/enhypen/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbcb3e52c772d774ba73b9c2" alt="" width="50" /> | Do 4 Me | 2nd EP Album ‘Bipolar Pt.2 Prelude of Love’ | EPEX | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | Bon Bon Chocolat | ARRIVAL OF EVERGLOW | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5XS0GCCIotaI6XtsYcIKeX) |
@@ -322,9 +327,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | VingleVingle (Prod. R.Tee) | VingleVingle | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="" width="50" /> | Chili | Chili | [HWASA](../../artists/hwasa/overview.md) | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | Chemistry (Prod. Czaer) | Street Woman Fighter2 (SWF2) Crew Songs | HYOLYN | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/67apFn1yn2GNtLjNk3syQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | Weapon (With Newnion, FLOOR) (Prod.Czaer) | Street Dance Girls Fighter(SGF) Special | [ITZY](../../artists/itzy/overview.md) | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | La Vie en Rose | COLOR*IZ | IZ*ONE | [Genie Music Corporation](.) | | [🔗](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | FIESTA | BLOOM*IZ | IZ*ONE | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | Naked Gold (Prod. Czaer) | Street Woman Fighter2 (SWF2) Crew Songs | JAMIE | [Genie Music Corporation](.) | | [🔗](https://open.spotify.com/track/33tYdpRKfx5HJR06Vu4P9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273351ac6effa17d7780a306d24" alt="" width="50" /> | GLASSY | GLASSY | JO YURI | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="" width="50" /> | Sex Trip | MOMMAE | Jay Park | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | MOMMAE | Worldwide | Jay Park, Ugly Duck | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) |

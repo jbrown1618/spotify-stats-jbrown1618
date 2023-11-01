@@ -26,7 +26,7 @@ CLC is currently:
 - HELICOPTER is:
     - the #41 track of all time
 - Hobgoblin is:
-    - the #33 track of the last month
+    - the #32 track of the last month
 
 ### Top tracks of all time over time
 

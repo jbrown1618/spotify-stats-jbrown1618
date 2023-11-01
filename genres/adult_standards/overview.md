@@ -27,7 +27,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | 1 | 0 | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d8f97058ff993df0f4eb9ee" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |

@@ -27,9 +27,9 @@ TAEYEON is currently:
 - Can't Control Myself is:
     - the #18 track of the last 6 months
 - Toddler is:
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - I Got Love is:
-    - the #30 track of the last 6 months
+    - the #29 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

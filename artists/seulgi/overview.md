@@ -20,9 +20,9 @@ SEULGI is currently:
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
 - Crown is:
-    - the #45 track of the last month
+    - the #44 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -112,7 +112,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | 1 | 0 | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
@@ -420,7 +420,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md), nævis | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
 
 </details>
 

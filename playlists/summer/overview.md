@@ -593,7 +593,7 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> | Diana Ross Presents The Jackson 5 (1969-12-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="Better Things" width="50" /> | Better Things (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> | Diana Ross Presents The Jackson 5 (1969-12-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | TEENFRESH (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | Bridge Over Troubled Water (1970-01-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August" width="50" /> | THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August (2023-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="Signed, Sealed And Delivered" width="50" /> | Signed, Sealed And Delivered (1970-08-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="One and Only" width="50" /> | One and Only (2023-07-11) | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="Sheer Heart Attack" width="50" /> | Sheer Heart Attack (1974-11-08) |

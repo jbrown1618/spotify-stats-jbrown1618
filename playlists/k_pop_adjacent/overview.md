@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[51 tracks (33 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
+[52 tracks (34 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 67 artists</summary>
+<summary>See all 69 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -38,11 +38,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | 1 | 1 | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 1 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb18b5e84af500dc8efbd5f889" alt="" width="50" /> | 1 | 1 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 1 | 1 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 1 | 1 | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 1 | 1 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe80d1ffb81aa6503ad41c574" alt="" width="50" /> | 1 | 1 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfaf557d3e442fd4634e54f09" alt="" width="50" /> | 1 | 1 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c7f0695e260619b85d687db" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 1 | 1 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
@@ -60,6 +61,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe997c35b5546c5fa4eeb8c02" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 1 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d53f158f4070d5a72190c4c" alt="" width="50" /> | 1 | 1 | Stephanie Poetri | [🔗](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | 2 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
@@ -112,11 +114,12 @@
 
 
 <details>
-<summary>See all 50 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | 1 | 1 | Taxidriver OST Part.1 | 2021-04-16 | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | 1 | 1 | Street Woman Fighter2 (SWF2) Class Mission | 2023-09-05 | [🔗](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | 1 | 1 | Salute (Expanded Edition) | 2013-11-11 | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | 1 | 1 | REMIND | 2016-10-26 | [🔗](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | 1 | 1 | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
@@ -179,7 +182,7 @@
 
 
 <details>
-<summary>See all 48 labels</summary>
+<summary>See all 49 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -200,6 +203,7 @@
 | 1 | 1 | Music Recipe |
 | 1 | 1 | J Records |
 | 1 | 1 | Island Records |
+| 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | CRAFT AND JUN |
@@ -244,7 +248,7 @@
 
 
 <details>
-<summary>See all 53 genres</summary>
+<summary>See all 55 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -259,7 +263,9 @@
 | 1 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | latin viral pop |
+| 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean city pop |
+| 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | japanese teen pop |
@@ -388,12 +394,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27378e172661e9902180548593b" alt="Livelock" width="50" /> | Livelock (2023-10-11) | <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="A Kind Of Magic" width="50" /> | A Kind Of Magic (1986-06-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> | Flowers (Cover) (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | 미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | Purpose (Deluxe) (2015-11-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Street Woman Fighter2 (SWF2) Class Mission (2023-09-05) | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="The Diary Of Alicia Keys" width="50" /> | The Diary Of Alicia Keys (2003-12-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | 미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> | Flowers (Cover) (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | Purpose (Deluxe) (2015-11-13) |

@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1672 tracks
+1677 tracks
 
 [See Track Features](audio_features.md)
 
@@ -16,8 +16,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 33 | 33 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 31 | 31 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 27 | 27 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 26 | 26 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 25 | 25 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 25 | 25 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 24 | 24 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 24 | 24 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 
@@ -246,16 +246,16 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 197 | 197 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 198 | 198 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 99 | 99 | [Republic Records](../../labels/republic_records/overview.md) |
-| 67 | 67 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 66 | 66 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 69 | 69 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 67 | 67 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 61 | 61 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 60 | 60 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 60 | 60 | [Epic](../../labels/epic/overview.md) |
 | 57 | 57 | [Columbia](../../labels/columbia/overview.md) |
 | 53 | 53 | [Warner Records](../../labels/warner_records/overview.md) |
-| 49 | 49 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 50 | 50 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
 
 <details>
@@ -266,8 +266,8 @@
 | 45 | 45 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 37 | 37 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 30 | 30 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 29 | 29 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 28 | 28 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
-| 28 | 28 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 23 | 23 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 22 | 22 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 21 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
@@ -290,9 +290,9 @@
 | 11 | 11 | [Jive](../../labels/jive/overview.md) |
 | 11 | 11 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 11 | 11 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
+| 11 | 11 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 10 | 10 | [Syco Music](../../labels/syco_music/overview.md) |
 | 10 | 10 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
-| 10 | 10 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 9 | 9 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 9 | 9 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 9 | 9 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
@@ -363,12 +363,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 704 | 704 | [k-pop](../../genres/k_pop/overview.md) |
+| 706 | 706 | [k-pop](../../genres/k_pop/overview.md) |
 | 396 | 396 | [pop](../../genres/pop/overview.md) |
-| 358 | 358 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 360 | 360 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 196 | 196 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
-| 84 | 84 | [dance pop](../../genres/dance_pop/overview.md) |
+| 85 | 85 | [dance pop](../../genres/dance_pop/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
 | 56 | 56 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 54 | 54 | [lilith](../../genres/lilith/overview.md) |
@@ -385,8 +385,8 @@
 | 42 | 42 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 40 | 40 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 40 | 40 | [album rock](../../genres/album_rock/overview.md) |
+| 38 | 38 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 36 | 36 | [soft rock](../../genres/soft_rock/overview.md) |
-| 36 | 36 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 35 | 35 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 32 | 32 | [art pop](../../genres/art_pop/overview.md) |
 | 30 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
@@ -401,11 +401,11 @@
 | 25 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 24 | 24 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 23 | 23 | [rap](../../genres/rap/overview.md) |
+| 23 | 23 | [k-rap](../../genres/k_rap/overview.md) |
 | 23 | 23 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 22 | 22 | [uk pop](../../genres/uk_pop/overview.md) |
 | 22 | 22 | merseybeat |
 | 22 | 22 | [korean pop](../../genres/korean_pop/overview.md) |
-| 22 | 22 | [k-rap](../../genres/k_rap/overview.md) |
 | 19 | 19 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 19 | 19 | melancholia |
 | 19 | 19 | [hard rock](../../genres/hard_rock/overview.md) |
@@ -600,7 +600,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 165 |
+| [2023](2023.md) | 169 |
 | [2022](2022.md) | 248 |
 | [2021](2021.md) | 187 |
 | [2020](2020.md) | 137 |
@@ -613,7 +613,7 @@
 | [2013](2013.md) | 55 |
 | [2012](2012.md) | 54 |
 | [2011](2011.md) | 35 |
-| [2010](2010.md) | 37 |
+| [2010](2010.md) | 38 |
 | [2009](2009.md) | 31 |
 | [2008](2008.md) | 23 |
 | [2007](2007.md) | 28 |
@@ -665,13 +665,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' (2023-10-23) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="RINGO" width="50" /> | RINGO (2023-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | I'VE MINE (2023-10-13) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="JENNIE Special Single [You &amp; Me]" width="50" /> | JENNIE Special Single [You & Me] (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="ZOOM ZOOM" width="50" /> | ZOOM ZOOM (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | HEAT (2023-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="Chili" width="50" /> | Chili (2023-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" alt="3D (feat. Jack Harlow)" width="50" /> | 3D (feat. Jack Harlow) (2023-09-29) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="Guilty - The 4th Mini Album" width="50" /> | Guilty - The 4th Mini Album (2023-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="Talk Saxy" width="50" /> | Talk Saxy (2023-10-27) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' (2023-10-23) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="RINGO" width="50" /> | RINGO (2023-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | I'VE MINE (2023-10-13) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="ZOOM ZOOM" width="50" /> | ZOOM ZOOM (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="JENNIE Special Single [You &amp; Me]" width="50" /> | JENNIE Special Single [You & Me] (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | HEAT (2023-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |

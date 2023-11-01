@@ -29,17 +29,17 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #23 track of the last 6 months
+    - the #22 track of the last 6 months
     - the #23 track of all time
 - Polaroid Love is:
     - the #50 track of all time
 - Sacrifice (Eat Me Up) is:
-    - the #14 track of the last month
+    - the #15 track of the last month
     - the #6 track of the last 6 months
 - Bills is:
     - the #14 track of the last 6 months
 - Bite Me is:
-    - the #25 track of the last 6 months
+    - the #24 track of the last 6 months
 - CRIMINAL LOVE is:
     - the #20 track of the last month
     - the #43 track of the last 6 months

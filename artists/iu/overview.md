@@ -22,14 +22,15 @@ IU is currently:
 - Coin is:
     - the #19 track of all time
 - My sea is:
-    - the #21 track of the last 6 months
+    - the #20 track of the last 6 months
     - the #27 track of all time
 - LILAC is:
+    - the #50 track of the last month
     - the #31 track of all time
 - Jam Jam is:
-    - the #33 track of the last 6 months
+    - the #32 track of the last 6 months
 - Scary Fairy Tale is:
-    - the #44 track of the last month
+    - the #43 track of the last month
 
 ### Top tracks of all time over time
 

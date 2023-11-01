@@ -75,15 +75,15 @@
 | ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! (0.00392) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | TOMBOY (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | I Want That (0.000584) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | No (0.000326) | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Queencard (0.000268) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | All Night (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (7.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (4.33e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="First Love" width="50" /> | Pepe (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (2.4e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | The Game (1.43e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Allergy (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Put It Straight (1.32e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | I DO (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="Lip &amp; Hip" width="50" /> | Lip & Hip (8.49e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="HEAT" width="50" /> | I Want That (0.000584) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | Never Stop Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | I Want That (0.000584) | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="No.1" width="50" /> | No (0.000326) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | All Night (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Queencard (0.000268) | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | MY BAG (7.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="First Love" width="50" /> | Pepe (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (4.33e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (2.4e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="I feel" width="50" /> | Allergy (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | The Game (1.43e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | I DO (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Put It Straight (1.32e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.0) |
 
 ## Liveness
 
@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | LIAR (0.332) | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | $$$ (0.0664) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Senorita (0.331) | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | Feelin' Like (0.0665) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | VILLAIN DIES (0.3) | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | I Want That (0.0742) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Put It Straight (0.293) | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="Trouble Maker" width="50" /> | Trouble Maker (0.0778) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! (0.285) | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="First Love" width="50" /> | Pepe (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Put It Straight (0.293) | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="HEAT" width="50" /> | I Want That (0.0742) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! (0.285) | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="Trouble Maker" width="50" /> | Trouble Maker (0.0778) |
 
 ## Valence
 

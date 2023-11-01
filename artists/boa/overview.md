@@ -23,12 +23,10 @@ BoA is currently:
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
-- Time After Time is:
-    - the #27 track of the last 6 months
 - Better is:
-    - the #15 track of the last month
+    - the #14 track of the last month
 - Hurricane Venus is:
-    - the #32 track of the last month
+    - the #31 track of the last month
 
 ### Top tracks of the last 6 months over time
 

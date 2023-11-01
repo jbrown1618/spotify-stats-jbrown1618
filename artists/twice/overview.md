@@ -36,9 +36,9 @@ TWICE is currently:
 - The Feels is:
     - the #47 track of all time
 - What is Love is:
-    - the #32 track of the last 6 months
+    - the #31 track of the last 6 months
 - SET ME FREE is:
-    - the #50 track of the last 6 months
+    - the #49 track of the last 6 months
 
 ### Top tracks of all time over time
 

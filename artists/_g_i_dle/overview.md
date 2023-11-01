@@ -34,15 +34,13 @@
 - All Night is:
     - the #13 track of the last 6 months
 - TOMBOY is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 - Oh my god is:
-    - the #45 track of the last 6 months
+    - the #41 track of the last 6 months
 - DARK (X-file) is:
     - the #9 track of the last month
-- DUMDi DUMDi is:
-    - the #31 track of the last month
 - Put It Straight - Nightmare Version is:
-    - the #40 track of the last month
+    - the #39 track of the last month
 
 ### Top tracks of all time over time
 
@@ -58,9 +56,9 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 36 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 37 | [K-Pop](../../playlists/k_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 9 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b273662be38ecc5e14742193b653ab67616d0000b27382dd2427e6d302711b1b9616ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 6 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b273662be38ecc5e14742193b653ab67616d0000b27382dd2427e6d302711b1b9616ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 5 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 4 | [Halloween](../../playlists/halloween/overview.md) |
@@ -91,6 +89,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | 1 | 1 | POP/STARS | 2018-11-03 | [🔗](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | 1 | 1 | HEAT | 2023-10-04 | [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | 1 | 1 | HANN (Alone) | 2018-08-14 | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | 1 | 1 | DUMDi DUMDi | 2020-08-03 | [🔗](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | 1 | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
@@ -106,10 +105,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 24 | 17 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 25 | 18 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 14 | 5 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 3 | Riot Games |
-| 2 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
+| 3 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 
 ## Genres
@@ -264,6 +263,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Allergy | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | | [🔗](https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Queencard | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="" width="50" /> | I DO | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4DBLBCVLDOmJwRysidmjHL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | | [🔗](https://open.spotify.com/track/34pKV56b6d7Nz1l6av1nZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS | POP/STARS | K/DA, Madison Beer, [(G)I-DLE](overview.md), Jaira Burns, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) |

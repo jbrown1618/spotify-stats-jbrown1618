@@ -14,7 +14,11 @@
 ## Top Tracks
 
 - The Monster is:
-    - the #43 track of the last month
+    - the #42 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/rihanna/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3c3fbad199bf7248b4597dd7" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 
 
 <details>

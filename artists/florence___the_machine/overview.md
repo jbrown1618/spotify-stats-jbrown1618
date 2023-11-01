@@ -24,6 +24,8 @@ Florence + The Machine:
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
 ## Top Tracks
 
+- Seven Devils is:
+    - the #49 track of the last month
 
 ### Top tracks of the last month over time
 

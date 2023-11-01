@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-85 tracks
+77 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -20,13 +20,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | aenergy | Savage - The 1st Mini Album | [aespa](../../../../artists/aespa/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) |
 ## Cluster #2
 
-19 tracks
+23 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ALREADY | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../../../artists/dreamcatcher/overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | Hello | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | Wind flower | BLUE;S | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | | [🔗](https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Fool | Russian Roulette - The 3rd Mini Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/21C7B7PWYDW00czamOjleO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="" width="50" /> | 어떤 별보다 | Hotel del Luna (Original Television Soundtrack) Pt.8 | [Red Velvet](../../../../artists/red_velvet/overview.md) | FNC인베스트먼트 | | [🔗](https://open.spotify.com/track/3rjWX5YhfI3Alagrf4poY0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | Eyes Locked, Hands Locked | ‘The ReVe Festival’ Day 2 | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4o6LdaI3q5QFjs0sziszsD) |
@@ -36,23 +36,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
 ## Cluster #3
 
-86 tracks
+57 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | MY BAG | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0e3d3643c20de294b970668" alt="" width="50" /> | DDD | Full Moon | EXID | BANANA CULTURE | | [🔗](https://open.spotify.com/track/3nXUfNbkv8ikaSdHwEp0oY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | In the morning - English Ver. | In the morning (English Ver.) | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0rXBxNaEX9pJSV8U7xYUXr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Blue Flame | FEARLESS | [LE SSERAFIM](../../../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](../../../../labels/source_music) | 💚 | [🔗](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Pose | Queendom - The 6th Mini Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | First Time | Taste of Love | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | WHISTLE | SQUARE ONE | [BLACKPINK](../../../../artists/blackpink/overview.md) | [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Love To Hate Me | THE ALBUM | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No | No.1 | [CLC](../../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../../../../labels/cube_entertainment) | | [🔗](https://open.spotify.com/track/3sygLAUhHsJsQ0cBk6fxRd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e03d61c4f569348f1bedacd" alt="" width="50" /> | Something | Girl's Day Love Second Album | Girl's Day | GU Music | 💚 | [🔗](https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN | ELEVEN | [IVE](../../../../artists/ive/overview.md) | [STARSHIP Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Cookie | NewJeans 1st EP 'New Jeans' | [NewJeans](../../../../artists/newjeans/overview.md) | [ADOR](../../../../labels/ador) | | [🔗](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | Breakthrough | Breakthrough | [TWICE](../../../../artists/twice/overview.md) | [WM Japan](../../../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) |
 ## Cluster #4
 
-19 tracks
+17 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -68,23 +68,71 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
 ## Cluster #5
 
-62 tracks
+78 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | DAHLIA | I burn | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2CxgY4VvTNA0bG2nVtmgPg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | LOVE | I love | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | | [🔗](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Don't Know What To Do | KILL THIS LOVE | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/38SKB7UfhL6Sd6Joxex5yK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kick It | KILL THIS LOVE | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | | [🔗](https://open.spotify.com/track/4rsoLz7ZY1Ldz8dpm4Lqtg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | Gas Me Up | CRAZY IN LOVE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3RCMSJIlIZkvJP4LFGtOtu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS | POP/STARS | K/DA, Madison Beer, [(G)I-DLE](../../../../artists/_g_i_dle/overview.md), Jaira Burns, League of Legends | Riot Games | 💚 | [🔗](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | [LE SSERAFIM](../../../../artists/le_sserafim/overview.md), Nile Rodgers | [SOURCE MUSIC](../../../../labels/source_music) | 💚 | [🔗](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Psycho | ‘The ReVe Festival’ Finale | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | ASAP | STAYDOM | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
 ## Cluster #6
 
-21 tracks
+42 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO - English Ver. | CRAZY IN LOVE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0QPYsEvaoEJzZLSF5Cq390) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | Décalcomanie | MEMORY | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="" width="50" /> | Villain | REBORN | PIXY | ALLART ENTERTAINMENT, HAPPYTRIBE ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/5Doeu3aSa5tBHayCx0EbHa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Bing Bing | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6u78votmpGuKAE4BOeJtRC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Zimzalabim | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | TT | Twicecoaster: Lane 1 | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | f(x) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
+## Cluster #7
+
+61 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](../../../../artists/itzy/overview.md) | [WM Japan](../../../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="" width="50" /> | FIESTA | BLOOM*IZ | IZ*ONE | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Flip That | Summer Special [Flip That] | LOONA | [WM Korea](../../../../labels/wm_korea) | 💚 | [🔗](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Nonstop | NONSTOP | [OH MY GIRL](../../../../artists/oh_my_girl/overview.md) | [WM Entertainment](../../../../labels/wm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="" width="50" /> | KARMA | CHOSEN KARMA | PIXY | ALLART ENTERTAINMENT | 💚 | [🔗](https://open.spotify.com/track/32Yza17xuVSKayVyPcG79I) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | Be Natural | Be Natural - The 2nd Single | [Red Velvet](../../../../artists/red_velvet/overview.md), TAEYONG | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Jumpin' | ‘The ReVe Festival’ Finale | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3q21kVfUIdkzqYpzBCbojN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | Good, Bad, Ugly | ‘The ReVe Festival 2022 - Feel My Rhythm’ | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1DX08glq6CBGBA0N6uL3JV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Talk that Talk | BETWEEN 1&2 | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) |
+## Cluster #8
+
+44 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | LOST | I burn | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy - English Ver. | Not Shy (English Ver.) | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc.](../../../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | MISAMO | [WM Japan](../../../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Kingdom Come | Perfect Velvet - The 2nd Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5XJEdVQ5jl3C3dFsV7kCTZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | Signal | SIGNAL | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | BETWEEN 1&2 | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
+## Cluster #9
+
+19 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -98,67 +146,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | Hear The Sea | The Red Summer - Summer Mini Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5rUWULaKgEK2HozI1wYvZ9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Moonlight Melody | Perfect Velvet - The 2nd Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1WryFxHMRpm6SOl58n8BYz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | I’ll BE THERE | STEREOTYPE | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | | [🔗](https://open.spotify.com/track/1aWnOcf3GE7xuu4rubVPYL) |
-## Cluster #7
-
-29 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Scream | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../../../artists/dreamcatcher/overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | REASON | [REASON] | [Dreamcatcher](../../../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | | [🔗](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | Up & Down | AH YEAH | EXID | Yedang Entertainment | 💚 | [🔗](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 | FOREVER 1 - The 7th Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="" width="50" /> | Fantasy | Fantasy | PinkFantasy | 마이돌엔터테인먼트 | | [🔗](https://open.spotify.com/track/3p6tX23sAlkq2yAQ3Btq2B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Oh Boy | The Red - The 1st Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3ts0OSZgdjOP0Uu1DvQK4h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | TT | Twicecoaster: Lane 1 | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | SHOOTING STAR | SHOOTING STAR | XG | XGALX | | [🔗](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md), nævis | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
-## Cluster #8
-
-83 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | ICY | IT'z ICY | [ITZY](../../../../artists/itzy/overview.md) | [JYP Entertainment](../../../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | ICY - English Ver. | Not Shy (English Ver.) | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0H76idYK173LwctmFntEdz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | WANNA BE MYSELF | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | | [🔗](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | Dingga | Dingga | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac8b86555966c2b9e42688ca" alt="" width="50" /> | BANANA CHACHA | BANANA CHACHA | [MOMOLAND](../../../../artists/momoland/overview.md) | ICONIX | | [🔗](https://open.spotify.com/track/5rEkbyBhnuVXLfe6yp8f3b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | Banana Allergy Monkey | BANANA ALLERGY MONKEY | OH MY GIRL BANHANA | [WM Entertainment](../../../../labels/wm_entertainment) | | [🔗](https://open.spotify.com/track/65AWCpJajDOVyllaFigbi9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Lingo | Girls - The 2nd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk) |
-## Cluster #9
-
-47 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | LOST | I burn | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](../../../../artists/blackpink/overview.md) | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | Not Shy - English Ver. | Not Shy (English Ver.) | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc.](../../../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | MISAMO | [WM Japan](../../../../labels/wm_japan) | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | Signal | SIGNAL | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | BETWEEN 1&2 | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="" width="50" /> | Hush | Hush | miss A | [JYP Entertainment](../../../../labels/jyp_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) |
 ## Cluster #10
 
-58 tracks
+92 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | [CLC](../../../../artists/clc/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | Sorry Not Sorry | GUESS WHO | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO - English Ver. | CRAZY IN LOVE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0QPYsEvaoEJzZLSF5Cq390) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | RACER | CHECKMATE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | Lucky Girl | Russian Roulette - The 3rd Mini Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/22v5j98MRwc6p5KgwHvpBZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../../../../labels/high_up_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273579e945923463492cb43a5ce" alt="" width="50" /> | Perfect World | Perfect World | [TWICE](../../../../artists/twice/overview.md) | [WM Japan](../../../../labels/wm_japan) | | [🔗](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b1ee39743c40b88a80b4ccf" alt="" width="50" /> | Dreams Come True | Dreams Come True - SM STATION | [aespa](../../../../artists/aespa/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Universal Music LLC](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f21b8314d7ea1cc899b96a71" alt="" width="50" /> | DANCE ON | DANCE ON | ALICE | IOK COMPANY | 💚 | [🔗](https://open.spotify.com/track/2GOrO1x1nBH8B63YF774QY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9e6dad0846ac30e4a0db23a" alt="" width="50" /> | Excuse Me | AOA 1st Album ANGEL'S KNOCK (1) | AOA | [FNC ENTERTAINMENT](../../../../labels/fnc_entertainment) | | [🔗](https://open.spotify.com/track/2Gq8bwrWXzc1gW9g2EnHTh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | 말해봐 (Talk Talk) | I GOT A BOY - The 4th Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4fcMeRJFjEbvWagaEJD33A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Bratty | KILL MY DOUBT | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | WANNA BE MYSELF | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | | [🔗](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW Inc.](../../../../labels/rbw_inc_) | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | Banana Allergy Monkey | BANANA ALLERGY MONKEY | OH MY GIRL BANHANA | [WM Entertainment](../../../../labels/wm_entertainment) | | [🔗](https://open.spotify.com/track/65AWCpJajDOVyllaFigbi9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | ICON | Formula of Love: O+T=<3 | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) |

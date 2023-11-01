@@ -10,7 +10,11 @@
 ## Top Tracks
 
 - Yoga is:
-    - the #36 track of the last month
+    - the #35 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/janelle_mon_e/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

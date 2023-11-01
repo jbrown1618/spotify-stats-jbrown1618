@@ -25,7 +25,6 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | MAZE | I am | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ESCAPE | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | | [🔗](https://open.spotify.com/track/4O7tVdjaOQARI1rS6E6CCx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
@@ -34,13 +33,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | Because It's Christmas | The Winter's Tale | BTOB | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="" width="50" /> | Lip & Hip | Lip & Hip | HyunA | [CUBE ENTERTAINMENT](../..) | | [🔗](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) |
 ## Cluster #3
 
-7 tracks
+8 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | I am | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [CUBE ENTERTAINMENT](../..) | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | LIAR | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | | [🔗](https://open.spotify.com/track/4NrmxVJURTgzMH0QKyYy1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](../../../../artists/_g_i_dle/overview.md) | [Cube Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |

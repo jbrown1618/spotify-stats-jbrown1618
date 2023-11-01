@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1129 tracks (824 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
+[1135 tracks (828 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
 
 [See Track Features](audio_features.md)
 
@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 41 | 33 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 36 | 29 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 38 | 27 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 36 | 25 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 37 | 26 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64910866e1ff903252d3dc12" alt="" width="50" /> | 28 | 25 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 44 | 24 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 31 | 24 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9927ea0870855be7b3367c79" alt="" width="50" /> | 14 | 11 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 11 | 10 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 10 | 10 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 11 | 10 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="" width="50" /> | 12 | 9 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 10 | 9 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 10 | 9 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
@@ -70,6 +70,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 5 | 5 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="" width="50" /> | 10 | 4 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 8 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 8 | 4 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 6 | 4 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 6 | 4 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 6 | 4 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
@@ -77,11 +78,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | 5 | 4 | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba2709389daa8da217aa9390f" alt="" width="50" /> | 5 | 4 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 5 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 4 | 4 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 4 | 4 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909" alt="" width="50" /> | 4 | 4 | MISAMO | [🔗](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 7 | 3 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 7 | 3 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 7 | 3 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 6 | 3 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 6 | 3 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 5 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
@@ -93,7 +94,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eaaec0372ea5e4f248eaf282" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 4 | 3 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 4 | 3 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe80d1ffb81aa6503ad41c574" alt="" width="50" /> | 4 | 3 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | 4 | 3 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb119dd37374b6443e02508156" alt="" width="50" /> | 3 | 3 | VIVIZ | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf55b31064f94878f3da932c8" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
@@ -103,7 +104,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed480d5867f57d4bb3a285c8" alt="" width="50" /> | 3 | 3 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | 3 | 3 | YUQI | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 3 | 3 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 3 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8997aa3a0038f3deafd5706" alt="" width="50" /> | 3 | 3 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7283d8a8772263a7562447c9" alt="" width="50" /> | 5 | 2 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 5 | 2 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
@@ -249,14 +249,14 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 258 | 195 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 260 | 196 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 130 | 89 | [Republic Records](../../labels/republic_records/overview.md) |
-| 65 | 49 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
-| 56 | 37 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 66 | 50 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 57 | 38 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 53 | 37 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 46 | 34 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 40 | 29 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 39 | 29 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 39 | 28 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 33 | 26 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 25 | 23 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 
@@ -270,7 +270,7 @@
 | 31 | 20 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 22 | 17 | [Warner Records](../../labels/warner_records/overview.md) |
 | 21 | 17 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
-| 16 | 15 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
+| 17 | 15 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 23 | 13 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 22 | 12 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 14 | 11 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
@@ -278,10 +278,10 @@
 | 13 | 10 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 13 | 10 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 12 | 9 | [ADOR](../../labels/ador/overview.md) |
+| 11 | 9 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 10 | 9 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 10 | 9 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
 | 16 | 8 | [WM Korea](../../labels/wm_korea/overview.md) |
-| 10 | 8 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 9 | 7 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 8 | 7 | EDAM Entertainment |
 | 10 | 6 | [KQ Entertainment](../../labels/kq_entertainment/overview.md) |
@@ -347,6 +347,7 @@
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Silent Records |
 | 1 | 1 | STAR EMPIRE |
+| 1 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 1 | RADCOMM |
 | 1 | 1 | Parlophone UK |
 | 1 | 1 | OH!BOY PROJECT |
@@ -355,7 +356,6 @@
 | 1 | 1 | MODHAUS |
 | 1 | 1 | MLD엔터테인먼트 |
 | 1 | 1 | KONNECT Ent. |
-| 1 | 1 | Imperial Distribution |
 
 </details>
 
@@ -366,16 +366,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 878 | 635 | [k-pop](../../genres/k_pop/overview.md) |
-| 463 | 354 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 881 | 637 | [k-pop](../../genres/k_pop/overview.md) |
+| 466 | 356 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 287 | 192 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 185 | 132 | [pop](../../genres/pop/overview.md) |
 | 28 | 25 | [anime](../../genres/anime/overview.md) |
 | 26 | 17 | [k-rap](../../genres/k_rap/overview.md) |
-| 18 | 14 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 19 | 15 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 9 | 9 | korean ost |
+| 8 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
-| 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 
 
 <details>
@@ -530,7 +530,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 172 |
+| [2023](2023.md) | 177 |
 | [2022](2022.md) | 263 |
 | [2021](2021.md) | 193 |
 | [2020](2020.md) | 125 |
@@ -543,7 +543,7 @@
 | [2013](2013.md) | 23 |
 | 2012 | 10 |
 | 2011 | 8 |
-| 2010 | 7 |
+| 2010 | 8 |
 | 2009 | 4 |
 | 2008 | 6 |
 | 2007 | 3 |
@@ -559,13 +559,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' (2023-10-23) | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="Seotaiji and Boys" width="50" /> | Seotaiji and Boys (1992-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="RINGO" width="50" /> | RINGO (2023-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="No.1 - The 2nd Album" width="50" /> | No.1 - The 2nd Album (2002-01-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | I'VE MINE (2023-10-13) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="ZOOM ZOOM" width="50" /> | ZOOM ZOOM (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="Remapping the Human Soul" width="50" /> | Remapping the Human Soul (2007-01-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="JENNIE Special Single [You &amp; Me]" width="50" /> | JENNIE Special Single [You & Me] (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9fc95cc1d0fba3d48ce2d39" alt="Fact Check - The 5th Album" width="50" /> | Fact Check - The 5th Album (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="HEAT" width="50" /> | HEAT (2023-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="Chili" width="50" /> | Chili (2023-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" alt="3D (feat. Jack Harlow)" width="50" /> | 3D (feat. Jack Harlow) (2023-09-29) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="Guilty - The 4th Mini Album" width="50" /> | Guilty - The 4th Mini Album (2023-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="Seotaiji and Boys" width="50" /> | Seotaiji and Boys (1992-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="Talk Saxy" width="50" /> | Talk Saxy (2023-10-27) | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="No.1 - The 2nd Album" width="50" /> | No.1 - The 2nd Album (2002-01-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="Perfect Night" width="50" /> | Perfect Night (2023-10-27) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' (2023-10-23) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="RINGO" width="50" /> | RINGO (2023-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="Remapping the Human Soul" width="50" /> | Remapping the Human Soul (2007-01-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | I'VE MINE (2023-10-13) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="ZOOM ZOOM" width="50" /> | ZOOM ZOOM (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="JENNIE Special Single [You &amp; Me]" width="50" /> | JENNIE Special Single [You & Me] (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9fc95cc1d0fba3d48ce2d39" alt="Fact Check - The 5th Album" width="50" /> | Fact Check - The 5th Album (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2734802244fa0cf6d33eda5e748" alt="The Wonder Years - Trilogy" width="50" /> | The Wonder Years - Trilogy (2008-09-22) |

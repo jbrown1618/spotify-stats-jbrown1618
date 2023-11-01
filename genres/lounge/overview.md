@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb395e47aaf2f8386e2608a" alt="" width="50" /> | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c21cafe54e02803fa5705e0" alt="" width="50" /> | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | 1 | 0 | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d8f97058ff993df0f4eb9ee" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 

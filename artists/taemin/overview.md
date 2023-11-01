@@ -30,18 +30,19 @@ TAEMIN is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 7 | [K-Pop](../../playlists/k_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273004951e81c300bdfe1634a39ab67616d0000b2735e352f6eccf8cb96d0b247ccab67616d0000b273c7dc72f7af6740281a52428fab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 6 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 8 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273004951e81c300bdfe1634a39ab67616d0000b2732e1db30cc6d74a08a5e14274ab67616d0000b273c7dc72f7af6740281a52428fab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 5 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b273662be38ecc5e14742193b653ab67616d0000b27382dd2427e6d302711b1b9616ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | 6 | 0 | Guilty - The 4th Mini Album | 2023-10-30 | [🔗](https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | 6 | 1 | Guilty - The 4th Mini Album | 2023-10-30 | [🔗](https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | 2 | 1 | Never Gonna Dance Again : Act 1 - The 3rd Album | 2020-09-07 | [🔗](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | 1 | 1 | MOVE - The 2nd Album | 2017-10-16 | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | 1 | 1 | Advice - The 3rd Mini Album | 2021-05-18 | [🔗](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) |
@@ -53,7 +54,7 @@ TAEMIN is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 12 | 3 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 12 | 4 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 
 ## Genres
@@ -72,7 +73,7 @@ TAEMIN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | Heaven | Never Gonna Dance Again : Act 2 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2hjaiDsLLBlY68XrgjZk7F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | Advice | Advice - The 3rd Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Blue | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2xSDet34W2nais0jv6Oh5j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Guilty | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Guilty | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Night Away | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/0zjkBOwL8upqIOmufTO6tT) |
 
 

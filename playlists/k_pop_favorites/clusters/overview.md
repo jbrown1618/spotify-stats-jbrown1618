@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Bing Bing | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6u78votmpGuKAE4BOeJtRC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | Better Things | Better Things | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
 ## Cluster #3
 
 17 tracks

@@ -19,7 +19,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12123322672fbf71bd1e5c94" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b304f38d13be8a733130a1" alt="" width="50" /> | 1 | 0 | Ben Harper And The Innocent Criminals | [🔗](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3c3fbad199bf7248b4597dd7" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 
 ![Bar chart of top 5 artists](../../images/labels/virgin_records/artists.png)
 

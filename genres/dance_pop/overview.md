@@ -1,6 +1,6 @@
 # dance pop
 
-[135 songs](tracks.md)
+[136 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -17,9 +17,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 6 | 5 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 6 | 5 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 4 | 4 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 6 | 3 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 
 
 <details>
@@ -27,11 +27,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 6 | 3 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 4 | 3 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 3 | 3 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9414ef07d0ca697726912df1" alt="" width="50" /> | 3 | 3 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 3 | 3 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 3 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 4 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
@@ -129,6 +129,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | 2 | 2 | To Anyone | 2010-09-09 | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | 2 | 2 | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | 2 | 2 | Play On | 2009 | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
@@ -145,7 +146,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | 2 | 0 | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | 1 | 1 | Under My Skin | 2004 | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | 1 | 1 | To Anyone | 2010-09-09 | [🔗](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | 1 | 1 | The Truth About Love | 2012-09-14 | [🔗](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0" alt="" width="50" /> | 1 | 1 | Some Hearts | 2005-11-14 | [🔗](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) |
@@ -243,6 +243,7 @@
 | 4 | 2 | 19 Recordings Limited |
 | 3 | 2 | Arista Nashville |
 | 3 | 2 | Arista |
+| 2 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 2 | 2 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 2 | Pussycat Dolls |
 | 2 | 2 | Lava Music |
@@ -252,7 +253,6 @@
 | 3 | 1 | Sony Music Latin |
 | 2 | 1 | A&M |
 | 1 | 1 | YGEX |
-| 1 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 1 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 1 | Spinnin' Records |

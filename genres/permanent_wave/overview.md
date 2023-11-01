@@ -31,7 +31,7 @@
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 1 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3c3fbad199bf7248b4597dd7" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 

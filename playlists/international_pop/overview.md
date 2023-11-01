@@ -412,6 +412,7 @@
 | 1 | 1 | bulgarian pop |
 | 1 | 1 | bulgarian hip hop |
 | 1 | 1 | basshall |
+| 1 | 1 | azontobeats |
 | 1 | 1 | alt z |
 | 1 | 1 | afrobeats |
 | 7 | 0 | [anime](../../genres/anime/overview.md) |
@@ -447,7 +448,6 @@
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
 | 1 | 0 | finnish pop |
-| 1 | 0 | eurobeat |
 
 </details>
 

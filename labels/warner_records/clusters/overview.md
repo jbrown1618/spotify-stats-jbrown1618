@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Crazy Love - 2013 Remaster | Moondance (Expanded Edition) | Van Morrison | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | ICU | Girls - The 2nd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341" alt="" width="50" /> | Better Things | Better Things | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
 ## Cluster #3
 
 34 tracks

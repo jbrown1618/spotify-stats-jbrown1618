@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="Halloween" width="100" />
 
-[84 tracks (74 liked) 🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp)
+[85 tracks (75 liked) 🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp)
 
 [See Track Features](audio_features.md)
 
@@ -35,6 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 2 | 2 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd0aa135d864bdcf4eb112112" alt="" width="50" /> | 2 | 2 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 2 | 2 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a49e2caa8d0ce8e26f60eed" alt="" width="50" /> | 3 | 1 | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13881a5713d92eeda09e3956" alt="" width="50" /> | 1 | 1 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
@@ -52,7 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 1 | 1 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 1 | 1 | [Gain](../../artists/gain/overview.md) | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | 1 | 1 | YENA | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d998e7541724c918777b8ca" alt="" width="50" /> | 1 | 1 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe80d1ffb81aa6503ad41c574" alt="" width="50" /> | 1 | 1 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 1 | 1 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
@@ -62,7 +63,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb192cbc7c10f37be1afe5f44" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 1 | 1 | Olivia Rodrigo | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 1 | 1 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31" alt="" width="50" /> | 1 | 1 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909" alt="" width="50" /> | 1 | 1 | MISAMO | [🔗](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5957f0e648d81871e5b15d4" alt="" width="50" /> | 1 | 0 | HOSHI | [🔗](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) |
@@ -94,7 +94,7 @@
 
 
 <details>
-<summary>See all 73 albums</summary>
+<summary>See all 74 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -131,6 +131,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | 1 | 1 | Hello, world! | 2022-07-20 | [🔗](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 1 | 1 | Hawwah | 2015-03-12 | [🔗](https://open.spotify.com/album/1fghVqJ812j2fqPYrSFd0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 1 | 1 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | 1 | 1 | Guilty - The 4th Mini Album | 2023-10-30 | [🔗](https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 1 | 1 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | 1 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | 1 | 1 | GUTS | 2023-09-08 | [🔗](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) |
@@ -171,7 +172,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 20 | 20 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 21 | 21 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 6 | 6 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 5 | 5 | [Darkroom](../../labels/darkroom/overview.md) |
 | 5 | 5 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
@@ -231,7 +232,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 48 | 40 | [k-pop](../../genres/k_pop/overview.md) |
+| 49 | 41 | [k-pop](../../genres/k_pop/overview.md) |
 | 36 | 33 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 13 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 12 | 10 | [pop](../../genres/pop/overview.md) |
@@ -389,7 +390,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2023 | 11 |
+| 2023 | 12 |
 | [2022](2022.md) | 23 |
 | 2021 | 16 |
 | 2020 | 7 |
@@ -413,13 +414,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Fallen (2003-03-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="Back To Black" width="50" /> | Back To Black (2006-10-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Masterpiece (2023-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Ceremonials (Deluxe Edition) (2011-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | REAL+ (2011-02-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | Pink Tape - The 2nd Album (2013-07-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="SHINee The 3rd Album &#x27;The Misconceptions Of Us&#x27;" width="50" /> | SHINee The 3rd Album 'The Misconceptions Of Us' (2013-08-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f120cb333f68365ee0195cb6" alt="W.A.Y" width="50" /> | W.A.Y (2023-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="The Marshall Mathers LP2" width="50" /> | The Marshall Mathers LP2 (2013-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="The Name Chapter: TEMPTATION" width="50" /> | The Name Chapter: TEMPTATION (2023-01-27) | <img src="https://i.scdn.co/image/ab67616d0000b2739bacc904bb472a6f1a9cde67" alt="VOODOO" width="50" /> | VOODOO (2013-11-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="Guilty - The 4th Mini Album" width="50" /> | Guilty - The 4th Mini Album (2023-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Fallen (2003-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="Back To Black" width="50" /> | Back To Black (2006-10-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Masterpiece (2023-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Ceremonials (Deluxe Edition) (2011-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | REAL+ (2011-02-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | Pink Tape - The 2nd Album (2013-07-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="SHINee The 3rd Album &#x27;The Misconceptions Of Us&#x27;" width="50" /> | SHINee The 3rd Album 'The Misconceptions Of Us' (2013-08-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Cabin Fever (2023-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="The Marshall Mathers LP2" width="50" /> | The Marshall Mathers LP2 (2013-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f120cb333f68365ee0195cb6" alt="W.A.Y" width="50" /> | W.A.Y (2023-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b2739bacc904bb472a6f1a9cde67" alt="VOODOO" width="50" /> | VOODOO (2013-11-25) |
