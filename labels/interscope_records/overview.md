@@ -1,6 +1,6 @@
 # Interscope Records
 
-86 songs
+87 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - YG Entertainment/Interscope Records (22 tracks)
-- Interscope (15 tracks)
+- Interscope (16 tracks)
 - Darkroom/Interscope Records (11 tracks)
 - Interscope Records* (8 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
@@ -31,7 +31,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 25 | 19 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 11 | 9 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 11 | 6 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 12 | 7 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 8 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8acf72a6c3da24a6483255fa" alt="" width="50" /> | 4 | 3 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 3 | 3 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -103,6 +103,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | 2 | 2 | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | 2 | 2 | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | 2 | 2 | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 2 | 1 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | 2 | 1 | LALISA | 2021-09-10 | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
@@ -119,7 +120,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | 1 | 1 | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | 1 | 1 | DUMB DUMB | 2021-08-02 | [🔗](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | 1 | 1 | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | 1 | 0 | souljaboytellem.com | 2007-01-01 | [🔗](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | 1 | 0 | When The World Comes Down | 2008-01-01 | [🔗](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) |
@@ -143,11 +143,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 61 | 45 | [pop](../../genres/pop/overview.md) |
+| 62 | 46 | [pop](../../genres/pop/overview.md) |
 | 38 | 28 | [k-pop](../../genres/k_pop/overview.md) |
 | 24 | 18 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 22 | 15 | [art pop](../../genres/art_pop/overview.md) |
-| 12 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
+| 23 | 16 | [art pop](../../genres/art_pop/overview.md) |
+| 13 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 4 | [rock](../../genres/rock/overview.md) |
 | 4 | 2 | [rap](../../genres/rap/overview.md) |
@@ -201,12 +201,12 @@ Appears as:
 | | 24 | 17 | Arranger, Producer, Songwriter |
 | | R.Tee | 12 | Arranger, Producer, Songwriter |
 | | FINNEAS | 10 | Lyricist, Producer, Songwriter, Arranger |
+| | Danny Chung | 8 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 8 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 8 | Songwriter, Producer |
 | | Josh Gudwin | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 8 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 8 | Lyricist, Songwriter, Producer |
-| | Danny Chung | 8 | Lyricist |
 | | YOUNGJU BANG | 7 | Producer |
-| | Rob Kinelski | 7 | Producer |
 
 
 <details>
@@ -214,96 +214,96 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 7 | Songwriter, Producer |
 | | Jason Roberts | 7 | Producer |
-| | Jason Robert | 5 | Producer |
+| | Rob Kinelski | 7 | Producer |
 | | Adam Levine | 5 | Lyricist, Songwriter |
-| | Brian Lee | 4 | Songwriter, Lyricist, Producer |
-| | RedOne | 4 | Producer, Songwriter, Arranger |
-| | 최용인 (Choi, Yon-gin) | 4 | Producer |
+| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | Jason Robert | 5 | Producer |
 | | Manny Marroquin | 4 | Producer |
-| | Vince | 3 | Arranger, Lyricist |
-| | Wayne Sermon | 3 | Songwriter |
+| | 최용인 (Choi, Yon-gin) | 4 | Producer |
+| | Brian Lee | 4 | Songwriter, Lyricist, Producer |
 | | LØREN (LOREN) | 3 | Lyricist |
-| | Ben McKee | 3 | Songwriter |
-| | Robert Orton | 3 | Producer |
-| | James Valentine | 3 | Lyricist, Songwriter |
 | | Dan Reynolds | 3 | Songwriter |
+| | Ben McKee | 3 | Songwriter |
+| | Wayne Sermon | 3 | Songwriter |
+| | Robert Orton | 3 | Producer |
+| | Dave Russell | 3 | Producer |
+| | Vince | 3 | Arranger, Lyricist |
 | | Jesse Carmichael | 3 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 3 | Songwriter, Lyricist |
-| | Josh Mosser | 2 | Producer, Songwriter |
-| | Ryan Dusick | 2 | Lyricist, Songwriter |
-| | FUTURE BOUNCE | 2 | Arranger, Songwriter |
-| | J.LBS | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
+| | James Valentine | 3 | Lyricist, Songwriter |
 | | John Hanes | 2 | Producer |
-| | Tim Maxey | 2 | Producer, Songwriter |
+| | OKLAMA | 2 | Producer |
+| | Sounwave | 2 | Producer, Songwriter |
 | | Mickey Madden | 2 | Lyricist, Songwriter |
 | | IDO | 2 | Arranger, Songwriter |
-| | OKLAMA | 2 | Producer |
-| | Dave Russell | 2 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | Tim Maxey | 2 | Producer, Songwriter |
 | | Alex da Kid | 2 | Producer, Songwriter |
-| | Sounwave | 2 | Producer, Songwriter |
-| | Doug McKean | 1 | Producer |
+| | J.LBS | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
+| | FUTURE BOUNCE | 2 | Arranger, Songwriter |
+| | David Phelan | 1 | Lyricist, Songwriter |
+| | Steph Jones | 1 | Lyricist |
+| | BURNS | 1 | Producer, Songwriter |
+| | YG Family | 1 | Producer |
+| | Noah Passovoy | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | Hans Zimmer | 1 | Arranger |
+| | Zach Lind | 1 | Songwriter |
+| | YONGJU BANG | 1 | Producer |
+| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
+| | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
+| | Max Wolfgang | 1 | Lyricist, Songwriter |
+| | Ammo | 1 | Producer, Songwriter |
+| | Tom Linton | 1 | Songwriter |
+| | Olle Romo | 1 | Producer |
+| | Sam Farrar | 1 | Lyricist, Songwriter |
+| | Lazonate Franklin | 1 | Songwriter |
+| | Beach Noise | 1 | Producer |
+| | Ari Raskin | 1 | Producer |
+| | Alex Oriet | 1 | Lyricist, Songwriter |
+| | Paul Foley | 1 | Producer |
 | | Willy Moon | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| | Ari Raskin | 1 | Producer |
-| | YONGJU BANG | 1 | Producer |
+| | Dominsuk | 1 | Arranger, Songwriter |
+| | Doug McKean | 1 | Producer |
+| | Jim Adkins | 1 | Songwriter |
 | | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
-| | Robin Fredriksson | 1 | Songwriter |
 | | Rami | 1 | Songwriter |
+| | Eli Heisler | 1 | Producer |
+| | Serban Ghenea | 1 | Producer |
 | | Mattman & Robin | 1 | Producer |
-| | Jose Balaguer | 1 | Producer |
-| | Cirkut | 1 | Producer, Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| | Matt Dunkley | 1 | Arranger |
+| | Madison Love | 1 | Songwriter |
 | | KUSH | 1 | Arranger, Lyricist, Songwriter |
 | | Horace Ward | 1 | Producer |
-| | James Hunt | 1 | Producer |
-| | Lazonate Franklin | 1 | Songwriter |
-| | Akon | 1 | Songwriter |
-| | Paul Foley | 1 | Producer |
-| | Jim Adkins | 1 | Songwriter |
-| | Dominsuk | 1 | Arranger, Songwriter |
-| | Ryan Tedder | 1 | Producer, Songwriter |
-| | Sam Farrar | 1 | Lyricist, Songwriter |
-| | Daniel Platzman | 1 | Songwriter |
-| | Olle Romo | 1 | Producer |
-| | Freddy Wexler | 1 | Lyricist, Songwriter |
-| | Mattias Larsson | 1 | Songwriter |
-| | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
-| | LaShawn Daniels | 1 | Songwriter |
-| | Hans Zimmer | 1 | Arranger |
-| | Ray Charles Brown, Jr | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
-| | YG Family | 1 | Producer |
-| | BURNS | 1 | Producer, Songwriter |
-| | Steph Jones | 1 | Lyricist |
-| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
-| | Beach Noise | 1 | Producer |
-| | Eli Heisler | 1 | Producer |
-| | Madison Love | 1 | Songwriter |
-| | Matt Dunkley | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](../../artists/maroon_5/overview.md) | 1 | Producer |
-| | Jacob Kasher | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
-| | Alex Oriet | 1 | Lyricist, Songwriter |
-| | Zach Lind | 1 | Songwriter |
-| | Noah Passovoy | 1 | Producer |
-| | Ammo | 1 | Producer, Songwriter |
-| | David Phelan | 1 | Lyricist, Songwriter |
-| | Sam Dew | 1 | Songwriter |
-| | Soraya LaPread | 1 | Lyricist, Songwriter |
-| | Rodney Jerkins | 1 | Producer, Songwriter |
-| | Mike Posner | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
-| | David Guetta | 1 | Songwriter |
+| | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | 1 | Producer |
+| | Stephen Lipson | 1 | Producer |
+| | Chloe George | 1 | Lyricist |
+| | Justin Tranter | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar | 1 | Songwriter |
+| | Jonathan Plum | 1 | Producer |
+| | Robin Fredriksson | 1 | Songwriter |
 | | Bianca Atterberry | 1 | Lyricist, Songwriter |
-| | Leah Haywood | 1 | Songwriter |
-| | DJ Dahi | 1 | Producer |
-| | Johnny Kosich | 1 | Producer, Songwriter |
-| | Amy Allen | 1 | Songwriter |
-| | Raul Cubina | 1 | Songwriter |
-| | Matt Schaeffer | 1 | Producer, Songwriter |
-| | Mike "Handz" Donaldson | 1 | Producer |
+| | David Guetta | 1 | Songwriter |
+| | Jon Bellion | 1 | Producer, Songwriter |
+| | Trevor Muzzy | 1 | Producer |
+| | Teddy Sinclair | 1 | Lyricist, Songwriter |
+| | Casey Cuayo | 1 | Producer |
+| | Dr. Luke | 1 | Producer |
+| | NOHC | 1 | Arranger |
+| | Jonathan Sher | 1 | Producer |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Akon | 1 | Songwriter |
+| | James Hunt | 1 | Producer |
+| | Cirkut | 1 | Producer, Songwriter |
+| | Jose Balaguer | 1 | Producer |
+| | Ryan Tedder | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](../../artists/maroon_5/overview.md) | 1 | Producer |
 
 </details>
 
@@ -378,6 +378,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | The Fame | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Bad Romance | The Fame Monster (Deluxe Edition) | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](../../artists/lady_gaga/overview.md), [Beyoncé](../../artists/beyonc_/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Judas | Born This Way | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Yoü And I | Born This Way | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You | Til It Happens To You | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | | [🔗](https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Million Reasons | Joanne (Deluxe) | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | | [🔗](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) |

@@ -16,16 +16,16 @@ SUNMI:
 ## Artist Rank
 SUNMI is currently:
 - The #33 artist of all time
-- The #39 artist of the last 6 months
-- The #12 artist of the last month
+- The #35 artist of the last 6 months
+- The #8 artist of the last month
 
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
 
 - STRANGER is:
-    - the #16 track of the last month
+    - the #20 track of the last month
 - Oh Sorry Ya is:
-    - the #18 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of the last month over time
 

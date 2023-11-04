@@ -105,7 +105,7 @@
 | | KNY Factory | 1 | Songwriter |
 | | Platinum Library | 1 | Producer |
 | | Matt Snell | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bebfdee4c4cfea3473a51ab" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe489156e3cd2d327678c8467" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
 | | KOZ | 1 | Producer |
 | | Jordan Johnson | 1 | Songwriter |
 | | Mark Shick | 1 | Producer |

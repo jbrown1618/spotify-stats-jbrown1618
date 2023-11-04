@@ -1,6 +1,6 @@
 # art pop
 
-[51 songs](tracks.md)
+[52 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -12,7 +12,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 14 | 12 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 13 | 8 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 14 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 2 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
@@ -52,8 +52,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | 2 | 2 | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | 2 | 2 | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | 2 | 2 | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | 2 | 2 | A Star Is Born Soundtrack | 2018-10-05 | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
 
 
 <details>
@@ -61,6 +61,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | 1 | 1 | lovely (with Khalid) | 2018-04-19 | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | 1 | 1 | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
@@ -69,7 +70,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | 1 | 1 | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 1 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | 1 | 1 | Born This Way | 2011-01-01 | [🔗](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 1 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
@@ -89,7 +89,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 22 | 15 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 23 | 16 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 14 | 12 | [Darkroom](../../labels/darkroom/overview.md) |
 | 17 | 9 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 2 | A Star is Born OST |
@@ -122,15 +122,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | FINNEAS | 12 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 9 | Songwriter, Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
 | | Rob Kinelski | 9 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | | Emile Haynie | 5 | Producer |
-| | Dan Grech-Marguerat | 4 | Producer |
+| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
 | | Robert Orton | 4 | Producer |
-| | Larry Gold | 4 | Arranger |
-| | RedOne | 4 | Producer, Songwriter, Arranger |
+| | Dan Grech-Marguerat | 4 | Producer |
 
 
 <details>
@@ -138,41 +138,41 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
+| | Larry Gold | 4 | Arranger |
 | | Justin Parker | 3 | Producer, Songwriter |
+| | Dave Russell | 3 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| | Benjamin Rice | 2 | Producer |
+| | Tim Larcombe | 2 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | 2 | Songwriter |
 | | Joel Little | 2 | Producer, Songwriter |
-| | Tom Elmhirst | 2 | Producer |
-| | Tim Larcombe | 2 | Songwriter, Producer |
-| | Benjamin Rice | 2 | Producer |
-| | Dave Russell | 2 | Producer |
-| | Rami | 1 | Songwriter |
-| | Horace Ward | 1 | Producer |
-| | Paul Foley | 1 | Producer |
-| | Louiguy | 1 | Songwriter |
-| | Oscar Holter | 1 | Producer, Songwriter |
+| | Eli Heisler | 1 | Producer |
+| | Dae Bennett | 1 | Producer |
+| | Lionel Crasta | 1 | Producer |
 | | Brent Kolatalo | 1 | Producer |
+| | Louiguy | 1 | Songwriter |
+| | Dan Auerbach | 1 | Producer |
+| | Horace Ward | 1 | Producer |
+| | Olle Romo | 1 | Producer |
+| | Rami | 1 | Songwriter |
+| | DJ White Shadow | 1 | Producer, Songwriter |
+| | Hans Zimmer | 1 | Arranger |
+| | Paul Foley | 1 | Producer |
+| | Robopop | 1 | Producer |
+| | Noonie Bao | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
 | | Nick Monson | 1 | Arranger, Producer, Songwriter |
-| | Tom Ware | 1 | Producer |
+| | BURNS | 1 | Producer, Songwriter |
 | | Serban Ghenea | 1 | Producer |
 | | Thomas Warren | 1 | Producer |
 | | Matt Dunkley | 1 | Arranger |
-| | Lazonate Franklin | 1 | Songwriter |
-| | Madison Love | 1 | Songwriter |
-| | Eli Heisler | 1 | Producer |
-| | Robopop | 1 | Producer |
-| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
-| | BURNS | 1 | Producer, Songwriter |
-| | Noonie Bao | 1 | Songwriter |
-| | Dae Bennett | 1 | Producer |
-| | Hans Zimmer | 1 | Arranger |
-| | DJ White Shadow | 1 | Producer, Songwriter |
-| | Olle Romo | 1 | Producer |
-| | Dan Auerbach | 1 | Producer |
-| | Lionel Crasta | 1 | Producer |
-| | Stephen Lipson | 1 | Producer |
 | | Collin Dupuis | 1 | Producer |
-| | Lukas Nelson | 1 | Songwriter |
+| | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
+| | Madison Love | 1 | Songwriter |
+| | Lazonate Franklin | 1 | Songwriter |
+| | Tom Ware | 1 | Producer |
+| | Matt Wiggins | 1 | Producer |
+| | Brian Newman | 1 | Producer |
 | | Mattias Larsson | 1 | Songwriter |
 | | LaShawn Daniels | 1 | Songwriter |
 | | Trevor Yasuda | 1 | Producer |
@@ -182,12 +182,13 @@
 | | Mark Nilan, Jr. | 1 | Arranger, Producer, Songwriter |
 | | Chris Garcia | 1 | Producer |
 | | Casey Cuayo | 1 | Producer |
+| | Trevor Muzzy | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | Khalid | 1 | Lyricist, Songwriter |
 | | Kieron Menzies | 1 | Producer |
 | | Robin Fredriksson | 1 | Songwriter |
+| | Lukas Nelson | 1 | Songwriter |
 | | Mike "Handz" Donaldson | 1 | Producer |
-| | Matt Wiggins | 1 | Producer |
 | | Édith Piaf (Piaf, Édith) | 1 | Lyricist, Songwriter |
 | | Daniel Law Heath | 1 | Songwriter |
 | | Manny Marroquin | 1 | Producer |
@@ -199,8 +200,8 @@
 | | Dean Reid | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 1 | Songwriter |
 | | John Hanes | 1 | Producer |
+| | Stephen Lipson | 1 | Producer |
 | | Carl Bagge | 1 | Arranger |
-| | Brian Newman | 1 | Producer |
 | | Patrik Berger | 1 | Producer |
 
 </details>

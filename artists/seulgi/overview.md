@@ -14,15 +14,17 @@ SEULGI:
 ## Artist Rank
 SEULGI is currently:
 - The #34 artist of all time
-- The #17 artist of the last month
+- The #11 artist of the last month
 
 ![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 - Crown is:
-    - the #44 track of the last month
+    - the #46 track of the last month
+- Wow Thing is:
+    - the #50 track of the last month
 
 ### Top tracks of the last 6 months over time
 

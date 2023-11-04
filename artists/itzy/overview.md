@@ -21,16 +21,16 @@ ITZY:
 ITZY is currently:
 - The #4 artist of all time
 - The #7 artist of the last 6 months
-- The #5 artist of the last month
+- The #4 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #12 track of the last 6 months
+    - the #10 track of the last 6 months
     - the #28 track of all time
 - #Twenty is:
-    - the #21 track of the last month
+    - the #29 track of the last month
 
 ### Top tracks of all time over time
 

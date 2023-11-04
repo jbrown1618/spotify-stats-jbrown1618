@@ -18,9 +18,9 @@ aespa:
 
 ## Artist Rank
 aespa is currently:
-- The #10 artist of all time
+- The #9 artist of all time
 - The #2 artist of the last 6 months
-- The #3 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
@@ -34,8 +34,8 @@ aespa is currently:
 - Black Mamba is:
     - the #20 track of all time
 - Illusion is:
-    - the #12 track of the last month
-    - the #11 track of the last 6 months
+    - the #15 track of the last month
+    - the #9 track of the last 6 months
     - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
@@ -44,7 +44,7 @@ aespa is currently:
 - Thirsty is:
     - the #3 track of the last 6 months
 - Salty & Sweet is:
-    - the #10 track of the last 6 months
+    - the #8 track of the last 6 months
 - Hold On Tight is:
     - the #26 track of the last 6 months
 - I'm Unhappy is:
@@ -52,7 +52,7 @@ aespa is currently:
 - YEPPI YEPPI is:
     - the #30 track of the last 6 months
 - 'Til We Meet Again is:
-    - the #50 track of the last 6 months
+    - the #48 track of the last 6 months
 
 ### Top tracks of all time over time
 

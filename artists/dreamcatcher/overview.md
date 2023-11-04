@@ -23,15 +23,13 @@ Dreamcatcher:
 Dreamcatcher is currently:
 - The #28 artist of all time
 - The #16 artist of the last 6 months
-- The #11 artist of the last month
+- The #6 artist of the last month
 
 ![Rank of Dreamcatcher over time](../../images/artists/dreamcatcher/rank_time_series.png)
 ## Top Tracks
 
 - Silent Night is:
-    - the #1 track of the last month
-- Sleep-walking is:
-    - the #48 track of the last month
+    - the #4 track of the last month
 
 ### Top tracks of the last month over time
 

@@ -20,6 +20,8 @@ JEON SOYEON is currently:
     - the #10 track of all time
 - DESSERT is:
     - the #25 track of all time
+- Wow Thing is:
+    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

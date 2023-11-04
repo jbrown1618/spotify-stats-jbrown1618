@@ -1,6 +1,6 @@
 # korean pop
 
-[35 songs](tracks.md)
+[34 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -13,9 +13,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc65d144f4f352b3cba7b13ea" alt="" width="50" /> | 10 | 7 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="" width="50" /> | 9 | 6 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78482dab89485dfaf7ff46a1" alt="" width="50" /> | 2 | 2 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1b6966cc5bb31edcab435911" alt="" width="50" /> | 4 | 1 | Younha | [🔗](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b6966cc5bb31edcab435911" alt="" width="50" /> | 3 | 1 | Younha | [🔗](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd89424b602251312223edd8f" alt="" width="50" /> | 2 | 1 | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f5769fc671ca8199168d3fb" alt="" width="50" /> | 2 | 1 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 2 | 1 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64c106fb76ead20ba05a5461" alt="" width="50" /> | 2 | 1 | Sandeul | [🔗](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc33cbb79510fa7890d724ed" alt="" width="50" /> | 2 | 1 | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | 1 | 1 | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
@@ -27,7 +27,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaed3c717bf1753ab928ea88d" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | 1 | 1 | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 1 | 1 | Yoon Mirae | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
@@ -63,7 +63,7 @@
 
 
 <details>
-<summary>See all 30 albums</summary>
+<summary>See all 29 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -77,7 +77,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="" width="50" /> | 1 | 1 | Bye Bye My Blue | 2016-06-20 | [🔗](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392dc1c9cc21892c8cb0b829a" alt="" width="50" /> | 1 | 0 | 혜성 | 2007-10-23 | [🔗](https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 1 | 0 | 봄인가 봐 Spring Love - SM STATION | 2016-03-04 | [🔗](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739917b7a6f06d0d2df5a4bc50" alt="" width="50" /> | 1 | 0 | YOUNHA 6th Album 'END THEORY' | 2021-11-16 | [🔗](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d307da738011aa08940675b" alt="" width="50" /> | 1 | 0 | Supersonic | 2012-07-03 | [🔗](https://open.spotify.com/album/1n4Qyjro1E8gbqKlaZxhyM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="" width="50" /> | 1 | 0 | Stay As You Are | 2016-10-04 | [🔗](https://open.spotify.com/album/6DKfXf0BVP9R5BcOuD1mfo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4534c642e6939abd0a1a867" alt="" width="50" /> | 1 | 0 | Serenade | 2019-12-12 | [🔗](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) |
@@ -91,7 +90,7 @@
 </details>
 
 
-![Bar chart of top 30 albums](../../images/genres/korean_pop/albums.png)
+![Bar chart of top 29 albums](../../images/genres/korean_pop/albums.png)
 
 ## Top Record Labels
 
@@ -102,11 +101,11 @@
 | 5 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 2 | 1 | MAGIC STRAWBERRY SOUND |
 | 2 | 1 | CJ E&M MUSIC |
-| 2 | 1 | C9 Entertainment |
 | 1 | 1 | 코어콘텐츠미디어 |
 | 1 | 1 | 스튜디오앤뉴 |
 | 1 | 1 | 뮤직앤뉴 |
 | 1 | 1 | TOON STUDIO |
+| 1 | 1 | Studio MaumC |
 
 
 <details>
@@ -114,10 +113,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 1 | Studio MaumC |
 | 1 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | Hwa&Dam pictures |
 | 1 | 1 | FLEX M |
+| 1 | 1 | C9 Entertainment |
 | 1 | 0 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 1 | 0 | Today's Playlist |
 | 1 | 0 | FNC인베스트먼트 |
@@ -148,6 +147,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Twenty-Five Twenty-One OST (2022-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="YOUNHA 6th Album Repackage &#x27;END THEORY : Final Edition&#x27;" width="50" /> | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' (2022-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="Stay As You Are" width="50" /> | Stay As You Are (2016-10-04) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (A Business Proposal OST Special Track) (2022-02-18) | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="Doll - SM STATION" width="50" /> | Doll - SM STATION (2017-10-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739917b7a6f06d0d2df5a4bc50" alt="YOUNHA 6th Album &#x27;END THEORY&#x27;" width="50" /> | YOUNHA 6th Album 'END THEORY' (2021-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (2017-12-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="HAPPEN" width="50" /> | HAPPEN (2021-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (2017-12-28) |
 
 ![Bar chart of number of songs by year](../../images/genres/korean_pop/years.png)
