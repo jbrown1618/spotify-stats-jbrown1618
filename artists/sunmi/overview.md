@@ -16,16 +16,18 @@ SUNMI:
 ## Artist Rank
 SUNMI is currently:
 - The #33 artist of all time
-- The #35 artist of the last 6 months
-- The #8 artist of the last month
+- The #36 artist of the last 6 months
+- The #4 artist of the last month
 
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
 
+- Gashina is:
+    - the #17 track of the last month
 - STRANGER is:
     - the #20 track of the last month
 - Oh Sorry Ya is:
-    - the #25 track of the last month
+    - the #24 track of the last month
 
 ### Top tracks of the last month over time
 

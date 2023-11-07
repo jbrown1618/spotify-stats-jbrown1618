@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733256d3278397eac8f7f44550" alt="PANORAMA" width="50" /> | Jogging (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural (0.321) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feb430a900d634d1cbc987ad" alt="Invitation" width="50" /> | I will show you (0.872) | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10" width="50" /> | MY LOVE (0.343) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="ONLY LOVERS LEFT" width="50" /> | WAITING (0.871) | <img src="https://i.scdn.co/image/ab67616d0000b27305203cde35ba2fef6ca7b970" alt="공감 (Empathy) - The 1st Mini Album" width="50" /> | Rose (0.352) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e24ed982c42289b1e7cbc19" alt="LOVE &amp; FEAR" width="50" /> | Love is a magic (0.869) | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="WOLF" width="50" /> | FACE (0.356) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e24ed982c42289b1e7cbc19" alt="LOVE &amp; FEAR" width="50" /> | Love is a magic (0.869) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | 20MIN (0.354) |
 
 ## Speechiness
 

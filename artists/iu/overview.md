@@ -12,7 +12,7 @@
 IU is currently:
 - The #3 artist of all time
 - The #4 artist of the last 6 months
-- The #26 artist of the last month
+- The #29 artist of the last month
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
 ## Top Tracks
@@ -27,7 +27,7 @@ IU is currently:
 - LILAC is:
     - the #31 track of all time
 - Jam Jam is:
-    - the #32 track of the last 6 months
+    - the #31 track of the last 6 months
 - Scary Fairy Tale is:
     - the #21 track of the last month
 

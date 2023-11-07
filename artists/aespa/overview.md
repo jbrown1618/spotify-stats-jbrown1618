@@ -20,7 +20,7 @@ aespa:
 aespa is currently:
 - The #9 artist of all time
 - The #2 artist of the last 6 months
-- The #10 artist of the last month
+- The #16 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
@@ -29,7 +29,7 @@ aespa is currently:
     - the #4 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #28 track of the last 6 months
+    - the #26 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #20 track of all time
@@ -46,13 +46,13 @@ aespa is currently:
 - Salty & Sweet is:
     - the #8 track of the last 6 months
 - Hold On Tight is:
-    - the #26 track of the last 6 months
+    - the #24 track of the last 6 months
 - I'm Unhappy is:
-    - the #27 track of the last 6 months
+    - the #25 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #30 track of the last 6 months
+    - the #42 track of the last 6 months
 - 'Til We Meet Again is:
-    - the #48 track of the last 6 months
+    - the #47 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -80,6 +80,7 @@ aespa is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 1 | [애교！](../../playlists/___/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="" width="50" /> | 1 | [K-OST](../../playlists/k_ost/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 
 ## Top Albums

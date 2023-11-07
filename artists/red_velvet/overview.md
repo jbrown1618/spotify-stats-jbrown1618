@@ -28,29 +28,30 @@ Red Velvet is currently:
 ## Top Tracks
 
 - 러시안 룰렛 Russian Roulette is:
-    - the #7 track of all time
+    - the #8 track of all time
 - Bad Boy is:
-    - the #46 track of the last 6 months
+    - the #45 track of the last 6 months
     - the #9 track of all time
 - Dumb Dumb is:
     - the #22 track of all time
 - Ice Cream Cake is:
     - the #32 track of all time
 - RBB (Really Bad Boy) is:
-    - the #11 track of the last month
-    - the #38 track of all time
+    - the #10 track of the last month
+    - the #50 track of the last 6 months
+    - the #39 track of all time
 - Feel My Rhythm is:
     - the #19 track of the last 6 months
 - Sunny Side Up! is:
-    - the #38 track of the last 6 months
+    - the #36 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #42 track of the last 6 months
+    - the #40 track of the last 6 months
 - Bad Dracula is:
     - the #3 track of the last month
 - Marionette is:
     - the #19 track of the last month
 - Peek-A-Boo is:
-    - the #44 track of the last month
+    - the #45 track of the last month
 
 ### Top tracks of all time over time
 

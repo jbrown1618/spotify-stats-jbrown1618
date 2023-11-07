@@ -77,7 +77,7 @@
 | | Bo Hill | 1 | Producer |
 | | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
 | | Fagan Wilcox | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb29f1f0891028be68ff544182" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
 | | Rich Costey | 1 | Producer |
 | | Ryan Ritchie | 1 | Producer |
 | | Nicolas Fournier | 1 | Producer |

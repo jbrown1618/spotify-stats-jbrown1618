@@ -23,13 +23,11 @@ CHUNG HA is currently:
 ## Top Tracks
 
 - Gotta Go is:
-    - the #6 track of all time
+    - the #7 track of all time
 - Demente (feat. Guaynaa) is:
-    - the #28 track of the last month
+    - the #27 track of the last month
 - Dream of You (with R3HAB) is:
     - the #33 track of the last month
-- Wow Thing is:
-    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

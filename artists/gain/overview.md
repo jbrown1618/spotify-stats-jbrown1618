@@ -6,7 +6,7 @@
 
 ## Artist Rank
 Gain is currently:
-- The #20 artist of the last month
+- The #22 artist of the last month
 
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks

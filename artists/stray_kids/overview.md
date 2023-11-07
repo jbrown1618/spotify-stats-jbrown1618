@@ -25,7 +25,7 @@ Stray Kids:
 Stray Kids is currently:
 - The #7 artist of all time
 - The #8 artist of the last 6 months
-- The #7 artist of the last month
+- The #11 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
@@ -34,7 +34,7 @@ Stray Kids is currently:
     - the #16 track of the last 6 months
     - the #43 track of all time
 - Back Door is:
-    - the #50 track of the last 6 months
+    - the #49 track of the last 6 months
 
 ### Top tracks of all time over time
 
