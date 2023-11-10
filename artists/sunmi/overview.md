@@ -23,11 +23,11 @@ SUNMI is currently:
 ## Top Tracks
 
 - Gashina is:
-    - the #17 track of the last month
-- STRANGER is:
     - the #20 track of the last month
+- STRANGER is:
+    - the #22 track of the last month
 - Oh Sorry Ya is:
-    - the #24 track of the last month
+    - the #26 track of the last month
 
 ### Top tracks of the last month over time
 

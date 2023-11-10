@@ -196,10 +196,11 @@
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |

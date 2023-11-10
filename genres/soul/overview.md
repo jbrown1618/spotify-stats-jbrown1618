@@ -29,7 +29,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 2 | 0 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | 1 | 0 | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325017ec8acb2a24d48d932df" alt="" width="50" /> | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efc7e23c411bb95582ce7b97" alt="" width="50" /> | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218" alt="" width="50" /> | 1 | 0 | Dr. John | [🔗](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) |
 
 </details>

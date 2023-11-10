@@ -141,7 +141,7 @@ Appears as:
 | | Hilda Stenmalm | 1 | Songwriter |
 | | Ryan Lawrie | 1 | Songwriter |
 | | DJ Swivel | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb44c99b9e1082a8273fd7c495" alt="" width="50" /> | SUMIN | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b924be9b846ac20bfecc676" alt="" width="50" /> | SUMIN | 1 | Songwriter |
 | | Lutra | 1 | Songwriter |
 | | Phil Tan | 1 | Producer |
 | | Antonina Armato | 1 | Songwriter |

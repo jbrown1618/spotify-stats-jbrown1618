@@ -387,7 +387,7 @@
 | | Pat McMakin | 1 | Producer |
 | | Kiyanu Kim | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
 | | Ben Lovett | 1 | Songwriter |
 | | Stephan Moccio | 1 | Songwriter |
 | | Francis White | 1 | Songwriter |

@@ -27,11 +27,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | 1 | 0 | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d8f97058ff993df0f4eb9ee" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325017ec8acb2a24d48d932df" alt="" width="50" /> | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efc7e23c411bb95582ce7b97" alt="" width="50" /> | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
 | <img src="https://i.scdn.co/image/85e8343b215c98ad063417ac2f6b63919557721a" alt="" width="50" /> | 1 | 0 | Louis Prima | [🔗](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" alt="" width="50" /> | 1 | 0 | Brenda Lee | [🔗](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) |
 | <img src="https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e" alt="" width="50" /> | 1 | 0 | Duke Ellington | [🔗](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) |
@@ -90,7 +90,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | 1 | 0 | Ella: The Legendary Decca Recordings | 1995-08-29 | [🔗](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | 1 | 0 | Ella Wishes You A Swinging Christmas (Expanded Edition) | 1960-01-01 | [🔗](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | 1 | 0 | Christmas Songs by Sinatra | 1994-11-08 | [🔗](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) |
 
 </details>
@@ -176,7 +176,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="White Christmas" width="50" /> | White Christmas (1945-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Christmas (Deluxe Special Edition) (2012-11-09) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (1954-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Crazy Love (2009-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin&#x27; Lovers! (Remastered)" width="50" /> | Songs For Swingin' Lovers! (Remastered) (1956-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Nothing But The Best (Remastered) (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me (Remastered) (1958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Nothing But The Best (Remastered) (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (2007-04-30) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | A Winter Romance (1959-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It&#x27;s Time" width="50" /> | It's Time (2005-02-08) | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Ella Wishes You A Swinging Christmas (Expanded Edition) (1960-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Come Fly with Me (2004-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Expanded Edition) (1962) |

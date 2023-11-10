@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38fb34aecda1243390324d36" alt="" width="50" /> | 4 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 4 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 4 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd9452a4d9e815116c87a62bc" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb029de5fb07779753ebcf675d" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
@@ -70,7 +70,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1918aa487034f94f448691f8" alt="" width="50" /> | 1 | 0 | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
 | | 1 | 0 | Roxorloops & Blady Kris | [🔗](https://open.spotify.com/artist/6HRJOlHBoo07WcZdXZAADI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb015d6c512c7389428467d6fe" alt="" width="50" /> | 1 | 0 | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca07421c1f955de405f70021" alt="" width="50" /> | 1 | 0 | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb978dc646062743efa22b7409" alt="" width="50" /> | 1 | 0 | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | 1 | 0 | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
@@ -93,7 +93,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | 1 | 0 | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb949d918aab8261c4a15d3ab3" alt="" width="50" /> | 1 | 0 | The Doo Wop Shop | [🔗](https://open.spotify.com/artist/3BKvJisNneE6cOuLuBHGpC) |
 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf96beef384557563963fb7ef" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfac39467586b60aaebed83eb" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | 1 | 0 | Hank Green | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |

@@ -24,17 +24,19 @@ Stray Kids:
 ## Artist Rank
 Stray Kids is currently:
 - The #7 artist of all time
-- The #8 artist of the last 6 months
-- The #11 artist of the last month
+- The #7 artist of the last 6 months
+- The #8 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
-    - the #16 track of the last 6 months
+    - the #18 track of the last 6 months
     - the #43 track of all time
 - Back Door is:
-    - the #49 track of the last 6 months
+    - the #47 track of the last 6 months
+- VENOM is:
+    - the #49 track of the last month
 
 ### Top tracks of all time over time
 

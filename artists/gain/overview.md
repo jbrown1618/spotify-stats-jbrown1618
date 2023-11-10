@@ -12,7 +12,7 @@ Gain is currently:
 ## Top Tracks
 
 - Paradise Lost is:
-    - the #5 track of the last month
+    - the #7 track of the last month
 
 ### Top tracks of the last month over time
 

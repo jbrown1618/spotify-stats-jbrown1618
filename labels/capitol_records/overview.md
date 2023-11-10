@@ -75,7 +75,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | 1 | 0 | Love Goes | 2020-10-30 | [🔗](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | 1 | 0 | Katrina & The Waves | 1985 | [🔗](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | 1 | 0 | Have Yourself A Merry Little Christmas | 2014-12-05 | [🔗](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6de355783e42c7c357cfc93" alt="" width="50" /> | 1 | 0 | 50 Big Ones: Greatest Hits | 2012-01-01 | [🔗](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) |
 
 </details>
@@ -193,7 +193,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
 
 

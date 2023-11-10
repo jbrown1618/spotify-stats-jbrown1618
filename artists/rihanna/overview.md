@@ -16,7 +16,7 @@ Rihanna is currently:
 ## Top Tracks
 
 - The Monster is:
-    - the #46 track of the last month
+    - the #47 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -127,7 +127,7 @@ Rihanna is currently:
 | | Skylar Grey | 1 | Songwriter |
 | | Hit-Boy | 1 | Producer, Songwriter |
 | | Frequency | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
 | | Shahid Khan | 1 | Songwriter |
 | | Crystal Nicole | 1 | Songwriter |
 | | Al Hemberger | 1 | Producer |

@@ -2,7 +2,7 @@
 # aespa
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb61e9c9fd0ff840cfbeb09714" alt="aespa" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="aespa" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -20,7 +20,7 @@ aespa:
 aespa is currently:
 - The #9 artist of all time
 - The #2 artist of the last 6 months
-- The #16 artist of the last month
+- The #14 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
@@ -29,30 +29,26 @@ aespa is currently:
     - the #4 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #26 track of the last 6 months
+    - the #24 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
-    - the #20 track of all time
+    - the #21 track of all time
 - Illusion is:
-    - the #15 track of the last month
-    - the #9 track of the last 6 months
+    - the #17 track of the last month
+    - the #7 track of the last 6 months
     - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
 - Spicy is:
     - the #2 track of the last 6 months
 - Thirsty is:
-    - the #3 track of the last 6 months
-- Salty & Sweet is:
-    - the #8 track of the last 6 months
+    - the #20 track of the last 6 months
 - Hold On Tight is:
-    - the #24 track of the last 6 months
-- I'm Unhappy is:
-    - the #25 track of the last 6 months
+    - the #23 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #42 track of the last 6 months
-- 'Til We Meet Again is:
-    - the #47 track of the last 6 months
+    - the #41 track of the last 6 months
+- Salty & Sweet is:
+    - the #46 track of the last 6 months
 
 ### Top tracks of all time over time
 

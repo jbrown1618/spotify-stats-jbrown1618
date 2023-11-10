@@ -17,7 +17,7 @@ Bruno Mars:
 
 ## Artist Rank
 Bruno Mars is currently:
-- The #43 artist of the last 6 months
+- The #42 artist of the last 6 months
 
 ![Rank of Bruno Mars over time](../../images/artists/bruno_mars/rank_time_series.png)
 ## Featured on Playlists
@@ -129,7 +129,7 @@ Bruno Mars is currently:
 | | Jeff Bhasker | 2 | Producer, Songwriter |
 | | Wayne Gordon | 2 | Producer |
 | | Andrew Wyatt | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
 | | Shampoo Press & Curl | 2 | Producer |
 | | Larry Gold | 2 | Arranger |
 | | Devin Nakao | 1 | Producer |

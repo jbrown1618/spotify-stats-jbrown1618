@@ -85,7 +85,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | 1 | 0 | Every Step Of The Way | 1987 | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="" width="50" /> | 1 | 0 | Db in April | 2018-04-24 | [🔗](https://open.spotify.com/album/2SUUafWH8ZchpD7eNBzXJy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Remastered) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 
 </details>
 
@@ -212,7 +212,7 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | Romance (2021-02-12) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin&#x27; Lovers! (Remastered)" width="50" /> | Songs For Swingin' Lovers! (Remastered) (1956-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | love (Deluxe Edition) (2018-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Remastered)" width="50" /> | Come Fly With Me (Remastered) (1958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | love (Deluxe Edition) (2018-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="Db in April" width="50" /> | Db in April (2018-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="Time Out" width="50" /> | Time Out (1959-12-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="Time Further Out" width="50" /> | Time Further Out (1961) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="Music Is Better Than Words" width="50" /> | Music Is Better Than Words (2011-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |

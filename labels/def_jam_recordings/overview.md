@@ -140,7 +140,7 @@ Appears as:
 | | Al Hemberger | 1 | Producer |
 | | Shahid Khan | 1 | Songwriter |
 | | Kevin Davis | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
 | | Robert Allen | 1 | Songwriter |
 | | Veronika Bozeman | 1 | Producer |
 | | Brian Kennedy | 1 | Producer, Songwriter |

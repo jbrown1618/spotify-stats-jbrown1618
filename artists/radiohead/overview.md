@@ -135,7 +135,7 @@ Radiohead is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Dan Grech-Marguerat | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 2 | Producer |
 | | Hugo Nicolson | 2 | Producer |
 | | Chris Blair | 2 | Producer |
 | | John Leckie | 2 | Producer |

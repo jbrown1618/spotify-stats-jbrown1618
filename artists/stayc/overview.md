@@ -20,7 +20,7 @@ STAYC:
 
 ## Artist Rank
 STAYC is currently:
-- The #18 artist of all time
+- The #19 artist of all time
 - The #16 artist of the last 6 months
 - The #28 artist of the last month
 

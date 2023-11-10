@@ -15,13 +15,13 @@ SHINee:
 
 ## Artist Rank
 SHINee is currently:
-- The #46 artist of the last 6 months
+- The #45 artist of the last 6 months
 
 ![Rank of SHINee over time](../../images/artists/shinee/rank_time_series.png)
 ## Top Tracks
 
 - Orgel is:
-    - the #11 track of the last month
+    - the #14 track of the last month
 
 ### Top tracks of the last month over time
 

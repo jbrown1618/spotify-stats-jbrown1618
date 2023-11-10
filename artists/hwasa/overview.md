@@ -102,7 +102,7 @@ HWASA:
 | | 구종필 (Koo, Jong-Pil) | 1 | Producer |
 | | 유건형 (Yoo, Keon-Hyung) | 1 | Arranger |
 | | Clarence Coffee Jr. | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc0b5bcf0e46d8ae278aefab4" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
 
 
 <details>

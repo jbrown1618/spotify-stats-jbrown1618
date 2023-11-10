@@ -20,7 +20,7 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #5 artist of all time
 - The #10 artist of the last 6 months
-- The #12 artist of the last month
+- The #11 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -34,12 +34,11 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #14 track of all time
 - DDU-DU DDU-DU is:
-    - the #49 track of the last month
     - the #36 track of all time
 - WHISTLE is:
-    - the #48 track of all time
+    - the #49 track of all time
 - Pink Venom is:
-    - the #14 track of the last 6 months
+    - the #21 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -178,7 +177,7 @@ BLACKPINK is currently:
 | | Soraya LaPread | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Songwriter |
 | | Chelcee Grimes | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc0b5bcf0e46d8ae278aefab4" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd95cf4457fac4cc62311f84f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
 | | VVN | 1 | Lyricist, Songwriter |
 | | Nat Dunn | 1 | Lyricist, Songwriter |

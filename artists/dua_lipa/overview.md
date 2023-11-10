@@ -2,7 +2,7 @@
 # Dua Lipa
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebc0b5bcf0e46d8ae278aefab4" alt="Dua Lipa" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="Dua Lipa" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -77,7 +77,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc0b5bcf0e46d8ae278aefab4" alt="" width="50" /> | [Dua Lipa](overview.md) | 7 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | [Dua Lipa](overview.md) | 7 | Songwriter |
 | | Clarence Coffee Jr. | 3 | Songwriter |
 | | Sarah Hudson | 3 | Songwriter |
 | | Caroline Ailin | 3 | Songwriter, Producer |

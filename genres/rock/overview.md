@@ -303,7 +303,7 @@
 | | Charlie Andrew | 3 | Producer, Songwriter |
 | | Wayne Sermon | 3 | Songwriter |
 | | Joe Newman | 3 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
 | | Thom Green | 3 | Songwriter |
 | | Sean Slade | 3 | Producer |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 3 | Lyricist, Songwriter, Producer |

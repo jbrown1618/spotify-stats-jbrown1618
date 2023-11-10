@@ -118,7 +118,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
 | | John Leckie | 3 | Producer |
 | | Paul Q. Kolderie | 3 | Producer |
 | | Jim Warren | 2 | Producer |

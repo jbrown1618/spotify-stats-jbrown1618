@@ -144,7 +144,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
 | | Al Hemberger | 1 | Producer |
 | | Jim Jonsin | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
 | | Hit-Boy | 1 | Producer, Songwriter |
 | | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
 | | Robert Allen | 1 | Songwriter |

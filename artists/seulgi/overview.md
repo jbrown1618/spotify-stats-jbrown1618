@@ -2,7 +2,7 @@
 # SEULGI
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebde8ad216e0ff7a76573c835e" alt="SEULGI" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb65a8f088eccf78b3fdfc26c0" alt="SEULGI" width="100" />
 
 ## Relationships
 
@@ -14,15 +14,15 @@ SEULGI:
 ## Artist Rank
 SEULGI is currently:
 - The #34 artist of all time
-- The #10 artist of the last month
+- The #12 artist of the last month
 
 ![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #34 track of the last 6 months
+    - the #32 track of the last 6 months
 - Crown is:
-    - the #47 track of the last month
+    - the #48 track of the last month
 
 ### Top tracks of the last 6 months over time
 

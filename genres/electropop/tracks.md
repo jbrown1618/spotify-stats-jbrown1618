@@ -43,4 +43,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | Lollipop | Life in Cartoon Motion | MIKA | Casablanca Records/Island UK | 💚 | [🔗](https://open.spotify.com/track/1JAnC4VkVIbO7C6Vislnue) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Say My Name | Sway | Tove Styrke | [RCA Records Label](../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/2XDJzMW1MUWeAIQoMOJeUj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | Somebody Else | Somebody Else | VÉRITÉ | VÉRITÉ | 💚 | [🔗](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f1bb463940c089b4bb5951" alt="" width="50" /> | Somebody Else | Somebody Else | VÉRITÉ | VÉRITÉ | | [🔗](https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE) |
