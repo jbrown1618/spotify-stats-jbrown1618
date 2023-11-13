@@ -18,15 +18,15 @@ BoA:
 BoA is currently:
 - The #29 artist of all time
 - The #18 artist of the last 6 months
-- The #2 artist of the last month
+- The #3 artist of the last month
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
 - Better is:
-    - the #16 track of the last month
+    - the #11 track of the last month
 - Hurricane Venus is:
-    - the #38 track of the last month
+    - the #30 track of the last month
 
 ### Top tracks of the last 6 months over time
 

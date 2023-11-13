@@ -84,7 +84,6 @@ Sara Bareilles is currently:
 - [neo mellow](../../genres/neo_mellow/overview.md)
 - [pop rock](../../genres/pop_rock/overview.md)
 - [post-teen pop](../../genres/post_teen_pop/overview.md)
-- [viral pop](../../genres/viral_pop/overview.md)
 
 ## Credits
 

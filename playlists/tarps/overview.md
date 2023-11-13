@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -275,7 +275,6 @@
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 1 | 1 | yacht rock |
-| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk americana |
 | 1 | 1 | uk alternative pop |
 | 1 | 1 | southern soul |

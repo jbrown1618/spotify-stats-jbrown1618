@@ -1,13 +1,13 @@
 # Stone Music Entertainment
 
-84 songs
+90 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (68 tracks)
+- Genie Music Corporation, Stone Music Entertainment (74 tracks)
 - Stone Music Entertainment (8 tracks)
 - Genie Music Corporation;Stone Music Entertainment (7 tracks)
 - 2012 Stone Music Entertainment (1 tracks)
@@ -29,13 +29,14 @@ Appears as:
 
 
 <details>
-<summary>See all 53 artists</summary>
+<summary>See all 54 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b1d9cb7a7c8f11a5a4a528d" alt="" width="50" /> | 2 | 2 | LEE CHAE YEON | [🔗](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 2 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 2 | 2 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebde20099448ac7948d726b972" alt="" width="50" /> | 6 | 1 | SOOJIN | [🔗](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebebb34ddba4e4ef87dbb92728" alt="" width="50" /> | 2 | 1 | Block B | [🔗](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 2 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6947ee70e28e545a2aba3d07" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
@@ -87,6 +88,7 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 6 | 6 | 4 ONLY | 2021-09-09 | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | 6 | 1 | AGASSY | 2023-11-08 | [🔗](https://open.spotify.com/album/5FzkGrCoC8PIz1yz6oy8RK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | 2 | 2 | ˣ‿ˣ (SMiLEY) | 2022-01-17 | [🔗](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 2 | 2 | Song of the Bandits (Music from The Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
@@ -95,14 +97,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 2 | 1 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="" width="50" /> | 2 | 1 | FIRST IMPACT | 2022-01-03 | [🔗](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 2 | 1 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
 
 
 <details>
-<summary>See all 71 albums</summary>
+<summary>See all 72 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | 1 | 1 | YOUTH IN THE SHADE | 2023-07-10 | [🔗](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | 1 | 1 | Wings | 2021-02-24 | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9" alt="" width="50" /> | 1 | 1 | When Night Is Falling | 2021-07-07 | [🔗](https://open.spotify.com/album/3nOIsILeko2meMblKEGYZw) |
@@ -204,16 +206,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Anna Timgren | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
+| | PUFF | 1 | Arranger, Songwriter |
+| | 강은정 (Gang, Eun-jeong) | 1 | Lyricist |
 | | 희창 (Hee-chang) | 1 | Arranger, Songwriter |
 | | VINCENZO | 1 | Arranger, Lyricist, Songwriter |
 | | 김승수 (Kim, Seungsu) | 1 | Arranger, Lyricist, Songwriter |
 | | 고현정 (Ko, Hyeonjeong) | 1 | Lyricist |
 | | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
 | | THE HUB 88 | 1 | Songwriter |
+| | Yuth | 1 | Arranger, Songwriter |
 | | 김지현 (Kim, Ji Hyun) | 1 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
 
 
 <details>
@@ -221,8 +223,9 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
 | | Fuxxy | 1 | Arranger, Lyricist, Songwriter |
-| | Dr.JO | 1 | Lyricist |
 | | 최현준 (Choi, Hyun-Joon) | 1 | Arranger, Lyricist, Songwriter |
 | | 김재웅 (Kim, Jae-ung) | 1 | Lyricist, Songwriter |
 | | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
@@ -231,12 +234,18 @@ Appears as:
 | | Noerio | 1 | Songwriter |
 | | Jacob Aaron | 1 | Songwriter |
 | | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
+| | 신봉원 (Shin, Bong Won) | 1 | Producer |
+| | 박남준 (Park, Nam-jun) | 1 | Producer |
+| | Dr.JO | 1 | Lyricist |
+| | Anna Timgren | 1 | Lyricist, Songwriter |
+| | 목지민 (Mok, Ji-min) | 1 | Lyricist |
+| | 강선영 (강선영) | 1 | Producer |
 | | Rick Bridges | 1 | Lyricist |
 
 </details>
 
 
-![Bar chart of top 21 producers](../../images/labels/stone_music_entertainment/producers.png)
+![Bar chart of top 28 producers](../../images/labels/stone_music_entertainment/producers.png)
 ## Tracks released under Stone Music Entertainment
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -308,6 +317,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | You’re the Best | Melting | [MAMAMOO](../../artists/mamamoo/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | Décalcomanie | MEMORY | [MAMAMOO](../../artists/mamamoo/overview.md) | [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | Wings | Wings | PIXY | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | AGASSY | AGASSY | SOOJIN | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2DkO9y7DB9S9nBg5u0VDoW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | Flowering | AGASSY | SOOJIN | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/1ts28f7LItmQa2g3XHzJNY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | SUNSET | AGASSY | SOOJIN | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/4U8pNPDYnxfzt3YwU6rLtq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | Sunflower | AGASSY | SOOJIN | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/0Hj1dwAI4CDssrswFjUy8K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | TyTy | AGASSY | SOOJIN | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/6awGcPEMSE7tBkNC94MYmk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | bloodredroses | AGASSY | SOOJIN | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/6MguVSMzsMVlyy77kVoanD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="" width="50" /> | I Know - '92 TV Edit | Seotaiji and Boys | Seo Taiji and Boys | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="" width="50" /> | Wicked | Remarriage and Desires (Original Soundtrack from The Netflix Series) | Seori | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="" width="50" /> | Full Moon | Doona! (Music from The Netflix Series) | Seori | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | | [🔗](https://open.spotify.com/track/0Pw3J3WlOh3dZXjoTlEizN) |

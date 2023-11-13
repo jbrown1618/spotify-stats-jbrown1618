@@ -38,7 +38,7 @@
 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 7 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | 7 | 0 | John Birch | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
 | <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | 6 | 0 | Anna Tomowa-Sintow | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345cdcafd8455253eadeecd35" alt="" width="50" /> | 6 | 0 | Academy of St Martin in the Fields Chorus | [🔗](https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273869482ca330d244b3c7d467c" alt="" width="50" /> | 6 | 0 | Academy of St Martin in the Fields Chorus | [🔗](https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 4 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 4 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c754c99b4d1dd52cc9ac2ce" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/7117adc3585d0c275a20343fd6e6d6824e622498" alt="" width="50" /> | 2 | 0 | Richard Marlow | [🔗](https://open.spotify.com/artist/7rrfp80BJeAa0lpBnNgRNK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07c9d549505f2fe573026810" alt="" width="50" /> | 2 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a68a328440fd75546e32b42c" alt="" width="50" /> | 2 | 0 | Gregorio Allegri | [🔗](https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273145a09dc5b0310e5f04bda65" alt="" width="50" /> | 2 | 0 | Gregorio Allegri | [🔗](https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG) |
 | <img src="https://i.scdn.co/image/b1e56021e0af6da7c4dad6e677318c716f66a4c3" alt="" width="50" /> | 2 | 0 | Henry Purcell | [🔗](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq) |
 | <img src="https://i.scdn.co/image/c8a584082d1e4aa421717edb8c149a52daf4da4d" alt="" width="50" /> | 2 | 0 | Thomas Allen | [🔗](https://open.spotify.com/artist/2SFBZgfO2H1nVSgjxzJLUy) |
 | <img src="https://i.scdn.co/image/ebdcb255475d7204204576d18490994fb62a8413" alt="" width="50" /> | 1 | 0 | Capriccio Stravagante | [🔗](https://open.spotify.com/artist/7Hb8ewIvJmuQPAQ5MMVXJE) |

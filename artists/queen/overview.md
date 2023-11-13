@@ -22,7 +22,7 @@ Queen:
 
 ## Artist Rank
 Queen is currently:
-- The #43 artist of the last 6 months
+- The #42 artist of the last 6 months
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
 ## Top Tracks

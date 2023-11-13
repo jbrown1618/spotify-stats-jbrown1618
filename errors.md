@@ -4,18 +4,18 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | 44 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 51 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) | Feel Ghood Music/88risingMusic | 💚 |
+| Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | 43 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 51 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) | Feel Ghood Music/88risingMusic | 💚 |
 | Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | 36 | 2022-11-17 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 64 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Feel Ghood Music/88risingMusic | |
-| Red Sun [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | 51 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 55 | | Dreamcatcher Company | |
-| Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) | 18 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 22 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Dreamcatcher Company | 💚 |
-| Silent Night [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | 49 | 2019-09-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | Raid of Dream [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 48 | | DREAMCATCHER COMPANY | |
-| Silent Night [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM) | 15 | 2019-09-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | Raid of Dream [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 14 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | DREAMCATCHER COMPANY | 💚 |
+| Silent Night [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | 48 | 2019-09-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | Raid of Dream [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 48 | | DREAMCATCHER COMPANY | |
+| Silent Night [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM) | 14 | 2019-09-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | Raid of Dream [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 13 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | DREAMCATCHER COMPANY | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 73 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 61 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 75 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
-| Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | 64 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 73 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | 63 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 73 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | 45 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | 57 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Sony Music Labels Inc. | |
-| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 92 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 81 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
-| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 87 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 90 | | Top Dawg Entertainment/RCA Records | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 81 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 90 | | Top Dawg Entertainment/RCA Records | 💚 |
+| Somebody Else [🔗](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | 0 | 2016-09-09 | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | Somebody Else [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 0 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | VÉRITÉ | 💚 |
+| Somebody Else [🔗](https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE) | 51 | 2016-09-09 | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | Somebody Else [🔗](https://open.spotify.com/album/6rHYThgzzhcHFMTLCdKIp7) | 40 | | VÉRITÉ | |
 | 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 71 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 59 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 70 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 63 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 
@@ -25,9 +25,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | 51 | 2022-11-18 | Feel Ghood Music/88risingMusic | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI),<br>BIBI Vengeance [🔗](https://open.spotify.com/track/6vq6B6ENjap5Ea1T4GkrFA),<br>Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | 64 | 2022-11-17 | Feel Ghood Music/88risingMusic | Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) |
-| 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 55 | 2020-02-18 | Dreamcatcher Company | Red Sun [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | |
-| 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 22 | 2020-02-18 | Dreamcatcher Company | Black Or White [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5),<br>Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH),<br>Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g),<br>Scream [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| Raid of Dream [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 14 | 2019-09-18 | DREAMCATCHER COMPANY | Silent Night [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM),<br>데자부 (Deja Vu) [🔗](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Raid of Dream [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 13 | 2019-09-18 | DREAMCATCHER COMPANY | Silent Night [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM),<br>데자부 (Deja Vu) [🔗](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | Raid of Dream [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 48 | 2019-09-18 | DREAMCATCHER COMPANY | Silent Night [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 49 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
@@ -37,20 +35,22 @@
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 81 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 57 | 2022-12-21 | Sony Music Labels Inc. | Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) |
 | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 73 | 2022-12-21 | Republic Records - Stray Kids | Drive (Bang Chan, Lee Know) [🔗](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt),<br>Hug Me (I.N) [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL),<br>I GOT IT (HAN) [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1),<br>Maknae On Top (I.N) [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL),<br>RUN (HAN) [🔗](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO),<br>Stars and Raindrops (Seungmin) [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1),<br>Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei),<br>i hate to admit (Bang Chan) [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH),<br>miss you (Hyunjin) [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| Somebody Else [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | 0 | 2016-09-09 | VÉRITÉ | Somebody Else [🔗](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
+| Somebody Else [🔗](https://open.spotify.com/album/6rHYThgzzhcHFMTLCdKIp7) | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | 40 | 2016-09-09 | VÉRITÉ | Somebody Else [🔗](https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE) | |
 
 ## Tracks with low popularity
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 26 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 26 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 26 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 26 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 26 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 26 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 26 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 26 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 26 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 27 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 27 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 27 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 27 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 27 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 27 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 27 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 84 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 84 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 84 |
@@ -121,45 +121,45 @@
 | Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 64 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 1 | 0 | 63 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 62 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 55 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 55 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Léo Delibes | 0 | 0 | 56 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Léo Delibes | 0 | 0 | 56 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 31 |
@@ -292,7 +292,7 @@
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 56 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 54 |
-| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 76 |
+| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 77 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
 | String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
 | String Quartet in G Major, Op. 76, No. 1: II. Adagio sostenuto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
@@ -368,7 +368,7 @@
 | 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 78 |
@@ -421,7 +421,7 @@
 | BABY | Void | The Rose | 0 | 0 | 63 |
 | Sorry | Sorry | The Rose | 0 | 0 | 63 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 1 | 0 | 49 |
-| I will show you | Invitation | AILEE | 0 | 0 | 55 |
+| I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 69 |
@@ -454,7 +454,8 @@
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 64 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 56 |
+| Tell Me | THE FIFTY | FIFTY FIFTY | 2 | 2 | 70 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 57 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 53 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 42 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 50 |

@@ -21,11 +21,13 @@ Florence + The Machine:
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #19 artist of the last month
+- The #17 artist of the last month
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
 ## Top Tracks
 
+- Seven Devils is:
+    - the #48 track of the last month
 
 ### Top tracks of the last month over time
 

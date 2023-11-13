@@ -22,7 +22,7 @@ Red Velvet:
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #1 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
@@ -30,28 +30,26 @@ Red Velvet is currently:
 - 러시안 룰렛 Russian Roulette is:
     - the #8 track of all time
 - Bad Boy is:
-    - the #43 track of the last 6 months
+    - the #42 track of the last 6 months
     - the #9 track of all time
 - Dumb Dumb is:
     - the #22 track of all time
 - Ice Cream Cake is:
     - the #32 track of all time
 - RBB (Really Bad Boy) is:
-    - the #13 track of the last month
-    - the #48 track of the last 6 months
+    - the #44 track of the last month
+    - the #46 track of the last 6 months
     - the #39 track of all time
 - Feel My Rhythm is:
-    - the #15 track of the last 6 months
+    - the #14 track of the last 6 months
 - Sunny Side Up! is:
-    - the #34 track of the last 6 months
+    - the #33 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 - Bad Dracula is:
-    - the #3 track of the last month
+    - the #9 track of the last month
 - Marionette is:
-    - the #21 track of the last month
-- Peek-A-Boo is:
-    - the #46 track of the last month
+    - the #16 track of the last month
 
 ### Top tracks of all time over time
 

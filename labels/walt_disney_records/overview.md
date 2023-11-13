@@ -179,16 +179,17 @@ Appears as:
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | idol |
 | 2 | 0 | hollywood |
+| 2 | 0 | europop |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
-| 2 | 0 | comedy |
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | comedy |
 | 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |

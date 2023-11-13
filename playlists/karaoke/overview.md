@@ -123,7 +123,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | 1 | 1 | Help! (Remastered) | 1965-08-06 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="" width="50" /> | 1 | 1 | Goodbye Yellow Brick Road (Remastered) | 1973-10-05 | [🔗](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 1 | 1 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a34d440eb5a9b188c066e09a" alt="" width="50" /> | 1 | 1 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 1 | 1 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | 1 | 1 | Ella Eyre | 2015-01-12 | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 1 | 1 | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
@@ -224,9 +224,9 @@
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 10 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
-| 8 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 8 | [piano rock](../../genres/piano_rock/overview.md) |
+| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 
 
 <details>
@@ -234,7 +234,6 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 6 | 6 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -257,6 +256,7 @@
 | 4 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 4 | 2 | glam rock |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
+| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |
@@ -441,7 +441,7 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | Justice (2021-03-19) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a34d440eb5a9b188c066e09a" alt="Future Nostalgia" width="50" /> | Future Nostalgia (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Future Nostalgia (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="Put A Little Love On Me" width="50" /> | Put A Little Love On Me (2019-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="Aussie Legends" width="50" /> | Aussie Legends (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | Abbey Road (Remastered) (1969-09-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | Lover (2019-08-23) | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> | Diana Ross Presents The Jackson 5 (1969-12-18) |

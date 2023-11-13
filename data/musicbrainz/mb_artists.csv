@@ -764,6 +764,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 22ba0e56-8a48-42e9-adff-3498c8d49087,Boo Mitchell,"Mitchell, Boo",,Person,United States,Memphis,,,Male
 22c71264-ed47-4b16-b49d-7c2e3a6fb8ac,Ian Holljes,"Holljes, Ian",Guitarist - vocalist,Person,,Durham,,,Male
 22d03710-e3f8-4467-9fdb-d6abb01d7633,조아,Zoa,,Person,South Korea,Yeongdeungpo District,2005-05-31,,Female
+22d413cb-e482-4d7a-ae8e-84b5b9346e0c,강은정,"Gang, Eun-jeong",,Person,,,,,
 22e6f6c0-2431-43c6-9897-9b339d4c2e2e,Mike Bloom,"Bloom, Mike",,Person,,,,,
 22efb43f-ff71-4bfb-85ff-7a386ea664d2,Carlos Oyanedel,"Oyanedel, Carlos",,Person,,,,,Male
 22fb31fb-bb68-4e9a-aaed-34eee698404b,한철규,"Han, Cheol-kyu",,Person,South Korea,,,,
@@ -1014,6 +1015,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 2d6a3c68-895e-4bbb-9f66-f7890507cf23,Lyn Kuo,"Kuo, Lyn",,Person,,,,,
 2d6b7381-f2dd-4091-bb8f-55d3e81e7419,Jeremy Ruzumna,"Ruzumna, Jeremy","composer, lyricist, keyboardist",Person,United States,,,,Male
 2d79c678-e9e6-4456-a941-8ca436747a43,Roscoe Dash,"Dash, Roscoe",American hip hop rapper and record producer,Person,United States,Little Rock,1990-04-02,,Male
+2d8ce851-65ca-410d-b800-f52d74ef452e,목지민,"Mok, Ji-min",lyricist,Person,South Korea,,,,
 2d973513-8faa-48c0-b30d-6bd59d6918ca,Guy Lawrence,"Lawrence, Guy",Disclosure,Person,United Kingdom,,,,Male
 2da20d54-ff6c-46d0-9961-34dba5385e55,Mark Bright,"Bright, Mark",,Person,,,,,
 2dab6759-71be-42fb-b208-97914b42d51f,한원탁,"Han, Won-tak",TAK,Person,South Korea,South Korea,,,Male
@@ -1783,6 +1785,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 501ea1e0-5c11-4b68-9b65-bc16955ddb73,岩﨑萌花,"Iwasaki, Moeka",,Person,Japan,Nagasaki,2000-04-24,,Female
 50259c88-f747-4279-8d97-694cabde390f,MINNIE,MINNIE,(G)I‐DLE,Person,South Korea,Thailand,1997-10-23,,Female
 50435319-54d5-4e0f-a3ca-32f69b77b198,김병석,"Kim, Byung-seok",Megatone,Person,South Korea,,,,Male
+505906d7-48ad-4e4d-8256-2dc57585f10a,박남준,"Park, Nam-jun",,Person,South Korea,,,,Male
 505d7432-7dbf-4aa5-8499-af11a8171a56,Nathan Boddy,"Boddy, Nathan",,Person,United Kingdom,,,,Male
 5069c6d5-940d-4eb4-b19f-622457e0bb96,Jay Baumgardner,"Baumgardner, Jay",,Person,United States,,,,Male
 506c92c3-0d1f-4bc9-b6ee-848c99ef5fd4,Girls' Generation-TTS,Girls' Generation-TTS,Girls' Generation subgroup,Group,South Korea,Seoul,2012-04-29,,
@@ -1991,6 +1994,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 5962d824-6409-4874-8a74-adcd14a15657,Eugene,Eugene,South Korean actress and singer,Person,South Korea,Seoul,1981-03-03,,Female
 596ab95e-691c-4640-8c38-127f155e9253,Cathy Thompson,"Thompson, Cathy",violinist,Person,,,,,
 596ffa74-3d08-44ef-b113-765d43d12738,Justin Timberlake,"Timberlake, Justin",,Person,United States,Memphis,1981-01-31,,Male
+5970f6f6-3101-4841-9415-68ba9af1c6ad,신봉원,"Shin, Bong Won",,Person,South Korea,,,,Male
 598eae12-4f2b-42e1-96ab-0f5c95e32e87,"Bill Reichenbach, Jr.","Reichenbach, Bill, Jr.",jazz trombonist,Person,United States,Takoma Park,1949-11-20,,Male
 598f1121-5b77-429c-8c54-94b59380aa4f,Chris Elliott,"Elliott, Chris",composer and arranger,Person,London,,,,Male
 5997941e-f177-4e4c-9234-2b62dbda0867,Sandra Campbell Chapin,"Chapin, Sandra Campbell",,Person,United States,,1934,,Female
@@ -2921,6 +2925,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 859d0860-d480-4efd-970c-c05d5f1776b8,Beyoncé,Beyoncé,,Person,United States,Houston,1981-09-04,,Female
 85a7bd21-c53a-4e7f-bffa-9e22f771f00c,데이지,Daisy,,Person,South Korea,Seoul,1999-01-22,,Female
 85ab17b1-e4e3-4af5-94b5-2a7f7ebf72a4,Sonia Fernandez Velasco,"Velasco, Sonia Fernandez",,Person,,,,,Female
+85d76093-9865-4605-97fa-8c910929d366,LiSA,LiSA,Japanese pop/rock singer,Person,Japan,Seki,1987-06-24,,Female
 85db5120-7b1d-4b18-be06-630840398fbc,Eivets Rednow,"Rednow, Eivets",,Person,,,,,
 85eb67c3-e42e-496d-a58b-fda39eb6bf3f,김준원,"Kim, June-One",,Person,South Korea,South Korea,,,Male
 85f3e6f9-4d37-4015-aa22-251684bdf0bb,PhD,PhD,Danish production duo Peter Wallevik & Daniel Davidsen,Group,Denmark,,,,
@@ -3739,6 +3744,7 @@ ad951c95-2c62-4b11-9cfd-4c05d555b6b3,Glen Power,"Power, Glen",,Person,Ireland,,,
 adb88c8d-7f5c-4776-92b9-fc42e08e2949,Bruce Robison,"Robison, Bruce",US Country Music Singer/Songwriter,Person,United States,Bandera,1966-06-11,,Male
 adbf66b8-1bb8-444b-852c-e76afaded1f7,민호,"Yang, Min-ho",8TURN,Person,South Korea,South Korea,2002-10-14,,Male
 ade1d1e7-ff22-4130-81f2-4ab2552a1abd,김지현,"Kim, Ji Hyun",,Person,,,1972-08-16,,
+adedb9e0-62ea-44f2-a40b-60c66b75251a,Yuth,Yuth,Producer,Person,South Korea,,,,
 adef559e-db36-4ae1-b365-4c54627f83d0,賴冠霖,"Lai, Guanlin",,Person,South Korea,Taipei,2001-09-23,,Male
 ae002c5d-aac6-490b-a39a-30aa9e2edf2b,Skrillex,Skrillex,,Person,United States,Los Angeles,1988-01-15,,Male
 ae00e450-1409-44f3-89c4-0e860e922044,Laura Lynch,"Lynch, Laura",US country/bluegrass bassist,Person,United States,,,,Female

@@ -265,7 +265,7 @@
 
 
 <details>
-<summary>See all 57 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -277,6 +277,7 @@
 | 6 | 4 | pov: indie |
 | 4 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
+| 4 | 4 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 9 | 3 | nyc pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 2 | 2 | irish singer-songwriter |

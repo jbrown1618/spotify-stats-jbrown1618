@@ -360,10 +360,10 @@
 | 27 | 19 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 17 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 18 | 11 | [korean pop](../../genres/korean_pop/overview.md) |
-| 5 | 5 | [viral pop](../../genres/viral_pop/overview.md) |
 | 5 | 5 | [k-rap](../../genres/k_rap/overview.md) |
 | 5 | 5 | [anime](../../genres/anime/overview.md) |
 | 4 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 4 | 4 | korean ost |
 
 
 <details>
@@ -371,7 +371,6 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 4 | 4 | korean ost |
 | 4 | 4 | [art pop](../../genres/art_pop/overview.md) |
 | 3 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 3 | pop soul |
@@ -382,6 +381,7 @@
 | 3 | 3 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
+| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | japanese teen pop |

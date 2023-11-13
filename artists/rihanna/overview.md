@@ -10,13 +10,13 @@
 
 ## Artist Rank
 Rihanna is currently:
-- The #25 artist of the last month
+- The #23 artist of the last month
 
 ![Rank of Rihanna over time](../../images/artists/rihanna/rank_time_series.png)
 ## Top Tracks
 
 - The Monster is:
-    - the #47 track of the last month
+    - the #39 track of the last month
 
 ### Top tracks of the last month over time
 
