@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb211a4801caf24b3a52feab7a" alt="" width="50" /> | 1 | 0 | Alicia Keys | [🔗](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7" alt="" width="50" /> | 1 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7cca32a58a9bb263fb5c4a" alt="" width="50" /> | 1 | 0 | Trey Songz | [🔗](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a6012fcdac924a7c3bbb432" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
 

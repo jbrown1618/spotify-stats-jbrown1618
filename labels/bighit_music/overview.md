@@ -1,13 +1,13 @@
 # BIGHIT MUSIC
 
-56 songs
+57 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- BIGHIT MUSIC (45 tracks)
+- BIGHIT MUSIC (46 tracks)
 - BIGHIT MUSIC / HYBE (11 tracks)
 
 ## Top Artists
@@ -17,8 +17,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 35 | 22 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 8 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 3 | 3 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | 3 | 2 | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 2 | 2 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 2 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273006a347ff2700caa3e757c0a" alt="" width="50" /> | 1 | 1 | Youjeen | [🔗](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) |
@@ -33,7 +33,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9" alt="" width="50" /> | 1 | 1 | Latto | [🔗](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a6012fcdac924a7c3bbb432" alt="" width="50" /> | 1 | 1 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb" alt="" width="50" /> | 1 | 1 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
@@ -61,7 +61,7 @@ Appears as:
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -77,6 +77,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74" alt="" width="50" /> | 1 | 1 | Seven (feat. Latto) | 2023-07-14 | [🔗](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 1 | 1 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="" width="50" /> | 1 | 1 | GOLDEN | 2023-11-03 | [🔗](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | 1 | 1 | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" alt="" width="50" /> | 1 | 1 | 3D (feat. Jack Harlow) | 2023-09-29 | [🔗](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) |
@@ -86,13 +87,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 27 albums](../../images/labels/bighit_music/albums.png)
+![Bar chart of top 28 albums](../../images/labels/bighit_music/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 44 | 31 | [k-pop](../../genres/k_pop/overview.md) |
+| 45 | 32 | [k-pop](../../genres/k_pop/overview.md) |
 | 35 | 22 | [pop](../../genres/pop/overview.md) |
 | 35 | 22 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 15 | 11 | [k-rap](../../genres/k_rap/overview.md) |
@@ -239,6 +240,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Set Me Free Pt.2 | FACE | Jimin | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74" alt="" width="50" /> | Seven (feat. Latto) (Explicit Ver.) | Seven (feat. Latto) | Jung Kook, Latto | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" alt="" width="50" /> | 3D (feat. Jack Harlow) | 3D (feat. Jack Harlow) | Jung Kook, Jack Harlow | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="" width="50" /> | Standing Next to You | GOLDEN | Jung Kook | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (English Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/3Fqa3X4hbk54twe1ccbt1l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (Korean Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/5PZA7uiIdIvRMTPftv0LF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa60e8a8d5ca09efc6098175" alt="" width="50" /> | Still Life (with Anderson .Paak) | Indigo | RM, Anderson .Paak | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) |

@@ -29,7 +29,9 @@ Dreamcatcher is currently:
 ## Top Tracks
 
 - Silent Night is:
-    - the #4 track of the last month
+    - the #3 track of the last month
+- BEcause is:
+    - the #50 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -54,15 +56,26 @@ Dreamcatcher is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | 1 | 1 | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | 1 | 1 | Prequel | 2017-07-27 | [🔗](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | 1 | 0 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | 1 | 0 | [REASON] | 2023-01-13 | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8" alt="" width="50" /> | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) |
+
+
+<details>
+<summary>See all albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | 1 | 0 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) |
+
+</details>
+
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 15 | 11 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
+| 16 | 11 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 1 | 1 | 해피페이스 엔터테인먼트 |
 
 ## Genres
@@ -140,6 +153,7 @@ Dreamcatcher is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | | [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Locked Inside A Door | [Apocalypse : Save us] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | | [🔗](https://open.spotify.com/track/3MIXS3voZb2QFTnjKeYVT6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | MAISON | [Apocalypse : Save us] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) |

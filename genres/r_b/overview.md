@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 2 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb211a4801caf24b3a52feab7a" alt="" width="50" /> | 1 | 1 | Alicia Keys | [🔗](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) |
 
 
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfade412170364e8067c9df7a" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9592a41ec193fd20c5372ed3" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb270176cea649f3afe50ac3b0" alt="" width="50" /> | 1 | 0 | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |

@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="" width="50" /> | 1 | 1 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
-| <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 1 | 1 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 1 | 1 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
@@ -513,7 +513,7 @@
 | | Marcos Tovar | 2 | Producer |
 | | IMLAY | 2 | Arranger |
 | | 강선영 (강선영) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 2 | Lyricist, Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist, Arranger, Songwriter |
 | | Hautboi Rich | 2 | Songwriter |
 | | 김석민 (Kim Seog-min) | 2 | Producer |
 | | Tor Erik Hermansen | 2 | Songwriter |

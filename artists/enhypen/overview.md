@@ -36,11 +36,11 @@ ENHYPEN is currently:
 - Bills is:
     - the #11 track of the last 6 months
 - Bite Me is:
-    - the #18 track of the last month
+    - the #16 track of the last month
     - the #19 track of the last 6 months
 - CRIMINAL LOVE is:
-    - the #21 track of the last month
-    - the #38 track of the last 6 months
+    - the #19 track of the last month
+    - the #37 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -60,11 +60,11 @@ ENHYPEN is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 10 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 9 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 7 | [Workout](../../playlists/workout/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d03b5e88cee6870778a4d27ab67616d0000b27327cc105dd498a481f805f9a0ab67616d0000b2733b809d08ca5a7eafe2978998ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | 6 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 6 | [애교！](../../playlists/___/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 5 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 3 | [K-Memes](../../playlists/k_memes/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27312062f95939fd4de9def44e7ab67616d0000b27386fe9fe6eaab4083b32adf9fab67616d0000b273afedcb63d2ef759322629930ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 

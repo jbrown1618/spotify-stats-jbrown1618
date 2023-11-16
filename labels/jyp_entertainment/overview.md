@@ -18,7 +18,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 5 | 2 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b93ad49bde5a3655aef95cd" alt="" width="50" /> | 2 | 2 | miss A | [🔗](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 2 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | 2 | 1 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 2 | 1 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28f845b9a1c6e8bccb255f0c" alt="" width="50" /> | 1 | 1 | Yerin Baek | [🔗](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2fba28d51fc972ed9d8fbaaa" alt="" width="50" /> | 1 | 1 | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
@@ -99,7 +99,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Arranger, Lyricist, Songwriter |
 | | Gavin Jones | 1 | Songwriter |
 | | Chizzy | 1 | Songwriter |
 | | Jay Dmuchowski | 1 | Songwriter |

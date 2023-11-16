@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | Death By A Thousand Cuts (0.319) | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> | Chandelier (0.0685) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks (0.313) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | Vienna (0.0754) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (0.312) | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="Blue Neighbourhood (Deluxe)" width="50" /> | YOUTH (0.0777) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster (0.273) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster (0.273) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (2008 Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) |
 
 ## Valence
 

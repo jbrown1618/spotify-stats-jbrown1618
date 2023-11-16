@@ -29,7 +29,7 @@ TAEYEON is currently:
 - Toddler is:
     - the #25 track of the last 6 months
 - I Got Love is:
-    - the #48 track of the last 6 months
+    - the #47 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

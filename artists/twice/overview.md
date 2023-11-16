@@ -34,7 +34,7 @@ TWICE is currently:
 - I CAN'T STOP ME is:
     - the #18 track of all time
 - The Feels is:
-    - the #50 track of the last 6 months
+    - the #49 track of the last 6 months
     - the #48 track of all time
 - What is Love is:
     - the #24 track of the last 6 months
@@ -164,7 +164,7 @@ TWICE is currently:
 | | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
 | | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
 | | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
 | | 박은정 (박은정) | 2 | Producer |
 | | 김용운 (Gim, Yong-un) | 2 | Producer |
 | | 이경원 (Lee, Kyung-won) | 2 | Producer |

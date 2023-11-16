@@ -22,7 +22,7 @@ Red Velvet:
 Red Velvet is currently:
 - The #1 artist of all time
 - The #1 artist of the last 6 months
-- The #2 artist of the last month
+- The #1 artist of the last month
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
@@ -37,19 +37,21 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #32 track of all time
 - RBB (Really Bad Boy) is:
-    - the #44 track of the last month
-    - the #46 track of the last 6 months
+    - the #40 track of the last month
+    - the #45 track of the last 6 months
     - the #39 track of all time
 - Feel My Rhythm is:
     - the #14 track of the last 6 months
 - Sunny Side Up! is:
     - the #33 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #37 track of the last 6 months
+    - the #36 track of the last 6 months
 - Bad Dracula is:
-    - the #9 track of the last month
+    - the #8 track of the last month
 - Marionette is:
-    - the #16 track of the last month
+    - the #14 track of the last month
+- Chill Kill is:
+    - the #46 track of the last month
 
 ### Top tracks of all time over time
 
@@ -65,13 +67,14 @@ Red Velvet is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 63 | [K-Pop](../../playlists/k_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 15 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 71 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 18 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 14 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 12 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 9 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 8 | [Halloween](../../playlists/halloween/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27312062f95939fd4de9def44e7ab67616d0000b27386fe9fe6eaab4083b32adf9fab67616d0000b273afedcb63d2ef759322629930ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 6 | [K-Memes](../../playlists/k_memes/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 4 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 3 | [애교！](../../playlists/___/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 2 | [Cursed English](../../playlists/cursed_english/overview.md) |
@@ -85,6 +88,7 @@ Red Velvet is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | 8 | 7 | Chill Kill - The 3rd Album | 2023-11-13 | [🔗](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 5 | 5 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | 5 | 4 | Queendom - The 6th Mini Album | 2021-08-16 | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
@@ -94,7 +98,6 @@ Red Velvet is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | 4 | 4 | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 4 | 4 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | 4 | 2 | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | 4 | 2 | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 
 
 <details>
@@ -102,6 +105,7 @@ Red Velvet is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | 4 | 2 | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | 3 | 2 | Bloom | 2022-04-06 | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 3 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | 3 | 1 | Rookie - The 4th Mini Album | 2017-02-01 | [🔗](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) |
@@ -125,7 +129,7 @@ Red Velvet is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 62 | 47 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 70 | 54 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 2 | avex trax |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | FNC인베스트먼트 |
@@ -327,6 +331,14 @@ Red Velvet is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | On A Ride | ‘The ReVe Festival 2022 - Birthday’ | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1hYQUY06GbO7YR8QeO7Qdk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ZOOM | ‘The ReVe Festival 2022 - Birthday’ | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Beautiful Christmas | 2022 Winter SMTOWN : SMCU PALACE | [Red Velvet](overview.md), [aespa](../aespa/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Bulldozer | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4Pp6Ql9wV7A6VqHrmjMFv4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Chill Kill | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Knock Knock (Who's There?) | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5nTemr4PG8L9jQoqxsZu6w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Nightmare | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0jUDrSASok8h2xUIWe4KOG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | One Kiss | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4zIPZxvYp32y6ifjm1E30O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Underwater | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/58xqapN458N2VjibN3uVrY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Will I Ever See You Again? | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0IVwlMnmT0CS8opHfFZAWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Wings | Chill Kill - The 3rd Album | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/2UBHMxFRoaDuHGGIjpd3dJ) |
 
 </details>
 

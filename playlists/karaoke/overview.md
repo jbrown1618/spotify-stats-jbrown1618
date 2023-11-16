@@ -142,7 +142,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 1 | 1 | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 1 | 1 | 4 | 2011-06-24 | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 1 | 1 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="" width="50" /> | 1 | 0 | Nothing But The Best (Remastered) | 2008-01-01 | [🔗](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="" width="50" /> | 1 | 0 | Nothing But The Best (2008 Remastered) | 2008-05-13 | [🔗](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b7c95b538308aebf58cc4f6" alt="" width="50" /> | 1 | 0 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | 0 | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |

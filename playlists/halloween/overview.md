@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="Halloween" width="100" />
 
-[92 tracks (82 liked) 🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp)
+[96 tracks (86 liked) 🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp)
 
 [See Track Features](audio_features.md)
 
@@ -13,11 +13,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 8 | 8 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 7 | 7 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 5 | 5 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 5 | 5 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 5 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 3 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 3 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eaaec0372ea5e4f248eaf282" alt="" width="50" /> | 3 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
@@ -87,6 +87,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 4 | 4 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | 4 | 4 | Chill Kill - The 3rd Album | 2023-11-13 | [🔗](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | 3 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 2 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 2 | 2 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
@@ -95,14 +96,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 2 | 2 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | 2 | 2 | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 2 | 1 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 
 
 <details>
-<summary>See all 80 albums</summary>
+<summary>See all 81 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="" width="50" /> | 1 | 1 | 기기괴괴 | 2021-10-31 | [🔗](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | 1 | 1 | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | 1 | 1 | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
@@ -183,7 +184,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 21 | 21 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 25 | 25 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 6 | 6 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 5 | 5 | [Darkroom](../../labels/darkroom/overview.md) |
 | 5 | 5 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
@@ -245,8 +246,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 52 | 44 | [k-pop](../../genres/k_pop/overview.md) |
-| 38 | 35 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 56 | 48 | [k-pop](../../genres/k_pop/overview.md) |
+| 42 | 39 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 17 | 14 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 12 | 11 | [pop](../../genres/pop/overview.md) |
 | 5 | 5 | [art pop](../../genres/art_pop/overview.md) |
@@ -403,7 +404,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2023 | 16 |
+| [2023](2023.md) | 20 |
 | [2022](2022.md) | 24 |
 | 2021 | 17 |
 | 2020 | 7 |
@@ -427,13 +428,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | Drama - The 4th Mini Album (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Fallen (2003-03-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY (2023-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="Back To Black" width="50" /> | Back To Black (2006-10-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="Guilty - The 4th Mini Album" width="50" /> | Guilty - The 4th Mini Album (2023-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' (2023-10-23) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Ceremonials (Deluxe Edition) (2011-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | REAL+ (2011-02-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="Street Woman Fighter2 (SWF2) Crew Songs" width="50" /> | Street Woman Fighter2 (SWF2) Crew Songs (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | Pink Tape - The 2nd Album (2013-07-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="SHINee The 3rd Album &#x27;The Misconceptions Of Us&#x27;" width="50" /> | SHINee The 3rd Album 'The Misconceptions Of Us' (2013-08-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Masterpiece (2023-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="The Marshall Mathers LP2" width="50" /> | The Marshall Mathers LP2 (2013-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | HATE XX (2023-06-27) | <img src="https://i.scdn.co/image/ab67616d0000b2739bacc904bb472a6f1a9cde67" alt="VOODOO" width="50" /> | VOODOO (2013-11-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | Chill Kill - The 3rd Album (2023-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Fallen (2003-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | Drama - The 4th Mini Album (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="Back To Black" width="50" /> | Back To Black (2006-10-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY (2023-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | Good Girl Gone Bad: Reloaded (2008-06-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="Guilty - The 4th Mini Album" width="50" /> | Guilty - The 4th Mini Album (2023-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | Run Devil Run - The 2nd Album Repackage (2010-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' (2023-10-23) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Ceremonials (Deluxe Edition) (2011-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | REAL+ (2011-02-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | Pink Tape - The 2nd Album (2013-07-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="Street Woman Fighter2 (SWF2) Crew Songs" width="50" /> | Street Woman Fighter2 (SWF2) Crew Songs (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="SHINee The 3rd Album &#x27;The Misconceptions Of Us&#x27;" width="50" /> | SHINee The 3rd Album 'The Misconceptions Of Us' (2013-08-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="The Marshall Mathers LP2" width="50" /> | The Marshall Mathers LP2 (2013-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Masterpiece (2023-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b2739bacc904bb472a6f1a9cde67" alt="VOODOO" width="50" /> | VOODOO (2013-11-25) |

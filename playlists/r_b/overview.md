@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd66f1e0c883f319443d68c45" alt="" width="50" /> | 1 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
-| <img src="https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 1 | 1 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28831abca4b27c9f46416eb1" alt="" width="50" /> | 1 | 1 | Blu Cantrell | [🔗](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
@@ -53,7 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 1 | 1 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 1 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 1 | 1 | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c7f0695e260619b85d687db" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49637fe719fddb8e90896f41" alt="" width="50" /> | 1 | 1 | Jhorrmountain | [🔗](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) |
@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a2235c7e50d72aef06b7f66" alt="" width="50" /> | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1722d31b67b9f5a48e94e465" alt="" width="50" /> | 1 | 0 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5d747f2aa17e23d16bf293c" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f5af779b97c9e52d74d3743" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9592a41ec193fd20c5372ed3" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | 1 | 0 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |

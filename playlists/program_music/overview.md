@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 1 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
 | <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 1 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
 | <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | 1 | 0 | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
-| <img src="https://i.scdn.co/image/35be7bb14981025436fb95c6b80644ff4b26b32a" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a3bcee753b08fbf960a198e" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
 
 </details>
 

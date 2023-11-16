@@ -27,7 +27,7 @@ Florence + The Machine is currently:
 ## Top Tracks
 
 - Seven Devils is:
-    - the #48 track of the last month
+    - the #44 track of the last month
 
 ### Top tracks of the last month over time
 

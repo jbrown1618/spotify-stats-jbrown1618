@@ -116,8 +116,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.908) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.206) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1" width="50" /> | Rain and You (0.244) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbcb3e52c772d774ba73b9c2" alt="2nd EP Album ‘Bipolar Pt.2 Prelude of Love’" width="50" /> | Do 4 Me (0.874) | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Music from The Netflix Series)" width="50" /> | Sad Waltz (0.259) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273773659f59fa337348b8214b6" alt="Magic Hour" width="50" /> | Galileo (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="LULLABY" width="50" /> | LULLABY (0.308) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | Sunflower (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="ALL MY GIRLS" width="50" /> | Make Me Feel (0.315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273773659f59fa337348b8214b6" alt="Magic Hour" width="50" /> | Galileo (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273679d960f68492932541a032e" alt="MELTING POINT" width="50" /> | CRUSH (0.274) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | Sunflower (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="LULLABY" width="50" /> | LULLABY (0.308) |
 
 ## Tempo
 

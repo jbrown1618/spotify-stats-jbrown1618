@@ -16,7 +16,7 @@ Rihanna is currently:
 ## Top Tracks
 
 - The Monster is:
-    - the #39 track of the last month
+    - the #35 track of the last month
 
 ### Top tracks of the last month over time
 

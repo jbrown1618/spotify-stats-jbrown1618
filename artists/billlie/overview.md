@@ -28,9 +28,9 @@ Billlie is currently:
 ## Top Tracks
 
 - EUNOIA is:
-    - the #15 track of the last 6 months
+    - the #16 track of the last 6 months
 - enchanted night ~ white night is:
-    - the #34 track of the last 6 months
+    - the #38 track of the last 6 months
 - RING X RING is:
     - the #41 track of the last 6 months
 

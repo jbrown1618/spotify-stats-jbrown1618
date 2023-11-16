@@ -238,7 +238,7 @@
 | | 전군 (Jeon Goon) | 1 | Lyricist, Songwriter |
 | | Paulina Cerrilla | 1 | Lyricist, Songwriter |
 | | Daniel Davidsen | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb909ae20e6815f0b43dd86bb6" alt="" width="50" /> | J.Y. Park | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 1 | Lyricist |
 | | MarkAlong | 1 | Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | Kass | 1 | Songwriter |

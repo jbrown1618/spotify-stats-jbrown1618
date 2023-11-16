@@ -13,9 +13,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273bee26188540f975c1373b22b" alt="Silent Night" width="50" /> | Silent Night (0.333) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="NewJeans 2nd EP &#x27;Get Up&#x27;" width="50" /> | ASAP (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.353) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="Idle song" width="50" /> | Idle song (0.933) | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | Fine (0.36) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | RUN (HAN) (0.929) | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | Like Water (0.365) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | Epilogue (0.366) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="Never Gonna Dance Again : Act 1 - The 3rd Album" width="50" /> | Clockwork (0.37) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | RUN (HAN) (0.929) | <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | Will I Ever See You Again? (0.364) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="Jelly" width="50" /> | Jelly (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | Like Water (0.365) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (English Ver.) (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | Epilogue (0.366) |
 
 ## Energy
 

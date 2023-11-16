@@ -1,13 +1,13 @@
 # SM Entertainment
 
-289 songs
+297 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (285 tracks)
+- SM Entertainment (293 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/RCA Records (1 tracks)
@@ -16,7 +16,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 62 | 47 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 70 | 54 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 33 | 19 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 10 | 9 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
@@ -104,6 +104,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | 8 | 7 | Chill Kill - The 3rd Album | 2023-11-13 | [🔗](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | 7 | 6 | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | 6 | 6 | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | 5 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
@@ -113,7 +114,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | 5 | 4 | Queendom - The 6th Mini Album | 2021-08-16 | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 5 | 4 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 5 | 3 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 
 
 <details>
@@ -121,6 +121,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | 3 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 5 | 3 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | 5 | 2 | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
@@ -210,7 +211,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | 1 | 1 | MAMACITA - The 7th Album | 2014-08-29 | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="" width="50" /> | 1 | 1 | Love Theory - SM STATION | 2022-04-14 | [🔗](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 1 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | 1 | 1 | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
 
 </details>
 
@@ -221,8 +221,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 264 | 179 | [k-pop](../../genres/k_pop/overview.md) |
-| 96 | 70 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 272 | 186 | [k-pop](../../genres/k_pop/overview.md) |
+| 104 | 77 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 69 | 45 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -541,6 +541,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | On A Ride | ‘The ReVe Festival 2022 - Birthday’ | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1hYQUY06GbO7YR8QeO7Qdk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | ZOOM | ‘The ReVe Festival 2022 - Birthday’ | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Beautiful Christmas | 2022 Winter SMTOWN : SMCU PALACE | [Red Velvet](../../artists/red_velvet/overview.md), [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Bulldozer | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4Pp6Ql9wV7A6VqHrmjMFv4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Chill Kill | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Knock Knock (Who's There?) | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5nTemr4PG8L9jQoqxsZu6w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Nightmare | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0jUDrSASok8h2xUIWe4KOG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | One Kiss | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4zIPZxvYp32y6ifjm1E30O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Underwater | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/58xqapN458N2VjibN3uVrY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Will I Ever See You Again? | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0IVwlMnmT0CS8opHfFZAWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Wings | Chill Kill - The 3rd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2UBHMxFRoaDuHGGIjpd3dJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | Monster | Monster - The 1st Mini Album | Red Velvet - IRENE & SEULGI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | Naughty | Red Velvet - IRENE & SEULGI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../../artists/seulgi/overview.md), [CHUNG HA](../../artists/chung_ha/overview.md), SinB, [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |

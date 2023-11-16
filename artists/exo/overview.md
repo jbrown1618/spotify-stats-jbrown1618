@@ -41,6 +41,10 @@ EXO is currently:
 
 ![Line chart of top tracks of all time over time](../../images/artists/exo/track_rank_time_series_long_term.png)
 
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/exo/track_rank_time_series_medium_term.png)
+
 ### Top tracks of the last month over time
 
 ![Line chart of top tracks of the last month over time](../../images/artists/exo/track_rank_time_series_short_term.png)

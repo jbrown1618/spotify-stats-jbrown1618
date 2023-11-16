@@ -20,7 +20,7 @@ aespa:
 aespa is currently:
 - The #8 artist of all time
 - The #2 artist of the last 6 months
-- The #1 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
@@ -29,32 +29,32 @@ aespa is currently:
     - the #4 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #23 track of the last 6 months
+    - the #22 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #21 track of all time
 - Illusion is:
-    - the #12 track of the last month
-    - the #7 track of the last 6 months
+    - the #10 track of the last month
+    - the #6 track of the last 6 months
     - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
 - Spicy is:
-    - the #2 track of the last 6 months
+    - the #3 track of the last 6 months
 - Thirsty is:
     - the #20 track of the last 6 months
 - Hold On Tight is:
-    - the #22 track of the last 6 months
+    - the #23 track of the last 6 months
 - YEPPI YEPPI is:
     - the #40 track of the last 6 months
 - Trick or Trick is:
-    - the #2 track of the last month
+    - the #1 track of the last month
 - YOLO is:
-    - the #7 track of the last month
+    - the #6 track of the last month
 - Don't Blink is:
-    - the #33 track of the last month
+    - the #30 track of the last month
 - Drama is:
-    - the #47 track of the last month
+    - the #43 track of the last month
 
 ### Top tracks of all time over time
 
@@ -73,7 +73,7 @@ aespa is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 29 | [K-Pop](../../playlists/k_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 14 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 10 | [Workout](../../playlists/workout/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d03b5e88cee6870778a4d27ab67616d0000b27327cc105dd498a481f805f9a0ab67616d0000b2733b809d08ca5a7eafe2978998ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27312062f95939fd4de9def44e7ab67616d0000b27386fe9fe6eaab4083b32adf9fab67616d0000b273afedcb63d2ef759322629930ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |

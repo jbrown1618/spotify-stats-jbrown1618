@@ -42,7 +42,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaf75445e070451c0fb5bc7d" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8b74c36ba6c31fc0f58783c" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |

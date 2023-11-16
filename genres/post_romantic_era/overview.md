@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 1 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | 1 | 0 | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
 | <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | 1 | 0 | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
-| <img src="https://i.scdn.co/image/35be7bb14981025436fb95c6b80644ff4b26b32a" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a3bcee753b08fbf960a198e" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
 
 </details>
 

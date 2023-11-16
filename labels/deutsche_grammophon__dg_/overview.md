@@ -43,7 +43,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 1 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 1 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
-| <img src="https://i.scdn.co/image/35be7bb14981025436fb95c6b80644ff4b26b32a" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a3bcee753b08fbf960a198e" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | 1 | 0 | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
 

@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb098ada25bad2c88d4b590dc1" alt="" width="50" /> | 1 | 0 | Seth Rogen | [🔗](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) |
 | | 1 | 0 | Jason Raize | [🔗](https://open.spotify.com/artist/7wtyPvLmy8LAf2CO0Xwy4p) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4165ef3e7669f249706b8999" alt="" width="50" /> | 1 | 0 | Sally Dworsky | [🔗](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d659ec1167c5ef3865033afa" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fa17f03805db6002c7715b3" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
 | | 1 | 0 | Billy Bletcher | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
 | | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
@@ -188,20 +188,18 @@
 | 5 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 2 | 0 | idol |
 | 2 | 0 | hollywood |
-| 2 | 0 | europop |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
+| 2 | 0 | comedy |
+| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 0 | comedy |
-| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |

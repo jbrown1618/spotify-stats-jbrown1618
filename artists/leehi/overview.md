@@ -23,7 +23,7 @@ LeeHi is currently:
 - ONLY is:
     - the #28 track of the last 6 months
 - 20MIN is:
-    - the #27 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of all time over time
 

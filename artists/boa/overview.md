@@ -24,9 +24,9 @@ BoA is currently:
 ## Top Tracks
 
 - Better is:
-    - the #11 track of the last month
+    - the #9 track of the last month
 - Hurricane Venus is:
-    - the #30 track of the last month
+    - the #27 track of the last month
 
 ### Top tracks of the last 6 months over time
 

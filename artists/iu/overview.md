@@ -22,7 +22,7 @@ IU is currently:
 - Coin is:
     - the #20 track of all time
 - My sea is:
-    - the #16 track of the last 6 months
+    - the #15 track of the last 6 months
     - the #27 track of all time
 - LILAC is:
     - the #31 track of all time
