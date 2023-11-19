@@ -223,7 +223,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 20 | 12 | [pop](../../genres/pop/overview.md) |
+| 21 | 13 | [pop](../../genres/pop/overview.md) |
 | 7 | 6 | [rock](../../genres/rock/overview.md) |
 | 7 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 7 | 5 | [neo mellow](../../genres/neo_mellow/overview.md) |
@@ -236,14 +236,13 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 3 | 3 | neo soul |
 | 3 | 3 | merseybeat |
 | 3 | 3 | [british invasion](../../genres/british_invasion/overview.md) |
-| 3 | 3 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 5 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 2 | pop soul |

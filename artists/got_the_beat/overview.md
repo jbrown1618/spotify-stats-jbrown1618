@@ -64,12 +64,12 @@ GOT the beat is currently:
 
 ### Member Credits
 
-| | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
-|:---|---:|---:|---:|---:|
-| Arranger | 1 | 0 | 0 | 0 |
-| Lyricist | 3 | 0 | 1 | 0 |
-| Songwriter | 2 | 0 | 0 | 0 |
-| Vocal | 0 | 15 | 5 | 15 |
+| | WINTER | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
+|:---|---:|---:|---:|---:|---:|
+| Arranger | 0 | 1 | 0 | 0 | 0 |
+| Lyricist | 0 | 3 | 0 | 1 | 0 |
+| Songwriter | 0 | 2 | 0 | 0 | 0 |
+| Vocal | 1 | 0 | 15 | 5 | 15 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

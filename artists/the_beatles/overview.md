@@ -24,7 +24,7 @@ The Beatles:
 
 ## Artist Rank
 The Beatles is currently:
-- The #42 artist of all time
+- The #43 artist of all time
 - The #34 artist of the last 6 months
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
@@ -78,7 +78,6 @@ The Beatles is currently:
 
 ## Genres
 
-- [beatlesque](../../genres/beatlesque/overview.md)
 - [british invasion](../../genres/british_invasion/overview.md)
 - [classic rock](../../genres/classic_rock/overview.md)
 - merseybeat

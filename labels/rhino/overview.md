@@ -87,16 +87,16 @@ Appears as:
 | 12 | 4 | [album rock](../../genres/album_rock/overview.md) |
 | 10 | 4 | [soft rock](../../genres/soft_rock/overview.md) |
 | 6 | 4 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 7 | 2 | yacht rock |
+| 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 7 | 2 | yacht rock |
 | 3 | 2 | rock-and-roll |
-| 3 | 2 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 3 | 2 | bubblegum pop |
 | 3 | 1 | metal |
 | 3 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
@@ -104,11 +104,12 @@ Appears as:
 | 2 | 1 | synth funk |
 | 2 | 1 | sunshine pop |
 | 2 | 1 | stoner rock |
+| 2 | 1 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | funk rock |
 | 2 | 1 | funk |
 | 2 | 1 | birmingham metal |
-| 2 | 1 | [beatlesque](../../genres/beatlesque/overview.md) |
+| 2 | 1 | beatlesque |
 | 2 | 1 | alternative metal |
 | 1 | 1 | synthpop |
 | 1 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |

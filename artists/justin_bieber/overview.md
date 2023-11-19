@@ -103,7 +103,7 @@
 | | Whitney Phillips | 1 | Songwriter |
 | | Skyler Stonestreet | 1 | Songwriter |
 | | Scooter Braun | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb584f79075db4e0c9304a7f85" alt="" width="50" /> | Daddy Yankee | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | Daddy Yankee | 1 | Songwriter |
 | | Gian Stone | 1 | Producer, Songwriter |
 
 </details>

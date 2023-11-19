@@ -198,7 +198,7 @@
 | 2 | 0 | Ode |
 | 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | Work |
-| 1 | 0 | Universal Music Division Polydor |
+| 1 | 0 | Universal Music Division One Records |
 | 1 | 0 | RCA Victor |
 | 1 | 0 | Private Music |
 | 1 | 0 | Flower Army Records |

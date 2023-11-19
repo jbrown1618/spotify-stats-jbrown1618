@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 86 genres</summary>
+<summary>See all 85 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -243,7 +243,6 @@
 | 5 | 5 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 5 | 5 | merseybeat |
 | 5 | 5 | [british invasion](../../genres/british_invasion/overview.md) |
-| 5 | 5 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 5 | 5 | [album rock](../../genres/album_rock/overview.md) |
 | 5 | 4 | [adult standards](../../genres/adult_standards/overview.md) |
 | 4 | 3 | [permanent wave](../../genres/permanent_wave/overview.md) |

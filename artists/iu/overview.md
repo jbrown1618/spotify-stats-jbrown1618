@@ -11,8 +11,8 @@
 ## Artist Rank
 IU is currently:
 - The #3 artist of all time
-- The #4 artist of the last 6 months
-- The #28 artist of the last month
+- The #5 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
 ## Top Tracks
@@ -22,7 +22,7 @@ IU is currently:
 - Coin is:
     - the #20 track of all time
 - My sea is:
-    - the #15 track of the last 6 months
+    - the #14 track of the last 6 months
     - the #27 track of all time
 - LILAC is:
     - the #31 track of all time

@@ -190,13 +190,13 @@
 | 98 | 63 | [rock](../../genres/rock/overview.md) |
 | 95 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
 | 39 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
+| 45 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 47 | 25 | [album rock](../../genres/album_rock/overview.md) |
-| 43 | 25 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
-| 33 | 23 | [beatlesque](../../genres/beatlesque/overview.md) |
 | 31 | 22 | merseybeat |
 | 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |
 | 26 | 13 | [soft rock](../../genres/soft_rock/overview.md) |
 | 15 | 12 | glam rock |
+| 17 | 11 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
 <details>
@@ -204,8 +204,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 17 | 11 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 13 | 8 | [heartland rock](../../genres/heartland_rock/overview.md) |
+| 15 | 9 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 16 | 6 | progressive rock |
 | 9 | 4 | yacht rock |
 | 6 | 4 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
@@ -227,6 +226,7 @@
 | 2 | 1 | funk |
 | 2 | 1 | bubblegum pop |
 | 2 | 1 | birmingham metal |
+| 2 | 1 | beatlesque |
 | 1 | 1 | southern rock |
 | 1 | 1 | jam band |
 | 1 | 1 | electric blues |

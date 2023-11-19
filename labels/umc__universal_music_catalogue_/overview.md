@@ -69,22 +69,21 @@ Appears as:
 | 1 | 1 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 1 | merseybeat |
 | 1 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
-| 1 | 1 | [beatlesque](../../genres/beatlesque/overview.md) |
+| 1 | 1 | [album rock](../../genres/album_rock/overview.md) |
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | [album rock](../../genres/album_rock/overview.md) |
 | 12 | 0 | west end |
 | 12 | 0 | [broadway](../../genres/broadway/overview.md) |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/umc__universal_music_catalogue_/genres.png)
+![Bar chart of top 12 genres](../../images/labels/umc__universal_music_catalogue_/genres.png)
 
 ## Top Producers
 

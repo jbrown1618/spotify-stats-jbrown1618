@@ -17,18 +17,19 @@ CHUNG HA:
 CHUNG HA is currently:
 - The #16 artist of all time
 - The #21 artist of the last 6 months
-- The #10 artist of the last month
+- The #7 artist of the last month
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
 - Gotta Go is:
+    - the #48 track of the last month
     - the #7 track of all time
 - Dream of You (with R3HAB) is:
-    - the #5 track of the last month
+    - the #17 track of the last month
     - the #46 track of the last 6 months
 - Demente (feat. Guaynaa) is:
-    - the #20 track of the last month
+    - the #12 track of the last month
 
 ### Top tracks of all time over time
 

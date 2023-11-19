@@ -399,10 +399,10 @@
 | 7 | 7 | alternative r&b |
 | 8 | 6 | [rock](../../genres/rock/overview.md) |
 | 8 | 6 | boy band |
+| 7 | 6 | talent show |
 | 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 8 | 5 | uk dance |
 | 7 | 5 | [electropop](../../genres/electropop/overview.md) |
-| 6 | 5 | talent show |
 | 5 | 5 | uk funky |
 | 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 5 | 5 | afrofuturism |

@@ -106,7 +106,7 @@
 | 1 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 1 | 1 | Arista |
 | 1 | 0 | Universal Republic Records |
-| 1 | 0 | Universal Music Division Polydor |
+| 1 | 0 | Universal Music Division One Records |
 | 1 | 0 | Silent Records IGA |
 | 1 | 0 | Shawn Mendes LP4-5 PS |
 

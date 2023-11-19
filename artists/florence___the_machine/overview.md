@@ -20,14 +20,10 @@ Florence + The Machine:
 - has member Florence Welch
 
 ## Artist Rank
-Florence + The Machine is currently:
-- The #17 artist of the last month
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence___the_machine/rank_time_series.png)
 ## Top Tracks
 
-- Seven Devils is:
-    - the #44 track of the last month
 
 ### Top tracks of the last month over time
 
