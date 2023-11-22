@@ -9,8 +9,6 @@
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks
 
-- Paradise Lost is:
-    - the #9 track of the last month
 
 ### Top tracks of the last month over time
 

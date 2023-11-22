@@ -9,8 +9,6 @@
 
 ## Top Tracks
 
-- Yoga is:
-    - the #22 track of the last month
 
 ### Top tracks of the last month over time
 

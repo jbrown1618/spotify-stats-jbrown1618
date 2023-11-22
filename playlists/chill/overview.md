@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 3 | 3 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29d6428b4b21a6c952b2aea9" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 3 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 3 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 3 | 3 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 4 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -360,10 +360,10 @@
 | 27 | 19 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 17 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 18 | 11 | [korean pop](../../genres/korean_pop/overview.md) |
+| 5 | 5 | [viral pop](../../genres/viral_pop/overview.md) |
 | 5 | 5 | [k-rap](../../genres/k_rap/overview.md) |
 | 5 | 5 | [anime](../../genres/anime/overview.md) |
 | 4 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 4 | 4 | korean ost |
 
 
 <details>
@@ -371,6 +371,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 4 | 4 | korean ost |
 | 4 | 4 | [art pop](../../genres/art_pop/overview.md) |
 | 3 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 3 | pop soul |
@@ -381,7 +382,6 @@
 | 3 | 3 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
-| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | japanese teen pop |

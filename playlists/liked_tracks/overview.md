@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1706 tracks
+1707 tracks
 
 [See Track Features](audio_features.md)
 
@@ -99,6 +99,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 5 | 5 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 5 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 5 | 5 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 5 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57b17565f297ad1097b0d2d2" alt="" width="50" /> | 5 | 5 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="" width="50" /> | 5 | 5 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
@@ -116,7 +117,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 4 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 4 | 4 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 4 | 4 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 4 | 4 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 
 </details>
 
@@ -370,9 +370,9 @@
 | 127 | 127 | [rock](../../genres/rock/overview.md) |
 | 86 | 86 | [dance pop](../../genres/dance_pop/overview.md) |
 | 82 | 82 | [classic rock](../../genres/classic_rock/overview.md) |
+| 64 | 64 | [viral pop](../../genres/viral_pop/overview.md) |
 | 56 | 56 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 54 | 54 | [lilith](../../genres/lilith/overview.md) |
-| 53 | 53 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 
 
 <details>
@@ -380,6 +380,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 53 | 53 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 45 | 45 | [pop rock](../../genres/pop_rock/overview.md) |
 | 43 | 43 | [modern rock](../../genres/modern_rock/overview.md) |
 | 42 | 42 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
@@ -396,7 +397,6 @@
 | 27 | 27 | [r&b](../../genres/r_b/overview.md) |
 | 27 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 26 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
-| 25 | 25 | [viral pop](../../genres/viral_pop/overview.md) |
 | 25 | 25 | [piano rock](../../genres/piano_rock/overview.md) |
 | 25 | 25 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 25 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
@@ -600,7 +600,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 192 |
+| [2023](2023.md) | 193 |
 | [2022](2022.md) | 249 |
 | [2021](2021.md) | 188 |
 | [2020](2020.md) | 137 |
@@ -665,13 +665,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="NOBODY" width="50" /> | NOBODY (2023-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | Chill Kill - The 3rd Album (2023-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | Drama - The 4th Mini Album (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="CASTAWAY DIVA OST Part.8" width="50" /> | CASTAWAY DIVA OST Part.8 (2023-11-19) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="NOBODY" width="50" /> | NOBODY (2023-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | Chill Kill - The 3rd Album (2023-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | ROCK-STAR (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | Born to be XX (2023-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY (2023-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273679d960f68492932541a032e" alt="MELTING POINT" width="50" /> | MELTING POINT (2023-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="GOLDEN" width="50" /> | GOLDEN (2023-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="Guilty - The 4th Mini Album" width="50" /> | Guilty - The 4th Mini Album (2023-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | Drama - The 4th Mini Album (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | Born to be XX (2023-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY (2023-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | The Temptations Sing Smokey (1965-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273679d960f68492932541a032e" alt="MELTING POINT" width="50" /> | MELTING POINT (2023-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="GOLDEN" width="50" /> | GOLDEN (2023-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |

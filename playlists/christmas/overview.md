@@ -126,11 +126,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 3 | 1 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730315efc555d5a157b0392652" alt="" width="50" /> | 2 | 0 | Under The Mistletoe (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | 2 | 0 | Under The Mistletoe (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379370914709b74a323560401" alt="" width="50" /> | 2 | 0 | Dear Santa - X-Mas Special | 2015-12-04 | [🔗](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | 2 | 0 | Christmas Kisses | 2013-01-01 | [🔗](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="" width="50" /> | 2 | 0 | A Winter Romance | 1959-01-01 | [🔗](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | 2 | 0 | A Winter Romance | 1959-01-01 | [🔗](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) |
 
 
 <details>
@@ -148,7 +148,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e2194d332ceeb0ab6018b21" alt="" width="50" /> | 1 | 0 | 세가지 소원 Wish Tree - WINTER GARDEN | 2015-12-18 | [🔗](https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | 1 | 0 | メリクリ | 2004-12-01 | [🔗](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="" width="50" /> | 1 | 0 | the collective soul and unconscious: snowy night | 2021-12-14 | [🔗](https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | 1 | 0 | When It Snows mmm (feat. Wheein) | 2020-12-23 | [🔗](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | 1 | 0 | This Christmas - Single | 2010-12-01 | [🔗](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | 1 | 0 | The Winter's Tale | 2014-12-22 | [🔗](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) |
@@ -156,14 +156,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | 0 | The Essential Eartha Kitt | 2011-03-15 | [🔗](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | 1 | 0 | The Classic Years: 1956-1962 | 1992-01-01 | [🔗](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | 1 | 0 | The Classic Christmas Album | 1945 | [🔗](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="" width="50" /> | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e24237521fd72dfa162ccefe" alt="" width="50" /> | 1 | 0 | THE BOYZ Special Single [Candles] | 2021-12-06 | [🔗](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba995f17c6c4d0ab6d945d70" alt="" width="50" /> | 1 | 0 | THE BOYZ Special Single 'Christmassy!' | 2020-12-07 | [🔗](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732935077d74bdd9c65a3956b5" alt="" width="50" /> | 1 | 0 | Spotify Singles - Holiday | 2021-11-17 | [🔗](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | 1 | 0 | Spotify Singles - Holiday | 2022-11-16 | [🔗](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="" width="50" /> | 1 | 0 | Solo Christmas | 2021-12-11 | [🔗](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee26188540f975c1373b22b" alt="" width="50" /> | 1 | 0 | Silent Night | 2020-12-04 | [🔗](https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397337e6b853756f20af2c29f" alt="" width="50" /> | 1 | 0 | Santa Bring Me a Dinosaur | 2022-06-04 | [🔗](https://open.spotify.com/album/1S8Ej8L03FyDL9C935ANtN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | 1 | 0 | Rudolph The Red Nosed Reindeer And Other Christmas Classics | 1947 | [🔗](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | 1 | 0 | REAL | 2010-12-09 | [🔗](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) |
@@ -182,7 +182,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="" width="50" /> | 1 | 0 | I Want a Hippopotamus for Christmas (Hippo the Hero) | 1953-11-11 | [🔗](https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a68c06155b7c3cf82b00cb96" alt="" width="50" /> | 1 | 0 | Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition] | 1990 | [🔗](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4c55f63e80919f1cd6bab11" alt="" width="50" /> | 1 | 0 | Holiday For Swing! | 2014-09-30 | [🔗](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Have Yourself A Merry Little Christmas - SM STATION | 2016-12-23 | [🔗](https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | 1 | 0 | Have Yourself A Merry Little Christmas | 2014-12-05 | [🔗](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) |
@@ -330,7 +330,7 @@
 | 1 | 0 | stomp and holler |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
-| 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
+| 1 | 0 | show tunes |
 | 1 | 0 | seattle indie |
 | 1 | 0 | retro soul |
 | 1 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
@@ -384,13 +384,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE (2022-12-26) | <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | Holiday Inn (Original Motion Picture Soundtrack) (1942-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | 2022 Winter SMTOWN : SMCU PALACE (2022-12-26) | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | Holiday Inn (Original Motion Picture Soundtrack) (1942-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy - Winter Special Mini Album (2022-12-16) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | The Classic Christmas Album (1945) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) | <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="White Christmas" width="50" /> | White Christmas (1945-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | CHESHIRE (2022-11-30) | <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="White Christmas" width="50" /> | White Christmas (1945-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | 1st Intermixxion Single <Funky Glitter Christmas> (2022-11-23) | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="Rudolph The Red Nosed Reindeer And Other Christmas Classics" width="50" /> | Rudolph The Red Nosed Reindeer And Other Christmas Classics (1947) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | Spotify Singles - Holiday (2022-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b27315757bbb97b673b118e23871" alt="I Want a Hippopotamus for Christmas (Hippo the Hero)" width="50" /> | I Want a Hippopotamus for Christmas (Hippo the Hero) (1953-11-11) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397337e6b853756f20af2c29f" alt="Santa Bring Me a Dinosaur" width="50" /> | Santa Bring Me a Dinosaur (2022-06-04) | <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Elvis' Christmas Album (1957-10-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Pieces (2021-12-29) | <img src="https://i.scdn.co/image/ab67616d0000b273e359bd02a639a4d01b8241ae" alt="A Winter Romance" width="50" /> | A Winter Romance (1959-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Pieces (2021-12-29) | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="A Winter Romance" width="50" /> | A Winter Romance (1959-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="2021 Winter SMTOWN : SMCU EXPRESS" width="50" /> | 2021 Winter SMTOWN : SMCU EXPRESS (2021-12-27) | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Ella Wishes You A Swinging Christmas (Expanded Edition) (1960-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="the collective soul and unconscious: snowy night" width="50" /> | the collective soul and unconscious: snowy night (2021-12-14) | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="Dominick the Donkey" width="50" /> | Dominick the Donkey (1960-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="Solo Christmas" width="50" /> | Solo Christmas (2021-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b273cb474d056615c2c9b49bb4e6" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Expanded Edition) (1962) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360f4133a099fc70a1ba1446c" alt="Solo Christmas" width="50" /> | Solo Christmas (2021-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Expanded Edition) (1962) |

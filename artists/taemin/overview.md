@@ -13,13 +13,13 @@ TAEMIN:
 ## Artist Rank
 TAEMIN is currently:
 - The #25 artist of the last 6 months
-- The #10 artist of the last month
+- The #7 artist of the last month
 
 ![Rank of TAEMIN over time](../../images/artists/taemin/rank_time_series.png)
 ## Top Tracks
 
 - The Rizzness is:
-    - the #34 track of the last month
+    - the #20 track of the last month
 
 ### Top tracks of the last month over time
 

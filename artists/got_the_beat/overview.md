@@ -14,7 +14,7 @@ GOT the beat:
 - has member [SEULGI](../seulgi/overview.md)
 - has member [TAEYEON](../taeyeon/overview.md)
 - has member [WENDY](../wendy/overview.md)
-- has member WINTER
+- has member [WINTER](../winter/overview.md)
 
 ## Artist Rank
 GOT the beat is currently:
@@ -25,7 +25,7 @@ GOT the beat is currently:
 ## Top Tracks
 
 - Stamp On It is:
-    - the #9 track of the last 6 months
+    - the #8 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -64,12 +64,12 @@ GOT the beat is currently:
 
 ### Member Credits
 
-| | WINTER | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
+| | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) | [WINTER](../winter/overview.md) |
 |:---|---:|---:|---:|---:|---:|
-| Arranger | 0 | 1 | 0 | 0 | 0 |
-| Lyricist | 0 | 3 | 0 | 1 | 0 |
-| Songwriter | 0 | 2 | 0 | 0 | 0 |
-| Vocal | 1 | 0 | 15 | 5 | 15 |
+| Arranger | 1 | 0 | 0 | 0 | 0 |
+| Lyricist | 3 | 0 | 1 | 0 | 0 |
+| Songwriter | 2 | 0 | 0 | 0 | 0 |
+| Vocal | 0 | 15 | 5 | 15 | 1 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

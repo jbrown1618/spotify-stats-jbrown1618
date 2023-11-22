@@ -1,6 +1,6 @@
 # k-rap
 
-[36 songs](tracks.md)
+[37 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 8 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 9 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 6 | 3 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 3 | 2 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
@@ -69,7 +69,7 @@
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -88,17 +88,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | 1 | 0 | PSY 7TH ALBUM | 2015-12-01 | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="" width="50" /> | 1 | 0 | Natural | 2021-12-02 | [🔗](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="" width="50" /> | 1 | 0 | LUCKYNUMBERS | 2013-07-01 | [🔗](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353bfecd78b83e97c4f0794e4" alt="" width="50" /> | 1 | 0 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) |
 
 </details>
 
 
-![Bar chart of top 25 albums](../../images/genres/k_rap/albums.png)
+![Bar chart of top 26 albums](../../images/genres/k_rap/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 15 | 11 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 16 | 11 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 6 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 6 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 3 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |

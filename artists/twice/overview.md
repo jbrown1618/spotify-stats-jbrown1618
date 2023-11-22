@@ -26,7 +26,7 @@ TWICE:
 TWICE is currently:
 - The #2 artist of all time
 - The #6 artist of the last 6 months
-- The #17 artist of the last month
+- The #12 artist of the last month
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
@@ -37,7 +37,7 @@ TWICE is currently:
     - the #49 track of the last 6 months
     - the #48 track of all time
 - What is Love is:
-    - the #24 track of the last 6 months
+    - the #41 track of the last 6 months
 
 ### Top tracks of all time over time
 

@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.801) | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="Christmas Kisses" width="50" /> | Last Christmas (0.504) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | BEAM BEAM (0.799) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | D (Half Moon) (0.512) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god - English Version (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> | NUMB (0.518) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="Santa Tell Me" width="50" /> | Santa Tell Me (0.525) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Oh my god (0.794) | <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="Santa Tell Me" width="50" /> | Santa Tell Me (0.525) |
 
 ## Energy
 
@@ -75,7 +75,7 @@
 | ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant (0.124) | <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="Santa Tell Me" width="50" /> | Santa Tell Me (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant (0.124) | <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="Santa Tell Me" width="50" /> | Santa Tell Me (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri (0.0502) | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | Humph! (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | チョコレイト・ディスコ (0.0079) | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | Daisy (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Luv U (0.000423) | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Greedy (0.0) |
@@ -126,7 +126,7 @@
 | ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="Christmas Kisses" width="50" /> | Last Christmas (205.945) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | My Everything (61.975) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="Santa Tell Me" width="50" /> | Santa Tell Me (191.9) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Quit (75.04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="Santa Tell Me" width="50" /> | Santa Tell Me (191.9) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Quit (75.04) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HANN (Alone in winter) (179.855) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (81.196) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | D (Half Moon) (169.709) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Psycho (82.954) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="love you more," width="50" /> | NUMB (165.936) | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | Daisy (85.016) |

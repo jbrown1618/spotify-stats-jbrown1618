@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 11 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 9 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68021119cbab353e2278d4a3" alt="" width="50" /> | 9 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb029de5fb07779753ebcf675d" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 
 
 <details>

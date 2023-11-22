@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38fb34aecda1243390324d36" alt="" width="50" /> | 4 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 4 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 4 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb029de5fb07779753ebcf675d" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |

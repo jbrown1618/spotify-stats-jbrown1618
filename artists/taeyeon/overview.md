@@ -19,7 +19,7 @@ TAEYEON:
 TAEYEON is currently:
 - The #9 artist of all time
 - The #9 artist of the last 6 months
-- The #18 artist of the last month
+- The #13 artist of the last month
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
@@ -27,7 +27,7 @@ TAEYEON is currently:
 - Can't Control Myself is:
     - the #17 track of the last 6 months
 - Toddler is:
-    - the #25 track of the last 6 months
+    - the #24 track of the last 6 months
 - I Got Love is:
     - the #47 track of the last 6 months
 
@@ -158,7 +158,7 @@ TAEYEON is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](overview.md), WINTER | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](overview.md), [WINTER](../winter/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | If | Hong Gil Dong OST | [TAEYEON](overview.md) | msmedia | 💚 | [🔗](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I | I - The 1st Mini Album | [TAEYEON](overview.md), Verbal Jint | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | Stress | I - The 1st Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T) |

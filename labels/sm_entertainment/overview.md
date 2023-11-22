@@ -1,13 +1,13 @@
 # SM Entertainment
 
-297 songs
+296 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (293 tracks)
+- SM Entertainment (292 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 - SM Entertainment/RCA Records (1 tracks)
@@ -24,7 +24,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada7146c1f97b1fc6992609a" alt="" width="50" /> | 11 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 10 | 8 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13881a5713d92eeda09e3956" alt="" width="50" /> | 15 | 7 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 12 | 7 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 11 | 7 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be3a5a3bfe963935ed4b2c2" alt="" width="50" /> | 11 | 7 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 
 
@@ -46,7 +46,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61609651871b1ba4e61ecf7b" alt="" width="50" /> | 4 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbc3c5795a57caf0c9c4ab67" alt="" width="50" /> | 3 | 2 | U-KNOW | [🔗](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 2 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 2 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13eac1b51784e97af0b3f7ae" alt="" width="50" /> | 2 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebac19ac3b8773baa5791999fb" alt="" width="50" /> | 2 | 2 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 2 | 2 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
@@ -74,7 +74,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a26467248badc54d2253c5e" alt="" width="50" /> | 1 | 1 | NCT DOJAEJUNG | [🔗](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb85caa5f0e213fbfc29b91db" alt="" width="50" /> | 1 | 1 | HYOYEON | [🔗](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cda398c2c48b50c81061380" alt="" width="50" /> | 2 | 0 | JENO | [🔗](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad6290a04bbcac7d60190cd5" alt="" width="50" /> | 2 | 0 | GISELLE | [🔗](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb64bb8ea354ef4a71627c3b44" alt="" width="50" /> | 2 | 0 | GISELLE | [🔗](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7775a50db9341433ab1cf382" alt="" width="50" /> | 1 | 0 | CHENLE | [🔗](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd89424b602251312223edd8f" alt="" width="50" /> | 1 | 0 | MeloMance | [🔗](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 0 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
@@ -88,7 +88,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2d064a11bcb333c04e47e8" alt="" width="50" /> | 1 | 0 | EUNHYUK | [🔗](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4cc18fa070ab6d5b1b8008" alt="" width="50" /> | 1 | 0 | SUNGCHAN | [🔗](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4a38ad4e84ac515a701f7a2" alt="" width="50" /> | 1 | 0 | JAEMIN | [🔗](https://open.spotify.com/artist/346WlBab7ogTYOd1YhgcA7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45a6f269ea85103c8090dbeb" alt="" width="50" /> | 1 | 0 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbc580c7ebc8a36b32909f562" alt="" width="50" /> | 1 | 0 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b42be7923bc2d407a2bf03d" alt="" width="50" /> | 1 | 0 | Eric Nam | [🔗](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c58d08bf71902410dac32d765" alt="" width="50" /> | 1 | 0 | Verbal Jint | [🔗](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5661c2277f5b965781709b7" alt="" width="50" /> | 1 | 0 | JISUNG | [🔗](https://open.spotify.com/artist/1rKOAlZ7iAHynESWTeSNwl) |
@@ -221,7 +221,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 272 | 186 | [k-pop](../../genres/k_pop/overview.md) |
+| 271 | 186 | [k-pop](../../genres/k_pop/overview.md) |
 | 104 | 77 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 69 | 45 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -366,7 +366,6 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1a5e45af22883227f370e8d" alt="" width="50" /> | Hurricane Venus | Hurricane Venus - The 6th Album | [BoA](../../artists/boa/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2lmk1MaysnnDt4ct8M60Vr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | Kiss My Lips | Kiss My Lips - The 8th Album | [BoA](../../artists/boa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0T3uL8inslJIxiQyLlMenl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | ONE SHOT, TWO SHOT | ONE SHOT, TWO SHOT - The 1st Mini Album | [BoA](../../artists/boa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1OWxlgwPtWuEvGkH8uS1Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d076165a515afd63688b968" alt="" width="50" /> | Woman | WOMAN - The 9th Album | [BoA](../../artists/boa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14rpBBTV0qi60Ex4jonuNi) |
@@ -376,7 +375,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | ZIP | Forgive Me - The 3rd Mini Album | [BoA](../../artists/boa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0IaT9XnG72sPXvUAsYdEzC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../../artists/boa/overview.md), [WENDY](../../artists/wendy/overview.md), NINGNING | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305203cde35ba2fef6ca7b970" alt="" width="50" /> | Rose | 공감 (Empathy) - The 1st Mini Album | D.O. | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, WINTER, GISELLE | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, [WINTER](../../artists/winter/overview.md), GISELLE | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | Growl | The 1st Album 'XOXO' (Repackage) | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) |
 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="" width="50" /> | 첫 눈 | 12월의 기적 Miracles in December | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/346FC1ldeWhpnXUTkY2k6I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9" alt="" width="50" /> | The First Snow | Miracles in December | [EXO](../../artists/exo/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) |
@@ -437,7 +436,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="" width="50" /> | Golden Hour | Golden Hour - SM STATION : NCT LAB | MARK | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil | Devil - The 2nd Mini Album | MAX CHANGMIN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Fever | Devil - The 2nd Mini Album | MAX CHANGMIN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5MI2yZmuoT2OZpb8HUws7z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](../../artists/taeyeon/overview.md), WINTER | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](../../artists/taeyeon/overview.md), [WINTER](../../artists/winter/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | BOSS | NCT 2018 EMPATHY | NCT, [NCT U](../../artists/nct_u/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | Baby Don’t Stop | NCT 2018 EMPATHY | NCT, [NCT U](../../artists/nct_u/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | NCT 2018 EMPATHY | NCT, [NCT U](../../artists/nct_u/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U) |
@@ -636,7 +635,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Why Can't You Love Me? | Like Water - The 1st Mini Album | [WENDY](../../artists/wendy/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | Miracle | Miracle - SM STATION | [WENDY](../../artists/wendy/overview.md), MeloMance | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | Snow Dream 2021 | 2021 Winter SMTOWN : SMCU EXPRESS | YERI, HAECHAN, CHENLE, JISUNG, NINGNING | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/3iLd9Ya8HRakW9Zk6c7mFG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, WINTER | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, [WINTER](../../artists/winter/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9914fad928a7cbf93b5175" alt="" width="50" /> | Into You | The First Scene - The 1st Mini Album | YURI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6L8wVNs6kuQ7sRjHowbrLp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba | Black Mamba | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level | Next Level | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) |

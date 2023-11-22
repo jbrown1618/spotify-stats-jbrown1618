@@ -20,7 +20,7 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #5 artist of all time
 - The #10 artist of the last 6 months
-- The #22 artist of the last month
+- The #18 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -38,9 +38,9 @@ BLACKPINK is currently:
 - WHISTLE is:
     - the #49 track of all time
 - Pink Venom is:
-    - the #29 track of the last 6 months
+    - the #27 track of the last 6 months
 - Shut Down is:
-    - the #44 track of the last month
+    - the #28 track of the last month
 
 ### Top tracks of all time over time
 

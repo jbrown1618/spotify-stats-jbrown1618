@@ -37,10 +37,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | 1 | 1 | Red Moon In Venus | 2023-03-03 | [🔗](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | 1 | 0 | The Classic Years: 1956-1962 | 1992-01-01 | [🔗](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
 
 
@@ -113,8 +113,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273481bb0db1e8bd0c7104368a4" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra | [Geffen](.) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273579ca154b7fe09daaf6e2b91" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra | [Geffen](.) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | Jingle Bell Rock | The Classic Years: 1956-1962 | Bobby Helms | [Geffen](.) | | [🔗](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | [Geffen](.) | | [🔗](https://open.spotify.com/track/65Q2mv3UlVi9eO70OpsmSe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](.) | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |

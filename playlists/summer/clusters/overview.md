@@ -40,7 +40,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | Where Is The Love? | Elephunk | Black Eyed Peas | A&M | 💚 | [🔗](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="" width="50" /> | Where Is The Love? | Elephunk | Black Eyed Peas | A&M | 💚 | [🔗](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](../../../../artists/daft_punk/overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="" width="50" /> | Sunshower | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' | EPEX | C9 Entertainment | 💚 | [🔗](https://open.spotify.com/track/3fcDHjyxOQoGV4UuMdagu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |

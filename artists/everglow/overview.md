@@ -22,6 +22,8 @@ EVERGLOW is currently:
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Top Tracks
 
+- FIRST is:
+    - the #37 track of the last month
 
 ### Top tracks of the last month over time
 

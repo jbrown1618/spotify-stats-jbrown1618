@@ -50,7 +50,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | 2 | 1 | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730315efc555d5a157b0392652" alt="" width="50" /> | 2 | 0 | Under The Mistletoe (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | 2 | 0 | Under The Mistletoe (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80" alt="" width="50" /> | 1 | 1 | Under My Skin | 2004 | [🔗](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 1 | 1 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | 1 | 1 | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
@@ -200,6 +200,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="Shawn Mendes" width="50" /> | Shawn Mendes (2018-05-25) | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (2007-04-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="Illuminate (Deluxe)" width="50" /> | Illuminate (Deluxe) (2017-04-20) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | Starboy (2016-11-25) | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Crazy Love (2009-10-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b2730315efc555d5a157b0392652" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | Under The Mistletoe (Deluxe Edition) (2011-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | Under The Mistletoe (Deluxe Edition) (2011-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/canadian_pop/years.png)

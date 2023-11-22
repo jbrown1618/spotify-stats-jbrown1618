@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730744690248ef3ba7b776ea7bab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b273b1e7b20382e9caa516b5a814" alt="Recent Comebacks" width="100" />
 
-[99 tracks (75 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
+[100 tracks (75 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 
@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909" alt="" width="50" /> | 4 | 4 | MISAMO | [🔗](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="" width="50" /> | 5 | 3 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="" width="50" /> | 5 | 3 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 4 | 3 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 5 | 3 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 3 | 3 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 4 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 3 | 2 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
@@ -50,10 +50,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a361eb2adfa465d953415b1" alt="" width="50" /> | 1 | 1 | EVNNE | [🔗](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3efc9370be86846bbac90487" alt="" width="50" /> | 1 | 1 | KISS OF LIFE | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 1 | 1 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 1 | 1 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 1 | 1 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9" alt="" width="50" /> | 1 | 1 | Latto | [🔗](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45a6f269ea85103c8090dbeb" alt="" width="50" /> | 1 | 1 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbc580c7ebc8a36b32909f562" alt="" width="50" /> | 1 | 1 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb258c6319f7a39c6e0a0f39de" alt="" width="50" /> | 1 | 1 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb" alt="" width="50" /> | 1 | 1 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | 1 | 1 | LIZ (IVE) | [🔗](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) |
@@ -88,9 +88,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 5 | 5 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | 5 | 4 | KILL MY DOUBT | 2023-07-31 | [🔗](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="" width="50" /> | 5 | 3 | ZONE | 2023-08-18 | [🔗](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 5 | 3 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | 5 | 3 | NewJeans 2nd EP 'Get Up' | 2023-07-21 | [🔗](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | 4 | 4 | Masterpiece | 2023-07-26 | [🔗](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 4 | 3 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | 4 | 2 | ROCK-STAR | 2023-11-10 | [🔗](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | 3 | 2 | TEENFRESH | 2023-08-16 | [🔗](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 3 | 2 | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | 2023-10-23 | [🔗](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) |
@@ -160,8 +160,8 @@
 | 6 | 6 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 7 | 5 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 5 | 3 | Republic Records – JIHYO (TWICE) |
+| 5 | 3 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 5 | 3 | [ADOR](../../labels/ador/overview.md) |
-| 4 | 3 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 
 
 <details>
@@ -202,8 +202,8 @@
 |---:|---:|:---|
 | 58 | 40 | [k-pop](../../genres/k_pop/overview.md) |
 | 43 | 35 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 19 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 4 | 3 | [anime](../../genres/anime/overview.md) |
+| 20 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 5 | 3 | [anime](../../genres/anime/overview.md) |
 | 5 | 2 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 2 | 1 | korean talent show |
@@ -318,7 +318,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2023](2023.md) | 99 |
+| [2023](2023.md) | 100 |
 
 </details>
 

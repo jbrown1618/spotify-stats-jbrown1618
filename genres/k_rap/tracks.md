@@ -4,6 +4,7 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | Agust D, MAX | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | Agust D | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353bfecd78b83e97c4f0794e4" alt="" width="50" /> | Daechwita | D-2 | Agust D | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | Agust D | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | Agust D, RM | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |

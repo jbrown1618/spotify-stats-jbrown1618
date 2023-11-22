@@ -13,8 +13,8 @@
 ![Rank of Rihanna over time](../../images/artists/rihanna/rank_time_series.png)
 ## Top Tracks
 
-- The Monster is:
-    - the #24 track of the last month
+- Stay is:
+    - the #48 track of the last month
 
 ### Top tracks of the last month over time
 

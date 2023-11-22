@@ -112,7 +112,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | 1 | 1 | Help! (Remastered) | 1965-08-06 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | 1 | 1 | Graduation | 2007-09-11 | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | 1 | 1 | Evolver | 2008-10-27 | [🔗](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | 1 | 1 | Elephunk | 2003-06-24 | [🔗](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="" width="50" /> | 1 | 1 | Elephunk | 2003-06-24 | [🔗](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | 1 | 1 | Desperado (2013 Remaster) | 1973-04-17 | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | 1 | Days Of Wine And Roses, Moon River And Other Academy Award Winners | 1964 | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | 1 | 1 | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 83 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -255,7 +255,6 @@
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | motown |
 | 2 | 2 | [electropop](../../genres/electropop/overview.md) |
-| 2 | 2 | country road |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
@@ -274,6 +273,7 @@
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 1 | 1 | yacht rock |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk americana |
 | 1 | 1 | uk alternative pop |
 | 1 | 1 | southern soul |
@@ -290,6 +290,7 @@
 | 1 | 1 | instrumental bluegrass |
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
+| 1 | 1 | country road |
 | 1 | 1 | classic soul |
 | 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |

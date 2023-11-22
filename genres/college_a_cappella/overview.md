@@ -27,7 +27,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb029de5fb07779753ebcf675d" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 2 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 2 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |

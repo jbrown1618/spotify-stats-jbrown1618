@@ -1,6 +1,6 @@
 # Republic Records
 
-169 songs
+170 songs
 
 [See Track Features](audio_features.md)
 
@@ -13,8 +13,8 @@ Appears as:
 - Republic Records (13 tracks)
 - Republic Records - TXT (10 tracks)
 - Republic Records - NMIXX (8 tracks)
+- Republic Records - J.Y. Park (3 tracks)
 - Lava Music/Republic Records (2 tracks)
-- Republic Records - J.Y. Park (2 tracks)
 - Republic Records - JYP Entertainment (1 tracks)
 - Republic Records - Xdinary Heroes (1 tracks)
 - Republic/UMLE (1 tracks)
@@ -31,8 +31,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 8 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31" alt="" width="50" /> | 10 | 5 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 3 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 2 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 
@@ -83,7 +83,7 @@ Appears as:
 
 
 <details>
-<summary>See all 71 albums</summary>
+<summary>See all 72 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -147,6 +147,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | 1 | 0 | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | 1 | 0 | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a7552c196eaad6fe2964ca8" alt="" width="50" /> | 1 | 0 | Changed Man | 2023-11-20 | [🔗](https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 
 </details>
@@ -162,8 +163,8 @@ Appears as:
 | 108 | 64 | [pop](../../genres/pop/overview.md) |
 | 87 | 60 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 61 | 28 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 3 | 2 | classic k-pop |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
-| 2 | 2 | classic k-pop |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | puerto rican pop |
 | 1 | 1 | metropopolis |
@@ -368,6 +369,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | FEVER | FEVER | J.Y. Park, SUPERBEE, [BIBI](../../artists/bibi/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a21da4c2f704f3cb9527781" alt="" width="50" /> | Groove Back | Groove Missing | J.Y. Park, Gaeko | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/7dELSsVFXTj3aIe0OIKGw8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a7552c196eaad6fe2964ca8" alt="" width="50" /> | Changed Man | Changed Man | J.Y. Park | [Republic Records](.) | | [🔗](https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag | Who You Are (Platinum Edition) | Jessie J, B.o.B | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are | Who You Are (Platinum Edition) | Jessie J | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Despacito Feat. Justin Bieber (Remix) | Luis Fonsi, Daddy Yankee, [Justin Bieber](../../artists/justin_bieber/overview.md) | [Republic/UMLE](.) | 💚 | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |

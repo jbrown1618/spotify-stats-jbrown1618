@@ -311,7 +311,6 @@
 | 6 | 1 | funk metal |
 | 5 | 1 | punk |
 | 3 | 1 | scottish singer-songwriter |
-| 3 | 1 | nu metal |
 | 3 | 1 | neon pop punk |
 | 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | emo |
@@ -320,6 +319,7 @@
 | 1 | 1 | talent show |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 1 | 1 | nu metal |
 | 1 | 1 | modern power pop |
 | 1 | 1 | math rock |
 | 1 | 1 | math pop |

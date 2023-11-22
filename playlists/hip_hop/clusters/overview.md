@@ -25,7 +25,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | It's A Vibe | Pretty Girls Like Trap Music | 2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko | 2Chainz PS/Def Jam | | [🔗](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329a42ba069a854c9078377b4" alt="" width="50" /> | Where Is The Love? | Elephunk | Black Eyed Peas | A&M | 💚 | [🔗](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="" width="50" /> | Where Is The Love? | Elephunk | Black Eyed Peas | A&M | 💚 | [🔗](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | Eminem | Aftermath | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357195dfe8926f713b21d6cac" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | Eminem, [Rihanna](../../../../artists/rihanna/overview.md) | Aftermath | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341f88fe3e004e7be469c2ae3" alt="" width="50" /> | American Boy | Shine | Estelle, Kanye West | Woah Dad! | | [🔗](https://open.spotify.com/track/3IX1c76hbN4iTm9RcItC36) |

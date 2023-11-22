@@ -14,7 +14,7 @@ aespa:
 - has member GISELLE
 - has member KARINA
 - has member 宁艺卓 (Ning, Yizhuo)
-- has member WINTER
+- has member [WINTER](../winter/overview.md)
 
 ## Artist Rank
 aespa is currently:
@@ -26,37 +26,36 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #4 track of the last 6 months
+    - the #3 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #22 track of the last 6 months
+    - the #21 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #21 track of all time
 - Illusion is:
-    - the #36 track of the last month
     - the #6 track of the last 6 months
     - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
 - Spicy is:
-    - the #3 track of the last 6 months
+    - the #4 track of the last 6 months
 - Thirsty is:
-    - the #19 track of the last 6 months
+    - the #20 track of the last 6 months
 - Hold On Tight is:
     - the #23 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #40 track of the last 6 months
+    - the #37 track of the last 6 months
 - Trick or Trick is:
     - the #1 track of the last month
 - YOLO is:
-    - the #4 track of the last month
+    - the #3 track of the last month
 - Drama is:
-    - the #6 track of the last month
+    - the #4 track of the last month
 - Don't Blink is:
-    - the #7 track of the last month
+    - the #5 track of the last month
 - Hot Air Balloon is:
-    - the #40 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of all time over time
 
@@ -136,7 +135,7 @@ aespa is currently:
 
 ### Member Credits
 
-| | WINTER |
+| | [WINTER](../winter/overview.md) |
 |:---|---:|
 | Vocal | 1 |
 ## Top Producers

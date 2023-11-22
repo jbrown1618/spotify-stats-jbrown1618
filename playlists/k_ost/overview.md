@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="K-OST" width="100" />
 
-[28 tracks (22 liked) 🔗](https://open.spotify.com/playlist/6rOVckcfZ6oCN6seCH4GWr)
+[29 tracks (23 liked) 🔗](https://open.spotify.com/playlist/6rOVckcfZ6oCN6seCH4GWr)
 
 [See Track Features](audio_features.md)
 
@@ -15,6 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 3 | 2 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | 2 | 2 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 2 | 2 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78482dab89485dfaf7ff46a1" alt="" width="50" /> | 2 | 2 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be3a5a3bfe963935ed4b2c2" alt="" width="50" /> | 2 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="" width="50" /> | 1 | 1 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
@@ -22,7 +23,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e63d03f37efe1acd2feddae" alt="" width="50" /> | 1 | 1 | CHANYEOL | [🔗](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| | 1 | 1 | Nam Joohyuk | [🔗](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv) |
 
 
 <details>
@@ -30,6 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| | 1 | 1 | Nam Joohyuk | [🔗](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca4f165e62fbf5ab5a3750ba" alt="" width="50" /> | 1 | 1 | JIN | [🔗](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c242c1653d4ac9a0aeeec75" alt="" width="50" /> | 1 | 1 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29d6428b4b21a6c952b2aea9" alt="" width="50" /> | 1 | 1 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
@@ -37,9 +38,8 @@
 | | 1 | 1 | Bona(WJSN) | [🔗](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 1 | 1 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | | 1 | 1 | Lee Joomyung | [🔗](https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 1 | 1 | WINTER | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058178d5d95c2d3a33d3103d" alt="" width="50" /> | 1 | 1 | V | [🔗](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45a6f269ea85103c8090dbeb" alt="" width="50" /> | 1 | 1 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbc580c7ebc8a36b32909f562" alt="" width="50" /> | 1 | 1 | KARINA | [🔗](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 1 | 1 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb970f0b3d28b0b43bed19ee87" alt="" width="50" /> | 1 | 1 | Vincent Blue | [🔗](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) |
 | | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
@@ -76,7 +76,7 @@
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -87,6 +87,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | 1 | 1 | Hong Gil Dong OST | 2008-01-23 | [🔗](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="" width="50" /> | 1 | 1 | Guardian (Original Television Soundtrack), Pt. 1 | 2016-12-03 | [🔗](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | 1 | 1 | Doom at Your Service (Original Television Soundtrack) Pt. 3 | 2021-05-31 | [🔗](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="" width="50" /> | 1 | 1 | CASTAWAY DIVA OST Part.8 | 2023-11-19 | [🔗](https://open.spotify.com/album/5nV389t1fA2IIlIxflp4EK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="" width="50" /> | 1 | 0 | The King: Eternal Monarch (Original Television Soundtrack), Pt. 10 | 2020-05-16 | [🔗](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="" width="50" /> | 1 | 0 | Love, Maybe (A Business Proposal OST Bonus Track) | 2022-04-05 | [🔗](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.8 | 2019-08-10 | [🔗](https://open.spotify.com/album/2orJu019JvK7H621GwcIhr) |
@@ -97,7 +98,7 @@
 </details>
 
 
-![Bar chart of top 23 albums](../../images/playlists/k_ost/albums.png)
+![Bar chart of top 24 albums](../../images/playlists/k_ost/albums.png)
 
 ## Top Record Labels
 
@@ -116,13 +117,14 @@
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 17 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 1 | 1 | 모스트콘텐츠 |
 | 1 | 1 | msmedia |
 | 1 | 1 | [WM Japan](../../labels/wm_japan/overview.md) |
+| 1 | 1 | Music Buddy |
 | 1 | 1 | JTBC Studios |
 | 1 | 1 | Donuts Music N |
 | 1 | 1 | (주)블렌딩 |
@@ -130,7 +132,7 @@
 </details>
 
 
-![Bar chart of top 16 record labels](../../images/playlists/k_ost/labels.png)
+![Bar chart of top 17 record labels](../../images/playlists/k_ost/labels.png)
 
 ## Genres
 
@@ -154,13 +156,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Doona! (Music from The Netflix Series) (2023-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | Hong Gil Dong OST (2008-01-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="ZOOM ZOOM" width="50" /> | ZOOM ZOOM (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 (2016-08-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Music from The Netflix Series)" width="50" /> | Song of the Bandits (Music from The Netflix Series) (2023-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2) (2016-11-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | Our Blues, Pt. 10 (Original Television Soundtrack) (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Guardian (Original Television Soundtrack), Pt. 1 (2016-12-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (A Business Proposal OST Bonus Track) (2022-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) (2017-03-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Twenty-Five Twenty-One OST (2022-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | The Beauty Inside Pt. 6 (Original Television Soundtrack) (2018-11-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (A Business Proposal OST Special Track) (2022-02-18) | <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.3 (2019-07-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Jirisan (Original Television Soundtrack) Pt. 4 (2021-11-07) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.5 (2019-07-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | Doom at Your Service (Original Television Soundtrack) Pt. 3 (2021-05-31) | <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="Hotel del Luna (Original Television Soundtrack) Pt.8" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.8 (2019-08-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="VINCENZO (Original Television Soundtrack) Pt. 3" width="50" /> | VINCENZO (Original Television Soundtrack) Pt. 3 (2021-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.12 (2019-08-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="CASTAWAY DIVA OST Part.8" width="50" /> | CASTAWAY DIVA OST Part.8 (2023-11-19) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | Hong Gil Dong OST (2008-01-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Doona! (Music from The Netflix Series) (2023-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 (2016-08-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="ZOOM ZOOM" width="50" /> | ZOOM ZOOM (2023-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2) (2016-11-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Music from The Netflix Series)" width="50" /> | Song of the Bandits (Music from The Netflix Series) (2023-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa" alt="Guardian (Original Television Soundtrack), Pt. 1" width="50" /> | Guardian (Original Television Soundtrack), Pt. 1 (2016-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | Our Blues, Pt. 10 (Original Television Soundtrack) (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f4b5e537eed0103393fbf4" alt="Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)" width="50" /> | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) (2017-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a57394f8635e3f4fb4c4159" alt="Love, Maybe (A Business Proposal OST Bonus Track)" width="50" /> | Love, Maybe (A Business Proposal OST Bonus Track) (2022-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="The Beauty Inside Pt. 6 (Original Television Soundtrack)" width="50" /> | The Beauty Inside Pt. 6 (Original Television Soundtrack) (2018-11-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Twenty-Five Twenty-One OST (2022-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.3 (2019-07-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="Love, Maybe (A Business Proposal OST Special Track)" width="50" /> | Love, Maybe (A Business Proposal OST Special Track) (2022-02-18) | <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="Hotel del Luna (Original Television Soundtrack) Pt.5" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.5 (2019-07-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="Jirisan (Original Television Soundtrack) Pt. 4" width="50" /> | Jirisan (Original Television Soundtrack) Pt. 4 (2021-11-07) | <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="Hotel del Luna (Original Television Soundtrack) Pt.8" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.8 (2019-08-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | Doom at Your Service (Original Television Soundtrack) Pt. 3 (2021-05-31) | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Hotel del Luna (Original Television Soundtrack) Pt.12 (2019-08-18) |

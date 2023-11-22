@@ -35,10 +35,6 @@ Stray Kids is currently:
     - the #43 track of all time
 - Back Door is:
     - the #44 track of the last 6 months
-- VENOM is:
-    - the #25 track of the last month
-- MANIAC is:
-    - the #43 track of the last month
 
 ### Top tracks of all time over time
 

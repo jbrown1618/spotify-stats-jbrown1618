@@ -42,7 +42,7 @@ Ariana Grande is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 1 | 0 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | 1 | 0 | Charlie's Angels (Original Motion Picture Soundtrack) | 2019-11-01 | [🔗](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) |
 
@@ -201,7 +201,7 @@ Ariana Grande is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything | My Everything (Deluxe) | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | One Last Time | My Everything (Deluxe) | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | Focus | Focus | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR) |
 
 

@@ -69,14 +69,13 @@ Appears as:
 
 
 <details>
-<summary>See all 17 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | sludge metal |
 | 1 | 0 | progressive sludge |
 | 1 | 0 | progressive groove metal |
-| 1 | 0 | nu metal |
 | 1 | 0 | metal |
 | 1 | 0 | atlanta metal |
 | 1 | 0 | alternative metal |
@@ -84,7 +83,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 17 genres](../../images/labels/reprise/genres.png)
+![Bar chart of top 16 genres](../../images/labels/reprise/genres.png)
 
 ## Top Producers
 

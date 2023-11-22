@@ -27,9 +27,9 @@ SEVENTEEN:
 
 ## Artist Rank
 SEVENTEEN is currently:
-- The #10 artist of all time
+- The #11 artist of all time
 - The #11 artist of the last 6 months
-- The #5 artist of the last month
+- The #6 artist of the last month
 
 ![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
