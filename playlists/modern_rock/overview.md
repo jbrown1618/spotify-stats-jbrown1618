@@ -277,7 +277,6 @@
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
-| 4 | 4 | canadian indie |
 | 13 | 3 | alternative metal |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 3 | pop punk |
@@ -307,6 +306,7 @@
 | 2 | 2 | metropopolis |
 | 2 | 2 | celtic rock |
 | 2 | 2 | canadian rock |
+| 2 | 2 | canadian indie |
 | 6 | 1 | funk rock |
 | 6 | 1 | funk metal |
 | 5 | 1 | punk |
@@ -316,7 +316,6 @@
 | 2 | 1 | emo |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
-| 1 | 1 | talent show |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | nu metal |
@@ -360,6 +359,7 @@
 | 1 | 0 | modern folk rock |
 | 1 | 0 | lo-fi |
 | 1 | 0 | k-rock |
+| 1 | 0 | elephant 6 |
 
 </details>
 

@@ -22,8 +22,6 @@ BoA is currently:
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
-- Better is:
-    - the #13 track of the last month
 
 ### Top tracks of the last 6 months over time
 

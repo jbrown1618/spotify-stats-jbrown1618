@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ebdcb255475d7204204576d18490994fb62a8413" alt="" width="50" /> | 1 | 0 | Capriccio Stravagante | [🔗](https://open.spotify.com/artist/7Hb8ewIvJmuQPAQ5MMVXJE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 1 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee70d3962767cdb6757e9a2b" alt="" width="50" /> | 1 | 0 | Joseph Jennings | [🔗](https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07c9d549505f2fe573026810" alt="" width="50" /> | 1 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92b24687e5c545daa04290e6" alt="" width="50" /> | 1 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
 | <img src="https://i.scdn.co/image/e2930a243565b3a9675ef0943ba181f28c780109" alt="" width="50" /> | 1 | 0 | Skip Sempé | [🔗](https://open.spotify.com/artist/3DSclbx4DSkyIvouHCxHHZ) |
 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f2835ca8b0eba6b2159e8d" alt="" width="50" /> | 1 | 0 | Tenebrae | [🔗](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD) |

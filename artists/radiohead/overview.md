@@ -20,11 +20,13 @@ Radiohead:
 
 ## Artist Rank
 Radiohead is currently:
-- The #35 artist of the last 6 months
+- The #34 artist of the last 6 months
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
 ## Top Tracks
 
+- Street Spirit (Fade Out) is:
+    - the #46 track of the last month
 
 ### Top tracks of the last month over time
 

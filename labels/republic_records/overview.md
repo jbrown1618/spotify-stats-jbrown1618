@@ -13,9 +13,9 @@ Appears as:
 - Republic Records (13 tracks)
 - Republic Records - TXT (10 tracks)
 - Republic Records - NMIXX (8 tracks)
-- Republic Records - J.Y. Park (3 tracks)
 - Lava Music/Republic Records (2 tracks)
-- Republic Records - JYP Entertainment (1 tracks)
+- Republic Records - J.Y. Park (2 tracks)
+- Republic Records - JYP Entertainment (2 tracks)
 - Republic Records - Xdinary Heroes (1 tracks)
 - Republic/UMLE (1 tracks)
 - Republic/Universal/FSF (1 tracks)
@@ -31,14 +31,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba46dc35ed455fe61dc231dca" alt="" width="50" /> | 8 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31" alt="" width="50" /> | 10 | 5 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 3 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 2 | 2 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 
 
 <details>
-<summary>See all 28 artists</summary>
+<summary>See all 30 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -47,6 +47,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | 1 | 1 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b79884e3182a75026eaace88" alt="" width="50" /> | 1 | 1 | Changbin (Stray Kids) | [🔗](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 1 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41b19a8be17374eca3fe7c7a" alt="" width="50" /> | 1 | 1 | Tiger JK | [🔗](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) |
@@ -57,6 +58,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 0 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95021b084380d8a3d155a96e" alt="" width="50" /> | 1 | 0 | Social House | [🔗](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771" alt="" width="50" /> | 1 | 0 | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 1 | 0 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1" alt="" width="50" /> | 1 | 0 | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb192cbc7c10f37be1afe5f44" alt="" width="50" /> | 1 | 0 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
@@ -64,7 +66,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 28 artists](../../images/labels/republic_records/artists.png)
+![Bar chart of top 30 artists](../../images/labels/republic_records/artists.png)
 
 ## Top Albums
 
@@ -134,6 +136,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 1 | 1 | 24 Hours | 2013-08-26 | [🔗](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | 1 | 0 | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | 1 | 0 | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273544a6e99632cd340e1619796" alt="" width="50" /> | 1 | 0 | Why So Lonely | 2016-07-05 | [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | 1 | 0 | The Dream Chapter: ETERNITY | 2020-05-18 | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | 1 | 0 | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
@@ -147,7 +150,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | 1 | 0 | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | 1 | 0 | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a7552c196eaad6fe2964ca8" alt="" width="50" /> | 1 | 0 | Changed Man | 2023-11-20 | [🔗](https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 
 </details>
@@ -159,12 +161,12 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 148 | 89 | [k-pop](../../genres/k_pop/overview.md) |
+| 149 | 89 | [k-pop](../../genres/k_pop/overview.md) |
 | 108 | 64 | [pop](../../genres/pop/overview.md) |
-| 87 | 60 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 88 | 60 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 61 | 28 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 3 | 2 | classic k-pop |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
+| 2 | 2 | classic k-pop |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | puerto rican pop |
 | 1 | 1 | metropopolis |
@@ -369,7 +371,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | FEVER | FEVER | J.Y. Park, SUPERBEE, [BIBI](../../artists/bibi/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a21da4c2f704f3cb9527781" alt="" width="50" /> | Groove Back | Groove Missing | J.Y. Park, Gaeko | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/7dELSsVFXTj3aIe0OIKGw8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a7552c196eaad6fe2964ca8" alt="" width="50" /> | Changed Man | Changed Man | J.Y. Park | [Republic Records](.) | | [🔗](https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Price Tag | Who You Are (Platinum Edition) | Jessie J, B.o.B | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | Who You Are | Who You Are (Platinum Edition) | Jessie J | [Lava Music/Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Despacito Feat. Justin Bieber (Remix) | Luis Fonsi, Daddy Yankee, [Justin Bieber](../../artists/justin_bieber/overview.md) | [Republic/UMLE](.) | 💚 | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
@@ -437,7 +438,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | Cat & Dog (English Version) | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | Fairy of Shampoo | The Dream Chapter: ETERNITY | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md), Seori | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | LO$ER=LO♡ER | The Chaos Chapter: FIGHT OR ESCAPE | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) |
@@ -487,6 +488,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE (ENG) | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | After Hours | The Weeknd | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273544a6e99632cd340e1619796" alt="" width="50" /> | Why So Lonely | Why So Lonely | Wonder Girls | [Republic Records](.) | | [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378e172661e9902180548593b" alt="" width="50" /> | Break the Brake | Livelock | Xdinary Heroes | [Republic Records](.) | | [🔗](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) |
 
 </details>

@@ -27,7 +27,7 @@ LE SSERAFIM is currently:
 ## Top Tracks
 
 - FEARLESS is:
-    - the #43 track of the last 6 months
+    - the #41 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -46,8 +46,9 @@ LE SSERAFIM is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730744690248ef3ba7b776ea7bab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b2739d82134e7954987dddfdcaabab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 
 ## Top Albums
 
@@ -56,6 +57,7 @@ LE SSERAFIM is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 4 | 4 | UNFORGIVEN | 2023-05-01 | [🔗](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 3 | 3 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 3 | 3 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | 1 | 0 | Perfect Night (Holiday Remix) | 2023-11-23 | [🔗](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | 1 | 0 | Perfect Night | 2023-10-27 | [🔗](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | 1 | 0 | Eve, Psyche & the Bluebeard’s wife (English Ver.) | 2023-07-06 | [🔗](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) |
 
@@ -63,7 +65,7 @@ LE SSERAFIM is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 12 | 10 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
+| 13 | 10 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 
 ## Genres
 
@@ -205,6 +207,7 @@ LE SSERAFIM is currently:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | Eve, Psyche & the Bluebeard’s wife (English Ver.) | Eve, Psyche & the Bluebeard’s wife (English Ver.) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | | [🔗](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | Perfect Night | Perfect Night | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | | [🔗](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | | [🔗](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) |
 
 </details>
 

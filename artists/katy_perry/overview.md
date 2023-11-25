@@ -10,7 +10,7 @@
 ## Top Tracks
 
 - I Kissed A Girl is:
-    - the #36 track of the last month
+    - the #29 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

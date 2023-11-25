@@ -2,7 +2,7 @@
 # TAEYEON
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="TAEYEON" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="TAEYEON" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -19,7 +19,7 @@ TAEYEON:
 TAEYEON is currently:
 - The #9 artist of all time
 - The #9 artist of the last 6 months
-- The #13 artist of the last month
+- The #10 artist of the last month
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
@@ -27,9 +27,9 @@ TAEYEON is currently:
 - Can't Control Myself is:
     - the #17 track of the last 6 months
 - Toddler is:
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - I Got Love is:
-    - the #47 track of the last 6 months
+    - the #44 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -146,7 +146,7 @@ TAEYEON is currently:
 | | Matthew Tishler | 1 | Arranger, Songwriter |
 | | Jacob Ubizz | 1 | Arranger, Songwriter |
 | | 이지홍 (Lee, Ji-hong) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb29975f8b42bcba1eae62577" alt="" width="50" /> | [TAEYEON](overview.md) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | [TAEYEON](overview.md) | 1 | Lyricist |
 | | Olivia Holt | 1 | Songwriter |
 | | 김철순 (Kim, Chul-Soon) | 1 | Producer |
 

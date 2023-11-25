@@ -28,6 +28,10 @@ The Tarpeggios is currently:
 - The #46 artist of the last 6 months
 
 ![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
+## Top Tracks
+
+- Settle Down is:
+    - the #47 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

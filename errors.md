@@ -5,23 +5,23 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Dream On [🔗](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | 85 | 1973-01-05 | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | Aerosmith [🔗](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 74 | | Aerosmith P&D - Sony | |
-| Dream On [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | 10 | 1973-01-05 | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | Aerosmith [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3 | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) | Columbia | 💚 |
-| Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | 25 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 23 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BIGHIT MUSIC | 💚 |
-| Daechwita [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | 73 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 70 | | BIGHIT MUSIC | |
+| Dream On [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | 10 | 1973-01-05 | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | Aerosmith [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4 | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) | Columbia | 💚 |
+| Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | 24 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 22 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BIGHIT MUSIC | 💚 |
+| Daechwita [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | 72 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 71 | | BIGHIT MUSIC | |
 | Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | 43 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 52 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) | Feel Ghood Music/88risingMusic | 💚 |
 | Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | 36 | 2022-11-17 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 65 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Feel Ghood Music/88risingMusic | |
 | Red Sun [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | 50 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 56 | | Dreamcatcher Company | |
-| Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) | 14 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 19 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Dreamcatcher Company | 💚 |
+| Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) | 13 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 18 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Dreamcatcher Company | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 73 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 62 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 76 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
-| I Kissed A Girl [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | 72 | 2008-06-17 | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | One Of The Boys [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 67 | | Capitol Records | |
+| I Kissed A Girl [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | 72 | 2008-06-17 | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | One Of The Boys [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 68 | | Capitol Records | |
 | I Kissed A Girl [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) | 22 | 2008-06-17 | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | One Of The Boys [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) | 27 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Capitol Records | 💚 |
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | 62 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 73 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
-| Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | 43 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | 57 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Sony Music Labels Inc. | |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | 42 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | 57 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Sony Music Labels Inc. | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 82 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 91 | | Top Dawg Entertainment/RCA Records | 💚 |
-| Somebody Else [🔗](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | 0 | 2016-09-09 | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | Somebody Else [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 0 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | VÉRITÉ | 💚 |
-| Somebody Else [🔗](https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE) | 51 | 2016-09-09 | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | Somebody Else [🔗](https://open.spotify.com/album/6rHYThgzzhcHFMTLCdKIp7) | 40 | | VÉRITÉ | |
+| Why So Lonely [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | 57 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | 47 | | Republic Records - JYP Entertainment | |
+| Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | 21 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 12 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 71 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 60 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 69 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 64 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 
@@ -29,26 +29,26 @@
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| Aerosmith [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | 3 | 1973-01-05 | Columbia | Dream On [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) |
+| Aerosmith [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | 4 | 1973-01-05 | Columbia | Dream On [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) |
 | Aerosmith [🔗](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | 74 | 1973-01-05 | Aerosmith P&D - Sony | Dream On [🔗](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | |
-| D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | 23 | 2020-05-22 | BIGHIT MUSIC | Burn It (feat. MAX) [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy),<br>Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy),<br>Moonlight [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ),<br>People [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp),<br>Strange (feat. RM) [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| D-2 [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | 70 | 2020-05-22 | BIGHIT MUSIC | Daechwita [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | |
+| D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | 22 | 2020-05-22 | BIGHIT MUSIC | Burn It (feat. MAX) [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy),<br>Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy),<br>Moonlight [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ),<br>People [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp),<br>Strange (feat. RM) [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| D-2 [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | 71 | 2020-05-22 | BIGHIT MUSIC | Daechwita [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | |
 | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | 52 | 2022-11-18 | Feel Ghood Music/88risingMusic | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI),<br>BIBI Vengeance [🔗](https://open.spotify.com/track/6vq6B6ENjap5Ea1T4GkrFA),<br>Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | 65 | 2022-11-17 | Feel Ghood Music/88risingMusic | Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) |
 | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 56 | 2020-02-18 | Dreamcatcher Company | Red Sun [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | |
-| 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 19 | 2020-02-18 | Dreamcatcher Company | Black Or White [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5),<br>Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH),<br>Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g),<br>Scream [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 49 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| One Of The Boys [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | 67 | 2008-06-17 | Capitol Records | I Kissed A Girl [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | |
+| 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 18 | 2020-02-18 | Dreamcatcher Company | Black Or White [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5),<br>Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH),<br>Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g),<br>Scream [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| One Of The Boys [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | 68 | 2008-06-17 | Capitol Records | I Kissed A Girl [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | |
 | One Of The Boys [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | 27 | 2008-06-17 | Capitol Records | I Kissed A Girl [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 53 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 38 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 39 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 91 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | |
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 82 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 57 | 2022-12-21 | Sony Music Labels Inc. | Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) |
 | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 73 | 2022-12-21 | Republic Records - Stray Kids | Drive (Bang Chan, Lee Know) [🔗](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt),<br>Hug Me (I.N) [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL),<br>I GOT IT (HAN) [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1),<br>Maknae On Top (I.N) [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL),<br>RUN (HAN) [🔗](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO),<br>Stars and Raindrops (Seungmin) [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1),<br>Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei),<br>i hate to admit (Bang Chan) [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH),<br>miss you (Hyunjin) [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| Somebody Else [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | 0 | 2016-09-09 | VÉRITÉ | Somebody Else [🔗](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
-| Somebody Else [🔗](https://open.spotify.com/album/6rHYThgzzhcHFMTLCdKIp7) | VÉRITÉ [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | 40 | 2016-09-09 | VÉRITÉ | Somebody Else [🔗](https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE) | |
+| Why So Lonely [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 47 | 2016-07-05 | Republic Records - JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | |
+| Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 12 | 2016-07-05 | JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 
 ## Tracks with low popularity
 
@@ -73,24 +73,24 @@
 | Butter | Butter | BTS | 2 | 0 | 84 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 84 |
 | Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 84 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 49 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 47 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 47 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 47 |
@@ -251,6 +251,7 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
+| Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | LE SSERAFIM | 0 | 0 | 76 |
 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
@@ -303,7 +304,7 @@
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
-| PLAY | PLAY | CHUNG HA | 0 | 0 | 56 |
+| PLAY | PLAY | CHUNG HA | 0 | 0 | 57 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 54 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 77 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
@@ -320,7 +321,7 @@
 | String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
 | CHERRY | IT'z ICY | ITZY | 0 | 0 | 70 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 70 |
-| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 71 |
+| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 72 |
 | React | React | The Pussycat Dolls | 0 | 0 | 66 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 68 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
@@ -328,7 +329,7 @@
 | I Had a King | Song to a Seagull | Joni Mitchell | 0 | 0 | 53 |
 | Carey | Blue | Joni Mitchell | 0 | 0 | 53 |
 | Blue | Blue | Joni Mitchell | 0 | 0 | 53 |
-| A Case of You | Blue | Joni Mitchell | 1 | 0 | 53 |
+| A Case of You | Blue | Joni Mitchell | 0 | 0 | 53 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 53 |
 | Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 53 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 48 |
@@ -362,13 +363,13 @@
 | Mad World | Covers, Vol. III | Peter Hollens | 0 | 0 | 48 |
 | Phantom of the Opera Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 48 |
 | Hamilton Medley | Covers, Vol. III | Peter Hollens | 0 | 0 | 48 |
-| Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 31 |
-| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 31 |
-| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 31 |
-| The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 31 |
+| Greensleeves | Legendary Folk Songs | Tim Foust | 0 | 0 | 32 |
+| Misty Mountains | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Tim Foust | 0 | 0 | 32 |
+| Bridge Over Troubled Water | Legendary Covers, Vol. 1 | Tim Foust | 0 | 0 | 32 |
+| The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 32 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 52 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 46 |
-| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 53 |
+| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 46 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 28 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 62 |
@@ -400,21 +401,22 @@
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 50 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
+| Jingle Bell Rock | Jingle Bell Rock | aespa | 0 | 0 | 74 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 56 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 1 | 0 | 63 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 26 |
-| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 77 |
+| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
 | Wings | Wings | PIXY | 0 | 0 | 39 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
-| ABC | ABC | The Jackson 5 | 2 | 0 | 65 |
-| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 32 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
+| ABC | ABC | The Jackson 5 | 1 | 0 | 66 |
+| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 33 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 42 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
@@ -432,16 +434,17 @@
 | RED | RED | The Rose | 0 | 0 | 63 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 63 |
 | BABY | Void | The Rose | 0 | 0 | 63 |
-| Sorry | Sorry | The Rose | 0 | 0 | 63 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 1 | 0 | 49 |
+| Sorry | Sorry | The Rose | 1 | 0 | 63 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 49 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
-| Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
+| Gimme Sympathy | Fantasies | Metric | 0 | 0 | 60 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
-| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 69 |
-| The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 69 |
+| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 70 |
+| The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 70 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 50 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 30 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 31 |
+| End Of All Hope | Century Child | Nightwish | 2 | 2 | 63 |
 | Nemo | Once | Nightwish | 1 | 0 | 63 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 48 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 71 |
@@ -449,9 +452,9 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 68 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 76 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 84 |
-| Miku | Miku | Anamanaguchi | 0 | 0 | 50 |
+| Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Miku | Miku | Hatsune Miku | 0 | 0 | 61 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 44 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 51 |
@@ -460,17 +463,17 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 73 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 1 | 0 | 62 |
 | When We Disco | When We Disco | J.Y. Park | 1 | 0 | 39 |
-| Who's Your Mama? | 24/34 | J.Y. Park | 1 | 0 | 39 |
+| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 39 |
 | When We Disco | When We Disco | SUNMI | 1 | 0 | 57 |
-| Who's Your Mama? | 24/34 | Jessi | 1 | 0 | 59 |
+| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 67 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 0 | 75 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 1 | 1 | 69 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 62 |
-| 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 53 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 42 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 63 |
+| 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 54 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 50 |
-| All The Small Things | Enema Of The State | blink-182 | 1 | 0 | 78 |
+| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 78 |

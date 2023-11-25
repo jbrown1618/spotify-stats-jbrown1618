@@ -4,20 +4,20 @@
 
 ## Cluster #1
 
-46 tracks
+53 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [BLACKPINK](../../../../artists/blackpink/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | New Rules | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Physical (feat. Hwa Sa) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [HWASA](../../../../artists/hwasa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Don't Start Now | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/1AVtceapuF36oZqI9gzp0o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Hallucinate | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Physical | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/7toYVidBIpAmM8Ife3LGrP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | [Jackson Wang](../../../../artists/jackson_wang/overview.md) | [88rising Music](../../../88rising_music), [Warner Records](../..) | | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../../../88rising_music), [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Come Alive | MAGIC MAN | [Jackson Wang](../../../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../../../88rising_music), [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/2mrG7QoaHDD1kYhr5jeK9q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | [Jason Derulo](../../../../artists/jason_derulo/overview.md), Nicki Minaj, Ty Dolla $ign | [Beluga Heights/Warner Records](../..) | | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Recovery | Primal Heart | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/0HqtTIH9Eo7IdTiiFvpdjM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Lingo | Girls - The 2nd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
 ## Cluster #2
 
 10 tracks
@@ -36,17 +36,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
 ## Cluster #3
 
-38 tracks
+32 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, [Doja Cat](../../../../artists/doja_cat/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](../../../rhino), [Warner Records](../..) | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Break My Heart | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/59CrwNtNqzOmODXRxwaknc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | The Chain - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../../../rhino), [Warner Records](../..) | | [🔗](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Top of the World | Primal Heart | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/1Gbdx88ElOui7lczwxGX6m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="" width="50" /> | Like a Prayer | Celebration (Bonus Track Version) | Madonna | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/7Bj27KfbcrXFqQd3JsJBUK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | Californication | Californication (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Strip My Mind | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../..) | | [🔗](https://open.spotify.com/track/0J3ytriezGZ3KCREfHKDOI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](../../../../artists/rilo_kiley/overview.md) | [Brute/Beaute/Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](../../../../artists/rilo_kiley/overview.md) | [Brute/Beaute/Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../../../artists/aespa/overview.md), nævis | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../../../artists/aespa/overview.md) | [Warner Records](../..) | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |

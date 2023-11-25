@@ -17,13 +17,13 @@ EVERGLOW:
 ## Artist Rank
 EVERGLOW is currently:
 - The #25 artist of all time
-- The #37 artist of the last 6 months
+- The #39 artist of the last 6 months
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Top Tracks
 
 - FIRST is:
-    - the #37 track of the last month
+    - the #30 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -34,7 +34,7 @@ EVERGLOW is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 8 | [K-Pop](../../playlists/k_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730744690248ef3ba7b776ea7bab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b2739d82134e7954987dddfdcaabab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k_memes/overview.md) |
 

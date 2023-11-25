@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 1 | 0 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5d747f2aa17e23d16bf293c" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb909250b1c2338a675e6e4476" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 1 | 0 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
@@ -255,6 +255,7 @@
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | motown |
 | 2 | 2 | [electropop](../../genres/electropop/overview.md) |
+| 2 | 2 | country road |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
@@ -290,7 +291,6 @@
 | 1 | 1 | instrumental bluegrass |
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
-| 1 | 1 | country road |
 | 1 | 1 | classic soul |
 | 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |

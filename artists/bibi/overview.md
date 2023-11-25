@@ -14,7 +14,7 @@
 ## Top Tracks
 
 - Animal Farm is:
-    - the #35 track of the last month
+    - the #28 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -33,7 +33,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730744690248ef3ba7b776ea7bab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b2739d82134e7954987dddfdcaabab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="" width="50" /> | 1 | [K-OST](../../playlists/k_ost/overview.md) |
 

@@ -2,7 +2,7 @@
 # HEIZE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebb55c3a580a05d6a61bd678ca" alt="HEIZE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="HEIZE" width="100" />
 
 ## Artist Rank
 

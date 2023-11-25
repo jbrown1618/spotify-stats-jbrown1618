@@ -1,7 +1,7 @@
 # Jazz
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b273021d4bd3809d6659623c75c9ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
 
 [56 tracks (10 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
 

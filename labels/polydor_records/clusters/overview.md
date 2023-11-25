@@ -41,7 +41,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="" width="50" /> | Mercy | Rockferry | Duffy | [Polydor Records](../..) | 💚 | [🔗](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a90401b8d27cd6b5f3a46242" alt="" width="50" /> | Lights - Single Version | Lights | Ellie Goulding | [Polydor Records](../..) | 💚 | [🔗](https://open.spotify.com/track/5qftsSFD6Qgndcx13SSqQj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | Lights - Single Version | Lights | Ellie Goulding | [Polydor Records](../..) | 💚 | [🔗](https://open.spotify.com/track/5qftsSFD6Qgndcx13SSqQj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | Close To Me - Red Velvet Remix | Close To Me (Red Velvet Remix) | Ellie Goulding, Diplo, [Red Velvet](../../../../artists/red_velvet/overview.md) | [Polydor Records](../..) | | [🔗](https://open.spotify.com/track/696Y3Jx3k4Rjsw8gm2q4l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade | Slow Grenade | Ellie Goulding, Lauv | [Polydor Records](../..) | 💚 | [🔗](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | Heat Waves | Dreamland (+ Bonus Levels) | Glass Animals | [Polydor Records](../..) | | [🔗](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) |
