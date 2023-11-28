@@ -28,7 +28,7 @@ Dreamcatcher is currently:
 ## Top Tracks
 
 - Red Sun is:
-    - the #24 track of the last month
+    - the #32 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -41,7 +41,7 @@ Dreamcatcher is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 2 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27324e7d3f6bcc7f5594638a4f0ab67616d0000b27366c8e4a0da651253f0a9dcd5ab67616d0000b27386aa667d96341fd6c41841e0ab67616d0000b2738c2e5ad74cb2c2156da791b9" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 
 ## Top Albums
 

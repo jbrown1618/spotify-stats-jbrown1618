@@ -205,7 +205,7 @@
 | 14 | 11 | [pop](../../genres/pop/overview.md) |
 | 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 6 | 3 | [rap](../../genres/rap/overview.md) |
-| 4 | 2 | pop rap |
+| 3 | 2 | pop rap |
 | 3 | 2 | hip hop |
 | 2 | 2 | [anime](../../genres/anime/overview.md) |
 | 1 | 1 | west coast rap |

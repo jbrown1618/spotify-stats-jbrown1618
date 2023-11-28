@@ -4,24 +4,20 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Dream On [🔗](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | 85 | 1973-01-05 | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | Aerosmith [🔗](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 74 | | Aerosmith P&D - Sony | |
-| Dream On [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | 10 | 1973-01-05 | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | Aerosmith [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4 | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) | Columbia | 💚 |
-| Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | 24 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 22 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BIGHIT MUSIC | 💚 |
+| Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | 23 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 22 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BIGHIT MUSIC | 💚 |
 | Daechwita [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | 72 | 2020-05-22 | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | D-2 [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 71 | | BIGHIT MUSIC | |
 | Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | 43 | 2022-11-18 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | 52 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) | Feel Ghood Music/88risingMusic | 💚 |
-| Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | 36 | 2022-11-17 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 65 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Feel Ghood Music/88risingMusic | |
+| Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | 35 | 2022-11-17 | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 65 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Feel Ghood Music/88risingMusic | |
 | Red Sun [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | 50 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 56 | | Dreamcatcher Company | |
-| Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) | 13 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 18 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Dreamcatcher Company | 💚 |
+| Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) | 12 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 17 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Dreamcatcher Company | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 73 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 62 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 76 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 77 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk) | Epic/Not So Fast | |
 | I Kissed A Girl [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | 72 | 2008-06-17 | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | One Of The Boys [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 68 | | Capitol Records | |
 | I Kissed A Girl [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) | 22 | 2008-06-17 | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | One Of The Boys [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) | 27 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Capitol Records | 💚 |
-| Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | 62 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 73 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
+| Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | 62 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 74 | K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Republic Records - Stray Kids | 💚 |
 | Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | 42 | 2022-12-21 | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | 57 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) | Sony Music Labels Inc. | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 82 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 91 | | Top Dawg Entertainment/RCA Records | 💚 |
-| Why So Lonely [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | 57 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | 47 | | Republic Records - JYP Entertainment | |
-| Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | 21 | 2016-07-05 | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 12 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | JYP Entertainment | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | 71 | 2021-01-06 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | 怪物 [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 60 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 | 怪物 [🔗](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef) | 69 | 2021-12-01 | YOASOBI [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | THE BOOK 2 [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 64 | International Pop [🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf) | YOASOBI | 💚 |
 
@@ -29,14 +25,12 @@
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| Aerosmith [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | 4 | 1973-01-05 | Columbia | Dream On [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) |
-| Aerosmith [🔗](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | Aerosmith [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | 74 | 1973-01-05 | Aerosmith P&D - Sony | Dream On [🔗](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | |
 | D-2 [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | 22 | 2020-05-22 | BIGHIT MUSIC | Burn It (feat. MAX) [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy),<br>Daechwita [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy),<br>Moonlight [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ),<br>People [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp),<br>Strange (feat. RM) [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 | D-2 [🔗](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | Agust D [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | 71 | 2020-05-22 | BIGHIT MUSIC | Daechwita [🔗](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | |
 | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/0AwCgoJKJUOgLp1imhnxuH) | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | 52 | 2022-11-18 | Feel Ghood Music/88risingMusic | Animal Farm [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI),<br>BIBI Vengeance [🔗](https://open.spotify.com/track/6vq6B6ENjap5Ea1T4GkrFA),<br>Wet Nightmare [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | Lowlife Princess: Noir [🔗](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | BIBI [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | 65 | 2022-11-17 | Feel Ghood Music/88risingMusic | Wet Nightmare [🔗](https://open.spotify.com/track/5IZU683fJv7nISRBmamYS1) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) |
 | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 56 | 2020-02-18 | Dreamcatcher Company | Red Sun [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) | |
-| 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 18 | 2020-02-18 | Dreamcatcher Company | Black Or White [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5),<br>Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH),<br>Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g),<br>Scream [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 17 | 2020-02-18 | Dreamcatcher Company | Black Or White [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5),<br>Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH),<br>Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g),<br>Scream [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | One Of The Boys [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | Katy Perry [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | 68 | 2008-06-17 | Capitol Records | I Kissed A Girl [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | |
@@ -46,9 +40,7 @@
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 91 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | |
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 82 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | SKZ-REPLAY [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 57 | 2022-12-21 | Sony Music Labels Inc. | Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp) |
-| SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 73 | 2022-12-21 | Republic Records - Stray Kids | Drive (Bang Chan, Lee Know) [🔗](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt),<br>Hug Me (I.N) [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL),<br>I GOT IT (HAN) [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1),<br>Maknae On Top (I.N) [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL),<br>RUN (HAN) [🔗](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO),<br>Stars and Raindrops (Seungmin) [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1),<br>Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei),<br>i hate to admit (Bang Chan) [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH),<br>miss you (Hyunjin) [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| Why So Lonely [🔗](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 47 | 2016-07-05 | Republic Records - JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | |
-| Why So Lonely [🔗](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | Wonder Girls [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | 12 | 2016-07-05 | JYP Entertainment | Why So Lonely [🔗](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| SKZ-REPLAY [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | Stray Kids [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | 74 | 2022-12-21 | Republic Records - Stray Kids | Drive (Bang Chan, Lee Know) [🔗](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt),<br>Hug Me (I.N) [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL),<br>I GOT IT (HAN) [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1),<br>Maknae On Top (I.N) [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL),<br>RUN (HAN) [🔗](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO),<br>Stars and Raindrops (Seungmin) [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1),<br>Up All Night (Bang Chan, Changbin, Felix, Seungmin) [🔗](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei),<br>i hate to admit (Bang Chan) [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH),<br>miss you (Hyunjin) [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 
 ## Tracks with low popularity
 
@@ -63,16 +55,15 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 27 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 27 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
-| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 84 |
-| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 84 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 84 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 84 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 0 | 84 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 84 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 84 |
-| Butter | Butter | BTS | 2 | 0 | 84 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 84 |
-| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 84 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 85 |
+| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 85 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 0 | 85 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 0 | 85 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 0 | 85 |
+| War of Hormone | Dark & Wild | BTS | 0 | 0 | 85 |
+| Danger | Dark & Wild | BTS | 0 | 0 | 85 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 85 |
+| Butterfly | The Most Beautiful Moment in Life Pt.2 | BTS | 0 | 0 | 85 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 50 |
@@ -127,7 +118,7 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
-| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 78 |
+| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 79 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 60 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 60 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 60 |
@@ -251,34 +242,33 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 49 |
-| Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | LE SSERAFIM | 0 | 0 | 76 |
-| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
-| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
-| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 67 |
-| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
-| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 61 |
+| 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
+| 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
+| 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 68 |
+| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
+| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 62 |
 | 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
@@ -305,7 +295,7 @@
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 35 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 57 |
-| PLAY | PLAY | CHANGMO | 0 | 0 | 54 |
+| PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 77 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
 | String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 53 |
@@ -372,19 +362,19 @@
 | Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 46 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 28 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 62 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 63 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 36 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 36 |
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 36 |
-| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 47 |
-| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 47 |
-| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 2, Vinea mea electa | Poulenc: Motets and Mass | Francis Poulenc | 0 | 1 | 47 |
+| 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 1 | 1 | 47 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 78 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 62 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 60 |
@@ -392,21 +382,20 @@
 | Egotistic | RED MOON | MAMAMOO | 1 | 0 | 60 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 0 | 60 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 62 |
-| Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 50 |
-| The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 50 |
-| Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 50 |
-| Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 50 |
-| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 50 |
-| Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 50 |
-| Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 50 |
+| Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
+| The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
+| Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
+| Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
+| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 51 |
+| Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 51 |
+| Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 51 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 44 |
-| Jingle Bell Rock | Jingle Bell Rock | aespa | 0 | 0 | 74 |
-| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 56 |
+| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 1 | 0 | 63 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 26 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 26 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
 | Wings | Wings | PIXY | 0 | 0 | 39 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
@@ -414,8 +403,8 @@
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
-| ABC | ABC | The Jackson 5 | 1 | 0 | 66 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
+| ABC | ABC | The Jackson 5 | 1 | 0 | 67 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 33 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 42 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
@@ -430,27 +419,28 @@
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 82 |
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 82 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 82 |
-| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 58 |
+| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 63 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 63 |
 | BABY | Void | The Rose | 0 | 0 | 63 |
-| Sorry | Sorry | The Rose | 1 | 0 | 63 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 49 |
+| Sorry | Sorry | The Rose | 0 | 0 | 63 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 50 |
 | I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 60 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 70 |
 | The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 70 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 50 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 30 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 31 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 31 |
+| The Phantom Of The Opera | Century Child | Nightwish | 2 | 2 | 63 |
 | End Of All Hope | Century Child | Nightwish | 2 | 2 | 63 |
 | Nemo | Once | Nightwish | 1 | 0 | 63 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 48 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 71 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 73 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 2 | 1 | 75 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 2 | 1 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 68 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 84 |
@@ -462,18 +452,17 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 73 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 1 | 0 | 62 |
-| When We Disco | When We Disco | J.Y. Park | 1 | 0 | 39 |
-| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 39 |
+| When We Disco | When We Disco | J.Y. Park | 1 | 0 | 40 |
+| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 40 |
 | When We Disco | When We Disco | SUNMI | 1 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 67 |
-| this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 0 | 75 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 65 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 65 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 1 | 1 | 69 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 63 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 65 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 54 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 50 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 51 |
 | All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 78 |

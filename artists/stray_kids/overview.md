@@ -35,6 +35,10 @@ Stray Kids is currently:
     - the #43 track of all time
 - Back Door is:
     - the #42 track of the last 6 months
+- Social Path (Feat. LiSA) (Korean Ver.) is:
+    - the #21 track of the last month
+- CASE 143 is:
+    - the #47 track of the last month
 
 ### Top tracks of all time over time
 

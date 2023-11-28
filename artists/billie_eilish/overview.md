@@ -11,13 +11,13 @@
 ## Artist Rank
 Billie Eilish is currently:
 - The #44 artist of all time
-- The #43 artist of the last 6 months
+- The #41 artist of the last 6 months
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
 ## Top Tracks
 
 - you should see me in a crown is:
-    - the #10 track of the last month
+    - the #12 track of the last month
 
 ### Top tracks of the last month over time
 

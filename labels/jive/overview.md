@@ -52,9 +52,8 @@ Appears as:
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 0 | [rap](../../genres/rap/overview.md) |
-| 1 | 0 | pop rap |
 
-![Bar chart of top 7 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 6 genres](../../images/labels/jive/genres.png)
 
 ## Top Producers
 

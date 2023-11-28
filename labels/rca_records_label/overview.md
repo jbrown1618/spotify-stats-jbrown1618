@@ -182,11 +182,11 @@ Appears as:
 | 3 | 2 | garage rock |
 | 2 | 2 | pop soul |
 | 2 | 1 | talent show |
-| 2 | 1 | pop rap |
 | 2 | 1 | alternative r&b |
 | 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 1 | south carolina hip hop |
 | 1 | 1 | pov: indie |
+| 1 | 1 | pop rap |
 | 1 | 1 | oakland hip hop |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |

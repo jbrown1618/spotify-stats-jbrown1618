@@ -3,7 +3,6 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | Back In Black | Back In Black | AC/DC | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | Aerosmith P&D - Sony | | [🔗](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | Walk This Way | Toys In The Attic | Aerosmith | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](../../labels/rhino), [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |

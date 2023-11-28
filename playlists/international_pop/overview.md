@@ -53,7 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | 1 | 1 | Snow | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c0400b168c47ac55370ebd8" alt="" width="50" /> | 1 | 1 | SB19 | [🔗](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc268a2542f07c111cfb9615d" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8d136485c88c919e0487a4e" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18c35599ebcff8786a98867a" alt="" width="50" /> | 1 | 1 | Fabrizio Moro | [🔗](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2bcb72091c46d935e195aa87" alt="" width="50" /> | 1 | 1 | tlinh | [🔗](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | 1 | 1 | Angèle | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ac5b726c329cd3cd0ee5a74" alt="" width="50" /> | 1 | 1 | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | 1 | 1 | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe179b175d629c761438fb8ec" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb32d584288871ebb0f90e1866" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe8b6591753659ca595c73c6" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e8ef2d28b9487d7af47d75" alt="" width="50" /> | 1 | 1 | 2pillz | [🔗](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba2709389daa8da217aa9390f" alt="" width="50" /> | 1 | 1 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
@@ -508,7 +508,7 @@
 | | Emilie Satt | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
 | | NORiMETAL | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe179b175d629c761438fb8ec" alt="" width="50" /> | NATTI NATASHA | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb32d584288871ebb0f90e1866" alt="" width="50" /> | NATTI NATASHA | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | 1 | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | Gen Hoshino | 1 | Lyricist, Songwriter |
 | | Vishal-Shekhar | 1 | Songwriter |

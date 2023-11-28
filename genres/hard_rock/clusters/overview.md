@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-11 tracks
+13 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -20,15 +20,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../../../artists/the_who/overview.md) | [Geffen](../../../../labels/geffen) | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
 ## Cluster #2
 
-12 tracks
+10 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | Back In Black | Back In Black | AC/DC | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | Walk This Way | Toys In The Attic | Aerosmith | [Columbia](../../../../labels/columbia) | | [🔗](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | Smoke on the Water | Machine Head | Deep Purple | [Rhino](../../../../labels/rhino), [Warner Records](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="" width="50" /> | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | Sanctuary Records | | [🔗](https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son | Leftoverture (Expanded Edition) | Kansas | [Epic](../../../../labels/epic), [Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Immigrant Song - Remaster | Led Zeppelin III (Remaster) | Led Zeppelin | [Atlantic Records](../../../../labels/atlantic_records) | | [🔗](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Black Dog - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](../../../../labels/atlantic_records) | | [🔗](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | The Joker | The Joker | Steve Miller Band | CAPITOL CATALOG MKT (C92) | 💚 | [🔗](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | Renegade | Pieces Of Eight | Styx | A&M | 💚 | [🔗](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) |
@@ -36,11 +36,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation - Stereo Version | My Generation (Stereo Version) | [The Who](../../../../artists/the_who/overview.md) | [Geffen](../../../../labels/geffen) | 💚 | [🔗](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) |
 ## Cluster #3
 
-9 tracks
+8 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | Aerosmith P&D - Sony | | [🔗](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Lights | Infinity | Journey | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | 💚 | [🔗](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](../../../../labels/epic), [Legacy](../../../../labels/legacy) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |

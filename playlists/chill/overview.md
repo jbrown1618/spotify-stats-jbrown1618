@@ -367,7 +367,7 @@
 
 
 <details>
-<summary>See all 65 genres</summary>
+<summary>See all 64 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -423,7 +423,6 @@
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | [rap](../../genres/rap/overview.md) |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 0 | pop rap |
 | 1 | 0 | k-pop ballad |
 | 1 | 0 | classic k-pop |
 

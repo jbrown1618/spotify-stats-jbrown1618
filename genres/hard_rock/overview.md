@@ -1,6 +1,6 @@
 # hard rock
 
-[32 songs](tracks.md)
+[31 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -13,8 +13,8 @@
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 3 | 2 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 3 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
@@ -57,7 +57,7 @@
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 28 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -79,12 +79,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 1 | 0 | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) |
 
 </details>
 
 
-![Bar chart of top 29 albums](../../images/genres/hard_rock/albums.png)
+![Bar chart of top 28 albums](../../images/genres/hard_rock/albums.png)
 
 ## Top Record Labels
 
@@ -103,7 +102,7 @@
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 17 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -114,12 +113,11 @@
 | 3 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | Volcano |
 | 1 | 0 | Sanctuary Records |
-| 1 | 0 | Aerosmith P&D - Sony |
 
 </details>
 
 
-![Bar chart of top 18 record labels](../../images/genres/hard_rock/labels.png)
+![Bar chart of top 17 record labels](../../images/genres/hard_rock/labels.png)
 
 ## Top Producers
 

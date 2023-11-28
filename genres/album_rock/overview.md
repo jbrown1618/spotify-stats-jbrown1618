@@ -1,6 +1,6 @@
 # album rock
 
-[71 songs](tracks.md)
+[70 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -16,8 +16,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 6 | 2 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 3 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 
@@ -61,7 +61,7 @@
 
 
 <details>
-<summary>See all 49 albums</summary>
+<summary>See all 48 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -103,7 +103,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2" alt="" width="50" /> | 1 | 0 | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) |
 
 </details>
 
@@ -127,7 +126,7 @@
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 18 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -139,12 +138,11 @@
 | 3 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | Volcano |
 | 1 | 0 | RCA Victor |
-| 1 | 0 | Aerosmith P&D - Sony |
 
 </details>
 
 
-![Bar chart of top 19 record labels](../../images/genres/album_rock/labels.png)
+![Bar chart of top 18 record labels](../../images/genres/album_rock/labels.png)
 
 ## Top Producers
 

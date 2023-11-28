@@ -29,20 +29,20 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #39 track of the last 6 months
+    - the #40 track of the last 6 months
     - the #23 track of all time
 - Sacrifice (Eat Me Up) is:
-    - the #5 track of the last 6 months
+    - the #4 track of the last 6 months
 - Bills is:
     - the #14 track of the last 6 months
 - Bite Me is:
-    - the #18 track of the last 6 months
+    - the #20 track of the last 6 months
 - CRIMINAL LOVE is:
-    - the #34 track of the last 6 months
+    - the #35 track of the last 6 months
 - Sweet Venom (feat. Bella Poarch) is:
-    - the #11 track of the last month
+    - the #13 track of the last month
 - Sweet Venom (English Ver.) is:
-    - the #12 track of the last month
+    - the #14 track of the last month
 
 ### Top tracks of all time over time
 

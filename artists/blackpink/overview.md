@@ -37,9 +37,9 @@ BLACKPINK is currently:
 - WHISTLE is:
     - the #49 track of all time
 - Pink Venom is:
-    - the #25 track of the last 6 months
+    - the #26 track of the last 6 months
 - Shut Down is:
-    - the #23 track of the last month
+    - the #29 track of the last month
 
 ### Top tracks of all time over time
 

@@ -277,6 +277,7 @@
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
+| 4 | 4 | canadian indie |
 | 13 | 3 | alternative metal |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 3 | pop punk |
@@ -306,7 +307,6 @@
 | 2 | 2 | metropopolis |
 | 2 | 2 | celtic rock |
 | 2 | 2 | canadian rock |
-| 2 | 2 | canadian indie |
 | 6 | 1 | funk rock |
 | 6 | 1 | funk metal |
 | 5 | 1 | punk |

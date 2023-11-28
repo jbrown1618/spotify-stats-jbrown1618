@@ -248,7 +248,7 @@
 
 
 <details>
-<summary>See all 55 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -283,7 +283,6 @@
 | 1 | 1 | asian american hip hop |
 | 1 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 0 | [rap](../../genres/rap/overview.md) |
-| 2 | 0 | pop rap |
 | 1 | 0 | strut |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | rap latina |
