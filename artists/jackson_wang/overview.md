@@ -10,8 +10,6 @@ Jackson Wang:
 - is a member of GOT7
 
 ## Artist Rank
-Jackson Wang is currently:
-- The #39 artist of the last 6 months
 
 ![Rank of Jackson Wang over time](../../images/artists/jackson_wang/rank_time_series.png)
 ## Top Tracks

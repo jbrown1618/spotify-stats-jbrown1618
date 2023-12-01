@@ -83,7 +83,7 @@ Daft Punk:
 | | Thomas Bangalter | 5 | Producer, Songwriter |
 | | Guy-Manuel de Homem-Christo | 5 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | [Daft Punk](overview.md) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Edwin Birdsong | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |

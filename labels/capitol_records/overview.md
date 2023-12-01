@@ -1,13 +1,13 @@
 # Capitol Records
 
-28 songs
+27 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Capitol Records (23 tracks)
+- Capitol Records (22 tracks)
 - Capitol (3 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 
@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 7 | 5 | [Katy Perry](../../artists/katy_perry/overview.md) | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 6 | 5 | [Katy Perry](../../artists/katy_perry/overview.md) | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 2 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | 3 | 1 | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
@@ -62,7 +62,7 @@ Appears as:
 
 
 <details>
-<summary>See all 22 albums</summary>
+<summary>See all 21 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -70,7 +70,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | 1 | 1 | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | 1 | 1 | Heard It In A Past Life | 2019-01-18 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f" alt="" width="50" /> | 1 | 0 | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | 1 | 0 | Manic | 2020-01-17 | [🔗](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | 1 | 0 | Love Goes | 2020-10-30 | [🔗](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) |
@@ -82,13 +81,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 22 albums](../../images/labels/capitol_records/albums.png)
+![Bar chart of top 21 albums](../../images/labels/capitol_records/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 13 | 8 | [pop](../../genres/pop/overview.md) |
+| 12 | 8 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 2 | 2 | indie pop |
 | 5 | 1 | [lounge](../../genres/lounge/overview.md) |
@@ -205,7 +204,6 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Without Me | Manic | Halsey | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | Walking On Sunshine | Katrina & The Waves | Katrina & The Waves | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | | [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | [Katy Perry](../../artists/katy_perry/overview.md), Snoop Dogg | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | [Katy Perry](../../artists/katy_perry/overview.md) | [Capitol Records](.) | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |

@@ -14,7 +14,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 16 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 16 | 12 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 
 
 
@@ -26,9 +26,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | 3 | 2 | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 2 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | 1 | 1 | ［Dystopia : Road to Utopia］ | 2021-01-26 | [🔗](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c2e5ad74cb2c2156da791b9" alt="" width="50" /> | 1 | 1 | [VillainS] | 2023-11-22 | [🔗](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | 1 | 1 | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c2e5ad74cb2c2156da791b9" alt="" width="50" /> | 1 | 0 | [VillainS] | 2023-11-22 | [🔗](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | 1 | 0 | [REASON] | 2023-01-13 | [🔗](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735497178d3e5f7cd1f88f9be8" alt="" width="50" /> | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | 1 | 0 | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) |
@@ -39,8 +39,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 16 | 11 | [k-pop](../../genres/k_pop/overview.md) |
+| 16 | 12 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 16 | 12 | [k-pop](../../genres/k_pop/overview.md) |
 
 
 
@@ -104,7 +104,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Starlight | [Apocalypse : Save us] | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](.) | 💚 | [🔗](https://open.spotify.com/track/5i5WNh302rkoveunUdZwG2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | VISION | [Apocalypse : Follow us] | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](.) | 💚 | [🔗](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | REASON | [REASON] | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](.) | | [🔗](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c2e5ad74cb2c2156da791b9" alt="" width="50" /> | OOTD | [VillainS] | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](.) | | [🔗](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c2e5ad74cb2c2156da791b9" alt="" width="50" /> | OOTD | [VillainS] | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](.) | 💚 | [🔗](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) |
 
 </details>
 

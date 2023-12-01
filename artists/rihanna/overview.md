@@ -13,8 +13,6 @@
 ![Rank of Rihanna over time](../../images/artists/rihanna/rank_time_series.png)
 ## Top Tracks
 
-- Stay is:
-    - the #39 track of the last month
 
 ### Top tracks of the last month over time
 

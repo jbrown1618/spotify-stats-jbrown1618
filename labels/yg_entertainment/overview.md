@@ -41,11 +41,11 @@ Appears as:
 | | 1 | 1 | 최현석 | [🔗](https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe75741762dfbd9002e13aa2a" alt="" width="50" /> | 1 | 1 | BABYMONSTER | [🔗](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | 1 | 1 | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | 1 | 1 | G.Soul | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 1 | 0 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe75741762dfbd9002e13aa2a" alt="" width="50" /> | 1 | 0 | BABYMONSTER | [🔗](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
@@ -99,13 +99,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273478544f074e0f7fe79e5d07c" alt="" width="50" /> | 1 | 1 | Hello Bitches | 2015-12-05 | [🔗](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46a83ded2dad7aa4b18fc84" alt="" width="50" /> | 1 | 1 | EXIT : E | 2016-02-01 | [🔗](https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | 1 | 1 | COUP D'ETAT | 2013-09-05 | [🔗](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | 1 | 1 | BABYMONSTER Debut Digital Single [BATTER UP] | 2023-11-27 | [🔗](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | 1 | 1 | As If It's Your Last | 2017-06-22 | [🔗](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="" width="50" /> | 1 | 1 | 1,2,3,4 | 2012-10-29 | [🔗](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381b059b0093259b70170b64b" alt="" width="50" /> | 1 | 0 | THE GIRLS (BLACKPINK THE GAME OST) | 2023-08-25 | [🔗](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | 1 | 0 | PSY 7TH ALBUM | 2015-12-01 | [🔗](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354b7f414d89b0a2667bbdb15" alt="" width="50" /> | 1 | 0 | FATE NUMBER FOR | 2017-04-04 | [🔗](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f18a3b49c354f80dc4e31676" alt="" width="50" /> | 1 | 0 | DEBUT FULL ALBUM 'WELCOME BACK' | 2015-12-24 | [🔗](https://open.spotify.com/album/56d4rgrQSPY3fzbxQS260h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | 1 | 0 | BABYMONSTER Debut Digital Single [BATTER UP] | 2023-11-27 | [🔗](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | 1 | 0 | ALIVE | 2012-02-29 | [🔗](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) |
 
 </details>
@@ -149,58 +149,66 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 최용인 (Choi, Yon-gin) | 4 | Producer |
 | | Brian Lee | 4 | Songwriter, Lyricist, Producer |
+| | 최용인 (Choi, Yon-gin) | 4 | Producer |
 | | Vince | 3 | Arranger, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 3 | Songwriter, Lyricist |
-| | LØREN (LOREN) | 3 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 3 | Lyricist, Songwriter |
-| | T.O.P | 2 | Lyricist |
+| | LØREN (LOREN) | 3 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | ROSÉ | 3 | Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
 | | Choice37 | 2 | Lyricist, Arranger, Songwriter |
 | | Tablo | 2 | Lyricist, Songwriter |
 | | IDO | 2 | Arranger, Songwriter |
-| | 현석 (Hyunsuk) | 1 | Lyricist |
-| | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
-| | KUSH | 1 | Arranger, Lyricist, Songwriter |
-| | NOHC | 1 | Arranger |
-| | Brother Su | 1 | Lyricist |
-| | YONGJU BANG | 1 | Producer |
-| | Willy Moon | 1 | Lyricist, Songwriter |
-| | Max Wolfgang | 1 | Lyricist, Songwriter |
+| | 이찬혁 (Lee, Chanhyeok) | 2 | Lyricist, Songwriter |
+| | T.O.P | 2 | Lyricist |
+| | Chloe George | 1 | Lyricist |
 | | Dominsuk | 1 | Arranger, Songwriter |
+| | Teddy Sinclair | 1 | Lyricist, Songwriter |
+| | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
+| | Chaz Mishan | 1 | Arranger, Songwriter |
+| | Brother Su | 1 | Lyricist |
+| | NOHC | 1 | Arranger |
+| | Willy Moon | 1 | Lyricist, Songwriter |
+| | YONGJU BANG | 1 | Producer |
 | | Alex Oriet | 1 | Lyricist, Songwriter |
+| | WHERE THE NOISE | 1 | Lyricist |
+| | KUSH | 1 | Arranger, Lyricist, Songwriter |
+| | アサ (Asa) | 1 | Lyricist, Songwriter |
+| | BIGTONE | 1 | Lyricist |
 | | かねもと よしのり (Kanemoto Yoshinori) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | TAEYANG | 1 | Songwriter |
 | | Steph Jones | 1 | Lyricist |
 | | YG Family | 1 | Producer |
 | | Jose Balaguer | 1 | Producer |
 | | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
+| | 최현석 | 1 | Lyricist |
+| | Jon Bellion | 1 | Producer, Songwriter |
 | | David Phelan | 1 | Lyricist, Songwriter |
-| | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
-| | David Guetta | 1 | Songwriter |
-| | Bianca Atterberry | 1 | Lyricist, Songwriter |
-| | Lydia Paek | 1 | Songwriter |
-| | Chloe George | 1 | Lyricist |
+| | JONGHYUN | 1 | Lyricist, Songwriter |
 | | Paro | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | Dok2 | 1 | Lyricist |
+| | 양현석 (Yang, Hyun Suk) | 1 | Arranger, Lyricist, Songwriter |
 | | Raul Cubina | 1 | Songwriter |
 | | Amy Allen | 1 | Songwriter |
+| | Dee.P | 1 | Arranger, Songwriter |
 | | Leah Haywood | 1 | Songwriter |
-| | JONGHYUN | 1 | Lyricist, Songwriter |
+| | Bianca Atterberry | 1 | Lyricist, Songwriter |
 | | 안신애 (Wheeler, Shinae An) | 1 | Lyricist, Songwriter |
 | | Soraya LaPread | 1 | Lyricist, Songwriter |
-| | Jon Bellion | 1 | Producer, Songwriter |
+| | David Guetta | 1 | Songwriter |
 | | Ojivolta | 1 | Producer |
 | | Jorgen Odegard | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd95cf4457fac4cc62311f84f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
 | | VVN | 1 | Lyricist, Songwriter |
-| | Teddy Sinclair | 1 | Lyricist, Songwriter |
+| | 현석 (Hyunsuk) | 1 | Lyricist |
 | | Nat Dunn | 1 | Lyricist, Songwriter |
-| | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
+| | Lydia Paek | 1 | Songwriter |
 | | J. Lauryn | 1 | Songwriter |
+| | Jared Lee | 1 | Lyricist, Songwriter |
 | | 위프리키 (Wipeuriki) | 1 | Songwriter |
+| | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
+| | Max Wolfgang | 1 | Lyricist, Songwriter |
 | | Freddy Wexler | 1 | Lyricist, Songwriter |
 
 </details>
@@ -230,7 +238,7 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | BATTER UP | BABYMONSTER Debut Digital Single [BATTER UP] | BABYMONSTER | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | BATTER UP | BABYMONSTER Debut Digital Single [BATTER UP] | BABYMONSTER | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd2c0e8a5d4b0c1e227e4c7b" alt="" width="50" /> | Fantastic Baby | ALIVE | BIGBANG | [YG Entertainment](.) | | [🔗](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | BANG BANG BANG | MADE | BIGBANG | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | LET'S NOT FALL IN LOVE | MADE | BIGBANG | [YG Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) |

@@ -111,7 +111,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb747ae6e10c5cffd0087b91bf" alt="" width="50" /> | 1 | 0 | John Oliver | [🔗](https://open.spotify.com/artist/0J5AcRTl5C6aBnxCxZKpf3) |
 | | 1 | 0 | Gabriella Flores | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
 | | 1 | 0 | Paige Price | [🔗](https://open.spotify.com/artist/0GzTqQj6pGeI2iW6cA0uSR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e28a135e8a46e60bcc50ad2" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27306c7cbbc587798a01ae1b1ae" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 | | 1 | 0 | Mary Moder | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
 | | 1 | 0 | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 

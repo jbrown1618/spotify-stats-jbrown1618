@@ -7,14 +7,6 @@
 ## Artist Rank
 
 
-## Top Tracks
-
-- I Kissed A Girl is:
-    - the #28 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/katy_perry/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -29,13 +21,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | 1 | 1 | Teenage Dream: The Complete Confection | 2012-03-12 | [🔗](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | 1 | 1 | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/5c6MKfLcLB17DlJlFtVmyc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22" alt="" width="50" /> | 1 | 0 | PRISM | 2013-01-01 | [🔗](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f" alt="" width="50" /> | 1 | 0 | One Of The Boys | 2008-06-17 | [🔗](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 5 | [Capitol Records](../../labels/capitol_records/overview.md) |
+| 6 | 5 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | Capitol Records (CAP) |
 
 ## Genres
@@ -97,7 +88,6 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | [Katy Perry](overview.md) | [Capitol Records](../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | [Katy Perry](overview.md) | [Capitol Records](../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | [Katy Perry](overview.md), Snoop Dogg | [Capitol Records](../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | [Katy Perry](overview.md) | [Capitol Records](../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |

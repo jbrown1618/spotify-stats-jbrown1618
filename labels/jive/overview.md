@@ -85,7 +85,7 @@ Appears as:
 | | Andrew Coleman | 1 | Producer |
 | | Danja | 1 | Lyricist, Producer, Songwriter |
 | | Chad Hugo | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Bloodshy and Avant | 1 | Arranger, Producer |
 | | Niklas Flyckt | 1 | Producer |
 | | Jonathan Kaplan | 1 | Producer |

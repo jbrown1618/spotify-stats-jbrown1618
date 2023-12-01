@@ -14,12 +14,13 @@ SEULGI:
 ## Artist Rank
 SEULGI is currently:
 - The #33 artist of all time
+- The #49 artist of the last 6 months
 
 ![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
 ## Top Tracks
 
 - 28 Reasons is:
-    - the #29 track of the last 6 months
+    - the #37 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

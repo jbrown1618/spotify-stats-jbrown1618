@@ -115,7 +115,7 @@ Appears as:
 | | Ori Kaplan | 1 | Producer, Songwriter |
 | | Kyle Mann | 1 | Producer |
 | | Priscilla Renea | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Phil Tan | 1 | Producer |
 | | Ben Kohn | 1 | Songwriter |
 | | Ryan Tedder | 1 | Songwriter |

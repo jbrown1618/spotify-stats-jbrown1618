@@ -49,11 +49,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b2cf23c52a0963ae5feb27" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4196349398da67ae88d8f47e" alt="" width="50" /> | 1 | 1 | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba610d6b45f06d6f7d1c6ca76" alt="" width="50" /> | 1 | 1 | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | 1 | 1 | Snow | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c0400b168c47ac55370ebd8" alt="" width="50" /> | 1 | 1 | SB19 | [🔗](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8d136485c88c919e0487a4e" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb64bf05c3f1df8cd621df6220" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18c35599ebcff8786a98867a" alt="" width="50" /> | 1 | 1 | Fabrizio Moro | [🔗](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2bcb72091c46d935e195aa87" alt="" width="50" /> | 1 | 1 | tlinh | [🔗](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | 1 | 1 | Angèle | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
@@ -73,7 +73,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | 1 | 1 | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cb993cafc5d4657346fe42a" alt="" width="50" /> | 3 | 0 | OFFICIAL HIGE DANDISM | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0de22aea5aea7449b0423435" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd65f14c5c25c7d045c492f07" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb37db43b7d0bcd10e2b090521" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f3b2ac021a12b2bd5f19edd" alt="" width="50" /> | 1 | 0 | Tatsuya Kitani | [🔗](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1b54ac2809d664b9e1031e" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec0a49aeb06b8319cc6c9766" alt="" width="50" /> | 1 | 0 | Hikaru Utada | [🔗](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) |
@@ -111,8 +111,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74688dd2b4c18d27ef2ce405" alt="" width="50" /> | 1 | 0 | MAXIMUM THE HORMONE | [🔗](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | 1 | 0 | Gradur | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7" alt="" width="50" /> | 1 | 0 | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b0f1c7ebcc1202b91379648" alt="" width="50" /> | 1 | 0 | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1110b09e6951ea73e79fc55f" alt="" width="50" /> | 1 | 0 | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc42759d2d8aa1c90ddbb0ff1" alt="" width="50" /> | 1 | 0 | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb55dec5a16ce1b01f59d5bc24" alt="" width="50" /> | 1 | 0 | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f19d4df57ae760cfbab33f5" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cea05aba04cc9b7ad522fb4" alt="" width="50" /> | 1 | 0 | Crowd Lu | [🔗](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | 1 | 0 | Leehom Wang | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |

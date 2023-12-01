@@ -104,7 +104,7 @@
 | | Dr. Luke | 1 | Producer |
 | | Jerry Leiber | 1 | Songwriter |
 | | Carter Lang | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03" alt="" width="50" /> | SZA | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
 | | Burt Bacharach | 1 | Songwriter |
 | | tizhimself | 1 | Producer, Songwriter |
 | | Earl on the Beat | 1 | Producer |

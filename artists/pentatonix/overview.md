@@ -135,7 +135,7 @@ Pentatonix is currently:
 | | Alex da Kid | 1 | Songwriter |
 | | Jack Antonoff | 1 | Songwriter |
 | | Sampha | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Teddy Peña (Peña, Teddy) | 1 | Songwriter |
 | | Hugo Peretti | 1 | Songwriter |
 | | Guy Lawrence | 1 | Songwriter |

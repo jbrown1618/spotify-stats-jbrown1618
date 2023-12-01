@@ -17,11 +17,11 @@ JEON SOYEON is currently:
 ## Top Tracks
 
 - BEAM BEAM is:
-    - the #10 track of all time
+    - the #9 track of all time
 - DESSERT is:
     - the #25 track of all time
 - Weather is:
-    - the #35 track of the last month
+    - the #29 track of the last month
 
 ### Top tracks of all time over time
 

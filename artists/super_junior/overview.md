@@ -22,8 +22,6 @@ SUPER JUNIOR:
 - has member YESUNG
 
 ## Artist Rank
-SUPER JUNIOR is currently:
-- The #49 artist of all time
 
 ![Rank of SUPER JUNIOR over time](../../images/artists/super_junior/rank_time_series.png)
 ## Top Tracks

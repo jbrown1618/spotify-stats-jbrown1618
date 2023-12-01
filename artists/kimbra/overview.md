@@ -11,6 +11,10 @@
 ## Artist Rank
 
 ![Rank of Kimbra over time](../../images/artists/kimbra/rank_time_series.png)
+## Top Tracks
+
+- Limbo is:
+    - the #47 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

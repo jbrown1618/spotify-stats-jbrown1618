@@ -1,20 +1,20 @@
 # PLEDIS Entertainment
 
-25 songs
+26 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- PLEDIS Entertainment (20 tracks)
+- PLEDIS Entertainment (21 tracks)
 - PLEDIS ENTERTAINMENT (5 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 21 | 12 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 22 | 13 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 1 | 1 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1250323a2b6b2fb72c03d898" alt="" width="50" /> | 1 | 1 | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95da7df958691cf92d619bea" alt="" width="50" /> | 1 | 1 | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
@@ -29,8 +29,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 4 | 3 | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | 2023-10-23 | [🔗](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | 4 | 2 | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 3 | 2 | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | 2023-10-23 | [🔗](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | 2 | 2 | SEVENTEEN 8th Mini Album 'Your Choice' | 2021-06-18 | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | 2 | 1 | SEVENTEEN 10th Mini Album 'FML' | 2023-04-24 | [🔗](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | 2 | 1 | Heng:garæ | 2020-06-22 | [🔗](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) |
@@ -63,8 +63,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 13 | [k-pop](../../genres/k_pop/overview.md) |
-| 21 | 12 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 25 | 14 | [k-pop](../../genres/k_pop/overview.md) |
+| 22 | 13 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 0 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/pledis_entertainment/genres.png)
@@ -100,7 +100,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | Shadow | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/2rwJP8OEao5y3xexw52HfD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Dust | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Super | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Diamond Days | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/6n5M2Al3QgTScpO4AZH9OI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Back 2 Back | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/40PKBUQRjtW2pUg4zv3y7r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Diamond Days | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6n5M2Al3QgTScpO4AZH9OI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | God of Music | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Monster | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1RMnVmHGSvxlexnenQEXSb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi) | Bittersweet (feat. LeeHi) | WONWOO, MINGYU, [LeeHi](../../artists/leehi/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) |

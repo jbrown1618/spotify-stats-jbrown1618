@@ -101,7 +101,7 @@ Camila Cabello:
 | | Zubin Thakkar | 1 | Producer |
 | | Sasha Yatchenko | 1 | Songwriter |
 | | Kaan Gunesberk | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb714fad357f3aa2bb4826d1a6" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Kyle Mann | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
 | | Nicolle Galyon | 1 | Songwriter |

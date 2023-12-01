@@ -11,11 +11,11 @@ SHINee:
 - has member KEY
 - has member MINHO
 - has member ONEW
-- has member [TAEMIN](../taemin/overview.md)
+- has member TAEMIN
 
 ## Artist Rank
 SHINee is currently:
-- The #40 artist of the last 6 months
+- The #38 artist of the last 6 months
 
 ![Rank of SHINee over time](../../images/artists/shinee/rank_time_series.png)
 ## Top Tracks

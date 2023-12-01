@@ -219,8 +219,8 @@
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 73 | 47 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 65 | 43 | [ectofolk](../../genres/ectofolk/overview.md) |
-| 60 | 39 | [viral pop](../../genres/viral_pop/overview.md) |
+| 61 | 40 | [viral pop](../../genres/viral_pop/overview.md) |
+| 61 | 39 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
 | 35 | 22 | [piano rock](../../genres/piano_rock/overview.md) |

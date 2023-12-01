@@ -21,14 +21,14 @@ STAYC:
 ## Artist Rank
 STAYC is currently:
 - The #19 artist of all time
-- The #14 artist of the last 6 months
-- The #12 artist of the last month
+- The #13 artist of the last 6 months
+- The #7 artist of the last month
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
 - STEREOTYPE is:
-    - the #43 track of the last month
+    - the #34 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -59,7 +59,7 @@ AKMU is currently:
 
 | | 이찬혁 (Lee, Chanhyeok) |
 |:---|---:|
-| Lyricist | 2 |
+| Lyricist | 3 |
 | Songwriter | 2 |
 ### Production Credits
 
@@ -67,6 +67,7 @@ AKMU is currently:
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | 이찬혁 (Lee, Chanhyeok) | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Ah puh | 이찬혁 (Lee, Chanhyeok) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | BATTER UP | 이찬혁 (Lee, Chanhyeok) | Lyricist |
 
 ## Top Producers
 

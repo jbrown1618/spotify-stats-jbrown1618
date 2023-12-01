@@ -4,6 +4,17 @@
 
 ## Cluster #1
 
+5 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | Anyone | SEVENTEEN 8th Mini Album 'Your Choice' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | Ready to love | SEVENTEEN 8th Mini Album 'Your Choice' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | Darl+ing | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Dust | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Super | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) |
+## Cluster #2
+
 9 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -15,22 +26,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | Rock with you | SEVENTEEN 9th Mini Album 'Attacca' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | HOT | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | Shadow | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/2rwJP8OEao5y3xexw52HfD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Diamond Days | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/6n5M2Al3QgTScpO4AZH9OI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Diamond Days | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6n5M2Al3QgTScpO4AZH9OI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Monster | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1RMnVmHGSvxlexnenQEXSb) |
-## Cluster #2
-
-5 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | Anyone | SEVENTEEN 8th Mini Album 'Your Choice' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | Ready to love | SEVENTEEN 8th Mini Album 'Your Choice' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | Darl+ing | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Dust | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Super | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) |
 ## Cluster #3
 
-7 tracks
+8 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -40,4 +40,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | HOME;RUN | ; [Semicolon] | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | Domino | SEVENTEEN 4th Album 'Face the Sun' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/1sjObenL1HryPaQOiMDVZ9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Back 2 Back | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | | [🔗](https://open.spotify.com/track/40PKBUQRjtW2pUg4zv3y7r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | God of Music | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../overview.md) | [PLEDIS Entertainment](../../../../labels/pledis_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) |
