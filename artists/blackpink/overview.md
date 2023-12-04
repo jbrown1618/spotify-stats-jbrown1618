@@ -25,7 +25,6 @@ BLACKPINK is currently:
 ## Top Tracks
 
 - Kill This Love is:
-    - the #48 track of the last month
     - the #4 track of all time
 - Pretty Savage is:
     - the #6 track of all time
@@ -34,14 +33,13 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #14 track of all time
 - DDU-DU DDU-DU is:
-    - the #50 track of the last 6 months
     - the #36 track of all time
 - WHISTLE is:
     - the #49 track of all time
 - Pink Venom is:
-    - the #33 track of the last 6 months
-- Shut Down is:
-    - the #22 track of the last month
+    - the #32 track of the last 6 months
+- THE GIRLS - BLACKPINK THE GAME OST is:
+    - the #19 track of the last month
 
 ### Top tracks of all time over time
 

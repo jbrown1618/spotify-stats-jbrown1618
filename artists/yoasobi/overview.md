@@ -44,7 +44,7 @@ YOASOBI:
 
 ## Genres
 
-- [j-pop](../../genres/j_pop/overview.md)
+- j-pop
 - japanese teen pop
 
 ## Credits

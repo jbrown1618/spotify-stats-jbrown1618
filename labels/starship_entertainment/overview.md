@@ -1,13 +1,13 @@
 # Starship Entertainment
 
-33 songs
+34 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Starship Entertainment (23 tracks)
+- Starship Entertainment (24 tracks)
 - STARSHIP ENTERTAINMENT (6 tracks)
 - STARSHIP Entertainment (4 tracks)
 
@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 12 | 9 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 13 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 5 | 5 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 2 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
@@ -32,8 +32,8 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 5 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 3 | 2 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 2 | 1 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | 2 | 0 | INSANE LOVE | 2016-06-21 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | 1 | 1 | THE SECRET | 2016-08-17 | [🔗](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) |
@@ -74,7 +74,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 26 | 17 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 27 | 18 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 18 | 12 | [k-pop](../../genres/k_pop/overview.md) |
 | 3 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -85,15 +85,15 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 양영은 (Yang, Young-eun) | 8 | Producer |
-| | Kriz | 8 | Arranger |
-| | 정은경 (Jung, Eun-Kyung) | 7 | Producer |
-| | Alawn | 6 | Producer, Arranger |
-| | Ryan S. Jhun | 6 | Arranger, Songwriter, Lyricist |
-| | 서지음 (Seo, Ji Eum) | 4 | Lyricist |
+| | Kriz | 9 | Arranger |
+| | 양영은 (Yang, Young-eun) | 9 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 8 | Producer |
+| | Ryan S. Jhun | 7 | Arranger, Songwriter, Lyricist, Producer |
+| | Alawn | 7 | Producer, Arranger |
+| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
+| | 김민희 (Kim, Min Hee) | 4 | Producer |
 | | Sophia Brenan | 3 | Songwriter |
 | | 레이 (REI) | 3 | Lyricist |
-| | 김민희 (Kim, Min Hee) | 3 | Producer |
 | | Lauren Aquilina | 3 | Songwriter |
 
 
@@ -102,31 +102,31 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | RISC | 2 | Arranger |
 | | 가을 (GAEUL) | 2 | Lyricist |
-| | Audun Agnar | 2 | Arranger, Songwriter |
 | | Starsmith | 2 | Arranger, Songwriter |
-| | Nick Hahn | 2 | Arranger, Songwriter |
-| | Simon Bergseth | 2 | Producer |
+| | RISC | 2 | Arranger |
+| | Audun Agnar | 2 | Arranger, Songwriter |
 | | BlackSmith | 2 | Songwriter |
+| | Simon Bergseth | 2 | Producer |
+| | Nick Hahn | 2 | Arranger, Songwriter |
 | | Elle Campbell | 2 | Songwriter |
-| | Iselin Solheim | 1 | Songwriter |
-| | Eline Noelia | 1 | Songwriter |
-| | Lars Kristian Rosness | 1 | Arranger, Songwriter |
-| | Kyle Joseph Faulkner | 1 | Songwriter |
-| | Emily Harbakk | 1 | Songwriter |
 | | SOHLHEE | 1 | Lyricist |
-| | Exy | 1 | Lyricist |
-| | Markus Gustafson | 1 | Producer |
-| | Elof Loelv | 1 | Arranger, Songwriter |
-| | BIG Naughty | 1 | Lyricist |
-| | 페리 (Perrie) | 1 | Lyricist |
-| | Benjamin Pinkus | 1 | Arranger, Songwriter |
-| | 이경원 (Lee, Kyung-won) | 1 | Producer |
 | | Stally | 1 | Arranger, Songwriter |
-| | Corey Sanders | 1 | Songwriter |
+| | Kyle Joseph Faulkner | 1 | Songwriter |
+| | BIG Naughty | 1 | Lyricist |
+| | Eline Noelia | 1 | Songwriter |
+| | Hilda Stenmalm | 1 | Songwriter |
+| | Exy | 1 | Lyricist |
+| | Iselin Solheim | 1 | Songwriter |
+| | Benjamin Pinkus | 1 | Arranger, Songwriter |
+| | Markus Gustafson | 1 | Producer |
+| | Emily Harbakk | 1 | Songwriter |
+| | Elof Loelv | 1 | Arranger, Songwriter |
+| | 이경원 (Lee, Kyung-won) | 1 | Producer |
+| | 페리 (Perrie) | 1 | Lyricist |
+| | Lars Kristian Rosness | 1 | Arranger, Songwriter |
 | | Alexander Pavelich | 1 | Songwriter |
-| | Tea Carpenter | 1 | Songwriter |
+| | Corey Sanders | 1 | Songwriter |
 | | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
 | | Anders Nilsen | 1 | Arranger, Songwriter |
 | | Adriana Caldas de Barros | 1 | Songwriter |
@@ -134,15 +134,18 @@ Appears as:
 | | LOSTBOY | 1 | Arranger, Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | Avin | 1 | Arranger |
+| | Tea Carpenter | 1 | Songwriter |
 | | Andre Davidson | 1 | Songwriter |
-| | PATEKO | 1 | Arranger, Songwriter |
 | | 황현 (Hwang, Hyeon) | 1 | Lyricist |
 | | Sean Davidson | 1 | Songwriter |
+| | Bård Bonsaksen (Bonsaken, Bård) | 1 | Songwriter |
+| | Sivert Hjeltnes Hagtvet | 1 | Arranger, Songwriter |
 | | Kristin Marie | 1 | Arranger, Songwriter |
 | | Mommy Son | 1 | Lyricist |
 | | Sofiloud | 1 | Songwriter |
 | | Lauren Keen | 1 | Songwriter |
 | | Tor-Andrè Jensen Skaar (Skaar, Tor-Andrè Jensen) | 1 | Songwriter |
+| | PATEKO | 1 | Arranger, Songwriter |
 | | Slay | 1 | Arranger |
 
 </details>
@@ -174,6 +177,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Either Way | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Off The Record | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | SMOKY | MIXTAPE [ PSYCHE ] | JOOHONEY | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/2RdsTI9mfgdrNBIoShmI99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | FREEDOM | LIGHTS | JOOHONEY | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="" width="50" /> | DRAMARAMA | THE CODE | MONSTA X | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) |

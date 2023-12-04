@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-39 tracks
+38 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST | Last Melody | [EVERGLOW](../../../../artists/everglow/overview.md) | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate | Return of The Girl | [EVERGLOW](../../../../artists/everglow/overview.md) | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | Shut Up & Groove | And July | [HEIZE](../../../../artists/heize/overview.md), DEAN | [Genie Music Corporation](../..) | | [🔗](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | Chemistry (Prod. Czaer) | Street Woman Fighter2 (SWF2) Crew Songs | HYOLYN | [Genie Music Corporation](../..) | 💚 | [🔗](https://open.spotify.com/track/67apFn1yn2GNtLjNk3syQI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | Naked Gold (Prod. Czaer) | Street Woman Fighter2 (SWF2) Crew Songs | JAMIE | [Genie Music Corporation](../..) | | [🔗](https://open.spotify.com/track/33tYdpRKfx5HJR06Vu4P9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | SuperCharger | BOYS PLANET - ARTIST BATTLE | NINTYSIX | [Genie Music Corporation](../..) | | [🔗](https://open.spotify.com/track/6dh7woGX8OfRUFanTAGhp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="" width="50" /> | I Know - '92 TV Edit | Seotaiji and Boys | Seo Taiji and Boys | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f439d80abc0a1b40e7cc231" alt="" width="50" /> | BABY | Void | The Rose | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2xzCH9be8QS7WTuboq1s3n) |

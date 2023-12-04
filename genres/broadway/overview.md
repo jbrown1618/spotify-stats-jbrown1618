@@ -78,7 +78,7 @@
 | | 1 | 0 | Natalie Venetia Belcon | [🔗](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68369596eaf232b28b63d583" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737429293c200e8011f915ba44" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 | | 1 | 0 | Cynthia Onrubia | [🔗](https://open.spotify.com/artist/15dLAyVKmw26KgDnK3QEv3) |
 
 </details>

@@ -62,7 +62,7 @@ j-hope:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dfbaf11108da0b745d538c53" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | Crush, [j-hope](overview.md) | 피네이션 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfbaf11108da0b745d538c53" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | [Crush](../crush/overview.md), [j-hope](overview.md) | 피네이션 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](overview.md), Becky G | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |

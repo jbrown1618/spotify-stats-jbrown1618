@@ -30,7 +30,7 @@ Billlie is currently:
 - EUNOIA is:
     - the #18 track of the last 6 months
 - RING X RING is:
-    - the #30 track of the last 6 months
+    - the #27 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

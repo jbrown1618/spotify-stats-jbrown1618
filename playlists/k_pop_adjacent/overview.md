@@ -70,7 +70,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | 1 | 0 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb052c6638920e98337d529b7e" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b6c50f5fdfc89384b19cc68" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4dcddba215809727c04aa897" alt="" width="50" /> | 1 | 0 | Kevin MacLeod | [🔗](https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb464b6e9d7967b1ec6e5132c2" alt="" width="50" /> | 1 | 0 | A$ton Wyld | [🔗](https://open.spotify.com/artist/4MqATzsmSOuGh7de1Q4AzX) |
@@ -270,7 +270,7 @@
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | japanese teen pop |
 | 1 | 1 | japanese singer-songwriter |
-| 1 | 1 | [j-pop](../../genres/j_pop/overview.md) |
+| 1 | 1 | j-pop |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |
 | 1 | 1 | girl group |

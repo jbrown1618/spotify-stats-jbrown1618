@@ -1,13 +1,13 @@
 # Sony Music Labels Inc.
 
-18 songs
+17 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Sony Music Labels Inc. (14 tracks)
+- Sony Music Labels Inc. (13 tracks)
 - Sony Classical/Sony Music (3 tracks)
 - Sony Music/Vorsicht Musik (1 tracks)
 
@@ -28,7 +28,7 @@ Appears as:
 
 
 <details>
-<summary>See all 16 artists</summary>
+<summary>See all 15 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -36,13 +36,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7e50742261c9fea499a0f20" alt="" width="50" /> | 1 | 0 | NiziU | [🔗](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) |
 | <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc147e0888e83919d317c1103" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc983b74b84e1f258e7c89da3" alt="" width="50" /> | 1 | 0 | LiSA | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e64907de9ddcfed54079cf5" alt="" width="50" /> | 1 | 0 | Ling tosite sigure | [🔗](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) |
 
 </details>
 
 
-![Bar chart of top 16 artists](../../images/labels/sony_music_labels_inc_/artists.png)
+![Bar chart of top 15 artists](../../images/labels/sony_music_labels_inc_/artists.png)
 
 ## Top Albums
 
@@ -55,17 +54,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | 1 | 1 | A Little Bit of Mambo | 1999-07-19 | [🔗](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 1 | 0 | 青のすみか | 2023-07-07 | [🔗](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 1 | 0 | 炎 | 2020-10-12 | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 1 | 0 | 恋人じゃなくなった日 | 2023-02-14 | [🔗](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | 1 | 0 | i'mperfect | 2013-04-10 | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf76c2678bb45fa73a8b5e4e" alt="" width="50" /> | 1 | 0 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) |
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 14 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf76c2678bb45fa73a8b5e4e" alt="" width="50" /> | 1 | 0 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/2r5xgTlwEoWBSNcxXjmTVn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | 1 | 0 | PINK BLOOD | 2021-06-02 | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | 1 | 0 | Make you happy | 2020-06-30 | [🔗](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
@@ -74,26 +72,26 @@ Appears as:
 </details>
 
 
-![Bar chart of top 15 albums](../../images/labels/sony_music_labels_inc_/albums.png)
+![Bar chart of top 14 albums](../../images/labels/sony_music_labels_inc_/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 9 | 2 | [j-pop](../../genres/j_pop/overview.md) |
+| 8 | 2 | j-pop |
 | 5 | 2 | japanese singer-songwriter |
 | 4 | 2 | japanese teen pop |
 | 3 | 2 | [pop](../../genres/pop/overview.md) |
 | 3 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 3 | 2 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | latin pop |
-| 3 | 0 | [anime](../../genres/anime/overview.md) |
 | 2 | 0 | j-rock |
+| 2 | 0 | [anime](../../genres/anime/overview.md) |
 | 1 | 0 | west end |
 
 
 <details>
-<summary>See all 24 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -103,19 +101,17 @@ Appears as:
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
 | 1 | 0 | japanese electropop |
-| 1 | 0 | j-pixie |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | [early music](../../genres/early_music/overview.md) |
 | 1 | 0 | [classical](../../genres/classical/overview.md) |
 | 1 | 0 | classic j-pop |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | baroque pop |
-| 1 | 0 | anime rock |
 
 </details>
 
 
-![Bar chart of top 24 genres](../../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 22 genres](../../images/labels/sony_music_labels_inc_/genres.png)
 
 ## Top Producers
 
@@ -139,10 +135,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Ave Maria | Cappella | Josquin des Prez, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 砂の惑星 ( + 初音ミク ) | BOOTLEG | Kenshi Yonezu, Hatsune Miku | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/3aYz5EBaRTWLpsfyUIsQyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 白日 | CEREMONY | King Gnu | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 炎 | 炎 | LiSA | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | abnormalize | i'mperfect | Ling tosite sigure | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/00nmZvZRyzQiYe2tAcDDUb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](.) | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | Make you happy | Make you happy | NiziU | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
 
 
 <details>
@@ -150,7 +146,6 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf76c2678bb45fa73a8b5e4e" alt="" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 💚 | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 青のすみか | 青のすみか | Tatsuya Kitani | [Sony Music Labels Inc.](.) | | [🔗](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) |

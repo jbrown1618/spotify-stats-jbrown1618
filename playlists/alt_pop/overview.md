@@ -265,7 +265,7 @@
 
 
 <details>
-<summary>See all 57 genres</summary>
+<summary>See all 56 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -308,7 +308,6 @@
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish electropop |
 | 1 | 0 | swedish alternative rock |
-| 1 | 0 | shimmer pop |
 | 1 | 0 | new rave |
 | 1 | 0 | escape room |
 | 1 | 0 | dance-punk |

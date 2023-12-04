@@ -20,6 +20,8 @@ HWASA:
 
 - Maria is:
     - the #5 track of all time
+- I Love My Body is:
+    - the #49 track of the last month
 
 ### Top tracks of all time over time
 

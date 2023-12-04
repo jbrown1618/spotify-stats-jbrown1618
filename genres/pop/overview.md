@@ -1,6 +1,6 @@
 # pop
 
-[617 songs](tracks.md)
+[616 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 6 | 3 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 5 | 3 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 4 | 3 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
@@ -308,8 +308,8 @@
 | 2 | 2 | A Star is Born OST |
 | 4 | 1 | LaFace Records |
 | 4 | 1 | Island Records |
-| 3 | 1 | Sony Music Latin |
 | 2 | 1 | [WM Japan](../../labels/wm_japan/overview.md) |
+| 2 | 1 | Sony Music Latin |
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 2 | 1 | A&M |
 | 1 | 1 | Universal Music New Zealand Limited |

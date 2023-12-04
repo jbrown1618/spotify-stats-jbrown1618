@@ -2,7 +2,7 @@
 # ATEEZ
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb134a2464cf4049ea792356f3" alt="ATEEZ" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebe9dd6110fc47f859a9bbd2d2" alt="ATEEZ" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -22,8 +22,8 @@ ATEEZ:
 
 ## Artist Rank
 ATEEZ is currently:
-- The #31 artist of all time
-- The #47 artist of the last 6 months
+- The #32 artist of all time
+- The #45 artist of the last 6 months
 
 ![Rank of ATEEZ over time](../../images/artists/ateez/rank_time_series.png)
 ## Top Tracks

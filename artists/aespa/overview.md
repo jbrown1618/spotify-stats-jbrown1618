@@ -18,7 +18,7 @@ aespa:
 
 ## Artist Rank
 aespa is currently:
-- The #8 artist of all time
+- The #7 artist of all time
 - The #2 artist of the last 6 months
 - The #1 artist of the last month
 
@@ -26,41 +26,45 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #3 track of the last 6 months
+    - the #4 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #29 track of the last 6 months
+    - the #28 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
-    - the #21 track of all time
+    - the #22 track of all time
 - Illusion is:
-    - the #6 track of the last 6 months
+    - the #7 track of the last 6 months
     - the #46 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
 - Spicy is:
-    - the #2 track of the last 6 months
+    - the #3 track of the last 6 months
 - Trick or Trick is:
     - the #1 track of the last month
-    - the #12 track of the last 6 months
+    - the #9 track of the last 6 months
 - Thirsty is:
-    - the #16 track of the last 6 months
+    - the #15 track of the last 6 months
 - Hold On Tight is:
-    - the #31 track of the last 6 months
+    - the #29 track of the last 6 months
+- Better Things is:
+    - the #9 track of the last month
+    - the #33 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #35 track of the last 6 months
+    - the #34 track of the last 6 months
 - Drama is:
-    - the #3 track of the last month
+    - the #2 track of the last month
+    - the #42 track of the last 6 months
 - YOLO is:
     - the #4 track of the last month
 - Don't Blink is:
     - the #5 track of the last month
-- Jingle Bell Rock is:
-    - the #6 track of the last month
 - Hot Air Balloon is:
-    - the #15 track of the last month
+    - the #6 track of the last month
+- Jingle Bell Rock is:
+    - the #17 track of the last month
 - You is:
-    - the #43 track of the last month
+    - the #22 track of the last month
 
 ### Top tracks of all time over time
 

@@ -131,7 +131,7 @@ Appears as:
 | 20 | 9 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 9 | 5 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 4 | 3 | k-indie |
-| 4 | 3 | [j-pop](../../genres/j_pop/overview.md) |
+| 4 | 3 | j-pop |
 | 4 | 3 | deep indie singer-songwriter |
 | 3 | 2 | korean city pop |
 | 3 | 2 | japanese teen pop |

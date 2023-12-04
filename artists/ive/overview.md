@@ -21,7 +21,7 @@ IVE:
 ## Artist Rank
 IVE is currently:
 - The #18 artist of all time
-- The #12 artist of the last 6 months
+- The #15 artist of the last 6 months
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
@@ -37,9 +37,9 @@ IVE is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 10 | [K-Pop](../../playlists/k_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b2739d82134e7954987dddfdcaabab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 11 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c2fcea217112b13312f8fb2ab67616d0000b2735babc6b49ac8a93fc5fc464aab67616d0000b2739d82134e7954987dddfdcaabab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 3 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
@@ -50,8 +50,8 @@ IVE is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 5 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 3 | 2 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 2 | 1 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | 1 | 1 | After LIKE | 2022-08-22 | [🔗](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | 1 | 0 | Spotify Singles - Holiday | 2022-11-16 | [🔗](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) |
@@ -60,7 +60,7 @@ IVE is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 12 | 9 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
+| 13 | 10 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 
 ## Genres
 
@@ -72,14 +72,14 @@ IVE is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Performer | 9 |
+| Performer | 10 |
 
 ### Member Credits
 
 | | LIZ (IVE) | 가을 (GAEUL) | 레이 (REI) | 안유진 (An, Yu-jin) | 이서 (LEESEO) | 장원영 (Jang, Won-young) |
 |:---|---:|---:|---:|---:|---:|---:|
 | Lyricist | 0 | 2 | 3 | 0 | 0 | 0 |
-| Vocal | 10 | 9 | 9 | 9 | 9 | 9 |
+| Vocal | 11 | 10 | 10 | 10 | 10 | 10 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
@@ -92,15 +92,15 @@ IVE is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 양영은 (Yang, Young-eun) | 8 | Producer |
-| | Kriz | 8 | Arranger |
-| | 정은경 (Jung, Eun-Kyung) | 7 | Producer |
-| | Alawn | 6 | Producer, Arranger |
-| | Ryan S. Jhun | 6 | Arranger, Songwriter, Lyricist |
-| | 서지음 (Seo, Ji Eum) | 4 | Lyricist |
+| | Kriz | 9 | Arranger |
+| | 양영은 (Yang, Young-eun) | 9 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 8 | Producer |
+| | Ryan S. Jhun | 7 | Arranger, Songwriter, Lyricist, Producer |
+| | Alawn | 7 | Producer, Arranger |
+| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
+| | 김민희 (Kim, Min Hee) | 4 | Producer |
 | | Sophia Brenan | 3 | Songwriter |
 | | 레이 (REI) | 3 | Lyricist |
-| | 김민희 (Kim, Min Hee) | 3 | Producer |
 | | Lauren Aquilina | 3 | Songwriter |
 
 
@@ -109,31 +109,31 @@ IVE is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | RISC | 2 | Arranger |
 | | 가을 (GAEUL) | 2 | Lyricist |
-| | Audun Agnar | 2 | Arranger, Songwriter |
 | | Starsmith | 2 | Arranger, Songwriter |
-| | Nick Hahn | 2 | Arranger, Songwriter |
-| | Simon Bergseth | 2 | Producer |
+| | RISC | 2 | Arranger |
+| | Audun Agnar | 2 | Arranger, Songwriter |
 | | BlackSmith | 2 | Songwriter |
+| | Simon Bergseth | 2 | Producer |
+| | Nick Hahn | 2 | Arranger, Songwriter |
 | | Elle Campbell | 2 | Songwriter |
-| | Iselin Solheim | 1 | Songwriter |
-| | Eline Noelia | 1 | Songwriter |
-| | Lars Kristian Rosness | 1 | Arranger, Songwriter |
-| | Kyle Joseph Faulkner | 1 | Songwriter |
-| | Emily Harbakk | 1 | Songwriter |
 | | SOHLHEE | 1 | Lyricist |
-| | Exy | 1 | Lyricist |
-| | Markus Gustafson | 1 | Producer |
-| | Elof Loelv | 1 | Arranger, Songwriter |
-| | BIG Naughty | 1 | Lyricist |
-| | 페리 (Perrie) | 1 | Lyricist |
-| | Benjamin Pinkus | 1 | Arranger, Songwriter |
-| | 이경원 (Lee, Kyung-won) | 1 | Producer |
 | | Stally | 1 | Arranger, Songwriter |
-| | Corey Sanders | 1 | Songwriter |
+| | Kyle Joseph Faulkner | 1 | Songwriter |
+| | BIG Naughty | 1 | Lyricist |
+| | Eline Noelia | 1 | Songwriter |
+| | Hilda Stenmalm | 1 | Songwriter |
+| | Exy | 1 | Lyricist |
+| | Iselin Solheim | 1 | Songwriter |
+| | Benjamin Pinkus | 1 | Arranger, Songwriter |
+| | Markus Gustafson | 1 | Producer |
+| | Emily Harbakk | 1 | Songwriter |
+| | Elof Loelv | 1 | Arranger, Songwriter |
+| | 이경원 (Lee, Kyung-won) | 1 | Producer |
+| | 페리 (Perrie) | 1 | Lyricist |
+| | Lars Kristian Rosness | 1 | Arranger, Songwriter |
 | | Alexander Pavelich | 1 | Songwriter |
-| | Tea Carpenter | 1 | Songwriter |
+| | Corey Sanders | 1 | Songwriter |
 | | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
 | | Anders Nilsen | 1 | Arranger, Songwriter |
 | | Adriana Caldas de Barros | 1 | Songwriter |
@@ -141,15 +141,18 @@ IVE is currently:
 | | LOSTBOY | 1 | Arranger, Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | Avin | 1 | Arranger |
+| | Tea Carpenter | 1 | Songwriter |
 | | Andre Davidson | 1 | Songwriter |
-| | PATEKO | 1 | Arranger, Songwriter |
 | | 황현 (Hwang, Hyeon) | 1 | Lyricist |
 | | Sean Davidson | 1 | Songwriter |
+| | Bård Bonsaksen (Bonsaken, Bård) | 1 | Songwriter |
+| | Sivert Hjeltnes Hagtvet | 1 | Arranger, Songwriter |
 | | Kristin Marie | 1 | Arranger, Songwriter |
 | | Mommy Son | 1 | Lyricist |
 | | Sofiloud | 1 | Songwriter |
 | | Lauren Keen | 1 | Songwriter |
 | | Tor-Andrè Jensen Skaar (Skaar, Tor-Andrè Jensen) | 1 | Songwriter |
+| | PATEKO | 1 | Arranger, Songwriter |
 | | Slay | 1 | Arranger |
 
 </details>
@@ -179,6 +182,7 @@ IVE is currently:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Either Way | I'VE MINE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | | [🔗](https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Off The Record | I'VE MINE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa) |
 
 </details>
 

@@ -25,7 +25,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8162ce227fb3f8159822aab0" alt="" width="50" /> | 2 | 2 | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8997aa3a0038f3deafd5706" alt="" width="50" /> | 2 | 2 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbb7a9cbcad2eabbfbcb9522" alt="" width="50" /> | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbbca2e91d07d2c53e6610570" alt="" width="50" /> | 1 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6807bb7c7282b00fc618d598" alt="" width="50" /> | 1 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 
 
 <details>

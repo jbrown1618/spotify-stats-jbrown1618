@@ -19,18 +19,19 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #3 artist of all time
-- The #6 artist of the last 6 months
-- The #9 artist of the last month
+- The #4 artist of all time
+- The #7 artist of the last 6 months
+- The #6 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #7 track of the last 6 months
-    - the #28 track of all time
+    - the #23 track of the last month
+    - the #2 track of the last 6 months
+    - the #18 track of all time
 - CAKE is:
-    - the #10 track of the last month
+    - the #20 track of the last month
     - the #40 track of the last 6 months
 
 ### Top tracks of all time over time

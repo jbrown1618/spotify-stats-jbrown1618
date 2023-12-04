@@ -4,34 +4,23 @@
 
 ## Cluster #1
 
-5 tracks
+30 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](../..) | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](../..), [Legacy](../../../legacy) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](../..), [Legacy](../../../legacy) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](../..), [Legacy](../../../legacy) | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 | At Folsom Prison | Johnny Cash | [Columbia](../..), [Legacy](../../../legacy) | | [🔗](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | I AM...SASHA FIERCE | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Music World Music/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | I'd Rather Go Blind | Music From The Motion Picture Cadillac Records | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Music World Music/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had | 4 | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](../..) | | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | The River of Dreams | River Of Dreams | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | This Is What You Came For | Calvin Harris, [Rihanna](../../../../artists/rihanna/overview.md) | [Columbia](../..) | | [🔗](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859" alt="" width="50" /> | Sign of the Times | Harry Styles | Harry Styles | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach | Preach | John Legend | [Columbia](../..) | | [🔗](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="" width="50" /> | All I Want for Christmas Is You | Merry Christmas | Mariah Carey | [Columbia](../..) | | [🔗](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389ccaf21947f7929189654dc" alt="" width="50" /> | Not Ready to Make Nice | Taking The Long Way | The Chicks | [Open Wide/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | Sweater Weather | I Love You. | The Neighbourhood | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) |
 ## Cluster #2
 
-59 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | Oh My God | 30 | Adele | [Columbia](../..) | | [🔗](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../../../artists/beyonc_/overview.md), JAY-Z | [Columbia](../..) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Music World Music/Columbia](../..) | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Only the Good Die Young | The Stranger | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/2xabqm0YNQCTcPteQjJ22K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | Big Shot | 52nd Street | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | | [🔗](https://open.spotify.com/track/22wxe2Yc9JzihICXYLGAQ7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | The Longest Time | An Innocent Man | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](../..) | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Adore You | Fine Line | Harry Styles | [Columbia](../..) | | [🔗](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Green Light (feat. André 3000) | Evolver | John Legend, André 3000 | [G.O.O.D. Music/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/72by3Re4C3eVEBXvsUo0zV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | Flowers | Miley Cyrus | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) |
-## Cluster #3
-
-31 tracks
+30 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -41,7 +30,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | That Wasn't Me | Bear Creek | Brandi Carlile | [Columbia](../..) | | [🔗](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Take Me to Church | Hozier (Expanded Edition) | Hozier | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Work Song | Hozier (Expanded Edition) | Hozier | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="" width="50" /> | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend, Kelly Clarkson | [Columbia](../..) | | [🔗](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | All of Me | Love In The Future (Expanded Edition) | John Legend | [G.O.O.D. Music/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Wednesday Morning, 3 A.M. | [Simon & Garfunkel](../../../../artists/simon___garfunkel/overview.md) | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Landslide | Home | The Chicks | [Open Wide/Monument/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | Travelin' Soldier | Home | The Chicks | [Open Wide/Monument/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) |
+## Cluster #3
+
+34 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Music World Music/Columbia](../..) | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](../../../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Only the Good Die Young | The Stranger | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/2xabqm0YNQCTcPteQjJ22K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | Big Shot | 52nd Street | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | | [🔗](https://open.spotify.com/track/22wxe2Yc9JzihICXYLGAQ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | My Life | 52nd Street | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Don't Ask Me Why | Glass Houses | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | | [🔗](https://open.spotify.com/track/6g4vHtdGqD5eEgpf7nKISk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | The Bridge | [Billy Joel](../../../../artists/billy_joel/overview.md) | [Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | JA ARA E | The Lion King: The Gift | Burna Boy | [Parkwood Entertainment/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../../../../artists/jason_derulo/overview.md), [BTS](../../../../artists/bts/overview.md) | [Columbia](../..) | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="" width="50" /> | Green Light (feat. André 3000) | Evolver | John Legend, André 3000 | [G.O.O.D. Music/Columbia](../..) | 💚 | [🔗](https://open.spotify.com/track/72by3Re4C3eVEBXvsUo0zV) |

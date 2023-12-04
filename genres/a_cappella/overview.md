@@ -47,7 +47,7 @@
 | | 1 | 0 | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4c275a91813c432ce13b5fbc" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | 1 | 0 | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb79df49f258dae5247ad5d5cb" alt="" width="50" /> | 1 | 0 | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb381a32f450b916405246fdf9" alt="" width="50" /> | 1 | 0 | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
 
 </details>
 

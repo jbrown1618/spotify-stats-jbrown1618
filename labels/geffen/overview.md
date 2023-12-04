@@ -22,7 +22,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
-| <img src="https://i.scdn.co/image/1dcd3f5d64a65f19d085b8e78746e457bd2d2e05" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 

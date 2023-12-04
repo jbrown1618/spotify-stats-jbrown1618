@@ -23,7 +23,7 @@ Stray Kids:
 
 ## Artist Rank
 Stray Kids is currently:
-- The #7 artist of all time
+- The #8 artist of all time
 - The #4 artist of the last 6 months
 - The #3 artist of the last month
 
@@ -31,18 +31,18 @@ Stray Kids is currently:
 ## Top Tracks
 
 - Thunderous is:
-    - the #11 track of the last 6 months
+    - the #12 track of the last 6 months
     - the #43 track of all time
 - Back Door is:
-    - the #36 track of the last 6 months
-- Social Path (Feat. LiSA) (Korean Ver.) is:
-    - the #18 track of the last month
-- S-Class is:
-    - the #40 track of the last month
-- VENOM is:
-    - the #42 track of the last month
+    - the #35 track of the last 6 months
 - MEGAVERSE is:
-    - the #44 track of the last month
+    - the #18 track of the last month
+- Social Path (Feat. LiSA) (Korean Ver.) is:
+    - the #28 track of the last month
+- LALALALA is:
+    - the #31 track of the last month
+- Winter Falls is:
+    - the #40 track of the last month
 
 ### Top tracks of all time over time
 

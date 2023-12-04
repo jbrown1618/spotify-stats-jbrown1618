@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[118 tracks (60 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[115 tracks (60 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -17,8 +17,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36" alt="" width="50" /> | 7 | 5 | [YOASOBI](../../artists/yoasobi/overview.md) | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | 3 | 3 | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 5 | 2 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 5 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | 4 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | 2 | 2 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | 2 | 2 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | 1 | 1 | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32d584288871ebb0f90e1866" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbe8b6591753659ca595c73c6" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe7b7fa8d03a2e3b6a800bdb4" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e8ef2d28b9487d7af47d75" alt="" width="50" /> | 1 | 1 | 2pillz | [🔗](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba2709389daa8da217aa9390f" alt="" width="50" /> | 1 | 1 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | 1 | 1 | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
@@ -85,7 +85,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb440dcf184453a1450b63b257" alt="" width="50" /> | 1 | 0 | Jimbo J | [🔗](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb182c574eaa4ca25386730d82" alt="" width="50" /> | 1 | 0 | WARPs UP | [🔗](https://open.spotify.com/artist/6ZhCKGX2nkK7s8vdUvaocx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 1 | 0 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | 1 | 0 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9e1d7fb3af9f51efddfbeb" alt="" width="50" /> | 1 | 0 | Käärijä | [🔗](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7b791269f85b4faaf2be90a" alt="" width="50" /> | 1 | 0 | THE TOYS | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
@@ -95,7 +94,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcab7641233163bb5d6c5d527" alt="" width="50" /> | 1 | 0 | Master KG | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb179aad93276b141b9848ca1" alt="" width="50" /> | 1 | 0 | Angela Chang | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | 1 | 0 | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ad50e478a469448c6f369df" alt="" width="50" /> | 1 | 0 | Bad Bunny | [🔗](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb861ddcb8844c1290595a3c78" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4584e515db2e33c8b920d" alt="" width="50" /> | 1 | 0 | Nkosazana Daughter | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
@@ -111,15 +109,17 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74688dd2b4c18d27ef2ce405" alt="" width="50" /> | 1 | 0 | MAXIMUM THE HORMONE | [🔗](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | 1 | 0 | Gradur | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7" alt="" width="50" /> | 1 | 0 | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc42759d2d8aa1c90ddbb0ff1" alt="" width="50" /> | 1 | 0 | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92fe66324c095393a9362225" alt="" width="50" /> | 1 | 0 | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55dec5a16ce1b01f59d5bc24" alt="" width="50" /> | 1 | 0 | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f19d4df57ae760cfbab33f5" alt="" width="50" /> | 1 | 0 | Anuel AA | [🔗](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7cea05aba04cc9b7ad522fb4" alt="" width="50" /> | 1 | 0 | Crowd Lu | [🔗](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44cc73a57e7a317ee89158d4" alt="" width="50" /> | 1 | 0 | Leehom Wang | [🔗](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e" alt="" width="50" /> | 1 | 0 | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc147e0888e83919d317c1103" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39e39ba2b3216cda7146afa5" alt="" width="50" /> | 1 | 0 | Maluma | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | 1 | 0 | Christine Fan | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9047f938310ea16b68a5bdeb" alt="" width="50" /> | 1 | 0 | Rauw Alejandro | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="" width="50" /> | 1 | 0 | Las Ketchup | [🔗](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd2c540efb76ea47414f376af" alt="" width="50" /> | 1 | 0 | TFBOYS | [🔗](https://open.spotify.com/artist/1dywcVTpMrP7VmQUhngSce) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6be69d4a6cea90132c24de23" alt="" width="50" /> | 1 | 0 | Full Trunk | [🔗](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) |
 
 </details>
 
@@ -199,7 +199,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 1 | 0 | 青春修炼手册 | 2017-01-01 | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 1 | 0 | 青のすみか | 2023-07-07 | [🔗](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7ba5d5ba7ea0f853ba37f24" alt="" width="50" /> | 1 | 0 | 翼はいらない<Type A>(通常盤) | 2016-06-01 | [🔗](https://open.spotify.com/album/5fTeBDOk2HaA6MwHSspPIx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 1 | 0 | 炎 | 2020-10-12 | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="" width="50" /> | 1 | 0 | 次の足跡 Type A <初回限定盤> | 2014-01-22 | [🔗](https://open.spotify.com/album/4Mz79lV4qxaywmthkarIf7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="" width="50" /> | 1 | 0 | 改變自己 | 2007-07-13 | [🔗](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 1 | 0 | 恋人じゃなくなった日 | 2023-02-14 | [🔗](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) |
@@ -217,7 +216,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | 1 | 0 | i'mperfect | 2013-04-10 | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273300b57abda9f4ce18cd95927" alt="" width="50" /> | 1 | 0 | Why Do I (with Hatsune Miku) | 2022-10-21 | [🔗](https://open.spotify.com/album/2HT2HYRf4LC7CZ4OcBHunz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="" width="50" /> | 1 | 0 | Vintage | 2020-03-19 | [🔗](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | 1 | 0 | UN DIA (ONE DAY) (Feat. Tainy) | 2020-07-24 | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | 1 | 0 | Traveler | 2019-08-31 | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | 1 | 0 | Te Felicito | 2022-04-21 | [🔗](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | 1 | 0 | Sofa Silahlane | 2022-05-13 | [🔗](https://open.spotify.com/album/03FGhGM3Lv2TmbUdpoPPip) |
@@ -229,7 +227,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | 1 | 0 | Ne reviens pas | 2019-11-21 | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | 1 | 0 | Miku | 2016-05-24 | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | 1 | 0 | Memories | 2021-12-08 | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e71aaa885c4df5f0a92eab12" alt="" width="50" /> | 1 | 0 | Me Gusta | 2020-01-13 | [🔗](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | 1 | 0 | Lykke te | 2022-05-27 | [🔗](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | 1 | 0 | Look At Me | 2022-03-21 | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="" width="50" /> | 1 | 0 | LOVE ALL SERVE ALL | 2022-03-23 | [🔗](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) |
@@ -239,6 +236,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | 1 | 0 | Habit | 2022-04-28 | [🔗](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | 1 | 0 | Fijación Oral, Vol. 1 | 2005-06-03 | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="" width="50" /> | 1 | 0 | Evils Theater | 2009-06-17 | [🔗](https://open.spotify.com/album/1UkodLwja64ZFXbehIWnEN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | 1 | 0 | Doobey (From "Gehraiyaan") | 2022-01-24 | [🔗](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387" alt="" width="50" /> | 1 | 0 | Cha Cha Cha | 2023-01-17 | [🔗](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
 
 </details>
 
@@ -253,16 +253,16 @@
 | 8 | 5 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 7 | 5 | YOASOBI |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
-| 10 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
-| 5 | 2 | Sony Music Latin |
+| 9 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 5 | 2 | Sony Music Entertainment |
+| 4 | 2 | Sony Music Latin |
 | 2 | 2 | TOY'S FACTORY |
 | 2 | 2 | Samlist |
 | 2 | 2 | Parlophone Denmark |
 
 
 <details>
-<summary>See all 75 labels</summary>
+<summary>See all 73 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -309,7 +309,6 @@
 | 1 | 0 | WM Finland |
 | 1 | 0 | Valley Records |
 | 1 | 0 | VAP |
-| 1 | 0 | Universal Music Latino |
 | 1 | 0 | Trinity Optima Production |
 | 1 | 0 | Team Ear Music |
 | 1 | 0 | Sony Music Entertainment Indonesia |
@@ -321,7 +320,6 @@
 | 1 | 0 | Polyvinyl Records |
 | 1 | 0 | PONY CANYON INC. |
 | 1 | 0 | NaNa Disc |
-| 1 | 0 | NEON16 |
 | 1 | 0 | Mobile1 Music |
 | 1 | 0 | KarenT |
 | 1 | 0 | Homeboy music |
@@ -341,16 +339,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 28 | 11 | [j-pop](../../genres/j_pop/overview.md) |
+| 27 | 11 | j-pop |
 | 15 | 9 | japanese teen pop |
 | 9 | 6 | j-metal |
 | 8 | 6 | kawaii metal |
 | 8 | 6 | idol rock |
-| 9 | 4 | latin pop |
+| 8 | 4 | latin pop |
 | 5 | 4 | japanese electropop |
-| 6 | 3 | [pop](../../genres/pop/overview.md) |
 | 6 | 3 | japanese singer-songwriter |
 | 6 | 3 | indonesian pop |
+| 5 | 3 | [pop](../../genres/pop/overview.md) |
 
 
 <details>
@@ -361,15 +359,15 @@
 | 3 | 3 | sunnlensk tonlist |
 | 3 | 3 | latin viral pop |
 | 3 | 3 | icelandic pop |
-| 6 | 2 | anime rock |
-| 5 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
-| 5 | 2 | colombian pop |
-| 4 | 2 | urbano latino |
-| 4 | 2 | trap latino |
-| 4 | 2 | reggaeton |
+| 5 | 2 | anime rock |
 | 4 | 2 | j-pop girl group |
 | 4 | 2 | j-idol |
 | 4 | 2 | israeli pop |
+| 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
+| 4 | 2 | colombian pop |
+| 3 | 2 | urbano latino |
+| 3 | 2 | trap latino |
+| 3 | 2 | reggaeton |
 | 3 | 2 | bitpop |
 | 2 | 2 | v-pop |
 | 2 | 2 | shibuya-kei |
@@ -415,11 +413,10 @@
 | 1 | 1 | azontobeats |
 | 1 | 1 | alt z |
 | 1 | 1 | afrobeats |
-| 7 | 0 | [anime](../../genres/anime/overview.md) |
+| 6 | 0 | [anime](../../genres/anime/overview.md) |
 | 3 | 0 | taiwan singer-songwriter |
 | 3 | 0 | j-rock |
 | 2 | 0 | taiwan pop |
-| 2 | 0 | reggaeton colombiano |
 | 2 | 0 | japanese emo |
 | 2 | 0 | israeli mediterranean |
 | 2 | 0 | french hip hop |
@@ -429,6 +426,7 @@
 | 1 | 0 | vocaloid |
 | 1 | 0 | thai pop |
 | 1 | 0 | taiwan indie |
+| 1 | 0 | reggaeton colombiano |
 | 1 | 0 | rap francais |
 | 1 | 0 | rap algerien |
 | 1 | 0 | pov: indie |
@@ -443,11 +441,11 @@
 | 1 | 0 | japanese post-hardcore |
 | 1 | 0 | japanese metalcore |
 | 1 | 0 | japanese math rock |
-| 1 | 0 | j-pixie |
 | 1 | 0 | israeli rock |
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
 | 1 | 0 | finnish pop |
+| 1 | 0 | eurobeat |
 
 </details>
 
@@ -548,7 +546,7 @@
 | 2023 | 11 |
 | [2022](2022.md) | 21 |
 | 2021 | 10 |
-| 2020 | 14 |
+| 2020 | 11 |
 | 2019 | 15 |
 | 2018 | 12 |
 | 2017 | 5 |
@@ -575,8 +573,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75971bdd0f5c34b86a152b4" alt="ái" width="50" /> | ái (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> | 海嘯 (2001-05-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="GENTO" width="50" /> | GENTO (2023-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | Hijas del Tomate (2002) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (2023-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | 弐 (2023-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (2023-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | 弐 (2023-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="セブンティーン" width="50" /> | セブンティーン (2023-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 (2023-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | Bu-ikikaesu (2007-03-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> | fábula (2023-01-23) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |

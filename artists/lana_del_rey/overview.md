@@ -9,8 +9,6 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-Lana Del Rey is currently:
-- The #40 artist of the last 6 months
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
 ## Top Tracks

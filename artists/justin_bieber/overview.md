@@ -9,8 +9,6 @@
 
 ## Top Tracks
 
-- Off My Face is:
-    - the #38 track of the last month
 
 ### Top tracks of the last month over time
 

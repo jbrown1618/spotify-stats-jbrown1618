@@ -1,6 +1,6 @@
 # anime
 
-[44 songs](tracks.md)
+[43 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -19,9 +19,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="" width="50" /> | 1 | 0 | The Cast of Baby Shark's Big Movie | [🔗](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb82c3ba21822db2c7cb5e5ba7" alt="" width="50" /> | 1 | 0 | Bella Poarch | [🔗](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc147e0888e83919d317c1103" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc983b74b84e1f258e7c89da3" alt="" width="50" /> | 1 | 0 | LiSA | [🔗](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) |
 
-![Bar chart of top 10 artists](../../images/genres/anime/artists.png)
+![Bar chart of top 9 artists](../../images/genres/anime/artists.png)
 
 ![Comparison of Artist](../../images/genres/anime/artists_comparison.png)
 ## Top Albums
@@ -41,13 +40,12 @@
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | 1 | 1 | CRIMINAL LOVE | 2023-07-31 | [🔗](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | 1 | 1 | Always | 2022-02-21 | [🔗](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="" width="50" /> | 1 | 0 | 炎 | 2020-10-12 | [🔗](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | 1 | 0 | Traveler | 2019-08-31 | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | 1 | 0 | PINK BLOOD | 2021-06-02 | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="" width="50" /> | 1 | 0 | Keep Swimmin' Through | 2023-11-03 | [🔗](https://open.spotify.com/album/3DuL4EFBmwfcEle2TTQNY2) |
@@ -60,7 +58,7 @@
 </details>
 
 
-![Bar chart of top 21 albums](../../images/genres/anime/albums.png)
+![Bar chart of top 20 albums](../../images/genres/anime/albums.png)
 
 ## Top Record Labels
 
@@ -68,7 +66,7 @@
 |---:|---:|:---|
 | 31 | 26 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 3 | 2 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 3 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
+| 2 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 2 | 0 | IRORI Records |
 | 2 | 0 | ICONIX CO. |
 | 1 | 0 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -84,13 +82,13 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="BOOTLEG" width="50" /> | BOOTLEG (2017-11-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="Keep Swimmin&#x27; Through" width="50" /> | Keep Swimmin' Through (2023-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Traveler (2019-08-31) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094" alt="炎" width="50" /> | 炎 (2020-10-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="One and Only" width="50" /> | One and Only (2023-07-11) | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="BORDER : DAY ONE" width="50" /> | BORDER : DAY ONE (2020-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="BORDER : CARNIVAL" width="50" /> | BORDER : CARNIVAL (2021-04-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="One In A Billion" width="50" /> | One In A Billion (2022-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="PINK BLOOD" width="50" /> | PINK BLOOD (2021-06-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="I Need The Light" width="50" /> | I Need The Light (2022-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b2732ce067b763f6a4938cb8a501" alt="HEY TAYO" width="50" /> | HEY TAYO (2021-07-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | MANIFESTO : DAY 1 (2022-07-04) | <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="BILLY POCO" width="50" /> | BILLY POCO (2021-08-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (2022-04-28) | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Editorial (2021-08-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="Always" width="50" /> | Always (2022-02-21) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | DIMENSION : DILEMMA (2021-10-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | CRIMINAL LOVE (2023-07-31) | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="BORDER : DAY ONE" width="50" /> | BORDER : DAY ONE (2020-11-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="One and Only" width="50" /> | One and Only (2023-07-11) | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="BORDER : CARNIVAL" width="50" /> | BORDER : CARNIVAL (2021-04-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="PINK BLOOD" width="50" /> | PINK BLOOD (2021-06-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="One In A Billion" width="50" /> | One In A Billion (2022-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b2732ce067b763f6a4938cb8a501" alt="HEY TAYO" width="50" /> | HEY TAYO (2021-07-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="I Need The Light" width="50" /> | I Need The Light (2022-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="BILLY POCO" width="50" /> | BILLY POCO (2021-08-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | MANIFESTO : DAY 1 (2022-07-04) | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Editorial (2021-08-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (2022-04-28) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | DIMENSION : DILEMMA (2021-10-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="Always" width="50" /> | Always (2022-02-21) | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | DIMENSION : ANSWER (2022-01-10) |
 
 ![Bar chart of number of songs by year](../../images/genres/anime/years.png)

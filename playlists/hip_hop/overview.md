@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f9eab124df9f1ff148ebfe5" alt="" width="50" /> | 1 | 0 | Jhené Aiko | [🔗](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4710a4c927b222cfa785257" alt="" width="50" /> | 1 | 0 | Estelle | [🔗](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4" alt="" width="50" /> | 1 | 0 | Lil Wayne | [🔗](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb052c6638920e98337d529b7e" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b6c50f5fdfc89384b19cc68" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 1 | 0 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb972a4e990fb36451db2f40f2" alt="" width="50" /> | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85b6cbf01747c44e145c5a20" alt="" width="50" /> | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7" alt="" width="50" /> | 1 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7cca32a58a9bb263fb5c4a" alt="" width="50" /> | 1 | 0 | Trey Songz | [🔗](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb" alt="" width="50" /> | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
 
 </details>
@@ -202,8 +202,8 @@
 | 24 | 10 | hip hop |
 | 9 | 8 | [pop](../../genres/pop/overview.md) |
 | 7 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
-| 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
+| 14 | 3 | pop rap |
 | 8 | 3 | conscious hip hop |
 | 6 | 3 | atl hip hop |
 | 6 | 2 | trap |

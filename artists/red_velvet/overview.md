@@ -33,32 +33,30 @@ Red Velvet is currently:
 - 러시안 룰렛 Russian Roulette is:
     - the #12 track of all time
 - Dumb Dumb is:
-    - the #22 track of all time
+    - the #23 track of all time
 - Ice Cream Cake is:
     - the #32 track of all time
 - RBB (Really Bad Boy) is:
     - the #38 track of all time
 - Sunny Side Up! is:
-    - the #27 track of the last 6 months
+    - the #25 track of the last 6 months
 - Feel My Rhythm is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 - Chill Kill is:
-    - the #2 track of the last month
+    - the #3 track of the last month
 - One Kiss is:
-    - the #13 track of the last month
+    - the #10 track of the last month
 - Nightmare is:
-    - the #14 track of the last month
+    - the #11 track of the last month
 - Knock Knock (Who's There?) is:
-    - the #16 track of the last month
-- Wings is:
-    - the #17 track of the last month
-- Will I Ever See You Again? is:
-    - the #19 track of the last month
+    - the #12 track of the last month
 - Bulldozer is:
-    - the #20 track of the last month
+    - the #14 track of the last month
+- Wings is:
+    - the #26 track of the last month
+- Will I Ever See You Again? is:
+    - the #29 track of the last month
 - Underwater is:
-    - the #21 track of the last month
-- ZOOM is:
     - the #30 track of the last month
 
 ### Top tracks of all time over time

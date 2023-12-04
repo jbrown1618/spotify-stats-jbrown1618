@@ -61,7 +61,7 @@ Appears as:
 | | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | | 1 | 0 | Sacha Baron Cohen | [🔗](https://open.spotify.com/artist/1JY6Dve5sex0urYQnbshM9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737429293c200e8011f915ba44" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 
 </details>
 

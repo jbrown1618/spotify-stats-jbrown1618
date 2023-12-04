@@ -12,7 +12,6 @@
 LeeHi is currently:
 - The #13 artist of all time
 - The #19 artist of the last 6 months
-- The #10 artist of the last month
 
 ![Rank of LeeHi over time](../../images/artists/leehi/rank_time_series.png)
 ## Top Tracks
@@ -21,9 +20,9 @@ LeeHi is currently:
     - the #24 track of the last 6 months
     - the #13 track of all time
 - ONLY is:
-    - the #22 track of the last 6 months
-- 20MIN is:
-    - the #9 track of the last month
+    - the #31 track of the last 6 months
+- For You is:
+    - the #43 track of the last month
 
 ### Top tracks of all time over time
 
@@ -124,7 +123,7 @@ LeeHi is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO ONE | 24℃ | [LeeHi](overview.md), B.I | [YG Entertainment](../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="" width="50" /> | NO WAY | 24℃ | [LeeHi](overview.md), G.Soul | [YG Entertainment](../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | HOLO | [LeeHi](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](overview.md), Crush | AOMG | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](overview.md), [Crush](../crush/overview.md) | AOMG | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Bye | 4 ONLY | [LeeHi](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Intentions | 4 ONLY | [LeeHi](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7IN84szmayzO68enmVmKYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | ONLY | 4 ONLY | [LeeHi](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) |
