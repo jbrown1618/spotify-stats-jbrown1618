@@ -9,6 +9,8 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
+BIBI is currently:
+- The #16 artist of the last month
 
 ![Rank of BIBI over time](../../images/artists/bibi/rank_time_series.png)
 ## Top Tracks
@@ -128,7 +130,7 @@
 | | George Tizzard | 1 | Lyricist, Songwriter |
 | | Max Levin | 1 | Arranger, Songwriter |
 | | Red Triangle | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](../chung_ha/overview.md) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a79a86c0ccc91f0e398f48" alt="" width="50" /> | [CHUNG HA](../chung_ha/overview.md) | 1 | Lyricist |
 | | 박재선 (Park, Jason) | 1 | Producer |
 
 </details>

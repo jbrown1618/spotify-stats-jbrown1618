@@ -19,9 +19,9 @@ HWASA:
 ## Top Tracks
 
 - Maria is:
-    - the #5 track of all time
-- I Love My Body is:
-    - the #49 track of the last month
+    - the #6 track of all time
+- Chili is:
+    - the #32 track of the last month
 
 ### Top tracks of all time over time
 
@@ -104,7 +104,7 @@ HWASA:
 | | 구종필 (Koo, Jong-Pil) | 1 | Producer |
 | | 유건형 (Yoo, Keon-Hyung) | 1 | Arranger |
 | | Clarence Coffee Jr. | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb6fff4b133bd150337490935" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
 
 
 <details>

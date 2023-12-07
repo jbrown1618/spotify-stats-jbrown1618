@@ -26,10 +26,11 @@ STAYC is currently:
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
-- ﻿Not Like You is:
-    - the #7 track of the last month
 - Bubble is:
-    - the #37 track of the last month
+    - the #17 track of the last month
+    - the #50 track of the last 6 months
+- ﻿Not Like You is:
+    - the #21 track of the last month
 
 ### Top tracks of the last 6 months over time
 

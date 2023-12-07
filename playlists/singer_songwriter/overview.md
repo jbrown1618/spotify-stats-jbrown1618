@@ -152,7 +152,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba49075f7bba31bdadbdf012" alt="" width="50" /> | 1 | 0 | Creep Live At (Le)Poisson Rouge | 2012-09-09 | [🔗](https://open.spotify.com/album/3tzHjGnv1WpG78SzgRKFIi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | 1 | 0 | Bear Creek | 2012-06-01 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | 1 | 0 | Bear Creek | 2012-06-04 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
 
 </details>
 
@@ -219,12 +219,12 @@
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 73 | 47 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 61 | 40 | [viral pop](../../genres/viral_pop/overview.md) |
 | 61 | 39 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
 | 35 | 22 | [piano rock](../../genres/piano_rock/overview.md) |
 | 34 | 22 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 31 | 18 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
 <details>
@@ -232,7 +232,6 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 31 | 18 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 28 | 17 | [rock](../../genres/rock/overview.md) |
 | 25 | 16 | [soft rock](../../genres/soft_rock/overview.md) |
 | 25 | 16 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -255,6 +254,7 @@
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | pop soul |
 | 2 | 1 | indy indie |
+| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | irish pop |
 | 1 | 1 | country rock |
 | 1 | 1 | british soul |

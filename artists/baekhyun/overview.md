@@ -20,9 +20,9 @@ BAEKHYUN:
 ## Top Tracks
 
 - Amusement Park is:
-    - the #31 track of all time
+    - the #32 track of all time
 - Dream is:
-    - the #44 track of all time
+    - the #37 track of all time
 
 ### Top tracks of all time over time
 

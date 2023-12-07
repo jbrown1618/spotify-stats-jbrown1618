@@ -24,8 +24,6 @@ WENDY is currently:
 
 - When This Rain Stops is:
     - the #17 track of all time
-- Like Water is:
-    - the #50 track of all time
 
 ### Top tracks of all time over time
 

@@ -9,8 +9,6 @@
 
 ## Top Tracks
 
-- For You is:
-    - the #43 track of the last month
 
 ### Top tracks of the last month over time
 

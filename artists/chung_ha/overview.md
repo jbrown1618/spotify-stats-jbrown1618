@@ -2,7 +2,7 @@
 # CHUNG HA
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="CHUNG HA" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eba5a79a86c0ccc91f0e398f48" alt="CHUNG HA" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -16,13 +16,13 @@ CHUNG HA:
 ## Artist Rank
 CHUNG HA is currently:
 - The #16 artist of all time
-- The #26 artist of the last 6 months
+- The #25 artist of the last 6 months
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
 - Gotta Go is:
-    - the #7 track of all time
+    - the #8 track of all time
 
 ### Top tracks of all time over time
 
@@ -100,7 +100,7 @@ CHUNG HA is currently:
 | | Fuxxy | 8 | Lyricist, Songwriter, Arranger |
 | | VINCENZO | 6 | Arranger, Lyricist, Songwriter |
 | | 윤원권 (Yoon, Won-kwon) | 6 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93c6f21062da1ef012275ff6" alt="" width="50" /> | [CHUNG HA](overview.md) | 4 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a79a86c0ccc91f0e398f48" alt="" width="50" /> | [CHUNG HA](overview.md) | 4 | Lyricist |
 | | 양영은 (Yang, Young-eun) | 3 | Producer |
 | | Cutfather | 2 | Arranger |
 | | 김지현 (Kim, Ji Hyun) | 2 | Producer |

@@ -27,19 +27,17 @@ BLACKPINK is currently:
 - Kill This Love is:
     - the #4 track of all time
 - Pretty Savage is:
-    - the #6 track of all time
+    - the #7 track of all time
 - Crazy Over You is:
     - the #10 track of all time
 - How You Like That is:
     - the #14 track of all time
 - DDU-DU DDU-DU is:
-    - the #36 track of all time
-- WHISTLE is:
-    - the #49 track of all time
+    - the #38 track of all time
 - Pink Venom is:
-    - the #32 track of the last 6 months
+    - the #39 track of the last 6 months
 - THE GIRLS - BLACKPINK THE GAME OST is:
-    - the #19 track of the last month
+    - the #31 track of the last month
 
 ### Top tracks of all time over time
 
@@ -178,7 +176,7 @@ BLACKPINK is currently:
 | | Soraya LaPread | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Songwriter |
 | | Chelcee Grimes | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1bbee4a02f85ecc58d385c3e" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb6fff4b133bd150337490935" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd95cf4457fac4cc62311f84f" alt="" width="50" /> | JENNIE | 1 | Lyricist, Songwriter |
 | | VVN | 1 | Lyricist, Songwriter |
 | | Nat Dunn | 1 | Lyricist, Songwriter |
