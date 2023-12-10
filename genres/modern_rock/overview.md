@@ -143,7 +143,7 @@
 | 1 | 1 | Elektra (NEK) |
 | 1 | 1 | Cult Records |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 3 | 0 | Island Records |
+| 3 | 0 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | Sub Pop Records |
 | 1 | 0 | Parlophone UK |

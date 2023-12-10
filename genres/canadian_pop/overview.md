@@ -88,7 +88,7 @@
 | 14 | 5 | [143](../../labels/143/overview.md) |
 | 5 | 2 | RBMG |
 | 5 | 2 | Def Jam |
-| 3 | 1 | Island Records |
+| 3 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | [Syco Music](../../labels/syco_music/overview.md) |
 | 1 | 1 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | Maverick |

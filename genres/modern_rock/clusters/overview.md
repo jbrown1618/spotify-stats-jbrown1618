@@ -27,7 +27,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | Everlong | The Colour And The Shape | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | Best of You | In Your Honor | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | The Pretender | Echoes, Silence, Patience & Grace | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | Island Records | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](../../../../labels/island_records) | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Breezeblocks | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | Fitzpleasure | An Awesome Wave | alt-J | Canvasback/ATL | 💚 | [🔗](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) |
@@ -37,7 +37,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | Island Records | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | [Island Records](../../../../labels/island_records) | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Fitz and The Tantrums (Deluxe Edition) | Fitz and The Tantrums | Elektra (NEK) | 💚 | [🔗](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | I Write Sins Not Tragedies | A Fever You Can't Sweat Out | Panic! At The Disco | Decaydance Records / Fueled By Ramen | | [🔗](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) |

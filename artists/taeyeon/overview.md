@@ -18,25 +18,25 @@ TAEYEON:
 ## Artist Rank
 TAEYEON is currently:
 - The #9 artist of all time
-- The #5 artist of the last 6 months
-- The #6 artist of the last month
+- The #4 artist of the last 6 months
+- The #5 artist of the last month
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
 - Can't Control Myself is:
-    - the #14 track of the last 6 months
+    - the #11 track of the last 6 months
 - Toddler is:
-    - the #23 track of the last 6 months
+    - the #19 track of the last 6 months
 - I Got Love is:
-    - the #49 track of the last month
-    - the #29 track of the last 6 months
+    - the #50 track of the last month
+    - the #26 track of the last 6 months
 - Burn It Down is:
     - the #27 track of the last month
 - Melt Away is:
     - the #28 track of the last month
 - To. X is:
-    - the #43 track of the last month
+    - the #44 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -307,7 +307,7 @@
 
 
 <details>
-<summary>See all 63 genres</summary>
+<summary>See all 62 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -341,7 +341,6 @@
 | 1 | 0 | pop soul |
 | 1 | 0 | nyc pop |
 | 1 | 0 | new wave pop |
-| 1 | 0 | new wave |
 | 1 | 0 | new romantic |
 | 1 | 0 | neo soul |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |

@@ -122,7 +122,7 @@ Appears as:
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -152,7 +152,6 @@ Appears as:
 | 2 | 0 | folk |
 | 2 | 0 | brill building pop |
 | 1 | 0 | novelty |
-| 1 | 0 | new wave |
 | 1 | 0 | new romantic |
 
 </details>

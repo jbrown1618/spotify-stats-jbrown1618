@@ -22,15 +22,15 @@ Billlie:
 ## Artist Rank
 Billlie is currently:
 - The #22 artist of all time
-- The #19 artist of the last 6 months
+- The #18 artist of the last 6 months
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
 
 - EUNOIA is:
-    - the #19 track of the last 6 months
+    - the #16 track of the last 6 months
 - RING X RING is:
-    - the #30 track of the last 6 months
+    - the #27 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

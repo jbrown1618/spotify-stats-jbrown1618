@@ -86,7 +86,7 @@
 | 2 | 2 | ATG |
 | 3 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 1 | Island Def Jam |
-| 1 | 1 | Island Records |
+| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 0 | Private Music |
 
 

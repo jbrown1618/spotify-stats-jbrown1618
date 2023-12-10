@@ -195,7 +195,7 @@
 | 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | Mercury Records |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
-| 1 | 1 | Island Records |
+| 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | Island Def Jam |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | 1 | Down Up Down Music |

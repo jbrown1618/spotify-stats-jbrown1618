@@ -20,7 +20,7 @@ aespa:
 aespa is currently:
 - The #7 artist of all time
 - The #2 artist of the last 6 months
-- The #1 artist of the last month
+- The #2 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
@@ -29,7 +29,7 @@ aespa is currently:
     - the #2 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #31 track of the last 6 months
+    - the #32 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #22 track of all time
@@ -38,31 +38,33 @@ aespa is currently:
     - the #47 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
-- Spicy is:
-    - the #3 track of the last 6 months
 - Drama is:
     - the #1 track of the last month
-    - the #5 track of the last 6 months
+    - the #3 track of the last 6 months
+- Spicy is:
+    - the #4 track of the last 6 months
 - Trick or Trick is:
     - the #2 track of the last month
-    - the #12 track of the last 6 months
+    - the #9 track of the last 6 months
 - Thirsty is:
-    - the #15 track of the last 6 months
+    - the #12 track of the last 6 months
 - Better Things is:
-    - the #11 track of the last month
-    - the #25 track of the last 6 months
+    - the #8 track of the last month
+    - the #20 track of the last 6 months
 - Hold On Tight is:
-    - the #32 track of the last 6 months
+    - the #30 track of the last 6 months
+- YEPPI YEPPI is:
+    - the #48 track of the last 6 months
 - Don't Blink is:
-    - the #4 track of the last month
-- YOLO is:
-    - the #5 track of the last month
+    - the #10 track of the last month
 - Hot Air Balloon is:
-    - the #7 track of the last month
+    - the #11 track of the last month
 - Jingle Bell Rock is:
-    - the #18 track of the last month
-- You is:
-    - the #35 track of the last month
+    - the #16 track of the last month
+- Girls is:
+    - the #20 track of the last month
+- YOLO is:
+    - the #34 track of the last month
 
 ### Top tracks of all time over time
 
@@ -100,7 +102,7 @@ aespa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | 5 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 6 | 5 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 6 | 5 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 5 | 5 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736614547a357c82ffa855000d" alt="" width="50" /> | 1 | 1 | ZOOM ZOOM | 2023-10-06 | [🔗](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | 1 | 1 | Next Level | 2021-05-17 | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | 1 | Hold On Tight | 2023-03-30 | [🔗](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) |
@@ -124,7 +126,7 @@ aespa is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 20 | 16 | [Warner Records](../../labels/warner_records/overview.md) |
+| 19 | 16 | [Warner Records](../../labels/warner_records/overview.md) |
 | 10 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 1 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 1 | 1 | Parlophone UK |
@@ -251,7 +253,6 @@ aespa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | You | Drama - The 4th Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/52qof5uEYA0TV0EpR7jNxs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
 
 </details>

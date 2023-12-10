@@ -89,7 +89,7 @@
 | 1 | 1 | TVT Records |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | Cult Records |
-| 2 | 0 | Island Records |
+| 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | Merge Records |
 

@@ -35,7 +35,7 @@ BLACKPINK is currently:
 - DDU-DU DDU-DU is:
     - the #38 track of all time
 - Pink Venom is:
-    - the #39 track of the last 6 months
+    - the #35 track of the last 6 months
 - THE GIRLS - BLACKPINK THE GAME OST is:
     - the #31 track of the last month
 

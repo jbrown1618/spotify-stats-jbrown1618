@@ -130,7 +130,7 @@ Ariana Grande is currently:
 | | Tayla Parx | 2 | Songwriter |
 | | Paul Boutin | 2 | Producer |
 | | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
 | | Babyface | 2 | Producer, Songwriter |
 | | Shellback | 2 | Producer |
 | | Jameel Roberts | 1 | Songwriter |

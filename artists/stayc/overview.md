@@ -27,10 +27,10 @@ STAYC is currently:
 ## Top Tracks
 
 - Bubble is:
-    - the #17 track of the last month
-    - the #50 track of the last 6 months
+    - the #15 track of the last month
+    - the #46 track of the last 6 months
 - ﻿Not Like You is:
-    - the #21 track of the last month
+    - the #19 track of the last month
 
 ### Top tracks of the last 6 months over time
 

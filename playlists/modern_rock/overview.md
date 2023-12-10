@@ -74,7 +74,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc45107b79e80a9ab7b423fad" alt="" width="50" /> | 1 | 0 | Hannah Georgas | [🔗](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb58f855ede3f21d6062682f8b" alt="" width="50" /> | 1 | 0 | Northcote | [🔗](https://open.spotify.com/artist/0238bOScDVbMG0RBP2NguG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46b124542d8bde781a27586c" alt="" width="50" /> | 1 | 0 | Northcote | [🔗](https://open.spotify.com/artist/0238bOScDVbMG0RBP2NguG) |
 
 </details>
 
@@ -237,7 +237,7 @@
 | 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | Big Scary Monsters |
 | 4 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 3 | 0 | Island Records |
+| 3 | 0 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | S-Curve Records |
 | 1 | 0 | Relapse Records |
