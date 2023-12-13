@@ -16,7 +16,7 @@ BoA:
 
 ## Artist Rank
 BoA is currently:
-- The #29 artist of all time
+- The #30 artist of all time
 - The #17 artist of the last 6 months
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)

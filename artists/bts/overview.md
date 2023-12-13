@@ -112,7 +112,7 @@ BTS is currently:
 | Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
 | Producer | 0 | 0 | 0 | 2 | 2 | 0 | 0 |
 | Songwriter | 0 | 1 | 0 | 10 | 7 | 0 | 4 |
-| Vocal | 1 | 3 | 5 | 2 | 3 | 2 | 2 |
+| Vocal | 1 | 3 | 6 | 2 | 3 | 2 | 2 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

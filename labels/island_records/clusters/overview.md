@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | LIMBO | GABRIEL | keshi | [Island Records](../..) | | [🔗](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | LIMBO | GABRIEL | keshi | [Island Records](../..) | 💚 | [🔗](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | UNDERSTAND | GABRIEL | keshi | [Island Records](../..) | | [🔗](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) |
 ## Cluster #2
 
@@ -25,10 +25,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | right here | bandaids | keshi | [Island Records](../..) | | [🔗](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) |
 ## Cluster #3
 
-3 tracks
+2 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Home | Carencro | Marc Broussard | [Island Records](../..) | 💚 | [🔗](https://open.spotify.com/track/1XhzO8cuPaqsqUKw92Wbwc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | There's Nothing Holdin' Me Back | Illuminate (Deluxe) | Shawn Mendes | [Island Records](../..) | 💚 | [🔗](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da53f97b4b0f1e14d854f777" alt="" width="50" /> | beside you | beside you | keshi | [Island Records](../..) | | [🔗](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) |

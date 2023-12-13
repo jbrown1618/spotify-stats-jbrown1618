@@ -18,13 +18,13 @@ NMIXX:
 ## Artist Rank
 NMIXX is currently:
 - The #38 artist of all time
-- The #29 artist of the last 6 months
+- The #28 artist of the last 6 months
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - Love Me Like This is:
-    - the #22 track of the last 6 months
+    - the #21 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -50,15 +50,15 @@ NMIXX is currently:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | 1 | 1 | Soñar (Breaker) | 2023-12-04 | [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 1 | 1 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | 1 | 0 | Soñar (Breaker) | 2023-12-04 | [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 9 | 6 | [Republic Records](../../labels/republic_records/overview.md) |
+| 9 | 7 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 
 ## Genres
@@ -72,27 +72,27 @@ NMIXX is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Performer | 2 |
+| Performer | 3 |
 
 ### Member Credits
 
 | | JINI | Lily Jin Morrow | 김지우 (Kim, Ji-woo) | 배진솔 (Bae, Jin-sol) | 설윤아 (Seol, Yoo-nah) | 오해원 (Oh, Hae-won) | 장규진 (Jang, Kyu-jin) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
-| Vocal | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| Vocal | 2 | 3 | 3 | 3 | 3 | 3 | 3 |
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Dr.JO | 3 | Lyricist, Arranger |
-| | Brian U | 2 | Songwriter, Arranger |
+| | Brian U | 3 | Songwriter, Arranger |
+| | Ayushy | 2 | Songwriter, Arranger |
+| | 엄세희 (Um, Se-Hee) | 2 | Producer |
+| | Frankie Day | 2 | Songwriter |
 | | Charlotte Wilson | 2 | Songwriter, Arranger |
-| | 차이린 (Chailin) | 1 | Lyricist |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
-| | Chanti | 1 | Songwriter |
-| | Zaya | 1 | Lyricist |
+| | 오현선 (Oh, Hyun-sun) | 2 | Lyricist |
 | | Dem Jointz | 1 | Arranger, Songwriter |
-| | MarkAlong | 1 | Songwriter |
-| | MJ | 1 | Producer |
+| | Deanna | 1 | Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
 
 
 <details>
@@ -100,31 +100,44 @@ NMIXX is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 오현선 (Oh, Hyun-sun) | 1 | Lyricist |
-| | Jonkind | 1 | Songwriter |
+| | Joseph K | 1 | Arranger, Songwriter |
+| | Chanti | 1 | Songwriter |
+| | 임찬미 (Kim, Chan-mi) | 1 | Producer |
+| | Zaya | 1 | Lyricist |
+| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | 차이린 (Chailin) | 1 | Lyricist |
+| | MarkAlong | 1 | Songwriter |
+| | Tony Maserati | 1 | Producer |
+| | MJ | 1 | Producer |
 | | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
 | | 김영현 (Kim, Young-hyun) | 1 | Producer |
 | | Enan | 1 | Songwriter |
-| | Frankie Day | 1 | Songwriter |
+| | Brown Panda | 1 | Arranger, Songwriter |
 | | Awry | 1 | Songwriter |
 | | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
-| | Deanna | 1 | Songwriter |
-| | Tony Maserati | 1 | Producer |
-| | Ayushy | 1 | Songwriter |
-| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | Jonkind | 1 | Songwriter |
 | | Ericka Coulter | 1 | Songwriter |
-| | 명혜인 (Myeong, Hyein) | 1 | Lyricist |
-| | danke | 1 | Lyricist |
-| | Matthew Jaragin | 1 | Songwriter |
-| | 백새임 (Baek, Sae-im) | 1 | Lyricist |
-| | 아르마딜로 (Armadillo) | 1 | Arranger, Songwriter |
-| | Jan Baars | 1 | Songwriter |
-| | Alawn | 1 | Producer |
-| | 정준호 (Jung, Joon-ho) | 1 | Lyricist |
-| | 랑가 (Langa) | 1 | Arranger, Songwriter |
-| | Rajan Muse | 1 | Songwriter |
-| | 엄세희 (Um, Se-Hee) | 1 | Producer |
+| | NVR know | 1 | Arranger, Songwriter |
+| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | 복주영 (Bok, Ju Young) | 1 | Lyricist |
 | | EJAE | 1 | Songwriter |
+| | Rajan Muse | 1 | Songwriter |
+| | HONEY NOISE | 1 | Arranger, Producer, Songwriter |
+| | 랑가 (Langa) | 1 | Arranger, Songwriter |
+| | LSY | 1 | Arranger, Songwriter |
+| | 정준호 (Jung, Joon-ho) | 1 | Lyricist |
+| | 강선영 (강선영) | 1 | Producer |
+| | Alawn | 1 | Producer |
+| | 구혜진 (Gu, Hye-jin) | 1 | Producer |
+| | Jan Baars | 1 | Songwriter |
+| | 아르마딜로 (Armadillo) | 1 | Arranger, Songwriter |
+| | 백새임 (Baek, Sae-im) | 1 | Lyricist |
+| | AFTRSHOK | 1 | Arranger, Songwriter |
+| | Matthew Jaragin | 1 | Songwriter |
+| | danke | 1 | Lyricist |
+| | Jacob Aaron | 1 | Songwriter |
+| | Awrii | 1 | Arranger, Songwriter |
+| | 명혜인 (Myeong, Hyein) | 1 | Lyricist |
 | | 이경원 (Lee, Kyung-won) | 1 | Producer |
 
 </details>
@@ -144,4 +157,4 @@ NMIXX is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | Soñar (Breaker) | Soñar (Breaker) | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | Soñar (Breaker) | Soñar (Breaker) | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) |

@@ -370,7 +370,7 @@
 | 104 | 72 | [dance pop](../../genres/dance_pop/overview.md) |
 | 31 | 24 | [art pop](../../genres/art_pop/overview.md) |
 | 34 | 20 | [uk pop](../../genres/uk_pop/overview.md) |
-| 23 | 18 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 22 | 17 | urban contemporary |
 | 15 | 13 | neo soul |
 | 14 | 12 | [r&b](../../genres/r_b/overview.md) |
 | 14 | 12 | barbadian pop |

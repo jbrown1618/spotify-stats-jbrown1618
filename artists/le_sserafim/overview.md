@@ -22,12 +22,13 @@ LE SSERAFIM:
 LE SSERAFIM is currently:
 - The #20 artist of all time
 - The #20 artist of the last 6 months
+- The #17 artist of the last month
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
 - FEARLESS is:
-    - the #44 track of the last 6 months
+    - the #45 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -57,15 +58,15 @@ LE SSERAFIM is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 4 | 4 | UNFORGIVEN | 2023-05-01 | [🔗](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 3 | 3 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | 3 | 3 | ANTIFRAGILE | 2022-10-17 | [🔗](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | 1 | 1 | Perfect Night | 2023-10-27 | [🔗](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | 1 | 0 | Perfect Night (Holiday Remix) | 2023-11-23 | [🔗](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | 1 | 0 | Perfect Night | 2023-10-27 | [🔗](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | 1 | 0 | Eve, Psyche & the Bluebeard’s wife (English Ver.) | 2023-07-06 | [🔗](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 13 | 10 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
+| 13 | 11 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 
 ## Genres
 
@@ -84,7 +85,7 @@ LE SSERAFIM is currently:
 | | HUH YUNJIN | 中村 一葉 (Kazuha) | 宮脇咲良 (Miyawaki, Sakura) | 김가람 (Kim, Garam) | 김채원 (Kim, Chae-won) | 홍은채 (Hong, Eunchae) |
 |:---|---:|---:|---:|---:|---:|---:|
 | Lyricist | 4 | 0 | 0 | 0 | 1 | 0 |
-| Songwriter | 4 | 0 | 0 | 0 | 1 | 0 |
+| Songwriter | 5 | 0 | 0 | 0 | 1 | 0 |
 | Vocal | 10 | 10 | 10 | 3 | 10 | 10 |
 ### Production Credits
 
@@ -94,21 +95,22 @@ LE SSERAFIM is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | No Celestial | HUH YUNJIN | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | Impurities | HUH YUNJIN | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Eve, Psyche & The Bluebeard’s wife | HUH YUNJIN | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | Perfect Night | HUH YUNJIN | Songwriter |
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | SCORE | 11 | Songwriter, Arranger, Lyricist, Producer |
+| | 김병석 (Kim, Byung-seok) | 11 | Songwriter, Arranger, Lyricist, Producer |
 | | 13 | 10 | Producer |
-| | 김병석 (Kim, Byung-seok) | 10 | Arranger, Lyricist, Producer, Songwriter |
-| | SCORE | 10 | Arranger, Lyricist, Producer, Songwriter |
 | | 황민희 (Hwang, Min-hee) | 8 | Producer |
+| | 방시혁 (Bang, Si-Hyuk) | 7 | Songwriter, Lyricist |
 | | 이연수 (Lee, Yeon-soo) | 7 | Producer |
-| | 방시혁 (Bang, Si-Hyuk) | 6 | Lyricist, Songwriter |
-| | danke | 6 | Lyricist, Songwriter |
 | | Supreme Boi | 6 | Lyricist, Songwriter |
+| | danke | 6 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa42f180402c30730380a90" alt="" width="50" /> | HUH YUNJIN | 5 | Songwriter, Lyricist |
 | | Nermin Harambašić (Harambašić, Nermin) | 4 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa42f180402c30730380a90" alt="" width="50" /> | HUH YUNJIN | 4 | Lyricist, Songwriter |
 
 
 <details>
@@ -116,68 +118,76 @@ LE SSERAFIM is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 김준혁 (Kim Joonhyuk) | 4 | Producer |
 | | Kyler Niko | 4 | Lyricist, Songwriter |
-| | Manny Marroquin | 3 | Producer |
-| | Paulina Cerrilla | 3 | Lyricist, Songwriter |
-| | Ronnie Icon | 3 | Lyricist, Songwriter |
+| | 김준혁 (Kim Joonhyuk) | 4 | Producer |
 | | Chris Galland | 3 | Producer |
 | | Young Chance | 3 | Lyricist, Songwriter |
 | | 김인형 (Kim, In Hyung) | 3 | Lyricist, Songwriter |
-| | Arineh Karimi | 2 | Lyricist, Songwriter |
+| | Paulina Cerrilla | 3 | Lyricist, Songwriter |
+| | Manny Marroquin | 3 | Producer |
+| | Ronnie Icon | 3 | Lyricist, Songwriter |
+| | Jonna Hall | 2 | Lyricist, Songwriter |
+| | Daniel "Obi" Klein | 2 | Lyricist, Songwriter |
 | | 박상유 (Park, Sang-yu) | 2 | Lyricist, Songwriter |
 | | Josefin Glenmark | 2 | Lyricist, Songwriter |
-| | Daniel "Obi" Klein | 2 | Lyricist, Songwriter |
-| | JARO | 2 | Lyricist, Songwriter |
-| | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
-| | Sunshine | 2 | Lyricist, Songwriter |
 | | Nikolay Mohr | 2 | Lyricist, Songwriter |
+| | Arineh Karimi | 2 | Lyricist, Songwriter |
+| | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
 | | 김영현 (Kim, Young-hyun) | 2 | Producer |
-| | Jonna Hall | 2 | Lyricist, Songwriter |
+| | Pontus Petersson | 2 | Lyricist, Songwriter |
 | | BLVSH | 2 | Lyricist, Songwriter |
+| | JARO | 2 | Lyricist, Songwriter |
 | | Anne Judith Wik | 2 | Lyricist, Songwriter |
-| | 우민정 (Umin, Je-ong) | 2 | Producer |
+| | Sunshine | 2 | Lyricist, Songwriter |
 | | Tony Maserati | 2 | Producer |
+| | 우민정 (Umin, Je-ong) | 2 | Producer |
+| | 이형석 (Lee, Hyung-seok) | 2 | Lyricist, Songwriter |
 | | Charli Taft | 2 | Lyricist, Songwriter |
 | | Shorelle | 2 | Lyricist, Songwriter |
 | | BENJMN | 2 | Lyricist, Songwriter |
-| | Pontus Petersson | 2 | Lyricist, Songwriter |
-| | 이형석 (Lee, Hyung-seok) | 2 | Lyricist, Songwriter |
-| | Maggie Szabo | 1 | Lyricist, Songwriter |
-| | emmy kasai. | 1 | Lyricist, Songwriter |
-| | Shintaro Yasuda | 1 | Lyricist, Songwriter |
-| | Adam Hawkins | 1 | Producer |
-| | Kayofkaj | 1 | Lyricist, Songwriter |
-| | 김채원 (Kim, Chae-won) | 1 | Lyricist, Songwriter |
-| | Anders Gukko | 1 | Lyricist, Songwriter |
-| | Max Thulin | 1 | Lyricist, Songwriter |
 | | Josh Gudwin | 1 | Producer |
-| | Lady V | 1 | Lyricist, Songwriter |
-| | James Reynolds | 1 | Producer |
-| | Caroline Gerd Gustavsson | 1 | Lyricist, Songwriter |
-| | Maia Wright | 1 | Lyricist, Songwriter |
-| | Yang Ga | 1 | Producer |
 | | Cazzi Opeia | 1 | Lyricist, Songwriter |
-| | Feli Ferraro | 1 | Lyricist, Songwriter |
-| | 김현수 (Kim, Hyun-soo) | 1 | Producer |
-| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist, Songwriter |
-| | poutyface | 1 | Lyricist, Songwriter |
-| | Makaila J Garcia | 1 | Lyricist, Songwriter |
+| | James Reynolds | 1 | Producer |
+| | Ninos Hanna | 1 | Songwriter |
+| | Kayofkaj | 1 | Lyricist, Songwriter |
+| | Adam Hawkins | 1 | Producer |
+| | Marcus Andersson | 1 | Songwriter |
+| | Anders Gukko | 1 | Lyricist, Songwriter |
+| | 김채원 (Kim, Chae-won) | 1 | Lyricist, Songwriter |
+| | Max Thulin | 1 | Lyricist, Songwriter |
+| | emmy kasai. | 1 | Lyricist, Songwriter |
+| | Lady V | 1 | Lyricist, Songwriter |
 | | 양가영 (Yang, Gayoung) | 1 | Lyricist, Songwriter |
+| | Maggie Szabo | 1 | Lyricist, Songwriter |
+| | Caroline Gerd Gustavsson | 1 | Lyricist, Songwriter |
+| | Yang Ga | 1 | Producer |
+| | Maia Wright | 1 | Lyricist, Songwriter |
+| | Jorge Luis Perez, Jr. | 1 | Songwriter |
+| | Lauren Elizabeth Baker | 1 | Songwriter |
+| | 김현수 (Kim, Hyun-soo) | 1 | Producer |
+| | Nathalie Blue | 1 | Lyricist, Songwriter |
+| | Shintaro Yasuda | 1 | Lyricist, Songwriter |
+| | Believve | 1 | Lyricist, Songwriter |
+| | Hayes Kramer | 1 | Lyricist, Songwriter |
+| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist, Songwriter |
+| | Isabella Lovestory | 1 | Lyricist, Songwriter |
+| | Niklas Jarelius Persson | 1 | Songwriter |
+| | Makaila J Garcia | 1 | Lyricist, Songwriter |
+| | Lauren Aquilina | 1 | Songwriter |
+| | Amanda Ibanez | 1 | Songwriter |
 | | Belle | 1 | Lyricist, Songwriter |
 | | John Hanes | 1 | Producer |
-| | Hayes Kramer | 1 | Lyricist, Songwriter |
 | | Gusten Dahlqvist | 1 | Lyricist, Songwriter |
-| | Isabella Lovestory | 1 | Lyricist, Songwriter |
+| | Bob Horn | 1 | Producer |
+| | Zikai | 1 | Songwriter |
+| | 김채아 (Kim, Chae-ah) | 1 | Lyricist, Songwriter |
+| | poutyface | 1 | Lyricist, Songwriter |
 | | Duane Benjamin | 1 | Arranger |
-| | Nathalie Blue | 1 | Lyricist, Songwriter |
-| | Believve | 1 | Lyricist, Songwriter |
+| | Glenda Proby | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | ABIR | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | Destiny Rogers | 1 | Lyricist, Songwriter |
 | | Kris Jana | 1 | Lyricist, Songwriter |
-| | 김채아 (Kim, Chae-ah) | 1 | Lyricist, Songwriter |
-| | Bob Horn | 1 | Producer |
-| | Glenda Proby | 1 | Lyricist, Songwriter |
+| | Feli Ferraro | 1 | Lyricist, Songwriter |
 | | Julia Bognar Finnseter | 1 | Lyricist, Songwriter |
 
 </details>
@@ -206,7 +216,7 @@ LE SSERAFIM is currently:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | Eve, Psyche & the Bluebeard’s wife (English Ver.) | Eve, Psyche & the Bluebeard’s wife (English Ver.) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | | [🔗](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | Perfect Night | Perfect Night | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | | [🔗](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | Perfect Night | Perfect Night | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 💚 | [🔗](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | | [🔗](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) |
 
 </details>

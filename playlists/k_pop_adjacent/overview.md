@@ -248,7 +248,7 @@
 
 
 <details>
-<summary>See all 54 genres</summary>
+<summary>See all 53 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -262,7 +262,6 @@
 | 1 | 1 | neo soul |
 | 1 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 1 | modern alternative rock |
-| 1 | 1 | latin viral pop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean city pop |
 | 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |

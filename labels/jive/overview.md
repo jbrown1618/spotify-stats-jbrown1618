@@ -50,10 +50,9 @@ Appears as:
 | 14 | 10 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 5 | boy band |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 0 | [rap](../../genres/rap/overview.md) |
 
-![Bar chart of top 6 genres](../../images/labels/jive/genres.png)
+![Bar chart of top 5 genres](../../images/labels/jive/genres.png)
 
 ## Top Producers
 

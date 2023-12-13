@@ -77,7 +77,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 14 | 12 | [pop](../../genres/pop/overview.md) |
-| 13 | 11 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 13 | 11 | urban contemporary |
 | 13 | 11 | barbadian pop |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 4 | 0 | [rap](../../genres/rap/overview.md) |

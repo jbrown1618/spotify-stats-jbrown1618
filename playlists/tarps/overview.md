@@ -71,7 +71,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 1 | 0 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a" alt="" width="50" /> | 1 | 0 | TLC | [🔗](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6c6380e782ed89db8754cf2a" alt="" width="50" /> | 1 | 0 | ABBA | [🔗](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0577327b931579bd649750c4" alt="" width="50" /> | 1 | 0 | ABBA | [🔗](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) |
 
 </details>
 
@@ -243,7 +243,7 @@
 | 3 | 3 | neo soul |
 | 3 | 3 | merseybeat |
 | 3 | 3 | [british invasion](../../genres/british_invasion/overview.md) |
-| 5 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 5 | 2 | urban contemporary |
 | 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 3 | 2 | pop soul |
 | 3 | 2 | new americana |

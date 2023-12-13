@@ -10,7 +10,7 @@
 
 ## Artist Rank
 BIBI is currently:
-- The #17 artist of the last month
+- The #19 artist of the last month
 
 ![Rank of BIBI over time](../../images/artists/bibi/rank_time_series.png)
 ## Top Tracks

@@ -387,7 +387,7 @@
 | 2 | 2 | japanese teen pop |
 | 2 | 2 | british soul |
 | 2 | 1 | k-indie |
-| 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 1 | 1 | urban contemporary |
 | 1 | 1 | uk contemporary r&b |
 | 1 | 1 | thai indie pop |
 | 1 | 1 | teen pop |

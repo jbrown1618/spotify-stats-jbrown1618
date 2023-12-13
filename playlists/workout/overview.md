@@ -351,7 +351,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 5 | 5 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 5 | 5 | urban contemporary |
 | 4 | 4 | [rock](../../genres/rock/overview.md) |
 | 4 | 4 | barbadian pop |
 | 4 | 3 | [rap](../../genres/rap/overview.md) |

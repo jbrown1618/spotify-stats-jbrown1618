@@ -28,7 +28,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="" width="50" /> | 42 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 50 | 23 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8" alt="" width="50" /> | 37 | 22 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb1aa85c175b2a0fea17fbf8f" alt="" width="50" /> | 9 | 6 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb1aa85c175b2a0fea17fbf8f" alt="" width="50" /> | 9 | 7 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 10 | 5 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31" alt="" width="50" /> | 10 | 5 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -117,6 +117,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | 1 | 1 | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | 1 | 1 | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | 1 | 1 | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | 1 | 1 | Soñar (Breaker) | 2023-12-04 | [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | 1 | 1 | SIGNAL | 2017-05-15 | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | 1 | 1 | Page Two | 2016-04-25 | [🔗](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324869424ae632466b839a8a8" alt="" width="50" /> | 1 | 1 | MORE & MORE | 2020-06-01 | [🔗](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) |
@@ -137,7 +138,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | 1 | 0 | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | 1 | 0 | The Dream Chapter: ETERNITY | 2020-05-18 | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | 1 | 0 | Soñar (Breaker) | 2023-12-04 | [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | 1 | 0 | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | 1 | 0 | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | 1 | 0 | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
@@ -160,9 +160,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 149 | 89 | [k-pop](../../genres/k_pop/overview.md) |
+| 149 | 90 | [k-pop](../../genres/k_pop/overview.md) |
 | 108 | 64 | [pop](../../genres/pop/overview.md) |
-| 88 | 60 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 88 | 61 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 61 | 28 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | classic k-pop |
@@ -196,16 +196,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 엄세희 (Um, Se-Hee) | 14 | Producer |
+| | 엄세희 (Um, Se-Hee) | 15 | Producer |
+| | 구혜진 (Gu, Hye-jin) | 9 | Producer |
 | | Serban Ghenea | 8 | Producer |
-| | 구혜진 (Gu, Hye-jin) | 8 | Producer |
 | | 이태섭 (Lee, Tae-Sub) | 7 | Producer |
 | | 이상엽 (Lee, Sang-yeob) | 7 | Producer |
 | | 최혜진 (Cho, Hye-jin) | 6 | Producer |
 | | 심은지 (Sim, Eunjee) | 5 | Arranger, Lyricist, Producer, Songwriter |
 | | 임홍진 (Im, Hong-Jin) | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 5 | Producer, Songwriter, Arranger |
-| | Sophia Pae | 4 | Arranger |
+| | Tony Maserati | 4 | Producer |
 
 
 <details>
@@ -213,96 +213,96 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Sophia Pae | 4 | Arranger |
 | | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
-| | Tony Maserati | 4 | Producer |
 | | Dr.JO | 3 | Lyricist, Arranger |
-| | TBHits | 3 | Arranger, Songwriter, Producer |
+| | Melanie Joy Fontana | 3 | Lyricist, Songwriter |
 | | Max Martin | 3 | Producer, Songwriter |
+| | 신지영 (Shin, Ji-young) | 3 | Producer |
+| | 윤원권 (Yoon, Won-kwon) | 3 | Producer |
+| | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
+| | TBHits | 3 | Arranger, Songwriter, Producer |
 | | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
 | | Sam Lewis | 3 | Lyricist, Songwriter |
-| | Sam Holland | 3 | Producer |
-| | 윤원권 (Yoon, Won-kwon) | 3 | Producer |
-| | Melanie Joy Fontana | 3 | Lyricist, Songwriter |
-| | 신지영 (Shin, Ji-young) | 3 | Producer |
+| | Brian U | 3 | Songwriter, Arranger |
 | | 이경원 (Lee, Kyung-won) | 3 | Producer |
-| | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
-| | Brian U | 2 | Songwriter, Arranger |
-| | Brendan Morawski | 2 | Producer |
-| | Savan Kotecha | 2 | Songwriter |
+| | Sam Holland | 3 | Producer |
 | | Mr. Franks | 2 | Arranger, Songwriter, Producer |
-| | 한 (Han) | 2 | Songwriter, Lyricist |
-| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
-| | danke | 2 | Lyricist |
 | | 김용운 (Gim, Yong-un) | 2 | Producer |
-| | Billy Hickey | 2 | Producer |
-| | ILYA | 2 | Producer, Songwriter |
-| | 김영현 (Kim, Young-hyun) | 2 | Producer |
-| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
-| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
 | | EJAE | 2 | Songwriter |
-| | John Hanes | 2 | Producer |
-| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
-| | 박은정 (박은정) | 2 | Producer |
+| | danke | 2 | Lyricist |
+| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 임찬미 (Kim, Chan-mi) | 2 | Producer |
+| | Ayushy | 2 | Songwriter, Arranger |
+| | Brendan Morawski | 2 | Producer |
+| | Billy Hickey | 2 | Producer |
+| | 오현선 (Oh, Hyun-sun) | 2 | Lyricist |
+| | Savan Kotecha | 2 | Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
 | | Charlotte Wilson | 2 | Songwriter, Arranger |
-| | Poo Bear | 1 | Songwriter |
-| | Dem Jointz | 1 | Arranger, Songwriter |
-| | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
-| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
-| | Zaya | 1 | Lyricist |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
-| | 임찬미 (Kim, Chan-mi) | 1 | Producer |
-| | Chanti | 1 | Songwriter |
-| | SELAH | 1 | Arranger |
-| | Shin Kamiyama | 1 | Producer |
-| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
-| | Oscar Hammerstein II | 1 | Lyricist |
+| | 박은정 (박은정) | 2 | Producer |
+| | Frankie Day | 2 | Songwriter |
+| | 김영현 (Kim, Young-hyun) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
+| | John Hanes | 2 | Producer |
+| | ILYA | 2 | Producer, Songwriter |
 | | Jameel Roberts | 1 | Songwriter |
-| | Boy Matthews | 1 | Lyricist |
-| | LDN Noise | 1 | Arranger, Producer |
 | | Erika Ender | 1 | Songwriter |
-| | Noah Passovoy | 1 | Producer |
-| | 손채영 (Son, Chae-young) | 1 | Lyricist |
-| | Andrew Watt | 1 | Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
-| | Gingerbread | 1 | Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
-| | Alma Goodman | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
-| | 이우현 (Lee, Woo-hyun) | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | Frankie Day | 1 | Songwriter |
-| | Angelina Barrett | 1 | Songwriter |
-| | Awry | 1 | Songwriter |
-| | Cutfather | 1 | Arranger |
-| | Joe Gallagher | 1 | Producer |
-| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
-| | Scootie | 1 | Producer, Songwriter |
-| | 72 | 1 | Songwriter |
-| | Kaedi Dalley | 1 | Lyricist, Songwriter |
 | | Mich Hansen | 1 | Songwriter |
-| | Enan | 1 | Songwriter |
-| | Toby Gad | 1 | Producer, Songwriter |
-| | Kelsey Klingensmith | 1 | Songwriter |
-| | Greg Bonnick | 1 | Songwriter |
-| | Pop Wansel | 1 | Producer, Songwriter |
-| | MarkAlong | 1 | Songwriter |
-| | Karin Wilhemina Eurenius | 1 | Arranger, Producer, Songwriter |
-| | MJ | 1 | Producer |
+| | Shin Kamiyama | 1 | Producer |
+| | Zaya | 1 | Lyricist |
+| | Boy Matthews | 1 | Lyricist |
+| | Scootie | 1 | Producer, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | Chanti | 1 | Songwriter |
+| | Kaedi Dalley | 1 | Lyricist, Songwriter |
+| | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
+| | Oscar Hammerstein II | 1 | Lyricist |
+| | Poo Bear | 1 | Songwriter |
+| | Noah Passovoy | 1 | Producer |
+| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | 72 | 1 | Songwriter |
+| | LDN Noise | 1 | Arranger, Producer |
+| | Joseph K | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
-| | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | 이우현 (Lee, Woo-hyun) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | SELAH | 1 | Arranger |
 | | Oscar Holter | 1 | Producer, Songwriter |
-| | 송희진 (Song, Hee-jin) | 1 | Arranger, Lyricist, Songwriter |
-| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
-| | Tayla Parx | 1 | Songwriter |
-| | DaHeala | 1 | Songwriter |
+| | Alma Goodman | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | Enan | 1 | Songwriter |
+| | Cutfather | 1 | Arranger |
+| | Toby Gad | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | Brown Panda | 1 | Arranger, Songwriter |
 | | Brooke Tomlinson | 1 | Songwriter |
-| | 오현선 (Oh, Hyun-sun) | 1 | Lyricist |
-| | Alexander Pavelich | 1 | Arranger, Songwriter |
-| | A. Wright | 1 | Songwriter |
-| | Njomza | 1 | Songwriter |
+| | DaHeala | 1 | Songwriter |
+| | Angelina Barrett | 1 | Songwriter |
+| | Tayla Parx | 1 | Songwriter |
+| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
+| | 송희진 (Song, Hee-jin) | 1 | Arranger, Lyricist, Songwriter |
+| | Gingerbread | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Producer, Songwriter |
+| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| | Awry | 1 | Songwriter |
+| | Greg Bonnick | 1 | Songwriter |
+| | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Jenson Vaughan | 1 | Arranger, Songwriter |
+| | MJ | 1 | Producer |
+| | Karin Wilhemina Eurenius | 1 | Arranger, Producer, Songwriter |
+| | MarkAlong | 1 | Songwriter |
+| | Pop Wansel | 1 | Producer, Songwriter |
+| | Kelsey Klingensmith | 1 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | 손채영 (Son, Chae-young) | 1 | Lyricist |
+| | Joe Gallagher | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
+| | Dem Jointz | 1 | Arranger, Songwriter |
 
 </details>
 
@@ -381,7 +381,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | Soñar (Breaker) | Soñar (Breaker) | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | Soñar (Breaker) | Soñar (Breaker) | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | Dior | Meet The Woo | Pop Smoke | [Victor Victor Worldwide/Republic Records](.) | | [🔗](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | Motley Crew | Motley Crew | Post Malone | [Republic Records](.) | | [🔗](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](../../artists/sunmi/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |

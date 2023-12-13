@@ -183,6 +183,7 @@ Appears as:
 | 2 | 1 | stoner rock |
 | 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 2 | 1 | [rap](../../genres/rap/overview.md) |
+| 2 | 1 | pop rap |
 | 2 | 1 | minneapolis sound |
 | 2 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -200,7 +201,6 @@ Appears as:
 | 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
 | 1 | 0 | show tunes |
-| 1 | 0 | pop rap |
 | 1 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | modern alternative pop |
 | 1 | 0 | hollywood |

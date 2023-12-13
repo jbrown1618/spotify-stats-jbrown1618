@@ -187,7 +187,7 @@ Appears as:
 
 
 <details>
-<summary>See all 71 genres</summary>
+<summary>See all 70 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -201,7 +201,7 @@ Appears as:
 | 3 | 3 | country dawn |
 | 3 | 3 | country |
 | 3 | 3 | contemporary country |
-| 6 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 6 | 2 | urban contemporary |
 | 4 | 2 | neo soul |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | british soul |
@@ -215,7 +215,6 @@ Appears as:
 | 1 | 1 | nigerian hip hop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | mandopop |
-| 1 | 1 | latin viral pop |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | dancehall |

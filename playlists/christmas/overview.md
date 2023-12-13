@@ -299,7 +299,7 @@
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 10 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 15 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 13 | 0 | [lounge](../../genres/lounge/overview.md) |
+| 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
 | 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
 | 7 | 0 | easy listening |
@@ -317,7 +317,7 @@
 | 4 | 0 | jazz pop |
 | 3 | 0 | swing |
 | 3 | 0 | motown |
-| 2 | 0 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 2 | 0 | urban contemporary |
 | 2 | 0 | rockabilly |
 | 2 | 0 | rock-and-roll |
 | 2 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
