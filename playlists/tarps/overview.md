@@ -255,7 +255,6 @@
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | motown |
 | 2 | 2 | [electropop](../../genres/electropop/overview.md) |
-| 2 | 2 | country road |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
@@ -290,6 +289,7 @@
 | 1 | 1 | instrumental bluegrass |
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
+| 1 | 1 | country road |
 | 1 | 1 | classic soul |
 | 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |

@@ -16,8 +16,7 @@ WENDY:
 
 ## Artist Rank
 WENDY is currently:
-- The #37 artist of all time
-- The #47 artist of the last 6 months
+- The #38 artist of all time
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
 ## Top Tracks

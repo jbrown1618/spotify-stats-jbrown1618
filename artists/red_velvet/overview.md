@@ -28,7 +28,6 @@ Red Velvet is currently:
 ## Top Tracks
 
 - Bad Boy is:
-    - the #42 track of the last 6 months
     - the #5 track of all time
 - 러시안 룰렛 Russian Roulette is:
     - the #12 track of all time
@@ -37,11 +36,12 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #26 track of all time
 - RBB (Really Bad Boy) is:
+    - the #49 track of the last 6 months
     - the #41 track of all time
-- Sunny Side Up! is:
-    - the #26 track of the last 6 months
 - Chill Kill is:
-    - the #13 track of the last month
+    - the #21 track of the last month
+    - the #35 track of the last 6 months
+- Sunny Side Up! is:
     - the #43 track of the last 6 months
 - One Kiss is:
     - the #6 track of the last month
@@ -50,9 +50,7 @@ Red Velvet is currently:
 - Bulldozer is:
     - the #24 track of the last month
 - Knock Knock (Who's There?) is:
-    - the #43 track of the last month
-- Will I Ever See You Again? is:
-    - the #46 track of the last month
+    - the #47 track of the last month
 
 ### Top tracks of all time over time
 

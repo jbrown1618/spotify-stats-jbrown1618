@@ -10,14 +10,18 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #23 artist of the last 6 months
-- The #8 artist of the last month
+- The #20 artist of the last 6 months
+- The #6 artist of the last month
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
 
-- 내 맘을 볼 수 있나요 is:
+- FM 89.1 is:
     - the #35 track of the last month
+- 내 맘을 볼 수 있나요 is:
+    - the #37 track of the last month
+- Last Winter is:
+    - the #48 track of the last month
 
 ### Top tracks of the last 6 months over time
 

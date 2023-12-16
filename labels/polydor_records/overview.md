@@ -1,13 +1,13 @@
 # Polydor Records
 
-69 songs
+68 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Polydor Records (68 tracks)
+- Polydor Records (67 tracks)
 - Polydor (1 tracks)
 
 ## Top Artists
@@ -20,18 +20,17 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce24d732e138da2cc37d5621" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
 
 
 <details>
-<summary>See all 41 artists</summary>
+<summary>See all 40 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebce24d732e138da2cc37d5621" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
 | <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | 7 | 0 | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
@@ -61,7 +60,7 @@ Appears as:
 | | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | | 1 | 0 | Sacha Baron Cohen | [🔗](https://open.spotify.com/artist/1JY6Dve5sex0urYQnbshM9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737429293c200e8011f915ba44" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 
 </details>
 
@@ -85,13 +84,12 @@ Appears as:
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 20 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | 1 | 1 | Ivy To Roses (Mixtape) | 2019-01-18 | [🔗](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | 1 | 1 | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | 2000-01-01 | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | 1 | 0 | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
@@ -104,7 +102,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 albums](../../images/labels/polydor_records/albums.png)
+![Bar chart of top 20 albums](../../images/labels/polydor_records/albums.png)
 
 ## Genres
 
@@ -123,21 +121,18 @@ Appears as:
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 30 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
-| 1 | 1 | uk alternative pop |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
-| 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | disco |
 | 1 | 1 | british soul |
-| 1 | 1 | baroque pop |
 | 23 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 22 | 0 | west end |
 | 16 | 0 | hollywood |
 | 11 | 0 | show tunes |
+| 2 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | uk dance |
 | 1 | 0 | shiver pop |
 | 1 | 0 | pov: indie |
@@ -163,13 +158,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | | Emile Haynie | 5 | Producer |
 | | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
-| | Dan Grech-Marguerat | 4 | Producer |
 | | Larry Gold | 4 | Arranger |
+| | Dan Grech-Marguerat | 4 | Producer |
 | | Justin Parker | 3 | Producer, Songwriter |
+| | Glyn Johns | 2 | Producer |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
 | | Tim Larcombe | 2 | Songwriter, Producer |
-| | Pete Townshend | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
 
 
 <details>
@@ -177,26 +172,24 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Glyn Johns | 2 | Producer |
-| | Tom Moth | 1 | Arranger |
-| | Robopop | 1 | Producer |
-| | Serban Ghenea | 1 | Producer |
-| | Collin Dupuis | 1 | Producer |
-| | Keith Moon | 1 | Producer |
-| | Freddie Perren | 1 | Songwriter |
-| | KAMILLE | 1 | Songwriter |
-| | Ash Howes | 1 | Producer, Songwriter |
+| | Pete Townshend | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
-| | Dan Auerbach | 1 | Producer |
-| | Richard "Biff" Stannard | 1 | Producer, Songwriter |
-| | Brent Kolatalo | 1 | Producer |
-| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
 | | Jason Elliott | 1 | Producer |
+| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
+| | Brent Kolatalo | 1 | Producer |
+| | Richard "Biff" Stannard | 1 | Producer, Songwriter |
+| | Keith Moon | 1 | Producer |
+| | Ash Howes | 1 | Producer, Songwriter |
+| | Freddie Perren | 1 | Songwriter |
+| | Collin Dupuis | 1 | Producer |
+| | Serban Ghenea | 1 | Producer |
+| | Dan Auerbach | 1 | Producer |
+| | Robopop | 1 | Producer |
+| | KAMILLE | 1 | Songwriter |
 | | John Hanes | 1 | Producer |
 | | Carl Bagge | 1 | Arranger |
 | | Leland | 1 | Songwriter |
 | | Trevor Yasuda | 1 | Producer |
-| | Jack Antonoff | 1 | Producer, Songwriter |
 | | Mark "Spike" Stent | 1 | Producer |
 | | Daniel Pursey | 1 | Producer |
 | | Chris Garcia | 1 | Producer |
@@ -213,7 +206,6 @@ Appears as:
 | | Steve Booker | 1 | Producer, Songwriter |
 | | Dean Reid | 1 | Producer |
 | | Steve Mac | 1 | Producer, Songwriter |
-| | Florence Welch | 1 | Arranger, Producer, Songwriter |
 | | Patrik Berger | 1 | Producer |
 
 </details>
@@ -266,7 +258,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | Something In The Way You Move | Delirium | Ellie Goulding | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7is4okCIwDa9vc7pUjda1H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | Close To Me - Red Velvet Remix | Close To Me (Red Velvet Remix) | Ellie Goulding, Diplo, [Red Velvet](../../artists/red_velvet/overview.md) | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/696Y3Jx3k4Rjsw8gm2q4l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade | Slow Grenade | Ellie Goulding, Lauv | [Polydor Records](.) | 💚 | [🔗](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Free | Dance Fever | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [Polydor Records](.) | 💚 | [🔗](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | Heat Waves | Dreamland (+ Bonus Levels) | Glass Animals | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | I Will Survive - Single Version | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | Gloria Gaynor | [Polydor](.) | 💚 | [🔗](https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | At The End Of The Day | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Hugh Jackman, Anne Hathaway, The Factory Girls, Les Misérables Cast | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/1VUChQjlhCIDGF724QpKb9) |

@@ -226,11 +226,11 @@ Appears as:
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
 | 3 | 0 | bebop |
+| 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 2 | 0 | pop dance |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | edm |
 | 2 | 0 | easy listening |
-| 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | yodeling |
 | 1 | 0 | western swing |
 | 1 | 0 | uk dance |

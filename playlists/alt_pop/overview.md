@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="Alt-Pop" width="100" />
 
-[143 tracks (101 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
+[142 tracks (100 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 17 | 15 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 16 | 14 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 14 | 12 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
@@ -109,7 +109,7 @@
 
 
 <details>
-<summary>See all 75 albums</summary>
+<summary>See all 74 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -152,7 +152,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | 1 | 1 | Deleted Scenes From The Cutting Room Floor | 2010-01-29 | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="" width="50" /> | 1 | 1 | Daylight | 2023-04-14 | [🔗](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2de91e5b26f31388d4c049" alt="" width="50" /> | 1 | 1 | Darling | 2017-02-03 | [🔗](https://open.spotify.com/album/7pDkPCnYRapjr8dXcwkNIB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | 1 | 1 | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="" width="50" /> | 1 | 1 | Chasing Tomorrow | 2022-07-22 | [🔗](https://open.spotify.com/album/2xZ3UkqpQhuMw41N2LuLxI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 1 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
@@ -191,7 +190,7 @@
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
 | 15 | 13 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 14 | 12 | [Darkroom](../../labels/darkroom/overview.md) |
-| 19 | 10 | [Polydor Records](../../labels/polydor_records/overview.md) |
+| 18 | 9 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 11 | 9 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 13 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
 | 8 | 8 | Monkey Puzzle Records |
@@ -253,11 +252,11 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 48 | 36 | [pop](../../genres/pop/overview.md) |
-| 34 | 24 | [electropop](../../genres/electropop/overview.md) |
+| 33 | 23 | [electropop](../../genres/electropop/overview.md) |
 | 35 | 22 | [art pop](../../genres/art_pop/overview.md) |
-| 22 | 18 | [modern rock](../../genres/modern_rock/overview.md) |
-| 18 | 15 | baroque pop |
-| 17 | 15 | uk alternative pop |
+| 21 | 17 | [modern rock](../../genres/modern_rock/overview.md) |
+| 17 | 14 | baroque pop |
+| 16 | 14 | uk alternative pop |
 | 10 | 10 | australian pop |
 | 16 | 9 | nz pop |
 | 16 | 9 | bergen indie |
@@ -325,16 +324,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 14 | Songwriter, Lyricist, Arranger, Producer |
+| | Florence Welch | 13 | Songwriter, Lyricist |
 | | FINNEAS | 12 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | | Rob Kinelski | 9 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Producer, Songwriter |
 | | Greg Kurstin | 8 | Producer, Songwriter |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Songwriter, Lyricist, Producer |
 | | Manny Marroquin | 7 | Producer |
+| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
 
 
 <details>
@@ -358,34 +357,33 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
 | | Jesse Shatkin | 4 | Producer, Songwriter |
 | | Mark "Spike" Stent | 4 | Producer |
-| | David Kahne | 3 | Producer |
+| | Justin Parker | 3 | Producer, Songwriter |
+| | Jimmy Robertson | 3 | Producer |
 | | Sally Herbert | 3 | Arranger |
 | | James Ford | 3 | Producer |
-| | Jimmy Robertson | 3 | Producer |
 | | Tom Elmhirst | 3 | Producer |
 | | Grace Chatto | 3 | Producer, Songwriter |
+| | David Kahne | 3 | Producer |
 | | Craig Bishop | 3 | Producer |
-| | Justin Parker | 3 | Producer, Songwriter |
-| | Mark "Top" Rankin | 2 | Producer |
 | | John Hanes | 2 | Producer |
-| | Serban Ghenea | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Markus Dravs | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Serban Ghenea | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | 2 | Songwriter |
+| | Mark "Top" Rankin | 2 | Producer |
 | | Steve Mac | 2 | Songwriter, Producer |
 | | Robin Baynton | 2 | Producer |
 | | Ina Wroldsen | 2 | Songwriter |
 | | Bullion | 2 | Producer |
 | | Luke Patterson | 2 | Producer |
-| | M-Phazes | 2 | Producer |
-| | Chris Braide | 2 | Producer, Songwriter |
-| | Tim Larcombe | 2 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
 | | Rob Kirwan | 2 | Producer |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| | Chris Braide | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
+| | M-Phazes | 2 | Producer |
 | | Mark Ralph | 2 | Producer |
-| | Vincent Degiorgio | 1 | Songwriter |
 | | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
-| | Brent Kolatalo | 1 | Producer |
+| | David Schreurs | 1 | Songwriter |
 | | Will Owen | 1 | Arranger |
 | | Josh Taylor | 1 | Songwriter |
 | | Jia Lih | 1 | Producer |
@@ -395,34 +393,33 @@
 | | Andrew Scheps | 1 | Producer |
 | | Anmol Malik | 1 | Songwriter |
 | | Fred again.. | 1 | Songwriter |
-| | David Schreurs | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | Demi Lovato | 1 | Songwriter |
 | | Josh Diamond | 1 | Songwriter |
-| | Jeremy Hatcher | 1 | Producer |
-| | J. Tyler Johnson | 1 | Songwriter |
-| | James Krausse | 1 | Producer, Songwriter |
-| | Richard Flack | 1 | Producer |
 | | Dan Auerbach | 1 | Producer |
+| | Brent Kolatalo | 1 | Producer |
+| | Jeremy Hatcher | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | Demi Lovato | 1 | Songwriter |
+| | James Krausse | 1 | Producer, Songwriter |
+| | Vincent Degiorgio | 1 | Songwriter |
+| | Richard Flack | 1 | Producer |
 | | Rush | 1 | Songwriter |
 | | Emiko Bankson | 1 | Songwriter |
 | | Jimmy Napes | 1 | Songwriter |
 | | Andrew Swanson | 1 | Producer, Songwriter |
-| | Hugues Payen de La Garanderie | 1 | Producer |
 | | Hans Zimmer | 1 | Arranger |
-| | Hal Ritson | 1 | Producer |
-| | Eli Heisler | 1 | Producer |
+| | J. Tyler Johnson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
 | | SLUMS | 1 | Producer |
 | | Brian Degraw | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | 1 | Producer, Songwriter |
+| | Francis White | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | Diplo | 1 | Producer |
-| | Rich Costey | 1 | Producer |
 | | Robopop | 1 | Producer |
 | | Matt Dunkley | 1 | Arranger |
 | | Thomas Warren | 1 | Producer |
 | | Mat Bartram | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
-| | Tom Moth | 1 | Arranger |
+| | Hal Ritson | 1 | Producer |
 | | Noonie Bao | 1 | Songwriter |
+| | Eli Heisler | 1 | Producer |
 | | KAMILLE | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | Troye Sivan | 1 | Songwriter |
 | | Ali Helnwein | 1 | Arranger |
@@ -432,6 +429,8 @@
 | | Oscar Holter | 1 | Producer, Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
 | | Fagan Wilcox | 1 | Producer |
+| | Hugues Payen de La Garanderie | 1 | Producer |
+| | Rich Costey | 1 | Producer |
 
 </details>
 
@@ -450,8 +449,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> | Surrender (2022-07-29) | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer&#x27;s Block" width="50" /> | Writer's Block (2006-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="Chasing Tomorrow" width="50" /> | Chasing Tomorrow (2022-07-22) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> | Guitar Songs (2022-07-21) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="Dance Fever" width="50" /> | Dance Fever (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook &amp; VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Far (2009-06-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> | Billions (2022-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook &amp; VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0fe249ba64c4b0cd85f3ef6" alt="Billions" width="50" /> | Billions (2022-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Far (2009-06-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |

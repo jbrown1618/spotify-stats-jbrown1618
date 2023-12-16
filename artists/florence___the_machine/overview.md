@@ -33,7 +33,7 @@ Florence + The Machine is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 17 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b2737a4781629469bb83356cd318ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 16 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
@@ -46,7 +46,6 @@ Florence + The Machine is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | 1 | 1 | Dance Fever | 2022-05-13 | [🔗](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
 
 ## Top Record Labels
@@ -54,7 +53,6 @@ Florence + The Machine is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
-| 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | EMI |
 
 ## Genres
@@ -100,7 +98,7 @@ Florence + The Machine is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Florence Welch | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | Florence Welch, Isabella Summers | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | Florence Welch, Isabella Summers | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Free | Florence Welch, Tom Moth | Arranger, Producer, Songwriter |
+| | nan | Florence Welch, Tom Moth | Arranger, Producer, Songwriter |
 
 </details>
 
@@ -109,7 +107,7 @@ Florence + The Machine is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 14 | Songwriter, Lyricist, Arranger, Producer |
+| | Florence Welch | 13 | Songwriter, Lyricist |
 | | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 4 | Producer |
@@ -117,7 +115,7 @@ Florence + The Machine is currently:
 | | James Ford | 3 | Producer |
 | | Sally Herbert | 3 | Arranger |
 | | Jimmy Robertson | 3 | Producer |
-| | Kid Harpoon | 2 | Songwriter |
+| | Bullion | 2 | Producer |
 | | Robin Baynton | 2 | Producer |
 
 
@@ -126,21 +124,19 @@ Florence + The Machine is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Markus Dravs | 2 | Producer |
-| | Bullion | 2 | Producer |
-| | Tom Elmhirst | 2 | Producer |
 | | Mark "Spike" Stent | 2 | Producer |
-| | Francis White | 1 | Lyricist, Songwriter |
+| | Tom Elmhirst | 2 | Producer |
+| | Kid Harpoon | 2 | Songwriter |
+| | Markus Dravs | 2 | Producer |
 | | Mat Bartram | 1 | Producer |
-| | Brian Degraw | 1 | Songwriter |
 | | Ali Helnwein | 1 | Arranger |
-| | Tom Moth | 1 | Arranger |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Brian Degraw | 1 | Songwriter |
 | | Will Owen | 1 | Arranger |
 | | Steve Mackey | 1 | Producer |
 | | Charlie Hugall | 1 | Producer |
 | | Rush | 1 | Songwriter |
 | | Richard Flack | 1 | Producer |
-| | Jack Antonoff | 1 | Producer, Songwriter |
 | | Lizzi Bougatsos | 1 | Songwriter |
 | | John Bellamy | 1 | Songwriter |
 | | Tim Dewit | 1 | Songwriter |
@@ -182,7 +178,6 @@ Florence + The Machine is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/7GlwvJ8iAbCEfZjGq3iwmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | What Kind Of Man | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_) | | [🔗](https://open.spotify.com/track/2ZE1EiHnmtdiv9KAJTGeRq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](overview.md) | EMI | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186" alt="" width="50" /> | Free | Dance Fever | [Florence + The Machine](overview.md) | [Polydor Records](../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) |
 
 </details>
 

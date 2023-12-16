@@ -65,8 +65,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="I made" width="50" /> | Put It Straight (0.698) | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | DALLA DALLA - English Ver. (0.00102) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | ZOOM (0.696) | <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="-77.82x-78.29" width="50" /> | LA DI DA (0.00108) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | Cupid (0.662) | <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="IT&#x27;z Different" width="50" /> | DALLA DALLA (0.00116) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="Yellow Flower" width="50" /> | Starry Night (0.656) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.00151) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="BLUE;S" width="50" /> | Wind flower (0.656) | <img src="https://i.scdn.co/image/ab67616d0000b273fb840294da228213f0fae167" alt="HIT YA!" width="50" /> | HIT YA! (0.00157) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736847aa7310791dcd66f16a5e" alt="Yellow Flower" width="50" /> | Starry Night (0.656) | <img src="https://i.scdn.co/image/ab67616d0000b2737a95bc64165227445ad40054" alt="[Apocalypse : From us]" width="50" /> | DEMIAN (0.00122) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="BLUE;S" width="50" /> | Wind flower (0.656) | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | SWIPE (0.00151) |
 
 ## Instrumentalness
 
