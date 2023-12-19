@@ -29,7 +29,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d17f3be38fe3d25707e840d" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312db32f7e08a1bfb4ace303b" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e0ca4a2881766ad646d449d" alt="" width="50" /> | 1 | 0 | Eagle-Eye Cherry | [🔗](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) |
 | <img src="https://i.scdn.co/image/fe75e6f4ba0b2e75e97e3505f9daa112a606977f" alt="" width="50" /> | 1 | 0 | Fountains Of Wayne | [🔗](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) |
 

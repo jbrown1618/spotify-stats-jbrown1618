@@ -1,6 +1,6 @@
 # Atlantic Records
 
-51 songs
+53 songs
 
 [See Track Features](audio_features.md)
 
@@ -11,6 +11,7 @@ Appears as:
 - Aftermath Entertainment/Atlantic (6 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
+- Monkey Puzzle/Atlantic (2 tracks)
 - Nice Life/Atlantic (2 tracks)
 - Atco/Atlantic (1 tracks)
 - Big Beat Records/Atlantic (1 tracks)
@@ -33,7 +34,7 @@ Appears as:
 
 
 <details>
-<summary>See all 48 artists</summary>
+<summary>See all 49 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -61,6 +62,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe489156e3cd2d327678c8467" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 2 | 0 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 2 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 2 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -93,15 +95,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 2 | 2 | Plans | 2005-08-29 | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 2 | 2 | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | 2 | 0 | Everyday Is Christmas (Deluxe Edition) | 2018-11-01 | [🔗](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | 1 | 1 | Under the Influence (Ultimate Edition) | 2013-05-07 | [🔗](https://open.spotify.com/album/2jeIoe6RbirPCprvXQnqqn) |
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273503a8e191d85be10bab38410" alt="" width="50" /> | 1 | 1 | Under the Influence (Ultimate Edition) | 2013-05-07 | [🔗](https://open.spotify.com/album/2jeIoe6RbirPCprvXQnqqn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | 1 | 1 | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | 1 | 1 | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | 1 | 1 | New Eyes | 2014-06-02 | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
@@ -133,9 +136,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 21 | [pop](../../genres/pop/overview.md) |
+| 29 | 21 | [pop](../../genres/pop/overview.md) |
 | 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
-| 10 | 3 | show tunes |
+| 10 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 5 | 3 | [rap](../../genres/rap/overview.md) |
 | 8 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -146,7 +149,7 @@ Appears as:
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -177,6 +180,8 @@ Appears as:
 | 2 | 0 | trap |
 | 2 | 0 | pop rap |
 | 2 | 0 | hip hop |
+| 2 | 0 | australian pop |
+| 2 | 0 | australian dance |
 | 1 | 0 | trance |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
@@ -371,8 +376,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | At My Worst | The Prelude | Pink Sweat$ | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | It's Quiet Uptown | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of Hamilton | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | The Schuyler Sisters | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, Phillipa Soo, Jasmine Cephas-Jones, Leslie Odom Jr., Original Broadway Cast of Hamilton | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle Records](../monkey_puzzle_records) | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Snowman | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle Records](../monkey_puzzle_records) | | [🔗](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | The 12 Days of Christmas | Christmas Cheers (Deluxe) | Straight No Chaser | [Atco/Atlantic](.) | | [🔗](https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735aee27e178932423c0b7b941" alt="" width="50" /> | I Want You Back (feat. Sara Bareilles) | Under the Influence (Ultimate Edition) | Straight No Chaser, [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5teF3el9gP5j2cf7Dvkbm0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273503a8e191d85be10bab38410" alt="" width="50" /> | I Want You Back (feat. Sara Bareilles) | Under the Influence (Ultimate Edition) | Straight No Chaser, [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/5teF3el9gP5j2cf7Dvkbm0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | Hot In It (feat. Charli XCX) | Hot In It | Tiësto, Charli XCX | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | Heathens | Heathens | Twenty One Pilots | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="" width="50" /> | See You Again (feat. Charlie Puth) | See You Again (feat. Charlie Puth) | Wiz Khalifa, Charlie Puth | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) |

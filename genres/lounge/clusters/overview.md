@@ -4,12 +4,12 @@
 
 ## Cluster #1
 
-11 tracks
+12 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](../../../../labels/geffen) | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" alt="" width="50" /> | Rockin' Around The Christmas Tree | Merry Christmas From Brenda Lee | Brenda Lee | MCA Nashville | | [🔗](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | [Geffen](../../../../labels/geffen) | | [🔗](https://open.spotify.com/track/65Q2mv3UlVi9eO70OpsmSe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | L-O-V-E - 2000 Remaster | Romance | Nat King Cole | [UME - Global Clearing House](../../../../labels/ume___global_clearing_house) | | [🔗](https://open.spotify.com/track/6OHPdG4tYiHRPUHwf68nRU) |
 ## Cluster #2
 
-17 tracks
+16 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -36,10 +36,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Cry Me a River | Crazy Love | [Michael Bublé](../../../../artists/michael_bubl_/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/5i04Jy87RLxoZszJqY3QAN) |
 ## Cluster #3
 
-9 tracks
+10 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra | [Geffen](../../../../labels/geffen) | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Can't Help Falling in Love | Come Fly with Me | [Michael Bublé](../../../../artists/michael_bubl_/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/7igk58Vs9uM2B0aaTUwv6F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | It's Time | [Michael Bublé](../../../../artists/michael_bubl_/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 💚 | [🔗](https://open.spotify.com/track/3ISaSNZCxIzTGwQuBq6Xrr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](../../../../artists/michael_bubl_/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
@@ -47,5 +48,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | The Christmas Song | Christmas (Deluxe Special Edition) | [Michael Bublé](../../../../artists/michael_bubl_/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) | love (Deluxe Edition) | [Michael Bublé](../../../../artists/michael_bubl_/overview.md), Cécile McLorin Salvant | [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="" width="50" /> | Unforgettable | Unforgettable | Nat King Cole | CAPITOL CATALOG MKT (C92) | | [🔗](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | The Christmas Song (Merry Christmas To You) | The Christmas Song (Expanded Edition) | Nat King Cole | CAPITOL CATALOG MKT (C92) | | [🔗](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy | The Nat King Cole Story | Nat King Cole | [Capitol Records](../../../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | The Christmas Song (Merry Christmas To You) | The Christmas Song (Expanded Edition) | Nat King Cole | CAPITOL CATALOG MKT (C92) | | [🔗](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) |

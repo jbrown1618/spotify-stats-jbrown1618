@@ -12,8 +12,8 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 14 | 10 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 14 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 9 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6fff4b133bd150337490935" alt="" width="50" /> | 13 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 9 | 7 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 6 | 5 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 6 | 5 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 8 | 4 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
@@ -119,9 +119,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | 4 | 2 | The Fame | 2008-01-01 | [🔗](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 3 | 3 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | 3 | 2 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | 3 | 2 | Millennium | 1999-05-18 | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 3 | 2 | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | 3 | 1 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="" width="50" /> | 2 | 2 | Who You Are (Platinum Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 
@@ -229,12 +229,12 @@
 |---:|---:|:---|
 | 24 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
 | 18 | 14 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
-| 17 | 11 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 17 | 12 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 14 | 10 | [Jive](../../labels/jive/overview.md) |
 | 13 | 7 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 9 | 7 | [Epic](../../labels/epic/overview.md) |
 | 6 | 5 | [Syco Music](../../labels/syco_music/overview.md) |
-| 6 | 4 | Kemosabe Records |
+| 6 | 5 | Kemosabe Records |
 | 5 | 4 | Beluga Heights |
 | 6 | 3 | Aftermath Entertainment |
 
@@ -287,15 +287,15 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 16 | Producer |
-| | John Hanes | 12 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
+| | Serban Ghenea | 17 | Producer |
+| | John Hanes | 13 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 10 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 7 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | Philip Lawrence | 7 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb6fff4b133bd150337490935" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 6 | Songwriter |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 7 | Songwriter |
 | | Max Martin | 6 | Producer, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb6fff4b133bd150337490935" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
 | | RedOne | 5 | Producer, Songwriter, Arranger |
 
 
@@ -304,26 +304,30 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Manny Marroquin | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 5 | Songwriter |
 | | Charles Moniz | 5 | Producer |
-| | Manny Marroquin | 5 | Producer |
+| | Brody Brown | 4 | Songwriter |
+| | Rami | 4 | Songwriter, Producer |
 | | James Fauntleroy | 4 | Songwriter |
 | | The Smeezingtons | 4 | Producer |
-| | Rami | 4 | Songwriter, Producer |
+| | Dr. Luke | 4 | Producer |
 | | Frank Dukes | 4 | Songwriter, Producer |
-| | Brody Brown | 4 | Songwriter |
 | | Ari Levine | 4 | Producer, Songwriter |
-| | D'Mile | 3 | Producer, Songwriter |
-| | Kristian Lundin | 3 | Producer, Songwriter |
+| | Jonathan Yip | 3 | Songwriter |
+| | Sam Holland | 3 | Producer |
 | | Yeti Beats | 3 | Producer, Songwriter |
-| | Caroline Ailin | 3 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | 3 | Songwriter |
+| | Ray Romulus | 3 | Songwriter |
+| | Ray McCullough | 3 | Songwriter |
+| | D'Mile | 3 | Producer, Songwriter |
+| | Tony Maserati | 3 | Producer |
 | | Louis Bell | 3 | Songwriter, Producer |
+| | Kristian Lundin | 3 | Producer, Songwriter |
+| | Caroline Ailin | 3 | Songwriter, Producer |
 | | Josh Gudwin | 3 | Producer |
 | | Jeremy Reeves | 3 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb284894d68fe2f80cad555110" alt="" width="50" /> | Shakira | 3 | Songwriter |
 | | Andreas Carlsson | 3 | Songwriter, Lyricist |
-| | Ray Romulus | 3 | Songwriter |
-| | Dr. Luke | 3 | Producer |
 | | Brandon Paak Anderson | 3 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
 | | Jason Evigan | 3 | Songwriter |
@@ -331,33 +335,29 @@
 | | Dave Russell | 3 | Producer |
 | | Andrew Wyatt | 3 | Songwriter, Producer |
 | | Robert Orton | 3 | Producer |
-| | Ray McCullough | 3 | Songwriter |
-| | Sam Holland | 3 | Producer |
-| | Jonathan Yip | 3 | Songwriter |
-| | Tony Maserati | 3 | Producer |
-| | Mike Elizondo | 2 | Songwriter, Producer |
-| | Savan Kotecha | 2 | Songwriter |
-| | Rian Lewis | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 2 | Songwriter |
+| | Martin Terefe | 2 | Producer |
 | | Benjamin Rice | 2 | Producer |
 | | Clarence Coffee Jr. | 2 | Songwriter |
-| | Martin Terefe | 2 | Producer |
 | | Sean Douglas | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 2 | Songwriter |
 | | Emily Wright | 2 | Producer |
 | | Claude Kelly | 2 | Songwriter |
-| | Bryce Bordone | 2 | Producer |
-| | Jeff Bhasker | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
-| | Ricky Reed | 2 | Producer, Songwriter |
+| | Savan Kotecha | 2 | Songwriter |
+| | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Tom Elmhirst | 2 | Producer |
-| | Bart Schoudel | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef" alt="" width="50" /> | Justin Timberlake | 2 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
 | | Cameron Gower Poole | 2 | Producer |
-| | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Rogét Chahayed (Chahayed, Rogét) | 2 | Producer, Songwriter |
+| | Rian Lewis | 2 | Producer |
+| | Bryce Bordone | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
 | | Justin Tranter | 2 | Songwriter |
+| | Mike Elizondo | 2 | Songwriter, Producer |
+| | Bart Schoudel | 2 | Producer |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
 | | Andrew Watt | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
 | | Boo Mitchell | 2 | Producer |

@@ -19,7 +19,7 @@ aespa:
 ## Artist Rank
 aespa is currently:
 - The #7 artist of all time
-- The #1 artist of the last 6 months
+- The #2 artist of the last 6 months
 - The #1 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
@@ -29,25 +29,25 @@ aespa is currently:
     - the #7 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #45 track of the last 6 months
+    - the #48 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #22 track of all time
 - Illusion is:
-    - the #27 track of the last month
+    - the #26 track of the last month
     - the #3 track of the last 6 months
-    - the #29 track of all time
+    - the #30 track of all time
 - Welcome To MY World (feat. nævis) is:
     - the #1 track of the last 6 months
 - Drama is:
     - the #1 track of the last month
     - the #2 track of the last 6 months
 - Trick or Trick is:
-    - the #4 track of the last month
+    - the #5 track of the last month
     - the #4 track of the last 6 months
 - Better Things is:
-    - the #7 track of the last month
-    - the #14 track of the last 6 months
+    - the #2 track of the last month
+    - the #6 track of the last 6 months
 - Thirsty is:
     - the #15 track of the last 6 months
 - Spicy is:
@@ -56,16 +56,17 @@ aespa is currently:
     - the #26 track of the last 6 months
 - YEPPI YEPPI is:
     - the #31 track of the last 6 months
-- Hot Air Balloon is:
-    - the #10 track of the last month
 - Don't Blink is:
-    - the #13 track of the last month
-- Jingle Bell Rock is:
-    - the #14 track of the last month
-- Girls is:
     - the #15 track of the last month
+    - the #49 track of the last 6 months
+- Jingle Bell Rock is:
+    - the #6 track of the last month
+- Hot Air Balloon is:
+    - the #13 track of the last month
+- Girls is:
+    - the #16 track of the last month
 - YOLO is:
-    - the #39 track of the last month
+    - the #41 track of the last month
 
 ### Top tracks of all time over time
 
@@ -134,6 +135,7 @@ aespa is currently:
 
 ## Genres
 
+- [k-pop](../../genres/k_pop/overview.md)
 - [k-pop girl group](../../genres/k_pop_girl_group/overview.md)
 
 ## Credits

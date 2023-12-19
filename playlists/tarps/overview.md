@@ -186,7 +186,7 @@
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Radiculture |
 | 1 | 1 | Parlophone Records Limited |
-| 1 | 1 | Monkey Puzzle Records |
+| 1 | 1 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
 | 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |

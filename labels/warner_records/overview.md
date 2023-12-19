@@ -145,6 +145,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 25 | 20 | [k-pop](../../genres/k_pop/overview.md) |
 | 19 | 16 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 24 | 14 | [pop](../../genres/pop/overview.md) |
 | 24 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -154,7 +155,6 @@ Appears as:
 | 13 | 8 | bergen indie |
 | 11 | 6 | [uk pop](../../genres/uk_pop/overview.md) |
 | 11 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 
 
 <details>
@@ -162,8 +162,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
-| 6 | 4 | [k-pop](../../genres/k_pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
@@ -200,7 +200,7 @@ Appears as:
 | 1 | 1 | dirty south rap |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
-| 1 | 0 | show tunes |
+| 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 1 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | modern alternative pop |
 | 1 | 0 | hollywood |

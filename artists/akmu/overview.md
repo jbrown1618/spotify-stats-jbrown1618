@@ -18,6 +18,8 @@ AKMU is currently:
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
 
+- NAKKA (with IU) is:
+    - the #44 track of the last month
 
 ### Top tracks of the last month over time
 

@@ -100,7 +100,7 @@
 | | 1 | 0 | Donna King | [🔗](https://open.spotify.com/artist/4BlarH2Qbfhc3DR4LhHrqp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dff378921e4be2272bf08bef" alt="" width="50" /> | 1 | 0 | Tsidii Le Loka | [🔗](https://open.spotify.com/artist/478Cvh1XjJiURpkqbM23SV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27344c97b0d5d7236ee001f2fd1" alt="" width="50" /> | 1 | 0 | Faca Kulu | [🔗](https://open.spotify.com/artist/43YEHQb9ZzZBBgTMKtgJmG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d17f3be38fe3d25707e840d" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312db32f7e08a1bfb4ace303b" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
 | | 1 | 0 | The Factory Girls | [🔗](https://open.spotify.com/artist/3h4B6ffpCQVSn3QSaTLBna) |
 | | 1 | 0 | Barbara Marineau | [🔗](https://open.spotify.com/artist/3UHGebThLKTMzANl7f83P9) |
 | | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
@@ -178,7 +178,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 23 | 3 | show tunes |
+| 31 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 55 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |

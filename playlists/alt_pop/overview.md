@@ -193,7 +193,7 @@
 | 18 | 9 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 11 | 9 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 13 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
-| 8 | 8 | Monkey Puzzle Records |
+| 8 | 8 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
 | 5 | 4 | Atlantic Records UK |
 | 4 | 4 | Sire |
 | 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |

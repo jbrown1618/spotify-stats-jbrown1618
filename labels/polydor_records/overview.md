@@ -131,7 +131,7 @@ Appears as:
 | 23 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 22 | 0 | west end |
 | 16 | 0 | hollywood |
-| 11 | 0 | show tunes |
+| 11 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 2 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | uk dance |
 | 1 | 0 | shiver pop |

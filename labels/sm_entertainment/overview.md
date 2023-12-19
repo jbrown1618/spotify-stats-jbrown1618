@@ -221,7 +221,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 276 | 190 | [k-pop](../../genres/k_pop/overview.md) |
+| 285 | 198 | [k-pop](../../genres/k_pop/overview.md) |
 | 104 | 77 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 70 | 45 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
