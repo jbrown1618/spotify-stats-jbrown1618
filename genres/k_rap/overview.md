@@ -99,8 +99,8 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 11 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
-| 6 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
-| 6 | 4 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 7 | 5 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 5 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 3 | 2 | P NATION |
 | 1 | 1 | Universal Republic Records |

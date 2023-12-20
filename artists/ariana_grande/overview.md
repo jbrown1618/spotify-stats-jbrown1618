@@ -11,12 +11,18 @@
 ## Artist Rank
 Ariana Grande is currently:
 - The #48 artist of all time
+- The #36 artist of the last 6 months
+- The #19 artist of the last month
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Top Tracks
 
 - Santa Tell Me is:
-    - the #32 track of the last month
+    - the #46 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/ariana_grande/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

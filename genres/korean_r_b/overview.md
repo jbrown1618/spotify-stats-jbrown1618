@@ -134,8 +134,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 27 | 19 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 20 | 13 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 28 | 20 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 19 | 12 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 6 | 5 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 5 | 4 | Feel Ghood Music |
 | 3 | 2 | Million Market |

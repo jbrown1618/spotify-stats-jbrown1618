@@ -2,7 +2,7 @@
 # NewJeans
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f" alt="NewJeans" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="NewJeans" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -20,16 +20,14 @@ NewJeans:
 ## Artist Rank
 NewJeans is currently:
 - The #24 artist of all time
-- The #19 artist of the last 6 months
-- The #18 artist of the last month
+- The #18 artist of the last 6 months
+- The #20 artist of the last month
 
 ![Rank of NewJeans over time](../../images/artists/newjeans/rank_time_series.png)
 ## Top Tracks
 
 - Ditto is:
-    - the #23 track of the last 6 months
-- ASAP is:
-    - the #50 track of the last 6 months
+    - the #24 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -48,6 +46,7 @@ NewJeans is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734897a7925914a3a10ce68c31ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273bf5f4138ebc9ba3fd6f0cde9ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
 
 ## Top Albums
 

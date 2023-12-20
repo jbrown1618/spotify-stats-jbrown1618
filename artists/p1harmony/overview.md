@@ -15,8 +15,6 @@ P1Harmony:
 - has member 테오 (Theo)
 
 ## Artist Rank
-P1Harmony is currently:
-- The #40 artist of the last 6 months
 
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
 ## Top Tracks

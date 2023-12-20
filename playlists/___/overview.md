@@ -132,10 +132,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 2 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 1 | 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 1 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 1 | 1 | Imperial Distribution |
-| 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | DUBLEKICK COMPANY |
 | 1 | 1 | Cre.ker Entertainment |
 | 2 | 0 | ICONIX |

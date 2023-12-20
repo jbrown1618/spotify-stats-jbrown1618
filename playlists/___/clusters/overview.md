@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | Very Very Very | miss me? | I.O.I | [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | | [🔗](https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="" width="50" /> | Very Very Very | miss me? | I.O.I | [Genie Music Corporation](../../../../labels/genie_music_corporation) | | [🔗](https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | [MOMOLAND](../../../../artists/momoland/overview.md) | [MLD ENTERTAINMENT, Kakao Entertainment](../../../../labels/kakao_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac8b86555966c2b9e42688ca" alt="" width="50" /> | BANANA CHACHA | BANANA CHACHA | [MOMOLAND](../../../../artists/momoland/overview.md) | ICONIX | | [🔗](https://open.spotify.com/track/5rEkbyBhnuVXLfe6yp8f3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | Banana Allergy Monkey | BANANA ALLERGY MONKEY | OH MY GIRL BANHANA | [WM Entertainment](../../../../labels/wm_entertainment) | | [🔗](https://open.spotify.com/track/65AWCpJajDOVyllaFigbi9) |

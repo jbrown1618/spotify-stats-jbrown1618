@@ -26,7 +26,7 @@ Girls' Generation:
 ## Artist Rank
 Girls' Generation is currently:
 - The #15 artist of all time
-- The #31 artist of the last 6 months
+- The #33 artist of the last 6 months
 
 ![Rank of Girls' Generation over time](../../images/artists/girls__generation/rank_time_series.png)
 ## Top Tracks

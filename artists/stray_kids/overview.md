@@ -24,8 +24,8 @@ Stray Kids:
 ## Artist Rank
 Stray Kids is currently:
 - The #8 artist of all time
-- The #3 artist of the last 6 months
-- The #6 artist of the last month
+- The #6 artist of the last 6 months
+- The #4 artist of the last month
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
@@ -34,11 +34,15 @@ Stray Kids is currently:
     - the #8 track of the last 6 months
     - the #38 track of all time
 - Back Door is:
-    - the #30 track of the last 6 months
+    - the #31 track of the last 6 months
+- Christmas EveL is:
+    - the #11 track of the last month
+- Winter Falls is:
+    - the #21 track of the last month
 - Social Path (Feat. LiSA) (Korean Ver.) is:
-    - the #20 track of the last month
+    - the #27 track of the last month
 - MEGAVERSE is:
-    - the #29 track of the last month
+    - the #39 track of the last month
 
 ### Top tracks of all time over time
 

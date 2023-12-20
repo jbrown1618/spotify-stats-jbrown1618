@@ -20,8 +20,6 @@ HWASA:
 
 - Maria is:
     - the #6 track of all time
-- Chili is:
-    - the #36 track of the last month
 
 ### Top tracks of all time over time
 

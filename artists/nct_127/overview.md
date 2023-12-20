@@ -2,7 +2,7 @@
 # NCT 127
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb13881a5713d92eeda09e3956" alt="NCT 127" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="NCT 127" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@ NCT 127:
 ## Artist Rank
 NCT 127 is currently:
 - The #21 artist of all time
-- The #22 artist of the last 6 months
+- The #20 artist of the last 6 months
 
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks

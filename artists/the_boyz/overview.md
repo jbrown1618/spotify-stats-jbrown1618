@@ -21,6 +21,8 @@ THE BOYZ:
 - has member 영훈 (Younghoon)
 
 ## Artist Rank
+THE BOYZ is currently:
+- The #15 artist of the last month
 
 
 ## Top Tracks

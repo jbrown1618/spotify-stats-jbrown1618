@@ -20,7 +20,7 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #6 artist of all time
 - The #10 artist of the last 6 months
-- The #30 artist of the last month
+- The #32 artist of the last month
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
@@ -34,12 +34,10 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #15 track of all time
 - DDU-DU DDU-DU is:
-    - the #46 track of the last 6 months
+    - the #47 track of the last 6 months
     - the #39 track of all time
 - Pink Venom is:
     - the #40 track of the last 6 months
-- THE GIRLS - BLACKPINK THE GAME OST is:
-    - the #34 track of the last month
 
 ### Top tracks of all time over time
 
