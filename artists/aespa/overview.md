@@ -19,7 +19,7 @@ aespa:
 ## Artist Rank
 aespa is currently:
 - The #7 artist of all time
-- The #1 artist of the last 6 months
+- The #2 artist of the last 6 months
 - The #1 artist of the last month
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
@@ -29,12 +29,12 @@ aespa is currently:
     - the #7 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #49 track of the last 6 months
+    - the #50 track of the last 6 months
     - the #3 track of all time
 - Black Mamba is:
     - the #23 track of all time
 - Illusion is:
-    - the #35 track of the last month
+    - the #38 track of the last month
     - the #3 track of the last 6 months
     - the #30 track of all time
 - Drama is:
@@ -43,30 +43,29 @@ aespa is currently:
 - Welcome To MY World (feat. nævis) is:
     - the #2 track of the last 6 months
 - Trick or Trick is:
-    - the #6 track of the last month
+    - the #5 track of the last month
     - the #4 track of the last 6 months
 - Better Things is:
-    - the #3 track of the last month
+    - the #2 track of the last month
     - the #6 track of the last 6 months
 - Thirsty is:
-    - the #16 track of the last 6 months
-- Spicy is:
     - the #17 track of the last 6 months
+- Spicy is:
+    - the #19 track of the last 6 months
 - Hold On Tight is:
     - the #27 track of the last 6 months
 - YEPPI YEPPI is:
     - the #32 track of the last 6 months
-- Don't Blink is:
-    - the #18 track of the last month
-    - the #50 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #2 track of the last month
+    - the #6 track of the last month
 - Beautiful Christmas is:
-    - the #9 track of the last month
+    - the #8 track of the last month
 - Hot Air Balloon is:
-    - the #16 track of the last month
-- Girls is:
+    - the #18 track of the last month
+- Don't Blink is:
     - the #19 track of the last month
+- Girls is:
+    - the #20 track of the last month
 
 ### Top tracks of all time over time
 
@@ -131,7 +130,7 @@ aespa is currently:
 |---:|---:|:---|
 | 19 | 16 | [Warner Records](../../labels/warner_records/overview.md) |
 | 10 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 1 | 1 | Parlophone UK |
+| 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 0 | [WM Japan](../../labels/wm_japan/overview.md) |
 
 ## Genres
@@ -243,7 +242,7 @@ aespa is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short | Girls - The 2nd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short (English Version) | Girls - The 2nd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Lingo | Girls - The 2nd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](overview.md) | Parlophone UK | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |

@@ -2,7 +2,9 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e374bccc9346fc196d0a6886" alt="" width="50" /> | Caroline | Give Up The Ghost | Brandi Carlile | [Columbia](../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/4DVgaZDTvz72q3jAepAAbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | That Wasn't Me | Bear Creek | Brandi Carlile | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | Hammer And A Nail | Nomads · Indians · Saints (Expanded Edition) | Indigo Girls | [Epic](../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/2OV25P5lmVqnjKnWfj0FeP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Black Horse And The Cherry Tree | Eye To The Telescope | KT Tunstall | [Relentless/Virgin](../../labels/virgin_records) | 💚 | [🔗](https://open.spotify.com/track/0qAMjeQFyd1qD0LDiV8gWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Other Side Of The World | Eye To The Telescope | KT Tunstall | [Relentless/Virgin](../../labels/virgin_records) | | [🔗](https://open.spotify.com/track/4A9E08l34BkPsCDAmOpHxb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="" width="50" /> | Suddenly I See | Eye To The Telescope | KT Tunstall | [Relentless/Virgin](../../labels/virgin_records) | | [🔗](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) |

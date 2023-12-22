@@ -10,7 +10,7 @@
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](../../../../artists/daft_punk/overview.md), Julian Casablancas | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | Parlophone UK | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | [Parlophone UK](../../../../labels/parlophone_uk) | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
 ## Cluster #2
 
 3 tracks

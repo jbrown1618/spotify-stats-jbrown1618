@@ -2,7 +2,7 @@
 # The Rose
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="The Rose" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebd434a8b25f5a50277b05a402" alt="The Rose" width="100" />
 
 ## Relationships
 

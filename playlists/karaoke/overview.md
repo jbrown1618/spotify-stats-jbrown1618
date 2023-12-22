@@ -189,7 +189,7 @@
 | 1 | 1 | Radiculture |
 | 1 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 1 | RBMG |
-| 1 | 1 | Parlophone UK |
+| 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 1 | Parlophone Records Limited |
 | 1 | 1 | Parkwood Entertainment |
 | 1 | 1 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |

@@ -286,8 +286,8 @@
 | 3 | 3 | Def Jam |
 | 3 | 3 | Casablanca Records |
 | 3 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
-| 3 | 2 | Parlophone UK |
-| 3 | 2 | Fueled By Ramen |
+| 3 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
+| 3 | 2 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 2 | 2 | Wondaland |
 | 2 | 2 | Roc Nation |
 | 2 | 2 | [Reprise](../../labels/reprise/overview.md) |

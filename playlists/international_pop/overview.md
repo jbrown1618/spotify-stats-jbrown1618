@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb243f1b8756f0bbd0fcdb7260" alt="" width="50" /> | 1 | 1 | Roméo Elvis | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ac5b726c329cd3cd0ee5a74" alt="" width="50" /> | 1 | 1 | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | 1 | 1 | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdd9054833178830085eecce" alt="" width="50" /> | 1 | 1 | Gen Hoshino | [🔗](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32d584288871ebb0f90e1866" alt="" width="50" /> | 1 | 1 | NATTI NATASHA | [🔗](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe7b7fa8d03a2e3b6a800bdb4" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e8ef2d28b9487d7af47d75" alt="" width="50" /> | 1 | 1 | 2pillz | [🔗](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) |
@@ -288,7 +288,7 @@
 | 1 | 1 | Ríkisútvarpið - Exclusively distributed by Alda Music |
 | 1 | 1 | Rec. 118 |
 | 1 | 1 | Play Two |
-| 1 | 1 | Parlophone UK |
+| 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 1 | Parkwood Entertainment |
 | 1 | 1 | Mescal |
 | 1 | 1 | LIT ENTERTAINMENT |
@@ -508,7 +508,7 @@
 | | NORiMETAL | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32d584288871ebb0f90e1866" alt="" width="50" /> | NATTI NATASHA | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | 1 | Arranger, Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc25d6d14d5278b5f50d77120" alt="" width="50" /> | Gen Hoshino | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdd9054833178830085eecce" alt="" width="50" /> | Gen Hoshino | 1 | Lyricist, Songwriter |
 | | Vishal-Shekhar | 1 | Songwriter |
 | | 上田剛士 (Ueda, Takeshi) | 1 | Arranger, Songwriter |
 | | 斎藤孝之 (Saito, Takayuki) | 1 | Producer |

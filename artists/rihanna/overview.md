@@ -63,7 +63,7 @@
 | 2 | 2 | Aftermath |
 | 1 | 1 | Roc Nation |
 | 1 | 1 | Rihanna |
-| 1 | 0 | Parlophone UK |
+| 1 | 0 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 0 | [Columbia](../../labels/columbia/overview.md) |
 
 ## Genres
@@ -166,7 +166,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | This Is What You Came For | Calvin Harris, [Rihanna](overview.md) | [Columbia](../../labels/columbia) | | [🔗](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Princess of China | Mylo Xyloto | [Coldplay](../coldplay/overview.md), [Rihanna](overview.md) | Parlophone UK | | [🔗](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Princess of China | Mylo Xyloto | [Coldplay](../coldplay/overview.md), [Rihanna](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | Eminem, [Rihanna](overview.md) | Aftermath | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | Eminem, [Rihanna](overview.md) | Aftermath | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |

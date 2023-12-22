@@ -1,13 +1,13 @@
 # Epic
 
-94 songs
+95 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Epic (73 tracks)
+- Epic (74 tracks)
 - Syco Music/Epic (10 tracks)
 - Epic/Legacy (4 tracks)
 - Epic/Not So Fast (2 tracks)
@@ -32,7 +32,7 @@ Appears as:
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 25 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -41,6 +41,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
@@ -54,7 +55,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 24 artists](../../images/labels/epic/artists.png)
+![Bar chart of top 25 artists](../../images/labels/epic/artists.png)
 
 ## Top Albums
 
@@ -73,7 +74,7 @@ Appears as:
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 33 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -84,6 +85,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | 1 | 1 | Oral Fixation, Vol. 2 (Expanded Edition) | 2005-11-28 | [🔗](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | 1 | 1 | Nomads · Indians · Saints (Expanded Edition) | 1990-09-21 | [🔗](https://open.spotify.com/album/1KpKdn4HLsD9OAN6GEYAIb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | 1 | 1 | Heartbreak Anniversary | 2020-02-21 | [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | 1 | 1 | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
@@ -112,9 +114,9 @@ Appears as:
 | 62 | 41 | [viral pop](../../genres/viral_pop/overview.md) |
 | 61 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 61 | 40 | [lilith](../../genres/lilith/overview.md) |
+| 61 | 40 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
-| 60 | 39 | [lilith](../../genres/lilith/overview.md) |
-| 60 | 39 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 15 | 11 | [pop](../../genres/pop/overview.md) |
 | 11 | 7 | [r&b](../../genres/r_b/overview.md) |
@@ -122,7 +124,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -134,22 +136,23 @@ Appears as:
 | 4 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 4 | 1 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 1 | talent show |
+| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 3 | 1 | girl group |
+| 3 | 1 | folk |
 | 2 | 1 | [rock](../../genres/rock/overview.md) |
 | 2 | 1 | progressive rock |
 | 2 | 1 | new wave pop |
 | 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 2 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
 | 2 | 1 | [album rock](../../genres/album_rock/overview.md) |
+| 1 | 1 | women's music |
 | 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 1 | neo soul |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
 | 1 | 1 | afrofuturism |
-| 2 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
 | 2 | 0 | folk rock |
-| 2 | 0 | folk |
 | 2 | 0 | brill building pop |
 | 1 | 0 | novelty |
 | 1 | 0 | new romantic |
@@ -197,6 +200,7 @@ Appears as:
 | | Mike Piersante | 2 | Producer |
 | | Ali Tamposi | 2 | Songwriter |
 | | Jack Antonoff | 2 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
 | | Anthony Marinelli | 1 | Producer |
 | | Javier Dunn | 1 | Songwriter |
 | | Luis Diaz | 1 | Songwriter |
@@ -215,8 +219,8 @@ Appears as:
 | | Suzie Katayama | 1 | Arranger |
 | | Eric Rosse | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | George Michael | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | Justin Tranter | 1 | Songwriter |
 | | John Hill | 1 | Songwriter |
+| | Scott Litt | 1 | Producer |
 | | Ryan Tedder | 1 | Songwriter |
 | | Sam Farrar | 1 | Songwriter |
 | | Terry Becker | 1 | Producer |
@@ -226,7 +230,7 @@ Appears as:
 | | Tor Erik Hermansen | 1 | Songwriter |
 | | Ant Clemons | 1 | Songwriter |
 | | Starrah | 1 | Songwriter |
-| | Danny D | 1 | Producer |
+| | Tommy Walter | 1 | Producer |
 | | Amy Wadge | 1 | Songwriter |
 | | Bill Wolfer | 1 | Producer |
 | | Chad Vaccarino | 1 | Songwriter |
@@ -234,10 +238,10 @@ Appears as:
 | | Noonie Bao | 1 | Songwriter |
 | | Aaron Sterling | 1 | Songwriter |
 | | Pete Harper | 1 | Songwriter |
-| | Tommy Walter | 1 | Producer |
+| | Danny D | 1 | Producer |
 | | Omar Alfanno | 1 | Songwriter |
 | | Jack Patterson | 1 | Songwriter |
-| | Steve Porcaro | 1 | Producer |
+| | Jerry Duplessis | 1 | Songwriter |
 | | LaTabia Parker | 1 | Songwriter |
 | | Ian Axel | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
@@ -246,8 +250,9 @@ Appears as:
 | | Tim Blacksmith | 1 | Producer |
 | | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
-| | Jerry Duplessis | 1 | Songwriter |
 | | Paul LaMalfa | 1 | Producer |
+| | Zachary Dawes | 1 | Producer |
+| | Emily Saliers | 1 | Lyricist, Songwriter |
 | | Rami Dawod | 1 | Songwriter |
 | | Manny Marroquin | 1 | Producer |
 | | Miles Walker | 1 | Producer |
@@ -256,8 +261,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | Wyclef Jean | 1 | Songwriter |
 | | Joseph Lorge | 1 | Producer |
 | | Brian Lee | 1 | Songwriter |
+| | Steve Porcaro | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
-| | Zachary Dawes | 1 | Producer |
 | | Carl Lieberman, RPT | 1 | Producer |
 | | Jacob Olofsson | 1 | Songwriter |
 | | Jarami | 1 | Producer |
@@ -268,8 +273,6 @@ Appears as:
 | | Mike Anderson | 1 | Producer |
 | | Cashmere Cat | 1 | Producer, Songwriter |
 | | Jeff Glixman | 1 | Producer |
-| | Mike Anderson | 1 | Songwriter |
-| | Priscilla Renea | 1 | Songwriter |
 
 </details>
 
@@ -302,6 +305,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered | Faith | George Michael | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](.) | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](.) | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | Hammer And A Nail | Nomads · Indians · Saints (Expanded Edition) | Indigo Girls | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2OV25P5lmVqnjKnWfj0FeP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_mon_e/overview.md), Jidenna | [Wondaland Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son | Leftoverture (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |

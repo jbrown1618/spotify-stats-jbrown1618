@@ -1,19 +1,20 @@
 # Decca (UMO)
 
-27 songs
+28 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Decca (UMO) (27 tracks)
+- Decca (UMO) (28 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4213569798d691ccce6dfec9" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 1 | Jacob Collier | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/0a5c00ae5ecc0bd8687973a3b3321963821468ad" alt="" width="50" /> | 18 | 0 | Simon Standage | [🔗](https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT) |
 | <img src="https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90" alt="" width="50" /> | 18 | 0 | Antonio Vivaldi | [🔗](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55b58d0ec2693200440f1f51" alt="" width="50" /> | 18 | 0 | The English Concert | [🔗](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA) |
@@ -23,7 +24,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320949e635e974e73edeb7e32" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
 
-![Bar chart of top 9 artists](../../images/labels/decca__umo_/artists.png)
+![Bar chart of top 10 artists](../../images/labels/decca__umo_/artists.png)
 
 ## Top Albums
 
@@ -31,14 +32,16 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | 18 | 0 | Vivaldi: Four Seasons | 2008-01-01 | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | 8 | 0 | Light & Gold | 2010-01-01 | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="" width="50" /> | 1 | 1 | WELLLL | 2023-07-14 | [🔗](https://open.spotify.com/album/6RFuKQSGuvj6f0l9A7wnbm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | 1 | 1 | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 
-![Bar chart of top 3 albums](../../images/labels/decca__umo_/albums.png)
+![Bar chart of top 4 albums](../../images/labels/decca__umo_/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | uk alternative pop |
 | 1 | 1 | folk-pop |
 | 1 | 1 | australian pop |
 | 1 | 1 | australian indie |
@@ -48,20 +51,20 @@ Appears as:
 | 18 | 0 | [baroque](../../genres/baroque/overview.md) |
 | 8 | 0 | contemporary choir |
 | 8 | 0 | choral |
-| 8 | 0 | american 21st century classical |
 
 
 <details>
-<summary>See all 11 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 8 | 0 | american 21st century classical |
 | 8 | 0 | 21st century classical |
 
 </details>
 
 
-![Bar chart of top 11 genres](../../images/labels/decca__umo_/genres.png)
+![Bar chart of top 12 genres](../../images/labels/decca__umo_/genres.png)
 
 ## Tracks released under Decca (UMO)
 
@@ -100,6 +103,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Three Songs Of Faith: I Thank You God For Most This Amazing Day | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/6ryPjtGVmAk6v2rKNBKBc6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Three Songs Of Faith: I Will Wade Out | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/3bMGaK0AfpU3J321Mlm553) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Water Night | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/5w0L0SdyLv7BK8hXctiHhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="" width="50" /> | WELLLL | WELLLL | Jacob Collier | [Decca (UMO)](.) | 💚 | [🔗](https://open.spotify.com/track/4rPv8eZH6ABfkrtxxHHtV4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Geronimo | Bombs Away | Sheppard | [Decca (UMO)](.) | 💚 | [🔗](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) |
 
 </details>

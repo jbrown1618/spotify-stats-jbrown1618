@@ -12,10 +12,14 @@ YOASOBI:
 - has member 幾田りら (Ikuta, Lilas)
 
 ## Artist Rank
+YOASOBI is currently:
+- The #42 artist of the last 6 months
 
 ![Rank of YOASOBI over time](../../images/artists/yoasobi/rank_time_series.png)
 ## Top Tracks
 
+- 海のまにまに is:
+    - the #24 track of the last month
 
 ### Top tracks of the last month over time
 

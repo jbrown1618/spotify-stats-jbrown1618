@@ -4,19 +4,15 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="Sia" width="100" />
 
-[See Track Features](audio_features.md)
-
-[See Clusters](clusters/overview.md)
-
 ## Artist Rank
 
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 10 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 8 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 8 | [Alt-Pop](../../playlists/alt_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733bb056e3160b85ee86c1194dab67616d0000b27346108c072c8e3db5e9ca9838ab67616d0000b2735b82fbf68179592aa8101ce9ab67616d0000b2737657059390a7871c158fd966" alt="" width="50" /> | 3 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
@@ -24,7 +20,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | 5 | 4 | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | 4 | 4 | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 4 | 4 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | 2 | 0 | Everyday Is Christmas (Deluxe Edition) | 2018-11-01 | [🔗](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) |
 
@@ -32,8 +28,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 8 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
-| 9 | 8 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 10 | 8 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
+| 8 | 8 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 
 ## Genres
@@ -108,16 +104,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Bird Set Free | This Is Acting (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle Records](../../labels/monkey_puzzle_records), [RCA Records Label](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle Records](../../labels/monkey_puzzle_records), [RCA Records Label](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills (feat. Sean Paul) | This Is Acting (Deluxe Version) | [Sia](overview.md), Sean Paul | [Monkey Puzzle Records](../../labels/monkey_puzzle_records), [RCA Records Label](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Unstoppable | This Is Acting (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle Records](../../labels/monkey_puzzle_records), [RCA Records Label](../../labels/rca_records_label) | | [🔗](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle Records](../../labels/monkey_puzzle_records) | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
-
-
-<details>
-<summary>See all tracks</summary>
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Snowman | Everyday Is Christmas (Deluxe Edition) | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle Records](../../labels/monkey_puzzle_records) | | [🔗](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) |
-
-</details>
-

@@ -84,7 +84,7 @@
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | Selena Gomez PS |
-| 1 | 0 | Fueled By Ramen |
+| 1 | 0 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 1 | 0 | Decaydance |
 
 

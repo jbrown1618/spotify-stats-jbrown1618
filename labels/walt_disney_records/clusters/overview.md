@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | Under the Sea | The Little Mermaid Special Edition | Samuel E. Wright, Disney | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) |
 ## Cluster #2
 
-33 tracks
+32 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -36,17 +36,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | Out There | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | Tony Jay, Tom Hulce | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/7cX2nwvVfWW3bfScg2f15K) |
 ## Cluster #3
 
-13 tracks
+14 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="" width="50" /> | The Scuttlebutt | The Little Mermaid (Original Motion Picture Soundtrack) | Awkwafina, Daveed Diggs, Disney | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Circle of Life | The Lion King | Carmen Twillie, Lebo M. | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | I'll Make a Man Out of You | Mulan (Original Soundtrack) | Donny Osmond, Chorus - Mulan, Disney | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | I Just Can't Wait to Be King | The Lion King (Original Motion Picture Soundtrack) | JD McCrary, Shahadi Wright Joseph, John Oliver | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/2xUdYfY3LpJb4Iv37RypnO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | I Just Can't Wait to Be King | The Lion King | Jason Weaver, Rowan Atkinson, Laura Williams | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared | The Lion King | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="" width="50" /> | Love Is an Open Door - From "Frozen"/Soundtrack Version | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | Kristen Bell, Santino Fontana | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | A Girl Worth Fighting For | Mulan (Original Soundtrack) | Lea Salonga, Harvey Fierstein, Matthew Wilder, James Hong, Jerry Tondo, Disney | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/3wjgPeXocinhLyPL37p70e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Honor To Us All | Mulan (Original Soundtrack) | Lea Salonga, Beth Fowler, Marni Nixon, Chorus - Mulan, Disney | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | Tangled | Mandy Moore | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="" width="50" /> | I Just Can't Wait To Be King | The Lion King: Original Broadway Cast Recording | Scott Irby-Ranniar, Ensemble - The Lion King, Geoff Hoyle, Kajuana Shuford | [Walt Disney Records](../..) | | [🔗](https://open.spotify.com/track/2hmX7OquuyHXFphptTW68R) |

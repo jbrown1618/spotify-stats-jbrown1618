@@ -27,16 +27,14 @@ TAEYEON is currently:
 - Toddler is:
     - the #15 track of the last 6 months
 - I Got Love is:
-    - the #33 track of the last month
-    - the #23 track of the last 6 months
+    - the #36 track of the last month
+    - the #22 track of the last 6 months
 - To. X is:
     - the #12 track of the last month
 - Burn It Down is:
-    - the #34 track of the last month
+    - the #37 track of the last month
 - Melt Away is:
-    - the #38 track of the last month
-- Candy Cane is:
-    - the #50 track of the last month
+    - the #41 track of the last month
 
 ### Top tracks of the last 6 months over time
 

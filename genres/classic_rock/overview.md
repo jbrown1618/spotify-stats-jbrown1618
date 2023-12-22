@@ -1,6 +1,6 @@
 # classic rock
 
-[133 songs](tracks.md)
+[134 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 31 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 23 | 15 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 24 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 18 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -68,7 +68,7 @@
 
 
 <details>
-<summary>See all 82 albums</summary>
+<summary>See all 83 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -110,6 +110,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | 1 | 1 | Infinity | 1978 | [🔗](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="" width="50" /> | 1 | 1 | Help! (Remastered) | 1965-08-06 | [🔗](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="" width="50" /> | 1 | 1 | Greatest Hits Vol. III | 1997-06-13 | [🔗](https://open.spotify.com/album/3cJ6ZymbUcNGe1T8YZtGyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="" width="50" /> | 1 | 1 | Foreigner (Expanded) | 1977-03-08 | [🔗](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | 1 | 1 | Desperado (2013 Remaster) | 1973-04-17 | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 1 | 1 | Chicago IX: Chicago's Greatest Hits | 1975-11-10 | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
@@ -154,7 +155,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 33 | 23 | [Columbia](../../labels/columbia/overview.md) |
+| 34 | 24 | [Columbia](../../labels/columbia/overview.md) |
 | 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 18 | 12 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 13 | 5 | [Rhino](../../labels/rhino/overview.md) |
@@ -201,8 +202,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
 | | Geoff Emerick | 10 | Producer |
-| | Jim Boyer | 9 | Producer |
 | | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | Jim Boyer | 9 | Producer |
 | | Glyn Johns | 9 | Producer |
 | | Phil Ramone | 9 | Producer |
 
@@ -214,94 +215,94 @@
 |:---|:---|---:|:---|
 | | Phil McDonald | 8 | Producer |
 | | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | Roger Taylor | 6 | Songwriter, Producer |
+| | Roy Thomas Baker | 6 | Producer |
 | | Mike Stone | 6 | Producer |
 | | Norman Smith | 6 | Producer |
-| | Roy Thomas Baker | 6 | Producer |
-| | Roger Taylor | 6 | Songwriter, Producer |
-| | Pete Townshend | 5 | Lyricist, Songwriter |
 | | Chris Thomas | 5 | Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
-| | John Deacon | 3 | Songwriter, Lyricist |
-| | Ken Scott | 3 | Producer |
-| | Kris Fredriksson | 3 | Producer |
-| | Roy Halee | 3 | Producer |
-| | Geoff Workman | 3 | Producer |
-| | Mack | 3 | Producer |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
 | | Roger Waters | 3 | Lyricist, Songwriter |
 | | Art Garfunkel | 3 | Producer |
-| | Ted Brosnan | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
-| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | Geoff Workman | 3 | Producer |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
+| | John Deacon | 3 | Songwriter, Lyricist |
+| | Kris Fredriksson | 3 | Producer |
+| | Mack | 3 | Producer |
+| | Roy Halee | 3 | Producer |
+| | Ken Scott | 3 | Producer |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Mick Jones | 2 | Producer, Songwriter |
+| | John Etchells | 2 | Producer |
+| | David DeVore | 2 | Producer |
 | | Ron Malo | 2 | Producer |
 | | Alan Parsons | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Ted Brosnan | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
-| | David DeVore | 2 | Producer |
-| | John Etchells | 2 | Producer |
-| | Mick Jones | 2 | Producer, Songwriter |
-| | George Harrison | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Michael Omartian | 2 | Arranger |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
 | | Keith Olsen | 2 | Producer |
 | | Barry Sheffield | 2 | Producer |
 | | Barry Mraz | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
 | | Jeff Jarratt | 2 | Producer |
-| | Michael Stewart | 2 | Producer |
 | | Rob Kingsland | 2 | Producer |
 | | Don Puluse | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
-| | Stevie Nicks | 2 | Lyricist, Songwriter |
 | | Phil Spector | 2 | Producer |
-| | Michael Omartian | 2 | Arranger |
-| | Aynsley Dunbar | 1 | Producer |
-| | Bill Ward | 1 | Songwriter |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | Michael Stewart | 2 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Keith Moon | 1 | Producer |
 | | Jon Astley | 1 | Producer |
 | | Keith Richards | 1 | Songwriter |
-| | Jim Ed Norman | 1 | Arranger |
 | | Ahmet Ertegun | 1 | Songwriter |
-| | Terry Becker | 1 | Producer |
-| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Kit Lambert | 1 | Producer |
 | | Robert Lamm | 1 | Lyricist, Songwriter |
 | | Bruce Botnick | 1 | Producer |
-| | Keith Moon | 1 | Producer |
 | | John Sinclair | 1 | Producer |
 | | Caryl Weinstock | 1 | Producer |
 | | Liberty DeVitto | 1 | Arranger |
-| | Kit Lambert | 1 | Producer |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Terry Becker | 1 | Producer |
+| | Aynsley Dunbar | 1 | Producer |
+| | Jim Ed Norman | 1 | Arranger |
+| | Bill Ward | 1 | Songwriter |
 | | Ian McDonald | 1 | Producer |
-| | Tony Iommi | 1 | Songwriter |
-| | Mick Jagger | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Lewis Merenstein | 1 | Producer |
 | | Don Henley | 1 | Songwriter |
+| | Tony Brown | 1 | Producer |
+| | Alvertis Isbell | 1 | Songwriter |
+| | Jeff Glixman | 1 | Producer |
+| | Steve Lindsey | 1 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| | Mick Jagger | 1 | Songwriter |
+| | David Richards | 1 | Producer |
+| | John Hendrickson | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
 | | Jimmy Douglass | 1 | Producer |
 | | Ray Colcord | 1 | Producer |
-| | Glenn Frey | 1 | Songwriter |
-| | Fred Tenny | 1 | Producer |
-| | Lewis Merenstein | 1 | Producer |
 | | Doug Stegmeyer | 1 | Arranger |
+| | Glenn Frey | 1 | Songwriter |
+| | Rodger Bain | 1 | Producer |
+| | Fred Tenny | 1 | Producer |
+| | Justin Niebank | 1 | Producer |
 | | Steve Miller | 1 | Producer, Songwriter |
 | | Neil Diamond | 1 | Lyricist, Songwriter |
+| | Leanne Ungar | 1 | Producer |
 | | George Drakoulias | 1 | Producer |
-| | Rodger Bain | 1 | Producer |
-| | David Richards | 1 | Producer |
-| | Alvertis Isbell | 1 | Songwriter |
-| | Richard Wright | 1 | Songwriter |
-| | Jeff Glixman | 1 | Producer |
+| | Andrew Loog Oldham | 1 | Producer |
+| | Ozzy Osbourne | 1 | Songwriter |
+| | Tom Allom | 1 | Producer |
 | | Brendan O'Brien | 1 | Producer |
+| | David Hassinger | 1 | Producer |
 | | Bert Russell Berns | 1 | Producer |
 | | David Dickson | 1 | Producer |
+| | Robert Charles | 1 | Producer |
 | | Damon Lyon-Shaw | 1 | Producer |
 | | Brian Ross-Myring | 1 | Producer |
 | | Lou Waxman | 1 | Producer |
-| | David Gilmour | 1 | Songwriter |
-| | Ed Walsh | 1 | Producer |
-| | Steve Boyer | 1 | Producer |
-| | Peter Meechan | 1 | Arranger |
-| | Tom Allom | 1 | Producer |
-| | Randy Mason | 1 | Producer |
-| | Lou Gramm | 1 | Songwriter |
-| | Geezer Butler | 1 | Lyricist, Songwriter |
-| | Gary Lyons | 1 | Producer |
 
 </details>
 
@@ -313,11 +314,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | The Essential Van Morrison (2015-12-04) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="50 Big Ones: Greatest Hits" width="50" /> | 50 Big Ones: Greatest Hits (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | 1 (Remastered) (2000-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Shake Your Money Maker (1990-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> | Aftermath (1966-04-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | Greatest Hits Vol. III (1997-06-13) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Shake Your Money Maker (1990-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> | Aftermath (1966-04-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) |
 
 ![Bar chart of number of songs by year](../../images/genres/classic_rock/years.png)

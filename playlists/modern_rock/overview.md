@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[122 tracks (75 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
+[127 tracks (78 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 16 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 8 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 9 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 6 | 5 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 6 | 3 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 56 artists</summary>
+<summary>See all 59 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -38,16 +38,20 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 3 | 1 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c" alt="" width="50" /> | 1 | 1 | Vulfpeck | [🔗](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d23b8a8834a0057adf617f3" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7e9b9c810d709fe4ffa3a2df" alt="" width="50" /> | 1 | 1 | The Happy Fits | [🔗](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4213569798d691ccce6dfec9" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2d07d12c3b1858c7a2f5b48d" alt="" width="50" /> | 1 | 1 | [The Rose](../../artists/the_rose/overview.md) | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd434a8b25f5a50277b05a402" alt="" width="50" /> | 1 | 1 | [The Rose](../../artists/the_rose/overview.md) | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ecf213c7dd78e0049379c5b" alt="" width="50" /> | 1 | 1 | Evanescence | [🔗](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 1 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd6d6884efde36c13c1054f7" alt="" width="50" /> | 1 | 1 | Theo Katzman | [🔗](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | 1 | 1 | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 1 | 1 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
@@ -66,7 +70,6 @@
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd85f631779e65b01349d747" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78125a2515bc78080b2833e8" alt="" width="50" /> | 1 | 0 | cherryfilter | [🔗](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
@@ -101,7 +104,7 @@
 
 
 <details>
-<summary>See all 87 albums</summary>
+<summary>See all 91 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -112,6 +115,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 2 | 2 | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 2 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | 2 | 1 | The Execution Of All Things | 2002-10-01 | [🔗](https://open.spotify.com/album/23EqcK0ZR1ravQaEsGpQyH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | 2 | 1 | So Much (For) Stardust | 2023-03-24 | [🔗](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | 2 | 1 | Metallica | 1991-08-12 | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="" width="50" /> | 2 | 1 | Century Child | 2002 | [🔗](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) |
@@ -139,12 +143,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | 1 | 1 | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | 1 | 1 | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | 1 | 1 | I Love You. | 2013-04-19 | [🔗](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2af63e82adb0206f1296834" alt="" width="50" /> | 1 | 1 | Hill Climber | 2018-12-07 | [🔗](https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="" width="50" /> | 1 | 1 | Ghost City | 2018-08-10 | [🔗](https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | 1 | 1 | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="" width="50" /> | 1 | 1 | Fallen | 2003-03-04 | [🔗](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345637d4f339bac296ba9d5e7" alt="" width="50" /> | 1 | 1 | Dark Passion Play | 2007 | [🔗](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="" width="50" /> | 1 | 1 | Concentrate | 2018-06-15 | [🔗](https://open.spotify.com/album/1mgzsmNo3XcdjonlRIwvFk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | 1 | 1 | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
@@ -175,6 +181,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | 1 | 0 | Hands All Over | 2010 | [🔗](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 0 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | 1 | 0 | From Under The Cork Tree | 2005-05-03 | [🔗](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="" width="50" /> | 1 | 0 | Enema Of The State | 1999-01-01 | [🔗](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
@@ -195,7 +202,7 @@
 | 16 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 15 | 9 | [Warner Records](../../labels/warner_records/overview.md) |
 | 13 | 7 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 7 | 5 | Fueled By Ramen |
+| 9 | 6 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 8 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 4 | 3 | Parlophone Records Limited |
 | 3 | 3 | Steam Powered Giraffe |
@@ -205,13 +212,13 @@
 
 
 <details>
-<summary>See all 50 labels</summary>
+<summary>See all 52 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 3 | 3 | Beaute |
 | 3 | 3 | ATL |
-| 4 | 2 | Parlophone UK |
+| 5 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 3 | 2 | Blackened Recordings |
 | 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | Phonogenic |
@@ -223,6 +230,8 @@
 | 2 | 1 | Saddle Creek |
 | 2 | 1 | Nuclear Blast Entertainment |
 | 1 | 1 | 디컴퍼니 |
+| 1 | 1 | Vulf Records |
+| 1 | 1 | The Happy Fits Records |
 | 1 | 1 | The Bicycle Music Company |
 | 1 | 1 | TVT Records |
 | 1 | 1 | Silent Records |
@@ -259,11 +268,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 60 | 35 | [rock](../../genres/rock/overview.md) |
-| 49 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 62 | 36 | [rock](../../genres/rock/overview.md) |
+| 50 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 42 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
-| 41 | 22 | [modern rock](../../genres/modern_rock/overview.md) |
-| 29 | 19 | [pop](../../genres/pop/overview.md) |
+| 43 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
+| 32 | 20 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
@@ -278,7 +287,7 @@
 |---:|---:|:---|
 | 9 | 7 | chamber pop |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
-| 6 | 5 | pov: indie |
+| 7 | 6 | pov: indie |
 | 6 | 5 | la indie |
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
@@ -291,6 +300,7 @@
 | 4 | 3 | candy pop |
 | 3 | 3 | steampunk |
 | 8 | 2 | post-grunge |
+| 7 | 2 | funk rock |
 | 5 | 2 | metal |
 | 4 | 2 | symphonic metal |
 | 4 | 2 | power metal |
@@ -300,6 +310,7 @@
 | 4 | 2 | finnish power metal |
 | 4 | 2 | finnish metal |
 | 4 | 2 | fantasy metal |
+| 4 | 2 | emo |
 | 3 | 2 | thrash metal |
 | 3 | 2 | pop emo |
 | 3 | 2 | pixie |
@@ -313,19 +324,19 @@
 | 2 | 2 | metropopolis |
 | 2 | 2 | celtic rock |
 | 2 | 2 | canadian rock |
-| 6 | 1 | funk rock |
 | 6 | 1 | funk metal |
 | 5 | 1 | punk |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | neon pop punk |
 | 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 2 | 1 | modern folk rock |
 | 2 | 1 | k-rock |
-| 2 | 1 | emo |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
 | 1 | 1 | social media pop |
 | 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
 | 1 | 1 | nu metal |
+| 1 | 1 | new jersey indie |
 | 1 | 1 | modern power pop |
 | 1 | 1 | math rock |
 | 1 | 1 | math pop |
@@ -336,6 +347,7 @@
 | 1 | 1 | j-rock |
 | 1 | 1 | j-pop |
 | 1 | 1 | italian pop |
+| 1 | 1 | instrumental funk |
 | 1 | 1 | industrial rock |
 | 1 | 1 | industrial metal |
 | 1 | 1 | industrial |
@@ -350,6 +362,7 @@
 | 1 | 1 | brighton indie |
 | 1 | 1 | australian pop |
 | 1 | 1 | australian indie |
+| 1 | 1 | ann arbor indie |
 | 2 | 0 | stoner rock |
 | 2 | 0 | stoner metal |
 | 2 | 0 | sludge metal |
@@ -362,10 +375,6 @@
 | 1 | 0 | swedish alternative rock |
 | 1 | 0 | spacegrunge |
 | 1 | 0 | socal pop punk |
-| 1 | 0 | power pop |
-| 1 | 0 | noise pop |
-| 1 | 0 | new rave |
-| 1 | 0 | modern folk rock |
 
 </details>
 
@@ -376,16 +385,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Nigel Godrich | 12 | Producer |
-| | Colin Greenwood | 12 | Songwriter |
+| | Ed O'Brien | 12 | Songwriter |
 | | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
 | | Philip Selway | 12 | Songwriter |
-| | Ed O'Brien | 12 | Songwriter |
 | | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Nigel Godrich | 12 | Producer |
+| | Colin Greenwood | 12 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
-| | Will Champion | 5 | Songwriter |
-| | Jonny Buckland | 5 | Songwriter |
 | | Jenny Lewis | 5 | Lyricist, Songwriter |
+| | Guy Berryman | 5 | Songwriter |
+| | Will Champion | 5 | Songwriter |
 
 
 <details>
@@ -393,96 +402,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Jonny Buckland | 5 | Songwriter |
 | | Chris Martin | 5 | Songwriter |
-| | Guy Berryman | 5 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
 | | Ken Nelson | 4 | Producer |
-| | James Valentine | 3 | Lyricist, Songwriter |
-| | Blake Sennett | 3 | Songwriter |
-| | Michael Brauer | 3 | Producer |
-| | Joe Newman | 3 | Songwriter |
-| | Paul Q. Kolderie | 3 | Producer |
-| | Thom Green | 3 | Songwriter |
-| | John Leckie | 3 | Producer |
-| | Dan Reynolds | 3 | Songwriter |
-| | Ben McKee | 3 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Wayne Sermon | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | Dan Reynolds | 3 | Songwriter |
 | | Matt Bellamy | 3 | Lyricist, Songwriter |
-| | Sean Slade | 3 | Producer |
-| | Gus Unger-Hamilton | 3 | Songwriter |
-| | Adam Levine | 3 | Lyricist, Songwriter |
 | | Charlie Andrew | 3 | Producer, Songwriter |
+| | Joe Newman | 3 | Songwriter |
+| | Blake Sennett | 3 | Songwriter |
+| | Adam Levine | 3 | Lyricist, Songwriter |
+| | Thom Green | 3 | Songwriter |
+| | Michael Brauer | 3 | Producer |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Ben McKee | 3 | Songwriter |
 | | Jason Lader | 3 | Producer |
+| | John Leckie | 3 | Producer |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Gus Unger-Hamilton | 3 | Songwriter |
+| | James Valentine | 3 | Lyricist, Songwriter |
+| | Sean Slade | 3 | Producer |
 | | Mike Mogis | 3 | Producer |
 | | Rik Simpson | 3 | Producer |
-| | Gwil Sainsbury | 3 | Songwriter |
-| | Jim Warren | 2 | Producer |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
-| | Randy Staub | 2 | Producer |
+| | Tero Kinnunen | 2 | Producer, Arranger |
+| | Chris Walla | 2 | Producer |
+| | Hugo Nicolson | 2 | Producer |
+| | Rick Rubin | 2 | Producer |
+| | Manny Marroquin | 2 | Producer |
+| | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Mark Phythian | 2 | Producer |
 | | Justin Meldal-Johnsen | 2 | Producer |
 | | James Hetfield | 2 | Producer, Songwriter |
 | | Richard Woodcraft | 2 | Producer |
 | | Adrian Bushby | 2 | Producer |
-| | Mark Phythian | 2 | Producer |
-| | Chris Blair | 2 | Producer |
 | | Mickey Madden | 2 | Lyricist, Songwriter |
-| | Mark Trombino | 2 | Producer |
-| | Tommaso Colliva | 2 | Producer |
-| | Tero Kinnunen | 2 | Producer, Arranger |
-| | Ryan Dusick | 2 | Lyricist, Songwriter |
-| | Alex da Kid | 2 | Producer, Songwriter |
-| | Hayley Williams | 2 | Songwriter |
-| | Jesse Carmichael | 2 | Lyricist, Songwriter |
-| | Hugo Nicolson | 2 | Producer |
-| | Rick Rubin | 2 | Producer |
-| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
-| | Chris Walla | 2 | Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
 | | Bob Rock | 2 | Producer |
-| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
-| | Manny Marroquin | 2 | Producer |
-| | Lars Ulrich | 2 | Producer, Songwriter |
-| | Mikko Karmila | 2 | Producer |
-| | Neal Avron | 2 | Producer |
-| | Dan Grech-Marguerat | 2 | Producer |
 | | Beau Sorenson | 2 | Producer |
 | | Josh Mosser | 2 | Producer, Songwriter |
-| | John Cornfield | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | Charles Hart | 1 | Lyricist |
-| | Gerard Navarro | 1 | Producer |
-| | Ryan Hewitt | 1 | Producer |
-| | Joe Viers | 1 | Producer |
-| | Bruno Ellingham | 1 | Producer |
-| | Nikolai Fraiture | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
-| | Rich Costey | 1 | Producer |
-| | John Frusciante | 1 | Songwriter |
-| | Ben Baptie | 1 | Producer |
-| | John O'Mahony | 1 | Producer |
-| | Chad Smith | 1 | Songwriter |
-| | Mattman & Robin | 1 | Producer |
-| | Chris Holmes | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
-| | Tyler Glenn | 1 | Songwriter |
-| | Andrew Kapner | 1 | Producer |
-| | Danny O'Donoghue | 1 | Songwriter |
-| | Mark Linett | 1 | Producer |
+| | Chris Blair | 2 | Producer |
+| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
+| | Randy Staub | 2 | Producer |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Jesse Carmichael | 2 | Lyricist, Songwriter |
+| | Lars Ulrich | 2 | Producer, Songwriter |
+| | Dan Grech-Marguerat | 2 | Producer |
+| | Mark Trombino | 2 | Producer |
+| | Neal Avron | 2 | Producer |
+| | Hayley Williams | 2 | Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Mikko Karmila | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| | Emppu Vuorinen | 1 | Arranger, Producer |
-| | Nate Walcott | 1 | Arranger |
-| | Taylor York | 1 | Producer, Songwriter |
-| | Jimmy Tamborello | 1 | Producer |
-| | Graeme Stewart | 1 | Producer |
 | | Ben Sabin | 1 | Producer |
-| | Ben Boyer | 1 | Songwriter |
-| | Ren Swan | 1 | Producer |
-| | Gordon Raphael | 1 | Producer |
+| | Trent Reznor | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | John O'Mahony | 1 | Producer |
+| | Mattman & Robin | 1 | Producer |
+| | Emppu Vuorinen | 1 | Arranger, Producer |
+| | Bruno Ellingham | 1 | Producer |
+| | Ryan Hewitt | 1 | Producer |
+| | Tyler Glenn | 1 | Songwriter |
+| | Gerard Navarro | 1 | Producer |
+| | John Cornfield | 1 | Producer |
+| | Andrew Kapner | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ed29d6d48829666efc8f609" alt="" width="50" /> | Nightwish | 1 | Producer |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Adam Hawkins | 1 | Producer |
+| | Mark Linett | 1 | Producer |
+| | Jonathan Gerring | 1 | Producer |
+| | Nate Walcott | 1 | Arranger |
+| | Danny O'Donoghue | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | John Frusciante | 1 | Songwriter |
+| | Andrew Scheps | 1 | Producer |
+| | Terhi Kallio | 1 | Producer |
 | | Zachary Abels | 1 | Songwriter |
-| | Steve Osborne | 1 | Producer |
+| | Graeme Stewart | 1 | Producer |
+| | Taylor York | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
+| | Ben Boyer | 1 | Songwriter |
+| | Joe Viers | 1 | Producer |
 | | Ben Tolliday | 1 | Producer |
-| | Markus Dravs | 1 | Producer |
+| | Chris Holmes | 1 | Producer |
+| | Chad Smith | 1 | Songwriter |
+| | Rich Costey | 1 | Producer |
 
 </details>
 
@@ -496,13 +505,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="Ghost City" width="50" /> | Ghost City (2018-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="Void" width="50" /> | Void (2018-04-16) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Chosen (2017-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> | The Downward Spiral (1994-03-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> | Ambitions (2017-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | REMIND (2016-10-26) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="Heathens" width="50" /> | Heathens (2016-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="So Much (For) Stardust" width="50" /> | So Much (For) Stardust (2023-03-24) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="Everyday Life" width="50" /> | Everyday Life (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2af63e82adb0206f1296834" alt="Hill Climber" width="50" /> | Hill Climber (2018-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> | The Downward Spiral (1994-03-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="Ghost City" width="50" /> | Ghost City (2018-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="Concentrate" width="50" /> | Concentrate (2018-06-15) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="Void" width="50" /> | Void (2018-04-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Chosen (2017-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |

@@ -27,8 +27,8 @@ EXO:
 ## Artist Rank
 EXO is currently:
 - The #17 artist of all time
-- The #26 artist of the last 6 months
-- The #16 artist of the last month
+- The #27 artist of the last 6 months
+- The #18 artist of the last month
 
 ![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
 ## Top Tracks
@@ -36,9 +36,9 @@ EXO is currently:
 - Love Shot is:
     - the #36 track of all time
 - Monster is:
-    - the #48 track of the last 6 months
+    - the #49 track of the last 6 months
 - The First Snow is:
-    - the #24 track of the last month
+    - the #26 track of the last month
 
 ### Top tracks of all time over time
 
@@ -59,7 +59,6 @@ EXO is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733bb056e3160b85ee86c1194dab67616d0000b27346108c072c8e3db5e9ca9838ab67616d0000b2735b82fbf68179592aa8101ce9ab67616d0000b2737657059390a7871c158fd966" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 
 ## Top Albums
@@ -83,7 +82,6 @@ EXO is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737657059390a7871c158fd966" alt="" width="50" /> | 1 | 0 | EXIST – The 7th Album | 2023-07-10 | [🔗](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) |
 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="" width="50" /> | 1 | 0 | 12월의 기적 Miracles in December | 2013-12-09 | [🔗](https://open.spotify.com/album/7taKyOK4LYB8uEDoR0x2NQ) |
 
 </details>
@@ -93,7 +91,7 @@ EXO is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 16 | 8 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 15 | 8 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 
 ## Genres
 
@@ -126,7 +124,6 @@ EXO is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | No matter | DON'T FIGHT THE FEELING - Special Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Paradise | DON'T FIGHT THE FEELING - Special Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | Runaway | DON'T FIGHT THE FEELING - Special Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737657059390a7871c158fd966" alt="" width="50" /> | Let Me In | EXIST – The 7th Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/3s9YpuocAjzVt0NLshCrpT) |
 
 </details>
 

@@ -50,7 +50,7 @@
 | 4 | 3 | ADA France |
 | 3 | 3 | Lindseystomp Records |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
-| 1 | 1 | Parlophone UK |
+| 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 0 | Universal Republic Records |
 | 1 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 0 | BMG Rights Management (US) LLC |

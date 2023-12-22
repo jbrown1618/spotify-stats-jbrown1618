@@ -1,6 +1,6 @@
 # modern rock
 
-[69 songs](tracks.md)
+[72 songs](tracks.md)
 
 [See Track Features](audio_features.md)
 
@@ -23,10 +23,11 @@
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 3 | 1 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59" alt="" width="50" /> | 1 | 1 | Young the Giant | [🔗](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) |
@@ -39,16 +40,16 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb337d671a32b2f44d4a4e6cf2" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb83671efd372de7007f612e2" alt="" width="50" /> | 1 | 0 | Jukebox The Ghost | [🔗](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) |
 
 </details>
 
 
-![Bar chart of top 27 artists](../../images/genres/modern_rock/artists.png)
+![Bar chart of top 28 artists](../../images/genres/modern_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/modern_rock/artists_comparison.png)
 ## Top Albums
@@ -68,10 +69,11 @@
 
 
 <details>
-<summary>See all 45 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | 2 | 1 | So Much (For) Stardust | 2023-03-24 | [🔗](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
@@ -93,6 +95,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="" width="50" /> | 1 | 0 | Nimrod | 1997-10-14 | [🔗](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aaf8c068ffe217db825a1945" alt="" width="50" /> | 1 | 0 | Move Along | 2005-01-01 | [🔗](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e39924311bcd74bcd9f8dde1" alt="" width="50" /> | 1 | 0 | Jukebox The Ghost | 2015-04-07 | [🔗](https://open.spotify.com/album/3K5jW2vkunhourPeQ3DiwV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | 1 | 0 | In Your Honor | 2005-06-14 | [🔗](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
@@ -118,8 +121,8 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
+| 8 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 7 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 6 | 4 | Fueled By Ramen |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 3 | Kid Ina Korner |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
@@ -130,7 +133,7 @@
 
 
 <details>
-<summary>See all 24 labels</summary>
+<summary>See all 26 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -145,14 +148,16 @@
 | 2 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | Sub Pop Records |
-| 1 | 0 | Parlophone UK |
+| 1 | 0 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
+| 1 | 0 | Kierszenbaum |
 | 1 | 0 | EMI |
 | 1 | 0 | Decaydance |
+| 1 | 0 | Cherrytree Records |
 
 </details>
 
 
-![Bar chart of top 24 record labels](../../images/genres/modern_rock/labels.png)
+![Bar chart of top 26 record labels](../../images/genres/modern_rock/labels.png)
 
 ## Top Producers
 
@@ -188,44 +193,45 @@
 | | Sally Herbert | 3 | Arranger |
 | | Gwil Sainsbury | 3 | Songwriter |
 | | Mark "Spike" Stent | 3 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Marcus Mumford | 2 | Songwriter |
-| | Tommaso Colliva | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12268e4229226dd78dfebcd0" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
-| | Alex da Kid | 2 | Producer, Songwriter |
-| | Kid Harpoon | 2 | Songwriter |
-| | Rob Kirwan | 2 | Producer |
-| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
-| | Adrian Bushby | 2 | Producer |
-| | Beau Sorenson | 2 | Producer |
-| | Justin Meldal-Johnsen | 2 | Producer |
-| | Winston Marshall | 2 | Songwriter |
-| | Ted Dwane | 2 | Songwriter |
-| | Chris Walla | 2 | Producer |
-| | Bullion | 2 | Producer |
-| | Manny Marroquin | 2 | Producer |
-| | Neal Avron | 2 | Producer |
-| | Hayley Williams | 2 | Songwriter |
-| | Ruadhri Cushnan | 2 | Producer |
-| | Ricky Reed | 2 | Producer, Songwriter |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
 | | Tom Elmhirst | 2 | Producer |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
-| | Josh Mosser | 2 | Producer, Songwriter |
+| | Kid Harpoon | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12268e4229226dd78dfebcd0" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Rob Kirwan | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | Justin Meldal-Johnsen | 2 | Producer |
+| | Ted Dwane | 2 | Songwriter |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Chris Walla | 2 | Producer |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Beau Sorenson | 2 | Producer |
+| | Manny Marroquin | 2 | Producer |
+| | Tommaso Colliva | 2 | Producer |
+| | Winston Marshall | 2 | Songwriter |
 | | Ben Lovett | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Producer |
-| | Adam Hawkins | 1 | Producer |
-| | Rush | 1 | Songwriter |
-| | Nikolai Fraiture | 1 | Songwriter |
-| | Fabrizio Moretti | 1 | Songwriter |
-| | Charlie Hugall | 1 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Bullion | 2 | Producer |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Neal Avron | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Ruadhri Cushnan | 2 | Producer |
+| | Hayley Williams | 2 | Songwriter |
+| | Mattman & Robin | 1 | Producer |
 | | Rick Rubin | 1 | Producer |
-| | Jim Adkins | 1 | Songwriter |
+| | John Cornfield | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Producer |
 | | Steve Mackey | 1 | Producer |
-| | Justin Tranter | 1 | Songwriter |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Rush | 1 | Songwriter |
+| | Jim Adkins | 1 | Songwriter |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Ali Helnwein | 1 | Arranger |
+| | Charlie Hugall | 1 | Producer |
 | | Mattias Larsson | 1 | Songwriter |
-| | Jason Lader | 1 | Producer |
 | | Josh Diamond | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
 | | Andrew Scheps | 1 | Producer |
@@ -239,34 +245,33 @@
 | | Rich Costey | 1 | Producer |
 | | Daniel Platzman | 1 | Songwriter |
 | | Mat Bartram | 1 | Producer |
-| | John Cornfield | 1 | Producer |
-| | Billy Bush | 1 | Producer |
-| | Ali Helnwein | 1 | Arranger |
-| | Gordon Raphael | 1 | Producer |
 | | Ben Baptie | 1 | Producer |
-| | Albert Hammond, Jr. | 1 | Songwriter |
-| | Mattman & Robin | 1 | Producer |
-| | François Chevallier (Chevallier, François) | 1 | Producer |
-| | Mark "Top" Rankin | 1 | Producer |
-| | Toshikazu Yoshioka | 1 | Producer |
+| | Billy Bush | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
+| | Jason Lader | 1 | Producer |
+| | Tyler Glenn | 1 | Songwriter |
+| | Tim Pagnotta | 1 | Songwriter |
+| | Andrew Kapner | 1 | Producer |
 | | John Leckie | 1 | Producer |
-| | Josh Farro | 1 | Songwriter |
 | | Mike Elizondo | 1 | Producer |
+| | Andy Hurley | 1 | Songwriter |
 | | Matt Allchin | 1 | Songwriter |
 | | Pete Min | 1 | Producer |
+| | Joe Trohman | 1 | Songwriter |
+| | Patrick Stump | 1 | Songwriter |
 | | Dave Bayley | 1 | Songwriter |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
 | | Chris Lord-Alge | 1 | Producer |
-| | Tyler Glenn | 1 | Songwriter |
 | | David Bendeth | 1 | Producer |
-| | Robin Fredriksson | 1 | Songwriter |
+| | Pete Wentz | 1 | Songwriter |
 | | Jeremy Freedman | 1 | Songwriter |
 | | Anthony B. Stephens | 1 | Songwriter |
 | | Rick Burch | 1 | Songwriter |
 | | Ric Peet | 1 | Producer |
-| | Nick Valensi | 1 | Songwriter |
 | | Nick Harmer | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59" alt="" width="50" /> | Young the Giant | 1 | Songwriter |
-| | Jesse | 1 | Lyricist, Songwriter |
+| | Justyn Pilbrow | 1 | Producer |
+| | Justin Tranter | 1 | Songwriter |
+| | Nick Valensi | 1 | Songwriter |
 
 </details>
 
@@ -274,15 +279,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Dreamland (+ Bonus Levels) (2020-08-06) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | High As Hope (2018-06-29) | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="Enema Of The State" width="50" /> | Enema Of The State (1999-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | There Is Nothing Left To Lose (1999-11-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> | Fitz and The Tantrums (Deluxe Edition) (2017-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Origin of Symmetry (2001) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | Bleed American (2001-07-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | How To Be A Human Being (2016-08-26) | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Is This It (2001-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="Heathens" width="50" /> | Heathens (2016-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Room On Fire (2003-10-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (2015-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Hot Fuss (2004) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" alt="Blurryface" width="50" /> | Blurryface (2015-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (2004-09-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="So Much (For) Stardust" width="50" /> | So Much (For) Stardust (2023-03-24) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Dreamland (+ Bonus Levels) (2020-08-06) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="Enema Of The State" width="50" /> | Enema Of The State (1999-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | High As Hope (2018-06-29) | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="There Is Nothing Left To Lose" width="50" /> | There Is Nothing Left To Lose (1999-11-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="Origin of Symmetry" width="50" /> | Origin of Symmetry (2001) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="Fitz and The Tantrums (Deluxe Edition)" width="50" /> | Fitz and The Tantrums (Deluxe Edition) (2017-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | Bleed American (2001-07-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Is This It (2001-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | How To Be A Human Being (2016-08-26) | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="Room On Fire" width="50" /> | Room On Fire (2003-10-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="Heathens" width="50" /> | Heathens (2016-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Hot Fuss (2004) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (2015-06-01) | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="American Idiot" width="50" /> | American Idiot (2004-09-21) |
 
 ![Bar chart of number of songs by year](../../images/genres/modern_rock/years.png)

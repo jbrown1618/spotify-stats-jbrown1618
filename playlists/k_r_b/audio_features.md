@@ -63,10 +63,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="GABRIEL" width="50" /> | LIMBO (0.879) | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty (0.00196) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4534c642e6939abd0a1a867" alt="Serenade" width="50" /> | Run With Me (0.868) | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="ONLY LOVERS LEFT" width="50" /> | WAITING (0.00213) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10" width="50" /> | MY LOVE (0.859) | <img src="https://i.scdn.co/image/ab67616d0000b2735e24ed982c42289b1e7cbc19" alt="LOVE &amp; FEAR" width="50" /> | MRCH Mood (0.00316) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="Hwa:telier" width="50" /> | In The Fall (0.854) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Animal Farm (0.0201) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | Amusement Park (0.85) | <img src="https://i.scdn.co/image/ab67616d0000b273ef7163d0408b919108bc9627" alt="The Volunteers" width="50" /> | Radio (0.0226) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | BIBI Vengeance (0.0272) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | FXXK WIT US (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="Hwa:telier" width="50" /> | In The Fall (0.854) | <img src="https://i.scdn.co/image/ab67616d0000b2735b82fbf68179592aa8101ce9" alt="Black Diaryy" width="50" /> | Cheetos (feat. ZENE THE ZILLA) (0.00556) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | Amusement Park (0.85) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Animal Farm (0.0201) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273ef7163d0408b919108bc9627" alt="The Volunteers" width="50" /> | Radio (0.0226) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural (0.841) | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | BIBI Vengeance (0.0272) |
 
 ## Instrumentalness
 
@@ -116,8 +116,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="Boat" width="50" /> | Boat (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | FREEDOM (0.152) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="SEOULITE" width="50" /> | MY STAR (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b273a4534c642e6939abd0a1a867" alt="Serenade" width="50" /> | Run With Me (0.156) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.908) | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10" width="50" /> | MY LOVE (0.158) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="Love Theory - SM STATION" width="50" /> | Love Theory (0.888) | <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="GABRIEL" width="50" /> | UNDERSTAND (0.163) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | 1, 2 (0.881) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | Melted (0.169) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b82fbf68179592aa8101ce9" alt="Black Diaryy" width="50" /> | Cheetos (feat. ZENE THE ZILLA) (0.906) | <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="GABRIEL" width="50" /> | UNDERSTAND (0.163) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="Love Theory - SM STATION" width="50" /> | Love Theory (0.888) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | Melted (0.169) |
 
 ## Tempo
 

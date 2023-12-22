@@ -22,7 +22,7 @@ SUNMI is currently:
 ## Top Tracks
 
 - Heart Burn is:
-    - the #41 track of the last month
+    - the #13 track of the last month
 
 ### Top tracks of the last month over time
 

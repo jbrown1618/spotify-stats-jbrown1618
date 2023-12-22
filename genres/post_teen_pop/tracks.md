@@ -3,7 +3,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | Low Key (feat. Tyga) | Ally Brooke, Tyga | [Latium/Atlantic](../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Good Girls Go Bad (feat. Leighton Meester) | Hot Mess | Cobra Starship, Leighton Meester | Decaydance/Fueled By Ramen | | [🔗](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | Good Girls Go Bad (feat. Leighton Meester) | Hot Mess | Cobra Starship, Leighton Meester | [Decaydance/Fueled By Ramen](../../labels/fueled_by_ramen) | | [🔗](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Heart Attack | Demi | Demi Lovato | [Hollywood Records](../../labels/hollywood_records) | | [🔗](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Stone Cold | Confident | Demi Lovato | [Hollywood Records](../../labels/hollywood_records) | 💚 | [🔗](https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | One Step At a Time | Jordin Sparks | Jordin Sparks | 19 Recordings | | [🔗](https://open.spotify.com/track/5o4W6yWSJD9e9Ea8YC9WjF) |

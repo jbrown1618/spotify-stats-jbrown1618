@@ -10,8 +10,8 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #19 artist of the last 6 months
-- The #6 artist of the last month
+- The #20 artist of the last 6 months
+- The #7 artist of the last month
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
