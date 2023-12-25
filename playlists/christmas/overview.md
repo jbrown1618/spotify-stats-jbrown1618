@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="Christmas" width="100" />
 
-[104 tracks (7 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
+[105 tracks (7 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 91 artists</summary>
+<summary>See all 92 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -87,6 +87,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bd2ada8cc664dde48c07145" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 1 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 1 | 0 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea26dccb0730df6d90d8dd09" alt="" width="50" /> | 1 | 0 | Peter Auty | [🔗](https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
@@ -136,7 +137,7 @@
 
 
 <details>
-<summary>See all 84 albums</summary>
+<summary>See all 85 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -153,6 +154,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | 1 | 0 | When It Snows mmm (feat. Wheein) | 2020-12-23 | [🔗](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6391d4d96b0b5d5073fdb64" alt="" width="50" /> | 1 | 0 | This Christmas - Single | 2010-12-01 | [🔗](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273abada41dbdde14489722619c" alt="" width="50" /> | 1 | 0 | The Wonder Years - Trilogy | 2008-09-22 | [🔗](https://open.spotify.com/album/5apL7r2YXvPSkB8CxaZ7Pv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | 1 | 0 | The Winter's Tale | 2014-12-22 | [🔗](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bac59035ed97c8cf85a65eb8" alt="" width="50" /> | 1 | 0 | The Snowman | 2007-11-23 | [🔗](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | 0 | The Essential Eartha Kitt | 2011-03-15 | [🔗](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) |
@@ -225,7 +227,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 17 | 3 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 5 | 2 | [Republic Records](../../labels/republic_records/overview.md) |
+| 6 | 2 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 1 | 1 | EDAM Entertainment |
 | 9 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
@@ -300,7 +302,7 @@
 | 33 | 5 | [k-pop](../../genres/k_pop/overview.md) |
 | 24 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 10 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 11 | 2 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 16 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 12 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |

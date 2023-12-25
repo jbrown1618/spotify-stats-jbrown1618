@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="The 1st Single &#x27;행복(Happiness)&#x27;" width="50" /> | 행복 (Happiness) (0.725) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | DARK (X-file) (0.0372) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="SHAKE IT" width="50" /> | SHAKE IT (0.715) | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="BLACK DRESS" width="50" /> | BLACK DRESS (0.0386) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | LP (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> | Chico malo (0.0394) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Genie (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="Red Light - The 3rd Album" width="50" /> | Red Light (0.0414) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Genie (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2731843adfbfa28251264ed9bc6" alt="LIT" width="50" /> | LIT (0.0405) |
 
 ## Valence
 

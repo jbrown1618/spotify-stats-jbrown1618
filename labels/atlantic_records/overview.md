@@ -140,7 +140,7 @@ Appears as:
 | 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 5 | 3 | [rap](../../genres/rap/overview.md) |
-| 8 | 2 | [broadway](../../genres/broadway/overview.md) |
+| 7 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | washington indie |
 | 2 | 2 | vocal jazz |

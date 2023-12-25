@@ -179,7 +179,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 31 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
-| 55 | 2 | [broadway](../../genres/broadway/overview.md) |
+| 54 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 7 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |

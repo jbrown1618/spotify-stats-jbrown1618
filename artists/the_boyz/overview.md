@@ -22,7 +22,7 @@ THE BOYZ:
 
 ## Artist Rank
 THE BOYZ is currently:
-- The #16 artist of the last month
+- The #18 artist of the last month
 
 
 ## Top Tracks

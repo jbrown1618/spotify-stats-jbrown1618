@@ -5,6 +5,8 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="Sia" width="100" />
 
 ## Artist Rank
+Sia is currently:
+- The #29 artist of the last month
 
 
 ## Featured on Playlists

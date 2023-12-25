@@ -29,7 +29,7 @@ NCT DREAM is currently:
 ## Top Tracks
 
 - BOOM is:
-    - the #21 track of all time
+    - the #20 track of all time
 
 ### Top tracks of all time over time
 

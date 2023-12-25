@@ -10,6 +10,8 @@ Jackson Wang:
 - is a member of GOT7
 
 ## Artist Rank
+Jackson Wang is currently:
+- The #50 artist of all time
 
 ![Rank of Jackson Wang over time](../../images/artists/jackson_wang/rank_time_series.png)
 ## Top Tracks

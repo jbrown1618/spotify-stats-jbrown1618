@@ -29,13 +29,14 @@
 
 - LATATA is:
     - the #16 track of all time
-- Uh-Oh is:
-    - the #29 track of all time
 - Oh my god is:
-    - the #30 track of the last 6 months
-    - the #42 track of all time
+    - the #13 track of the last month
+    - the #9 track of the last 6 months
+    - the #29 track of all time
+- Uh-Oh is:
+    - the #31 track of all time
 - All Night is:
-    - the #13 track of the last 6 months
+    - the #14 track of the last 6 months
 - I Want That is:
     - the #4 track of the last month
 

@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27379157283898948a867d98344" alt="" width="50" /> | You're A Mean One, Mr. Grinch | Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack) | Thurl Ravenscroft, Boris Karloff | WaterTower Music | | [🔗](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) |
 ## Cluster #3
 
-41 tracks
+42 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

@@ -19,7 +19,7 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #3 artist of all time
+- The #4 artist of all time
 - The #4 artist of the last 6 months
 - The #5 artist of the last month
 
@@ -27,14 +27,16 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #45 track of the last month
-    - the #9 track of the last 6 months
+    - the #47 track of the last month
+    - the #10 track of the last 6 months
     - the #18 track of all time
 - CAKE is:
-    - the #44 track of the last month
-    - the #10 track of the last 6 months
+    - the #46 track of the last month
+    - the #11 track of the last 6 months
 - Kill Shot is:
-    - the #39 track of the last 6 months
+    - the #42 track of the last 6 months
+- BET ON ME is:
+    - the #28 track of the last month
 
 ### Top tracks of all time over time
 

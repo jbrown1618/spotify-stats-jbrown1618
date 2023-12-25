@@ -18,23 +18,23 @@ TAEYEON:
 ## Artist Rank
 TAEYEON is currently:
 - The #9 artist of all time
-- The #7 artist of the last 6 months
+- The #8 artist of the last 6 months
 - The #3 artist of the last month
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
 - Toddler is:
-    - the #15 track of the last 6 months
+    - the #16 track of the last 6 months
 - I Got Love is:
-    - the #36 track of the last month
-    - the #22 track of the last 6 months
-- To. X is:
-    - the #12 track of the last month
-- Burn It Down is:
     - the #37 track of the last month
+    - the #23 track of the last 6 months
+- To. X is:
+    - the #11 track of the last month
+- Burn It Down is:
+    - the #38 track of the last month
 - Melt Away is:
-    - the #41 track of the last month
+    - the #42 track of the last month
 
 ### Top tracks of the last 6 months over time
 

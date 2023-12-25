@@ -47,9 +47,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | JACKPOT (0.345) | <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="SHINee The 3rd Album &#x27;The Misconceptions Of Us&#x27;" width="50" /> | Orgel (0.0299) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | VENOM (0.339) | <img src="https://i.scdn.co/image/ab67616d0000b273ec55d2dad1aefc7d57745633" alt="SUNRISE" width="50" /> | Man in a Movie (0.03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | S-Class (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b2732ce067b763f6a4938cb8a501" alt="HEY TAYO" width="50" /> | Hey Tayo - Tayo Opening Theme Song (0.0306) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap (0.311) | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="Return" width="50" /> | LOVE SCENARIO (0.0307) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.306) | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | Drive (Bang Chan, Lee Know) (0.0314) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | 3RACHA (Bang Chan, Changbin, HAN) (0.301) | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | Orange Flower (You Complete Me) (0.0324) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | Crescendo (0.315) | <img src="https://i.scdn.co/image/ab67616d0000b27348f4704427189fe1957d2871" alt="Return" width="50" /> | LOVE SCENARIO (0.0307) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap (0.311) | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | Drive (Bang Chan, Lee Know) (0.0314) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="Skool Luv Affair" width="50" /> | Boy in Luv (0.306) | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | Orange Flower (You Complete Me) (0.0324) |
 
 ## Acousticness
 

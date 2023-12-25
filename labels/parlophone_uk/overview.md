@@ -45,18 +45,17 @@ Appears as:
 | 1 | 1 | proto-techno |
 | 1 | 1 | new wave |
 | 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
 | 1 | 1 | escape room |
 | 1 | 1 | electro |
 | 1 | 1 | early synthpop |
+| 1 | 1 | dusseldorf electronic |
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | dusseldorf electronic |
 | 1 | 1 | alt z |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -65,7 +64,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 15 genres](../../images/labels/parlophone_uk/genres.png)
+![Bar chart of top 14 genres](../../images/labels/parlophone_uk/genres.png)
 
 ## Top Producers
 

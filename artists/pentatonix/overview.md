@@ -21,16 +21,18 @@ Pentatonix:
 ## Artist Rank
 Pentatonix is currently:
 - The #32 artist of all time
-- The #24 artist of the last 6 months
-- The #9 artist of the last month
+- The #38 artist of the last 6 months
+- The #10 artist of the last month
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
 ## Top Tracks
 
 - Sleigh Ride is:
-    - the #46 track of the last month
-- Dance of the Sugar Plum Fairy is:
-    - the #49 track of the last month
+    - the #48 track of the last month
+
+### Top tracks of the last month over time
+
+![Line chart of top tracks of the last month over time](../../images/artists/pentatonix/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

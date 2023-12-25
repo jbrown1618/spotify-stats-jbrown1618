@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597" alt="Happiness Begins" width="50" /> | Sucker (0.952) | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat (0.0597) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="El Dorado" width="50" /> | Me Enamoré (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | I'll Show You (0.0789) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="SQUARE UP" width="50" /> | Really (0.947) | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | Skyfall (0.0789) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="Tick Tock (feat. 24kGoldn)" width="50" /> | Tick Tock (feat. 24kGoldn) (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.0815) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | Wait (0.947) | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="Turn Down for What" width="50" /> | Turn Down for What (0.0815) |
 
 ## Tempo
 

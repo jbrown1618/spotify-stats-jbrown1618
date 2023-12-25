@@ -54,7 +54,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f8dfdfeb85c3fc2d11b2ae2" alt="" width="50" /> | 1 | 1 | 88rising | [🔗](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb858ab48103cfe3c042bc1515" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2c240396ef0dbbc48da7550b" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d53f158f4070d5a72190c4c" alt="" width="50" /> | 1 | 1 | Stephanie Poetri | [🔗](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 1 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
@@ -145,7 +145,6 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 20 | [k-pop](../../genres/k_pop/overview.md) |
 | 19 | 16 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
 | 24 | 14 | [pop](../../genres/pop/overview.md) |
 | 24 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -155,6 +154,7 @@ Appears as:
 | 13 | 8 | bergen indie |
 | 11 | 6 | [uk pop](../../genres/uk_pop/overview.md) |
 | 11 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 
 
 <details>
@@ -162,8 +162,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 5 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
+| 6 | 4 | [k-pop](../../genres/k_pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |

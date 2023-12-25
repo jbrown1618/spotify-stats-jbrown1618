@@ -23,7 +23,7 @@ OH MY GIRL:
 ## Top Tracks
 
 - Dolphin is:
-    - the #15 track of the last month
+    - the #14 track of the last month
 
 ### Top tracks of all time over time
 

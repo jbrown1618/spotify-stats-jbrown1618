@@ -284,7 +284,7 @@
 
 
 <details>
-<summary>See all 66 genres</summary>
+<summary>See all 67 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -296,6 +296,7 @@
 | 5 | 5 | uk dance |
 | 5 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
+| 4 | 4 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 9 | 3 | nyc pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 2 | 2 | irish singer-songwriter |
