@@ -17,16 +17,19 @@ BTS:
 - has member RM
 - has member SUGA
 - has member V
-- has member [j-hope](../j_hope/overview.md)
+- has member [j-hope](../j-hope/overview.md)
 
 ## Artist Rank
 BTS is currently:
 - The #12 artist of all time
-- The #45 artist of the last 6 months
+- The #29 artist of the last 6 months
+- The #26 artist of the last month
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
 ## Top Tracks
 
+- Butter (Holiday Remix) is:
+    - the #40 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -34,15 +37,15 @@ BTS is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 34 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 34 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 5 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 5 | [Chill](../../playlists/chill/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 4 | [K-Memes](../../playlists/k_memes/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 4 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 2 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k_pop_101/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 
 ## Top Albums
 
@@ -91,8 +94,8 @@ BTS is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k_pop/overview.md)
-- [k-pop boy group](../../genres/k_pop_boy_group/overview.md)
+- [k-pop](../../genres/k-pop/overview.md)
+- [k-pop boy group](../../genres/k-pop_boy_group/overview.md)
 - [pop](../../genres/pop/overview.md)
 
 ## Credits
@@ -105,7 +108,7 @@ BTS is currently:
 
 ### Member Credits
 
-| | JIN | Jimin | Jung Kook | RM | SUGA | V | [j-hope](../j_hope/overview.md) |
+| | JIN | Jimin | Jung Kook | RM | SUGA | V | [j-hope](../j-hope/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
 | Arranger | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
 | Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
@@ -118,15 +121,15 @@ BTS is currently:
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Jimin | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | RM, SUGA, [j-hope](../j_hope/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | RM, SUGA, [j-hope](../j-hope/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA | RM, SUGA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | RM, SUGA | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | RM, SUGA, [j-hope](../j_hope/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | RM, SUGA, [j-hope](../j-hope/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | IDOL | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | RM | Lyricist |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | RM, SUGA, [j-hope](../j_hope/overview.md) | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | RM, SUGA, [j-hope](../j_hope/overview.md) | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | RM, SUGA, [j-hope](../j-hope/overview.md) | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | RM, SUGA, [j-hope](../j-hope/overview.md) | Arranger, Producer, Songwriter |
 
 
 <details>
@@ -150,7 +153,7 @@ BTS is currently:
 | | Pdogg | 11 | Producer, Songwriter, Arranger |
 | | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../j_hope/overview.md) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../j-hope/overview.md) | 4 | Songwriter |
 | | Supreme Boi | 3 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Melanie Joy Fontana | 2 | Songwriter |

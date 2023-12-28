@@ -1,6 +1,6 @@
 # anime
 
-[41 songs](tracks.md)
+41 songs
 
 [See Track Features](audio_features.md)
 

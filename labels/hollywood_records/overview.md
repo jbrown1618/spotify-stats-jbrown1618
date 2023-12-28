@@ -55,7 +55,7 @@ Appears as:
 | 18 | 12 | [rock](../../genres/rock/overview.md) |
 | 18 | 12 | glam rock |
 | 18 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
-| 2 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 2 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 2 | 1 | [pop](../../genres/pop/overview.md) |
 
 ![Bar chart of top 5 genres](../../images/labels/hollywood_records/genres.png)

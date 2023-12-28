@@ -65,10 +65,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 24 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 24 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 13 | 0 | [Lso Live](../../labels/lso_live/overview.md) |
 | 3 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
-| 1 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group/overview.md) |
+| 1 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group_-_x5_music_group/overview.md) |
 
 ![Bar chart of top 4 record labels](../../images/playlists/program_music/labels.png)
 
@@ -82,7 +82,7 @@
 | 16 | 0 | [early modern classical](../../genres/early_modern_classical/overview.md) |
 | 13 | 0 | [german romanticism](../../genres/german_romanticism/overview.md) |
 | 13 | 0 | [early romantic era](../../genres/early_romantic_era/overview.md) |
-| 11 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 11 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 7 | 0 | british modern classical |
 | 3 | 0 | impressionism |
 | 1 | 0 | classical drill |

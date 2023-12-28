@@ -10,14 +10,14 @@
 
 ## Artist Rank
 Billy Joel is currently:
-- The #48 artist of the last 6 months
-- The #25 artist of the last month
+- The #49 artist of the last 6 months
+- The #29 artist of the last month
 
 ![Rank of Billy Joel over time](../../images/artists/billy_joel/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 23 | [Singer-Songwriter](../../playlists/singer_songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 23 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 4 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
@@ -66,7 +66,7 @@ Billy Joel is currently:
 - [mellow gold](../../genres/mellow_gold/overview.md)
 - [piano rock](../../genres/piano_rock/overview.md)
 - [rock](../../genres/rock/overview.md)
-- [singer-songwriter](../../genres/singer_songwriter/overview.md)
+- [singer-songwriter](../../genres/singer-songwriter/overview.md)
 - [soft rock](../../genres/soft_rock/overview.md)
 
 ## Credits

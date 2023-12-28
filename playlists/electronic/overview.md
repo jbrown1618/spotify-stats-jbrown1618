@@ -79,7 +79,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | [pop](../../genres/pop/overview.md) |
-| 1 | 0 | [k-pop](../../genres/k_pop/overview.md) |
+| 1 | 0 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | canadian contemporary r&b |
 

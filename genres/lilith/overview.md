@@ -1,6 +1,6 @@
 # lilith
 
-[86 songs](tracks.md)
+86 songs
 
 [See Track Features](audio_features.md)
 

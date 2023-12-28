@@ -162,10 +162,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 150 | 92 | [k-pop](../../genres/k_pop/overview.md) |
+| 150 | 92 | [k-pop](../../genres/k-pop/overview.md) |
 | 108 | 65 | [pop](../../genres/pop/overview.md) |
-| 89 | 61 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 61 | 30 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 89 | 61 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 61 | 30 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | classic k-pop |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |

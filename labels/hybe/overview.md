@@ -15,7 +15,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 10 | 4 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | [j-hope](../../artists/j-hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 
 ![Bar chart of top 3 artists](../../images/labels/hybe/artists.png)
 
@@ -37,10 +37,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 5 | [k-pop](../../genres/k_pop/overview.md) |
+| 11 | 5 | [k-pop](../../genres/k-pop/overview.md) |
 | 10 | 4 | [pop](../../genres/pop/overview.md) |
-| 10 | 4 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |
+| 10 | 4 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 1 | 1 | [k-rap](../../genres/k-rap/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/hybe/genres.png)
 
@@ -93,7 +93,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](../../artists/j_hope/overview.md), Becky G | [BIGHIT MUSIC](../bighit_music), [HYBE](.) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](../../artists/j-hope/overview.md), Becky G | [BIGHIT MUSIC](../bighit_music), [HYBE](.) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
 
 </details>
 

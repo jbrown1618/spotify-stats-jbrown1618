@@ -58,7 +58,7 @@ Appears as:
 |---:|---:|:---|
 | 1 | 1 | j-rock |
 | 1 | 1 | j-pop |
-| 1 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 1 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 1 | 0 | neon pop punk |
 
 </details>

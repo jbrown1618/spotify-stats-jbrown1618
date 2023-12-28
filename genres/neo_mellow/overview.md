@@ -1,6 +1,6 @@
 # neo mellow
 
-[92 songs](tracks.md)
+92 songs
 
 [See Track Features](audio_features.md)
 

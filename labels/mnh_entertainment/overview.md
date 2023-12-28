@@ -30,7 +30,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 9 | [k-pop](../../genres/k_pop/overview.md) |
+| 10 | 9 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 

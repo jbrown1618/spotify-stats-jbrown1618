@@ -1,6 +1,6 @@
 # german romanticism
 
-[306 songs](tracks.md)
+306 songs
 
 [See Track Features](audio_features.md)
 
@@ -71,7 +71,7 @@
 |---:|---:|:---|
 | 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
 | 95 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
-| 58 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 58 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 21 | 0 | [PENTATONE](../../labels/pentatone/overview.md) |
 | 16 | 0 | [Warner Classics UK](../../labels/warner_classics_uk/overview.md) |
 | 13 | 0 | [Lso Live](../../labels/lso_live/overview.md) |

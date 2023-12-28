@@ -63,7 +63,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 151 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
-| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records/overview.md) |
 
 ![Bar chart of top 3 record labels](../../images/playlists/string_quartets/labels.png)
@@ -79,7 +79,7 @@
 | 29 | 0 | [russian modern classical](../../genres/russian_modern_classical/overview.md) |
 | 29 | 0 | compositional ambient |
 | 24 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
-| 8 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 8 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 8 | 0 | impressionism |
 | 8 | 0 | czech classical |
 

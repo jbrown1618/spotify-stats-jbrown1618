@@ -90,7 +90,7 @@ Appears as:
 | 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 5 | 2 | [hard rock](../../genres/hard_rock/overview.md) |
 | 5 | 2 | [album rock](../../genres/album_rock/overview.md) |
-| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 1 | folk rock |
 | 3 | 1 | folk |
 

@@ -1,6 +1,6 @@
 # early music
 
-[94 songs](tracks.md)
+94 songs
 
 [See Track Features](audio_features.md)
 
@@ -68,7 +68,7 @@
 |---:|---:|:---|
 | 37 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
 | 19 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
-| 18 | 0 | [Decca (UMO)](../../labels/decca__umo_/overview.md) |
+| 18 | 0 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 16 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 2 | 0 | Conifer Classics |
 | 1 | 0 | Warner Classics International |

@@ -165,8 +165,8 @@
 | 10 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 6 | 1 | [Epic](../../labels/epic/overview.md) |
 | 38 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 28 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc/overview.md) |
-| 12 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 28 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve_(adult_contemporary)_mc/overview.md) |
+| 12 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 9 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 4 | 0 | Craft Recordings |
 | 1 | 0 | Masterworks Broadway |
@@ -178,11 +178,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 31 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
+| 30 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 54 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
-| 7 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 7 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 7 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 7 | 1 | [lilith](../../genres/lilith/overview.md) |

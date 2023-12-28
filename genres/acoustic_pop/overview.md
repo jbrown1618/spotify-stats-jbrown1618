@@ -1,6 +1,6 @@
 # acoustic pop
 
-[88 songs](tracks.md)
+88 songs
 
 [See Track Features](audio_features.md)
 

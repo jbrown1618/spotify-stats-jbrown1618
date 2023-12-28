@@ -41,9 +41,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 13 | 10 | [k-pop](../../genres/k_pop/overview.md) |
-| 7 | 5 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 6 | 5 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 13 | 10 | [k-pop](../../genres/k-pop/overview.md) |
+| 7 | 5 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 6 | 5 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/fnc_entertainment/genres.png)
 

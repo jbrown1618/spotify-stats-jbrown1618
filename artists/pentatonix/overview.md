@@ -21,14 +21,14 @@ Pentatonix:
 ## Artist Rank
 Pentatonix is currently:
 - The #32 artist of all time
-- The #38 artist of the last 6 months
-- The #10 artist of the last month
+- The #24 artist of the last 6 months
+- The #8 artist of the last month
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
 ## Top Tracks
 
-- Sleigh Ride is:
-    - the #48 track of the last month
+- Mary, Did You Know? is:
+    - the #43 track of the last month
 
 ### Top tracks of the last month over time
 
@@ -37,7 +37,7 @@ Pentatonix is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 36 | [A Cappella](../../playlists/a_cappella/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 9 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 9 | [Christmas](../../playlists/christmas/overview.md) |
 
 ## Top Albums
 

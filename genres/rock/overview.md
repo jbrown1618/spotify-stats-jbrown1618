@@ -1,6 +1,6 @@
 # rock
 
-[213 songs](tracks.md)
+213 songs
 
 [See Track Features](audio_features.md)
 
@@ -205,7 +205,7 @@
 | 24 | 10 | [Warner Records](../../labels/warner_records/overview.md) |
 | 7 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 12 | 4 | [Rhino](../../labels/rhino/overview.md) |
-| 5 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 5 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 5 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 9 | 3 | Pink Floyd Records |
 

@@ -1,6 +1,6 @@
 # soul
 
-[35 songs](tracks.md)
+35 songs
 
 [See Track Features](audio_features.md)
 
@@ -107,7 +107,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
-| 1 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 1 | 0 | Rhino Atlantic |
 
 </details>

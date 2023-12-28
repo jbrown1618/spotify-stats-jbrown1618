@@ -1,6 +1,6 @@
 # album rock
 
-[71 songs](tracks.md)
+71 songs
 
 [See Track Features](audio_features.md)
 
@@ -132,7 +132,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 1 | Elektra |
-| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 1 | 1 | Rhino Atlantic |
 | 1 | 1 | CAPITOL CATALOG MKT (C92) |
 | 1 | 1 | American Recordings Catalog P&D |

@@ -200,10 +200,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 35 | 30 | [k-pop](../../genres/k_pop/overview.md) |
-| 23 | 21 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 35 | 30 | [k-pop](../../genres/k-pop/overview.md) |
+| 23 | 21 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 14 | 11 | [pop](../../genres/pop/overview.md) |
-| 14 | 10 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 14 | 10 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 6 | 3 | [rap](../../genres/rap/overview.md) |
 | 3 | 2 | pop rap |
 | 3 | 2 | hip hop |

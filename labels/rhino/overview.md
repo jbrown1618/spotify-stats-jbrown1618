@@ -78,7 +78,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 8 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 11 | 8 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 11 | 8 | folk rock |
 | 9 | 7 | folk |
 | 8 | 6 | canadian singer-songwriter |

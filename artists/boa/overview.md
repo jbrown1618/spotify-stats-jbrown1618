@@ -17,11 +17,13 @@ BoA:
 ## Artist Rank
 BoA is currently:
 - The #30 artist of all time
-- The #15 artist of the last 6 months
+- The #14 artist of the last 6 months
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
+- THE CHRISTMAS SONG is:
+    - the #12 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -33,9 +35,10 @@ BoA is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 11 | [K-Pop](../../playlists/k_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [K-Pop Favorites](../../playlists/k_pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273147deb4de023d171b2a0868dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 11 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273092251708fe60effd6cea757ab67616d0000b273303c2dba413b58c5137c69c4ab67616d0000b273c4dae9528b2a8408f463eb17ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 
 ## Top Albums
 
@@ -48,9 +51,9 @@ BoA is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | 1 | 1 | Eat You Up | 2008-10-21 | [🔗](https://open.spotify.com/album/1lXXKmt06BzHY1GhfY836k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 1 | 1 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | 1 | 0 | メリクリ | 2004-12-01 | [🔗](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | 1 | 0 | TRI-ANGLE - 1st Album | 2004-10-01 | [🔗](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | 1 | 0 | No.1 - The 2nd Album | 2002-01-04 | [🔗](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | 1 | 0 | Merry-Chri | 2004-12-01 | [🔗](https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | 1 | 0 | Girls On Top | 2005-06-24 | [🔗](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) |
 
 
 <details>
@@ -58,6 +61,7 @@ BoA is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | 1 | 0 | Girls On Top | 2005-06-24 | [🔗](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | 1 | 0 | BETTER - The 10th Album | 2020-12-01 | [🔗](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) |
 
 </details>
@@ -67,13 +71,13 @@ BoA is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 7 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 12 | 7 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 1 | Fontana South |
-| 1 | 0 | avex trax |
+| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 
 ## Genres
 
-- [k-pop](../../genres/k_pop/overview.md)
+- [k-pop](../../genres/k-pop/overview.md)
 
 ## Credits
 
@@ -133,7 +137,7 @@ BoA is currently:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | No.1 | No.1 - The 2nd Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | Merry-Chri | Merry-Chri | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](overview.md) | avex trax | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](overview.md) | [avex trax](../../labels/avex_trax) | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | Girls On Top | Girls On Top | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | Eat You Up | Eat You Up | [BoA](overview.md) | Fontana South | 💚 | [🔗](https://open.spotify.com/track/3lrwnoggORNfLs0jiGqBhA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | Kiss My Lips | Kiss My Lips - The 8th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0T3uL8inslJIxiQyLlMenl) |
@@ -151,6 +155,7 @@ BoA is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | ZIP | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0IaT9XnG72sPXvUAsYdEzC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](overview.md), [WENDY](../wendy/overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | TRI-ANGLE - Extended Version | TRI-ANGLE - 1st Album | TVXQ!, [BoA](overview.md), TRAX | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/4Wkw62rPTP1v37vdwUJ1Yg) |
 
 </details>
 

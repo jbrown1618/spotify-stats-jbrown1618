@@ -1,6 +1,6 @@
 # early modern classical
 
-[68 songs](tracks.md)
+68 songs
 
 [See Track Features](audio_features.md)
 
@@ -55,7 +55,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 18 | 0 | [Mariinsky](../../labels/mariinsky/overview.md) |
 | 8 | 0 | SUPRAPHON a.s. |
 

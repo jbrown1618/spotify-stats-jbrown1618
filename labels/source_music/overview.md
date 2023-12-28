@@ -54,8 +54,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 16 | 13 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 3 | 2 | [k-pop](../../genres/k_pop/overview.md) |
+| 16 | 13 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 3 | 2 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | korean ost |
 
 ![Bar chart of top 3 genres](../../images/labels/source_music/genres.png)

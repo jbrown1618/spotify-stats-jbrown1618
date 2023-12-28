@@ -1,6 +1,6 @@
 # college a cappella
 
-[118 songs](tracks.md)
+118 songs
 
 [See Track Features](audio_features.md)
 

@@ -43,7 +43,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 4 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Paata Burchuladze | [🔗](https://open.spotify.com/artist/1JzOJmq9kk0u7OWqzXkBcc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a24bb915ac4676c4d6d5f196" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | 3 | 0 | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 3 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
@@ -115,9 +115,9 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 22 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
-| 14 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 14 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 8 | 0 | SUPRAPHON a.s. |
-| 8 | 0 | [Decca (UMO)](../../labels/decca__umo_/overview.md) |
+| 8 | 0 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 4 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 3 | 0 | Conifer Classics |
 | 3 | 0 | Carus |
@@ -145,7 +145,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 50 | 0 | [classical](../../genres/classical/overview.md) |
-| 22 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 22 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 18 | 0 | [russian romanticism](../../genres/russian_romanticism/overview.md) |
 | 15 | 0 | ukrainian classical |
 | 14 | 0 | [classical era](../../genres/classical_era/overview.md) |

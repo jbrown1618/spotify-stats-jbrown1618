@@ -1,6 +1,6 @@
 # alternative rock
 
-[42 songs](tracks.md)
+42 songs
 
 [See Track Features](audio_features.md)
 

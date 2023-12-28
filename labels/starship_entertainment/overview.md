@@ -1,13 +1,13 @@
 # Starship Entertainment
 
-36 songs
+37 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Starship Entertainment (26 tracks)
+- Starship Entertainment (27 tracks)
 - STARSHIP ENTERTAINMENT (6 tracks)
 - STARSHIP Entertainment (4 tracks)
 
@@ -24,8 +24,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b39b99f91ca659e213ab93" alt="" width="50" /> | 1 | 1 | WJSN THE BLACK | [🔗](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | 2 | 0 | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb17fcf709bb355f05fa22e74b" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e493a7c9b551aba3ef4e53f" alt="" width="50" /> | 1 | 0 | SHOWNU X HYUNGWON (MONSTA X) | [🔗](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) |
 
-![Bar chart of top 9 artists](../../images/labels/starship_entertainment/artists.png)
+![Bar chart of top 10 artists](../../images/labels/starship_entertainment/artists.png)
 
 ## Top Albums
 
@@ -44,7 +45,7 @@ Appears as:
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -58,6 +59,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | 1 | 1 | After LIKE | 2022-08-22 | [🔗](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | 1 | 1 | ALONE | 2012-04-12 | [🔗](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 1 | 0 | TOUCH N MOVE | 2014-07-21 | [🔗](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="" width="50" /> | 1 | 0 | THE UNSEEN | 2023-07-25 | [🔗](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | 1 | 0 | Super Yuppers! | 2022-01-05 | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | 1 | 0 | Spotify Singles - Holiday | 2022-11-16 | [🔗](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | 1 | 0 | SHAKE IT | 2015-06-22 | [🔗](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) |
@@ -68,15 +70,15 @@ Appears as:
 </details>
 
 
-![Bar chart of top 26 albums](../../images/labels/starship_entertainment/albums.png)
+![Bar chart of top 27 albums](../../images/labels/starship_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 18 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 20 | 12 | [k-pop](../../genres/k_pop/overview.md) |
-| 5 | 3 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 27 | 18 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 20 | 12 | [k-pop](../../genres/k-pop/overview.md) |
+| 5 | 3 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/starship_entertainment/genres.png)
@@ -185,6 +187,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Crescendo | REASON | MONSTA X | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/17WqzLortqHvftKKGRAxXu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | LONE RANGER | REASON | MONSTA X | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/0R4axRx5Y4rwYY22UZhx2e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="" width="50" /> | Love Me A Little | THE UNSEEN | SHOWNU X HYUNGWON (MONSTA X) | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="" width="50" /> | Give it to me | Give It To Me (2) | SISTAR | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |

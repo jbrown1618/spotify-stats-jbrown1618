@@ -1,6 +1,6 @@
 # permanent wave
 
-[58 songs](tracks.md)
+58 songs
 
 [See Track Features](audio_features.md)
 

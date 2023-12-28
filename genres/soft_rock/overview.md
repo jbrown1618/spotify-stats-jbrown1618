@@ -1,6 +1,6 @@
 # soft rock
 
-[65 songs](tracks.md)
+65 songs
 
 [See Track Features](audio_features.md)
 

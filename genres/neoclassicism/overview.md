@@ -1,6 +1,6 @@
 # neoclassicism
 
-[56 songs](tracks.md)
+56 songs
 
 [See Track Features](audio_features.md)
 
@@ -54,7 +54,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 18 | 0 | [Mariinsky](../../labels/mariinsky/overview.md) |
 | 8 | 0 | SUPRAPHON a.s. |
 | 4 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |

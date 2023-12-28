@@ -46,10 +46,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.271) | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー (0.0276) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6732b7695d4e84cfdb81d73" alt="Pleasure" width="50" /> | Pleasure (0.258) | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> | 悪ノ娘 (0.0278) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273726ac2ca7910c8814a4c78a3" alt="Farra" width="50" /> | Leyendas (0.245) | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="EXPLORE!" width="50" /> | Tetap Dalam Jiwa (0.0279) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e897f4915425f0a48484e3f9" alt="THE BOOK 2" width="50" /> | 怪物 (0.205) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 如果的事 (0.0293) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier (0.197) | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.0297) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Shanti Shanti Shanti (0.196) | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="THE BOOK" width="50" /> | 夜に駆ける (0.03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Awadama Fever (0.182) | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> | Sisa Rasa (0.0302) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier (0.197) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 如果的事 (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Shanti Shanti Shanti (0.196) | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.0297) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Awadama Fever (0.182) | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="THE BOOK" width="50" /> | 夜に駆ける (0.03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (0.169) | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="fábula" width="50" /> | Sisa Rasa (0.0302) |
 
 ## Acousticness
 

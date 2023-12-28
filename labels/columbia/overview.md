@@ -25,7 +25,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 23 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 15 | 8 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 15 | 8 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
@@ -183,7 +183,7 @@ Appears as:
 | 34 | 19 | [pop](../../genres/pop/overview.md) |
 | 28 | 18 | [album rock](../../genres/album_rock/overview.md) |
 | 27 | 18 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 24 | 17 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 24 | 17 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 23 | 16 | [piano rock](../../genres/piano_rock/overview.md) |
 | 16 | 8 | [r&b](../../genres/r_b/overview.md) |
 
@@ -207,7 +207,7 @@ Appears as:
 | 4 | 2 | neo soul |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | british soul |
-| 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 2 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | filter house |
 | 2 | 2 | electro |
@@ -223,8 +223,8 @@ Appears as:
 | 1 | 1 | nigerian hip hop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | mandopop |
-| 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
+| 1 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 1 | 1 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
 | 1 | 1 | azontobeats |
@@ -266,7 +266,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
 | | Jim Boyer | 9 | Producer |
 | | Phil Ramone | 9 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 8 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 8 | Producer, Songwriter |
 | | Mark "Spike" Stent | 6 | Producer |
 | | Serban Ghenea | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
@@ -385,10 +385,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | Oh My God | 30 | Adele | [Columbia](.) | | [🔗](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | Dream On | Aerosmith | Aerosmith | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | Walk This Way | Toys In The Attic | Aerosmith | [Columbia](.) | | [🔗](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../artists/beyonc_/overview.md), JAY-Z | [Columbia](.) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Irreplaceable | B'Day Deluxe Edition | [Beyoncé](../../artists/beyonc_/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | B'Day Deluxe Edition | [Beyoncé](../../artists/beyonc_/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Ave Maria | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyonc_/overview.md) | [Music World Music/Columbia](.) | | [🔗](https://open.spotify.com/track/1j9HwUMSkRUeVFRWlHcFsy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../artists/beyoncé/overview.md), JAY-Z | [Columbia](.) | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Irreplaceable | B'Day Deluxe Edition | [Beyoncé](../../artists/beyoncé/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | B'Day Deluxe Edition | [Beyoncé](../../artists/beyoncé/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Ave Maria | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyoncé/overview.md) | [Music World Music/Columbia](.) | | [🔗](https://open.spotify.com/track/1j9HwUMSkRUeVFRWlHcFsy) |
 
 
 <details>
@@ -396,17 +396,17 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyonc_/overview.md) | [Music World Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyonc_/overview.md) | [Music World Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyonc_/overview.md) | [Music World Music/Columbia](.) | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | I'd Rather Go Blind | Music From The Motion Picture Cadillac Records | [Beyoncé](../../artists/beyonc_/overview.md) | [Music World Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had | 4 | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | 4 | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Love On Top | 4 | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Lemonade | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](../../artists/beyonc_/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyoncé/overview.md) | [Music World Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyoncé/overview.md) | [Music World Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../artists/beyoncé/overview.md) | [Music World Music/Columbia](.) | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | I'd Rather Go Blind | Music From The Motion Picture Cadillac Records | [Beyoncé](../../artists/beyoncé/overview.md) | [Music World Music/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had | 4 | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | 4 | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Love On Top | 4 | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Lemonade | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](.) | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | She's Got a Way | Cold Spring Harbor | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/3Ie2eLOIj2IhKnzPwXrLbJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Captain Jack | Piano Man | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/3igkLltDaiFiMl83IdDBfm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Piano Man | Piano Man | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa) |

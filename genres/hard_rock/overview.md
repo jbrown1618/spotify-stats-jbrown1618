@@ -1,6 +1,6 @@
 # hard rock
 
-[31 songs](tracks.md)
+31 songs
 
 [See Track Features](audio_features.md)
 
@@ -98,7 +98,7 @@
 | 3 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 2 | 1 | [Epic](../../labels/epic/overview.md) |
-| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 
 
 <details>

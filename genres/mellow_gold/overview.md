@@ -1,6 +1,6 @@
 # mellow gold
 
-[62 songs](tracks.md)
+62 songs
 
 [See Track Features](audio_features.md)
 
@@ -114,7 +114,7 @@
 | 32 | 23 | [Columbia](../../labels/columbia/overview.md) |
 | 6 | 4 | [Rhino](../../labels/rhino/overview.md) |
 | 7 | 3 | [Legacy](../../labels/legacy/overview.md) |
-| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 3 | 2 | Elektra |
 | 2 | 2 | A&M |
 | 4 | 1 | [Epic](../../labels/epic/overview.md) |

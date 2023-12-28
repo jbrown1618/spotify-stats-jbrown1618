@@ -1,6 +1,6 @@
 # rap
 
-[48 songs](tracks.md)
+48 songs
 
 [See Track Features](audio_features.md)
 

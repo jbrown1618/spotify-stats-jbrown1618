@@ -37,7 +37,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 26 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 29 | 26 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 29 | 26 | [anime](../../genres/anime/overview.md) |
 
 

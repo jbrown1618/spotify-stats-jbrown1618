@@ -67,7 +67,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 1 | 0 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb82c3ba21822db2c7cb5e5ba7" alt="" width="50" /> | 1 | 0 | Bella Poarch | [🔗](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 1 | 0 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 
 </details>
@@ -145,7 +145,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 19 | 16 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 19 | 16 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 24 | 14 | [pop](../../genres/pop/overview.md) |
 | 24 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 24 | 10 | [rock](../../genres/rock/overview.md) |
@@ -163,7 +163,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
-| 6 | 4 | [k-pop](../../genres/k_pop/overview.md) |
+| 6 | 4 | [k-pop](../../genres/k-pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
@@ -181,7 +181,7 @@ Appears as:
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |
 | 2 | 1 | stoner rock |
-| 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 2 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 2 | 1 | [rap](../../genres/rap/overview.md) |
 | 2 | 1 | pop rap |
 | 2 | 1 | minneapolis sound |
@@ -368,7 +368,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Go Your Own Way - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | The Chain - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Sara - 2015 Remaster | Tusk (2015 Remaster) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/59rSjZAHfFktNxjtx7oM4H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bubl_/overview.md) | [Warner Records](.) | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | Numb / Encore | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | JAY-Z, Linkin Park | [Warner Records/Roc-A-Fella](.) | | [🔗](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | [Jackson Wang](../../artists/jackson_wang/overview.md) | [88rising Music](../88rising_music), [Warner Records](.) | | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |

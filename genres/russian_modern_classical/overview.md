@@ -1,6 +1,6 @@
 # russian modern classical
 
-[68 songs](tracks.md)
+68 songs
 
 [See Track Features](audio_features.md)
 
@@ -39,7 +39,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 29 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
-| 21 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 21 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 18 | 0 | [Mariinsky](../../labels/mariinsky/overview.md) |
 
 ![Bar chart of top 3 record labels](../../images/genres/russian_modern_classical/labels.png)

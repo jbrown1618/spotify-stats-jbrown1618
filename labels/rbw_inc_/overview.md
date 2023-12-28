@@ -89,11 +89,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 33 | 25 | [k-pop](../../genres/k_pop/overview.md) |
-| 15 | 13 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 33 | 25 | [k-pop](../../genres/k-pop/overview.md) |
+| 15 | 13 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 5 | 4 | korean talent show |
 | 2 | 2 | korean ost |
-| 2 | 2 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 2 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 
 ![Bar chart of top 5 genres](../../images/labels/rbw_inc_/genres.png)
 

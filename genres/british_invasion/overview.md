@@ -1,6 +1,6 @@
 # british invasion
 
-[39 songs](tracks.md)
+39 songs
 
 [See Track Features](audio_features.md)
 
@@ -60,7 +60,7 @@
 |---:|---:|:---|
 | 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 2 | ABKCO Music and Records |
 

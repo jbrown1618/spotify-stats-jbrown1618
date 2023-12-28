@@ -88,7 +88,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 12 | 7 | [pop](../../genres/pop/overview.md) |
-| 2 | 2 | [k-pop](../../genres/k_pop/overview.md) |
+| 2 | 2 | [k-pop](../../genres/k-pop/overview.md) |
 | 2 | 2 | indie pop |
 | 5 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 5 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -112,7 +112,7 @@ Appears as:
 | 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 0 | folk rock |
 | 1 | 0 | sunshine pop |
-| 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | new wave pop |

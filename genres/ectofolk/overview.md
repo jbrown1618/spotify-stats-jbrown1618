@@ -1,6 +1,6 @@
 # ectofolk
 
-[71 songs](tracks.md)
+71 songs
 
 [See Track Features](audio_features.md)
 

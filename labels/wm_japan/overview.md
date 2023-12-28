@@ -34,8 +34,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 8 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 5 | 4 | [k-pop](../../genres/k_pop/overview.md) |
+| 10 | 8 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 5 | 4 | [k-pop](../../genres/k-pop/overview.md) |
 | 2 | 1 | [pop](../../genres/pop/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/wm_japan/genres.png)

@@ -44,7 +44,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 23 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 23 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 23 | 0 | impressionism |
 | 23 | 0 | [classical](../../genres/classical/overview.md) |
 

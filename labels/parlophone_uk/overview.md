@@ -44,7 +44,7 @@ Appears as:
 | 1 | 1 | synthpop |
 | 1 | 1 | proto-techno |
 | 1 | 1 | new wave |
-| 1 | 1 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 1 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 1 | 1 | escape room |
 | 1 | 1 | electro |
 | 1 | 1 | early synthpop |

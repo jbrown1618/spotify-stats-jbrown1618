@@ -1,6 +1,6 @@
 # russian romanticism
 
-[117 songs](tracks.md)
+117 songs
 
 [See Track Features](audio_features.md)
 
@@ -29,7 +29,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | 15 | 0 | Nikolai Korniev | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
 | <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | 15 | 0 | St.Petersburg Chamber Choir | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a24bb915ac4676c4d6d5f196" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | 3 | 0 | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
@@ -64,7 +64,7 @@
 | 55 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 24 | 0 | [Naxos](../../labels/naxos/overview.md) |
 | 18 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
-| 17 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 17 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 3 | 0 | Carus |
 
 ![Bar chart of top 5 record labels](../../images/genres/russian_romanticism/labels.png)

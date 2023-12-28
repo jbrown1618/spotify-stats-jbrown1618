@@ -117,11 +117,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 76 | 63 | [k-pop](../../genres/k_pop/overview.md) |
-| 31 | 24 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 76 | 63 | [k-pop](../../genres/k-pop/overview.md) |
+| 31 | 24 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 29 | 22 | [pop](../../genres/pop/overview.md) |
-| 19 | 13 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 3 | 2 | [k-rap](../../genres/k_rap/overview.md) |
+| 19 | 13 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 3 | 2 | [k-rap](../../genres/k-rap/overview.md) |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | korean old school hip hop |

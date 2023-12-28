@@ -38,8 +38,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 11 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 15 | 11 | [k-pop](../../genres/k_pop/overview.md) |
+| 15 | 11 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 15 | 11 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 

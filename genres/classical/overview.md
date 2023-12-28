@@ -1,6 +1,6 @@
 # classical
 
-[1018 songs](tracks.md)
+1018 songs
 
 [See Track Features](audio_features.md)
 
@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 205 | 0 | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 183 | 0 | [Herbert von Karajan](../../artists/herbert_von_karajan/overview.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 159 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 157 | 0 | [Frédéric Chopin](../../artists/fr_d_ric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 157 | 0 | [Frédéric Chopin](../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 80 | 0 | [Jerusalem Quartet](../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
 | <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 71 | 0 | [Tokyo String Quartet](../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 59 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
@@ -104,7 +104,7 @@
 | <img src="https://i.scdn.co/image/0d8f2b3e9ab748e7767fd31ff9386e06e5834e2b" alt="" width="50" /> | 4 | 0 | Maurice Ravel | [🔗](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8c12cd9df2a39431b780065" alt="" width="50" /> | 3 | 0 | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a24bb915ac4676c4d6d5f196" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | | 3 | 0 | Ossip Schnirlin | [🔗](https://open.spotify.com/artist/7eI7DJSWlJy2W2337B9oTL) |
 | <img src="https://i.scdn.co/image/a3a6a9144487c4a31235748c406e91ba222d2be6" alt="" width="50" /> | 3 | 0 | Joseph Joachim | [🔗](https://open.spotify.com/artist/6QuJ4aZSRMebqwDXiJ3SuA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
@@ -199,14 +199,14 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 258 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
-| 161 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 161 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 152 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
-| 115 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 115 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 74 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
-| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_/overview.md) |
+| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp_(abc)/overview.md) |
 | 37 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
 | 24 | 0 | [Naxos](../../labels/naxos/overview.md) |
-| 21 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group/overview.md) |
+| 21 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group_-_x5_music_group/overview.md) |
 | 21 | 0 | [PENTATONE](../../labels/pentatone/overview.md) |
 
 
@@ -217,7 +217,7 @@
 |---:|---:|:---|
 | 20 | 0 | [Nimbus Records](../../labels/nimbus_records/overview.md) |
 | 18 | 0 | [Mariinsky](../../labels/mariinsky/overview.md) |
-| 18 | 0 | [Decca (UMO)](../../labels/decca__umo_/overview.md) |
+| 18 | 0 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 16 | 0 | [Warner Classics UK](../../labels/warner_classics_uk/overview.md) |
 | 13 | 0 | [Lso Live](../../labels/lso_live/overview.md) |
 | 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records/overview.md) |

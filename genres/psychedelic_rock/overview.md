@@ -1,6 +1,6 @@
 # psychedelic rock
 
-[46 songs](tracks.md)
+46 songs
 
 [See Track Features](audio_features.md)
 
@@ -64,7 +64,7 @@
 | 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 9 | 3 | Pink Floyd Records |
 | 2 | 1 | [Rhino](../../labels/rhino/overview.md) |
-| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 3 | 0 | Frank Zappa Catalog |
 | 1 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
 

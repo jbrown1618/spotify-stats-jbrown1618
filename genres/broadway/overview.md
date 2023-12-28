@@ -1,6 +1,6 @@
 # broadway
 
-[58 songs](tracks.md)
+58 songs
 
 [See Track Features](audio_features.md)
 
@@ -77,7 +77,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bee3cba47f3ac8d14782103" alt="" width="50" /> | 1 | 0 | Christopher Fitzgerald | [🔗](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII) |
 | | 1 | 0 | Natalie Venetia Belcon | [🔗](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68369596eaf232b28b63d583" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 | | 1 | 0 | Cynthia Onrubia | [🔗](https://open.spotify.com/artist/15dLAyVKmw26KgDnK3QEv3) |
 
@@ -123,8 +123,8 @@
 |---:|---:|:---|
 | 7 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 23 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 12 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
-| 10 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc/overview.md) |
+| 12 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
+| 10 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve_(adult_contemporary)_mc/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |

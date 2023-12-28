@@ -4,20 +4,7 @@
 
 ## Cluster #1
 
-7 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 砂の惑星 ( + 初音ミク ) | BOOTLEG | Kenshi Yonezu, Hatsune Miku | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/3aYz5EBaRTWLpsfyUIsQyX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](../..) | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | Make you happy | Make you happy | NiziU | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf76c2678bb45fa73a8b5e4e" alt="" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) | SKZ-REPLAY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/7sA7GFAQU055GXROfrGNJe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 青のすみか | 青のすみか | Tatsuya Kitani | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
-## Cluster #2
-
-7 tracks
+8 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -26,8 +13,20 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | abnormalize | i'mperfect | Ling tosite sigure | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/00nmZvZRyzQiYe2tAcDDUb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | ビリミリオン | 弐 | Yuuri | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) |
+## Cluster #2
+
+5 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 砂の惑星 ( + 初音ミク ) | BOOTLEG | Kenshi Yonezu, Hatsune Miku | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/3aYz5EBaRTWLpsfyUIsQyX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](../..) | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | Make you happy | Make you happy | NiziU | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 青のすみか | 青のすみか | Tatsuya Kitani | [Sony Music Labels Inc.](../..) | | [🔗](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) |
 ## Cluster #3
 
 3 tracks

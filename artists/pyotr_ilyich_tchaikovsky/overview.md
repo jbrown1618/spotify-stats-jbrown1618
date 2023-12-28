@@ -33,7 +33,7 @@
 |---:|---:|:---|
 | 55 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 3 | 0 | Carus |
-| 1 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 1 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 
 ## Genres
 
@@ -111,7 +111,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | [Pyotr Ilyich Tchaikovsky](overview.md), NDR Chor, Philipp Ahmann | Carus | | [🔗](https://open.spotify.com/track/7E4KpvGnw4eD55VgmdMdco) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | [Pyotr Ilyich Tchaikovsky](overview.md), NDR Chor, Philipp Ahmann | Carus | | [🔗](https://open.spotify.com/track/1uDDH4TncZQxOCYl9TjHKh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="" width="50" /> | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | [Pyotr Ilyich Tchaikovsky](overview.md), NDR Chor, Philipp Ahmann | Carus | | [🔗](https://open.spotify.com/track/5cuTdpoXIWieDK848fuNDW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Swan Lake Suite, Op. 20a: II. Waltz | Mussorgsky: Pictures At An Exhibition | [Pyotr Ilyich Tchaikovsky](overview.md), Wiener Philharmoniker, Gustavo Dudamel | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_) | | [🔗](https://open.spotify.com/track/0NOiSayyUFYnLllkTdFa1k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | Swan Lake Suite, Op. 20a: II. Waltz | Mussorgsky: Pictures At An Exhibition | [Pyotr Ilyich Tchaikovsky](overview.md), Wiener Philharmoniker, Gustavo Dudamel | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)) | | [🔗](https://open.spotify.com/track/0NOiSayyUFYnLllkTdFa1k) |
 
 </details>
 

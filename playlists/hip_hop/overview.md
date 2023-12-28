@@ -43,7 +43,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb749bcc7f4b8d1d60f5f13744" alt="" width="50" /> | 1 | 1 | Kaliii | [🔗](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe489156e3cd2d327678c8467" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c240396ef0dbbc48da7550b" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | [j-hope](../../artists/j-hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6581cd61841a546e8ba1dc1f" alt="" width="50" /> | 4 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 3 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 2 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -224,8 +224,8 @@
 | 1 | 1 | old school hip hop |
 | 1 | 1 | old school atlanta hip hop |
 | 1 | 1 | north carolina hip hop |
-| 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |
-| 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
+| 1 | 1 | [k-rap](../../genres/k-rap/overview.md) |
+| 1 | 1 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | girl group |
 | 1 | 1 | crunk |
 | 1 | 1 | australian hip hop |

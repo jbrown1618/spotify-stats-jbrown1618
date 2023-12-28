@@ -1,6 +1,6 @@
 # korean pop
 
-[36 songs](tracks.md)
+36 songs
 
 [See Track Features](audio_features.md)
 

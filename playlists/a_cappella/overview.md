@@ -321,7 +321,7 @@
 | 3 | 0 | cambridge choir |
 | 3 | 0 | british choir |
 | 2 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
-| 2 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 2 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 2 | 0 | [rock](../../genres/rock/overview.md) |
 | 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 0 | lds |

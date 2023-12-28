@@ -24,8 +24,8 @@ The Beatles:
 
 ## Artist Rank
 The Beatles is currently:
-- The #42 artist of all time
-- The #30 artist of the last 6 months
+- The #43 artist of all time
+- The #32 artist of the last 6 months
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Top Tracks
@@ -74,7 +74,7 @@ The Beatles is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 30 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
-| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 
 ## Genres
 
@@ -204,7 +204,7 @@ The Beatles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | | [🔗](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | 💚 | [🔗](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | 💚 | [🔗](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
 
 </details>
 

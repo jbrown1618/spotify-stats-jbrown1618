@@ -1,6 +1,6 @@
 # viral pop
 
-[117 songs](tracks.md)
+117 songs
 
 [See Track Features](audio_features.md)
 

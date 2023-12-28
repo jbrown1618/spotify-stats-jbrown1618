@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 1 | 1 | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebabab30b094128cf4c0f2cef1" alt="" width="50" /> | 1 | 1 | Black Eyed Peas | [🔗](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 1 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 1 | 1 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 1 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
@@ -160,7 +160,7 @@
 | 3 | 3 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 4 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | sensibility recordings |
-| 2 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
+| 2 | 2 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
 | 2 | 2 | [UNI](../../labels/uni/overview.md) |
 | 2 | 2 | [MOTOWN](../../labels/motown/overview.md) |
 | 2 | 2 | Elektra |
@@ -244,7 +244,7 @@
 | 3 | 3 | merseybeat |
 | 3 | 3 | [british invasion](../../genres/british_invasion/overview.md) |
 | 5 | 2 | urban contemporary |
-| 3 | 2 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 3 | 2 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 3 | 2 | pop soul |
 | 3 | 2 | new americana |
 | 3 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -262,7 +262,7 @@
 | 4 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 1 | folk |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
-| 2 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 2 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 2 | 1 | [rap](../../genres/rap/overview.md) |
 | 2 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 1 | modern folk rock |

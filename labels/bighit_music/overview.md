@@ -1,13 +1,13 @@
 # BIGHIT MUSIC
 
-58 songs
+59 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- BIGHIT MUSIC (47 tracks)
+- BIGHIT MUSIC (48 tracks)
 - BIGHIT MUSIC / HYBE (11 tracks)
 
 ## Top Artists
@@ -15,8 +15,8 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 35 | 22 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | [j-hope](../../artists/j_hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 8 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | [j-hope](../../artists/j-hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 9 | 4 | Agust D | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 4 | 4 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | 3 | 2 | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 2 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
@@ -27,7 +27,7 @@ Appears as:
 
 
 <details>
-<summary>See all 17 artists</summary>
+<summary>See all 19 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -37,12 +37,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354a84cfb27458618bca3ecb" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 2 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6067f044772b98a1ee8f3f33" alt="" width="50" /> | 2 | 0 | MIDNATT | [🔗](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 0 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb323c73cb431edf7ba9ed34b2" alt="" width="50" /> | 1 | 0 | Ryuichi Sakamoto | [🔗](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) |
 
 </details>
 
 
-![Bar chart of top 17 artists](../../images/labels/bighit_music/artists.png)
+![Bar chart of top 19 artists](../../images/labels/bighit_music/artists.png)
 
 ## Top Albums
 
@@ -52,12 +54,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="" width="50" /> | 4 | 4 | GOLDEN | 2023-11-03 | [🔗](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | 4 | 3 | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | 4 | 3 | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 4 | 1 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | 3 | 3 | Jack In The Box | 2022-07-15 | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 3 | 1 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 
 
 <details>
@@ -91,10 +93,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 46 | 33 | [k-pop](../../genres/k_pop/overview.md) |
+| 46 | 33 | [k-pop](../../genres/k-pop/overview.md) |
 | 35 | 22 | [pop](../../genres/pop/overview.md) |
-| 35 | 22 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 15 | 11 | [k-rap](../../genres/k_rap/overview.md) |
+| 35 | 22 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 16 | 11 | [k-rap](../../genres/k-rap/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/bighit_music/genres.png)
 
@@ -106,7 +108,7 @@ Appears as:
 | | Pdogg | 11 | Producer, Songwriter, Arranger |
 | | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j_hope/overview.md) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j-hope/overview.md) | 4 | Songwriter |
 | | Supreme Boi | 3 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Melanie Joy Fontana | 2 | Songwriter |
@@ -192,8 +194,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | Agust D | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Haegeum | D-DAY | Agust D | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | Agust D, [IU](../../artists/iu/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | Agust D, Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |
 
 
 <details>
@@ -201,6 +203,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | War of Hormone | Dark & Wild | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/3D26URfsMlCNaa51mj9jOt) |
@@ -244,11 +247,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (Korean Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/5PZA7uiIdIvRMTPftv0LF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa60e8a8d5ca09efc6098175" alt="" width="50" /> | Still Life (with Anderson .Paak) | Indigo | RM, Anderson .Paak | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa60e8a8d5ca09efc6098175" alt="" width="50" /> | Wild Flower (with youjeen) | Indigo | RM, Youjeen | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](../../artists/j_hope/overview.md), Becky G | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](../../artists/j_hope/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](../../artists/j_hope/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Pandora's Box | Jack In The Box | [j-hope](../../artists/j_hope/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | on the street (with J. Cole) | on the street (with J. Cole) | [j-hope](../../artists/j_hope/overview.md), J. Cole | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](../../artists/j-hope/overview.md), Becky G | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](../../artists/j-hope/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](../../artists/j-hope/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Pandora's Box | Jack In The Box | [j-hope](../../artists/j-hope/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | on the street (with J. Cole) | on the street (with J. Cole) | [j-hope](../../artists/j-hope/overview.md), J. Cole | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) |
 
 </details>
 

@@ -1,6 +1,6 @@
 # movie tunes
 
-[54 songs](tracks.md)
+54 songs
 
 [See Track Features](audio_features.md)
 
@@ -102,7 +102,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68369596eaf232b28b63d583" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379157283898948a867d98344" alt="" width="50" /> | 1 | 0 | Boris Karloff | [🔗](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) |
 | | 1 | 0 | Keith David | [🔗](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | | 1 | 0 | Sarah Solie Shannon | [🔗](https://open.spotify.com/artist/1A2F6sucjT7YDTJtVtB9Oz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc494ba98eadd560b5001226" alt="" width="50" /> | 1 | 0 | Lebo M. | [🔗](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) |
 | | 1 | 0 | Dorothy Compton | [🔗](https://open.spotify.com/artist/0humNRtJZUnSFh10d8Vnou) |
@@ -171,7 +171,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 48 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
-| 2 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve__adult_contemporary__mc/overview.md) |
+| 2 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve_(adult_contemporary)_mc/overview.md) |
 | 1 | 0 | WaterTower Music |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 0 | LML Music |

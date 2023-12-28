@@ -1,6 +1,6 @@
 # pop rock
 
-[75 songs](tracks.md)
+75 songs
 
 [See Track Features](audio_features.md)
 

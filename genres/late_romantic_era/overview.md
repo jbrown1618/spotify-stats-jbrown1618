@@ -1,6 +1,6 @@
 # late romantic era
 
-[155 songs](tracks.md)
+155 songs
 
 [See Track Features](audio_features.md)
 
@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 8 | 0 | Veronika Hagen | [🔗](https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP) |
 | <img src="https://i.scdn.co/image/c957a30bcf3b3dcb7b8e3d0dd467837b5cc705ec" alt="" width="50" /> | 4 | 0 | Leon Fleisher | [🔗](https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8c12cd9df2a39431b780065" alt="" width="50" /> | 3 | 0 | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a24bb915ac4676c4d6d5f196" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/914364be0f93ff2756c1352c2a2a5ae25ddb53cd" alt="" width="50" /> | 1 | 0 | Philippe Herreweghe | [🔗](https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5) |
 | <img src="https://i.scdn.co/image/c8dc83d307c0a8c18ac505da6133bc37df4442a1" alt="" width="50" /> | 1 | 0 | Anton Bruckner | [🔗](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2) |
@@ -69,8 +69,8 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 55 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
-| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_/overview.md) |
-| 33 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp_(abc)/overview.md) |
+| 33 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 16 | 0 | [Warner Classics UK](../../labels/warner_classics_uk/overview.md) |
 | 9 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
 | 3 | 0 | Carus |

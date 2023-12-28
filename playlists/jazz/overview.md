@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 12 | 5 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 12 | 5 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 7 | 2 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | 1 | 1 | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | 1 | 1 | Caro Emerald | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
@@ -116,7 +116,7 @@
 | 3 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 3 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 0 | Craft Recordings |
-| 1 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 1 | 0 | Private Curve |
 
 </details>
@@ -152,7 +152,7 @@
 | 2 | 0 | quiet storm |
 | 2 | 0 | disco |
 | 1 | 0 | swing |
-| 1 | 0 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 0 | korean jazz |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -171,7 +171,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | David Foster | 3 | Producer, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_/overview.md) | 3 | Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bublé/overview.md) | 3 | Songwriter, Arranger |
 | | Alan Chang | 3 | Songwriter, Arranger |
 | | Amy Foster-Gillies | 3 | Songwriter |
 | | Humberto Gatica | 3 | Producer |

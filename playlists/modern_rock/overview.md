@@ -243,7 +243,7 @@
 | 1 | 1 | IAMSOUND |
 | 1 | 1 | Giant Little Man |
 | 1 | 1 | Down Up Down Music |
-| 1 | 1 | [Decca (UMO)](../../labels/decca__umo_/overview.md) |
+| 1 | 1 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 1 | 1 | Cult Records |
 | 1 | 1 | Crystal Math |
 | 1 | 1 | [Columbia](../../labels/columbia/overview.md) |
@@ -334,15 +334,15 @@
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | teen pop |
 | 1 | 1 | social media pop |
-| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 1 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 1 | 1 | nu metal |
 | 1 | 1 | new jersey indie |
 | 1 | 1 | modern power pop |
 | 1 | 1 | math rock |
 | 1 | 1 | math pop |
 | 1 | 1 | korean indie rock |
-| 1 | 1 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 1 | 1 | [k-pop](../../genres/k_pop/overview.md) |
+| 1 | 1 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 1 | 1 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | japanese emo |
 | 1 | 1 | j-rock |
 | 1 | 1 | j-pop |

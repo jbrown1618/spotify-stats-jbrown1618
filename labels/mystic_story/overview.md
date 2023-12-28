@@ -36,7 +36,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 11 | [k-pop](../../genres/k_pop/overview.md) |
+| 15 | 11 | [k-pop](../../genres/k-pop/overview.md) |
 | 2 | 1 | korean superband |
 
 

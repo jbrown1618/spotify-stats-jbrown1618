@@ -168,7 +168,7 @@ Appears as:
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk funky |
 | 1 | 1 | uk dance |
-| 1 | 1 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 1 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 1 | 1 | metropopolis |
 | 1 | 1 | candy pop |
 | 1 | 1 | bedroom soul |
@@ -190,7 +190,7 @@ Appears as:
 | 1 | 0 | pittsburgh rap |
 | 1 | 0 | new orleans rap |
 | 1 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
-| 1 | 0 | [k-pop](../../genres/k_pop/overview.md) |
+| 1 | 0 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 0 | house |
 | 1 | 0 | edm |
 | 1 | 0 | dutch edm |

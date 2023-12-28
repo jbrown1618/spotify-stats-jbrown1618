@@ -37,7 +37,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | [Janelle Monáe](../../artists/janelle_mon_e/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
@@ -116,7 +116,7 @@ Appears as:
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 61 | 40 | [lilith](../../genres/lilith/overview.md) |
 | 61 | 40 | [ectofolk](../../genres/ectofolk/overview.md) |
-| 60 | 39 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 15 | 11 | [pop](../../genres/pop/overview.md) |
 | 11 | 7 | [r&b](../../genres/r_b/overview.md) |
@@ -136,7 +136,7 @@ Appears as:
 | 4 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 4 | 1 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 1 | talent show |
-| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 1 | girl group |
 | 3 | 1 | folk |
 | 2 | 1 | [rock](../../genres/rock/overview.md) |
@@ -306,7 +306,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](.) | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](.) | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | Hammer And A Nail | Nomads · Indians · Saints (Expanded Edition) | Indigo Girls | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2OV25P5lmVqnjKnWfj0FeP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_mon_e/overview.md), Jidenna | [Wondaland Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_monáe/overview.md), Jidenna | [Wondaland Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son | Leftoverture (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |

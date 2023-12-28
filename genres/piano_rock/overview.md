@@ -1,6 +1,6 @@
 # piano rock
 
-[41 songs](tracks.md)
+41 songs
 
 [See Track Features](audio_features.md)
 
@@ -73,7 +73,7 @@
 |---:|---:|:---|
 | 23 | 16 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 4 | Sire |
-| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 2 | 2 | Mosley |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 1 | Island Def Jam |

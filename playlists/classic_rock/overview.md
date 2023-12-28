@@ -156,7 +156,7 @@
 | 6 | 3 | [Legacy](../../labels/legacy/overview.md) |
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 4 | 2 | A&M |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 
 
 <details>
@@ -207,7 +207,7 @@
 | 15 | 9 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 16 | 6 | progressive rock |
 | 9 | 4 | yacht rock |
-| 6 | 4 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 6 | 4 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 5 | 4 | glam metal |
 | 12 | 3 | symphonic rock |
 | 12 | 3 | art rock |

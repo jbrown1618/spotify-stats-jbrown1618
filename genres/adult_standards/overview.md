@@ -1,6 +1,6 @@
 # adult standards
 
-[44 songs](tracks.md)
+44 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 16 | 5 | [Michael Bublé](../../artists/michael_bubl_/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 16 | 5 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 10 | 2 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fe9dd1c4225c729998f6bbb" alt="" width="50" /> | 5 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0" alt="" width="50" /> | 2 | 1 | Count Basie | [🔗](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) |
@@ -124,7 +124,7 @@
 | 2 | 0 | Craft Recordings |
 | 2 | 0 | CAPITOL CATALOG MKT (C92) |
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
-| 1 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 1 | 0 | MCA Nashville |
 
 </details>
@@ -139,7 +139,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | David Foster | 3 | Producer, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bubl_/overview.md) | 3 | Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bublé/overview.md) | 3 | Songwriter, Arranger |
 | | Humberto Gatica | 3 | Producer |
 | | Alan Chang | 3 | Songwriter, Arranger |
 | | Amy Foster-Gillies | 3 | Songwriter |

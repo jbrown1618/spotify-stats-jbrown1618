@@ -34,8 +34,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 6 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
-| 10 | 6 | [k-pop](../../genres/k_pop/overview.md) |
+| 10 | 6 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 10 | 6 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 

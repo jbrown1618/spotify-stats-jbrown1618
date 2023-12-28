@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 5 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 5 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 5 | 5 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 4 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 4 | 4 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 2 | 2 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 2 | 2 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a79a86c0ccc91f0e398f48" alt="" width="50" /> | 2 | 2 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 2 | 2 | [Florence + The Machine](../../artists/florence___the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 2 | 2 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada7146c1f97b1fc6992609a" alt="" width="50" /> | 2 | 2 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89064bc3e362d345bb6035f3" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
@@ -74,7 +74,7 @@
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb915bde5eb906f18dd46a65e6" alt="" width="50" /> | 1 | 1 | Weeekly | [🔗](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 1 | 1 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 1 | 1 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 1 | 1 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
@@ -284,7 +284,7 @@
 | 4 | 2 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 3 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 2 | [Virgin Records](../../labels/virgin_records/overview.md) |
-| 2 | 2 | [Universal-Island Records Ltd.](../../labels/universal_island_records_ltd_/overview.md) |
+| 2 | 2 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
 | 2 | 2 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 2 | 2 | Nicki Minaj |
 | 2 | 2 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
@@ -348,10 +348,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 112 | 104 | [k-pop](../../genres/k_pop/overview.md) |
-| 83 | 78 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 112 | 104 | [k-pop](../../genres/k-pop/overview.md) |
+| 83 | 78 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 56 | 54 | [pop](../../genres/pop/overview.md) |
-| 35 | 33 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 35 | 33 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 20 | 20 | [dance pop](../../genres/dance_pop/overview.md) |
 | 15 | 14 | [rock](../../genres/rock/overview.md) |
 | 11 | 11 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -366,7 +366,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 7 | 7 | [lilith](../../genres/lilith/overview.md) |
-| 6 | 6 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 6 | 6 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 5 | 5 | [viral pop](../../genres/viral_pop/overview.md) |
 | 5 | 5 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -379,7 +379,7 @@
 | 4 | 4 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 4 | 4 | [electropop](../../genres/electropop/overview.md) |
 | 3 | 3 | [soul](../../genres/soul/overview.md) |
-| 3 | 3 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 3 | 3 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 3 | [rap](../../genres/rap/overview.md) |
 | 3 | 3 | [piano rock](../../genres/piano_rock/overview.md) |
 | 3 | 3 | motown |
@@ -406,7 +406,7 @@
 | 1 | 1 | melancholia |
 | 1 | 1 | la indie |
 | 1 | 1 | korean old school hip hop |
-| 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |
+| 1 | 1 | [k-rap](../../genres/k-rap/overview.md) |
 | 1 | 1 | k-indie |
 | 1 | 1 | glam metal |
 | 1 | 1 | funk rock |

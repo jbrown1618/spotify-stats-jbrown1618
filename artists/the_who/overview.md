@@ -54,7 +54,7 @@ The Who:
 |---:|---:|:---|
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 
 ## Genres
 
@@ -110,7 +110,7 @@ The Who:
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation - Stereo Version | My Generation (Stereo Version) | [The Who](overview.md) | [Geffen](../../labels/geffen) | 💚 | [🔗](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_) | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | Who's Next (Deluxe Edition) | [The Who](overview.md) | [Polydor Records](../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](overview.md) | [Polydor Records](../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | Won't Get Fooled Again - Remix | Who's Next (Expanded Edition) | [The Who](overview.md) | [Geffen*](../../labels/geffen) | 💚 | [🔗](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) |

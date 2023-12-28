@@ -1,6 +1,6 @@
 # uk pop
 
-[40 songs](tracks.md)
+40 songs
 
 [See Track Features](audio_features.md)
 

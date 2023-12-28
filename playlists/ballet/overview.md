@@ -62,8 +62,8 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 55 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
-| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp__abc_/overview.md) |
-| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 39 | 0 | [Australian Broadcasting Corp (ABC)](../../labels/australian_broadcasting_corp_(abc)/overview.md) |
+| 26 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 18 | 0 | [Mariinsky](../../labels/mariinsky/overview.md) |
 
 ![Bar chart of top 4 record labels](../../images/playlists/ballet/labels.png)

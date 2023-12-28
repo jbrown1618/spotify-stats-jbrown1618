@@ -1,6 +1,6 @@
 # classic rock
 
-[134 songs](tracks.md)
+134 songs
 
 [See Track Features](audio_features.md)
 
@@ -164,7 +164,7 @@
 | 7 | 3 | [Legacy](../../labels/legacy/overview.md) |
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 3 | 2 | Elektra |
-| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 
 
 <details>

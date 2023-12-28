@@ -1,6 +1,6 @@
 # classical era
 
-[432 songs](tracks.md)
+432 songs
 
 [See Track Features](audio_features.md)
 
@@ -117,12 +117,12 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 115 | 0 | [UME - Global Clearing House](../../labels/ume___global_clearing_house/overview.md) |
+| 115 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 109 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
 | 106 | 0 | [harmonia mundi](../../labels/harmonia_mundi/overview.md) |
-| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 21 | 0 | [PENTATONE](../../labels/pentatone/overview.md) |
-| 20 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group___x5_music_group/overview.md) |
+| 20 | 0 | [Warner Music Group - X5 Music Group](../../labels/warner_music_group_-_x5_music_group/overview.md) |
 | 12 | 0 | [Channel Classics Records](../../labels/channel_classics_records/overview.md) |
 | 4 | 0 | JPK Musik |
 | 3 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |

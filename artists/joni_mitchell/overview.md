@@ -10,7 +10,7 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 8 | [Singer-Songwriter](../../playlists/singer_songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 8 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
 
 ## Top Albums
 
@@ -32,7 +32,7 @@
 - canadian singer-songwriter
 - folk
 - folk rock
-- [singer-songwriter](../../genres/singer_songwriter/overview.md)
+- [singer-songwriter](../../genres/singer-songwriter/overview.md)
 
 ## Credits
 

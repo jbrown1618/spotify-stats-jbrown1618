@@ -21,7 +21,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 14 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 
 ## Top Albums
@@ -107,7 +107,7 @@
 | | DJ White Shadow | 1 | Producer, Songwriter |
 | | Paul Foley | 1 | Producer |
 | | Hisashi Mizoguchi | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../beyonc_/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../beyoncé/overview.md) | 1 | Songwriter |
 | | LaShawn Daniels | 1 | Songwriter |
 | | Robert John "Mutt" Lange | 1 | Producer |
 | | Rodney Jerkins | 1 | Producer, Songwriter |
@@ -134,7 +134,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Paparazzi | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Bad Romance | The Fame Monster (Deluxe Edition) | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](overview.md), [Beyoncé](../beyonc_/overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](overview.md), [Beyoncé](../beyoncé/overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Judas | Born This Way | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Yoü And I | Born This Way | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You | Til It Happens To You | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I) |

@@ -133,7 +133,7 @@
 | 8 | 6 | [UNI](../../labels/uni/overview.md) |
 | 6 | 5 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
-| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc__universal_music_catalogue_/overview.md) |
+| 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 2 | 2 | [Rhino](../../labels/rhino/overview.md) |
 | 4 | 1 | [Legacy](../../labels/legacy/overview.md) |
 | 3 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
@@ -198,7 +198,7 @@
 | 3 | 2 | disco |
 | 5 | 1 | memphis soul |
 | 3 | 1 | vocal jazz |
-| 3 | 1 | [singer-songwriter](../../genres/singer_songwriter/overview.md) |
+| 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 1 | outlaw country |
 | 3 | 1 | bubblegum pop |
 | 3 | 1 | arkansas country |

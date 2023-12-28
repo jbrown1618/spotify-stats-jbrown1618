@@ -71,7 +71,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | | 1 | 0 | Max Casella | [🔗](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
@@ -186,7 +186,7 @@
 | 49 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 5 | 0 | tagalog worship |
 | 5 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
-| 2 | 0 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 2 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 2 | 0 | hollywood |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |

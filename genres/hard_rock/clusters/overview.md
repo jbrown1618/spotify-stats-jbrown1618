@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | Enter Sandman | Metallica | Metallica | Blackened Recordings | 💚 | [🔗](https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="" width="50" /> | Wherever I May Roam (Remastered) | Metallica (Remastered) | Metallica | Blackened Recordings | 💚 | [🔗](https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | Eye of the Tiger | Rocky IV | Survivor | [Volcano/Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](../../../../artists/the_who/overview.md) | [UMC (Universal Music Catalogue)](../../../../labels/umc__universal_music_catalogue_) | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](../../../../artists/the_who/overview.md) | [UMC (Universal Music Catalogue)](../../../../labels/umc_(universal_music_catalogue)) | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../../../artists/the_who/overview.md) | [Geffen](../../../../labels/geffen) | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
 ## Cluster #2
 

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[115 tracks (60 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[114 tracks (59 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="" width="50" /> | 8 | 6 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36" alt="" width="50" /> | 7 | 5 | [YOASOBI](../../artists/yoasobi/overview.md) | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36" alt="" width="50" /> | 6 | 4 | YOASOBI | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | 3 | 3 | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 5 | 2 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
@@ -165,7 +165,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1e6aac4f02c6864d7a5f90" alt="" width="50" /> | 1 | 1 | Toy | 2018-05-23 | [🔗](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="" width="50" /> | 1 | 1 | Think About Things | 2020-04-09 | [🔗](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | 1 | 1 | The Lion King: The Gift | 2019-07-19 | [🔗](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e897f4915425f0a48484e3f9" alt="" width="50" /> | 1 | 1 | THE BOOK 2 | 2021-12-01 | [🔗](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="" width="50" /> | 1 | 1 | Söngvakeppnin 2020 | 2020-01-18 | [🔗](https://open.spotify.com/album/32ypMgv8eQ7ACVd2uBaPG7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734661cf765439018ebb7e0009" alt="" width="50" /> | 1 | 1 | Sin Pijama | 2018-04-20 | [🔗](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | 1 | 1 | See Tình | 2022-02-20 | [🔗](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) |
@@ -239,6 +238,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | 1 | 0 | Doobey (From "Gehraiyaan") | 2022-01-24 | [🔗](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387" alt="" width="50" /> | 1 | 0 | Cha Cha Cha | 2023-01-17 | [🔗](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="" width="50" /> | 1 | 0 | Bu-ikikaesu | 2007-03-14 | [🔗](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) |
 
 </details>
 
@@ -251,7 +251,7 @@
 |---:|---:|:---|
 | 8 | 6 | Cooking Vinyl Limited |
 | 8 | 5 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 7 | 5 | YOASOBI |
+| 6 | 4 | YOASOBI |
 | 3 | 3 | [Columbia](../../labels/columbia/overview.md) |
 | 9 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 5 | 2 | Sony Music Entertainment |
@@ -300,7 +300,7 @@
 | 2 | 0 | KING RECORDS |
 | 2 | 0 | IRORI Records |
 | 2 | 0 | Gold Typhoon Taiwan |
-| 1 | 0 | avex trax |
+| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 0 | a Saban Music Group Joint Venture |
 | 1 | 0 | What The Duck |
 | 1 | 0 | Wanitwa Mos Entertainment |
@@ -339,8 +339,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 11 | j-pop |
-| 15 | 9 | japanese teen pop |
+| 26 | 10 | j-pop |
+| 14 | 8 | japanese teen pop |
 | 9 | 6 | j-metal |
 | 8 | 6 | kawaii metal |
 | 8 | 6 | idol rock |
@@ -527,7 +527,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | Burna Boy | 1 | Songwriter |
 | | 眞武亨 (Matake, Toru) | 1 | Producer |
 | | El Guincho | 1 | Arranger, Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyonc_/overview.md) | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Producer, Songwriter |
 | | MUKTI-METAL | 1 | Songwriter |
 | | 福井昌彦 (Fukui, Masahiko) | 1 | Producer |
 
@@ -545,7 +545,7 @@
 |:---|---:|
 | 2023 | 12 |
 | [2022](2022.md) | 20 |
-| 2021 | 10 |
+| 2021 | 9 |
 | 2020 | 11 |
 | 2019 | 15 |
 | 2018 | 12 |
@@ -573,8 +573,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75971bdd0f5c34b86a152b4" alt="ái" width="50" /> | ái (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU (2023-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> | 海嘯 (2001-05-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | Hijas del Tomate (2002) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="GENTO" width="50" /> | GENTO (2023-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (2023-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="GENTO" width="50" /> | GENTO (2023-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (2023-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | 弐 (2023-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="セブンティーン" width="50" /> | セブンティーン (2023-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | Bu-ikikaesu (2007-03-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 (2023-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |

@@ -64,7 +64,7 @@ Appears as:
 | 29 | 0 | [russian modern classical](../../genres/russian_modern_classical/overview.md) |
 | 29 | 0 | compositional ambient |
 | 9 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
-| 8 | 0 | [post-romantic era](../../genres/post_romantic_era/overview.md) |
+| 8 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 8 | 0 | impressionism |
 | 8 | 0 | czech classical |
 

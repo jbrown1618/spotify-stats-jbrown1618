@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 4 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 4 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be3a5a3bfe963935ed4b2c2" alt="" width="50" /> | 7 | 3 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 4 | 3 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd434a8b25f5a50277b05a402" alt="" width="50" /> | 4 | 3 | [The Rose](../../artists/the_rose/overview.md) | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -299,7 +299,7 @@
 | 1 | 1 | 모스트콘텐츠 |
 | 1 | 1 | under exclusive license to Interscope Records |
 | 1 | 1 | msmedia |
-| 1 | 1 | avex trax |
+| 1 | 1 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 1 | 1 | UMGRI Interscope |
 | 1 | 1 | UBUNTU ENT |
@@ -354,14 +354,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 126 | 93 | [k-pop](../../genres/k_pop/overview.md) |
+| 126 | 93 | [k-pop](../../genres/k-pop/overview.md) |
 | 47 | 35 | [pop](../../genres/pop/overview.md) |
-| 41 | 29 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
-| 27 | 19 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 41 | 29 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 27 | 19 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 17 | 12 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 18 | 11 | [korean pop](../../genres/korean_pop/overview.md) |
 | 6 | 6 | [viral pop](../../genres/viral_pop/overview.md) |
-| 5 | 5 | [k-rap](../../genres/k_rap/overview.md) |
+| 5 | 5 | [k-rap](../../genres/k-rap/overview.md) |
 | 5 | 5 | [anime](../../genres/anime/overview.md) |
 | 4 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
 
@@ -373,7 +373,7 @@
 |---:|---:|:---|
 | 4 | 4 | korean ost |
 | 4 | 4 | [art pop](../../genres/art_pop/overview.md) |
-| 3 | 3 | [post-teen pop](../../genres/post_teen_pop/overview.md) |
+| 3 | 3 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 3 | 3 | pop soul |
 | 3 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 3 | neo soul |

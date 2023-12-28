@@ -37,7 +37,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 16 | 0 | [Warner Classics UK](../../labels/warner_classics_uk/overview.md) |
-| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 16 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 
 
 

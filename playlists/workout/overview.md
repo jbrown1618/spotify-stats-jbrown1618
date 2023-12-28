@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 4 | 4 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 4 | 4 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="" width="50" /> | 4 | 4 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 4 | [(G)I-DLE](../../artists/_g_i_dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 4 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 4 | 4 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 3 | 3 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 3 | 3 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
@@ -321,7 +321,7 @@
 | 1 | 1 | ATL |
 | 1 | 1 | [ADOR](../../labels/ador/overview.md) |
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
-| 1 | 0 | avex trax |
+| 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | J Records |
 
@@ -334,10 +334,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 126 | 120 | [k-pop](../../genres/k_pop/overview.md) |
-| 84 | 83 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 126 | 120 | [k-pop](../../genres/k-pop/overview.md) |
+| 84 | 83 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 68 | 65 | [pop](../../genres/pop/overview.md) |
-| 55 | 50 | [k-pop boy group](../../genres/k_pop_boy_group/overview.md) |
+| 55 | 50 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 13 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | [anime](../../genres/anime/overview.md) |
 | 6 | 6 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -384,7 +384,7 @@
 | 1 | 1 | latin pop |
 | 1 | 1 | la indie |
 | 1 | 1 | korean talent show |
-| 1 | 1 | [k-rap](../../genres/k_rap/overview.md) |
+| 1 | 1 | [k-rap](../../genres/k-rap/overview.md) |
 | 1 | 1 | italian pop |
 | 1 | 1 | italian hip hop |
 | 1 | 1 | israeli pop |

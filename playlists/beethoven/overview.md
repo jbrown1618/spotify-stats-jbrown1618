@@ -56,7 +56,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 103 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
-| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon__dg_/overview.md) |
+| 42 | 0 | [Deutsche Grammophon (DG)](../../labels/deutsche_grammophon_(dg)/overview.md) |
 | 21 | 0 | [PENTATONE](../../labels/pentatone/overview.md) |
 
 ![Bar chart of top 3 record labels](../../images/playlists/beethoven/labels.png)

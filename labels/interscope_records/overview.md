@@ -48,7 +48,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 3 | 1 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 3 | 1 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyonc_/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeabbcceb4f3622a80728d437" alt="" width="50" /> | 1 | 1 | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
@@ -144,8 +144,8 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 62 | 46 | [pop](../../genres/pop/overview.md) |
-| 38 | 28 | [k-pop](../../genres/k_pop/overview.md) |
-| 24 | 18 | [k-pop girl group](../../genres/k_pop_girl_group/overview.md) |
+| 38 | 28 | [k-pop](../../genres/k-pop/overview.md) |
+| 24 | 18 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 23 | 16 | [art pop](../../genres/art_pop/overview.md) |
 | 13 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -377,7 +377,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Paparazzi | The Fame | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | The Fame | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Bad Romance | The Fame Monster (Deluxe Edition) | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](../../artists/lady_gaga/overview.md), [Beyoncé](../../artists/beyonc_/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](../../artists/lady_gaga/overview.md), [Beyoncé](../../artists/beyoncé/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Judas | Born This Way | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="" width="50" /> | Yoü And I | Born This Way | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | Til It Happens To You | Til It Happens To You | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | | [🔗](https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I) |
