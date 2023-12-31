@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | Agust D | [BIGHIT MUSIC](../..) | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | [Agust D](../../../../artists/agust_d/overview.md) | [BIGHIT MUSIC](../..) | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..), [HYBE](../../../hybe) | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | dimple | Love Yourself 承 'Her' | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..), [HYBE](../../../hybe) | | [🔗](https://open.spotify.com/track/3ryjLm3oupIjJFGc39naNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | Love Yourself 轉 'Tear' | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/34OSqW5ULWxmCEMjJ1ZgVW) |
@@ -40,10 +40,10 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | Agust D, MAX | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | Agust D | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | Agust D | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | Agust D, RM | [BIGHIT MUSIC](../..) | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | [Agust D](../../../../artists/agust_d/overview.md), MAX | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | [Agust D](../../../../artists/agust_d/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | [Agust D](../../../../artists/agust_d/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | [Agust D](../../../../artists/agust_d/overview.md), RM | [BIGHIT MUSIC](../..) | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life Pt.2 | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..), [HYBE](../../../hybe) | 💚 | [🔗](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Love Yourself 轉 'Tear' | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | MAP OF THE SOUL : 7 | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../..) | 💚 | [🔗](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) |

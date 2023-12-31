@@ -22,16 +22,10 @@ OH MY GIRL:
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
 ## Top Tracks
 
-- Dolphin is:
-    - the #22 track of the last month
 
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/oh_my_girl/track_rank_time_series_long_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/oh_my_girl/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

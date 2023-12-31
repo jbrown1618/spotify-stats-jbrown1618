@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebb1aa85c175b2a0fea17fbf8f" alt="NMIXX" width="100" />
 
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
+
 ## Relationships
 
 NMIXX:
@@ -19,21 +23,18 @@ NMIXX:
 NMIXX is currently:
 - The #34 artist of all time
 - The #23 artist of the last 6 months
-- The #40 artist of the last month
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - Love Me Like This is:
-    - the #23 track of the last 6 months
+    - the #14 track of the last 6 months
+- Funky Glitter Christmas is:
+    - the #35 track of the last month
 
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/nmixx/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/nmixx/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -53,13 +54,14 @@ NMIXX is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | 1 | 1 | Soñar (Breaker) | 2023-12-04 | [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 1 | 1 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362fe63e0533991976269709f" alt="" width="50" /> | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 9 | 7 | [Republic Records](../../labels/republic_records/overview.md) |
+| 10 | 7 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 
 ## Genres
@@ -152,10 +154,21 @@ NMIXX is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362fe63e0533991976269709f" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733751b580f520cf08bce66d63" alt="" width="50" /> | Soñar (Breaker) | Soñar (Breaker) | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) |
+
+</details>
+

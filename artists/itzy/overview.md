@@ -21,24 +21,21 @@ ITZY:
 ITZY is currently:
 - The #4 artist of all time
 - The #3 artist of the last 6 months
-- The #4 artist of the last month
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 - LOCO is:
-    - the #28 track of the last month
-    - the #14 track of the last 6 months
+    - the #17 track of the last 6 months
     - the #16 track of all time
 - CAKE is:
-    - the #9 track of the last 6 months
+    - the #6 track of the last 6 months
 - Kill Shot is:
-    - the #38 track of the last 6 months
+    - the #25 track of the last 6 months
 - BET ON ME is:
-    - the #45 track of the last month
-    - the #48 track of the last 6 months
+    - the #39 track of the last 6 months
 - Snowy is:
-    - the #35 track of the last month
+    - the #37 track of the last month
 
 ### Top tracks of all time over time
 
@@ -47,10 +44,6 @@ ITZY is currently:
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/itzy/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/itzy/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -63,6 +56,7 @@ ITZY is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27305f3e920cfd3ae7fe9192149ab67616d0000b2737da22ba88dfc26a18122ee2dab67616d0000b273dff665230ac08de979d3bd0eab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27382b88b49dd9a1b387cb3f0c6ab67616d0000b27393f60760427ff9cb94a5ba96ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 1 | [Classical Samples](../../playlists/classical_samples/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 

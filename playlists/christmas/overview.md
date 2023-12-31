@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 2 | 0 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 2 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 2 | 0 | [THE BOYZ](../../artists/the_boyz/overview.md) | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 2 | 0 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fe9dd1c4225c729998f6bbb" alt="" width="50" /> | 1 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | 1 | 0 | Basick | [🔗](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733798f393b49db39c1815b29f" alt="" width="50" /> | 1 | 0 | Liz Gillies | [🔗](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) |
@@ -303,7 +303,7 @@
 
 
 <details>
-<summary>See all 65 genres</summary>
+<summary>See all 64 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -358,7 +358,6 @@
 | 1 | 0 | classic oklahoma country |
 | 1 | 0 | classic girl group |
 | 1 | 0 | chamber pop |
-| 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | brill building pop |
 | 1 | 0 | boy soprano |
 | 1 | 0 | american folk revival |

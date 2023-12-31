@@ -10,11 +10,7 @@
 ## Top Tracks
 
 - For You is:
-    - the #29 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/crush/track_rank_time_series_short_term.png)
+    - the #30 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

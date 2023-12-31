@@ -277,7 +277,7 @@
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
 | 15 | 12 | indie rock |
-| 8 | 8 | indietronica |
+| 10 | 9 | canadian indie |
 
 
 <details>
@@ -285,6 +285,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 8 | 8 | indietronica |
 | 9 | 7 | chamber pop |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | pov: indie |
@@ -292,7 +293,6 @@
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
-| 4 | 4 | canadian indie |
 | 13 | 3 | alternative metal |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 3 | pop punk |

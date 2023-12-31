@@ -22,17 +22,12 @@ Pentatonix:
 Pentatonix is currently:
 - The #32 artist of all time
 - The #24 artist of the last 6 months
-- The #8 artist of the last month
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
 ## Top Tracks
 
-- Mary, Did You Know? is:
-    - the #43 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/pentatonix/track_rank_time_series_short_term.png)
+- Let It Go is:
+    - the #45 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

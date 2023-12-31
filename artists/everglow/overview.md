@@ -18,15 +18,8 @@ EVERGLOW:
 EVERGLOW is currently:
 - The #28 artist of all time
 - The #40 artist of the last 6 months
-- The #27 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
-## Top Tracks
-
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/everglow/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -46,15 +39,15 @@ EVERGLOW is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | 1 | 1 | Last Melody | 2021-05-25 | [🔗](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | 1 | 1 | HUSH | 2019-08-19 | [🔗](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 1 | 1 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 1 | 1 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="" width="50" /> | 1 | 1 | -77.82x-78.29 | 2020-09-21 | [🔗](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 1 | 0 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 7 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
-| 7 | 7 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 7 | 6 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 7 | 6 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | YUEHUA ENTERTAINMENT KOREA |
 
 ## Genres
@@ -98,4 +91,4 @@ EVERGLOW is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST | Last Melody | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Don’t Speak | Return of The Girl | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4rTXasoYr4RICJeGRk5cnD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate | Return of The Girl | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |

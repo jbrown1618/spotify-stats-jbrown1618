@@ -53,7 +53,7 @@
 | | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | | 3 | 0 | Ensemble - The Lion King | [🔗](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) |
@@ -109,7 +109,7 @@
 | | 1 | 0 | Cristy Candler | [🔗](https://open.spotify.com/artist/36XXapGsaRgnQEQkjPfTBl) |
 | | 1 | 0 | Jordan Gelber | [🔗](https://open.spotify.com/artist/31IEoybe2khDGCEPboqR1N) |
 | <img src="https://i.scdn.co/image/b7dc0c8b9aaad3fd0a430084f395be143b25eade" alt="" width="50" /> | 1 | 0 | Heather Headley | [🔗](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0) |
-| | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730dfee5a04607c075eb53fa01" alt="" width="50" /> | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
 | <img src="https://i.scdn.co/image/50aac634edcd25da47cfa1b0c25a20d39eb28bb8" alt="" width="50" /> | 1 | 0 | Betty Buckley | [🔗](https://open.spotify.com/artist/2fAwOOtpSCnuUU1lyBB7ab) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e80333b6ca555c34f0539a9" alt="" width="50" /> | 1 | 0 | Stephanie D'Abruzzo | [🔗](https://open.spotify.com/artist/2bvaL0chaHzVdKXjULRLeK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f021efd322122133f4b05fc3" alt="" width="50" /> | 1 | 0 | Norbert Leo Butz | [🔗](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF) |
@@ -178,7 +178,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 30 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
+| 31 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 54 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
 | 7 | 1 | [viral pop](../../genres/viral_pop/overview.md) |

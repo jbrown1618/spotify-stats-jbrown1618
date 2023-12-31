@@ -7,12 +7,6 @@
 ## Artist Rank
 
 
-## Top Tracks
-
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/justin_bieber/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

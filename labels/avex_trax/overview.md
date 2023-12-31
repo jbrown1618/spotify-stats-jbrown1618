@@ -11,7 +11,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 4 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 2 | 2 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2be82149be3774fa0729a543" alt="" width="50" /> | 1 | 0 | TVXQ! | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2be82149be3774fa0729a543" alt="" width="50" /> | 1 | 0 | [TVXQ!](../../artists/tvxq!/overview.md) | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 1 | 0 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | 1 | 0 | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada7146c1f97b1fc6992609a" alt="" width="50" /> | 1 | 0 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -58,4 +58,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Marionette | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 💚 | [🔗](https://open.spotify.com/track/3KvMgB5V1FvQTCvvHz5aiO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Sayonara | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | | [🔗](https://open.spotify.com/track/382Mbj7rOJuqLQnsiV8fdp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | WILDSIDE | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 💚 | [🔗](https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | SCREAM | SCREAM | TVXQ! | [avex trax](.) | | [🔗](https://open.spotify.com/track/7BXpFBu8T1uW4dJLycAM6d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | SCREAM | SCREAM | [TVXQ!](../../artists/tvxq!/overview.md) | [avex trax](.) | | [🔗](https://open.spotify.com/track/7BXpFBu8T1uW4dJLycAM6d) |

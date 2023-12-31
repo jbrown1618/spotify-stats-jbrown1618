@@ -18,21 +18,17 @@ GOT the beat:
 
 ## Artist Rank
 GOT the beat is currently:
-- The #40 artist of all time
+- The #41 artist of all time
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks
 
 - Stamp On It is:
-    - the #50 track of the last 6 months
+    - the #41 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/got_the_beat/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/got_the_beat/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

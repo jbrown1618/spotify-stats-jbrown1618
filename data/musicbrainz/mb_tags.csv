@@ -146,6 +146,7 @@ tag,artist_mbid,mb_tag
 ,ec2bcb77-b9a1-49e2-bfe7-419586bbef48,2nd gen k-pop
 ,fcc7e9c8-3474-4221-b83a-27890982e0fa,2nd gen k-pop
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,32 sonatas
+,270bebcb-f400-4912-a8ed-1827ae562405,3rd gen k-pop
 ,30aeb57f-bb16-47fa-86ca-79fc57b4d12c,3rd gen k-pop
 ,48646387-1664-4c9a-9139-9bfd091b823c,3rd gen k-pop
 ,4f0cb3b7-6c06-4317-ae35-ddf3106a17ee,3rd gen k-pop
@@ -180,6 +181,7 @@ tag,artist_mbid,mb_tag
 ,79c67eb5-3851-4b28-bfe0-3adfcd6f58d7,a cappella
 ,ea6c62ec-701e-4f01-bbcc-adfad2d3be70,a cappella
 ,9252ca18-015c-484c-ae59-5670784887d3,a'tin
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,academy award winner
 ,2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab,acoustic
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,acoustic
 ,3c004c98-aab6-4b63-a2df-e07c98e73b0a,acoustic guitar
@@ -316,6 +318,7 @@ tag,artist_mbid,mb_tag
 ,0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd,ambient
 ,1517c06e-2fe2-452a-981c-b3d9077e0520,ambient
 ,2a74672d-8efc-4914-a352-cfcb218e8bdc,ambient
+,48ec4bb6-47a6-4e2c-8287-7617464eb193,ambient
 ,6077c794-a30a-4942-aed6-0d26c9090d11,ambient
 ,79d1e9ca-d396-44ac-8a4a-ff5dbe9e44f9,ambient
 ,c7e7036d-236a-4b4c-83a8-64bca8b14d7e,ambient
@@ -671,6 +674,8 @@ tag,artist_mbid,mb_tag
 ,0d79fe8e-ba27-4859-bb8c-2f255f346853,boy group
 ,142b343d-bf5a-428c-a64f-6d1a7566bbe9,boy group
 ,1d2c24a6-9ae6-460b-a65e-63671c9fbdd9,boy group
+,270bebcb-f400-4912-a8ed-1827ae562405,boy group
+,354dd210-5b7f-416e-920b-d6f7bf70e609,boy group
 ,497ad8ff-0d35-4570-8a46-3f6b344b30b4,boy group
 ,527973c7-9a9f-40bf-a52c-8cc2a7115c1a,boy group
 ,5a35701f-9209-4742-ad44-7432d3230127,boy group
@@ -878,6 +883,7 @@ tag,artist_mbid,mb_tag
 ,dcd522c9-ac64-4c53-b080-6aab4abf2b44,christmas music
 ,ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3,christmas music
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,cinematic classical
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,city pop
 ,ee1de8c5-5eab-49f6-ac42-e79252bac668,city pop
 ,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86,classic country
 ,0dbd6300-efdc-420b-857e-895e18fad317,classic pop and rock
@@ -942,6 +948,7 @@ tag,artist_mbid,mb_tag
 ,9472d50c-b4eb-4747-bc85-8c1a0b5907b2,classical
 ,980ee2d8-2ee9-407b-b48e-48360fbc7437,classical
 ,996b437c-1bb9-4b84-8e46-660f5135b939,classical
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,classical
 ,b72b9561-abe6-4fe4-8437-55e4a0aa257b,classical
 ,ba550d0e-adac-4864-b88b-407cab5e76af,classical
 ,da93733b-4c70-4661-99d2-a8136c677398,classical
@@ -996,6 +1003,7 @@ tag,artist_mbid,mb_tag
 ,9252ca18-015c-484c-ae59-5670784887d3,composer
 ,980ee2d8-2ee9-407b-b48e-48360fbc7437,composer
 ,a6de8ef9-b1a1-4756-97aa-481bbb8a4069,composer
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,composer
 ,a98fe54a-5638-4780-b056-14cfc01bdabc,composer
 ,ba550d0e-adac-4864-b88b-407cab5e76af,composer
 ,bc880664-6751-4998-984d-ebdbff15d229,composer
@@ -1020,6 +1028,7 @@ tag,artist_mbid,mb_tag
 ,94c338ff-1985-4429-9dc8-997b61bb5932,conscious hip hop
 ,de05553e-3fdb-452b-9ee7-022dd92f9ff4,contemporary christian
 ,125945a4-6f0b-494a-8973-77e5da16eb62,contemporary classical
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,contemporary classical
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,contemporary classical
 ,0be325a6-3c6d-4e3a-97ed-e59539b1014f,contemporary country
 ,20244d07-534f-4eff-b4d4-930878889970,contemporary country
@@ -1279,6 +1288,7 @@ tag,artist_mbid,mb_tag
 ,0e9972f8-5b64-467d-a3ce-4ad11afcefb4,danish
 ,06640aed-48bc-4488-9409-dd53f4356d85,dark ambient
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,dark ambient
+,270bebcb-f400-4912-a8ed-1827ae562405,dark concept
 ,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,dark pop
 ,ad7b6571-9832-4aa1-8e58-d345d9ee06c0,darkwave
 ,43e9db57-4ac3-4979-9234-220ce711628f,death by aids
@@ -1441,6 +1451,7 @@ tag,artist_mbid,mb_tag
 ,42a8f507-8412-4611-854f-926571049fa0,electronic
 ,437a0e49-c6ae-42f6-a6c1-84f25ed366bc,electronic
 ,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,electronic
+,48ec4bb6-47a6-4e2c-8287-7617464eb193,electronic
 ,4b356f05-bcc2-4544-925b-fd9a1bf708be,electronic
 ,5334edc0-5faf-4ca5-b1df-000de3e1f752,electronic
 ,56c4b861-0922-4c3a-a9b9-3bfcb00f8274,electronic
@@ -1489,6 +1500,7 @@ tag,artist_mbid,mb_tag
 ,98f1b98b-2296-4fb3-ab16-4dffe67f2174,electronica
 ,9b0996d8-ce15-4e37-834c-b6c43cb8bf14,electronica
 ,a56bd8f9-8ef8-4d63-89a4-794ed1360dd2,electronica
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,electronica
 ,da93733b-4c70-4661-99d2-a8136c677398,electronica
 ,de4feabc-cd21-4568-a09c-2086bfebe2f4,electronica
 ,e32f2cd6-8695-4914-9c24-72e02ebd09ee,electronica
@@ -1974,6 +1986,7 @@ tag,artist_mbid,mb_tag
 ,6d24f102-5c43-453a-8664-4ee092f441cf,glam rock
 ,ff95eb47-41c4-4f7f-a104-cdc30f02e872,glam rock
 ,260b6184-8828-48eb-945c-bc4cb6fc34ca,glitch
+,48ec4bb6-47a6-4e2c-8287-7617464eb193,glitch
 ,486067ad-56d6-48b5-957b-d6cfe3e1af73,glitch pop
 ,0383dadf-2a4e-4d10-a46a-e9e041da8eb3,glorious
 ,38f59974-2f4d-4bfa-b2e3-d2696de1b675,glory days
@@ -2381,6 +2394,7 @@ tag,artist_mbid,mb_tag
 ,cc197bad-dc9c-440d-a5b5-d52ba2e14234,indie pop
 ,ccd4426f-aef3-48e3-b04e-2e1de3d1f8d6,indie pop
 ,ee0c82bb-85ca-4a3c-94b8-d7221e74333f,indie pop
+,f1cc066a-6dd1-4b18-ae68-3708472ab4b1,indie pop
 ,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,indie pop
 ,fab34286-b8e1-4879-bce3-194e1358fbd2,indie pop
 ,fad2875e-ba81-4637-b859-4684622dcb1c,indie pop
@@ -2529,8 +2543,10 @@ tag,artist_mbid,mb_tag
 ,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,jam band
 ,6be2828f-6c0d-4059-99d4-fa18acf1a296,janet jackson escapade
 ,6be2828f-6c0d-4059-99d4-fa18acf1a296,janet-jackson
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,japan
 ,2c6c53ea-09d4-4d98-b174-c9aa83d4fecf,japanese
 ,a16d1433-ba89-4f72-a47b-a370add0bb55,japanese
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,japanese
 ,a98fe54a-5638-4780-b056-14cfc01bdabc,jax jones
 ,0438dfba-84aa-4cae-832b-f449ced42985,jazz
 ,0905529e-d273-4f50-bce1-cb8efbf03d0d,jazz
@@ -2672,6 +2688,7 @@ tag,artist_mbid,mb_tag
 ,1ee37742-1e3d-4e61-84d2-bc85f4c1459a,k-pop
 ,21c93d2d-dc10-4f8f-ae91-7285eff37c2f,k-pop
 ,23492596-1fa6-45b1-8de6-eed4a829483b,k-pop
+,270bebcb-f400-4912-a8ed-1827ae562405,k-pop
 ,2b786fb3-a116-4163-9b65-cf56f03c8a7f,k-pop
 ,2cb1105c-5f6d-426f-91a5-7b80f2fc68ff,k-pop
 ,2d623e82-73e2-4179-9c44-e963980f2d58,k-pop
@@ -2876,6 +2893,7 @@ tag,artist_mbid,mb_tag
 ,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,lgbtqi
 ,8a9ac1cb-faae-434e-8d60-b139a3707dfc,lgbtqi
 ,ccb8f30e-4d71-40c4-8b1d-846dafe73e2c,lgbtqi
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,likedis auto
 ,9252ca18-015c-484c-ae59-5670784887d3,lit dancers
 ,9252ca18-015c-484c-ae59-5670784887d3,lit songs
 ,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86,little
@@ -2963,6 +2981,8 @@ tag,artist_mbid,mb_tag
 ,05cbaf37-6dc2-4f71-a0ce-d633447d90c3,mid-tempo
 ,0039c7ae-e1a7-4a7d-9b49-0cbc716821a6,midwest emo
 ,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,midwest hip hop
+,48ec4bb6-47a6-4e2c-8287-7617464eb193,minimal
+,48ec4bb6-47a6-4e2c-8287-7617464eb193,minimalism
 ,9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa,mod
 ,6bf692e0-baac-4428-94c3-423d52508cf0,modern classical
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,modern classical
@@ -3039,6 +3059,7 @@ tag,artist_mbid,mb_tag
 ,f181961b-20f7-459e-89de-920ef03c7ed0,new wave
 ,64b94289-9474-4d43-8c93-918ccc1920d1,new york
 ,fad2875e-ba81-4637-b859-4684622dcb1c,new zealand
+,48ec4bb6-47a6-4e2c-8287-7617464eb193,noise
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,noise
 ,5b11f4ce-a62d-471e-81fc-a69a8278c7da,noise rock
 ,589ef702-7f3a-4a1c-8f2c-4727005cfc0e,northern soul
@@ -3127,6 +3148,7 @@ tag,artist_mbid,mb_tag
 ,125945a4-6f0b-494a-8973-77e5da16eb62,piano
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,piano
 ,9a17b57a-cbcd-45c5-ae60-15d65fc3b6df,piano
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,piano
 ,0dbd6300-efdc-420b-857e-895e18fad317,piano blues
 ,328d146c-79f1-4eb6-9e40-8ee5710c14e5,piano pop rock
 ,64b94289-9474-4d43-8c93-918ccc1920d1,piano rock
@@ -4859,6 +4881,7 @@ tag,artist_mbid,mb_tag
 ,1fefa8b3-806b-4ab9-a066-66574b22aa16,soundtrack
 ,5803c81e-739a-4057-9a5c-cf84e55db630,soundtrack
 ,6077c794-a30a-4942-aed6-0d26c9090d11,soundtrack
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,soundtrack
 ,bc880664-6751-4998-984d-ebdbff15d229,soundtrack
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,soundtrack
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,soundtrack composer
@@ -5255,6 +5278,7 @@ tag,artist_mbid,mb_tag
 ,a98fe54a-5638-4780-b056-14cfc01bdabc,wilkinson 'wash away' (calling for you)
 ,99689c05-4f6d-4bff-9b00-06731277fe42,wjsn
 ,1ce2f8fb-8a38-491f-ac6a-658828cb4dec,wonder girls
+,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,world
 ,dcd522c9-ac64-4c53-b080-6aab4abf2b44,world
 ,9252ca18-015c-484c-ae59-5670784887d3,world domination
 ,a6de8ef9-b1a1-4756-97aa-481bbb8a4069,writer

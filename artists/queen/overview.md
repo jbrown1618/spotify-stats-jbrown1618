@@ -23,12 +23,6 @@ Queen:
 ## Artist Rank
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
-## Top Tracks
-
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/queen/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

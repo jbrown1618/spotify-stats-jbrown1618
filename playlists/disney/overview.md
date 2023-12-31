@@ -192,15 +192,14 @@
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
 | 2 | 0 | comedy |
-| 2 | 0 | [broadway](../../genres/broadway/overview.md) |
+| 2 | 0 | alternative hip hop |
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |
 | 1 | 0 | swing |

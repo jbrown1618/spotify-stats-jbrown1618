@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[400 tracks (288 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[401 tracks (289 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -272,9 +272,9 @@
 | 12 | 10 | [Syco Music](../../labels/syco_music/overview.md) |
 | 8 | 8 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
 | 11 | 7 | [Capitol Records](../../labels/capitol_records/overview.md) |
+| 10 | 5 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 6 | 5 | Kemosabe Records |
 | 5 | 5 | Bad Boy |
-| 9 | 4 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 5 | 4 | Beluga Heights |
 | 4 | 4 | Olivia Rodrigo PS |
 | 4 | 4 | Atlantic Records UK |
@@ -448,6 +448,7 @@
 | 1 | 1 | oakland hip hop |
 | 1 | 1 | nyc pop |
 | 1 | 1 | lafayette indie |
+| 1 | 1 | la pop |
 | 1 | 1 | la indie |
 | 1 | 1 | italian pop |
 | 1 | 1 | indie rock italiano |
@@ -472,7 +473,6 @@
 | 2 | 0 | singer-songwriter pop |
 | 2 | 0 | modern indie pop |
 | 2 | 0 | electro house |
-| 2 | 0 | dutch edm |
 
 </details>
 
@@ -608,7 +608,7 @@
 | [2021](2021.md) | 26 |
 | [2020](2020.md) | 50 |
 | [2019](2019.md) | 47 |
-| [2018](2018.md) | 25 |
+| [2018](2018.md) | 26 |
 | [2017](2017.md) | 27 |
 | [2016](2016.md) | 26 |
 | [2015](2015.md) | 20 |

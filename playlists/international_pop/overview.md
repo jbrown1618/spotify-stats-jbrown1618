@@ -103,7 +103,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32db69c643f342c067c9c840" alt="" width="50" /> | 1 | 0 | Ali Sethi | [🔗](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08132734f5756507e29fdf5b" alt="" width="50" /> | 1 | 0 | Ayumi Hamasaki | [🔗](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63b3f52a50b570554df21c55" alt="" width="50" /> | 1 | 0 | Agam Buhbut | [🔗](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e1c6b8723c29f2e1ef217c4" alt="" width="50" /> | 1 | 0 | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bdbfa224f9c1f5c657c4250e" alt="" width="50" /> | 1 | 0 | Kausar Munir | [🔗](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0f3eaf5c72b6ee370f6618d1" alt="" width="50" /> | 1 | 0 | Rayi Putra | [🔗](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80ab8b05c210da4eed1c555c" alt="" width="50" /> | 1 | 0 | Savera | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74688dd2b4c18d27ef2ce405" alt="" width="50" /> | 1 | 0 | MAXIMUM THE HORMONE | [🔗](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) |

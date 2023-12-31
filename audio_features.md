@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="SuperM - The 1st Mini Album" width="50" /> | Jopping (0.857) | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | Funky Glitter Christmas (0.0221) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing (0.82) | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | CASE 143 (0.0222) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="Christmas Album" width="50" /> | I Saw Mommy Kissing Santa Claus (0.817) | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | SNEAKERS (0.0223) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | Piano Man (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.0232) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | Piano Man (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b27362fe63e0533991976269709f" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | Funky Glitter Christmas (0.0227) |
 
 ## Valence
 

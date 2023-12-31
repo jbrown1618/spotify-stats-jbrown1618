@@ -22,12 +22,6 @@ Florence + The Machine:
 ## Artist Rank
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence_+_the_machine/rank_time_series.png)
-## Top Tracks
-
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/florence_+_the_machine/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -22,21 +22,21 @@ LE SSERAFIM:
 LE SSERAFIM is currently:
 - The #21 artist of all time
 - The #15 artist of the last 6 months
-- The #12 artist of the last month
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
+- FEARLESS is:
+    - the #42 track of the last month
+    - the #26 track of the last 6 months
+- UNFORGIVEN (feat. Nile Rodgers) is:
+    - the #43 track of the last 6 months
 - Perfect Night (Holiday Remix) is:
-    - the #10 track of the last month
+    - the #9 track of the last month
 
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/le_sserafim/track_rank_time_series_medium_term.png)
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/le_sserafim/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

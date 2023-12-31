@@ -23,10 +23,6 @@ SUNMI is currently:
 
 - Heart Burn is:
     - the #20 track of the last month
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/sunmi/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

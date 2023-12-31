@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd6758093c92bc8d0c21ba72" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | 1 | 0 | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
 | | 1 | 0 | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4c275a91813c432ce13b5fbc" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a74848f51265ee39eab8621" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | 1 | 0 | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb381a32f450b916405246fdf9" alt="" width="50" /> | 1 | 0 | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
 

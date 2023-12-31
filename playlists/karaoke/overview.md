@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 86 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -297,6 +297,7 @@
 | 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | disco |
 | 1 | 1 | chamber pop |
+| 1 | 1 | canadian indie |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |
 | 1 | 1 | baroque pop |

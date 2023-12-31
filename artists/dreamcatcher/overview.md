@@ -23,15 +23,8 @@ Dreamcatcher:
 Dreamcatcher is currently:
 - The #27 artist of all time
 - The #21 artist of the last 6 months
-- The #35 artist of the last month
 
 ![Rank of Dreamcatcher over time](../../images/artists/dreamcatcher/rank_time_series.png)
-## Top Tracks
-
-
-### Top tracks of the last month over time
-
-![Line chart of top tracks of the last month over time](../../images/artists/dreamcatcher/track_rank_time_series_short_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

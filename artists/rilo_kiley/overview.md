@@ -41,6 +41,7 @@ Rilo Kiley:
 
 ## Genres
 
+- canadian indie
 - chamber pop
 - funktronica
 - indie pop
