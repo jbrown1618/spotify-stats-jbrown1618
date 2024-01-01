@@ -18,21 +18,17 @@ TAEYEON:
 ## Artist Rank
 TAEYEON is currently:
 - The #9 artist of all time
-- The #9 artist of the last 6 months
+- The #8 artist of the last 6 months
 
-![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
+
 ## Top Tracks
 
 - I Got Love is:
     - the #46 track of the last 6 months
 - To. X is:
-    - the #19 track of the last month
+    - the #6 track of the last month
 - Candy Cane is:
-    - the #36 track of the last month
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/taeyeon/track_rank_time_series_medium_term.png)
+    - the #40 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

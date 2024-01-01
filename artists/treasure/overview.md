@@ -23,15 +23,8 @@ TREASURE:
 ## Artist Rank
 TREASURE is currently:
 - The #45 artist of all time
-- The #36 artist of the last 6 months
-
-![Rank of TREASURE over time](../../images/artists/treasure/rank_time_series.png)
-## Top Tracks
 
 
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/treasure/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

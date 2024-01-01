@@ -13,12 +13,6 @@ WINTER:
 ## Artist Rank
 
 
-## Top Tracks
-
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/winter/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

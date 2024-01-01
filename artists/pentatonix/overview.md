@@ -23,11 +23,11 @@ Pentatonix is currently:
 - The #32 artist of all time
 - The #24 artist of the last 6 months
 
-![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
+
 ## Top Tracks
 
 - Let It Go is:
-    - the #45 track of the last month
+    - the #48 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

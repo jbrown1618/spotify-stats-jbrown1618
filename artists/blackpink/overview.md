@@ -19,9 +19,9 @@ BLACKPINK:
 ## Artist Rank
 BLACKPINK is currently:
 - The #6 artist of all time
-- The #12 artist of the last 6 months
+- The #14 artist of the last 6 months
 
-![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
+
 ## Top Tracks
 
 - Kill This Love is:
@@ -33,16 +33,8 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #15 track of all time
 - DDU-DU DDU-DU is:
-    - the #30 track of the last 6 months
+    - the #27 track of the last 6 months
     - the #41 track of all time
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/blackpink/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/blackpink/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

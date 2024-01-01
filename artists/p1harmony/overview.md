@@ -16,7 +16,7 @@ P1Harmony:
 
 ## Artist Rank
 
-![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

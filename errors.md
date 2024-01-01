@@ -4,11 +4,11 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 70 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 65 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 79 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 79 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 71 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 65 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 80 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 79 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
 | Funky Glitter Christmas [🔗](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | 53 | 2022-11-23 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 47 | | Republic Records - NMIXX | |
 | Funky Glitter Christmas [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | 0 | 2022-11-23 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | JYP Entertainment | |
-| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 89 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 85 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 89 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 83 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 95 | | Top Dawg Entertainment/RCA Records | 💚 |
 
 ## Duplicate albums
@@ -24,7 +24,7 @@
 | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 47 | 2022-11-23 | Republic Records - NMIXX | Funky Glitter Christmas [🔗](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | |
 | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 0 | 2022-11-23 | JYP Entertainment | Funky Glitter Christmas [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 95 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8),<br>Snooze [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
-| SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 85 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
+| SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 86 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 
 ## Tracks with low popularity
 
@@ -41,9 +41,9 @@
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 0 | 86 |
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 86 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 86 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 86 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 86 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 2 | 86 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 2 | 86 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 2 | 86 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 86 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 86 |
 | Butter | Butter | BTS | 1 | 0 | 86 |
@@ -67,24 +67,24 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 52 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 52 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 52 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 52 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 51 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
@@ -189,45 +189,45 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Orchestra Victoria | 0 | 0 | 32 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Orchestra Victoria | 0 | 0 | 32 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Orchestra Victoria | 0 | 0 | 32 |
-| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: Entr'acte | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 8 Final | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| La Source / Act 2: No. 22 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
+| Coppélia / Tableau 1: No. 4 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 9 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 15 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 11a Musique des automates | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 1 Valse | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 14a Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 13 Chanson à boire et Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: Entr'acte | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 8 Final | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 7a Sortie | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 17 Gigue | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 3 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 6 Thème slave varié | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 19 Marche de la cloche | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| La Source / Act 2: No. 22 Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 11b Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 2 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 5 Ballade | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 16 Boléro - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: II. L'aurore | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VII. La paix | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 10 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VI. La discorde et la guerre | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: Prélude - Mazurka | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 16 Boléro | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 1: No. 7 Czárdás | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: III. La prière | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 15 Scène - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: VIII. Danse de fête - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final - Alternative Version | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Sylvia / Act 2: No. 12 Chant bachique | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
+| Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 50 |
 | Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
 | Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
 | Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
@@ -421,16 +421,16 @@
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 84 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 63 |
-| She′s In The Rain | Dawn | The Rose | 0 | 0 | 63 |
+| She′s In The Rain | Dawn | The Rose | 1 | 0 | 63 |
 | Sorry | Sorry | The Rose | 1 | 0 | 63 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 50 |
 | Just The Way You Are | Little Love - EP | James Smith | 2 | 1 | 53 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
-| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 70 |
-| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 2 | 70 |
-| The Cave | Sigh No More | Mumford & Sons | 0 | 2 | 70 |
+| Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
+| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
+| The Cave | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 52 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 32 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 31 |
@@ -442,7 +442,7 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 1 | 83 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 1 | 78 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 1 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 2 | 62 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 69 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |

@@ -19,9 +19,9 @@ aespa:
 ## Artist Rank
 aespa is currently:
 - The #7 artist of all time
-- The #2 artist of the last 6 months
+- The #1 artist of the last 6 months
 
-![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
+
 ## Top Tracks
 
 - Savage is:
@@ -33,42 +33,38 @@ aespa is currently:
 - Black Mamba is:
     - the #24 track of all time
 - Illusion is:
-    - the #23 track of the last month
-    - the #10 track of the last 6 months
+    - the #25 track of the last month
+    - the #11 track of the last 6 months
     - the #31 track of all time
 - Drama is:
     - the #1 track of the last month
     - the #1 track of the last 6 months
-- Welcome To MY World (feat. nævis) is:
-    - the #2 track of the last 6 months
 - Trick or Trick is:
+    - the #2 track of the last 6 months
+- Welcome To MY World (feat. nævis) is:
     - the #3 track of the last 6 months
 - Better Things is:
-    - the #25 track of the last month
+    - the #28 track of the last month
     - the #4 track of the last 6 months
 - Jingle Bell Rock is:
     - the #2 track of the last month
     - the #12 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #16 track of the last 6 months
+    - the #17 track of the last 6 months
 - Hold On Tight is:
-    - the #28 track of the last 6 months
+    - the #25 track of the last 6 months
 - Spicy is:
     - the #34 track of the last 6 months
 - Don't Blink is:
     - the #36 track of the last 6 months
+- Hot Air Balloon is:
+    - the #38 track of the last 6 months
+- YOLO is:
+    - the #45 track of the last 6 months
 - Beautiful Christmas is:
     - the #3 track of the last month
 - Girls is:
-    - the #27 track of the last month
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/aespa/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/aespa/track_rank_time_series_medium_term.png)
+    - the #31 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -19,13 +19,7 @@ OH MY GIRL:
 
 ## Artist Rank
 
-![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
-## Top Tracks
 
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/oh_my_girl/track_rank_time_series_long_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

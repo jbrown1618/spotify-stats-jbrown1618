@@ -22,7 +22,7 @@ Queen:
 
 ## Artist Rank
 
-![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

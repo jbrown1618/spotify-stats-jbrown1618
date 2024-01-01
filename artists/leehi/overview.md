@@ -13,25 +13,17 @@ LeeHi is currently:
 - The #13 artist of all time
 - The #10 artist of the last 6 months
 
-![Rank of LeeHi over time](../../images/artists/leehi/rank_time_series.png)
+
 ## Top Tracks
 
 - HOLO is:
     - the #14 track of all time
 - BREATHE is:
-    - the #6 track of the last month
+    - the #7 track of the last month
 - For You (Holiday Remix) - Spotify Singles Holiday is:
-    - the #16 track of the last month
+    - the #18 track of the last month
 - For You is:
-    - the #30 track of the last month
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/leehi/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/leehi/track_rank_time_series_medium_term.png)
+    - the #34 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

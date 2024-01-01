@@ -16,13 +16,13 @@ SUNMI:
 ## Artist Rank
 SUNMI is currently:
 - The #29 artist of all time
-- The #31 artist of the last 6 months
+- The #32 artist of the last 6 months
 
-![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
+
 ## Top Tracks
 
 - Heart Burn is:
-    - the #20 track of the last month
+    - the #21 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

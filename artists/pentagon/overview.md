@@ -22,7 +22,7 @@ PENTAGON:
 PENTAGON is currently:
 - The #49 artist of all time
 
-![Rank of PENTAGON over time](../../images/artists/pentagon/rank_time_series.png)
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -22,28 +22,20 @@ ENHYPEN:
 ## Artist Rank
 ENHYPEN is currently:
 - The #10 artist of all time
-- The #5 artist of the last 6 months
+- The #7 artist of the last 6 months
 
-![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
+
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #47 track of the last 6 months
     - the #29 track of all time
 - Just A Little Bit is:
     - the #47 track of all time
 - CRIMINAL LOVE is:
-    - the #8 track of the last 6 months
+    - the #9 track of the last 6 months
 - Sweet Venom is:
-    - the #29 track of the last 6 months
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/enhypen/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/enhypen/track_rank_time_series_medium_term.png)
+    - the #24 track of the last month
+    - the #15 track of the last 6 months
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

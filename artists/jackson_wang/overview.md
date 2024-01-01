@@ -13,13 +13,7 @@ Jackson Wang:
 Jackson Wang is currently:
 - The #50 artist of all time
 
-![Rank of Jackson Wang over time](../../images/artists/jackson_wang/rank_time_series.png)
-## Top Tracks
 
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/jackson_wang/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -26,15 +26,9 @@ NCT 127:
 ## Artist Rank
 NCT 127 is currently:
 - The #22 artist of all time
-- The #22 artist of the last 6 months
-
-![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
-## Top Tracks
+- The #21 artist of the last 6 months
 
 
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/nct_127/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

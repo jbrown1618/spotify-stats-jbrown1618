@@ -10,19 +10,15 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #20 artist of the last 6 months
+- The #19 artist of the last 6 months
 
-![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
+
 ## Top Tracks
 
 - FM 89.1 is:
-    - the #40 track of the last month
-- 내 맘을 볼 수 있나요 is:
-    - the #48 track of the last month
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/heize/track_rank_time_series_medium_term.png)
+    - the #9 track of the last month
+- Perhaps, Happy Ending is:
+    - the #32 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -22,13 +22,13 @@ BTS:
 ## Artist Rank
 BTS is currently:
 - The #12 artist of all time
-- The #29 artist of the last 6 months
+- The #30 artist of the last 6 months
 
-![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
+
 ## Top Tracks
 
 - Butter (Holiday Remix) is:
-    - the #8 track of the last month
+    - the #10 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

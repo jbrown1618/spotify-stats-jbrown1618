@@ -29,7 +29,7 @@ EXO is currently:
 - The #17 artist of all time
 - The #26 artist of the last 6 months
 
-![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
+
 ## Top Tracks
 
 - Love Shot is:
@@ -37,15 +37,7 @@ EXO is currently:
 - Monster is:
     - the #33 track of the last 6 months
 - The First Snow is:
-    - the #46 track of the last month
-
-### Top tracks of all time over time
-
-![Line chart of top tracks of all time over time](../../images/artists/exo/track_rank_time_series_long_term.png)
-
-### Top tracks of the last 6 months over time
-
-![Line chart of top tracks of the last 6 months over time](../../images/artists/exo/track_rank_time_series_medium_term.png)
+    - the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
