@@ -11,6 +11,7 @@ Jackson Wang:
 
 ## Artist Rank
 Jackson Wang is currently:
+- The #43 artist of the last month
 - The #50 artist of all time
 
 

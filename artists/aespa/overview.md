@@ -18,8 +18,9 @@ aespa:
 
 ## Artist Rank
 aespa is currently:
-- The #7 artist of all time
+- The #2 artist of the last month
 - The #1 artist of the last 6 months
+- The #7 artist of all time
 
 
 ## Top Tracks

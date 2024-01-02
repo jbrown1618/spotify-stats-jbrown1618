@@ -24,8 +24,8 @@ The Tarpeggios:
 
 ## Artist Rank
 The Tarpeggios is currently:
-- The #37 artist of all time
 - The #46 artist of the last 6 months
+- The #37 artist of all time
 
 
 ## Featured on Playlists

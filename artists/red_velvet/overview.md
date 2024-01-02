@@ -20,8 +20,9 @@ Red Velvet:
 
 ## Artist Rank
 Red Velvet is currently:
-- The #1 artist of all time
+- The #1 artist of the last month
 - The #2 artist of the last 6 months
+- The #1 artist of all time
 
 
 ## Top Tracks

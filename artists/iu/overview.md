@@ -10,8 +10,9 @@
 
 ## Artist Rank
 IU is currently:
-- The #2 artist of all time
+- The #3 artist of the last month
 - The #5 artist of the last 6 months
+- The #2 artist of all time
 
 
 ## Top Tracks

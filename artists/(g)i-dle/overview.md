@@ -20,8 +20,9 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #5 artist of all time
+- The #14 artist of the last month
 - The #4 artist of the last 6 months
+- The #5 artist of all time
 
 
 ## Top Tracks

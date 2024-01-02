@@ -23,8 +23,9 @@ Stray Kids:
 
 ## Artist Rank
 Stray Kids is currently:
-- The #8 artist of all time
+- The #8 artist of the last month
 - The #7 artist of the last 6 months
+- The #8 artist of all time
 
 
 ## Top Tracks

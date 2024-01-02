@@ -6,6 +6,7 @@
 
 ## Artist Rank
 Sia is currently:
+- The #23 artist of the last month
 
 
 ## Top Tracks

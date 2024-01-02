@@ -19,8 +19,9 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #4 artist of all time
+- The #12 artist of the last month
 - The #3 artist of the last 6 months
+- The #4 artist of all time
 
 
 ## Top Tracks

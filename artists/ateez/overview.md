@@ -22,8 +22,8 @@ ATEEZ:
 
 ## Artist Rank
 ATEEZ is currently:
-- The #33 artist of all time
 - The #49 artist of the last 6 months
+- The #33 artist of all time
 
 
 ## Featured on Playlists

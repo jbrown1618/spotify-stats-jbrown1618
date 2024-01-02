@@ -17,8 +17,9 @@ TAEYEON:
 
 ## Artist Rank
 TAEYEON is currently:
-- The #9 artist of all time
+- The #4 artist of the last month
 - The #8 artist of the last 6 months
+- The #9 artist of all time
 
 
 ## Top Tracks
