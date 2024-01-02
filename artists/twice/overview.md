@@ -35,9 +35,9 @@ TWICE is currently:
 - The Feels is:
     - the #50 track of all time
 - What is Love is:
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - SET ME FREE is:
-    - the #47 track of the last 6 months
+    - the #46 track of the last 6 months
 - Merry & Happy is:
     - the #5 track of the last month
 ## Featured on Playlists

@@ -17,7 +17,7 @@ BoA:
 ## Artist Rank
 BoA is currently:
 - The #30 artist of all time
-- The #13 artist of the last 6 months
+- The #16 artist of the last 6 months
 
 
 ## Top Tracks

@@ -28,7 +28,7 @@ Billlie is currently:
 ## Top Tracks
 
 - RING X RING is:
-    - the #48 track of the last 6 months
+    - the #47 track of the last 6 months
 - enchanted night ~ white night is:
     - the #22 track of the last month
 ## Featured on Playlists

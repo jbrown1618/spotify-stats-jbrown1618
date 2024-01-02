@@ -23,7 +23,7 @@ LeeHi is currently:
 - For You (Holiday Remix) - Spotify Singles Holiday is:
     - the #18 track of the last month
 - For You is:
-    - the #34 track of the last month
+    - the #36 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -27,7 +27,7 @@ Pentatonix is currently:
 ## Top Tracks
 
 - Let It Go is:
-    - the #48 track of the last month
+    - the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

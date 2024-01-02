@@ -18,7 +18,7 @@ HEIZE is currently:
 - FM 89.1 is:
     - the #9 track of the last month
 - Perhaps, Happy Ending is:
-    - the #32 track of the last month
+    - the #34 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

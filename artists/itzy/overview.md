@@ -26,16 +26,16 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #32 track of the last 6 months
+    - the #37 track of the last 6 months
     - the #16 track of all time
 - CAKE is:
     - the #7 track of the last 6 months
 - Kill Shot is:
     - the #22 track of the last 6 months
 - BET ON ME is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
 - Snowy is:
-    - the #41 track of the last month
+    - the #43 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

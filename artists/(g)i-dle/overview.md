@@ -29,9 +29,9 @@
 - LATATA is:
     - the #17 track of all time
 - Oh my god is:
-    - the #46 track of the last month
-    - the #35 track of the last 6 months
-    - the #30 track of all time
+    - the #31 track of the last month
+    - the #36 track of the last 6 months
+    - the #29 track of all time
 - Uh-Oh is:
     - the #32 track of all time
 - All Night is:

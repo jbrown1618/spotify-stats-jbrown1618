@@ -22,13 +22,13 @@ ENHYPEN:
 ## Artist Rank
 ENHYPEN is currently:
 - The #10 artist of all time
-- The #7 artist of the last 6 months
+- The #6 artist of the last 6 months
 
 
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #29 track of all time
+    - the #30 track of all time
 - Just A Little Bit is:
     - the #47 track of all time
 - CRIMINAL LOVE is:

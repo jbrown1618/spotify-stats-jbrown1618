@@ -16,9 +16,9 @@ Michael Bublé is currently:
 ## Top Tracks
 
 - Baby It's Cold Outside (with Michael Bublé) is:
-    - the #33 track of the last month
+    - the #35 track of the last month
 - Frosty the Snowman (feat. The Puppini Sisters) is:
-    - the #44 track of the last month
+    - the #46 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

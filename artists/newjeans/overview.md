@@ -26,7 +26,7 @@ NewJeans is currently:
 ## Top Tracks
 
 - ASAP is:
-    - the #40 track of the last 6 months
+    - the #39 track of the last 6 months
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

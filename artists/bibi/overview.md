@@ -12,6 +12,10 @@
 BIBI is currently:
 
 
+## Top Tracks
+
+- Animal Farm is:
+    - the #50 track of the last 6 months
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

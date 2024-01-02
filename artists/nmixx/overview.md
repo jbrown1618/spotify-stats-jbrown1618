@@ -30,7 +30,7 @@ NMIXX is currently:
 - Love Me Like This is:
     - the #14 track of the last 6 months
 - Funky Glitter Christmas is:
-    - the #39 track of the last month
+    - the #41 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

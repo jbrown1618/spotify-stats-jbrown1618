@@ -18,8 +18,6 @@ Taylor Swift is currently:
 
 - Santa Baby is:
     - the #17 track of the last month
-- Death By A Thousand Cuts is:
-    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
