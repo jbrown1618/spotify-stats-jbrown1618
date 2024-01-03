@@ -22,7 +22,7 @@ aespa is currently:
 - The #1 artist of the last 6 months
 - The #7 artist of all time
 
-
+![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
 ## Top Tracks
 
 - Savage is:
@@ -66,6 +66,14 @@ aespa is currently:
     - the #3 track of the last month
 - Girls is:
     - the #32 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/aespa/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/aespa/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

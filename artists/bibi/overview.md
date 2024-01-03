@@ -12,11 +12,15 @@
 BIBI is currently:
 - The #40 artist of the last month
 
-
+![Rank of BIBI over time](../../images/artists/bibi/rank_time_series.png)
 ## Top Tracks
 
 - Animal Farm is:
     - the #50 track of the last 6 months
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/bibi/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

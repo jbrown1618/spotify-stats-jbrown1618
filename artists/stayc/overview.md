@@ -24,11 +24,15 @@ STAYC is currently:
 - The #15 artist of the last 6 months
 - The #19 artist of all time
 
-
+![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
 - Bubble is:
     - the #21 track of the last 6 months
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/stayc/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

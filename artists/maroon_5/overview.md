@@ -18,7 +18,7 @@ Maroon 5:
 
 ## Artist Rank
 
-
+![Rank of Maroon 5 over time](../../images/artists/maroon_5/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -24,7 +24,7 @@
 - The #4 artist of the last 6 months
 - The #5 artist of all time
 
-
+![Rank of (G)I-DLE over time](../../images/artists/(g)i-dle/rank_time_series.png)
 ## Top Tracks
 
 - LATATA is:
@@ -39,6 +39,14 @@
     - the #13 track of the last 6 months
 - I Want That is:
     - the #26 track of the last 6 months
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/(g)i-dle/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/(g)i-dle/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

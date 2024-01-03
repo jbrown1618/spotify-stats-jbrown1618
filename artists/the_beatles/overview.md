@@ -27,7 +27,7 @@ The Beatles is currently:
 - The #33 artist of the last 6 months
 - The #43 artist of all time
 
-
+![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

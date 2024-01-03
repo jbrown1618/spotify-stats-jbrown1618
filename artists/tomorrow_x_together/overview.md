@@ -19,7 +19,7 @@ TOMORROW X TOGETHER:
 
 ## Artist Rank
 
-
+![Rank of TOMORROW X TOGETHER over time](../../images/artists/tomorrow_x_together/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

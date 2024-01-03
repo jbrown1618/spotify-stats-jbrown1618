@@ -10,7 +10,7 @@
 
 ## Artist Rank
 
-
+![Rank of Dua Lipa over time](../../images/artists/dua_lipa/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

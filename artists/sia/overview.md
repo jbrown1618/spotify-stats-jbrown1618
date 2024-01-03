@@ -8,7 +8,7 @@
 Sia is currently:
 - The #23 artist of the last month
 
-
+![Rank of Sia over time](../../images/artists/sia/rank_time_series.png)
 ## Top Tracks
 
 - Santa's Coming for Us is:

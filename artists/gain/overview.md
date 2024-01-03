@@ -6,7 +6,7 @@
 
 ## Artist Rank
 
-
+![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

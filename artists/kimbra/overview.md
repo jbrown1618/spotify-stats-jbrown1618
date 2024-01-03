@@ -10,7 +10,7 @@
 
 ## Artist Rank
 
-
+![Rank of Kimbra over time](../../images/artists/kimbra/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

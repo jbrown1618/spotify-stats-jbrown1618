@@ -24,7 +24,7 @@ LE SSERAFIM is currently:
 - The #14 artist of the last 6 months
 - The #21 artist of all time
 
-
+![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
 - UNFORGIVEN (feat. Nile Rodgers) is:
@@ -33,6 +33,10 @@ LE SSERAFIM is currently:
     - the #11 track of the last month
 - FEARLESS is:
     - the #47 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/le_sserafim/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

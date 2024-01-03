@@ -24,11 +24,15 @@ IVE is currently:
 - The #12 artist of the last 6 months
 - The #18 artist of all time
 
-
+![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
 - I AM is:
     - the #18 track of the last 6 months
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/ive/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -24,7 +24,7 @@ Red Velvet is currently:
 - The #2 artist of the last 6 months
 - The #1 artist of all time
 
-
+![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
 ## Top Tracks
 
 - Bad Boy is:
@@ -50,6 +50,14 @@ Red Velvet is currently:
     - the #28 track of the last 6 months
 - Beautiful Christmas is:
     - the #3 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/red_velvet/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/red_velvet/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

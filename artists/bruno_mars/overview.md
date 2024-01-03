@@ -17,7 +17,7 @@ Bruno Mars:
 
 ## Artist Rank
 
-
+![Rank of Bruno Mars over time](../../images/artists/bruno_mars/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="Workout" width="100" />
 
-[224 tracks (214 liked) 🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO)
+[223 tracks (213 liked) 🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO)
 
 [See Track Features](audio_features.md)
 
@@ -114,12 +114,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfabf8cefce08349b8835e8bf" alt="" width="50" /> | 1 | 1 | Tones And I | [🔗](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9927ea0870855be7b3367c79" alt="" width="50" /> | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 1 | 1 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 1 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe75741762dfbd9002e13aa2a" alt="" width="50" /> | 1 | 1 | BABYMONSTER | [🔗](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 1 | 1 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 1 | 1 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe489156e3cd2d327678c8467" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 
 </details>
 
@@ -253,8 +253,8 @@
 | 35 | 33 | [Republic Records](../../labels/republic_records/overview.md) |
 | 12 | 12 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 9 | 9 | [Warner Records](../../labels/warner_records/overview.md) |
-| 9 | 9 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 9 | 9 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 8 | 8 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 8 | 8 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 8 | 8 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 7 | 6 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
@@ -334,10 +334,10 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 127 | 121 | [k-pop](../../genres/k-pop/overview.md) |
+| 126 | 120 | [k-pop](../../genres/k-pop/overview.md) |
 | 84 | 83 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 69 | 66 | [pop](../../genres/pop/overview.md) |
-| 56 | 51 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 55 | 50 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 13 | 13 | [dance pop](../../genres/dance_pop/overview.md) |
 | 8 | 8 | [anime](../../genres/anime/overview.md) |
 | 6 | 6 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -538,7 +538,7 @@
 |:---|---:|
 | [2023](2023.md) | 36 |
 | [2022](2022.md) | 27 |
-| [2021](2021.md) | 34 |
+| [2021](2021.md) | 33 |
 | [2020](2020.md) | 31 |
 | 2019 | 16 |
 | 2018 | 9 |

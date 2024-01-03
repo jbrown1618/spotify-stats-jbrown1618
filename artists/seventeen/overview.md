@@ -31,13 +31,21 @@ SEVENTEEN is currently:
 - The #11 artist of the last 6 months
 - The #11 artist of all time
 
-
+![Rank of SEVENTEEN over time](../../images/artists/seventeen/rank_time_series.png)
 ## Top Tracks
 
 - Left & Right is:
     - the #10 track of all time
 - HOME;RUN is:
     - the #46 track of all time
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/seventeen/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/seventeen/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

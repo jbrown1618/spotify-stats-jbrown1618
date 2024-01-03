@@ -20,6 +20,10 @@ HWASA:
 
 - Maria is:
     - the #6 track of all time
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/hwasa/track_rank_time_series_long_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

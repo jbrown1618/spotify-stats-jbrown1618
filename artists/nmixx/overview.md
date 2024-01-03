@@ -25,13 +25,17 @@ NMIXX is currently:
 - The #22 artist of the last 6 months
 - The #34 artist of all time
 
-
+![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - Love Me Like This is:
     - the #14 track of the last 6 months
 - Funky Glitter Christmas is:
     - the #41 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/nmixx/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

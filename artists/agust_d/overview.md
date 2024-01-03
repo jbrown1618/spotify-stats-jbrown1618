@@ -13,7 +13,7 @@ Agust D:
 Agust D is currently:
 - The #40 artist of all time
 
-
+![Rank of Agust D over time](../../images/artists/agust_d/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -108,7 +108,7 @@
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 47 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 66 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
@@ -232,18 +232,18 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 2 | 2 | 70 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 2 | 70 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 2 | 1 | 70 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
 | Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
 | Piano Sonata No. 30 in E Major, Op. 109: II. Prestissimo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
 | Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
@@ -409,7 +409,7 @@
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 75 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 74 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 36 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 45 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
@@ -428,7 +428,7 @@
 | RED | RED | The Rose | 0 | 0 | 63 |
 | She′s In The Rain | Dawn | The Rose | 1 | 0 | 63 |
 | Sorry | Sorry | The Rose | 1 | 0 | 63 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 50 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 51 |
 | Just The Way You Are | Little Love - EP | James Smith | 2 | 1 | 53 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
@@ -446,13 +446,13 @@
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 74 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 1 | 83 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 1 | 82 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 1 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 2 | 62 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 69 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
-| I Do | It's Raining | Rain | 0 | 1 | 45 |
-| It′s Raining | It's Raining | Rain | 1 | 1 | 45 |
+| I Do | It's Raining | Rain | 0 | 0 | 45 |
+| It′s Raining | It's Raining | Rain | 1 | 0 | 45 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 88 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 53 |
 | Miku | Miku | Hatsune Miku | 0 | 0 | 62 |

@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1750 tracks
+1749 tracks
 
 [See Track Features](audio_features.md)
 
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 16 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | 16 | 16 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | 16 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 16 | 16 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 15 | 15 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 14 | 14 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 14 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a79a86c0ccc91f0e398f48" alt="" width="50" /> | 14 | 14 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
@@ -248,10 +248,10 @@
 |---:|---:|:---|
 | 214 | 214 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 104 | 104 | [Republic Records](../../labels/republic_records/overview.md) |
-| 78 | 78 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 77 | 77 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 70 | 70 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
-| 62 | 62 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 62 | 62 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 61 | 61 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 61 | 61 | [Epic](../../labels/epic/overview.md) |
 | 59 | 59 | [Columbia](../../labels/columbia/overview.md) |
 | 58 | 58 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -363,9 +363,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 742 | 742 | [k-pop](../../genres/k-pop/overview.md) |
+| 741 | 741 | [k-pop](../../genres/k-pop/overview.md) |
 | 407 | 407 | [pop](../../genres/pop/overview.md) |
-| 378 | 378 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 377 | 377 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 210 | 210 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 129 | 129 | [rock](../../genres/rock/overview.md) |
 | 87 | 87 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -608,7 +608,7 @@
 | [2018](2018.md) | 90 |
 | [2017](2017.md) | 77 |
 | [2016](2016.md) | 76 |
-| [2015](2015.md) | 65 |
+| [2015](2015.md) | 64 |
 | [2014](2014.md) | 46 |
 | [2013](2013.md) | 56 |
 | [2012](2012.md) | 54 |

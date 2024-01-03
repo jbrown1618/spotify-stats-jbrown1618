@@ -28,7 +28,7 @@ TWICE is currently:
 - The #9 artist of the last 6 months
 - The #3 artist of all time
 
-
+![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks
 
 - I CAN'T STOP ME is:
@@ -41,6 +41,14 @@ TWICE is currently:
     - the #46 track of the last 6 months
 - Merry & Happy is:
     - the #5 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/twice/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/twice/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

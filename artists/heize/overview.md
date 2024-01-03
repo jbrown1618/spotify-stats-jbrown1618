@@ -13,13 +13,17 @@ HEIZE is currently:
 - The #5 artist of the last month
 - The #19 artist of the last 6 months
 
-
+![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
 
 - FM 89.1 is:
     - the #9 track of the last month
 - Perhaps, Happy Ending is:
     - the #34 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/heize/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

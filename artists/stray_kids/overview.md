@@ -27,7 +27,7 @@ Stray Kids is currently:
 - The #7 artist of the last 6 months
 - The #8 artist of all time
 
-
+![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
@@ -36,6 +36,14 @@ Stray Kids is currently:
     - the #8 track of the last month
 - Christmas EveL is:
     - the #15 track of the last month
+
+### Top tracks of all time over time
+
+![Line chart of top tracks of all time over time](../../images/artists/stray_kids/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/stray_kids/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
