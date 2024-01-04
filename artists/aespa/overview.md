@@ -19,7 +19,7 @@ aespa:
 ## Artist Rank
 aespa is currently:
 - The #2 artist of the last month
-- The #1 artist of the last 6 months
+- The #2 artist of the last 6 months
 - The #7 artist of all time
 
 ![Rank of aespa over time](../../images/artists/aespa/rank_time_series.png)
@@ -53,7 +53,7 @@ aespa is currently:
 - YEPPI YEPPI is:
     - the #17 track of the last 6 months
 - Hold On Tight is:
-    - the #25 track of the last 6 months
+    - the #24 track of the last 6 months
 - Spicy is:
     - the #32 track of the last 6 months
 - Don't Blink is:

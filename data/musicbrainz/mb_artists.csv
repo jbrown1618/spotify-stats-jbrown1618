@@ -265,6 +265,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 0be325a6-3c6d-4e3a-97ed-e59539b1014f,Trisha Yearwood,"Yearwood, Trisha",,Person,United States,Monticello,1964-09-19,,Female
 0be4c438-bbaa-40ad-853f-691b60d4c7b5,Kick Horns,Kick Horns,,Group,United Kingdom,London,,,
 0be69298-6f49-46fe-9c97-72d8b7a2d771,Charles Rose,"Rose, Charles",American trombone player,Person,United States,,,,Male
+0bf5d52b-3260-4296-9bae-fb5e45598f57,Chloe Martini,"Martini, Chloe",Producer/Remixer,Person,London,Ciechanów,,,Female
 0bf69115-9b4a-491a-9265-d026cfd8af5d,Kenny Ascher,"Ascher, Kenny",,Person,United States,"Washington, D.C.",1944-10-26,,Male
 0bfd0e5d-4e63-4565-a4a4-f6f15df70a9e,복주영,"Bok, Ju Young",,Person,South Korea,,,,
 0c0a3b34-5298-49e7-a7a6-acfcae2f6cb9,Dabling Harward,"Harward, Dabling",,Person,,,,,Male
@@ -1173,6 +1174,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 3323c4aa-9886-4bfa-a28f-c63911663766,Jake Ferguson,"Ferguson, Jake",,Person,,,,,
 332516ea-6988-42e5-9847-6caa8338801b,Katie Harvey,"Harvey, Katie",engineer,Person,,,,,Female
 332a08b3-c1a3-49cf-8b96-e373a914590e,TAEYONG,TAEYONG,,Person,South Korea,Seoul,1995-07-01,,Male
+335c5b83-3802-4be8-8dd7-b8b21ec8a8cb,이주용,"Lee, Juyong",,Person,,,,,
 3363cf5a-22dc-4b44-9b34-17ff5e537438,Jim Caruana,"Caruana, Jim",,Person,United States,Auburn,,,Male
 33644f18-8dc6-4460-9045-8e2096ea605d,Tim Larcombe,"Larcombe, Tim",Production music composer,Person,United Kingdom,,,,Male
 336d2967-7a33-4c82-b4c6-63f75ecec512,Joe Kearns,"Kearns, Joe","British record producer, writer and engineer",Person,London,,1986-10,,Male
@@ -1912,6 +1914,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 54011a5c-c90e-4948-a5f6-fca3811e8205,"Aaron ""A Train"" Smith","Smith, Aaron ""A Train""",,Person,United States,,,,
 5405c9b1-0e37-4a43-a3a6-626c666477b3,"Roberto ""Tito"" Vasquez","Vasquez, Roberto ""Tito""",,Person,,,,,Male
 542cc2a7-e78b-46f6-9214-5d2dbfd125d6,John Netti,"Netti, John",,Person,,,,,
+542cdf59-a608-41a1-b72d-2e0428224134,Maximite,Maximite,,Person,South Korea,,1990-04-22,,Male
 542d910a-8a59-4fae-bbcc-0d0a03ba41a9,J.A.C. Redford,"Redford, J.A.C.",,Person,United States,Los Angeles,1953-07-14,,Male
 5431820e-fafa-4b73-a7d2-8b1753196794,Eyvonne Williams,"Williams, Eyvonne",,Person,,,,,Female
 54365934-12a5-43ce-8347-d9d6a8f06d6b,규현,Kyuhyun,,Person,South Korea,Seoul,1988-02-03,,Male
@@ -2597,6 +2600,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 739a6d9d-a7cb-4725-a0da-5cc4e428b22f,Tor-Andrè Jensen Skaar,"Skaar, Tor-Andrè Jensen",,Person,Norway,,,,Male
 73a50ba5-6132-4d18-ab9c-00b151f60153,Dave Russell,"Russell, Dave","sound engineer, has worked with Underdog Entertainment",Person,United Kingdom,,,,Male
 73ae3a44-eb48-4b6c-80ac-57df63bca2b0,佐藤栞,"Satō, Shiori",,Person,Japan,Niigata,1998-02-03,,Female
+73b1dec7-44ba-407d-b500-2d9da90a58e5,Davve,Davve,,Person,South Korea,,,,Male
 73b23b50-8523-4808-a519-2fff19ab8c8a,Andrew Wyatt,"Wyatt, Andrew","US vocalist, songwriter",Person,United States,Manhattan,1971,,Male
 73bb1496-ab61-4a39-bfbb-cd20f9527393,ADORA,ADORA,k-pop producer/songwriter,Person,South Korea,,1997-09-27,,Female
 73bfb3a1-5a24-40a9-b5fc-8ee1fe44b716,Jimmetta R. Smith,"Smith, Jimmetta R.",,Person,,,,,Female
@@ -3511,6 +3515,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 9e585ff3-3dc1-44e1-88d4-35fb451d7da6,바다,Bada,S.E.S.,Person,South Korea,Bucheon,1980-02-28,,Female
 9e61d51b-b969-4df5-b90a-ccac392636eb,David Sea,"Sea, David",,Person,United States,Birmingham,,,Male
 9e704f5e-1ed9-4967-8e56-6c7a5f4542ba,Michael Vail Blum,"Blum, Michael Vail",,Person,,,,,Male
+9e71dbf4-15be-4e54-ad83-3576b7dc3132,유상호,"Yoo, Sang-ho",engineer at RBW,Person,South Korea,,,,Male
 9ec0a3b5-0075-47fd-80e6-c3eea1213e92,주상경,"Ju, Sang-kyung",KR engineer,Person,South Korea,,,,
 9ec1e022-b56d-47e6-92ae-401804fb116d,Zach Lind,"Lind, Zach",,Person,United States,,1976-03-19,,Male
 9ec80e5a-09a2-4905-a7a8-aa6c1a2be28d,Michael Schorr,"Schorr, Michael",,Person,United States,,,,Male
@@ -4414,6 +4419,7 @@ c7f4ee86-94b6-4b24-a833-4ff72ba08caf,Mike Campbell,"Campbell, Mike",singer-songw
 c7fabd53-fda0-4666-9d9d-13986f33acdf,Brianna Clawson,"Clawson, Brianna",from Steam Powered Giraffe,Person,San Diego,,,,Female
 c7fdd1e7-897e-4c87-af05-7f442026f7d3,王貳浪,王貳浪,,Unknown,,,,,
 c7feac31-0fdd-4ff4-b579-d8bda7b4fd6f,Larry Price,"Price, Larry",,Person,United States,,,,Male
+c8001420-c398-45d0-ac60-15fc464e269b,권석홍,"Kwon, Seok-hong",,Person,South Korea,,,,Male
 c800ad33-8234-4579-88b8-b87f0d59715d,Jim Jonsin,"Jonsin, Jim",,Person,United States,Brooklyn,,,Male
 c81c430f-dbe1-4a1e-954f-2a89114331e9,Omer Fedi,"Fedi, Omer",,Person,United States,Tel Aviv,2000-03-25,,Male
 c83e9169-0048-4fad-ab3f-627a8ba5bfc9,Brandon Green,"Green, Brandon",,Person,United States,,1986-07-23,,Male
@@ -4944,6 +4950,7 @@ e0140a67-e4d1-4f13-8a01-364355bee46e,Justin Bieber,"Bieber, Justin",,Person,Cana
 e01610bb-9d29-4ad0-a66d-b559d8c23af9,박경,"Park, Kyung",,Person,South Korea,Seoul,1992-07-08,,Male
 e01a9cff-43b1-40e1-b482-be84c8593ac5,Martin Youth Auxiliary,Martin Youth Auxiliary,,Person,,,,,
 e01c14e7-ed28-401a-a2ae-8333e76a6a4b,Rob Bisel,"Bisel, Rob",,Person,,,,,
+e01fb944-5616-4361-9595-1cb522f0c572,윤영준,"Yun, Yeongjun",,Person,,,,,
 e0214160-edff-46e6-a108-39dab5f19c72,Parker Ighile,"Ighile, Parker",,Person,United States,Pinner,1990-03-01,,Male
 e021fffe-5ac2-4008-a276-a6f8525bbf17,신원,Shinwon,,Person,South Korea,,1995-12-11,,Male
 e02c21d2-29ca-4e0a-9a60-84b1622935b7,Possum Jenkins,"Jenkins, Possum",,Person,,,,,

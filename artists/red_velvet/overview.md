@@ -21,7 +21,7 @@ Red Velvet:
 ## Artist Rank
 Red Velvet is currently:
 - The #1 artist of the last month
-- The #2 artist of the last 6 months
+- The #1 artist of the last 6 months
 - The #1 artist of all time
 
 ![Rank of Red Velvet over time](../../images/artists/red_velvet/rank_time_series.png)
@@ -45,7 +45,7 @@ Red Velvet is currently:
     - the #20 track of the last 6 months
 - One Kiss is:
     - the #27 track of the last month
-    - the #24 track of the last 6 months
+    - the #23 track of the last 6 months
 - Nightmare is:
     - the #28 track of the last 6 months
 - Beautiful Christmas is:
