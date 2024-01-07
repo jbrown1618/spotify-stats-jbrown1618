@@ -14,6 +14,8 @@ HWASA:
 - is a member of [MAMAMOO](../mamamoo/overview.md)
 
 ## Artist Rank
+HWASA is currently:
+- The #47 artist of the last 6 months
 
 
 ## Top Tracks

@@ -300,7 +300,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 82 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
+| 81 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 36 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 118 | 0 | [college a cappella](../../genres/college_a_cappella/overview.md) |
 | 32 | 0 | fantasy |

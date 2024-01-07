@@ -23,9 +23,9 @@ Stray Kids:
 
 ## Artist Rank
 Stray Kids is currently:
-- The #8 artist of the last month
+- The #7 artist of the last month
 - The #7 artist of the last 6 months
-- The #8 artist of all time
+- The #7 artist of all time
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
@@ -33,9 +33,9 @@ Stray Kids is currently:
 - Thunderous is:
     - the #38 track of all time
 - Winter Falls is:
-    - the #8 track of the last month
+    - the #6 track of the last month
 - Christmas EveL is:
-    - the #15 track of the last month
+    - the #13 track of the last month
 
 ### Top tracks of all time over time
 

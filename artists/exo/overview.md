@@ -36,9 +36,9 @@ EXO is currently:
 - Love Shot is:
     - the #39 track of all time
 - Monster is:
-    - the #31 track of the last 6 months
+    - the #30 track of the last 6 months
 - The First Snow is:
-    - the #50 track of the last month
+    - the #46 track of the last month
 
 ### Top tracks of all time over time
 

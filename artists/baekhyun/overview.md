@@ -22,8 +22,7 @@ BAEKHYUN is currently:
 ## Top Tracks
 
 - Amusement Park is:
-    - the #30 track of the last month
-    - the #27 track of all time
+    - the #28 track of all time
 - Dream is:
     - the #40 track of all time
 

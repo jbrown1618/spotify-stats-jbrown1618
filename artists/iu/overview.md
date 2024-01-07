@@ -10,7 +10,7 @@
 
 ## Artist Rank
 IU is currently:
-- The #3 artist of the last month
+- The #1 artist of the last month
 - The #5 artist of the last 6 months
 - The #2 artist of all time
 
@@ -25,6 +25,11 @@ IU is currently:
     - the #22 track of all time
 - My sea is:
     - the #26 track of all time
+- YOU&I is:
+    - the #50 track of the last month
+    - the #49 track of the last 6 months
+- Winter Sleep is:
+    - the #49 track of the last month
 
 ### Top tracks of all time over time
 

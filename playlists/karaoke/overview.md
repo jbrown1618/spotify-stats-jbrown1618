@@ -224,9 +224,9 @@
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 10 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
+| 8 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 8 | [piano rock](../../genres/piano_rock/overview.md) |
-| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 
 
 <details>
@@ -234,6 +234,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 6 | 6 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -255,7 +256,6 @@
 | 4 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 4 | 2 | glam rock |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
-| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |

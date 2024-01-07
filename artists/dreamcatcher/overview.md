@@ -21,7 +21,7 @@ Dreamcatcher:
 
 ## Artist Rank
 Dreamcatcher is currently:
-- The #35 artist of the last month
+- The #37 artist of the last month
 - The #19 artist of the last 6 months
 - The #27 artist of all time
 

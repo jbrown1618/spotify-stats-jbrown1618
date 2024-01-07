@@ -372,10 +372,10 @@
 | 34 | 20 | [uk pop](../../genres/uk_pop/overview.md) |
 | 22 | 17 | urban contemporary |
 | 15 | 13 | neo soul |
+| 14 | 12 | [viral pop](../../genres/viral_pop/overview.md) |
 | 14 | 12 | [r&b](../../genres/r_b/overview.md) |
 | 14 | 12 | barbadian pop |
 | 11 | 11 | australian pop |
-| 13 | 10 | [rap](../../genres/rap/overview.md) |
 
 
 <details>
@@ -383,11 +383,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 13 | 10 | [rap](../../genres/rap/overview.md) |
 | 12 | 10 | atl hip hop |
 | 14 | 8 | pop soul |
 | 12 | 8 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 11 | 8 | [modern rock](../../genres/modern_rock/overview.md) |
-| 10 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 10 | 8 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 9 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 8 | 8 | australian dance |

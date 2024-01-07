@@ -29,14 +29,16 @@ ENHYPEN is currently:
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #30 track of all time
+    - the #31 track of all time
 - Just A Little Bit is:
     - the #47 track of all time
 - CRIMINAL LOVE is:
     - the #9 track of the last 6 months
 - Sweet Venom is:
-    - the #24 track of the last month
-    - the #15 track of the last 6 months
+    - the #23 track of the last month
+    - the #16 track of the last 6 months
+- Sacrifice (Eat Me Up) is:
+    - the #45 track of the last 6 months
 
 ### Top tracks of all time over time
 

@@ -25,11 +25,12 @@ TAEYEON is currently:
 ## Top Tracks
 
 - I Got Love is:
-    - the #45 track of the last 6 months
+    - the #39 track of the last 6 months
 - To. X is:
-    - the #6 track of the last month
+    - the #20 track of the last month
+    - the #43 track of the last 6 months
 - Candy Cane is:
-    - the #42 track of the last month
+    - the #36 track of the last month
 
 ### Top tracks of the last 6 months over time
 

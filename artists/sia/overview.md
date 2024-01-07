@@ -12,7 +12,7 @@ Sia is currently:
 ## Top Tracks
 
 - Santa's Coming for Us is:
-    - the #23 track of the last month
+    - the #22 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

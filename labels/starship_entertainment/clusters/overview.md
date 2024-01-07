@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | SMOKY | MIXTAPE [ PSYCHE ] | JOOHONEY | [Starship Entertainment](../..) | | [🔗](https://open.spotify.com/track/2RdsTI9mfgdrNBIoShmI99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | FREEDOM | LIGHTS | JOOHONEY | [Starship Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | GAMBLER | One of a Kind | MONSTA X | [Starship Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](../..) | | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](../..) | 💚 | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |
 ## Cluster #2
 
 5 tracks

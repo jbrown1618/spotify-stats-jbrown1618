@@ -4,14 +4,14 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 71 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 65 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
-| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 80 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 79 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
-| Funky Glitter Christmas [🔗](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | 53 | 2022-11-23 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 47 | | Republic Records - NMIXX | |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 72 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 65 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
+| Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 81 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 80 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
+| Funky Glitter Christmas [🔗](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | 54 | 2022-11-23 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 47 | | Republic Records - NMIXX | |
 | Funky Glitter Christmas [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | 0 | 2022-11-23 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) | JYP Entertainment | |
-| Get A Guitar [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | 67 | 2023-09-04 | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | Get A Guitar [🔗](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 61 | | SM Entertainment/RCA Records | |
-| Get A Guitar [🔗](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | 74 | 2023-09-04 | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | Get A Guitar [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 68 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | SM Entertainment | 💚 |
-| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 90 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
-| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 84 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 95 | | Top Dawg Entertainment/RCA Records | 💚 |
+| Get A Guitar [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | 69 | 2023-09-04 | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | Get A Guitar [🔗](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 62 | | SM Entertainment/RCA Records | |
+| Get A Guitar [🔗](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | 75 | 2023-09-04 | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | Get A Guitar [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 68 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | SM Entertainment | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 85 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 95 | | Top Dawg Entertainment/RCA Records | 💚 |
 
 ## Duplicate albums
 
@@ -19,14 +19,14 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | HEAT [🔗](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 67 | 2023-10-05 | CUBE ENTERTAINMENT INC./88rising Music | Eyes Roll [🔗](https://open.spotify.com/track/79yymC6QQaZ81jR2UYcPfy) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | HEAT [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 64 | 2023-10-04 | CUBE ENTERTAINMENT INC./88rising Music | I DO [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp),<br>I Want That [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 52 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 47 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 41 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 47 | 2022-11-23 | Republic Records - NMIXX | Funky Glitter Christmas [🔗](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | |
 | 1st Intermixxion Single <Funky Glitter Christmas> [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | 0 | 2022-11-23 | JYP Entertainment | Funky Glitter Christmas [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8),<br>K-Memes [🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9) |
 | Get A Guitar [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | 68 | 2023-09-04 | SM Entertainment | Get A Guitar [🔗](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| Get A Guitar [🔗](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | 61 | 2023-09-04 | SM Entertainment/RCA Records | Get A Guitar [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | |
+| Get A Guitar [🔗](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | 62 | 2023-09-04 | SM Entertainment/RCA Records | Get A Guitar [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 95 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8),<br>Snooze [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 86 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 
@@ -113,7 +113,7 @@
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
 | Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 64 |
-| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 1 | 0 | 63 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 1 | 0 | 64 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 63 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 57 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 57 |
@@ -244,14 +244,14 @@
 | Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
 | Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
 | Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 70 |
-| Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 30 in E Major, Op. 109: II. Prestissimo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Fuga. Allegro ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: I. Moderato cantabile molto espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
-| Piano Sonata No. 30 in E Major, Op. 109: III. Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 2 | 70 |
+| Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 30 in E Major, Op. 109: II. Prestissimo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Fuga. Allegro ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: I. Moderato cantabile molto espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
+| Piano Sonata No. 30 in E Major, Op. 109: III. Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 70 |
 | 9 Sacred Pieces, TH 78: No. 2, Cherubic Hymn No. 2 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 72 |
 | 9 Sacred Pieces, TH 78: No. 3, Cherubic Hymn No. 3 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 72 |
 | 9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1 | Tchaikovsky: Sacred Choral Music | Pyotr Ilyich Tchaikovsky | 0 | 0 | 72 |
@@ -331,7 +331,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 2 | 55 |
 | A Case of You | Blue | Joni Mitchell | 0 | 2 | 55 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 55 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 0 | 0 | 55 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 51 |
@@ -369,7 +369,7 @@
 | The Sound of Silence | The Sound of Silence | Tim Foust | 0 | 0 | 33 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
 | The Parting Glass | Legendary Folk Songs | The Hound + The Fox | 0 | 0 | 47 |
-| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 56 |
+| Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 29 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 68 |
@@ -397,12 +397,12 @@
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 31 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 31 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 31 |
-| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
+| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 77 |
 | Nothing Else Matters | Metallica | Metallica | 2 | 2 | 80 |
 | Enter Sandman | Metallica | Metallica | 1 | 2 | 80 |
 | VISION | [Apocalypse : Follow us] | Dreamcatcher | 2 | 1 | 60 |
-| REASON | [REASON] | Dreamcatcher | 2 | 1 | 60 |
-| BEcause | [Summer Holiday] | Dreamcatcher | 2 | 2 | 60 |
+| REASON | [REASON] | Dreamcatcher | 2 | 0 | 60 |
+| BEcause | [Summer Holiday] | Dreamcatcher | 2 | 1 | 60 |
 | Wings | Wings | PIXY | 0 | 0 | 39 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
@@ -411,7 +411,7 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 74 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 36 |
-| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 45 |
+| Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
@@ -433,12 +433,12 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
-| Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
-| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
-| The Cave | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
+| Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 71 |
+| Little Lion Man | Sigh No More | Mumford & Sons | 2 | 1 | 71 |
+| The Cave | Sigh No More | Mumford & Sons | 0 | 1 | 71 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 52 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 32 |
-| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 31 |
+| MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 64 |
 | End Of All Hope | Century Child | Nightwish | 1 | 1 | 64 |
 | Nemo | Once | Nightwish | 0 | 0 | 64 |
@@ -469,13 +469,13 @@
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 68 |
 | My House | No.5 | 2PM | 1 | 0 | 53 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 32 |
+| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 31 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 0 | 77 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 66 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 70 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 76 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 75 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 55 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |

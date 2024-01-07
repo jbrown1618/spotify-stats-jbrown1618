@@ -22,7 +22,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b47bb04577839c77f2e300bd" alt="" width="50" /> | 4 | 1 | Phillipa Soo | [🔗](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e7e0deeb6b99d1b756763bf" alt="" width="50" /> | 3 | 1 | Anthony Ramos | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94de3b464a999a50d4611220" alt="" width="50" /> | 2 | 1 | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8c7085cb6bc26d51b510656c" alt="" width="50" /> | 2 | 1 | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdadd425aa549ca2ffba08519" alt="" width="50" /> | 2 | 1 | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
 
 
 <details>
@@ -53,7 +53,7 @@
 | | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | | 3 | 0 | Ensemble - The Lion King | [🔗](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) |
@@ -181,20 +181,21 @@
 | 30 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 54 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | vocal jazz |
+| 7 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 7 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 7 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 7 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 7 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 40 | 0 | west end |
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 15 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 40 | 0 | west end |
 | 16 | 0 | hollywood |
 | 6 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | neo soul |
@@ -203,7 +204,7 @@
 </details>
 
 
-![Bar chart of top 14 genres](../../images/playlists/musicals/genres.png)
+![Bar chart of top 15 genres](../../images/playlists/musicals/genres.png)
 
 ## Top Producers
 

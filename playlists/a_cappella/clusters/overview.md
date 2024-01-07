@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | Honeymoon Avenue | RISE | The Nor'easters | The Nor'easters | | [🔗](https://open.spotify.com/track/6ja6rwUZNNfk07xqaiKyTS) |
 ## Cluster #2
 
-61 tracks
+59 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | That's What You Get | BOCA 2010: Best Of College A Cappella | Tufts sQ! | [Varsity Vocals](../../../../labels/varsity_vocals) | | [🔗](https://open.spotify.com/track/3GcG8ouobilGq1eXAOEvNG) |
 ## Cluster #3
 
-47 tracks
+48 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | Home | I Used to Live Alone | Voices in Your Head | [A Cappella Records](../../../../labels/a_cappella_records) | | [🔗](https://open.spotify.com/track/4NUlXRw52KIz9bQ58S4oYu) |
 ## Cluster #4
 
-68 tracks
+67 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -68,7 +68,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | Poison & Wine | Permit to Harmonize | SoCal VoCals | SoCal VoCals | | [🔗](https://open.spotify.com/track/0e1lJVRsuzBjkXy73BpMq6) |
 ## Cluster #5
 
-18 tracks
+19 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

@@ -111,6 +111,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 62 | 41 | [viral pop](../../genres/viral_pop/overview.md) |
 | 61 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 61 | 40 | [lilith](../../genres/lilith/overview.md) |
@@ -120,7 +121,6 @@ Appears as:
 | 15 | 11 | [pop](../../genres/pop/overview.md) |
 | 11 | 7 | [r&b](../../genres/r_b/overview.md) |
 | 9 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
-| 8 | 5 | [soul](../../genres/soul/overview.md) |
 
 
 <details>
@@ -128,9 +128,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 8 | 5 | [soul](../../genres/soul/overview.md) |
 | 3 | 2 | latin pop |
 | 3 | 2 | colombian pop |
-| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | celtic rock |
 | 5 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 4 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
