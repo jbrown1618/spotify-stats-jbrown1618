@@ -238,12 +238,12 @@
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 75 | 49 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 67 | 45 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 61 | 40 | [viral pop](../../genres/viral_pop/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
 | 36 | 24 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 36 | 23 | [piano rock](../../genres/piano_rock/overview.md) |
+| 32 | 19 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
 <details>
@@ -251,7 +251,6 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 19 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 29 | 18 | [rock](../../genres/rock/overview.md) |
 | 26 | 17 | [soft rock](../../genres/soft_rock/overview.md) |
 | 26 | 17 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -266,6 +265,7 @@
 | 8 | 6 | metropopolis |
 | 8 | 6 | etherpop |
 | 8 | 6 | canadian singer-songwriter |
+| 7 | 6 | ectofolk |
 | 5 | 4 | indie pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 9 | 2 | nyc pop |

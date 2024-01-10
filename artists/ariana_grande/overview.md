@@ -2,7 +2,7 @@
 # Ariana Grande
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="Ariana Grande" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="Ariana Grande" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -10,15 +10,11 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #26 artist of the last month
-- The #37 artist of the last 6 months
+- The #29 artist of the last month
+- The #38 artist of the last 6 months
 - The #49 artist of all time
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
-## Top Tracks
-
-- Santa Tell Me is:
-    - the #32 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -112,7 +108,7 @@ Ariana Grande is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](overview.md) | 10 | Songwriter, Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](overview.md) | 10 | Songwriter, Producer, Arranger |
 | | Serban Ghenea | 8 | Producer |
 | | Savan Kotecha | 7 | Songwriter, Producer |
 | | ILYA | 7 | Producer, Songwriter |

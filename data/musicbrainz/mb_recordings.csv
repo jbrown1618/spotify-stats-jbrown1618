@@ -372,6 +372,7 @@ recording_mbid,recording_title,recording_language
 4459f042-afff-4fa3-b5e5-e10d9782992d,Style,eng
 44abd7d3-c593-4587-a109-6d9582f13f36,Oops… I Did It Again,eng
 44e88237-bdb1-4176-9687-714f0d9f6f76,California Gurls,eng
+45aaeed5-9f87-4967-ad8d-65d1b99c749c,"RIP, Love",
 46461eae-894c-48fb-aefd-2d6a2531f30a,Bluebird,
 46757d5f-0eed-4d71-89eb-a1472cd16625,1000 Times,eng
 468ac98e-d953-4a4d-bd4b-845d73b88eac,Portions for Foxes,
@@ -481,6 +482,7 @@ recording_mbid,recording_title,recording_language
 598bc2a9-1a27-4f6a-a7cc-30649303edca,Wildest Dreams,eng
 59fc5ddf-a1d9-4746-902d-71fb5a9a78c2,Shake It Off,eng
 5a35306c-e8a8-4eff-a52f-40bcd65f97cb,DICE,mul
+5a3c8dda-eba8-4f4c-a7d2-89d71c89d438,BORN TO BE,mul
 5a5056f9-1bec-426e-bc39-2ba1d22bb13b,S&M,eng
 5a88752c-2dcd-44e1-b64b-c964d94b6c10,The Execution of All Things,
 5aa053a9-5b84-418f-bb3c-d61df67b3880,Bye Bye Bye,eng
@@ -748,6 +750,7 @@ recording_mbid,recording_title,recording_language
 8d83bd0e-8cbb-4043-9e58-48497ff3d696,FACE,
 8d99aab3-a64c-4bfa-9bdf-1dc72a9e9fb1,Rhiannon,
 8da5fb34-fa06-460a-9e07-2decceb891d3,Let Me In (20 CUBE),
+8e0a0c65-20ea-4621-b7d0-c7863416d53c,Run Away (RYUJIN),
 8e25b4da-cd53-45d8-9c86-aa0d72d8b5ce,You Oughta Know,eng
 8eaf533e-d38f-4db3-926c-689c3f08ad53,Cheap Thrills,eng
 8f5f6678-5129-44af-993b-0ec074275a34,Slow Grenade,eng
@@ -1019,6 +1022,7 @@ bfb6781d-f93c-4702-ac14-ae60ed75fee1,Nerdy,
 bfbe89a4-5178-4f12-b258-2d8718881094,Like a Prayer,eng
 bfd37140-14fd-497a-a39d-c133011ac244,Ring of Fire,eng
 bfff4f17-db90-4580-bef8-5fa822ae5d22,Animals,eng
+c00bf011-d2b2-439e-a274-0ca1ce137bb7,UNTOUCHABLE,mul
 c03d0c17-b702-4cd9-82b4-7361008f0933,Tessellate,eng
 c05194a3-f6f0-4f52-b78a-13fb5580bc0f,Yesterday,eng
 c0814515-f632-445d-b075-06e2cf5413bb,가면무도회,kor
@@ -1140,6 +1144,7 @@ d74ce039-fb99-44fb-aa54-43bf707acf46,Skyfall,eng
 d757fe45-e865-4178-87c7-f3088c1b08d6,벚꽃,
 d75d3ae7-be28-46a4-91d3-39007160c3d8,Woman,kor
 d782a964-71fe-4adb-af01-cd7769c32ae8,Havana,eng
+d828523c-110a-4800-a422-af5441d0546b,Born Without a Heart,
 d8403112-ece2-4b45-889e-346cd96b8f1d,Kaleidoscope Heart,
 d84a716c-1377-46a3-b2dc-5a8268e9ed00,Big Yellow Taxi,eng
 d853e25f-068c-47d5-a70a-9ccc71f2227e,GOLDWING,eng
@@ -1180,6 +1185,7 @@ de896c41-463d-4eaa-8fe4-d826e2afa0f8,Oh! Darling,eng
 dea526b5-b557-4599-9126-cc03713de2f8,I’m a Slave 4 U,eng
 ded688ba-124a-4df9-a921-47ac303b080b,항해,
 dedd668d-287d-45bb-afb3-94ceaf2e6549,You Better Run,
+df1a1712-b597-4af1-86cb-ce2938737f94,Tears of Gold,
 df4c608f-9487-438c-a07e-23b740977988,Super Shy,eng
 df569676-9c08-4bec-8137-daa122c04ca9,Mrs. Robinson,eng
 df6b866c-a056-42f2-9cf9-135aa3fbdad4,Super Bass,eng
@@ -1221,6 +1227,7 @@ e5225306-fb16-4382-97cc-baa6349cd61e,exile,eng
 e528371a-0544-4328-a51e-8a2427671fcc,Mercy,eng
 e567b782-aa26-4137-a861-8e7badf395e7,Knock Knock (Who's There?),
 e5f6067a-fbb5-4f48-94ac-657a496561a1,"이브, 프시케 그리고 푸른 수염의 아내",mul
+e6188573-3329-4ce4-af6f-7e34f0cc1094,Mr. Vampire,mul
 e63ea28d-0c0f-4914-8181-ff5d0fa1cfa4,Amore - 蒼星 -,jpn
 e6d4ab7b-d898-4f52-8d37-1cb17ddfcaf2,Baby Don’t Stop,
 e6d894a9-8593-4b90-966a-9ce743365c3e,Only Girl (in the World),eng
@@ -1361,6 +1368,7 @@ fd125370-5ac9-45eb-86ad-ab99e258404b,Crazy Little Thing Called Love,eng
 fd16569f-6d0b-448c-a91b-a52507deecc5,Flip That,kor
 fdc062d7-5d86-495e-b7d1-d5b82008642b,Rain,kor
 fdf258c8-a98c-4fc4-ad72-98331ab750da,TOMBOY,mul
+fe04c590-2dcf-42b0-9897-69839126af7a,Crown On My Head (YEJI),
 fe11b561-d515-4c41-baec-6ea8595941fa,GGBB,
 fe230bce-8b6d-4df0-b244-e7d6aa5cc47c,CHEER UP,kor
 fe312432-dfef-4646-b5f1-05578190d915,Bittersweet,

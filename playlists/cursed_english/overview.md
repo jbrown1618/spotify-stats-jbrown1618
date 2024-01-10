@@ -95,9 +95,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 6 | 1 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 | 13 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
-| 5 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 2 | 0 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 1 | 0 | 해피트라이브엔터테인먼트 |

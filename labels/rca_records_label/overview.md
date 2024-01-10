@@ -284,7 +284,7 @@ Appears as:
 | | Albert Hammond, Jr. | 1 | Songwriter |
 | | Kaan Gunesberk | 1 | Songwriter |
 | | Sam Holland | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
 | | Dom Morley | 1 | Producer |
 | | Thomas Pentz | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | Kesha | 1 | Songwriter |

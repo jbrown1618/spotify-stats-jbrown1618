@@ -115,12 +115,12 @@ Appears as:
 | 61 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 61 | 40 | [lilith](../../genres/lilith/overview.md) |
-| 61 | 40 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 15 | 11 | [pop](../../genres/pop/overview.md) |
 | 11 | 7 | [r&b](../../genres/r_b/overview.md) |
 | 9 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
+| 8 | 5 | [soul](../../genres/soul/overview.md) |
 
 
 <details>
@@ -128,7 +128,6 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 5 | [soul](../../genres/soul/overview.md) |
 | 3 | 2 | latin pop |
 | 3 | 2 | colombian pop |
 | 2 | 2 | celtic rock |
@@ -148,6 +147,7 @@ Appears as:
 | 1 | 1 | women's music |
 | 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 1 | neo soul |
+| 1 | 1 | ectofolk |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |

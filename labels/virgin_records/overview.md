@@ -48,7 +48,7 @@ Appears as:
 | 7 | 4 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
-| 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 3 | 1 | ectofolk |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | uk dance |
 | 1 | 1 | talent show |

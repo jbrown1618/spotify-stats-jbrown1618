@@ -269,7 +269,6 @@
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 2 | 1 | hip hop |
 | 2 | 1 | folk rock |
-| 2 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 1 | 1 | yacht rock |
@@ -310,6 +309,7 @@
 | 1 | 0 | hip pop |
 | 1 | 0 | girl group |
 | 1 | 0 | europop |
+| 1 | 0 | ectofolk |
 | 1 | 0 | doo-wop |
 | 1 | 0 | contemporary r&b |
 | 1 | 0 | comic |

@@ -26,7 +26,7 @@ EXO:
 
 ## Artist Rank
 EXO is currently:
-- The #18 artist of the last month
+- The #15 artist of the last month
 - The #26 artist of the last 6 months
 - The #17 artist of all time
 
@@ -34,11 +34,9 @@ EXO is currently:
 ## Top Tracks
 
 - Love Shot is:
-    - the #39 track of all time
+    - the #34 track of all time
 - Monster is:
-    - the #30 track of the last 6 months
-- The First Snow is:
-    - the #46 track of the last month
+    - the #31 track of the last 6 months
 
 ### Top tracks of all time over time
 

@@ -16,15 +16,15 @@ BoA:
 
 ## Artist Rank
 BoA is currently:
-- The #45 artist of the last month
-- The #14 artist of the last 6 months
+- The #43 artist of the last month
+- The #15 artist of the last 6 months
 - The #30 artist of all time
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
 - THE CHRISTMAS SONG is:
-    - the #11 track of the last month
+    - the #14 track of the last month
 
 ### Top tracks of the last 6 months over time
 

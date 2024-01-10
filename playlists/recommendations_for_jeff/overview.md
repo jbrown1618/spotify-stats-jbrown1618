@@ -138,7 +138,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 12 | 12 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 13 | 13 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 5 | 5 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 5 | 5 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 4 | 4 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |

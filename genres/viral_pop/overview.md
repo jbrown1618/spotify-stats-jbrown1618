@@ -179,7 +179,7 @@
 | | Kaan Gunesberk | 1 | Songwriter |
 | | Starrah | 1 | Songwriter |
 | | Jia Lih | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
 | | Frank Dukes | 1 | Songwriter |
 | | Imad Royal | 1 | Producer, Songwriter |
 | | Luigi Creatore | 1 | Songwriter |

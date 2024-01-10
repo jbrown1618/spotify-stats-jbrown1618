@@ -24,9 +24,9 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #39 artist of the last month
+- The #16 artist of the last month
 - The #9 artist of the last 6 months
-- The #3 artist of all time
+- The #4 artist of all time
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
 ## Top Tracks

@@ -1,13 +1,13 @@
 # Atlantic Records
 
-64 songs
+56 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Atlantic Records (47 tracks)
+- Atlantic Records (39 tracks)
 - Aftermath Entertainment/Atlantic (6 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
@@ -44,6 +44,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e7e0deeb6b99d1b756763bf" alt="" width="50" /> | 3 | 1 | Anthony Ramos | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94de3b464a999a50d4611220" alt="" width="50" /> | 2 | 1 | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | 2 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebee6731023002d5872561dcd9" alt="" width="50" /> | 2 | 1 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdadd425aa549ca2ffba08519" alt="" width="50" /> | 2 | 1 | Jasmine Cephas-Jones | [🔗](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 2 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
@@ -61,15 +62,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb749bcc7f4b8d1d60f5f13744" alt="" width="50" /> | 1 | 1 | Kaliii | [🔗](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe489156e3cd2d327678c8467" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 10 | 0 | [Paramore](../../artists/paramore/overview.md) | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 2 | 0 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 2 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 2 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d" alt="" width="50" /> | 1 | 0 | Christina Perri | [🔗](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 1 | 0 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 0 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebee6731023002d5872561dcd9" alt="" width="50" /> | 1 | 0 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | 1 | 0 | Bootsy Collins | [🔗](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4" alt="" width="50" /> | 1 | 0 | Lil Wayne | [🔗](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 1 | 0 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -91,13 +91,13 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 10 | 3 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | 10 | 0 | This Is Why | 2023-02-10 | [🔗](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 5 | 3 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 3 | 2 | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | 2 | 2 | We Sing. We Dance. We Steal Things. | 2008-05-12 | [🔗](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 2 | 2 | Plans | 2005-08-29 | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 2 | 2 | Doo-Wops & Hooligans | 2010-10-05 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | 2 | 0 | Everyday Is Christmas (Deluxe Edition) | 2018-11-01 | [🔗](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) |
 
@@ -123,6 +123,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="" width="50" /> | 1 | 1 | About Damn Time | 2022-04-14 | [🔗](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | 1 | 0 | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a13e33d4a6ef59d51603a6c" alt="" width="50" /> | 1 | 0 | Wonderland (From “American Song Contest”) | 2022-03-21 | [🔗](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | 1 | 0 | This Is Why | 2023-02-10 | [🔗](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="" width="50" /> | 1 | 0 | Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors) | 2016-06-24 | [🔗](https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="" width="50" /> | 1 | 0 | See You Again (feat. Charlie Puth) | 2015 | [🔗](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
@@ -130,7 +131,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | 1 | 0 | Hot In It | 2022-06-30 | [🔗](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | 1 | 0 | Heathens | 2016-06-16 | [🔗](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | 1 | 0 | Christmas Cheers (Deluxe) | 2009-11-02 | [🔗](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 1 | 0 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 
 </details>
 
@@ -141,12 +141,12 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 39 | 21 | [pop](../../genres/pop/overview.md) |
+| 30 | 21 | [pop](../../genres/pop/overview.md) |
 | 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 5 | 3 | [rap](../../genres/rap/overview.md) |
-| 13 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | [broadway](../../genres/broadway/overview.md) |
+| 4 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | washington indie |
 | 2 | 2 | vocal jazz |
 | 2 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -168,7 +168,9 @@ Appears as:
 | 2 | 2 | canadian indie |
 | 2 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 2 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 11 | 1 | candy pop |
+| 2 | 1 | candy pop |
+| 2 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
+| 2 | 1 | alt z |
 | 2 | 1 | [a cappella](../../genres/a_cappella/overview.md) |
 | 1 | 1 | viral rap |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -178,10 +180,7 @@ Appears as:
 | 1 | 1 | metropopolis |
 | 1 | 1 | bedroom soul |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
-| 14 | 0 | [rock](../../genres/rock/overview.md) |
-| 10 | 0 | pop punk |
-| 10 | 0 | pop emo |
-| 10 | 0 | pixie |
+| 5 | 0 | [rock](../../genres/rock/overview.md) |
 | 3 | 0 | [hard rock](../../genres/hard_rock/overview.md) |
 | 3 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 0 | [album rock](../../genres/album_rock/overview.md) |
@@ -194,7 +193,10 @@ Appears as:
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
 | 1 | 0 | pov: indie |
+| 1 | 0 | pop punk |
+| 1 | 0 | pop emo |
 | 1 | 0 | pop dance |
+| 1 | 0 | pixie |
 | 1 | 0 | pittsburgh rap |
 | 1 | 0 | new orleans rap |
 | 1 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
@@ -202,11 +204,9 @@ Appears as:
 | 1 | 0 | house |
 | 1 | 0 | edm |
 | 1 | 0 | dutch edm |
-| 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | brostep |
 | 1 | 0 | big room |
 | 1 | 0 | alternative hip hop |
-| 1 | 0 | alt z |
 
 </details>
 
@@ -369,6 +369,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | Boss Bitch | [Doja Cat](../../artists/doja_cat/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | Dance The Night - From Barbie The Album | Dance The Night (From Barbie The Album) | [Dua Lipa](../../artists/dua_lipa/overview.md) | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | Minefields | CITIZENS | Faouzia, John Legend | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | RIP, Love | CITIZENS | Faouzia | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Say No to This | Hamilton (Original Broadway Cast Recording) | Jasmine Cephas-Jones, Leslie Odom Jr., Lin-Manuel Miranda, Sydney James Harcourt, Original Broadway Cast of Hamilton | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3s9itRgJYcKhem01P17865) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | I'm Yours | We Sing. We Dance. We Steal Things. | Jason Mraz | [Atlantic Records/ATG](.) | 💚 | [🔗](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
@@ -383,16 +384,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | My Shot | Hamilton (Original Broadway Cast Recording) | Lin-Manuel Miranda, Daveed Diggs, Okieriete Onaodowan, Leslie Odom Jr., Original Broadway Cast of Hamilton, Anthony Ramos | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Truth Hurts | Cuz I Love You (Deluxe) | Lizzo | [Nice Life/Atlantic](.) | 💚 | [🔗](https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="" width="50" /> | About Damn Time | About Damn Time | Lizzo | [Nice Life/Atlantic](.) | 💚 | [🔗](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Big Man, Little Dignity | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Crave | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | C’est Comme Ça | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Figure 8 | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Liar | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Running Out Of Time | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | The News | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Thick Skull | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | This Is Why | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | You First | This Is Why | [Paramore](../../artists/paramore/overview.md) | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Running Out Of Time | This Is Why | Paramore | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | That Would Be Enough | Hamilton (Original Broadway Cast Recording) | Phillipa Soo, Lin-Manuel Miranda | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/6oF8ueLn5hIl4PRp17sxW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | At My Worst | The Prelude | Pink Sweat$ | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | It's Quiet Uptown | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of Hamilton | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D) |

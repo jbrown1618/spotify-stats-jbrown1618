@@ -116,7 +116,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 11 | 10 | [Republic Records](../../labels/republic_records/overview.md) |
-| 5 | 5 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 8 | 7 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 4 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 3 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 2 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |

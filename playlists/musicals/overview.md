@@ -53,7 +53,7 @@
 | | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | | 3 | 0 | Ensemble - The Lion King | [🔗](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) |
@@ -186,16 +186,15 @@
 | 7 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 7 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 7 | 1 | [lilith](../../genres/lilith/overview.md) |
-| 7 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 7 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 40 | 0 | west end |
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 40 | 0 | west end |
 | 16 | 0 | hollywood |
 | 6 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | neo soul |
@@ -204,7 +203,7 @@
 </details>
 
 
-![Bar chart of top 15 genres](../../images/playlists/musicals/genres.png)
+![Bar chart of top 14 genres](../../images/playlists/musicals/genres.png)
 
 ## Top Producers
 

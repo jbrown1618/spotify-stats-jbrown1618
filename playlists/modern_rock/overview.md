@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273028c3bb4b81ee71dd73d1596ab67616d0000b2735675e83f707f1d7271e5cf8aab67616d0000b2737948eec521c67e76cafe30a0ab67616d0000b273c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[127 tracks (78 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
+[129 tracks (78 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -21,12 +21,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 3 | 3 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 3 | 3 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 4 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ed29d6d48829666efc8f609" alt="" width="50" /> | 4 | 2 | Nightwish | [🔗](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 3 | 2 | [Paramore](../../artists/paramore/overview.md) | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
 
 
 <details>
-<summary>See all 59 artists</summary>
+<summary>See all 60 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -77,6 +77,7 @@
 | <img src="https://i.scdn.co/image/fe75e6f4ba0b2e75e97e3505f9daa112a606977f" alt="" width="50" /> | 1 | 0 | Fountains Of Wayne | [🔗](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc45107b79e80a9ab7b423fad" alt="" width="50" /> | 1 | 0 | Hannah Georgas | [🔗](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4223cca4841b3e52a7133f1" alt="" width="50" /> | 1 | 0 | The Red Jumpsuit Apparatus | [🔗](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46b124542d8bde781a27586c" alt="" width="50" /> | 1 | 0 | Northcote | [🔗](https://open.spotify.com/artist/0238bOScDVbMG0RBP2NguG) |
 
@@ -104,7 +105,7 @@
 
 
 <details>
-<summary>See all 91 albums</summary>
+<summary>See all 93 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -162,6 +163,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | 1 | 0 | When The World Comes Down | 2008-01-01 | [🔗](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273079e826265dffc3a8a26bac5" alt="" width="50" /> | 1 | 0 | Welcome Interstate Managers | 2003-01-01 | [🔗](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 1 | 0 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | 1 | 0 | This Is Why | 2023-02-10 | [🔗](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | 1 | 0 | Overexposed (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) |
@@ -184,6 +186,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="" width="50" /> | 1 | 0 | Enema Of The State | 1999-01-01 | [🔗](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f98edbc89407338a90437d34" alt="" width="50" /> | 1 | 0 | Don't You Fake It | 2006-01-01 | [🔗](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6d55874f45c9b9108f5e3fb" alt="" width="50" /> | 1 | 0 | Burn To Shine | 1999-09-21 | [🔗](https://open.spotify.com/album/51B1RzotO05EShjth3xkOZ) |
@@ -219,12 +222,12 @@
 | 3 | 3 | Beaute |
 | 3 | 3 | ATL |
 | 5 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
+| 4 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 2 | Blackened Recordings |
-| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | Phonogenic |
 | 2 | 2 | [Epic](../../labels/epic/overview.md) |
 | 2 | 2 | Arista |
-| 5 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
+| 6 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 3 | 1 | Relentless |
 | 2 | 1 | Spin-Farm Oy |
 | 2 | 1 | Saddle Creek |
@@ -268,11 +271,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 62 | 36 | [rock](../../genres/rock/overview.md) |
+| 63 | 36 | [rock](../../genres/rock/overview.md) |
 | 50 | 26 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 42 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
-| 43 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
-| 32 | 20 | [pop](../../genres/pop/overview.md) |
+| 44 | 23 | [modern rock](../../genres/modern_rock/overview.md) |
+| 33 | 20 | [pop](../../genres/pop/overview.md) |
 | 16 | 14 | oxford indie |
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
@@ -293,17 +296,19 @@
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |
 | 5 | 5 | modern alternative rock |
-| 13 | 3 | alternative metal |
+| 14 | 3 | alternative metal |
+| 9 | 3 | pop punk |
 | 8 | 3 | [pop rock](../../genres/pop_rock/overview.md) |
-| 7 | 3 | pop punk |
 | 7 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 4 | 3 | candy pop |
+| 5 | 3 | candy pop |
 | 3 | 3 | steampunk |
-| 8 | 2 | post-grunge |
+| 9 | 2 | post-grunge |
 | 7 | 2 | funk rock |
 | 5 | 2 | metal |
 | 4 | 2 | symphonic metal |
 | 4 | 2 | power metal |
+| 4 | 2 | pop emo |
+| 4 | 2 | pixie |
 | 4 | 2 | opera metal |
 | 4 | 2 | gothic symphonic metal |
 | 4 | 2 | gothic metal |
@@ -312,8 +317,6 @@
 | 4 | 2 | fantasy metal |
 | 4 | 2 | emo |
 | 3 | 2 | thrash metal |
-| 3 | 2 | pop emo |
-| 3 | 2 | pixie |
 | 3 | 2 | old school thrash |
 | 3 | 2 | [hard rock](../../genres/hard_rock/overview.md) |
 | 3 | 2 | garage rock |
@@ -326,9 +329,9 @@
 | 2 | 2 | canadian rock |
 | 6 | 1 | funk metal |
 | 5 | 1 | punk |
+| 4 | 1 | neon pop punk |
 | 3 | 1 | scottish singer-songwriter |
-| 3 | 1 | neon pop punk |
-| 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 3 | 1 | ectofolk |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | k-rock |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -505,13 +508,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="So Much (For) Stardust" width="50" /> | So Much (For) Stardust (2023-03-24) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="Everyday Life" width="50" /> | Everyday Life (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2af63e82adb0206f1296834" alt="Hill Climber" width="50" /> | Hill Climber (2018-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> | The Downward Spiral (1994-03-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="Ghost City" width="50" /> | Ghost City (2018-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="Concentrate" width="50" /> | Concentrate (2018-06-15) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="Void" width="50" /> | Void (2018-04-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Chosen (2017-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="So Much (For) Stardust" width="50" /> | So Much (For) Stardust (2023-03-24) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="This Is Why" width="50" /> | This Is Why (2023-02-10) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="Everyday Life" width="50" /> | Everyday Life (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> | The Downward Spiral (1994-03-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2af63e82adb0206f1296834" alt="Hill Climber" width="50" /> | Hill Climber (2018-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb980f83ad9c3e098b195468" alt="Ghost City" width="50" /> | Ghost City (2018-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="Concentrate" width="50" /> | Concentrate (2018-06-15) | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="The Colour And The Shape" width="50" /> | The Colour And The Shape (1997-05-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="Void" width="50" /> | Void (2018-04-16) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Chosen (2017-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="Nimrod" width="50" /> | Nimrod (1997-10-14) |

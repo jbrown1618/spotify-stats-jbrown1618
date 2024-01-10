@@ -183,7 +183,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 25 | 25 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 27 | 27 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 6 | 6 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 5 | 5 | [Darkroom](../../labels/darkroom/overview.md) |
 | 5 | 5 | [BELIFT LAB](../../labels/belift_lab/overview.md) |

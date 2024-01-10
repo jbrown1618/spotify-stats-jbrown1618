@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="Over The Moon" width="50" /> | KNOCK (0.81) | <img src="https://i.scdn.co/image/ab67616d0000b2732935077d74bdd9c65a3956b5" alt="Spotify Singles - Holiday" width="50" /> | For You (Holiday Remix) - Spotify Singles Holiday (0.526) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Savior (feat. B.I) (0.807) | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | Gotta Go (0.531) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="FIRST IMPACT" width="50" /> | MVSK (0.798) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.536) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273773659f59fa337348b8214b6" alt="Magic Hour" width="50" /> | Galileo (0.793) | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="CIX 5th EP Album ‘OK’ Episode 1 : OK Not" width="50" /> | 458 (0.537) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="Pink Funky" width="50" /> | AHH OOP! (0.79) | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="CIX 5th EP Album ‘OK’ Episode 1 : OK Not" width="50" /> | 458 (0.537) |
 
 ## Energy
 
@@ -26,13 +26,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="HATE XX" width="50" /> | Hate Rodrigo (Feat. YUQI) (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Music from The Netflix Series)" width="50" /> | Sad Waltz (0.218) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | JACKPOT (0.952) | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1" width="50" /> | Rain and You (0.275) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732963187314262831fa2baa49" alt="FIRST IMPACT" width="50" /> | MVSK (0.945) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.296) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273773659f59fa337348b8214b6" alt="Magic Hour" width="50" /> | Galileo (0.943) | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> | Wicked (0.32) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Red Lipstick (feat. Yoonmirae) (0.941) | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="WOLF" width="50" /> | FACE (0.356) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Full Moon (0.423) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | TIC TAC (0.937) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Intentions (0.432) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="DOUBLAST" width="50" /> | Up! (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.474) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings (0.93) | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="The Hyena on the Keyboard Pt. 4" width="50" /> | Don’t (0.488) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="BLOOM*IZ" width="50" /> | FIESTA (0.927) | <img src="https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9" alt="When Night Is Falling" width="50" /> | When Night Is Falling (0.489) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Red Lipstick (feat. Yoonmirae) (0.941) | <img src="https://i.scdn.co/image/ab67616d0000b27308cdd336f3888e35e7711a09" alt="Remarriage and Desires (Original Soundtrack from The Netflix Series)" width="50" /> | Wicked (0.32) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="WOLF" width="50" /> | FACE (0.356) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | TIC TAC (0.937) | <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Full Moon (0.423) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="DOUBLAST" width="50" /> | Up! (0.932) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Intentions (0.432) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings (0.93) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.474) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ecba6eed6a9e14a7e9534b2" alt="BLOOM*IZ" width="50" /> | FIESTA (0.927) | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="The Hyena on the Keyboard Pt. 4" width="50" /> | Don’t (0.488) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="ˣ‿ˣ (SMiLEY)" width="50" /> | Lxxk 2 U (0.913) | <img src="https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9" alt="When Night Is Falling" width="50" /> | When Night Is Falling (0.489) |
 
 ## Speechiness
 
@@ -116,8 +116,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.908) | <img src="https://i.scdn.co/image/ab67616d0000b273cd99a47e4804c82e3812e901" alt="HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1" width="50" /> | Rain and You (0.244) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="PLAY" width="50" /> | PLAY (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Music from The Netflix Series)" width="50" /> | Sad Waltz (0.259) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbcb3e52c772d774ba73b9c2" alt="2nd EP Album ‘Bipolar Pt.2 Prelude of Love’" width="50" /> | Do 4 Me (0.874) | <img src="https://i.scdn.co/image/ab67616d0000b273679d960f68492932541a032e" alt="MELTING POINT" width="50" /> | CRUSH (0.274) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273773659f59fa337348b8214b6" alt="Magic Hour" width="50" /> | Galileo (0.846) | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="LULLABY" width="50" /> | LULLABY (0.308) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="ONLY LOVERS LEFT" width="50" /> | WAITING (0.839) | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom (0.334) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="ONLY LOVERS LEFT" width="50" /> | WAITING (0.839) | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="LULLABY" width="50" /> | LULLABY (0.308) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Red Lipstick (feat. Yoonmirae) (0.82) | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom (0.334) |
 
 ## Tempo
 

@@ -20,15 +20,11 @@ Pentatonix:
 
 ## Artist Rank
 Pentatonix is currently:
-- The #5 artist of the last month
-- The #24 artist of the last 6 months
+- The #6 artist of the last month
+- The #21 artist of the last 6 months
 - The #32 artist of all time
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
-## Top Tracks
-
-- Let It Go is:
-    - the #45 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -117,7 +113,7 @@ Pentatonix is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Songwriter |
 | | Nikki Cislyn | 1 | Songwriter |
 | | Wayne Sermon | 1 | Songwriter |
 | | ILYA | 1 | Songwriter |

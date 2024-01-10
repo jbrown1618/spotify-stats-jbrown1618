@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 86 genres</summary>
+<summary>See all 85 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -238,7 +238,6 @@
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 6 | 6 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 6 | 6 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 6 | 5 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 5 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 5 | 5 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |

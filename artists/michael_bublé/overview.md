@@ -10,16 +10,14 @@
 
 ## Artist Rank
 Michael Bublé is currently:
-- The #20 artist of the last month
-- The #45 artist of the last 6 months
+- The #19 artist of the last month
+- The #47 artist of the last 6 months
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
 ## Top Tracks
 
 - Baby It's Cold Outside (with Michael Bublé) is:
-    - the #29 track of the last month
-- Frosty the Snowman (feat. The Puppini Sisters) is:
-    - the #42 track of the last month
+    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
