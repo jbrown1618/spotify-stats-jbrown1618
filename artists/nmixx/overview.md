@@ -17,17 +17,17 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #40 artist of the last month
-- The #22 artist of the last 6 months
+- The #37 artist of the last month
+- The #21 artist of the last 6 months
 - The #34 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - Love Me Like This is:
-    - the #15 track of the last 6 months
+    - the #22 track of the last 6 months
 - Soñar (Breaker) is:
-    - the #38 track of the last month
+    - the #37 track of the last month
 
 ### Top tracks of the last 6 months over time
 

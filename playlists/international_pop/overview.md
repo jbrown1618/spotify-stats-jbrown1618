@@ -373,11 +373,13 @@
 | 3 | 2 | bitpop |
 | 2 | 2 | v-pop |
 | 2 | 2 | shibuya-kei |
+| 2 | 2 | picopop |
 | 2 | 2 | latin viral pop |
 | 2 | 2 | italian pop |
 | 2 | 2 | italian hip hop |
 | 2 | 2 | french pop |
 | 2 | 2 | danish pop |
+| 2 | 2 | chinese viral pop |
 | 2 | 2 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 2 | 2 | belgian pop |
 | 8 | 1 | mandopop |
@@ -411,7 +413,6 @@
 | 1 | 1 | escape room |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
-| 1 | 1 | chinese viral pop |
 | 1 | 1 | bulgarian pop |
 | 1 | 1 | bulgarian hip hop |
 | 1 | 1 | basshall |
@@ -447,7 +448,6 @@
 | 1 | 0 | israeli rock |
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
-| 1 | 0 | finnish pop |
 
 </details>
 

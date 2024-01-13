@@ -2,7 +2,7 @@
 # TWICE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191" alt="TWICE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="TWICE" width="100" />
 
 [See Track Features](audio_features.md)
 

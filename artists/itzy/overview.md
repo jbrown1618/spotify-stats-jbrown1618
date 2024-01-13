@@ -31,21 +31,22 @@ ITZY is currently:
 - CAKE is:
     - the #6 track of the last 6 months
 - Kill Shot is:
-    - the #25 track of the last 6 months
+    - the #24 track of the last 6 months
 - BET ON ME is:
-    - the #35 track of the last 6 months
-- BORN TO BE is:
-    - the #6 track of the last month
-- Mine (CHAERYEONG) is:
-    - the #23 track of the last month
-- UNTOUCHABLE is:
-    - the #33 track of the last month
+    - the #33 track of the last 6 months
 - Mr. Vampire is:
-    - the #35 track of the last month
+    - the #1 track of the last month
+    - the #43 track of the last 6 months
+- BORN TO BE is:
+    - the #7 track of the last month
+- Mine (CHAERYEONG) is:
+    - the #24 track of the last month
+- UNTOUCHABLE is:
+    - the #32 track of the last month
 - Crown On My Head (YEJI) is:
-    - the #37 track of the last month
+    - the #34 track of the last month
 - Dynamite is:
-    - the #48 track of the last month
+    - the #47 track of the last month
 
 ### Top tracks of all time over time
 
@@ -58,7 +59,7 @@ ITZY is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 37 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 15 | [Workout](../../playlists/workout/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 16 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 11 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 8 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27305f3e920cfd3ae7fe9192149ab67616d0000b2737da22ba88dfc26a18122ee2dab67616d0000b273dff665230ac08de979d3bd0eab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |

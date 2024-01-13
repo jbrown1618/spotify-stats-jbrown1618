@@ -18,7 +18,7 @@ aespa:
 
 ## Artist Rank
 aespa is currently:
-- The #2 artist of the last month
+- The #3 artist of the last month
 - The #2 artist of the last 6 months
 - The #6 artist of all time
 
@@ -26,22 +26,22 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #30 track of the last 6 months
+    - the #29 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
     - the #3 track of all time
 - Black Mamba is:
     - the #24 track of all time
 - Illusion is:
-    - the #16 track of the last 6 months
-    - the #30 track of all time
+    - the #15 track of the last 6 months
+    - the #29 track of all time
 - Drama is:
-    - the #1 track of the last month
+    - the #6 track of the last month
     - the #1 track of the last 6 months
-- Trick or Trick is:
-    - the #2 track of the last 6 months
 - Better Things is:
-    - the #8 track of the last month
+    - the #9 track of the last month
+    - the #2 track of the last 6 months
+- Trick or Trick is:
     - the #3 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
     - the #4 track of the last 6 months
@@ -49,16 +49,16 @@ aespa is currently:
     - the #2 track of the last month
     - the #13 track of the last 6 months
 - Hold On Tight is:
-    - the #17 track of the last 6 months
+    - the #16 track of the last 6 months
 - Hot Air Balloon is:
-    - the #43 track of the last month
+    - the #41 track of the last month
     - the #23 track of the last 6 months
 - YEPPI YEPPI is:
-    - the #29 track of the last 6 months
+    - the #26 track of the last 6 months
 - Don't Blink is:
-    - the #32 track of the last 6 months
+    - the #28 track of the last 6 months
 - YOLO is:
-    - the #40 track of the last 6 months
+    - the #38 track of the last 6 months
 - Beautiful Christmas is:
     - the #3 track of the last month
 

@@ -7,6 +7,10 @@
 ## Artist Rank
 
 
+## Top Tracks
+
+- For You is:
+    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

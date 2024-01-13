@@ -21,24 +21,24 @@ ENHYPEN:
 
 ## Artist Rank
 ENHYPEN is currently:
-- The #11 artist of the last month
-- The #7 artist of the last 6 months
+- The #15 artist of the last month
+- The #5 artist of the last 6 months
 - The #10 artist of all time
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 - ParadoXXX Invasion is:
-    - the #31 track of all time
+    - the #30 track of all time
 - Just A Little Bit is:
     - the #47 track of all time
 - Sweet Venom is:
-    - the #7 track of the last month
+    - the #8 track of the last month
     - the #9 track of the last 6 months
 - CRIMINAL LOVE is:
     - the #10 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #48 track of the last 6 months
+    - the #45 track of the last 6 months
 
 ### Top tracks of all time over time
 

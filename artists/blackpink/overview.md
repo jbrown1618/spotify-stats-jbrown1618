@@ -18,8 +18,8 @@ BLACKPINK:
 
 ## Artist Rank
 BLACKPINK is currently:
-- The #28 artist of the last month
-- The #14 artist of the last 6 months
+- The #14 artist of the last month
+- The #13 artist of the last 6 months
 - The #8 artist of all time
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
@@ -34,7 +34,7 @@ BLACKPINK is currently:
 - How You Like That is:
     - the #16 track of all time
 - DDU-DU DDU-DU is:
-    - the #26 track of the last 6 months
+    - the #30 track of the last 6 months
     - the #41 track of all time
 
 ### Top tracks of all time over time

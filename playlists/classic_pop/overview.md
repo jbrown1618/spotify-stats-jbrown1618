@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | 1 | 1 | Walter Murphy | [🔗](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | 1 | 1 | Lou Bega | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcbe7ddc503fe3f14a2a56ac7" alt="" width="50" /> | 1 | 1 | Lou Bega | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 | <img src="https://i.scdn.co/image/e9df5954d907411a43487d61c1acae8a04ae0b93" alt="" width="50" /> | 1 | 1 | Chuck Mangione | [🔗](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) |
@@ -297,7 +297,7 @@
 | | June Carter Cash | 1 | Songwriter |
 | | Sandra Campbell Chapin | 1 | Songwriter |
 | | Tom Wilson | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9200a6d8565766425c9a1e1" alt="" width="50" /> | Lou Bega | 1 | Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcbe7ddc503fe3f14a2a56ac7" alt="" width="50" /> | Lou Bega | 1 | Lyricist, Producer |
 | | Bob West | 1 | Songwriter |
 | | Andrew Ridgeley | 1 | Songwriter |
 | | Deke Richards | 1 | Songwriter |

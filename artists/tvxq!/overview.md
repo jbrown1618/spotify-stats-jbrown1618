@@ -16,7 +16,7 @@ TVXQ!:
 
 ## Artist Rank
 TVXQ! is currently:
-- The #14 artist of the last month
+- The #12 artist of the last month
 
 ![Rank of TVXQ! over time](../../images/artists/tvxq!/rank_time_series.png)
 ## Featured on Playlists

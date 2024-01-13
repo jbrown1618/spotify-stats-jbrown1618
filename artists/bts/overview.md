@@ -13,7 +13,7 @@
 BTS:
 - has member JIN
 - has member Jimin
-- has member Jung Kook
+- has member [Jung Kook](../jung_kook/overview.md)
 - has member RM
 - has member SUGA
 - has member V
@@ -21,7 +21,7 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #27 artist of the last month
+- The #25 artist of the last month
 - The #32 artist of the last 6 months
 - The #12 artist of all time
 
@@ -29,15 +29,15 @@ BTS is currently:
 ## Top Tracks
 
 - Butter (Holiday Remix) is:
-    - the #11 track of the last month
+    - the #12 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 34 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | [Workout](../../playlists/workout/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 5 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 5 | [Chill](../../playlists/chill/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 4 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 2 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
@@ -105,14 +105,14 @@ BTS is currently:
 
 ### Member Credits
 
-| | JIN | Jimin | Jung Kook | RM | SUGA | V | [j-hope](../j-hope/overview.md) |
+| | JIN | Jimin | RM | SUGA | V | [Jung Kook](../jung_kook/overview.md) | [j-hope](../j-hope/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
-| Arranger | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-| Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
-| Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-| Producer | 0 | 0 | 0 | 2 | 2 | 0 | 0 |
-| Songwriter | 0 | 1 | 0 | 10 | 7 | 0 | 4 |
-| Vocal | 1 | 3 | 6 | 2 | 3 | 2 | 2 |
+| Arranger | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
+| Instrument | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| Lyricist | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
+| Producer | 0 | 0 | 2 | 2 | 0 | 0 | 0 |
+| Songwriter | 0 | 1 | 10 | 7 | 0 | 0 | 4 |
+| Vocal | 1 | 3 | 2 | 3 | 2 | 6 | 2 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

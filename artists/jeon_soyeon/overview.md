@@ -21,8 +21,8 @@ JEON SOYEON is currently:
 - DESSERT is:
     - the #33 track of all time
 - NOBODY is:
-    - the #31 track of the last month
-    - the #34 track of the last 6 months
+    - the #35 track of the last month
+    - the #32 track of the last 6 months
 
 ### Top tracks of all time over time
 

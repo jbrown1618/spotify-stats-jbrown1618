@@ -68,17 +68,16 @@
 | 4 | 3 | bow pop |
 | 1 | 1 | synthpop |
 | 1 | 1 | proto-techno |
-| 1 | 1 | new wave |
 | 1 | 1 | early synthpop |
 | 1 | 1 | dusseldorf electronic |
+| 1 | 0 | [pop](../../genres/pop/overview.md) |
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | [pop](../../genres/pop/overview.md) |
 | 1 | 0 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | canadian contemporary r&b |
@@ -86,7 +85,7 @@
 </details>
 
 
-![Bar chart of top 14 genres](../../images/playlists/electronic/genres.png)
+![Bar chart of top 13 genres](../../images/playlists/electronic/genres.png)
 
 ## Top Producers
 

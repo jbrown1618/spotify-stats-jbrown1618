@@ -18,7 +18,7 @@ GOT the beat:
 
 ## Artist Rank
 GOT the beat is currently:
-- The #26 artist of the last month
+- The #21 artist of the last month
 - The #45 artist of the last 6 months
 - The #40 artist of all time
 
