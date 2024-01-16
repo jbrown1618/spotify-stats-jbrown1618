@@ -19,14 +19,14 @@ NewJeans:
 
 ## Artist Rank
 NewJeans is currently:
-- The #23 artist of the last 6 months
+- The #22 artist of the last 6 months
 - The #24 artist of all time
 
 ![Rank of NewJeans over time](../../images/artists/newjeans/rank_time_series.png)
 ## Top Tracks
 
 - ASAP is:
-    - the #34 track of the last 6 months
+    - the #31 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

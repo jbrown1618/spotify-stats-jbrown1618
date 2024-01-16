@@ -21,7 +21,7 @@ ENHYPEN:
 
 ## Artist Rank
 ENHYPEN is currently:
-- The #15 artist of the last month
+- The #13 artist of the last month
 - The #5 artist of the last 6 months
 - The #10 artist of all time
 
@@ -33,12 +33,12 @@ ENHYPEN is currently:
 - Just A Little Bit is:
     - the #47 track of all time
 - Sweet Venom is:
-    - the #8 track of the last month
+    - the #16 track of the last month
     - the #9 track of the last 6 months
 - CRIMINAL LOVE is:
-    - the #10 track of the last 6 months
+    - the #11 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #45 track of the last 6 months
+    - the #43 track of the last 6 months
 
 ### Top tracks of all time over time
 

@@ -15,7 +15,7 @@ HWASA:
 
 ## Artist Rank
 HWASA is currently:
-- The #48 artist of the last 6 months
+- The #49 artist of the last 6 months
 
 ![Rank of HWASA over time](../../images/artists/hwasa/rank_time_series.png)
 ## Top Tracks
@@ -23,7 +23,7 @@ HWASA is currently:
 - Maria is:
     - the #6 track of all time
 - I Love My Body is:
-    - the #27 track of the last month
+    - the #13 track of the last month
 
 ### Top tracks of all time over time
 

@@ -24,7 +24,7 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #16 artist of the last month
+- The #9 artist of the last month
 - The #9 artist of the last 6 months
 - The #4 artist of all time
 
@@ -35,8 +35,6 @@ TWICE is currently:
     - the #19 track of all time
 - The Feels is:
     - the #50 track of all time
-- Merry & Happy is:
-    - the #5 track of the last month
 
 ### Top tracks of all time over time
 

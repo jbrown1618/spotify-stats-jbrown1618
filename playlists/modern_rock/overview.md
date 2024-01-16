@@ -331,7 +331,6 @@
 | 5 | 1 | punk |
 | 4 | 1 | neon pop punk |
 | 3 | 1 | scottish singer-songwriter |
-| 3 | 1 | ectofolk |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | k-rock |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -378,6 +377,7 @@
 | 1 | 0 | swedish alternative rock |
 | 1 | 0 | spacegrunge |
 | 1 | 0 | socal pop punk |
+| 1 | 0 | screamo |
 
 </details>
 

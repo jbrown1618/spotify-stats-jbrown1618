@@ -350,7 +350,7 @@
 | | Hilda Stenmalm | 1 | Songwriter |
 | | Max Graham | 1 | Songwriter |
 | | C. Minor | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | [YENA](../../artists/yena/overview.md) | 1 | Arranger |
 | | Sebastian Garcia | 1 | Songwriter |
 | | Liza Owen | 1 | Songwriter |
 | | Carlos Battey | 1 | Songwriter |

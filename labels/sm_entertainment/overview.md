@@ -1,13 +1,13 @@
 # SM Entertainment
 
-326 songs
+328 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (302 tracks)
+- SM Entertainment (304 tracks)
 - SM Entertainment / Warner Records (19 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - SM Entertainment/RCA Records (2 tracks)
@@ -17,8 +17,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 70 | 54 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 29 | 24 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 71 | 56 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 30 | 25 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 38 | 23 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -111,12 +111,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | 7 | 6 | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | 6 | 6 | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | 5 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 6 | 5 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 6 | 5 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 5 | 5 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 5 | 5 | Like Water - The 1st Mini Album | 2021-04-05 | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | 5 | 4 | To. X - The 5th Mini Album | 2023-11-27 | [🔗](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) |
 
 
 <details>
@@ -124,8 +124,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | 5 | 4 | To. X - The 5th Mini Album | 2023-11-27 | [🔗](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | 5 | 4 | Queendom - The 6th Mini Album | 2021-08-16 | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 5 | 4 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 5 | 4 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 5 | 3 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
@@ -149,6 +149,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | 3 | 1 | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | 3 | 1 | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | 3 | 0 | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 2 | 2 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | 2 | 2 | What Do I Call You - The 4th Mini Album | 2020-12-15 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | 2 | Sticker - The 3rd Album | 2021-09-17 | [🔗](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) |
@@ -158,7 +159,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | 2 | 2 | Golden Age - The 4th Album | 2023-08-28 | [🔗](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | 2 | 2 | Devil - The 2nd Mini Album | 2022-01-13 | [🔗](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | 2 | 2 | 20&2 - The 9th Album | 2023-12-26 | [🔗](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 2 | 1 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="" width="50" /> | 2 | 1 | Why - The 2nd Mini Album | 2016-06-28 | [🔗](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="" width="50" /> | 2 | 1 | Something New - The 3rd Mini Album | 2018-06-18 | [🔗](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | 2 | 1 | Red Light - The 3rd Album | 2014-07-11 | [🔗](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) |
@@ -195,6 +195,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | 1 | 1 | Run Devil Run - The 2nd Album Repackage | 2010-03-22 | [🔗](https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | 1 | 1 | Rover - The 3rd Mini Album | 2023-03-13 | [🔗](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | 1 | 1 | Reload | 2020-04-29 | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="" width="50" /> | 1 | 1 | Regret of the Times (2024 aespa Remake Version) - SM STATION | 2024-01-15 | [🔗](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | 1 | 1 | Rain - SM STATION | 2016-02-03 | [🔗](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | 1 | 1 | REPLAY - The 8th Repackage Album | 2018-04-12 | [🔗](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="" width="50" /> | 1 | 1 | Picture | 2023-08-22 | [🔗](https://open.spotify.com/album/0Vh5Eq6XcrKL9McjUIyyqd) |
@@ -213,7 +214,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 1 | 1 | My Voice - The 1st Album (Deluxe Edition) | 2017-04-05 | [🔗](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | 1 | 1 | Mr. Simple - The 5th Album | 2011-08-02 | [🔗](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 1 | 1 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="" width="50" /> | 1 | 1 | Monster - The 1st Mini Album | 2020-07-06 | [🔗](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) |
 
 </details>
 
@@ -224,8 +224,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 281 | 195 | [k-pop](../../genres/k-pop/overview.md) |
-| 123 | 92 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 282 | 197 | [k-pop](../../genres/k-pop/overview.md) |
+| 125 | 95 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 73 | 49 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -237,14 +237,14 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 유영진 (Yoo, Young-jin) | 13 | Arranger, Lyricist, Producer, Songwriter |
-| | 이수만 (Lee, Soo-Man) | 10 | Producer |
 | | 정은경 (Jung, Eun-Kyung) | 10 | Producer, Arranger |
+| | 이수만 (Lee, Soo-Man) | 10 | Producer |
 | | Kenzie | 8 | Songwriter, Arranger, Lyricist, Producer |
 | | 남궁진 (Nam Goong, Jin) | 8 | Producer |
 | | 정의석 (Jung, Euisuk) | 7 | Producer |
-| | 이지홍 (Lee, Ji-hong) | 6 | Producer |
-| | 조윤경 (Jo, Yoon Kyung) | 6 | Lyricist |
 | | 이민규 (Lee, Min-kyu) | 6 | Producer |
+| | 조윤경 (Jo, Yoon Kyung) | 6 | Lyricist |
+| | 이지홍 (Lee, Ji-hong) | 6 | Producer |
 | | 김철순 (Kim, Chul-Soon) | 5 | Producer |
 
 
@@ -253,71 +253,72 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 구종필 (Koo, Jong-Pil) | 4 | Producer |
 | | 노민지 (Noh, Min-ji) | 4 | Producer |
 | | Ryan S. Jhun | 4 | Arranger, Songwriter |
-| | Cazzi Opeia | 3 | Songwriter, Lyricist |
-| | LDN Noise | 3 | Arranger, Songwriter, Producer |
-| | 이성호 (Lee, Sung-ho) | 3 | Producer |
-| | Johan Gustafsson | 3 | Arranger, Songwriter |
-| | Tay Jasper | 3 | Songwriter |
-| | Tayla Parx | 3 | Songwriter, Arranger |
-| | 김동현 (Kim, Dong-hyun) | 3 | Lyricist, Songwriter |
-| | 1월 8일 (1월 8일) | 3 | Lyricist, Songwriter |
-| | Ylva Dimberg | 3 | Songwriter, Arranger |
-| | Anne Judith Wik | 3 | Arranger, Songwriter |
+| | Ylva Dimberg | 4 | Lyricist, Songwriter, Arranger |
+| | 구종필 (Koo, Jong-Pil) | 4 | Producer |
 | | 강은지 (Kang, Eun-ji) | 3 | Producer |
+| | Tay Jasper | 3 | Songwriter |
+| | LDN Noise | 3 | Arranger, Songwriter, Producer |
+| | 김동현 (Kim, Dong-hyun) | 3 | Lyricist, Songwriter |
+| | Anne Judith Wik | 3 | Arranger, Songwriter |
+| | Tayla Parx | 3 | Songwriter, Arranger |
+| | Johan Gustafsson | 3 | Arranger, Songwriter |
+| | 이성호 (Lee, Sung-ho) | 3 | Producer |
+| | Cazzi Opeia | 3 | Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | [BoA](../../artists/boa/overview.md) | 3 | Lyricist, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9ebaed4aff83909fedc1dd6" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
-| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
-| | Dem Jointz | 2 | Arranger, Songwriter |
-| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
-| | Misfit | 2 | Lyricist |
+| | Deez | 3 | Lyricist, Songwriter, Arranger |
+| | 1월 8일 (1월 8일) | 3 | Lyricist, Songwriter |
 | | Timothy "Bos" Bullock | 2 | Arranger, Songwriter |
-| | SAAY | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb02540455027f77fe3abc9cea" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
+| | Maxx Song | 2 | Arranger, Producer, Lyricist, Songwriter |
+| | Misfit | 2 | Lyricist |
+| | Jonathan Yip | 2 | Lyricist, Songwriter |
+| | Hayley Aitken | 2 | Arranger, Songwriter |
+| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
+| | Ray McCullough | 2 | Lyricist, Songwriter |
+| | Dem Jointz | 2 | Arranger, Songwriter |
 | | Will Simms | 2 | Arranger, Producer, Songwriter |
-| | Sebastian Lundberg | 2 | Arranger, Songwriter |
-| | Adrian McKinnon | 2 | Songwriter |
-| | Charli Taft | 2 | Arranger, Songwriter |
-| | IMLAY | 2 | Arranger |
-| | 신지영 (Shin, Ji-young) | 2 | Producer |
+| | 최소영 (Choi, Seo-young) | 2 | Lyricist |
+| | 황현 (Hwang, Hyeon) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Jordan Reyes | 2 | Songwriter, Arranger |
 | | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
-| | Hayley Aitken | 2 | Arranger, Songwriter |
-| | Maxx Song | 2 | Arranger, Producer, Lyricist, Songwriter |
-| | Deez | 2 | Arranger, Lyricist, Songwriter |
-| | 황현 (Hwang, Hyeon) | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | Fredrik Häggstam (Häggstam, Fredrik) | 2 | Arranger, Songwriter |
-| | 최소영 (Choi, Seo-young) | 2 | Lyricist |
+| | Jeremy Reeves | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9ebaed4aff83909fedc1dd6" alt="" width="50" /> | TAEYONG | 2 | Lyricist, Songwriter |
 | | 이주형 (Lee, Juhyeong) | 2 | Producer, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb02540455027f77fe3abc9cea" alt="" width="50" /> | MARK | 2 | Lyricist, Songwriter |
-| | Hautboi Rich | 2 | Songwriter |
+| | 신지영 (Shin, Ji-young) | 2 | Producer |
+| | Adrian McKinnon | 2 | Songwriter |
+| | Charli Taft | 2 | Arranger, Songwriter |
 | | Sophie Curtis | 2 | Songwriter |
+| | Sebastian Lundberg | 2 | Arranger, Songwriter |
+| | Hautboi Rich | 2 | Songwriter |
+| | Fredrik Häggstam (Häggstam, Fredrik) | 2 | Arranger, Songwriter |
 | | 전간디 (Jun, Gan Di) | 2 | Lyricist |
+| | IMLAY | 2 | Arranger |
+| | Ray Romulus | 2 | Lyricist, Songwriter |
+| | SAAY | 2 | Lyricist, Songwriter |
 | | Kirsten Collins | 2 | Songwriter |
-| | 진리 (Jinri) | 1 | Lyricist |
-| | DOM | 1 | Arranger, Songwriter |
-| | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
-| | Daniel Davidsen | 1 | Songwriter |
-| | Didrik Thott | 1 | Songwriter |
-| | Cathy Dennis | 1 | Arranger |
-| | Daniel "Obi" Klein | 1 | Arranger, Producer, Songwriter |
+| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
 | | 김보은 (Kim, Bo-eun) | 1 | Lyricist |
+| | 진리 (Jinri) | 1 | Lyricist |
+| | Daniel "Obi" Klein | 1 | Arranger, Producer, Songwriter |
+| | Daniel Davidsen | 1 | Songwriter |
 | | Jess Morgan | 1 | Songwriter |
-| | Ray McCullough | 1 | Lyricist, Songwriter |
+| | DOM | 1 | Arranger, Songwriter |
+| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
+| | Avenue 52 | 1 | Arranger |
+| | Courtney Woolsey | 1 | Songwriter |
+| | 바다 (Bada) | 1 | Lyricist |
 | | Joachim Vermeulen Windsant | 1 | Arranger |
+| | Erik Lewander | 1 | Arranger |
 | | 밍지션 (Ming, Jisyeon) | 1 | Producer |
 | | Markus Lindell | 1 | Arranger, Songwriter |
-| | Avenue 52 | 1 | Arranger |
+| | Cathy Dennis | 1 | Arranger |
 | | Mafly | 1 | Lyricist |
-| | 바다 (Bada) | 1 | Lyricist |
-| | Erik Lewander | 1 | Arranger |
-| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
-| | Courtney Woolsey | 1 | Songwriter |
-| | Ivy Adara | 1 | Songwriter |
 | | Joyfactory | 1 | Lyricist |
-| | Jeremy Reeves | 1 | Lyricist, Songwriter |
-| | Brandon Green | 1 | Arranger, Songwriter |
+| | Ivy Adara | 1 | Songwriter |
+| | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
+| | Didrik Thott | 1 | Songwriter |
 | | 김영후 (Kim, Young-hu) | 1 | Lyricist |
 | | Belle Humble | 1 | Arranger, Songwriter |
 | | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
@@ -340,9 +341,8 @@ Appears as:
 | | Cutfather | 1 | Songwriter |
 | | Patrick Morrissey | 1 | Arranger, Songwriter |
 | | Moonshine | 1 | Arranger |
-| | 조진주 (Jo, Jinju) | 1 | Songwriter |
+| | Herbie Crichlow | 1 | Arranger, Songwriter |
 | | Gabriela Geneva | 1 | Songwriter |
-| | Jin Choi | 1 | Arranger, Songwriter |
 
 </details>
 
@@ -505,7 +505,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | You Better Know | The Red Summer - Summer Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/59fJbRecO16BIw9L1neEug) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | About Love | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2aSoUIBolhj734OqGn5ave) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | I Just | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7BuFMtIknd3ewai0zhKhqb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Kingdom Come | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5XJEdVQ5jl3C3dFsV7kCTZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Kingdom Come | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5XJEdVQ5jl3C3dFsV7kCTZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Look | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Moonlight Melody | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1WryFxHMRpm6SOl58n8BYz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Peek-A-Boo | Perfect Velvet - The 2nd Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="" width="50" /> | Bad Boy | The Perfect Red Velvet - The 2nd Album Repackage | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) |
@@ -522,7 +523,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Parade | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5K8cgjL8hGTXpi5Z6uJFwe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Sunny Side Up! | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5yGTiC0ypN09P4Nl6tE3FY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Zimzalabim | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | Eyes Locked, Hands Locked | ‘The ReVe Festival’ Day 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/4o6LdaI3q5QFjs0sziszsD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | Eyes Locked, Hands Locked | ‘The ReVe Festival’ Day 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4o6LdaI3q5QFjs0sziszsD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | Umpah Umpah | ‘The ReVe Festival’ Day 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5qSoW3ewNlhRN3FNZPmVns) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | In & Out | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Jumpin' | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3q21kVfUIdkzqYpzBCbojN) |
@@ -679,6 +680,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.), [Warner Records](../warner_records) | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.), [Warner Records](../warner_records) | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.), [Warner Records](../warner_records) | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="" width="50" /> | Regret of the Times - 2024 aespa Remake Version | Regret of the Times (2024 aespa Remake Version) - SM STATION | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | f(x) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | f(x) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |

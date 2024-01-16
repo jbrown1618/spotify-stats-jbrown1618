@@ -31,11 +31,7 @@ Stray Kids is currently:
 ## Top Tracks
 
 - Thunderous is:
-    - the #39 track of all time
-- Winter Falls is:
-    - the #10 track of the last month
-- Christmas EveL is:
-    - the #17 track of the last month
+    - the #41 track of all time
 
 ### Top tracks of all time over time
 

@@ -157,7 +157,7 @@
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 27 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -169,7 +169,6 @@
 | 4 | 0 | [early music](../../genres/early_music/overview.md) |
 | 4 | 0 | cambridge choir |
 | 4 | 0 | british choir |
-| 3 | 0 | classical drill |
 | 2 | 0 | italian renaissance |
 | 2 | 0 | english baroque |
 | 2 | 0 | [baroque](../../genres/baroque/overview.md) |
@@ -183,7 +182,7 @@
 </details>
 
 
-![Bar chart of top 28 genres](../../images/playlists/choral/genres.png)
+![Bar chart of top 27 genres](../../images/playlists/choral/genres.png)
 
 ## Years
 

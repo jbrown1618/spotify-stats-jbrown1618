@@ -235,7 +235,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 17 | 10 | [pop](../../genres/pop/overview.md) |
-| 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean indie rock |
 | 2 | 2 | k-rock |

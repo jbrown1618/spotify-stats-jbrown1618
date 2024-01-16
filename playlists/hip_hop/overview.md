@@ -201,7 +201,7 @@
 | 31 | 15 | [rap](../../genres/rap/overview.md) |
 | 24 | 10 | hip hop |
 | 9 | 8 | [pop](../../genres/pop/overview.md) |
-| 7 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
+| 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
 | 8 | 3 | conscious hip hop |

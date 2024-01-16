@@ -85,18 +85,17 @@ Appears as:
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 7 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 7 | 0 | british modern classical |
-| 1 | 0 | classical drill |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/deutsche_grammophon_(dg)/genres.png)
+![Bar chart of top 12 genres](../../images/labels/deutsche_grammophon_(dg)/genres.png)
 
 ## Tracks released under Deutsche Grammophon (DG)
 

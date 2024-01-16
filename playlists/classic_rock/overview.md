@@ -187,7 +187,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 98 | 63 | [rock](../../genres/rock/overview.md) |
+| 100 | 64 | [rock](../../genres/rock/overview.md) |
 | 95 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
 | 39 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
 | 45 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |

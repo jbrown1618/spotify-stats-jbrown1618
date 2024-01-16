@@ -16,8 +16,8 @@ WINTER:
 ## Top Tracks
 
 - NOBODY is:
-    - the #35 track of the last month
-    - the #32 track of the last 6 months
+    - the #20 track of the last month
+    - the #30 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

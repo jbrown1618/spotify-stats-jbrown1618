@@ -10,14 +10,9 @@
 
 ## Artist Rank
 Michael Bublé is currently:
-- The #17 artist of the last month
-- The #47 artist of the last 6 months
+- The #48 artist of the last 6 months
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
-## Top Tracks
-
-- Baby It's Cold Outside (with Michael Bublé) is:
-    - the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

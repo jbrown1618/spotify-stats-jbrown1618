@@ -62,21 +62,20 @@ Appears as:
 | 74 | 0 | [classical](../../genres/classical/overview.md) |
 | 55 | 0 | [russian romanticism](../../genres/russian_romanticism/overview.md) |
 | 55 | 0 | [late romantic era](../../genres/late_romantic_era/overview.md) |
-| 55 | 0 | classical drill |
 | 16 | 0 | italian baroque |
 | 16 | 0 | [early music](../../genres/early_music/overview.md) |
 | 16 | 0 | [baroque](../../genres/baroque/overview.md) |
 | 5 | 0 | puirt-a-beul |
 | 4 | 0 | vocal ensemble |
 | 4 | 0 | polyphony |
+| 4 | 0 | choral |
 
 
 <details>
-<summary>See all 16 genres</summary>
+<summary>See all 15 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 4 | 0 | choral |
 | 4 | 0 | cambridge choir |
 | 4 | 0 | british choir |
 | 3 | 0 | [classical era](../../genres/classical_era/overview.md) |
@@ -86,7 +85,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 16 genres](../../images/labels/warner_classics/genres.png)
+![Bar chart of top 15 genres](../../images/labels/warner_classics/genres.png)
 
 ## Tracks released under Warner Classics
 

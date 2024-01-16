@@ -11,7 +11,9 @@ JEON SOYEON:
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #31 artist of all time
+- The #39 artist of the last month
+- The #42 artist of the last 6 months
+- The #32 artist of all time
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)
 ## Top Tracks
@@ -21,12 +23,16 @@ JEON SOYEON is currently:
 - DESSERT is:
     - the #33 track of all time
 - NOBODY is:
-    - the #35 track of the last month
-    - the #32 track of the last 6 months
+    - the #20 track of the last month
+    - the #30 track of the last 6 months
 
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/jeon_soyeon/track_rank_time_series_long_term.png)
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/jeon_soyeon/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

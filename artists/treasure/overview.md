@@ -80,7 +80,7 @@ TREASURE is currently:
 | | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
 | | 현석 (Hyunsuk) | 1 | Lyricist |
 | | R.Tee | 1 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0b55245feb8eff0aa5de40d5" alt="" width="50" /> | YENA | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | [YENA](../yena/overview.md) | 1 | Arranger |
 | | かねもと よしのり (Kanemoto Yoshinori) | 1 | Lyricist |
 
 ![Bar chart of top 5 producers](../../images/artists/treasure/producers.png)

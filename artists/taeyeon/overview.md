@@ -24,10 +24,14 @@ TAEYEON is currently:
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
-- I Got Love is:
-    - the #39 track of the last 6 months
 - To. X is:
+    - the #33 track of the last 6 months
+- I Got Love is:
     - the #40 track of the last 6 months
+- Melt Away is:
+    - the #26 track of the last month
+- Burn It Down is:
+    - the #31 track of the last month
 
 ### Top tracks of the last 6 months over time
 

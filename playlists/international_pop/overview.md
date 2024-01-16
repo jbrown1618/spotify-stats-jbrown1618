@@ -372,7 +372,6 @@
 | 3 | 2 | reggaeton |
 | 3 | 2 | bitpop |
 | 2 | 2 | v-pop |
-| 2 | 2 | shibuya-kei |
 | 2 | 2 | picopop |
 | 2 | 2 | latin viral pop |
 | 2 | 2 | italian pop |
@@ -448,6 +447,7 @@
 | 1 | 0 | israeli rock |
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
+| 1 | 0 | finnish pop |
 
 </details>
 

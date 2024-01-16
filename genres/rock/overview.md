@@ -1,6 +1,6 @@
 # rock
 
-216 songs
+218 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 53 artists</summary>
+<summary>See all 54 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -44,6 +44,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 2 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
@@ -154,6 +155,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | 1 | 1 | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="" width="50" /> | 1 | 1 | Metallica (Remastered) | 1991-08-12 | [🔗](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | 1 | 1 | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
@@ -187,7 +189,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc386376636cb6b383221fd8" alt="" width="50" /> | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | 1 | 0 | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="" width="50" /> | 1 | 0 | The Essential Van Morrison | 2015-12-04 | [🔗](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) |
 
 </details>
 
@@ -203,8 +204,8 @@
 | 16 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 18 | 12 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 24 | 10 | [Warner Records](../../labels/warner_records/overview.md) |
+| 14 | 5 | [Rhino](../../labels/rhino/overview.md) |
 | 9 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
-| 12 | 4 | [Rhino](../../labels/rhino/overview.md) |
 | 5 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 5 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 9 | 3 | Pink Floyd Records |
@@ -262,11 +263,11 @@
 | | John Lennon | 20 | Songwriter |
 | | Paul McCartney | 20 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | Ed O'Brien | 12 | Songwriter |
-| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
-| | Philip Selway | 12 | Songwriter |
 | | Nigel Godrich | 12 | Producer |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
+| | Philip Selway | 12 | Songwriter |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
+| | Ed O'Brien | 12 | Songwriter |
 | | Colin Greenwood | 12 | Songwriter |
 
 
@@ -278,93 +279,93 @@
 | | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
 | | Geoff Emerick | 10 | Producer |
-| | Phil Ramone | 9 | Producer |
+| | Jim Boyer | 9 | Producer |
 | | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
 | | Glyn Johns | 9 | Producer |
-| | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
 | | Phil McDonald | 8 | Producer |
 | | Freddie Mercury | 7 | Songwriter, Lyricist |
-| | Norman Smith | 6 | Producer |
-| | Mike Stone | 6 | Producer |
 | | Roger Taylor | 6 | Songwriter, Producer |
 | | Roy Thomas Baker | 6 | Producer |
-| | Chris Thomas | 5 | Producer |
+| | Norman Smith | 6 | Producer |
+| | Mike Stone | 6 | Producer |
 | | Thomas Bangalter | 5 | Producer, Songwriter |
-| | Pete Townshend | 5 | Lyricist, Songwriter |
 | | Guy-Manuel de Homem-Christo | 5 | Producer, Songwriter |
+| | Chris Thomas | 5 | Producer |
+| | Pete Townshend | 5 | Lyricist, Songwriter |
 | | Rick Rubin | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
-| | Wayne Sermon | 3 | Songwriter |
-| | Joe Newman | 3 | Songwriter |
 | | Gus Unger-Hamilton | 3 | Songwriter |
-| | Dan Reynolds | 3 | Songwriter |
-| | Charlie Andrew | 3 | Producer, Songwriter |
-| | John Leckie | 3 | Producer |
-| | Geoff Workman | 3 | Producer |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
-| | Thom Green | 3 | Songwriter |
-| | John Deacon | 3 | Songwriter, Lyricist |
 | | Kris Fredriksson | 3 | Producer |
+| | John Leckie | 3 | Producer |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Wayne Sermon | 3 | Songwriter |
+| | Geoff Workman | 3 | Producer |
+| | Sean Slade | 3 | Producer |
+| | Roy Halee | 3 | Producer |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 3 | Lyricist, Songwriter, Producer |
+| | Ken Scott | 3 | Producer |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Art Garfunkel | 3 | Producer |
+| | Dan Reynolds | 3 | Songwriter |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+| | Charlie Andrew | 3 | Producer, Songwriter |
+| | Joe Newman | 3 | Songwriter |
+| | Thom Green | 3 | Songwriter |
 | | Ben McKee | 3 | Songwriter |
 | | Mack | 3 | Producer |
-| | Paul Q. Kolderie | 3 | Producer |
-| | Roy Halee | 3 | Producer |
-| | Ken Scott | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
-| | Sean Slade | 3 | Producer |
-| | Matt Bellamy | 3 | Lyricist, Songwriter |
-| | Gwil Sainsbury | 3 | Songwriter |
-| | Roger Waters | 3 | Lyricist, Songwriter |
-| | Art Garfunkel | 3 | Producer |
-| | Jim Warren | 2 | Producer |
+| | John Deacon | 3 | Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
-| | Hugo Nicolson | 2 | Producer |
-| | Josh Mosser | 2 | Producer, Songwriter |
-| | Bob Rock | 2 | Producer |
-| | Michael Stewart | 2 | Producer |
-| | David DeVore | 2 | Producer |
-| | Manny Marroquin | 2 | Producer |
-| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
-| | Tommaso Colliva | 2 | Producer |
-| | Chris Blair | 2 | Producer |
-| | Neal Avron | 2 | Producer |
-| | Trent Reznor | 2 | Lyricist, Songwriter, Arranger, Producer |
-| | Ted Brosnan | 2 | Producer |
-| | Alex da Kid | 2 | Producer, Songwriter |
-| | Michael Omartian | 2 | Arranger |
-| | Lars Ulrich | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
 | | Stevie Nicks | 2 | Lyricist, Songwriter |
-| | Keith Olsen | 2 | Producer |
+| | Bob Rock | 2 | Producer |
+| | Manny Marroquin | 2 | Producer |
 | | Jeff Jarratt | 2 | Producer |
-| | James Hetfield | 2 | Producer, Songwriter |
-| | Richard Woodcraft | 2 | Producer |
-| | Hayley Williams | 2 | Songwriter |
-| | Barry Mraz | 2 | Producer |
 | | Randy Staub | 2 | Producer |
-| | John Etchells | 2 | Producer |
-| | Rob Kingsland | 2 | Producer |
-| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
-| | Bernie Taupin | 2 | Lyricist |
-| | Ron Malo | 2 | Producer |
-| | Alan Parsons | 2 | Producer |
-| | Barry Sheffield | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Neal Avron | 2 | Producer |
 | | Phil Spector | 2 | Producer |
+| | Jim Warren | 2 | Producer |
+| | Ted Brosnan | 2 | Producer |
+| | Lars Ulrich | 2 | Producer, Songwriter |
+| | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
+| | Keith Olsen | 2 | Producer |
+| | Hayley Williams | 2 | Songwriter |
+| | James Hetfield | 2 | Producer, Songwriter |
 | | Dan Grech-Marguerat | 2 | Producer |
-| | Don Puluse | 2 | Producer |
-| | Adrian Bushby | 2 | Producer |
-| | George Harrison | 2 | Lyricist, Songwriter |
+| | Alan Parsons | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
 | | Jason Lader | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
+| | Trent Reznor | 2 | Lyricist, Songwriter, Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
+| | Bernie Taupin | 2 | Lyricist |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| | Barry Mraz | 2 | Producer |
+| | Ron Malo | 2 | Producer |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Michael Omartian | 2 | Arranger |
+| | David DeVore | 2 | Producer |
+| | Michael Stewart | 2 | Producer |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| | Chris Blair | 2 | Producer |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Don Puluse | 2 | Producer |
+| | John Etchells | 2 | Producer |
+| | Barry Sheffield | 2 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Hugo Nicolson | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
 | | Mick Jones | 2 | Producer, Songwriter |
-| | David Richards | 1 | Producer |
-| | Kerry Livgren | 1 | Lyricist, Songwriter |
-| | Zach Lind | 1 | Songwriter |
-| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | Mark "Spike" Stent | 1 | Producer |
+| | Jim Adkins | 1 | Songwriter |
+| | Fabrizio Moretti | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 
 </details>
 

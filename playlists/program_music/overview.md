@@ -85,9 +85,8 @@
 | 11 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 7 | 0 | british modern classical |
 | 3 | 0 | impressionism |
-| 1 | 0 | classical drill |
 
-![Bar chart of top 10 genres](../../images/playlists/program_music/genres.png)
+![Bar chart of top 9 genres](../../images/playlists/program_music/genres.png)
 
 ## Years
 

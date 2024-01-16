@@ -38,7 +38,6 @@
 ## Genres
 
 - [classical](../../genres/classical/overview.md)
-- classical drill
 - [late romantic era](../../genres/late_romantic_era/overview.md)
 - [russian romanticism](../../genres/russian_romanticism/overview.md)
 

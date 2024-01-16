@@ -13,10 +13,13 @@ AKMU:
 
 ## Artist Rank
 AKMU is currently:
-- The #27 artist of the last month
-- The #22 artist of the last 6 months
+- The #21 artist of the last 6 months
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
+## Top Tracks
+
+- Love Lee is:
+    - the #41 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

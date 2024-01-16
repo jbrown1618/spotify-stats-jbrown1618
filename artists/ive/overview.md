@@ -20,7 +20,7 @@ IVE:
 
 ## Artist Rank
 IVE is currently:
-- The #8 artist of the last month
+- The #6 artist of the last month
 - The #12 artist of the last 6 months
 - The #18 artist of all time
 
@@ -28,10 +28,11 @@ IVE is currently:
 ## Top Tracks
 
 - I AM is:
-    - the #19 track of the last month
-    - the #12 track of the last 6 months
+    - the #7 track of the last month
+    - the #14 track of the last 6 months
 - Baddie is:
-    - the #26 track of the last month
+    - the #12 track of the last month
+    - the #48 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

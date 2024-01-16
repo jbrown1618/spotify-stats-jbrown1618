@@ -139,11 +139,10 @@ Appears as:
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 20 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 2 | shibuya-kei |
 | 2 | 2 | picopop |
 | 2 | 2 | japanese electropop |
 | 2 | 2 | j-pop girl group |
@@ -158,7 +157,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 genres](../../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 20 genres](../../images/labels/universal_music_llc/genres.png)
 
 ## Top Producers
 
