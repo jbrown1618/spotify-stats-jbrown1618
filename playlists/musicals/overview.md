@@ -53,7 +53,7 @@
 | | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | | 3 | 0 | Ensemble - The Lion King | [🔗](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) |
@@ -69,7 +69,7 @@
 | | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
 | <img src="https://i.scdn.co/image/df24566326393b64a534f865986c77d6358fd728" alt="" width="50" /> | 2 | 0 | Russell Crowe | [🔗](https://open.spotify.com/artist/3YBIrJozn8fop4UYIt7wcV) |
 | | 2 | 0 | Broadway Cast of Beauty and the Beast | [🔗](https://open.spotify.com/artist/31gtcs2n8ILyd09TvlSwJt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731291125842111c1f421b0e88" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 2 | 0 | "Cats" 1983 Broadway Cast | [🔗](https://open.spotify.com/artist/2cez574BwRD00PGEbNl4SH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37e09cf7d04a5230616d3bfe" alt="" width="50" /> | 2 | 0 | Kenny Raskin | [🔗](https://open.spotify.com/artist/28OYna1pjzLUp2TrXnkK6p) |

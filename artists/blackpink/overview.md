@@ -18,7 +18,7 @@ BLACKPINK:
 
 ## Artist Rank
 BLACKPINK is currently:
-- The #11 artist of the last month
+- The #10 artist of the last month
 - The #13 artist of the last 6 months
 - The #8 artist of all time
 
@@ -26,7 +26,7 @@ BLACKPINK is currently:
 ## Top Tracks
 
 - Kill This Love is:
-    - the #4 track of all time
+    - the #5 track of all time
 - Pretty Savage is:
     - the #7 track of all time
 - Crazy Over You is:

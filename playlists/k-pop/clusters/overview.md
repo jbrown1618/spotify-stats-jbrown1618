@@ -68,7 +68,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Best Friend (with SEULGI) | Like Water - The 1st Mini Album | [WENDY](../../../../artists/wendy/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu) |
 ## Cluster #5
 
-89 tracks
+88 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -78,7 +78,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Love Yourself 轉 'Tear' | [BTS](../../../../artists/bts/overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Scream | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../../../artists/dreamcatcher/overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 💚 | [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d1078159961f1d436931fd" alt="" width="50" /> | Dark Dream | Dark Dream | E'LAST | Quarter Music | | [🔗](https://open.spotify.com/track/6CWGueLHg5lmG43fy27oJQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 | FOREVER 1 - The 7th Album | [Girls' Generation](../../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Like Crazy | FACE | Jimin | [BIGHIT MUSIC](../../../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | ISTJ | ISTJ - The 3rd Album | [NCT DREAM](../../../../artists/nct_dream/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Chill Kill | Chill Kill - The 3rd Album | [Red Velvet](../../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | Voices | SKZ2020 | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/3zutAkkwy9Ucd9l4H4EReH) |
@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](../../../../artists/j-hope/overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
 ## Cluster #7
 
-114 tracks
+115 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

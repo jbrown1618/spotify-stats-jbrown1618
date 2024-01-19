@@ -19,7 +19,7 @@ AKMU is currently:
 ## Top Tracks
 
 - Love Lee is:
-    - the #41 track of the last month
+    - the #38 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

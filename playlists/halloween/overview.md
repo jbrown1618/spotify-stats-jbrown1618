@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 5 | 5 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 5 | 5 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 5 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 3 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 4 | 3 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 3 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eaaec0372ea5e4f248eaf282" alt="" width="50" /> | 3 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 3 | 3 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 1 | 1 | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 1 | 1 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 1 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 1 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d2f7d9ba199152a396ed07e" alt="" width="50" /> | 1 | 1 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
@@ -366,7 +366,7 @@
 | | Brandon Green | 1 | Arranger, Songwriter |
 | | Omer Fedi | 1 | Songwriter |
 | | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Lyricist |
 | | LYRE | 1 | Arranger |
 | | 권석홍 (Kwon, Seok-hong) | 1 | Arranger |
 | | Zac Baird | 1 | Producer |

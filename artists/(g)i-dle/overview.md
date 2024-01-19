@@ -2,7 +2,7 @@
 # (G)I-DLE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="(G)I-DLE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="(G)I-DLE" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -20,7 +20,7 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #14 artist of the last month
+- The #12 artist of the last month
 - The #8 artist of the last 6 months
 - The #5 artist of all time
 
@@ -30,7 +30,7 @@
 - LATATA is:
     - the #17 track of all time
 - Oh my god is:
-    - the #32 track of the last month
+    - the #30 track of the last month
     - the #31 track of all time
 - Uh-Oh is:
     - the #32 track of all time
@@ -158,7 +158,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../jeon_soyeon/overview.md) | 12 | Lyricist, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../jeon_soyeon/overview.md) | 12 | Lyricist, Songwriter, Arranger |
 | | 최예지 (Choi, Ye-ji) | 7 | Producer |
 | | Riot Games Music Team | 3 | Producer, Songwriter |
 | | 빅싼초 (Bicksancho) | 3 | Songwriter, Arranger |

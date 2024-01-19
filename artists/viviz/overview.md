@@ -2,7 +2,7 @@
 # VIVIZ
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb119dd37374b6443e02508156" alt="VIVIZ" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="VIVIZ" width="100" />
 
 ## Relationships
 

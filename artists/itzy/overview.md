@@ -40,13 +40,13 @@ ITZY is currently:
 - BORN TO BE is:
     - the #3 track of the last month
 - Mine (CHAERYEONG) is:
-    - the #10 track of the last month
-- UNTOUCHABLE is:
     - the #11 track of the last month
+- UNTOUCHABLE is:
+    - the #12 track of the last month
 - Crown On My Head (YEJI) is:
-    - the #25 track of the last month
+    - the #22 track of the last month
 - Dynamite is:
-    - the #35 track of the last month
+    - the #27 track of the last month
 
 ### Top tracks of all time over time
 

@@ -31,7 +31,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731291125842111c1f421b0e88" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | | 1 | 0 | Michelle Federer | [🔗](https://open.spotify.com/artist/724Af947xg6pNu4xiwhYsV) |
 | | 1 | 0 | Jan Neuberger | [🔗](https://open.spotify.com/artist/5LATQYuPWELZCDEdGYN5YH) |

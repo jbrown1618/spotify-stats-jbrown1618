@@ -1,6 +1,6 @@
 # pop
 
-625 songs
+626 songs
 
 [See Track Features](audio_features.md)
 
@@ -34,7 +34,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 10 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 10 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 7 | 6 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 10 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 11 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 8 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 6 | 5 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 5 | 5 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
@@ -181,6 +181,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 3 | 2 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | 3 | 2 | Planet Her | 2021-06-25 | [🔗](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="" width="50" /> | 3 | 2 | Millennium | 1999-05-18 | [🔗](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) |
@@ -229,7 +230,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 2 | 2 | A Rush of Blood to the Head | 2002-08-08 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 2 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 2 | 1 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 2 | 1 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | 2 | 1 | So Much (For) Stardust | 2023-03-24 | [🔗](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | 2 | 1 | SQUARE TWO | 2016-11-01 | [🔗](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 2 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
@@ -276,17 +276,17 @@
 | 10 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 7 | 5 | Fave Entertainment |
 | 6 | 5 | Kemosabe Records |
-| 10 | 4 | [HYBE](../../labels/hybe/overview.md) |
 | 7 | 4 | Parkwood Entertainment |
 | 5 | 4 | Beluga Heights |
 | 5 | 4 | Atlantic Records UK |
 | 4 | 4 | Olivia Rodrigo PS |
+| 9 | 3 | [HYBE](../../labels/hybe/overview.md) |
 | 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 6 | 3 | Aftermath Entertainment |
 | 5 | 3 | Music World Music |
 | 4 | 3 | Parlophone Records Limited |
 | 3 | 3 | Kid Ina Korner |
-| 6 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
+| 7 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 5 | 2 | RBMG |
 | 5 | 2 | Def Jam |
 | 4 | 2 | 19 Recordings Limited |

@@ -29,14 +29,14 @@ aespa is currently:
     - the #29 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
-    - the #3 track of all time
+    - the #4 track of all time
 - Black Mamba is:
     - the #25 track of all time
 - Illusion is:
     - the #17 track of the last 6 months
     - the #29 track of all time
 - Drama is:
-    - the #19 track of the last month
+    - the #17 track of the last month
     - the #1 track of the last 6 months
 - Better Things is:
     - the #4 track of the last month
@@ -49,7 +49,7 @@ aespa is currently:
     - the #2 track of the last month
     - the #10 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #38 track of the last month
+    - the #35 track of the last month
     - the #15 track of the last 6 months
 - Hold On Tight is:
     - the #19 track of the last 6 months

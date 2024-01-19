@@ -21,7 +21,7 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #23 artist of the last month
+- The #22 artist of the last month
 - The #32 artist of the last 6 months
 - The #12 artist of all time
 
@@ -47,11 +47,11 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | 4 | 3 | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | 4 | 3 | Love Yourself 轉 'Tear' | 2018-05-18 | [🔗](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | 2 | 2 | Wings | 2016-10-10 | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 2 | 1 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | 2 | 0 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 | 0 | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
 
@@ -62,7 +62,6 @@ BTS is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | 1 | 1 | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 1 | 1 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
@@ -80,7 +79,7 @@ BTS is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 35 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
-| 10 | 4 | [HYBE](../../labels/hybe/overview.md) |
+| 9 | 3 | [HYBE](../../labels/hybe/overview.md) |
 | 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | [Columbia](../../labels/columbia/overview.md) |
@@ -224,7 +223,7 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | War of Hormone | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | | [🔗](https://open.spotify.com/track/3D26URfsMlCNaa51mj9jOt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life Pt.2 | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 💚 | [🔗](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life: Young Forever | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/2QP1vvLPtAVOVAFabpqypA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Dope | The Most Beautiful Moment in Life: Young Forever | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/4o3Ao6wY5fbJR32fQKabfQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Save Me | The Most Beautiful Moment in Life: Young Forever | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | | [🔗](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Wings | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 💚 | [🔗](https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom) |

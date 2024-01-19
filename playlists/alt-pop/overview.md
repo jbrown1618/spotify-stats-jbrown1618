@@ -62,7 +62,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb245e3a1c6500880fbd051dbd" alt="" width="50" /> | 1 | 1 | Will Jordan | [🔗](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f0886b07bb4ce79c9b382bd" alt="" width="50" /> | 1 | 1 | Caravan Palace | [🔗](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12fd1bd22516e35ef8c2e591" alt="" width="50" /> | 1 | 1 | David Kushner | [🔗](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb294a7d2471e93dbe50822532" alt="" width="50" /> | 1 | 1 | David Kushner | [🔗](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) |
 | | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd6d6884efde36c13c1054f7" alt="" width="50" /> | 1 | 1 | Theo Katzman | [🔗](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf018a2d49a7c11a1bd78130" alt="" width="50" /> | 1 | 1 | Jennifer Nettles | [🔗](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) |
@@ -70,7 +70,7 @@
 | <img src="https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c" alt="" width="50" /> | 1 | 1 | Gotye | [🔗](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | 1 | 1 | Anne-Marie | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65b7b48eeac1b113c75f2295" alt="" width="50" /> | 1 | 1 | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08601936accce3aca5ec1a89" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7619ca2683b434e139040f70" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ffd6ba0060b5d7305b7eba2" alt="" width="50" /> | 1 | 1 | Ripe | [🔗](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca25f8ab46855bc337be5180" alt="" width="50" /> | 1 | 1 | GoldFish | [🔗](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) |

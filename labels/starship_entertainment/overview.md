@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 13 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 13 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8786ccb6031a3266bb15606" alt="" width="50" /> | 5 | 5 | [WJSN](../../artists/wjsn/overview.md) | [🔗](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 6 | 3 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |

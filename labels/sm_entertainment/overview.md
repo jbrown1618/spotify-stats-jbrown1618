@@ -1,6 +1,6 @@
 # SM Entertainment
 
-328 songs
+327 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,8 +10,8 @@ Appears as:
 - SM Entertainment (304 tracks)
 - SM Entertainment / Warner Records (19 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
-- SM Entertainment/RCA Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
+- SM Entertainment/RCA Records (1 tracks)
 
 ## Top Artists
 
@@ -49,12 +49,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 3 | 3 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9ebaed4aff83909fedc1dd6" alt="" width="50" /> | 4 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 2 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 3 | 2 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02540455027f77fe3abc9cea" alt="" width="50" /> | 2 | 2 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 2 | 2 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 2 | 2 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4367980a14d672cab9ed634b" alt="" width="50" /> | 2 | 2 | TEN | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 2 | 2 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89064bc3e362d345bb6035f3" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | 3 | 1 | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 2 | 1 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
@@ -83,7 +83,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbc482112d05638e35eb3ade9" alt="" width="50" /> | 1 | 0 | SUHO | [🔗](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01f8ba723ccf1dfd6e9b5836" alt="" width="50" /> | 1 | 0 | YANGYANG | [🔗](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb606e69dd8da79794f2f2f58d" alt="" width="50" /> | 1 | 0 | HENDERY | [🔗](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad9d5fda1f59672d31163ad5" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba123a8867dccb4d414e7d2f9" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde2a6b0e488b390729d46c4a" alt="" width="50" /> | 1 | 0 | KANGTA | [🔗](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Nile Lee | [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6c2a5ea9ef6fc4d5bfda7278" alt="" width="50" /> | 1 | 0 | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
@@ -479,7 +479,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | Baggy Jeans | Golden Age - The 4th Album | [NCT U](../../artists/nct_u/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | PADO | Golden Age - The 4th Album | [NCT U](../../artists/nct_u/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7mLHba9b39oYWxxGVbPBXX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27306e3965d1fcfc15fca941989" alt="" width="50" /> | DICE | DICE - The 2nd Mini Album | ONEW | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738773ae7641a2ee7d8b9e532e" alt="" width="50" /> | Get A Guitar | Get A Guitar | RIIZE | [RCA Records Label](../rca_records_label), [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="" width="50" /> | Get A Guitar | Get A Guitar | RIIZE | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="" width="50" /> | Talk Saxy | Talk Saxy | RIIZE | [RCA Records Label](../rca_records_label), [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) |
 | <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="" width="50" /> | 행복 (Happiness) | The 1st Single '행복(Happiness)' | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) |

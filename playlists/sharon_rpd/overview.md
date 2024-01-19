@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[66 tracks (49 liked) 🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy)
+[67 tracks (49 liked) 🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy)
 
 [See Track Features](audio_features.md)
 
@@ -19,14 +19,14 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 5 | 3 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 2 | 2 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 2 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8acf72a6c3da24a6483255fa" alt="" width="50" /> | 1 | 1 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 
 
 <details>
-<summary>See all 55 artists</summary>
+<summary>See all 56 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -55,8 +55,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 1 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 2 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 1 | 0 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af" alt="" width="50" /> | 1 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8cb4e620836d2131fa92939" alt="" width="50" /> | 1 | 0 | KAYTRANADA | [🔗](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 1 | 0 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -73,6 +73,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb913546735179224ab92142b3" alt="" width="50" /> | 1 | 0 | Amaarae | [🔗](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebff58853777d52a0bbb1a78da" alt="" width="50" /> | 1 | 0 | Russ | [🔗](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe43df4cc104a9cc9c11b0b97" alt="" width="50" /> | 1 | 0 | Tyla Yaweh | [🔗](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) |
 | | 1 | 0 | LACHICA | [🔗](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
@@ -100,7 +101,7 @@
 
 
 <details>
-<summary>See all 60 albums</summary>
+<summary>See all 61 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -149,6 +150,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | 1 | 0 | Over It | 2019-10-04 | [🔗](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 1 | 0 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 1 | 0 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | 1 | 0 | Heart Full of Rage 2 | 2023-08-04 | [🔗](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d942f44a7011b3b54493edb3" alt="" width="50" /> | 1 | 0 | HANDSOMER | 2022-02-04 | [🔗](https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8ddabbbb56597f7f1fc6828" alt="" width="50" /> | 1 | 0 | Fountain Baby | 2023-06-09 | [🔗](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | 1 | 0 | Brother Act. | 2017-10-16 | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
@@ -177,7 +179,7 @@
 
 
 <details>
-<summary>See all 39 labels</summary>
+<summary>See all 41 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -200,10 +202,12 @@
 | 2 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | RBMG |
+| 1 | 0 | London Ent. |
 | 1 | 0 | LVRN |
 | 1 | 0 | KAYTRANADA |
 | 1 | 0 | Jay-Z |
 | 1 | 0 | Golden Angel |
+| 1 | 0 | [Epic](../../labels/epic/overview.md) |
 | 1 | 0 | Def Jam |
 | 1 | 0 | DIEMON |
 | 1 | 0 | Chris Brown Entertainment |
@@ -233,7 +237,7 @@
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 30 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -244,6 +248,7 @@
 | 1 | 1 | atl hip hop |
 | 2 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 0 | alternative r&b |
+| 1 | 0 | melodic rap |
 | 1 | 0 | lgbtq+ hip hop |
 | 1 | 0 | indie soul |
 | 1 | 0 | hawaiian hip hop |
@@ -253,13 +258,14 @@
 | 1 | 0 | escape room |
 | 1 | 0 | east coast hip hop |
 | 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
+| 1 | 0 | cali rap |
 | 1 | 0 | afrobeats |
 | 1 | 0 | afro r&b |
 
 </details>
 
 
-![Bar chart of top 28 genres](../../images/playlists/sharon_rpd/genres.png)
+![Bar chart of top 30 genres](../../images/playlists/sharon_rpd/genres.png)
 
 ## Top Producers
 
@@ -385,7 +391,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2023 | 12 |
+| 2023 | 13 |
 | [2022](2022.md) | 20 |
 | 2021 | 14 |
 | 2020 | 5 |
@@ -406,10 +412,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | The Blueprint 3 (2009-09-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Street Woman Fighter2 (SWF2) Class Mission (2023-09-05) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | Purpose (Deluxe) (2015-11-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | The Most Beautiful Moment in Life: Young Forever (2016-05-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8ddabbbb56597f7f1fc6828" alt="Fountain Baby" width="50" /> | Fountain Baby (2023-06-09) | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="SQUARE ONE" width="50" /> | SQUARE ONE (2016-08-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="SQUARE TWO" width="50" /> | SQUARE TWO (2016-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376a39689fe9e5753586f8ba9" alt="That Karma" width="50" /> | That Karma (2023-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Brother Act. (2017-10-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" alt="SYRE" width="50" /> | SYRE (2017-11-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> | NCT 2018 EMPATHY (2018-03-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="Ay-Yo - The 4th Album Repackage" width="50" /> | Ay-Yo - The 4th Album Repackage (2023-01-30) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | Love Yourself 結 'Answer' (2018-08-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans &#x27;OMG&#x27;" width="50" /> | NewJeans 'OMG' (2023-01-02) | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | Magical (2018-09-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="Heart Full of Rage 2" width="50" /> | Heart Full of Rage 2 (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="SQUARE ONE" width="50" /> | SQUARE ONE (2016-08-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8ddabbbb56597f7f1fc6828" alt="Fountain Baby" width="50" /> | Fountain Baby (2023-06-09) | <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="SQUARE TWO" width="50" /> | SQUARE TWO (2016-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | DARK BLOOD (2023-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Brother Act. (2017-10-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376a39689fe9e5753586f8ba9" alt="That Karma" width="50" /> | That Karma (2023-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" alt="SYRE" width="50" /> | SYRE (2017-11-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | UNFORGIVEN (2023-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> | NCT 2018 EMPATHY (2018-03-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | Love Yourself 結 'Answer' (2018-08-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="Ay-Yo - The 4th Album Repackage" width="50" /> | Ay-Yo - The 4th Album Repackage (2023-01-30) | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | Magical (2018-09-04) |

@@ -2,7 +2,7 @@
 # IVE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="IVE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="IVE" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -31,8 +31,10 @@ IVE is currently:
     - the #7 track of the last month
     - the #14 track of the last 6 months
 - Baddie is:
-    - the #12 track of the last month
+    - the #14 track of the last month
     - the #48 track of the last 6 months
+- Either Way is:
+    - the #50 track of the last month
 
 ### Top tracks of the last 6 months over time
 

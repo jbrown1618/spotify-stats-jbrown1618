@@ -30,9 +30,9 @@ LE SSERAFIM is currently:
 - UNFORGIVEN (feat. Nile Rodgers) is:
     - the #34 track of the last 6 months
 - Perfect Night is:
-    - the #29 track of the last month
+    - the #28 track of the last month
 - FEARLESS is:
-    - the #44 track of the last month
+    - the #41 track of the last month
 
 ### Top tracks of the last 6 months over time
 

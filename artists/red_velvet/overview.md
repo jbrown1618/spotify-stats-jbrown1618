@@ -28,7 +28,7 @@ Red Velvet is currently:
 ## Top Tracks
 
 - Bad Boy is:
-    - the #5 track of all time
+    - the #3 track of all time
 - 러시안 룰렛 Russian Roulette is:
     - the #13 track of all time
 - Dumb Dumb is:
@@ -43,15 +43,15 @@ Red Velvet is currently:
 - One Kiss is:
     - the #18 track of the last 6 months
 - Nightmare is:
-    - the #28 track of the last month
+    - the #26 track of the last month
     - the #20 track of the last 6 months
 - Bulldozer is:
-    - the #23 track of the last month
+    - the #20 track of the last month
     - the #27 track of the last 6 months
 - 7월 7일 One Of These Nights is:
     - the #37 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #24 track of the last month
+    - the #21 track of the last month
     - the #44 track of the last 6 months
 - Beautiful Christmas is:
     - the #50 track of the last 6 months

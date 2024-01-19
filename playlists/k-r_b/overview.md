@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6472c5305d09322b09ca2c9b" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6807bb7c7282b00fc618d598" alt="" width="50" /> | 3 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b4f4e41ade4e4d1216ef20a" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5607fb8bdd9008b222ce94a" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 4 | 2 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 3 | 2 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 3 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
@@ -87,7 +87,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354f59f3c926ef815f9af7ff" alt="" width="50" /> | 1 | 0 | Busker Busker | [🔗](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18f53034a71f23a550f0d39a" alt="" width="50" /> | 1 | 0 | Onestar | [🔗](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d2bfc098216c772bdfb7003" alt="" width="50" /> | 1 | 0 | Rolling Quartz | [🔗](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93e2ce2a89750ea98891fe52" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaa5dec1668904aaf35784fab" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce345a76e6fc6238e85005cd" alt="" width="50" /> | 1 | 0 | YongYong | [🔗](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8710e81206a88916a269edd4" alt="" width="50" /> | 1 | 0 | dori | [🔗](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78125a2515bc78080b2833e8" alt="" width="50" /> | 1 | 0 | cherryfilter | [🔗](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) |

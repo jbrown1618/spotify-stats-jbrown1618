@@ -45,7 +45,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | | 1 | 1 | Bang Chan | [🔗](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | 1 | 1 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b79884e3182a75026eaace88" alt="" width="50" /> | 1 | 1 | Changbin (Stray Kids) | [🔗](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6807bb7c7282b00fc618d598" alt="" width="50" /> | 1 | 1 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |

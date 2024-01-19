@@ -10,8 +10,8 @@
 
 ## Artist Rank
 LeeHi is currently:
-- The #16 artist of the last month
-- The #11 artist of the last 6 months
+- The #27 artist of the last month
+- The #10 artist of the last 6 months
 - The #13 artist of all time
 
 ![Rank of LeeHi over time](../../images/artists/leehi/rank_time_series.png)
@@ -19,10 +19,8 @@ LeeHi is currently:
 
 - HOLO is:
     - the #14 track of all time
-- BREATHE is:
-    - the #17 track of the last month
 - HOLD MY HAND is:
-    - the #36 track of the last month
+    - the #33 track of the last month
 
 ### Top tracks of all time over time
 
@@ -38,7 +36,7 @@ LeeHi is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 12 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 8 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734897a7925914a3a10ce68c31ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273bf5f4138ebc9ba3fd6f0cde9ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 4 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f5ee4f944ec0f98e4e84363d" alt="" width="50" /> | 2 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733f59e13ff902e5bc226bdad8ab67616d0000b273cc40d4c1c8fa572b05d62703ab67616d0000b273ec10f247b100da1ce0d80b6dab67616d0000b273f5ee4f944ec0f98e4e84363d" alt="" width="50" /> | 2 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |

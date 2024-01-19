@@ -4,6 +4,10 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="Coldplay" width="100" />
 
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
+
 ## Relationships
 
 Coldplay:
@@ -22,6 +26,7 @@ Coldplay:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 5 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732d73b1bb77cee09f0278be04ab67616d0000b2736f50b3400595b123a916e0dcab67616d0000b2739ab215825eb77076b1b4b387ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733f59e13ff902e5bc226bdad8ab67616d0000b273cc40d4c1c8fa572b05d62703ab67616d0000b273ec10f247b100da1ce0d80b6dab67616d0000b273f5ee4f944ec0f98e4e84363d" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27303668e3f13559554eca8ccc6ab67616d0000b2730eb56329734f9400c1639359ab67616d0000b27314ed51ab46ef0765182bb8a0ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
@@ -34,6 +39,7 @@ Coldplay:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="" width="50" /> | 1 | 0 | Christmas Lights | 2010-12-01 | [🔗](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) |
 
@@ -42,7 +48,7 @@ Coldplay:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 4 | 3 | Parlophone Records Limited |
-| 6 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
+| 7 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 
 ## Genres
 
@@ -122,3 +128,14 @@ Coldplay:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Paradise | Mylo Xyloto | [Coldplay](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Princess of China | Mylo Xyloto | [Coldplay](overview.md), [Rihanna](../rihanna/overview.md) | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | BrokEn | Everyday Life | [Coldplay](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/1cXXhzPnbrXjNQYbLdUJdy) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](overview.md), We Are KING, Jacob Collier | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
+
+</details>
+

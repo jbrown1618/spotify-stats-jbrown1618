@@ -230,9 +230,9 @@ Appears as:
 | 1 | 1 | azontobeats |
 | 1 | 1 | australian rock |
 | 1 | 1 | afrobeats |
+| 4 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz |
-| 3 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | bebop |
 | 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 2 | 0 | pop dance |

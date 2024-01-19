@@ -13,7 +13,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 76 | 58 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="" width="50" /> | 45 | 33 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 44 | 30 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 42 | 26 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 42 | 26 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 32 | 26 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 28 | 21 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 19 | 16 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -28,7 +28,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 13 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 13 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 12 | 9 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 15 | 8 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="" width="50" /> | 8 | 7 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 8 | 5 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 6 | 5 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3efc9370be86846bbac90487" alt="" width="50" /> | 6 | 5 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb119dd37374b6443e02508156" alt="" width="50" /> | 5 | 5 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 5 | 5 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 7 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 6 | 4 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 6 | 4 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
@@ -335,7 +335,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 12 | Lyricist, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 12 | Lyricist, Songwriter, Arranger |
 | | R.Tee | 12 | Arranger, Producer, Songwriter |
 | | Ollounder | 11 | Arranger, Lyricist, Songwriter |
 | | 김병석 (Kim, Byung-seok) | 11 | Songwriter, Arranger, Lyricist, Producer |

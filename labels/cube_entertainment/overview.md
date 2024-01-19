@@ -1,6 +1,6 @@
 # CUBE ENTERTAINMENT
 
-43 songs
+44 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - CUBE ENTERTAINMENT (21 tracks)
-- Cube Entertainment (18 tracks)
+- Cube Entertainment (19 tracks)
 - CUBE ENTERTAINMENT INC./88rising Music (3 tracks)
 - CUBE Entertainment (1 tracks)
 
@@ -16,17 +16,18 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 24 | 18 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 24 | 18 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 4 | 4 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 3 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 2 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | 1 | 1 | Trouble Maker | [🔗](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb091c34da2d67e72099260882" alt="" width="50" /> | 2 | 0 | HyunA | [🔗](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 2 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="" width="50" /> | 1 | 0 | Hui | [🔗](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb080109ba641204f8c80d2b5e" alt="" width="50" /> | 1 | 0 | Beast | [🔗](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) |
 
-![Bar chart of top 9 artists](../../images/labels/cube_entertainment/artists.png)
+![Bar chart of top 10 artists](../../images/labels/cube_entertainment/artists.png)
 
 ## Top Albums
 
@@ -45,7 +46,7 @@ Appears as:
 
 
 <details>
-<summary>See all 24 albums</summary>
+<summary>See all 25 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -55,6 +56,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | 1 | 1 | CRYSTYLE | 2017-01-17 | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | 1 | 1 | BLACK DRESS | 2018-02-22 | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | 1 | 1 | Act. 7 | 2016-02-01 | [🔗](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="" width="50" /> | 1 | 0 | WHU IS ME : Complex | 2024-01-16 | [🔗](https://open.spotify.com/album/3wyyezKZopI2uO3hDZP9So) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352b3f88b3a587e14b9f7e67c" alt="" width="50" /> | 1 | 0 | The Winter's Tale | 2014-12-22 | [🔗](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="" width="50" /> | 1 | 0 | Lip & Hip | 2017-12-04 | [🔗](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | 1 | 0 | Idle song | 2018-02-28 | [🔗](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) |
@@ -67,7 +69,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 24 albums](../../images/labels/cube_entertainment/albums.png)
+![Bar chart of top 25 albums](../../images/labels/cube_entertainment/albums.png)
 
 ## Genres
 
@@ -77,14 +79,15 @@ Appears as:
 | 19 | 11 | [k-pop](../../genres/k-pop/overview.md) |
 | 7 | 4 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 5 | 3 | korean city pop |
+| 1 | 0 | [korean pop](../../genres/korean_pop/overview.md) |
 
-![Bar chart of top 4 genres](../../images/labels/cube_entertainment/genres.png)
+![Bar chart of top 5 genres](../../images/labels/cube_entertainment/genres.png)
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 9 | Lyricist, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 9 | Lyricist, Songwriter, Arranger |
 | | 최예지 (Choi, Ye-ji) | 5 | Producer |
 | | 빅싼초 (Bicksancho) | 4 | Songwriter, Arranger, Lyricist |
 | | 신재빈 (Shin, Jae Bin) | 3 | Producer |
@@ -168,6 +171,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS | BLACK DRESS | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/4g73tmQQc6pSfe4NMXKrZD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No | No.1 | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/3sygLAUhHsJsQ0cBk6fxRd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="" width="50" /> | Hmm BOP | WHU IS ME : Complex | Hui | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/02b8ldrByRJbFE5M71q34w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="" width="50" /> | Bubble Pop! | Bubble Pop! | HyunA | [CUBE Entertainment](.) | | [🔗](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732088d27bcbb62af9a5df3ab5" alt="" width="50" /> | Lip & Hip | Lip & Hip | HyunA | [CUBE ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | Jelly | Jelly | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/0MsE73sXgfqOpgzCATa0Wt) |

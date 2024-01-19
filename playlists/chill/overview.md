@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 4 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 5 | 4 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be3a5a3bfe963935ed4b2c2" alt="" width="50" /> | 7 | 3 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 4 | 3 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd434a8b25f5a50277b05a402" alt="" width="50" /> | 4 | 3 | [The Rose](../../artists/the_rose/overview.md) | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 3 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 3 | 3 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5607fb8bdd9008b222ce94a" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 4 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 3 | 2 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9927ea0870855be7b3367c79" alt="" width="50" /> | 3 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
@@ -455,7 +455,7 @@
 | | 이연수 (Lee, Yeon-soo) | 3 | Producer |
 | | SCORE | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | FINNEAS | 3 | Producer, Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Arranger, Songwriter |
 | | 13 | 3 | Producer |
 | | 김병석 (Kim, Byung-seok) | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | danke | 3 | Lyricist, Songwriter |

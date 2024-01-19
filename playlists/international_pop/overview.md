@@ -35,10 +35,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24690a5cfac78c3ab19c1746" alt="" width="50" /> | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87dc30e540254e0976c4b478" alt="" width="50" /> | 4 | 1 | Isyana Sarasvati | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03862437b06f5865ab89fd7" alt="" width="50" /> | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92f1b1492d684708437a51b0" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3961ae118e7370b3e38b4289" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
@@ -487,7 +487,7 @@
 | | 板井直樹 (Itai, Naoki) | 1 | Arranger |
 | | EDOMETAL | 1 | Lyricist |
 | | Derek Dixie | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
 | | Kumaar | 1 | Lyricist |
 | | John Hill | 1 | Songwriter |
 | | Richard "P2J" Isong | 1 | Producer, Songwriter |

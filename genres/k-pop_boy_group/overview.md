@@ -42,13 +42,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 9 | 2 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 4 | 2 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8162ce227fb3f8159822aab0" alt="" width="50" /> | 2 | 2 | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb59749ba840544efb98f280f1" alt="" width="50" /> | 2 | 2 | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c4acb1897759452c0ed82d9" alt="" width="50" /> | 2 | 1 | WINNER | [🔗](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84f9ce82754d57d4ee374d42" alt="" width="50" /> | 2 | 1 | VIXX | [🔗](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62d9c0848a4f74f58948ab44" alt="" width="50" /> | 2 | 1 | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74ca2dfde93d9807b2ec18da" alt="" width="50" /> | 2 | 1 | EPEX | [🔗](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebebb34ddba4e4ef87dbb92728" alt="" width="50" /> | 2 | 1 | Block B | [🔗](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb192cbc7c10f37be1afe5f44" alt="" width="50" /> | 2 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb59749ba840544efb98f280f1" alt="" width="50" /> | 2 | 1 | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e1a02f6e15aa1a80cf0b780" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf181c24af596cd241186adb" alt="" width="50" /> | 1 | 1 | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | 1 | 1 | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
@@ -120,6 +120,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | 3 | 3 | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 3 | 3 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 3 | 2 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 3 | 2 | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | 2023-10-23 | [🔗](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) |
@@ -144,7 +145,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | 2 | 2 | Golden Age - The 4th Album | 2023-08-28 | [🔗](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 2 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | 2 | 2 | 20&2 - The 9th Album | 2023-12-26 | [🔗](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 2 | 1 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | 2 | 1 | THE WORLD EP.1 : MOVEMENT | 2022-07-29 | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | 2 | 1 | THE FIRST STEP : TREASURE EFFECT | 2021-01-11 | [🔗](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | 2 | 1 | SEVENTEEN 10th Mini Album 'FML' | 2023-04-24 | [🔗](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) |
@@ -165,7 +165,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | 1 | 1 | Universe (Let's Play Ball) | 2021-12-10 | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | 1 | 1 | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | 1 | 1 | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | 1 | 1 | The 1st Album 'XOXO' (Repackage) | 2013-08-05 | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
@@ -200,6 +199,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | 1 | 1 | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | 1 | 1 | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | 1 | 1 | NEW KIDS REPACKAGE : THE NEW KIDS | 2019-01-07 | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
 
 </details>
 
@@ -228,18 +228,18 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 6 | 5 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
-| 10 | 4 | [HYBE](../../labels/hybe/overview.md) |
 | 8 | 4 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 7 | 4 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 9 | 3 | [HYBE](../../labels/hybe/overview.md) |
 | 3 | 3 | 우조엔터테인먼트 |
 | 3 | 3 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 5 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
-| 3 | 2 | JELLYFISH ENTERTAINMENT |
 | 2 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 2 | 2 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 2 | 2 | RADCOMM |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 1 | Cre.ker Entertainment |
+| 3 | 1 | JELLYFISH ENTERTAINMENT |
 | 3 | 1 | IST Entertainment |
 | 1 | 1 | 브레이브 엔터테인먼트 |
 | 1 | 1 | ㈜ 동요엔터테인먼트 |

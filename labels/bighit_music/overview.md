@@ -7,8 +7,8 @@
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- BIGHIT MUSIC (49 tracks)
-- BIGHIT MUSIC / HYBE (11 tracks)
+- BIGHIT MUSIC (50 tracks)
+- BIGHIT MUSIC / HYBE (10 tracks)
 
 ## Top Artists
 
@@ -57,26 +57,25 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | 3 | 3 | Jack In The Box | 2022-07-15 | [🔗](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | 2 | 2 | Wings | 2016-10-10 | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa60e8a8d5ca09efc6098175" alt="" width="50" /> | 2 | 2 | Indigo | 2022-12-02 | [🔗](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | 2 | 2 | FACE | 2023-03-24 | [🔗](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 2 | 1 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | 2 | 0 | Masquerade | 2023-05-15 | [🔗](https://open.spotify.com/album/65eQsZ1Wq51wjJk2DNH4nm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | 2 | 0 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | 2 | 0 | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | 1 | 1 | The Most Beautiful Moment in Life Pt.2 | 2015-11-30 | [🔗](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d" alt="" width="50" /> | 1 | 1 | Still With You | 2020-06-05 | [🔗](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 1 | 1 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
@@ -88,7 +87,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 27 albums](../../images/labels/bighit_music/albums.png)
+![Bar chart of top 26 albums](../../images/labels/bighit_music/albums.png)
 
 ## Genres
 
@@ -208,7 +207,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | War of Hormone | Dark & Wild | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | | [🔗](https://open.spotify.com/track/3D26URfsMlCNaa51mj9jOt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ac442a54c68aad8f9b93f51" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life Pt.2 | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.), [HYBE](../hybe) | 💚 | [🔗](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life: Young Forever | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2QP1vvLPtAVOVAFabpqypA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Dope | The Most Beautiful Moment in Life: Young Forever | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/4o3Ao6wY5fbJR32fQKabfQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Save Me | The Most Beautiful Moment in Life: Young Forever | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | | [🔗](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Wings | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 💚 | [🔗](https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom) |

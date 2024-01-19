@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 4 | 4 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 4 | 4 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="" width="50" /> | 4 | 4 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 4 | 4 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 4 | 4 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 4 | 4 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 3 | 3 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 3 | 3 | LOONA | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
@@ -44,7 +44,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | 3 | 3 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 3 | 3 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9996e5d7c5b769b2b26ff1a" alt="" width="50" /> | 2 | 2 | [SUPER JUNIOR](../../artists/super_junior/overview.md) | [🔗](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 2 | 2 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9dd6110fc47f859a9bbd2d2" alt="" width="50" /> | 2 | 2 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1ab452846e085c36097def9" alt="" width="50" /> | 2 | 2 | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
@@ -61,7 +61,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | 1 | 1 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c3c7f83cf57525762802a1d" alt="" width="50" /> | 1 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92f1b1492d684708437a51b0" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3961ae118e7370b3e38b4289" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="" width="50" /> | 1 | 1 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
@@ -490,7 +490,7 @@
 | | Ben McKee | 2 | Songwriter |
 | | Ellen Berg Tollbom | 2 | Songwriter, Lyricist |
 | | Marcos Tovar | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
 | | Ronnie Icon | 2 | Lyricist, Songwriter |
 | | 구종필 (Koo, Jong-Pil) | 2 | Producer |
 | | Arschtritt Lindgren | 2 | Songwriter, Producer |

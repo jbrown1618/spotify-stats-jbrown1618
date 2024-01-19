@@ -11,7 +11,7 @@ YENA:
 
 ## Artist Rank
 YENA is currently:
-- The #42 artist of the last month
+- The #39 artist of the last month
 
 
 ## Featured on Playlists

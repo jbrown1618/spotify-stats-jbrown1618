@@ -25,10 +25,6 @@ IU is currently:
     - the #22 track of all time
 - My sea is:
     - the #26 track of all time
-- YOU&I is:
-    - the #48 track of the last month
-- The Red Shoes is:
-    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

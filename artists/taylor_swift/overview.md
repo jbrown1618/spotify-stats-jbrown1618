@@ -10,7 +10,6 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #22 artist of the last month
 - The #18 artist of the last 6 months
 - The #23 artist of all time
 
@@ -19,8 +18,6 @@ Taylor Swift is currently:
 
 - Santa Baby is:
     - the #8 track of the last month
-- Death By A Thousand Cuts is:
-    - the #46 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

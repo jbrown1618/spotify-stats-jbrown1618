@@ -30,9 +30,9 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 3 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 3 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 3 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb119dd37374b6443e02508156" alt="" width="50" /> | 2 | 2 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 2 | 2 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 2 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 2 | 2 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 2 | 2 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3efc9370be86846bbac90487" alt="" width="50" /> | 2 | 2 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 2 | 2 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 2 | 2 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 2 | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 2 | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91269cd424c78943a1fcbeb3" alt="" width="50" /> | 2 | 2 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 2 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 2 | 1 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
@@ -48,7 +48,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | 1 | 1 | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be82149be3774fa0729a543" alt="" width="50" /> | 1 | 1 | [TVXQ!](../../artists/tvxq!/overview.md) | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 1 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 1 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02935e9bc087b1f76665dd77" alt="" width="50" /> | 1 | 1 | EVNNE | [🔗](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
@@ -106,7 +106,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 3 | 2 | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | 2023-10-23 | [🔗](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 3 | 2 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | 2 | 2 | The 4th Mini Album 'VERSUS' | 2023-11-02 | [🔗](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 2 | 2 | Song of the Bandits (Music from The Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 2 | 2 | Song of the Bandits (Original Soundtrack from the Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="" width="50" /> | 2 | 2 | Reality Show - The 3rd Mini Album | 2023-08-07 | [🔗](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9b58064013b722f09296b3e" alt="" width="50" /> | 2 | 2 | NEW DNA | 2023-09-27 | [🔗](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | 2 | 2 | Love Lee | 2023-08-21 | [🔗](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) |

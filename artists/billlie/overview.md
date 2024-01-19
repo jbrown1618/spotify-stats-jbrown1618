@@ -21,14 +21,12 @@ Billlie:
 
 ## Artist Rank
 Billlie is currently:
-- The #28 artist of the last 6 months
+- The #26 artist of the last 6 months
 - The #20 artist of all time
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
 
-- enchanted night ~ white night is:
-    - the #14 track of the last month
 
 ### Top tracks of the last 6 months over time
 

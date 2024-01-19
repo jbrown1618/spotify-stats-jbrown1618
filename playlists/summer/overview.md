@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 5 | 5 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 5 | 5 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 5 | 5 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 4 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 4 | 4 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 2 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 2 | 2 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 2 | 2 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 2 | 2 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 2 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 2 | 2 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | 2 | 2 | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
@@ -81,7 +81,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 1 | 1 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 1 | 1 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 1 | 1 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410" alt="" width="50" /> | 1 | 1 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -97,9 +97,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74ca2dfde93d9807b2ec18da" alt="" width="50" /> | 1 | 1 | EPEX | [🔗](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 1 | 1 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5607fb8bdd9008b222ce94a" alt="" width="50" /> | 1 | 1 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | 1 | 1 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc85bfa07726d7173c15306dc" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59a426d643b74f05b8749b8d" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a60b0f886b5deb8518e4a41" alt="" width="50" /> | 1 | 1 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |

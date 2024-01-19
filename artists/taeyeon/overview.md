@@ -28,10 +28,10 @@ TAEYEON is currently:
     - the #33 track of the last 6 months
 - I Got Love is:
     - the #40 track of the last 6 months
-- Melt Away is:
-    - the #26 track of the last month
 - Burn It Down is:
-    - the #31 track of the last month
+    - the #23 track of the last month
+- Melt Away is:
+    - the #24 track of the last month
 
 ### Top tracks of the last 6 months over time
 

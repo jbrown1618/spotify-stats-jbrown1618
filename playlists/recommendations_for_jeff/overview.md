@@ -17,9 +17,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 3 | 3 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e46f140189de1eba9ab6230" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 2 | 2 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 2 | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 2 | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 2 | 2 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89064bc3e362d345bb6035f3" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="" width="50" /> | 1 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 1 | 1 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 1 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | 1 | 1 | Jem | [🔗](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf23e235d7e2c99c2ce1a94dd" alt="" width="50" /> | 1 | 1 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5607fb8bdd9008b222ce94a" alt="" width="50" /> | 1 | 1 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 1 | 1 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | 1 | 1 | Caro Emerald | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
@@ -228,7 +228,7 @@
 | | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
 | | Tablo | 1 | Lyricist |
 | | Eline Noelia | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | Johan Gustafsson | 1 | Arranger, Songwriter |
 | | 강효민 (Kang, Hyo-min) | 1 | Producer |
 

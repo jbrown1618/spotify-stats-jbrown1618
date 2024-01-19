@@ -24,7 +24,7 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #9 artist of the last month
+- The #8 artist of the last month
 - The #9 artist of the last 6 months
 - The #4 artist of all time
 
@@ -187,7 +187,7 @@ TWICE is currently:
 | | Marcus van Wattum | 1 | Arranger, Songwriter |
 | | Barry Cohen | 1 | Songwriter |
 | | EJAE | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08601936accce3aca5ec1a89" alt="" width="50" /> | Zara Larsson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7619ca2683b434e139040f70" alt="" width="50" /> | Zara Larsson | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e58b1f86bf1ddb97e3de1e0d" alt="" width="50" /> | MRCH | 1 | Arranger, Producer, Songwriter |
 | | Gray Trainer | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../bibi/overview.md) | 1 | Lyricist |

@@ -18,8 +18,8 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 15 | 10 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 14 | 5 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 5 | 5 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 14 | 5 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 5 | 5 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 5 | 3 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb258c6319f7a39c6e0a0f39de" alt="" width="50" /> | 4 | 3 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6eff35941dca1f9461944174" alt="" width="50" /> | 4 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
@@ -169,7 +169,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 4 | Songwriter |
 | | Serban Ghenea | 4 | Producer |
 | | John Hanes | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Songwriter, Arranger |
 | | Peter Carlsson | 3 | Producer |
 | | TBHits | 2 | Producer, Songwriter |
 | | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |

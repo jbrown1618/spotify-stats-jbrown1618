@@ -2,7 +2,7 @@
 # JEON SOYEON
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="JEON SOYEON" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="JEON SOYEON" width="100" />
 
 ## Relationships
 
@@ -11,8 +11,8 @@ JEON SOYEON:
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #39 artist of the last month
-- The #42 artist of the last 6 months
+- The #36 artist of the last month
+- The #41 artist of the last 6 months
 - The #32 artist of all time
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)
@@ -23,7 +23,7 @@ JEON SOYEON is currently:
 - DESSERT is:
     - the #33 track of all time
 - NOBODY is:
-    - the #20 track of the last month
+    - the #18 track of the last month
     - the #30 track of the last 6 months
 
 ### Top tracks of all time over time

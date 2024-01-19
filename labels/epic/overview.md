@@ -1,6 +1,6 @@
 # Epic
 
-95 songs
+96 songs
 
 [See Track Features](audio_features.md)
 
@@ -13,6 +13,7 @@ Appears as:
 - Epic/Not So Fast (2 tracks)
 - Epic/Phonogenic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
+- Epic/London Ent. (1 tracks)
 - Wondaland Records/Epic (1 tracks)
 
 ## Top Artists
@@ -32,7 +33,7 @@ Appears as:
 
 
 <details>
-<summary>See all 25 artists</summary>
+<summary>See all 27 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -47,15 +48,17 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03e73d13341a8419eea9fcfb" alt="" width="50" /> | 1 | 0 | Wham! | [🔗](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe43df4cc104a9cc9c11b0b97" alt="" width="50" /> | 1 | 0 | Tyla Yaweh | [🔗](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) |
 
 </details>
 
 
-![Bar chart of top 25 artists](../../images/labels/epic/artists.png)
+![Bar chart of top 27 artists](../../images/labels/epic/artists.png)
 
 ## Top Albums
 
@@ -74,7 +77,7 @@ Appears as:
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 34 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -96,6 +99,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | 1 | 0 | LAST CHRISTMAS | 1984-11-29 | [🔗](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | 1 | 0 | Heart Full of Rage 2 | 2023-08-04 | [🔗](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | 1 | 0 | Grandma Got Run Over By A Reindeer | 1984 | [🔗](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | 1 | 0 | Fijación Oral, Vol. 1 | 2005-06-03 | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
@@ -124,7 +128,7 @@ Appears as:
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -156,6 +160,8 @@ Appears as:
 | 2 | 0 | brill building pop |
 | 1 | 0 | novelty |
 | 1 | 0 | new romantic |
+| 1 | 0 | melodic rap |
+| 1 | 0 | cali rap |
 
 </details>
 
@@ -383,6 +389,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Man Who Can't Be Moved | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | City Of Dreams (feat. Chris Brown) | Heart Full of Rage 2 | Tyla Yaweh, Chris Brown | [Epic/London Ent.](.) | | [🔗](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | Last Christmas | LAST CHRISTMAS | Wham! | [Epic](.) | | [🔗](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |
 
 </details>

@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons | 28 Reasons - The 1st Mini Album | [SEULGI](../../../../artists/seulgi/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) |
 ## Cluster #3
 
-27 tracks
+28 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -49,4 +49,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | Tamed-Dashed | DIMENSION : ANSWER | [ENHYPEN](../../../../artists/enhypen/overview.md) | [BELIFT LAB](../../../../labels/belift_lab) | | [🔗](https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Bite Me | DARK BLOOD | [ENHYPEN](../../../../artists/enhypen/overview.md) | [BELIFT LAB](../../../../labels/belift_lab) | 💚 | [🔗](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE | ANTIFRAGILE | [LE SSERAFIM](../../../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](../../../../labels/source_music) | 💚 | [🔗](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA | LALISA | LISA | [Interscope Records](../../../../labels/interscope_records), [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | City Of Dreams (feat. Chris Brown) | Heart Full of Rage 2 | Tyla Yaweh, Chris Brown | [Epic/London Ent.](../../../../labels/epic) | | [🔗](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) |

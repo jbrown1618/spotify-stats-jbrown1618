@@ -85,7 +85,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe68295308bfd008cedf0f2c1" alt="" width="50" /> | 1 | 0 | Jim Cummings | [🔗](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) |
 | | 1 | 0 | Cheryl Freeman | [🔗](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd) |
 | | 1 | 0 | Broadway Cast of Beauty and the Beast | [🔗](https://open.spotify.com/artist/31gtcs2n8ILyd09TvlSwJt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 1 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731291125842111c1f421b0e88" alt="" width="50" /> | 1 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7045f5664fcd729c905e90f" alt="" width="50" /> | 1 | 0 | JD McCrary | [🔗](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) |
 | | 1 | 0 | Chorus - Hercules | [🔗](https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki) |
 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | 1 | 0 | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |
@@ -111,7 +111,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb747ae6e10c5cffd0087b91bf" alt="" width="50" /> | 1 | 0 | John Oliver | [🔗](https://open.spotify.com/artist/0J5AcRTl5C6aBnxCxZKpf3) |
 | | 1 | 0 | Gabriella Flores | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
 | | 1 | 0 | Paige Price | [🔗](https://open.spotify.com/artist/0GzTqQj6pGeI2iW6cA0uSR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27306c7cbbc587798a01ae1b1ae" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e28a135e8a46e60bcc50ad2" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 | | 1 | 0 | Mary Moder | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
 | | 1 | 0 | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 

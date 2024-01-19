@@ -48,7 +48,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c8fe4d8c72bbd833ceaf202" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2399cb22b73eff59dcbc26d5" alt="" width="50" /> | 1 | 0 | Zion.T | [🔗](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93e2ce2a89750ea98891fe52" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaa5dec1668904aaf35784fab" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7877ecabb7562a6084ecfe5e" alt="" width="50" /> | 1 | 0 | Paul Blanco | [🔗](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eff4d3fb92746c29f1edc06" alt="" width="50" /> | 1 | 0 | Ugly Duck | [🔗](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b924be9b846ac20bfecc676" alt="" width="50" /> | 1 | 0 | SUMIN | [🔗](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) |

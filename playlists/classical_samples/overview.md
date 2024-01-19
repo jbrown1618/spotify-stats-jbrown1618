@@ -32,7 +32,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9927ea0870855be7b3367c79" alt="" width="50" /> | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8abd5f97fc52561939ebbc89" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a49e2caa8d0ce8e26f60eed" alt="" width="50" /> | 1 | 0 | PURPLE KISS | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 1 | 0 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739837dbad2e01127f9869b506" alt="" width="50" /> | 1 | 0 | TRAX | [🔗](https://open.spotify.com/artist/05IXIcHMbO6RMnJ6uQPrmP) |
@@ -148,7 +148,7 @@
 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Songwriter |
 | | 강지원 (Kang, Jiwon) | 1 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | 24 | 1 | Arranger, Songwriter |
 | | Danny Chung | 1 | Lyricist |
 | | 정은경 (Jung, Eun-Kyung) | 1 | Producer |

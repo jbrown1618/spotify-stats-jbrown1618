@@ -15,8 +15,6 @@ BAEKHYUN:
 - is a member of SuperM
 
 ## Artist Rank
-BAEKHYUN is currently:
-- The #31 artist of the last month
 
 ![Rank of BAEKHYUN over time](../../images/artists/baekhyun/rank_time_series.png)
 ## Top Tracks

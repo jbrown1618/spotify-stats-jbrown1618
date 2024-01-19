@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 11 | 10 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 10 | 10 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 12 | 9 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec63dc94e68f305bbcad451b" alt="" width="50" /> | 10 | 9 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 10 | 9 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 10 | 9 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 15 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 15 | 8 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -64,7 +64,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 6 | 5 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd434a8b25f5a50277b05a402" alt="" width="50" /> | 6 | 5 | [The Rose](../../artists/the_rose/overview.md) | [🔗](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 6 | 5 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb119dd37374b6443e02508156" alt="" width="50" /> | 5 | 5 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 5 | 5 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 5 | 5 | [Jung Kook](../../artists/jung_kook/overview.md) | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65a8f088eccf78b3fdfc26c0" alt="" width="50" /> | 10 | 4 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 9 | 4 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
@@ -209,6 +209,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | 3 | 2 | the Billage of perception: chapter two | 2022-08-31 | [🔗](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | 3 | 2 | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | 3 | 2 | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | 2023-10-23 | [🔗](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
@@ -234,7 +235,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fad8c4176e8df7173479f959" alt="" width="50" /> | 3 | 1 | GO LIVE | 2020-06-17 | [🔗](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | 3 | 1 | Down to Earth | 2023-04-25 | [🔗](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | 3 | 0 | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 2 | 2 | 容 : FACE | 2022-03-16 | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
 
 </details>
 
@@ -278,8 +278,8 @@
 | 10 | 6 | [KQ Entertainment](../../labels/kq_entertainment/overview.md) |
 | 7 | 6 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 6 | 6 | Abyss Company |
-| 11 | 5 | [HYBE](../../labels/hybe/overview.md) |
 | 7 | 5 | Fave Entertainment |
+| 10 | 4 | [HYBE](../../labels/hybe/overview.md) |
 | 8 | 4 | [avex trax](../../labels/avex_trax/overview.md) |
 | 6 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 5 | 4 | TEAM WANG records |
@@ -301,7 +301,6 @@
 | 3 | 2 | PLAY M ENTERTAINMENT CORP. |
 | 3 | 2 | Million Market |
 | 3 | 2 | Makeus Entertainment |
-| 3 | 2 | JELLYFISH ENTERTAINMENT |
 | 2 | 2 | 스튜디오앤뉴 |
 | 2 | 2 | 뮤직앤뉴 |
 | 2 | 2 | Yedang Entertainment |
@@ -315,6 +314,7 @@
 | 4 | 1 | IST Entertainment |
 | 4 | 1 | Cre.ker Entertainment |
 | 3 | 1 | LABEL V |
+| 3 | 1 | JELLYFISH ENTERTAINMENT |
 | 3 | 1 | FNC인베스트먼트 |
 | 2 | 1 | 해피페이스 엔터테인먼트 |
 | 2 | 1 | OFF THE RECORD Entertainment |
