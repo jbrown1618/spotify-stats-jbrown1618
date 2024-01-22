@@ -11,14 +11,13 @@ Agust D:
 
 ## Artist Rank
 Agust D is currently:
-- The #34 artist of the last 6 months
 - The #42 artist of all time
 
 ![Rank of Agust D over time](../../images/artists/agust_d/rank_time_series.png)
 ## Top Tracks
 
 - Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) is:
-    - the #46 track of the last month
+    - the #38 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

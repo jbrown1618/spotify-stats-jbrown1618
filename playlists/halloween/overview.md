@@ -350,7 +350,7 @@
 | | 최예지 (Choi, Ye-ji) | 1 | Producer |
 | | 정의석 (Jung, Euisuk) | 1 | Producer |
 | | 김일호 (Kim, Il-Ho) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | YUQI | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 1 | Songwriter |
 | | Dan Viafore | 1 | Producer |
 | | Craig Silvey | 1 | Producer |
 | | Cazzi Opeia | 1 | Lyricist, Songwriter |

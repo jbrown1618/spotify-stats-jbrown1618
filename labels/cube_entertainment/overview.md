@@ -108,7 +108,7 @@ Appears as:
 | | Pop Time | 2 | Arranger, Songwriter |
 | | MINNIE | 2 | Lyricist, Songwriter |
 | | Kako | 1 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92ef0e6e3bef63b6a38a0aa8" alt="" width="50" /> | YUQI | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 1 | Songwriter |
 | | DRK | 1 | Producer |
 | | FCM 후디니 (FCM Houdini) | 1 | Arranger, Lyricist, Songwriter |
 | | 홍승성 (Hong, Seung-sung) | 1 | Producer |

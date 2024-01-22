@@ -265,11 +265,11 @@
 | 8 | 6 | metropopolis |
 | 8 | 6 | etherpop |
 | 8 | 6 | canadian singer-songwriter |
+| 7 | 6 | ectofolk |
 | 5 | 4 | indie pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 9 | 2 | nyc pop |
 | 6 | 2 | glam rock |
-| 3 | 2 | ectofolk |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | pop soul |

@@ -11,7 +11,7 @@
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 73 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 66 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 80 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
 | Soñar (Breaker) [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | 77 | 2023-12-04 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Soñar (Breaker) [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 70 | | Republic Records - NMIXX | |
-| Soñar (Breaker) [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | 58 | 2024-01-15 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Fe3O4: BREAK [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 68 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | 💚 |
+| Soñar (Breaker) [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | 64 | 2024-01-15 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Fe3O4: BREAK [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 73 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 92 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 95 | | Top Dawg Entertainment/RCA Records | 💚 |
 
@@ -21,8 +21,8 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | HEAT [🔗](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 67 | 2023-10-05 | CUBE ENTERTAINMENT INC./88rising Music | Eyes Roll [🔗](https://open.spotify.com/track/79yymC6QQaZ81jR2UYcPfy) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | HEAT [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 63 | 2023-10-04 | CUBE ENTERTAINMENT INC./88rising Music | I DO [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp),<br>I Want That [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 54 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 49 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 57 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 42 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 95 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8),<br>Snooze [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
@@ -38,15 +38,15 @@
 | Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
 | I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
 | Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 27 |
-| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 27 |
-| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
-| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 27 |
-| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 27 |
-| Alive | RISE | The Nor'easters | 0 | 0 | 27 |
-| Let it Be | III | The Nor'easters | 0 | 0 | 27 |
-| Russian Roulette | III | The Nor'easters | 0 | 0 | 27 |
-| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
+| Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 28 |
+| Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 28 |
+| Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
+| Elastic Heart | RISE | The Nor'easters | 0 | 0 | 28 |
+| Honeymoon Avenue | RISE | The Nor'easters | 0 | 0 | 28 |
+| Alive | RISE | The Nor'easters | 0 | 0 | 28 |
+| Let it Be | III | The Nor'easters | 0 | 0 | 28 |
+| Russian Roulette | III | The Nor'easters | 0 | 0 | 28 |
+| Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Like | 2 Cool 4 Skool | BTS | 0 | 1 | 86 |
 | No More Dream | 2 Cool 4 Skool | BTS | 2 | 1 | 86 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 86 |
@@ -109,8 +109,8 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 48 |
-| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 80 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
+| Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
@@ -234,18 +234,18 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 1 | 1 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 1 | 25 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 1 | 0 | 25 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 1 | 25 |
 | Piano Sonata No. 30 in E Major, Op. 109: II. Prestissimo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 1 | 25 |
 | Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 1 | 25 |
@@ -255,18 +255,18 @@
 | Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 1 | 25 |
 | Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 1 | 25 |
 | Piano Sonata No. 30 in E Major, Op. 109: III. Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 1 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 1 | 1 | 71 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 1 | 71 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 1 | 0 | 71 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
+| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
 | Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 71 |
 | Piano Sonata No. 30 in E Major, Op. 109: II. Prestissimo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 71 |
 | Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Ludwig van Beethoven | 0 | 1 | 71 |
@@ -303,33 +303,33 @@
 | 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 63 |
 | 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 63 |
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Sergei Rachmaninoff | 0 | 0 | 63 |
-| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
-| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 36 |
+| 13 Preludes, Op. 32: No. 9 in A Major: Allegro moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 3 in D Minor: Tempo di minuetto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 4 in D Major: Andante cantabile | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 5 in G Minor: Alla marcia | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 10 in G-Flat Major: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 7 in C Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 3 in E Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 2 in B-Flat Minor: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 1 in C Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 5 in G Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| Morceaux de fantaisie, Op. 3: No. 2, Prelude in C-Sharp Minor | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 8 in A-Flat Major: Allegro vivace | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 1 in F-Sharp Minor: Largo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 6 in E-Flat Major: Andante | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 7 in F Major: Moderato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 8 in A Minor: Vivo | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 4 in E Minor: Allegro con brio | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 11 in B Major: Allegretto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 10 Preludes, Op. 23: No. 9 in E-Flat Minor: Presto | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 6 in F Minor: Allegro appassionato | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 13 in D-Flat Major: Grave - Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 10 in B Minor: Lento | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
+| 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 58 |
-| PLAY | PLAY | CHANGMO | 0 | 0 | 55 |
+| PLAY | PLAY | CHANGMO | 0 | 0 | 56 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
 | String Quartet in C Major, Op. 74, No. 1: II. Andantino grazioso | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
@@ -395,7 +395,7 @@
 | Amazing Grace | Legendary Folk Songs | Home Free | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 67 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | The Prayer | Legendary Covers, Vol. 1 | Evynne Hollens | 0 | 0 | 37 |
 | Les Miserables Medley | Peter Hollens | Evynne Hollens | 0 | 0 | 37 |
@@ -404,7 +404,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
 | Starry Night | Yellow Flower | MAMAMOO | 0 | 0 | 61 |
-| Egotistic | RED MOON | MAMAMOO | 1 | 0 | 61 |
+| Egotistic | RED MOON | MAMAMOO | 0 | 0 | 61 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 0 | 61 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 51 |
@@ -416,20 +416,19 @@
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 51 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
-| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 57 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 30 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 30 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 30 |
+| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 77 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 2 | 1 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 2 | 1 | 81 |
 | Enter Sandman | Metallica | Metallica | 1 | 1 | 81 |
-| MAISON | [Apocalypse : Save us] | Dreamcatcher | 2 | 2 | 60 |
-| Locked Inside A Door | [Apocalypse : Save us] | Dreamcatcher | 0 | 2 | 60 |
-| Starlight | [Apocalypse : Save us] | Dreamcatcher | 0 | 2 | 60 |
+| MAISON | [Apocalypse : Save us] | Dreamcatcher | 2 | 1 | 60 |
+| Locked Inside A Door | [Apocalypse : Save us] | Dreamcatcher | 0 | 1 | 60 |
+| Starlight | [Apocalypse : Save us] | Dreamcatcher | 0 | 1 | 60 |
 | VISION | [Apocalypse : Follow us] | Dreamcatcher | 1 | 1 | 60 |
 | REASON | [REASON] | Dreamcatcher | 1 | 0 | 60 |
-| BEcause | [Summer Holiday] | Dreamcatcher | 2 | 1 | 60 |
+| BEcause | [Summer Holiday] | Dreamcatcher | 1 | 1 | 60 |
 | Silent Night | Raid of Dream | Dreamcatcher | 1 | 2 | 60 |
 | PIRI | The End of Nightmare | Dreamcatcher | 2 | 1 | 60 |
 | Wings | Wings | PIXY | 0 | 0 | 39 |
@@ -438,7 +437,7 @@
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 71 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 70 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 36 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
@@ -447,7 +446,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
 | Think About Things | Think About Things | Daði Freyr | 1 | 0 | 51 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 1 | 51 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 84 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
@@ -470,11 +469,12 @@
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 64 |
 | End Of All Hope | Century Child | Nightwish | 1 | 1 | 64 |
 | Nemo | Once | Nightwish | 0 | 0 | 64 |
+| If You Do | MAD | GOT7 | 2 | 1 | 60 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 59 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 75 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 79 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 78 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 62 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 69 |
@@ -485,7 +485,7 @@
 | Miku | Miku | Anamanaguchi | 0 | 0 | 53 |
 | Miku | Miku | Hatsune Miku | 0 | 0 | 63 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
-| Strawberry Cake | Hello, world! | Xdinary Heroes | 0 | 1 | 58 |
+| Strawberry Cake | Hello, world! | Xdinary Heroes | 0 | 0 | 58 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 51 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
@@ -497,13 +497,14 @@
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 68 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 29 |
+| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 28 |
 | Rollin' | Rollin' | Brave Girls | 1 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 66 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 66 |
+| 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 70 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 71 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 70 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
-| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 77 |
+| All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 78 |

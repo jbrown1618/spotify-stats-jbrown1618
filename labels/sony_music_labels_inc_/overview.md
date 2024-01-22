@@ -84,9 +84,9 @@ Appears as:
 | 2 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | latin pop |
-| 2 | 0 | j-rock |
 | 2 | 0 | [anime](../../genres/anime/overview.md) |
 | 1 | 0 | west end |
+| 1 | 0 | sunshine pop |
 
 
 <details>
@@ -94,12 +94,12 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | sunshine pop |
 | 1 | 0 | renaissance |
 | 1 | 0 | japanese post-hardcore |
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
 | 1 | 0 | japanese electropop |
+| 1 | 0 | j-rock |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | [early music](../../genres/early_music/overview.md) |
 | 1 | 0 | [classical](../../genres/classical/overview.md) |

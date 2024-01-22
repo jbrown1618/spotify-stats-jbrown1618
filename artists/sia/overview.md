@@ -7,10 +7,6 @@
 ## Artist Rank
 
 ![Rank of Sia over time](../../images/artists/sia/rank_time_series.png)
-## Top Tracks
-
-- Santa's Coming for Us is:
-    - the #36 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

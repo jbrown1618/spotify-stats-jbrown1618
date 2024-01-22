@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[227 tracks (184 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
+[227 tracks (183 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
 
 [See Track Features](audio_features.md)
 
@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 16 | 13 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 12 | 11 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 12 | 10 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 8 | 8 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 9 | 7 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 8 | 7 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
@@ -251,8 +251,8 @@
 |---:|---:|:---|
 | 51 | 40 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 21 | 16 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 16 | 15 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 18 | 14 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 16 | 14 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 7 | 7 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 7 | 6 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 7 | 5 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -355,7 +355,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 130 | 100 | [k-pop](../../genres/k-pop/overview.md) |
+| 130 | 99 | [k-pop](../../genres/k-pop/overview.md) |
 | 46 | 35 | [pop](../../genres/pop/overview.md) |
 | 41 | 31 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 29 | 21 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |

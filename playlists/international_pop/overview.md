@@ -38,7 +38,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3961ae118e7370b3e38b4289" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb221a9d814fac6d1ebe15cc4" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
@@ -385,7 +385,7 @@
 | 4 | 1 | indonesian r&b |
 | 3 | 1 | r&b francais |
 | 3 | 1 | pop urbaine |
-| 2 | 1 | thai pop |
+| 2 | 1 | t-pop |
 | 2 | 1 | puerto rican pop |
 | 1 | 1 | vietnamese melodic rap |
 | 1 | 1 | vietnamese hip hop |
@@ -419,15 +419,16 @@
 | 1 | 1 | afrobeats |
 | 6 | 0 | [anime](../../genres/anime/overview.md) |
 | 3 | 0 | taiwan singer-songwriter |
-| 3 | 0 | j-rock |
 | 2 | 0 | taiwan pop |
 | 2 | 0 | japanese emo |
+| 2 | 0 | j-rock |
 | 2 | 0 | israeli mediterranean |
 | 2 | 0 | french hip hop |
 | 2 | 0 | classic j-pop |
 | 2 | 0 | chinese idol pop |
 | 2 | 0 | 48g |
 | 1 | 0 | vocaloid |
+| 1 | 0 | thai pop |
 | 1 | 0 | taiwan indie |
 | 1 | 0 | reggaeton colombiano |
 | 1 | 0 | rap francais |
@@ -447,7 +448,6 @@
 | 1 | 0 | israeli rock |
 | 1 | 0 | indie game soundtrack |
 | 1 | 0 | indian indie |
-| 1 | 0 | finnish pop |
 
 </details>
 

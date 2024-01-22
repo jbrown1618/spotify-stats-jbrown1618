@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 17 | 11 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 17 | 12 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 
 
@@ -22,7 +22,7 @@ Appears as:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | 5 | 4 | YOUNG-LUV.COM | 2022-02-21 | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | 5 | 2 | TEENFRESH | 2023-08-16 | [🔗](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | 5 | 3 | TEENFRESH | 2023-08-16 | [🔗](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | 2 | 1 | STEREOTYPE | 2021-09-06 | [🔗](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | 2 | 1 | STAYDOM | 2021-04-08 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | 1 | 1 | WE NEED LOVE | 2022-07-19 | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
@@ -35,8 +35,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 17 | 11 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 17 | 11 | [k-pop](../../genres/k-pop/overview.md) |
+| 17 | 12 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 17 | 12 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 
@@ -51,9 +51,9 @@ Appears as:
 | | DRK | 5 | Producer |
 | | FLYT | 5 | Arranger, Songwriter, Producer |
 | | 고현정 (Go, Hyeon-Jeong) | 3 | Producer |
+| | Prime Time | 2 | Songwriter |
+| | BXN | 2 | Lyricist, Songwriter, Arranger |
 | | 김수정 (김수정) | 1 | Producer |
-| | Prime Time | 1 | Songwriter |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
 
 
 <details>
@@ -61,7 +61,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | BXN | 1 | Arranger, Lyricist, Songwriter |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
 | | will.b | 1 | Songwriter |
 
 </details>
@@ -92,7 +92,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | BEAUTIFUL MONSTER | WE NEED LOVE | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Be Mine | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | | [🔗](https://open.spotify.com/track/3g4jq4wctEo0fVaTDKjk3Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Be Mine | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3g4jq4wctEo0fVaTDKjk3Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Bubble (English Ver.) | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | | [🔗](https://open.spotify.com/track/3bcqk74mnFzQF2bfOMG7iK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Bubble (Sped Up) (English Ver.) | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | | [🔗](https://open.spotify.com/track/1e9uzZKeHabJ1kSDT7m3Np) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
