@@ -17,7 +17,7 @@ Agust D is currently:
 ## Top Tracks
 
 - Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) is:
-    - the #38 track of the last month
+    - the #40 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -452,6 +452,7 @@
 | 7 | 7 | j-metal |
 | 7 | 7 | idol rock |
 | 7 | 7 | girl group |
+| 7 | 7 | ectofolk |
 | 7 | 7 | chamber pop |
 | 7 | 7 | canadian singer-songwriter |
 | 7 | 7 | boy band |
@@ -462,7 +463,6 @@
 | 6 | 6 | progressive rock |
 | 6 | 6 | la indie |
 | 6 | 6 | electro |
-| 6 | 6 | ectofolk |
 | 5 | 5 | vocal jazz |
 | 5 | 5 | uk funky |
 | 5 | 5 | nyc pop |

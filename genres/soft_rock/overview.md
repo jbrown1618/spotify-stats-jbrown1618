@@ -1,6 +1,6 @@
 # soft rock
 
-65 songs
+66 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 22 artists</summary>
+<summary>See all 23 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -37,13 +37,14 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | 2 | 0 | Sting | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03e73d13341a8419eea9fcfb" alt="" width="50" /> | 1 | 0 | Wham! | [🔗](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
 | <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | 1 | 0 | Bee Gees | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
 
 </details>
 
 
-![Bar chart of top 22 artists](../../images/genres/soft_rock/artists.png)
+![Bar chart of top 23 artists](../../images/genres/soft_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/soft_rock/artists_comparison.png)
 ## Top Albums
@@ -63,7 +64,7 @@
 
 
 <details>
-<summary>See all 47 albums</summary>
+<summary>See all 48 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -95,6 +96,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="" width="50" /> | 1 | 0 | Ten Summoner's Tales | 1993-03-09 | [🔗](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | 1 | 0 | Rocky IV | 1985 | [🔗](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | 1 | 0 | LAST CHRISTMAS | 1984-11-29 | [🔗](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | 1 | 0 | Hotel California (2013 Remaster) | 1976-12-08 | [🔗](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) |
@@ -127,7 +129,7 @@
 
 
 <details>
-<summary>See all 16 labels</summary>
+<summary>See all 17 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -136,12 +138,13 @@
 | 2 | 0 | Ode |
 | 2 | 0 | Legacy Recordings |
 | 1 | 0 | Volcano |
+| 1 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | Bee Gees Catalog |
 
 </details>
 
 
-![Bar chart of top 16 record labels](../../images/genres/soft_rock/labels.png)
+![Bar chart of top 17 record labels](../../images/genres/soft_rock/labels.png)
 
 ## Top Producers
 
@@ -261,8 +264,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | The Birds, The Bees, & The Monkees (1968-04-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Ten Summoner's Tales (1993-03-09) | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | Bridge Over Troubled Water (1970-01-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="Moondance (Expanded Edition)" width="50" /> | Moondance (Expanded Edition) (1970-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> | Moondance (Deluxe Edition) (1970-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="...Nothing Like The Sun" width="50" /> | ...Nothing Like The Sun (1987-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="Luck Of The Draw" width="50" /> | Luck Of The Draw (1991-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="Moondance (Deluxe Edition)" width="50" /> | Moondance (Deluxe Edition) (1970-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="...Nothing Like The Sun" width="50" /> | ...Nothing Like The Sun (1987-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/soft_rock/years.png)

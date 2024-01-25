@@ -10,14 +10,14 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #21 artist of the last month
+- The #20 artist of the last month
 - The #14 artist of the last 6 months
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
 
 - Perhaps, Happy Ending is:
-    - the #39 track of the last month
+    - the #42 track of the last month
 
 ### Top tracks of the last 6 months over time
 

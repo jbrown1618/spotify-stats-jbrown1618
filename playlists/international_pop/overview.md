@@ -55,7 +55,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | 1 | 1 | Snow | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c0400b168c47ac55370ebd8" alt="" width="50" /> | 1 | 1 | SB19 | [🔗](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb64bf05c3f1df8cd621df6220" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce9e26a81c4223ed89d69ef7" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18c35599ebcff8786a98867a" alt="" width="50" /> | 1 | 1 | Fabrizio Moro | [🔗](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2bcb72091c46d935e195aa87" alt="" width="50" /> | 1 | 1 | tlinh | [🔗](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | 1 | 1 | Angèle | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |

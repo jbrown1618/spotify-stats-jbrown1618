@@ -11,7 +11,7 @@
 ## Artist Rank
 IU is currently:
 - The #10 artist of the last month
-- The #6 artist of the last 6 months
+- The #7 artist of the last 6 months
 - The #3 artist of all time
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)

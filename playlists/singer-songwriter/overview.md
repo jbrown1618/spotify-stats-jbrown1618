@@ -247,7 +247,7 @@
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 55 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -291,7 +291,6 @@
 | 2 | 0 | chamber pop |
 | 2 | 0 | brill building pop |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 1 | 0 | neo r&b |
 | 1 | 0 | minneapolis indie |
 | 1 | 0 | indie rock |
 | 1 | 0 | dark pop |

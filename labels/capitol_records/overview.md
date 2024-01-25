@@ -100,7 +100,7 @@ Appears as:
 
 
 <details>
-<summary>See all 28 genres</summary>
+<summary>See all 29 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -112,6 +112,7 @@ Appears as:
 | 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 0 | folk rock |
 | 1 | 0 | sunshine pop |
+| 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
@@ -126,7 +127,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 28 genres](../../images/labels/capitol_records/genres.png)
+![Bar chart of top 29 genres](../../images/labels/capitol_records/genres.png)
 
 ## Top Producers
 

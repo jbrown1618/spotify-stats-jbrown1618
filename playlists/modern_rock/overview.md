@@ -32,7 +32,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093" alt="" width="50" /> | 3 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 3 | 2 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb17287dc33dcde4a69fd71b59" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3517333f4713a51b9ee5457" alt="" width="50" /> | 2 | 2 | Metric | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb378adae733fc578108e3f534" alt="" width="50" /> | 2 | 2 | Death Cab for Cutie | [🔗](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) |
@@ -42,7 +42,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c" alt="" width="50" /> | 1 | 1 | Vulfpeck | [🔗](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d23b8a8834a0057adf617f3" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e9b9c810d709fe4ffa3a2df" alt="" width="50" /> | 1 | 1 | The Happy Fits | [🔗](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb304f87564b452edd60fd66ed" alt="" width="50" /> | 1 | 1 | The Happy Fits | [🔗](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4213569798d691ccce6dfec9" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
@@ -331,6 +331,7 @@
 | 5 | 1 | punk |
 | 4 | 1 | neon pop punk |
 | 3 | 1 | scottish singer-songwriter |
+| 3 | 1 | ectofolk |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | k-rock |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -377,7 +378,6 @@
 | 1 | 0 | swedish alternative rock |
 | 1 | 0 | spacegrunge |
 | 1 | 0 | socal pop punk |
-| 1 | 0 | screamo |
 
 </details>
 
@@ -481,7 +481,7 @@
 | | Jonathan Gerring | 1 | Producer |
 | | Nate Walcott | 1 | Arranger |
 | | Danny O'Donoghue | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
 | | John Frusciante | 1 | Songwriter |
 | | Andrew Scheps | 1 | Producer |
 | | Terhi Kallio | 1 | Producer |

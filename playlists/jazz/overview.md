@@ -141,7 +141,7 @@
 
 
 <details>
-<summary>See all 25 genres</summary>
+<summary>See all 26 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -152,6 +152,7 @@
 | 2 | 0 | quiet storm |
 | 2 | 0 | disco |
 | 1 | 0 | swing |
+| 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 0 | korean jazz |
@@ -164,7 +165,7 @@
 </details>
 
 
-![Bar chart of top 25 genres](../../images/playlists/jazz/genres.png)
+![Bar chart of top 26 genres](../../images/playlists/jazz/genres.png)
 
 ## Top Producers
 

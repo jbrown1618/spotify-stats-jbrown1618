@@ -20,8 +20,8 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #8 artist of the last month
-- The #8 artist of the last 6 months
+- The #5 artist of the last month
+- The #5 artist of the last 6 months
 - The #5 artist of all time
 
 ![Rank of (G)I-DLE over time](../../images/artists/(g)i-dle/rank_time_series.png)
@@ -36,8 +36,9 @@
 - All Night is:
     - the #18 track of the last 6 months
 - I Want That is:
-    - the #49 track of the last month
     - the #24 track of the last 6 months
+- Lucid is:
+    - the #42 track of the last 6 months
 
 ### Top tracks of all time over time
 

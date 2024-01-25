@@ -14,13 +14,13 @@ KISS OF LIFE:
 
 ## Artist Rank
 KISS OF LIFE is currently:
-- The #14 artist of the last month
+- The #13 artist of the last month
 
 ![Rank of KISS OF LIFE over time](../../images/artists/kiss_of_life/rank_time_series.png)
 ## Top Tracks
 
 - Nobody Knows is:
-    - the #7 track of the last month
+    - the #8 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

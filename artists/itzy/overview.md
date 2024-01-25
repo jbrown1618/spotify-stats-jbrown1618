@@ -29,10 +29,10 @@ ITZY is currently:
 - LOCO is:
     - the #15 track of all time
 - CAKE is:
-    - the #6 track of the last 6 months
+    - the #5 track of the last 6 months
 - Kill Shot is:
-    - the #37 track of the last month
-    - the #13 track of the last 6 months
+    - the #39 track of the last month
+    - the #11 track of the last 6 months
 - BET ON ME is:
     - the #34 track of the last 6 months
 - Mr. Vampire is:
@@ -41,15 +41,13 @@ ITZY is currently:
 - BORN TO BE is:
     - the #3 track of the last month
 - Mine (CHAERYEONG) is:
-    - the #8 track of the last month
-- UNTOUCHABLE is:
     - the #9 track of the last month
+- UNTOUCHABLE is:
+    - the #10 track of the last month
 - Crown On My Head (YEJI) is:
     - the #17 track of the last month
 - Dynamite is:
     - the #25 track of the last month
-- Run Away (RYUJIN) is:
-    - the #50 track of the last month
 
 ### Top tracks of all time over time
 

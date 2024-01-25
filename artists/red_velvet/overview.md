@@ -36,26 +36,25 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #27 track of all time
 - RBB (Really Bad Boy) is:
-    - the #36 track of the last 6 months
+    - the #39 track of the last 6 months
     - the #45 track of all time
 - Chill Kill is:
-    - the #14 track of the last 6 months
+    - the #13 track of the last 6 months
 - One Kiss is:
-    - the #48 track of the last month
     - the #17 track of the last 6 months
 - Nightmare is:
-    - the #24 track of the last month
+    - the #26 track of the last month
     - the #20 track of the last 6 months
 - Bulldozer is:
     - the #15 track of the last month
     - the #29 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #23 track of the last month
-    - the #44 track of the last 6 months
-- Beautiful Christmas is:
-    - the #50 track of the last 6 months
+    - the #24 track of the last month
+    - the #46 track of the last 6 months
+- On A Ride is:
+    - the #5 track of the last month
 
 ### Top tracks of all time over time
 
@@ -82,7 +81,7 @@ Red Velvet is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b273488df3d22b1f5c0ea15b686aab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="" width="50" /> | 1 | [K-OST](../../playlists/k-ost/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 

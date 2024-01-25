@@ -17,7 +17,7 @@ VIVIZ:
 ## Top Tracks
 
 - MANIAC is:
-    - the #41 track of the last month
+    - the #44 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

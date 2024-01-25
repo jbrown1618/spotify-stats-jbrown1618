@@ -11,14 +11,14 @@ Jung Kook:
 
 ## Artist Rank
 Jung Kook is currently:
-- The #16 artist of the last month
+- The #14 artist of the last month
 - The #50 artist of the last 6 months
 
 ![Rank of Jung Kook over time](../../images/artists/jung_kook/rank_time_series.png)
 ## Top Tracks
 
 - Standing Next to You is:
-    - the #32 track of the last month
+    - the #33 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

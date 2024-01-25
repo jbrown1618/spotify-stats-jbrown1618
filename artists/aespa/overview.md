@@ -36,18 +36,18 @@ aespa is currently:
     - the #19 track of the last 6 months
     - the #29 track of all time
 - Drama is:
-    - the #10 track of the last month
+    - the #14 track of the last month
     - the #1 track of the last 6 months
 - Better Things is:
     - the #4 track of the last month
     - the #2 track of the last 6 months
 - Trick or Trick is:
     - the #3 track of the last 6 months
-- Welcome To MY World (feat. nævis) is:
-    - the #5 track of the last 6 months
 - Hot Air Balloon is:
     - the #2 track of the last month
-    - the #10 track of the last 6 months
+    - the #9 track of the last 6 months
+- Welcome To MY World (feat. nævis) is:
+    - the #12 track of the last 6 months
 - Jingle Bell Rock is:
     - the #16 track of the last 6 months
 - Hold On Tight is:
@@ -55,9 +55,7 @@ aespa is currently:
 - Don't Blink is:
     - the #27 track of the last 6 months
 - YOLO is:
-    - the #39 track of the last 6 months
-- Beautiful Christmas is:
-    - the #50 track of the last 6 months
+    - the #38 track of the last 6 months
 
 ### Top tracks of all time over time
 

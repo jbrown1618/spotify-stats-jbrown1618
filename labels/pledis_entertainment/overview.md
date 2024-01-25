@@ -1,13 +1,13 @@
 # PLEDIS Entertainment
 
-25 songs
+26 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- PLEDIS Entertainment (20 tracks)
+- PLEDIS Entertainment (21 tracks)
 - PLEDIS ENTERTAINMENT (5 tracks)
 
 ## Top Artists
@@ -20,8 +20,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95da7df958691cf92d619bea" alt="" width="50" /> | 1 | 1 | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | 1 | 1 | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcae99c0bae2247ad4cb0c904" alt="" width="50" /> | 2 | 0 | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5957f0e648d81871e5b15d4" alt="" width="50" /> | 1 | 0 | HOSHI | [🔗](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcae99c0bae2247ad4cb0c904" alt="" width="50" /> | 1 | 0 | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 
 ![Bar chart of top 8 artists](../../images/labels/pledis_entertainment/artists.png)
 
@@ -42,11 +42,12 @@ Appears as:
 
 
 <details>
-<summary>See all 17 albums</summary>
+<summary>See all 18 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | 1 | 1 | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385cbf5f5fd777ff74de3bafa" alt="" width="50" /> | 1 | 0 | Unlock My World | 2023-06-05 | [🔗](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="" width="50" /> | 1 | 0 | Spider | 2021-04-02 | [🔗](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | 1 | 0 | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | 2017-11-06 | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | 1 | 0 | SEVENTEEN 1st Mini Album ’17 CARAT’ | 2015-05-29 | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
@@ -57,15 +58,15 @@ Appears as:
 </details>
 
 
-![Bar chart of top 17 albums](../../images/labels/pledis_entertainment/albums.png)
+![Bar chart of top 18 albums](../../images/labels/pledis_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 13 | [k-pop](../../genres/k-pop/overview.md) |
+| 25 | 13 | [k-pop](../../genres/k-pop/overview.md) |
 | 21 | 12 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 1 | 0 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 2 | 0 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/pledis_entertainment/genres.png)
 
@@ -105,6 +106,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Monster | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1RMnVmHGSvxlexnenQEXSb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi) | Bittersweet (feat. LeeHi) | WONWOO, MINGYU, [LeeHi](../../artists/leehi/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | DM | Midnight Guest | fromis_9 | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385cbf5f5fd777ff74de3bafa" alt="" width="50" /> | Attitude | Unlock My World | fromis_9 | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/1jkoDKZBMInTDwGlqoPOFC) |
 
 </details>
 

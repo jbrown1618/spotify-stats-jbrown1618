@@ -16,7 +16,6 @@ BoA:
 
 ## Artist Rank
 BoA is currently:
-- The #28 artist of the last month
 - The #15 artist of the last 6 months
 - The #31 artist of all time
 
