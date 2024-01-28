@@ -64,7 +64,7 @@
 
 - barbadian pop
 - [pop](../../genres/pop/overview.md)
-- urban contemporary
+- [urban contemporary](../../genres/urban_contemporary/overview.md)
 
 ## Credits
 

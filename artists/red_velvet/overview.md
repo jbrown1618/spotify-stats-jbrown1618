@@ -20,7 +20,7 @@ Red Velvet:
 
 ## Artist Rank
 Red Velvet is currently:
-- The #2 artist of the last month
+- The #3 artist of the last month
 - The #1 artist of the last 6 months
 - The #1 artist of all time
 
@@ -36,23 +36,27 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #27 track of all time
 - RBB (Really Bad Boy) is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
     - the #45 track of all time
 - Chill Kill is:
-    - the #13 track of the last 6 months
+    - the #45 track of the last month
+    - the #12 track of the last 6 months
 - One Kiss is:
-    - the #17 track of the last 6 months
+    - the #31 track of the last month
+    - the #14 track of the last 6 months
 - Nightmare is:
-    - the #26 track of the last month
-    - the #20 track of the last 6 months
+    - the #47 track of the last month
+    - the #17 track of the last 6 months
 - Bulldozer is:
-    - the #15 track of the last month
-    - the #29 track of the last 6 months
+    - the #37 track of the last month
+    - the #30 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #37 track of the last 6 months
+    - the #36 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #24 track of the last month
-    - the #46 track of the last 6 months
+    - the #44 track of the last month
+    - the #44 track of the last 6 months
+- Beautiful Christmas is:
+    - the #49 track of the last 6 months
 - On A Ride is:
     - the #5 track of the last month
 

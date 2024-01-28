@@ -81,7 +81,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7fec29c8ce38bd57ca100ba" alt="" width="50" /> | 1 | 0 | Bruce Adler | [🔗](https://open.spotify.com/artist/66oKiXdIQP7MwN0gPUY0FD) |
 | | 1 | 0 | Roz Ryan | [🔗](https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu) |
 | | 1 | 0 | Rene Auberjonois | [🔗](https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe6f756bf84087a1cec378b45" alt="" width="50" /> | 1 | 0 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3ef4de0e7351650294b3fa66" alt="" width="50" /> | 1 | 0 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
 | <img src="https://i.scdn.co/image/b7cb8a2d95ba2ca94fc0e133611b5b680014c52e" alt="" width="50" /> | 1 | 0 | Auli'i Cravalho | [🔗](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b9f3c46017f630cb024056a" alt="" width="50" /> | 1 | 0 | Donny Osmond | [🔗](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3b56ff58ed402be417316b" alt="" width="50" /> | 1 | 0 | Rowan Atkinson | [🔗](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE) |

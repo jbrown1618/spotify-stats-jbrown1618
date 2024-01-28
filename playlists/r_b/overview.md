@@ -265,7 +265,7 @@
 | 64 | 44 | [pop](../../genres/pop/overview.md) |
 | 34 | 23 | [dance pop](../../genres/dance_pop/overview.md) |
 | 34 | 19 | [r&b](../../genres/r_b/overview.md) |
-| 23 | 16 | urban contemporary |
+| 24 | 16 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 13 | 12 | neo soul |
 | 11 | 10 | barbadian pop |
 | 10 | 8 | atl hip hop |

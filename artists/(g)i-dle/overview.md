@@ -20,8 +20,8 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #5 artist of the last month
-- The #5 artist of the last 6 months
+- The #6 artist of the last month
+- The #7 artist of the last 6 months
 - The #5 artist of all time
 
 ![Rank of (G)I-DLE over time](../../images/artists/(g)i-dle/rank_time_series.png)
@@ -33,12 +33,10 @@
     - the #31 track of all time
 - Uh-Oh is:
     - the #32 track of all time
-- All Night is:
-    - the #18 track of the last 6 months
 - I Want That is:
-    - the #24 track of the last 6 months
-- Lucid is:
-    - the #42 track of the last 6 months
+    - the #22 track of the last 6 months
+- All Night is:
+    - the #23 track of the last 6 months
 
 ### Top tracks of all time over time
 

@@ -263,7 +263,7 @@
 |---:|---:|:---|
 | 2 | 2 | [electropop](../../genres/electropop/overview.md) |
 | 2 | 2 | baroque pop |
-| 1 | 1 | urban contemporary |
+| 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | [rap](../../genres/rap/overview.md) |
 | 1 | 1 | neo soul |

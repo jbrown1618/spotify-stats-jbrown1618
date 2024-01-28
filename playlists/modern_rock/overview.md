@@ -291,7 +291,7 @@
 | 8 | 8 | indietronica |
 | 9 | 7 | chamber pop |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
-| 7 | 6 | pov: indie |
+| 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
 | 6 | 5 | indie pop |
 | 6 | 5 | funktronica |

@@ -198,15 +198,15 @@ Appears as:
 | 9 | 5 | pop soul |
 | 5 | 5 | melancholia |
 | 6 | 3 | [hard rock](../../genres/hard_rock/overview.md) |
-| 3 | 3 | pov: indie |
 | 3 | 3 | [modern rock](../../genres/modern_rock/overview.md) |
 | 3 | 3 | country dawn |
 | 3 | 3 | country |
 | 3 | 3 | contemporary country |
-| 6 | 2 | urban contemporary |
+| 6 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 4 | 2 | neo soul |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | british soul |
+| 2 | 2 | pov: indie |
 | 2 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | filter house |

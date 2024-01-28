@@ -14,8 +14,6 @@ SHINee:
 - has member TAEMIN
 
 ## Artist Rank
-SHINee is currently:
-- The #48 artist of the last 6 months
 
 ![Rank of SHINee over time](../../images/artists/shinee/rank_time_series.png)
 ## Featured on Playlists

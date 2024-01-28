@@ -15,7 +15,7 @@ HWASA:
 
 ## Artist Rank
 HWASA is currently:
-- The #15 artist of the last month
+- The #11 artist of the last month
 - The #36 artist of the last 6 months
 
 ![Rank of HWASA over time](../../images/artists/hwasa/rank_time_series.png)
@@ -24,7 +24,7 @@ HWASA is currently:
 - Maria is:
     - the #4 track of all time
 - I Love My Body is:
-    - the #11 track of the last month
+    - the #10 track of the last month
 
 ### Top tracks of all time over time
 
@@ -103,7 +103,7 @@ HWASA is currently:
 | | 구종필 (Koo, Jong-Pil) | 1 | Producer |
 | | 유건형 (Yoo, Keon-Hyung) | 1 | Arranger |
 | | Clarence Coffee Jr. | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb6fff4b133bd150337490935" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../dua_lipa/overview.md) | 1 | Songwriter |
 
 
 <details>

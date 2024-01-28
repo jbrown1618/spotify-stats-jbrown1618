@@ -9,16 +9,12 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-BIBI is currently:
-- The #28 artist of the last month
 
 ![Rank of BIBI over time](../../images/artists/bibi/rank_time_series.png)
 ## Top Tracks
 
 - Animal Farm is:
-    - the #43 track of the last 6 months
-- Hongdae R&B is:
-    - the #27 track of the last month
+    - the #42 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

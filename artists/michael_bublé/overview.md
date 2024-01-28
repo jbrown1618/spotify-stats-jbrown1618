@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Michael Bublé is currently:
-- The #42 artist of the last 6 months
+- The #43 artist of the last 6 months
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
 ## Featured on Playlists

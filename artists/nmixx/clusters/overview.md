@@ -14,12 +14,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
 ## Cluster #2
 
-2 tracks
+1 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | XOXO | Fe3O4: BREAK | [NMIXX](../../overview.md) | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/5jJgfoe8qJ59Dtp5nWmVVX) |
 ## Cluster #3
 
 9 tracks

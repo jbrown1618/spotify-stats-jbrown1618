@@ -18,21 +18,24 @@ TAEYEON:
 ## Artist Rank
 TAEYEON is currently:
 - The #4 artist of the last month
-- The #8 artist of the last 6 months
+- The #6 artist of the last 6 months
 - The #9 artist of all time
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
 - To. X is:
-    - the #50 track of the last month
-    - the #33 track of the last 6 months
+    - the #31 track of the last 6 months
 - I Got Love is:
-    - the #41 track of the last 6 months
-- Burn It Down is:
-    - the #21 track of the last month
+    - the #40 track of the last 6 months
 - Melt Away is:
-    - the #22 track of the last month
+    - the #14 track of the last month
+- Rain is:
+    - the #17 track of the last month
+- Burn It Down is:
+    - the #40 track of the last month
+- Nightmare is:
+    - the #42 track of the last month
 
 ### Top tracks of the last 6 months over time
 
