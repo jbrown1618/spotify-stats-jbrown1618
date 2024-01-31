@@ -75,7 +75,7 @@ Camila Cabello:
 | | Bart Schoudel | 2 | Producer |
 | | Andrew Watt | 2 | Producer, Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Jarami | 1 | Producer |
 
 

@@ -1,6 +1,6 @@
 # uk pop
 
-40 songs
+41 songs
 
 [See Track Features](audio_features.md)
 
@@ -12,10 +12,10 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 12 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 4 | 4 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 3 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 3 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 2 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3cb2184a3dfc288d25a1828b" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
@@ -65,7 +65,7 @@
 
 
 <details>
-<summary>See all 29 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -75,6 +75,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | 1 | 1 | Ella Eyre | 2015-01-12 | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="" width="50" /> | 1 | 1 | Easy On Me | 2021-10-14 | [🔗](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | 1 | 1 | Dance The Night (From Barbie The Album) | 2023-05-25 | [🔗](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="" width="50" /> | 1 | 1 | DNA (Expanded Edition) | 2012-11-19 | [🔗](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 1 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdebae610076f51e8b7b20f4" alt="" width="50" /> | 1 | 1 | Birdy | 2011-11-04 | [🔗](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | 1 | 0 | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
@@ -92,16 +93,16 @@
 </details>
 
 
-![Bar chart of top 29 albums](../../images/genres/uk_pop/albums.png)
+![Bar chart of top 30 albums](../../images/genres/uk_pop/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 11 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
+| 4 | 4 | [Syco Music](../../labels/syco_music/overview.md) |
 | 7 | 3 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
-| 3 | 3 | [Syco Music](../../labels/syco_music/overview.md) |
 | 3 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 1 | EMI |
@@ -132,16 +133,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Serban Ghenea | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
-| | Serban Ghenea | 5 | Producer |
+| | John Hanes | 4 | Producer |
 | | Caroline Ailin | 4 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 4 | Songwriter |
-| | Josh Gudwin | 3 | Producer |
-| | John Hanes | 3 | Producer |
-| | KAMILLE | 3 | Songwriter |
 | | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
-| | Andrew Watt | 2 | Songwriter, Producer |
-| | Emily Warren | 2 | Songwriter |
+| | Josh Gudwin | 3 | Producer |
+| | KAMILLE | 3 | Songwriter |
+| | Perrie Edwards | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
 
 
 <details>
@@ -149,59 +150,62 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
-| | Matt Radosevich | 2 | Producer |
 | | Cameron Gower Poole | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| | Emily Warren | 2 | Songwriter |
 | | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
-| | Sarah Hudson | 2 | Songwriter |
+| | Peter Kelleher | 2 | Songwriter |
+| | Leigh-Anne | 2 | Songwriter |
 | | Clarence Coffee Jr. | 2 | Songwriter |
-| | Tom Elmhirst | 2 | Producer |
-| | Richard "Biff" Stannard | 1 | Producer, Songwriter |
-| | Jimmy Napes | 1 | Songwriter |
-| | Screwface | 1 | Producer |
-| | Ruffsound | 1 | Songwriter |
-| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| | TMS | 2 | Producer |
+| | Andrew Watt | 2 | Songwriter, Producer |
+| | Sarah Hudson | 2 | Songwriter |
+| | Thomas Barnes | 2 | Songwriter |
+| | Matt Radosevich | 2 | Producer |
+| | Jade Thirlwall | 2 | Songwriter |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Jesy Nelson | 2 | Songwriter |
+| | Ben Collier | 2 | Producer |
+| | Ben Kohn | 2 | Songwriter |
+| | Robopop | 1 | Producer, Songwriter |
+| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
 | | Julian Burg | 1 | Producer |
 | | Michael Hutchence | 1 | Songwriter |
 | | Lionel Crasta | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
-| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
-| | Jason Elliott | 1 | Producer |
+| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| | Daniel Aslet | 1 | Producer |
 | | Andrew Farriss | 1 | Songwriter |
-| | Lorna Blackwood | 1 | Producer |
-| | ILYA | 1 | Songwriter |
-| | Perrie Edwards | 1 | Songwriter |
-| | Henrik Barman Michelsen | 1 | Producer, Songwriter |
-| | Oscar Holter | 1 | Producer, Songwriter |
-| | Ash Howes | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
-| | TEDDY | 1 | Songwriter |
-| | Jordan Johnson | 1 | Songwriter |
-| | Jade Thirlwall | 1 | Songwriter |
-| | Matthew Scatchell | 1 | Producer |
 | | Greg Kurstin | 1 | Producer, Songwriter |
+| | Jason Elliott | 1 | Producer |
+| | Matthew Scatchell | 1 | Producer |
+| | Lorna Blackwood | 1 | Producer |
+| | Jordan Johnson | 1 | Songwriter |
+| | TEDDY | 1 | Songwriter |
+| | ILYA | 1 | Songwriter |
+| | Ruffsound | 1 | Songwriter |
+| | Jimmy Napes | 1 | Songwriter |
 | | Matt Snell | 1 | Producer |
-| | Steve Churchyard | 1 | Producer |
-| | Ben Collier | 1 | Producer |
-| | Jesy Nelson | 1 | Songwriter |
-| | Noonie Bao | 1 | Songwriter |
-| | Simon Clarke | 1 | Arranger |
-| | Robopop | 1 | Producer, Songwriter |
+| | Richard "Biff" Stannard | 1 | Producer, Songwriter |
 | | Francis White | 1 | Songwriter |
 | | Thomas Warren | 1 | Producer |
 | | Nicky D'Silva | 1 | Producer |
-| | TMS | 1 | Producer |
 | | KNY Factory | 1 | Songwriter |
-| | Fraser T. Smith | 1 | Songwriter |
-| | Steve Mac | 1 | Producer, Songwriter |
+| | Noonie Bao | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
 | | Omer Fedi | 1 | Songwriter |
 | | David Campbell | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
+| | Ash Howes | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
+| | Henrik Barman Michelsen | 1 | Producer, Songwriter |
+| | Steve Churchyard | 1 | Producer |
+| | Screwface | 1 | Producer |
+| | Simon Clarke | 1 | Arranger |
+| | Fraser T. Smith | 1 | Songwriter |
 | | Andrew Wyatt | 1 | Producer, Songwriter |
-| | Steve James | 1 | Producer |
-| | Leigh-Anne | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Paul 'P Dub' Walton | 1 | Producer |
 | | Paul LaMalfa | 1 | Producer |
 | | Joe Kearns | 1 | Producer, Songwriter |
 | | Robin Fredriksson | 1 | Songwriter |
@@ -210,25 +214,24 @@
 | | Alex Pasco | 1 | Producer |
 | | Simon Rhodes | 1 | Producer |
 | | Ed Drewett | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
-| | Thomas Barnes | 1 | Songwriter |
-| | Paul 'P Dub' Walton | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Daniel Pursey | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
 | | Phil Tan | 1 | Producer |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
 | | Ali Payami | 1 | Producer, Songwriter |
 | | Cirkut | 1 | Songwriter |
-| | Ben Kohn | 1 | Songwriter |
+| | Iain James | 1 | Songwriter |
 | | David Buckley | 1 | Arranger |
 | | Leland | 1 | Songwriter |
 | | Mattias Larsson | 1 | Songwriter |
 | | The Monsters & Strangerz | 1 | Producer |
 | | Drew Jurecka | 1 | Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
 | | Billboard | 1 | Songwriter |
+| | Steve Mac | 1 | Producer, Songwriter |
 | | DURO | 1 | Producer |
+| | Steve James | 1 | Producer |
 | | Jon Taylor | 1 | Producer |
-| | Peter Kelleher | 1 | Songwriter |
 | | Alex Gilbert | 1 | Producer |
 | | Jason Evigan | 1 | Songwriter |
 | | Electric | 1 | Producer |
@@ -237,8 +240,6 @@
 | | Max Martin | 1 | Producer |
 | | Paul Epworth | 1 | Producer, Songwriter |
 | | JHart | 1 | Songwriter |
-| | Stefan Johnson | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
 
 </details>
 
@@ -251,10 +252,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | 21 (2011-01-24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook &amp; VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b273cdebae610076f51e8b7b20f4" alt="Birdy" width="50" /> | Birdy (2011-11-04) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="30" width="50" /> | 30 (2021-11-19) | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | Skyfall (2012-10-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="Easy On Me" width="50" /> | Easy On Me (2021-10-14) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="Love Goes" width="50" /> | Love Goes (2020-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas (2014-12-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (2020-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> | Ella Eyre (2015-01-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Future Nostalgia (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Get Weird (Expanded Edition) (2015-11-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="Physical (feat. Hwa Sa)" width="50" /> | Physical (feat. Hwa Sa) (2020-01-28) | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Delirium (2015-11-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="Easy On Me" width="50" /> | Easy On Me (2021-10-14) | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA (Expanded Edition) (2012-11-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="Love Goes" width="50" /> | Love Goes (2020-10-30) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade (2020-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas (2014-12-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Future Nostalgia (2020-03-27) | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="Ella Eyre" width="50" /> | Ella Eyre (2015-01-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="Physical (feat. Hwa Sa)" width="50" /> | Physical (feat. Hwa Sa) (2020-01-28) | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Get Weird (Expanded Edition) (2015-11-06) |
 
 ![Bar chart of number of songs by year](../../images/genres/uk_pop/years.png)

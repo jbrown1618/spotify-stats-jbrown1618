@@ -15,7 +15,7 @@ CHUNG HA:
 
 ## Artist Rank
 CHUNG HA is currently:
-- The #21 artist of the last month
+- The #20 artist of the last month
 - The #24 artist of the last 6 months
 - The #16 artist of all time
 
@@ -25,7 +25,7 @@ CHUNG HA is currently:
 - Gotta Go is:
     - the #7 track of all time
 - Bicycle is:
-    - the #28 track of the last month
+    - the #30 track of the last month
 
 ### Top tracks of all time over time
 
@@ -128,7 +128,7 @@ CHUNG HA is currently:
 | | Rick Parkhouse | 1 | Lyricist, Songwriter |
 | | Michael Fatkin | 1 | Arranger, Songwriter |
 | | Daniel Mirza Salcedo | 1 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6a80abb55f089d80528d24fc" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
 | | Daniel Kim | 1 | Arranger, Songwriter |
 | | Lao Ra | 1 | Lyricist, Songwriter |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |

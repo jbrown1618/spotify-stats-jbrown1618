@@ -280,7 +280,7 @@
 | 16 | 14 | melancholia |
 | 16 | 14 | art rock |
 | 15 | 12 | indie rock |
-| 10 | 9 | canadian indie |
+| 8 | 8 | indietronica |
 
 
 <details>
@@ -288,8 +288,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 8 | indietronica |
 | 9 | 7 | chamber pop |
+| 8 | 7 | seattle indie |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
 | 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
@@ -322,16 +322,16 @@
 | 3 | 2 | garage rock |
 | 2 | 2 | washington indie |
 | 2 | 2 | stomp and holler |
-| 2 | 2 | seattle indie |
 | 2 | 2 | neo-synthpop |
 | 2 | 2 | metropopolis |
 | 2 | 2 | celtic rock |
 | 2 | 2 | canadian rock |
+| 2 | 2 | canadian indie |
 | 6 | 1 | funk metal |
 | 5 | 1 | punk |
 | 4 | 1 | neon pop punk |
 | 3 | 1 | scottish singer-songwriter |
-| 3 | 1 | ectofolk |
+| 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | k-rock |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |

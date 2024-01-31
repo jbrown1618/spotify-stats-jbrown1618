@@ -17,7 +17,7 @@ Billie Eilish is currently:
 ## Top Tracks
 
 - No Time To Die is:
-    - the #7 track of the last month
+    - the #6 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

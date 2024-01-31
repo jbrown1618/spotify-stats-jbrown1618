@@ -2,7 +2,7 @@
 # Billy Joel
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="Billy Joel" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="Billy Joel" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -115,7 +115,7 @@ Billy Joel is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
 | | Phil Ramone | 9 | Producer |
 | | Jim Boyer | 9 | Producer |
 | | Michael Omartian | 2 | Arranger |

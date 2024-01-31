@@ -41,13 +41,13 @@ Rilo Kiley:
 
 ## Genres
 
-- canadian indie
 - chamber pop
 - funktronica
 - indie pop
 - indie rock
 - la indie
 - [lilith](../../genres/lilith/overview.md)
+- seattle indie
 
 ## Credits
 

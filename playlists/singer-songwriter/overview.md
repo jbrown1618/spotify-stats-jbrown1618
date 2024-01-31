@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 39 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 61 | 38 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 23 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 23 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 8 | 6 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
@@ -238,12 +238,12 @@
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 75 | 49 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 67 | 45 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 61 | 40 | [viral pop](../../genres/viral_pop/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
 | 36 | 24 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 36 | 23 | [piano rock](../../genres/piano_rock/overview.md) |
-| 32 | 19 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
 <details>
@@ -251,6 +251,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 32 | 19 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 29 | 18 | [rock](../../genres/rock/overview.md) |
 | 26 | 17 | [soft rock](../../genres/soft_rock/overview.md) |
 | 26 | 17 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -265,7 +266,6 @@
 | 8 | 6 | metropopolis |
 | 8 | 6 | etherpop |
 | 8 | 6 | canadian singer-songwriter |
-| 7 | 6 | ectofolk |
 | 5 | 4 | indie pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 9 | 2 | nyc pop |
@@ -311,7 +311,7 @@
 | | Serban Ghenea | 27 | Producer |
 | | Laura Sisk | 20 | Producer |
 | | Jack Antonoff | 18 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
 | | Max Martin | 11 | Producer, Songwriter, Lyricist |
 | | Sam Holland | 10 | Producer |
 | | Shellback | 10 | Producer, Songwriter, Lyricist |

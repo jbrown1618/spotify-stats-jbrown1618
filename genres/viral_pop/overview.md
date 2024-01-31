@@ -207,7 +207,7 @@
 | | Cashmere Cat | 1 | Producer, Songwriter |
 | | Carl Lieberman, RPT | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | MAX | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Joseph Lorge | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
 | | Justin Tranter | 1 | Songwriter |

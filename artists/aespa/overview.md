@@ -33,10 +33,10 @@ aespa is currently:
 - Black Mamba is:
     - the #25 track of all time
 - Illusion is:
-    - the #18 track of the last 6 months
+    - the #16 track of the last 6 months
     - the #29 track of all time
 - Drama is:
-    - the #12 track of the last month
+    - the #9 track of the last month
     - the #1 track of the last 6 months
 - Better Things is:
     - the #3 track of the last month
@@ -45,19 +45,18 @@ aespa is currently:
     - the #3 track of the last 6 months
 - Hot Air Balloon is:
     - the #4 track of the last month
-    - the #8 track of the last 6 months
+    - the #7 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
-    - the #50 track of the last month
-    - the #11 track of the last 6 months
+    - the #9 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #16 track of the last 6 months
+    - the #15 track of the last 6 months
 - Don't Blink is:
     - the #26 track of the last 6 months
 - Hold On Tight is:
     - the #35 track of the last month
     - the #28 track of the last 6 months
 - YOLO is:
-    - the #37 track of the last 6 months
+    - the #36 track of the last 6 months
 - Beautiful Christmas is:
     - the #49 track of the last 6 months
 

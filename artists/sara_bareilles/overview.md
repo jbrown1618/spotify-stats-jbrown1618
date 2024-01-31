@@ -11,7 +11,7 @@
 ## Artist Rank
 Sara Bareilles is currently:
 - The #14 artist of the last month
-- The #28 artist of the last 6 months
+- The #27 artist of the last 6 months
 - The #24 artist of all time
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
@@ -74,6 +74,7 @@ Sara Bareilles is currently:
 ## Genres
 
 - [acoustic pop](../../genres/acoustic_pop/overview.md)
+- [ectofolk](../../genres/ectofolk/overview.md)
 - [lilith](../../genres/lilith/overview.md)
 - [neo mellow](../../genres/neo_mellow/overview.md)
 - [pop rock](../../genres/pop_rock/overview.md)

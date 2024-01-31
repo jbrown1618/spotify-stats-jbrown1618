@@ -18,17 +18,14 @@ GOT the beat:
 
 ## Artist Rank
 GOT the beat is currently:
-- The #12 artist of the last month
 - The #45 artist of the last 6 months
 - The #39 artist of all time
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks
 
-- Rose is:
-    - the #32 track of the last month
 - Step Back is:
-    - the #49 track of the last month
+    - the #50 track of the last month
 
 ### Top tracks of the last 6 months over time
 

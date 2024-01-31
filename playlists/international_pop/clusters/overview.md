@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-29 tracks
+30 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -20,22 +20,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="" width="50" /> | GENTO | GENTO | SB19 | Sony Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2) |
 ## Cluster #2
 
-18 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 就是愛妳 | 太平盛世 | David Tao | Gold Typhoon Taiwan | | [🔗](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | Tetap Dalam Jiwa | EXPLORE! | Isyana Sarasvati | Sony Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven | Heaven | Isyana Sarasvati, Afgan, Rendy Pandugo | Sony Music Entertainment Indonesia/Trinity Optima Production | | [🔗](https://open.spotify.com/track/3gBFAvpAVSNohs3ESRMYHi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | Melawan Restu | fábula | Mahalini | Hits records | 💚 | [🔗](https://open.spotify.com/track/3PP6leq3XCLDzi32Fb35Nw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | Sisa Rasa | fábula | Mahalini | Hits records | 💚 | [🔗](https://open.spotify.com/track/6Iq3sgLVrqqZfRitLaeHkn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327ca5326f9c8cc55b3efd7b5" alt="" width="50" /> | ก่อนฤดูฝน | SUN | THE TOYS | What The Duck | | [🔗](https://open.spotify.com/track/5BS4lRz13ztnSaBy8spQ7W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 醒不来的梦 | 醒不来的梦 | 拾贰 | 一寸光年 | 💚 | [🔗](https://open.spotify.com/track/5EGJ1vMllT1cYXbpymPdyf) |
-## Cluster #3
-
 64 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -50,3 +34,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | W / X / Y | Memories | Tani Yuuki | Valley Records | | [🔗](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 群青 | THE BOOK | YOASOBI | YOASOBI | | [🔗](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物 | 怪物 | YOASOBI | YOASOBI | 💚 | [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) |
+## Cluster #3
+
+18 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 就是愛妳 | 太平盛世 | David Tao | Gold Typhoon Taiwan | | [🔗](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | Tetap Dalam Jiwa | EXPLORE! | Isyana Sarasvati | Sony Music Entertainment | 💚 | [🔗](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven | Heaven | Isyana Sarasvati, Afgan, Rendy Pandugo | Sony Music Entertainment Indonesia/Trinity Optima Production | | [🔗](https://open.spotify.com/track/3gBFAvpAVSNohs3ESRMYHi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | Melawan Restu | fábula | Mahalini | Hits records | 💚 | [🔗](https://open.spotify.com/track/3PP6leq3XCLDzi32Fb35Nw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | Sisa Rasa | fábula | Mahalini | Hits records | 💚 | [🔗](https://open.spotify.com/track/6Iq3sgLVrqqZfRitLaeHkn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327ca5326f9c8cc55b3efd7b5" alt="" width="50" /> | ก่อนฤดูฝน | SUN | THE TOYS | What The Duck | | [🔗](https://open.spotify.com/track/5BS4lRz13ztnSaBy8spQ7W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](../../../../labels/sony_music_labels_inc_) | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 醒不来的梦 | 醒不来的梦 | 拾贰 | 一寸光年 | 💚 | [🔗](https://open.spotify.com/track/5EGJ1vMllT1cYXbpymPdyf) |

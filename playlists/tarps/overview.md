@@ -22,7 +22,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb173d4b457016fe0727a7e50d" alt="" width="50" /> | 1 | 1 | The Band Perry | [🔗](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 1 | 1 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb712c7643e8aa18a4aca6c811" alt="" width="50" /> | 1 | 1 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 1 | 1 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 
 
 <details>
@@ -269,6 +269,7 @@
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 2 | 1 | hip hop |
 | 2 | 1 | folk rock |
+| 2 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 1 | 1 | yacht rock |
@@ -309,7 +310,6 @@
 | 1 | 0 | hip pop |
 | 1 | 0 | girl group |
 | 1 | 0 | europop |
-| 1 | 0 | ectofolk |
 | 1 | 0 | doo-wop |
 | 1 | 0 | contemporary r&b |
 | 1 | 0 | comic |

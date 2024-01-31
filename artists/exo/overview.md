@@ -33,7 +33,7 @@ EXO is currently:
 ## Top Tracks
 
 - Love Shot is:
-    - the #34 track of all time
+    - the #35 track of all time
 
 ### Top tracks of all time over time
 

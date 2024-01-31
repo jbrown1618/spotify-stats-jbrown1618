@@ -1,6 +1,6 @@
 # permanent wave
 
-59 songs
+60 songs
 
 [See Track Features](audio_features.md)
 
@@ -15,18 +15,19 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="" width="50" /> | 1 | 1 | Blondie | [🔗](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | 2 | 0 | Sting | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
 
 
 <details>
-<summary>See all 19 artists</summary>
+<summary>See all 20 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | 2 | 0 | Sting | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
@@ -40,7 +41,7 @@
 </details>
 
 
-![Bar chart of top 19 artists](../../images/genres/permanent_wave/artists.png)
+![Bar chart of top 20 artists](../../images/genres/permanent_wave/artists.png)
 
 ![Comparison of Artist](../../images/genres/permanent_wave/artists_comparison.png)
 ## Top Albums
@@ -60,7 +61,7 @@
 
 
 <details>
-<summary>See all 41 albums</summary>
+<summary>See all 42 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -73,6 +74,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | 1 | 1 | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | 1 | 1 | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="" width="50" /> | 1 | 1 | Call Me | 2004-01-01 | [🔗](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | 1 | 1 | Amnesiac | 2001-03-12 | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 1 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
@@ -112,16 +114,17 @@
 | 7 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Cult Records |
+| 1 | 1 | Chrysalis\EMI Records (USA) |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
-| 2 | 0 | A&M |
 
 
 <details>
-<summary>See all 17 labels</summary>
+<summary>See all 18 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 0 | A&M |
 | 1 | 0 | Work |
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | RCA Victor |
@@ -133,7 +136,7 @@
 </details>
 
 
-![Bar chart of top 17 record labels](../../images/genres/permanent_wave/labels.png)
+![Bar chart of top 18 record labels](../../images/genres/permanent_wave/labels.png)
 
 ## Top Producers
 
@@ -141,12 +144,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Philip Selway | 12 | Songwriter |
+| | Ed O'Brien | 12 | Songwriter |
 | | Nigel Godrich | 12 | Producer |
 | | Colin Greenwood | 12 | Songwriter |
-| | Ed O'Brien | 12 | Songwriter |
-| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
 | | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
-| | Philip Selway | 12 | Songwriter |
+| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
 | | Chris Martin | 5 | Songwriter |
 | | Jonny Buckland | 5 | Songwriter |
@@ -159,47 +162,48 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Will Champion | 5 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Ken Nelson | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
-| | John Leckie | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Paul Q. Kolderie | 3 | Producer |
-| | Sean Slade | 3 | Producer |
+| | John Leckie | 3 | Producer |
 | | Michael Brauer | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
 | | Matt Bellamy | 3 | Lyricist, Songwriter |
+| | Sean Slade | 3 | Producer |
 | | Rik Simpson | 3 | Producer |
+| | Chris Blair | 2 | Producer |
 | | Richard Woodcraft | 2 | Producer |
-| | Jason Lader | 2 | Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
 | | Tommaso Colliva | 2 | Producer |
+| | Jason Lader | 2 | Producer |
 | | Mark Phythian | 2 | Producer |
 | | Adrian Bushby | 2 | Producer |
-| | Chris Blair | 2 | Producer |
 | | Hugo Nicolson | 2 | Producer |
 | | Jim Warren | 2 | Producer |
 | | Rick Rubin | 2 | Producer |
 | | Dan Grech-Marguerat | 2 | Producer |
-| | John Ratcliff | 1 | Producer |
-| | Fabrizio Moretti | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
 | | Gerard Navarro | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | John Ratcliff | 1 | Producer |
+| | Ryan Hewitt | 1 | Producer |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Nikolai Fraiture | 1 | Songwriter |
 | | Mark Linett | 1 | Producer |
 | | Ben Baptie | 1 | Producer |
-| | Gordon Raphael | 1 | Producer |
-| | John Frusciante | 1 | Songwriter |
 | | Rich Costey | 1 | Producer |
-| | Markus Dravs | 1 | Producer |
+| | John Frusciante | 1 | Songwriter |
 | | Andrew Scheps | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
 | | Graeme Stewart | 1 | Producer |
-| | Audrey Riley | 1 | Arranger |
 | | Chris Holmes | 1 | Producer |
-| | Nikolai Fraiture | 1 | Songwriter |
-| | Chad Smith | 1 | Songwriter |
-| | Ryan Hewitt | 1 | Producer |
-| | Jon Coles | 1 | Producer |
 | | John Cornfield | 1 | Producer |
+| | Chad Smith | 1 | Songwriter |
+| | Audrey Riley | 1 | Arranger |
+| | Markus Dravs | 1 | Producer |
+| | Darrell Thorp | 1 | Producer |
 | | Albert Hammond, Jr. | 1 | Songwriter |
+| | Paul Read | 1 | Producer |
 | | Andy Wallace | 1 | Producer |
 | | Jon Hopkins | 1 | Producer |
 | | Simon "Barny" Barnicott | 1 | Producer |
@@ -209,10 +213,12 @@
 | | Leslie Bricusse | 1 | Songwriter |
 | | Morten Harket | 1 | Songwriter |
 | | Flea | 1 | Songwriter |
+| | Deborah Harry | 1 | Songwriter |
 | | Andrea Wright | 1 | Producer |
 | | Albert Hammond | 1 | Songwriter |
-| | Paul Read | 1 | Producer |
 | | Nick Valensi | 1 | Songwriter |
+| | Mike Hazlewood | 1 | Songwriter |
+| | Giorgio Moroder | 1 | Songwriter |
 | | Ric Peet | 1 | Producer |
 | | Alan Tarney | 1 | Producer |
 | | Chris Lord-Alge | 1 | Producer |
@@ -220,11 +226,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | 1 | Producer |
 | | Toshikazu Yoshioka | 1 | Producer |
 | | Anthony Kiedis | 1 | Songwriter |
-| | Darrell Thorp | 1 | Producer |
 | | Claudius Mittendorfer | 1 | Producer |
+| | Jon Coles | 1 | Producer |
 | | Dana Nielsen | 1 | Producer |
 | | Anthony Newley | 1 | Songwriter |
-| | Mike Hazlewood | 1 | Songwriter |
 | | Brian Eno | 1 | Producer |
 
 </details>

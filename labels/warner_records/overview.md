@@ -166,13 +166,13 @@ Appears as:
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
 | 6 | 4 | [k-pop](../../genres/k-pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
+| 4 | 4 | seattle indie |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
 | 4 | 4 | indie rock |
 | 4 | 4 | indie pop |
 | 4 | 4 | funktronica |
 | 4 | 4 | chamber pop |
-| 4 | 4 | canadian indie |
 | 9 | 3 | [album rock](../../genres/album_rock/overview.md) |
 | 8 | 3 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 2 | funk rock |

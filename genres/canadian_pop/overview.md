@@ -172,7 +172,7 @@
 | | Ali Tamposi | 1 | Songwriter |
 | | FINNEAS | 1 | Producer, Songwriter |
 | | Leslie Bricusse | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1c0e4894fa3c5bafa785838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Zubin Thakkar | 1 | Producer |
 | | Butch Walker | 1 | Producer, Songwriter |
 | | Paul LaMalfa | 1 | Producer |

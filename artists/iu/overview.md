@@ -2,7 +2,7 @@
 # IU
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb6472c5305d09322b09ca2c9b" alt="IU" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="IU" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 ## Artist Rank
 IU is currently:
-- The #10 artist of the last month
+- The #7 artist of the last month
 - The #8 artist of the last 6 months
 - The #3 artist of all time
 
@@ -125,7 +125,7 @@ IU is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 손명갑 (Son, Myung-gap) | 5 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6472c5305d09322b09ca2c9b" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
 | | 구종필 (Koo, Jong-Pil) | 2 | Producer |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |

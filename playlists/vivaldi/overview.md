@@ -1,7 +1,7 @@
 # Vivaldi
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi" width="100" />
+<img src="https://i.scdn.co/image/ab67616d0000b27387f25f9e50f7da18f3434bde" alt="Vivaldi" width="100" />
 
 [34 tracks (0 liked) 🔗](https://open.spotify.com/playlist/39dOiLs9ZbssQvs9xLBRzw)
 
