@@ -72,7 +72,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734979afe7767788a5f22eb4ce" alt="" width="50" /> | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | | 1 | 0 | Max Casella | [🔗](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | 1 | 0 | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |

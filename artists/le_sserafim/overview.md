@@ -2,7 +2,7 @@
 # LE SSERAFIM
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="LE SSERAFIM" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="LE SSERAFIM" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -28,11 +28,11 @@ LE SSERAFIM is currently:
 ## Top Tracks
 
 - UNFORGIVEN (feat. Nile Rodgers) is:
-    - the #40 track of the last 6 months
+    - the #39 track of the last 6 months
 - Sour Grapes is:
     - the #28 track of the last month
 - Perfect Night is:
-    - the #46 track of the last month
+    - the #45 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -109,7 +109,7 @@ LE SSERAFIM is currently:
 | | 이연수 (Lee, Yeon-soo) | 7 | Producer |
 | | Supreme Boi | 6 | Lyricist, Songwriter |
 | | danke | 6 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa42f180402c30730380a90" alt="" width="50" /> | HUH YUNJIN | 5 | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 5 | Songwriter, Lyricist |
 | | Nermin Harambašić (Harambašić, Nermin) | 4 | Lyricist, Songwriter |
 
 

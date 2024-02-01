@@ -27,15 +27,17 @@ TAEYEON is currently:
 - To. X is:
     - the #31 track of the last 6 months
 - I Got Love is:
-    - the #39 track of the last 6 months
+    - the #38 track of the last 6 months
 - Melt Away is:
     - the #12 track of the last month
 - Rain is:
-    - the #19 track of the last month
+    - the #18 track of the last month
 - Priority is:
-    - the #29 track of the last month
+    - the #30 track of the last month
 - Burn It Down is:
     - the #36 track of the last month
+- Nightmare is:
+    - the #50 track of the last month
 
 ### Top tracks of the last 6 months over time
 

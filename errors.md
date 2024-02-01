@@ -344,14 +344,6 @@
 | ICY | IT'z ICY | ITZY | 1 | 0 | 74 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 72 |
 | React | React | The Pussycat Dolls | 0 | 0 | 68 |
-| 7Days | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Wife | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Fate | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Revenge | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Doll | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Super Lady | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Rollie | 2 | (G)I-DLE | 0 | 0 | 75 |
-| Vision | 2 | (G)I-DLE | 0 | 0 | 75 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 71 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 55 |
@@ -360,7 +352,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 1 | 55 |
 | A Case of You | Blue | Joni Mitchell | 0 | 1 | 55 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 55 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 55 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
@@ -432,9 +424,9 @@
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | Rewind | REBOOT | Wonder Girls | 2 | 1 | 58 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 29 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 29 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 28 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 77 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 1 | 81 |
 | Enter Sandman | Metallica | Metallica | 1 | 1 | 81 |
@@ -442,8 +434,8 @@
 | Locked Inside A Door | [Apocalypse : Save us] | Dreamcatcher | 0 | 1 | 60 |
 | Starlight | [Apocalypse : Save us] | Dreamcatcher | 0 | 1 | 60 |
 | VISION | [Apocalypse : Follow us] | Dreamcatcher | 1 | 0 | 60 |
-| Odd Eye | ［Dystopia : Road to Utopia］ | Dreamcatcher | 2 | 2 | 60 |
-| REASON | [REASON] | Dreamcatcher | 1 | 0 | 60 |
+| Odd Eye | ［Dystopia : Road to Utopia］ | Dreamcatcher | 2 | 1 | 60 |
+| REASON | [REASON] | Dreamcatcher | 0 | 0 | 60 |
 | BEcause | [Summer Holiday] | Dreamcatcher | 1 | 0 | 60 |
 | Silent Night | Raid of Dream | Dreamcatcher | 0 | 1 | 60 |
 | 데자부 (Deja Vu) | Raid of Dream | Dreamcatcher | 2 | 1 | 60 |
@@ -464,7 +456,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
 | Drink It | Drink It | THE BOYZ | 2 | 1 | 60 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
-| Think About Things | Think About Things | Daði Freyr | 2 | 0 | 51 |
+| Think About Things | Think About Things | Daði Freyr | 1 | 0 | 51 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 1 | 51 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 84 |
@@ -481,23 +473,22 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
-| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 72 |
-| The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 72 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 52 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 33 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 65 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 2 | 2 | 60 |
 | Lullaby | Present : YOU | GOT7 | 2 | 2 | 60 |
-| If You Do | MAD | GOT7 | 2 | 0 | 60 |
+| If You Do | MAD | GOT7 | 1 | 0 | 60 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 75 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 77 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
-| Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 62 |
+| Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 63 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 69 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 45 |

@@ -1,13 +1,13 @@
 # CUBE ENTERTAINMENT
 
-52 songs
+50 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Cube Entertainment (27 tracks)
+- Cube Entertainment (25 tracks)
 - CUBE ENTERTAINMENT (21 tracks)
 - CUBE ENTERTAINMENT INC./88rising Music (3 tracks)
 - CUBE Entertainment (1 tracks)
@@ -16,7 +16,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 32 | 19 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 30 | 23 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 4 | 4 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 3 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
@@ -33,8 +33,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | 8 | 1 | 2 | 2024-01-29 | [🔗](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 7 | 5 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | 6 | 5 | 2 | 2024-01-29 | [🔗](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 5 | 4 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 3 | 3 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 3 | 3 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
@@ -76,7 +76,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 39 | 24 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 37 | 28 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 19 | 11 | [k-pop](../../genres/k-pop/overview.md) |
 | 7 | 4 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 5 | 3 | korean city pop |
@@ -88,16 +88,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 10 | Lyricist, Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 12 | Lyricist, Arranger, Songwriter |
 | | 최예지 (Choi, Ye-ji) | 5 | Producer |
+| | Pop Time | 5 | Arranger, Songwriter |
 | | 빅싼초 (Bicksancho) | 4 | Songwriter, Arranger, Lyricist |
 | | 신재빈 (Shin, Jae Bin) | 3 | Producer |
-| | Pop Time | 3 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 3 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb091c34da2d67e72099260882" alt="" width="50" /> | HyunA | 2 | Lyricist |
+| | Kako | 2 | Arranger, Songwriter |
+| | MOJO | 2 | Lyricist, Songwriter, Arranger |
 | | 손영진 (Son, Young-jin) | 2 | Arranger, Lyricist, Songwriter |
-| | 서재우 (Seo, Jae-woo) | 2 | Arranger, Lyricist, Songwriter |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
 
 
 <details>
@@ -105,30 +105,37 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | 서재우 (Seo, Jae-woo) | 2 | Arranger, Lyricist, Songwriter |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
 | | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
-| | 조씨아저씨 (Mr. Cho) | 2 | Producer |
+| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | Boytoy | 2 | Lyricist, Songwriter, Arranger |
 | | MINNIE | 2 | Lyricist, Songwriter |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | Likey | 2 | Arranger, Songwriter |
+| | 조씨아저씨 (Mr. Cho) | 2 | Producer |
+| | Daily | 2 | Arranger, Songwriter |
 | | FCM 후디니 (FCM Houdini) | 1 | Arranger, Lyricist, Songwriter |
-| | 강선영 (강선영) | 1 | Producer |
+| | Milli Oshyun | 1 | Arranger, Songwriter |
 | | DRK | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 1 | Songwriter |
-| | Daily | 1 | Arranger, Songwriter |
+| | BreadBeat | 1 | Arranger, Songwriter |
+| | 강선영 (강선영) | 1 | Producer |
 | | 홍승성 (Hong, Seung-sung) | 1 | Producer |
-| | Kako | 1 | Arranger, Songwriter |
 | | Siixk Jun | 1 | Arranger, Songwriter |
-| | 로 (Raw) | 1 | Arranger |
+| | 양영은 (Yang, Young-eun) | 1 | Producer |
 | | JENCI | 1 | Arranger, Songwriter |
+| | 로 (Raw) | 1 | Arranger |
 | | HouDini | 1 | Arranger |
 | | 전지윤 (Jeon, Ji Yoon) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61f92702ca14484aa263a931" alt="" width="50" /> | Skrillex | 1 | Arranger, Songwriter |
-| | Likey | 1 | Arranger, Songwriter |
-| | BreadBeat | 1 | Arranger, Songwriter |
+| | Melli | 1 | Lyricist, Songwriter |
+| | 제인스 (Jayins) | 1 | Lyricist, Songwriter |
+| | 이승훈 (Lee, Seunghoon) | 1 | Arranger, Songwriter |
+| | 213 | 1 | Arranger, Lyricist, Songwriter |
 
 </details>
 
 
-![Bar chart of top 29 producers](../../images/labels/cube_entertainment/producers.png)
+![Bar chart of top 30 producers](../../images/labels/cube_entertainment/producers.png)
 ## Tracks released under CUBE ENTERTAINMENT
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -165,12 +172,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [88rising Music](../88rising_music), [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="" width="50" /> | Eyes Roll | HEAT | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [88rising Music](../88rising_music), [CUBE ENTERTAINMENT](.) | | [🔗](https://open.spotify.com/track/79yymC6QQaZ81jR2UYcPfy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | 7Days | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/1U7dCgahLpmAqLQ8YLh7tP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Fate | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/3qWCIDzq2fBeCMNOL27XLX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Vision | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | | [🔗](https://open.spotify.com/track/7Dc5JF6aM3FjRMemwC39Ho) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3qWCIDzq2fBeCMNOL27XLX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | Hate | Act. 7 | 4Minute | [CUBE ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) |

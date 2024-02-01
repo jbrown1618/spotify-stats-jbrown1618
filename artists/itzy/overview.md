@@ -49,7 +49,7 @@ ITZY is currently:
 - Dynamite is:
     - the #14 track of the last month
 - Run Away (RYUJIN) is:
-    - the #31 track of the last month
+    - the #32 track of the last month
 
 ### Top tracks of all time over time
 

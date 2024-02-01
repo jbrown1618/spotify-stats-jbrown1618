@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="Alt-Pop" width="100" />
 
-[156 tracks (109 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
+[159 tracks (110 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
 
 [See Track Features](audio_features.md)
 
@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 16 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 12 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 17 | 10 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 18 | 11 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 10 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
@@ -26,11 +26,12 @@
 
 
 <details>
-<summary>See all 74 artists</summary>
+<summary>See all 79 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 5 | 2 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 4 | 2 | Jacob Collier | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 2 | 2 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
@@ -52,6 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc3e907a4fb48f1ad94f5699" alt="" width="50" /> | 1 | 1 | The Womack Sisters | [🔗](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63592d2f45f3cbb873b49dd6" alt="" width="50" /> | 1 | 1 | EyeLoveBrandon | [🔗](https://open.spotify.com/artist/5nlf0Hcw7PI00zee655ZYX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb27dc24af3490dcafe89047fa" alt="" width="50" /> | 1 | 1 | Tank and The Bangas | [🔗](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59a426d643b74f05b8749b8d" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbef9dcf953d83b3faee5904" alt="" width="50" /> | 1 | 1 | Anjulie | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb379e885a01898367bfcd0c44" alt="" width="50" /> | 1 | 1 | Caro Emerald | [🔗](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) |
@@ -76,7 +78,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca25f8ab46855bc337be5180" alt="" width="50" /> | 1 | 1 | GoldFish | [🔗](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | 1 | 1 | Guy Sigsworth | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 1 | Jacob Collier | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc127b34fde8611765a74301" alt="" width="50" /> | 1 | 1 | Sarah Kang | [🔗](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37f1f9561ca834f48e22d37a" alt="" width="50" /> | 1 | 1 | Melt | [🔗](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | 1 | 1 | Jacob Banks | [🔗](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) |
@@ -84,15 +85,19 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | 1 | 0 | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 0 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 1 | 0 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771" alt="" width="50" /> | 1 | 0 | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9df0f924a5e609c8da143cd5" alt="" width="50" /> | 1 | 0 | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d43d4f87876abe90c71f6c" alt="" width="50" /> | 1 | 0 | VERNON | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | 1 | 0 | Tove Styrke | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 1 | 0 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90b6980f0ddd2a5c3d6a400f" alt="" width="50" /> | 1 | 0 | Lerin Herzer | [🔗](https://open.spotify.com/artist/1O3tPNfosJcQQNI6wmR5Xt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10e2b618880f429a3967185" alt="" width="50" /> | 1 | 0 | Lizzy McAlpine | [🔗](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | 1 | 0 | Ryan Lott | [🔗](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835" alt="" width="50" /> | 1 | 0 | John Mayer | [🔗](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | 1 | 0 | Adra Boo | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb83671efd372de7007f612e2" alt="" width="50" /> | 1 | 0 | Jukebox The Ghost | [🔗](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
 | | 1 | 0 | Billy McCarthy | [🔗](https://open.spotify.com/artist/02v2poO7JL5ixVE5GGfwkn) |
 
 </details>
@@ -119,7 +124,7 @@
 
 
 <details>
-<summary>See all 86 albums</summary>
+<summary>See all 89 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -165,6 +170,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbd56adf3064a9e24b3043f2" alt="" width="50" /> | 1 | 1 | Hey Hello | 2015-07-27 | [🔗](https://open.spotify.com/album/1hPQOTErkj7sRrlMXuSqnX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | 1 | 1 | Heard It In A Past Life | 2019-01-18 | [🔗](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="" width="50" /> | 1 | 1 | Far | 2009-06-09 | [🔗](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 1 | 1 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be78e6ffc01aaf7ff4481762" alt="" width="50" /> | 1 | 1 | Desert Song | 2020-05-29 | [🔗](https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="" width="50" /> | 1 | 1 | Deleted Scenes From The Cutting Room Floor | 2010-01-29 | [🔗](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="" width="50" /> | 1 | 1 | Daylight | 2023-04-14 | [🔗](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) |
@@ -189,6 +195,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | 1 | 0 | Sway | 2018-05-04 | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c97441be2b2856cbda9bcdf" alt="" width="50" /> | 1 | 0 | Saw It Coming | 2019-05-10 | [🔗](https://open.spotify.com/album/0SPZ4equvZdVOPzOYrS8pJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 1 | 0 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734dcc2837e0aa90e8c8dbba3f" alt="" width="50" /> | 1 | 0 | Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) | 2022-06-10 | [🔗](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="" width="50" /> | 1 | 0 | Messenger | 2015-06-29 | [🔗](https://open.spotify.com/album/3yQJY0tg0M2rQwWYUgkVQp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | 1 | 0 | Kid Krow | 2020-03-20 | [🔗](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e39924311bcd74bcd9f8dde1" alt="" width="50" /> | 1 | 0 | Jukebox The Ghost | 2015-04-07 | [🔗](https://open.spotify.com/album/3K5jW2vkunhourPeQ3DiwV) |
@@ -222,13 +230,14 @@
 
 
 <details>
-<summary>See all 56 labels</summary>
+<summary>See all 57 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 3 | Sony BMG Music UK |
 | 5 | 2 | Lux Finite Music |
+| 3 | 2 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 2 | 2 | Faouzia 2019 |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
@@ -260,7 +269,6 @@
 | 1 | 1 | Hear Music |
 | 1 | 1 | Grandmono Records |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
-| 1 | 1 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 1 | 1 | Concord Records |
 | 1 | 1 | Big Beat Records |
 | 2 | 0 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
@@ -268,6 +276,7 @@
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 0 | RCA Victor |
+| 1 | 0 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 0 | Kierszenbaum |
 | 1 | 0 | Flower Army Records |
 | 1 | 0 | EMI |
@@ -282,11 +291,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 52 | 36 | [pop](../../genres/pop/overview.md) |
+| 53 | 36 | [pop](../../genres/pop/overview.md) |
 | 33 | 23 | [electropop](../../genres/electropop/overview.md) |
 | 33 | 22 | [art pop](../../genres/art_pop/overview.md) |
 | 25 | 17 | [modern rock](../../genres/modern_rock/overview.md) |
-| 17 | 15 | uk alternative pop |
+| 19 | 16 | uk alternative pop |
 | 17 | 14 | baroque pop |
 | 12 | 10 | australian pop |
 | 16 | 9 | nz pop |
@@ -295,7 +304,7 @@
 
 
 <details>
-<summary>See all 72 genres</summary>
+<summary>See all 73 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -355,6 +364,7 @@
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish electropop |
 | 1 | 0 | swedish alternative rock |
+| 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new rave |
 | 1 | 0 | dance-punk |
 | 1 | 0 | chamber pop |
@@ -374,13 +384,13 @@
 | | Florence Welch | 13 | Songwriter, Lyricist |
 | | FINNEAS | 12 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | | Rob Kinelski | 9 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 8 | Lyricist, Producer, Songwriter |
 | | Greg Kurstin | 8 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Songwriter, Lyricist, Producer |
-| | Manny Marroquin | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Producer, Songwriter |
 | | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | Manny Marroquin | 7 | Producer |
 
 
 <details>
@@ -388,96 +398,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Songwriter, Lyricist, Producer |
 | | Alex Pasco | 6 | Producer |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
-| | Julian Burg | 5 | Producer |
 | | Emile Haynie | 5 | Producer |
-| | Larry Gold | 4 | Arranger |
-| | Dan Grech-Marguerat | 4 | Producer |
-| | Cenzo Townshend | 4 | Producer |
-| | Craig Silvey | 4 | Producer |
-| | Jack Patterson | 4 | Producer, Songwriter |
-| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
-| | Kid Harpoon | 4 | Songwriter, Lyricist, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
+| | Julian Burg | 5 | Producer |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
 | | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Kid Harpoon | 4 | Songwriter, Lyricist, Producer |
+| | Jack Patterson | 4 | Producer, Songwriter |
+| | Larry Gold | 4 | Arranger |
+| | Cenzo Townshend | 4 | Producer |
+| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
 | | Mark "Spike" Stent | 4 | Producer |
-| | Justin Parker | 3 | Producer, Songwriter |
-| | Jimmy Robertson | 3 | Producer |
-| | Sally Herbert | 3 | Arranger |
-| | James Ford | 3 | Producer |
+| | Dan Grech-Marguerat | 4 | Producer |
+| | Craig Silvey | 4 | Producer |
 | | Tom Elmhirst | 3 | Producer |
+| | Justin Parker | 3 | Producer, Songwriter |
 | | Grace Chatto | 3 | Producer, Songwriter |
+| | Sally Herbert | 3 | Arranger |
 | | David Kahne | 3 | Producer |
 | | Craig Bishop | 3 | Producer |
-| | John Hanes | 2 | Producer |
-| | Markus Dravs | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | Serban Ghenea | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | 2 | Songwriter |
-| | Mark "Top" Rankin | 2 | Producer |
-| | Steve Mac | 2 | Songwriter, Producer |
-| | Robin Baynton | 2 | Producer |
-| | Ina Wroldsen | 2 | Songwriter |
+| | Jimmy Robertson | 3 | Producer |
+| | James Ford | 3 | Producer |
 | | Bullion | 2 | Producer |
-| | Luke Patterson | 2 | Producer |
-| | Rob Kirwan | 2 | Producer |
-| | Tim Larcombe | 2 | Songwriter, Producer |
-| | Chris Braide | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
-| | M-Phazes | 2 | Producer |
+| | Robin Baynton | 2 | Producer |
+| | Steve Mac | 2 | Songwriter, Producer |
+| | Serban Ghenea | 2 | Producer |
 | | Mark Ralph | 2 | Producer |
-| | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
-| | David Schreurs | 1 | Songwriter |
-| | Will Owen | 1 | Arranger |
+| | Mark "Top" Rankin | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Markus Dravs | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | Sean Paul | 2 | Songwriter |
+| | Chris Braide | 2 | Producer, Songwriter |
+| | Ina Wroldsen | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2bb7d974821e5448d65842d9" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
+| | John Hanes | 2 | Producer |
+| | Rob Kirwan | 2 | Producer |
+| | Luke Patterson | 2 | Producer |
+| | M-Phazes | 2 | Producer |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| | Casey Cuayo | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
+| | Ali Helnwein | 1 | Arranger |
+| | Pete Prokopiw | 1 | Producer |
+| | KAMILLE | 1 | Songwriter |
+| | Dave Bayley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | Jacob Banks | 1 | Songwriter |
+| | Mat Bartram | 1 | Producer |
+| | Thomas Warren | 1 | Producer |
+| | Matt Dunkley | 1 | Arranger |
+| | Eli Crews | 1 | Producer |
+| | Rich Costey | 1 | Producer |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Liam Nolan | 1 | Producer |
+| | Ryan Ritchie | 1 | Producer |
+| | Brian Degraw | 1 | Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
+| | Bram Inscore | 1 | Producer, Songwriter |
+| | Martin Cooke | 1 | Producer |
+| | Hugues Payen de La Garanderie | 1 | Producer |
+| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | 1 | Songwriter |
+| | J. Tyler Johnson | 1 | Songwriter |
+| | Rachel Kramer | 1 | Songwriter |
 | | Josh Taylor | 1 | Songwriter |
-| | Jia Lih | 1 | Producer |
+| | Bob Gaudio | 1 | Songwriter |
 | | Adam Hawkins | 1 | Producer |
 | | Steve Mackey | 1 | Producer |
 | | Nicolas Fournier | 1 | Producer |
-| | Andrew Scheps | 1 | Producer |
-| | Anmol Malik | 1 | Songwriter |
 | | Fred again.. | 1 | Songwriter |
-| | Josh Diamond | 1 | Songwriter |
-| | Dan Auerbach | 1 | Producer |
-| | Brent Kolatalo | 1 | Producer |
-| | Jeremy Hatcher | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | Demi Lovato | 1 | Songwriter |
-| | James Krausse | 1 | Producer, Songwriter |
-| | Vincent Degiorgio | 1 | Songwriter |
-| | Richard Flack | 1 | Producer |
-| | Rush | 1 | Songwriter |
-| | Emiko Bankson | 1 | Songwriter |
-| | Jimmy Napes | 1 | Songwriter |
-| | Andrew Swanson | 1 | Producer, Songwriter |
-| | Hans Zimmer | 1 | Arranger |
-| | J. Tyler Johnson | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
-| | SLUMS | 1 | Producer |
-| | Brian Degraw | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | 1 | Producer, Songwriter |
-| | Francis White | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | Diplo | 1 | Producer |
-| | Robopop | 1 | Producer |
-| | Matt Dunkley | 1 | Arranger |
-| | Thomas Warren | 1 | Producer |
-| | Mat Bartram | 1 | Producer |
-| | Hal Ritson | 1 | Producer |
-| | Noonie Bao | 1 | Songwriter |
-| | Eli Heisler | 1 | Producer |
-| | KAMILLE | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | Troye Sivan | 1 | Songwriter |
-| | Ali Helnwein | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | Jacob Banks | 1 | Songwriter |
-| | Ryan Ritchie | 1 | Producer |
-| | Oscar Holter | 1 | Producer, Songwriter |
-| | Bram Inscore | 1 | Producer, Songwriter |
-| | Fagan Wilcox | 1 | Producer |
-| | Hugues Payen de La Garanderie | 1 | Producer |
-| | Rich Costey | 1 | Producer |
+| | SLUMS | 1 | Producer |
+| | James Krausse | 1 | Producer, Songwriter |
+| | Andrew Scheps | 1 | Producer |
+| | Mattias Larsson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | Demi Lovato | 1 | Songwriter |
+| | Charlie Hugall | 1 | Producer |
+| | Dan Auerbach | 1 | Producer |
+| | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
+| | Vincent Degiorgio | 1 | Songwriter |
+| | Jeremy Hatcher | 1 | Producer |
+| | Leland | 1 | Songwriter |
+| | Trevor Yasuda | 1 | Producer |
+| | Josh Diamond | 1 | Songwriter |
+| | David Schreurs | 1 | Songwriter |
+| | Jaime Wosk | 1 | Producer |
+| | Anmol Malik | 1 | Songwriter |
+| | Jia Lih | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | Jacob Collier | 1 | Arranger, Producer, Songwriter |
+| | Will Owen | 1 | Arranger |
 
 </details>
 
@@ -492,9 +502,9 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 6 |
-| 2022 | 7 |
-| 2021 | 5 |
-| 2020 | 9 |
+| 2022 | 8 |
+| 2021 | 6 |
+| 2020 | 10 |
 | 2019 | 17 |
 | [2018](2018.md) | 20 |
 | 2017 | 11 |
@@ -524,7 +534,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="A Reckoning" width="50" /> | A Reckoning (2023-01-27) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> | Surrender (2022-07-29) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="Chasing Tomorrow" width="50" /> | Chasing Tomorrow (2022-07-22) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | CITIZENS (2022-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Far (2009-06-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="Beg For You (A. G. Cook &amp; VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]" width="50" /> | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734dcc2837e0aa90e8c8dbba3f" alt="Never Gonna Be Alone (feat. Lizzy McAlpine &amp; John Mayer)" width="50" /> | Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) (2022-06-10) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | CITIZENS (2022-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Far (2009-06-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |

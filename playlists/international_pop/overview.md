@@ -96,7 +96,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcab7641233163bb5d6c5d527" alt="" width="50" /> | 1 | 0 | Master KG | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb179aad93276b141b9848ca1" alt="" width="50" /> | 1 | 0 | Angela Chang | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | 1 | 0 | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb50d73299ce6b2272ff210329" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb56c0e871603f6da8fdf0ac38" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4584e515db2e33c8b920d" alt="" width="50" /> | 1 | 0 | Nkosazana Daughter | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba51bae36c3e40b129f925fe" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |

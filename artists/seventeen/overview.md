@@ -36,7 +36,7 @@ SEVENTEEN is currently:
 - Left & Right is:
     - the #9 track of all time
 - HOME;RUN is:
-    - the #49 track of the last month
+    - the #48 track of the last month
     - the #42 track of all time
 
 ### Top tracks of all time over time

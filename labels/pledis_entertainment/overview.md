@@ -15,12 +15,12 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 21 | 12 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcae99c0bae2247ad4cb0c904" alt="" width="50" /> | 2 | 1 | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 1 | 1 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1250323a2b6b2fb72c03d898" alt="" width="50" /> | 1 | 1 | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb95da7df958691cf92d619bea" alt="" width="50" /> | 1 | 1 | WONWOO | [🔗](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | 1 | 1 | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcae99c0bae2247ad4cb0c904" alt="" width="50" /> | 2 | 0 | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5957f0e648d81871e5b15d4" alt="" width="50" /> | 1 | 0 | HOSHI | [🔗](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) |
 
 ![Bar chart of top 8 artists](../../images/labels/pledis_entertainment/artists.png)
@@ -34,11 +34,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a20972c9a083d5cece9ce5" alt="" width="50" /> | 2 | 2 | SEVENTEEN 8th Mini Album 'Your Choice' | 2021-06-18 | [🔗](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | 2 | 1 | SEVENTEEN 10th Mini Album 'FML' | 2023-04-24 | [🔗](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | 2 | 1 | Heng:garæ | 2020-06-22 | [🔗](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385cbf5f5fd777ff74de3bafa" alt="" width="50" /> | 1 | 1 | Unlock My World | 2023-06-05 | [🔗](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | 1 | 1 | SEVENTEEN 9th Mini Album 'Attacca' | 2021-10-22 | [🔗](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273005799610338a5b57d865926" alt="" width="50" /> | 1 | 1 | SEVENTEEN 4th Mini Album ‘Al1’ | 2017-05-22 | [🔗](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | 1 | 1 | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | 2016-04-25 | [🔗](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | 1 | 1 | Bittersweet (feat. LeeHi) | 2021-05-28 | [🔗](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | 1 | 1 | BSS 1st Single Album 'SECOND WIND' | 2023-02-06 | [🔗](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) |
 
 
 <details>
@@ -46,8 +46,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | 1 | 1 | BSS 1st Single Album 'SECOND WIND' | 2023-02-06 | [🔗](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | 1 | 1 | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385cbf5f5fd777ff74de3bafa" alt="" width="50" /> | 1 | 0 | Unlock My World | 2023-06-05 | [🔗](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="" width="50" /> | 1 | 0 | Spider | 2021-04-02 | [🔗](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a157795d939b7a6868d207" alt="" width="50" /> | 1 | 0 | SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2) | 2017-11-06 | [🔗](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383edaef854fd4a05016178e9" alt="" width="50" /> | 1 | 0 | SEVENTEEN 1st Mini Album ’17 CARAT’ | 2015-05-29 | [🔗](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) |
@@ -64,9 +64,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 13 | [k-pop](../../genres/k-pop/overview.md) |
+| 25 | 14 | [k-pop](../../genres/k-pop/overview.md) |
 | 21 | 12 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 2 | 0 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 2 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/labels/pledis_entertainment/genres.png)
 
@@ -106,7 +106,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | Monster | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1RMnVmHGSvxlexnenQEXSb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="" width="50" /> | Bittersweet (feat. LeeHi) | Bittersweet (feat. LeeHi) | WONWOO, MINGYU, [LeeHi](../../artists/leehi/overview.md) | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | DM | Midnight Guest | fromis_9 | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385cbf5f5fd777ff74de3bafa" alt="" width="50" /> | Attitude | Unlock My World | fromis_9 | [PLEDIS Entertainment](.) | | [🔗](https://open.spotify.com/track/1jkoDKZBMInTDwGlqoPOFC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385cbf5f5fd777ff74de3bafa" alt="" width="50" /> | Attitude | Unlock My World | fromis_9 | [PLEDIS Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1jkoDKZBMInTDwGlqoPOFC) |
 
 </details>
 

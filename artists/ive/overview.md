@@ -30,8 +30,8 @@ IVE is currently:
 - I AM is:
     - the #14 track of the last 6 months
 - Baddie is:
-    - the #47 track of the last month
-    - the #47 track of the last 6 months
+    - the #46 track of the last month
+    - the #46 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

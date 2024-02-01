@@ -29,9 +29,9 @@ NMIXX is currently:
 ## Top Tracks
 
 - Love Me Like This is:
-    - the #46 track of the last 6 months
+    - the #45 track of the last 6 months
 - Soñar (Breaker) is:
-    - the #41 track of the last month
+    - the #40 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -36,7 +36,7 @@ Girls' Generation is currently:
 - Lion Heart is:
     - the #47 track of all time
 - The Boys is:
-    - the #42 track of the last 6 months
+    - the #41 track of the last 6 months
 
 ### Top tracks of all time over time
 

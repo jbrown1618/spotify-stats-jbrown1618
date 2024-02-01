@@ -11,7 +11,6 @@ JEON SOYEON:
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #22 artist of the last month
 - The #41 artist of the last 6 months
 - The #32 artist of all time
 
@@ -23,7 +22,6 @@ JEON SOYEON is currently:
 - DESSERT is:
     - the #33 track of all time
 - NOBODY is:
-    - the #44 track of the last month
     - the #32 track of the last 6 months
 
 ### Top tracks of all time over time
@@ -74,10 +72,10 @@ JEON SOYEON is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 8 |
-| Lyricist | 13 |
-| Songwriter | 10 |
-| Vocal | 11 |
+| Arranger | 10 |
+| Lyricist | 15 |
+| Songwriter | 12 |
+| Vocal | 15 |
 
 ### Production Credits
 
@@ -103,6 +101,8 @@ JEON SOYEON is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | Arranger, Lyricist, Songwriter |
 
 </details>
 

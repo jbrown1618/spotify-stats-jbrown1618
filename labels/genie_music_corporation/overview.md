@@ -1,13 +1,13 @@
 # Genie Music Corporation
 
-118 songs
+116 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Genie Music Corporation, Stone Music Entertainment (86 tracks)
+- Genie Music Corporation, Stone Music Entertainment (84 tracks)
 - Genie Music Corporation (31 tracks)
 - Genie Music Corporation;Stone Music Entertainment (1 tracks)
 
@@ -15,8 +15,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 10 | 7 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 10 | 7 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 8 | 7 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="" width="50" /> | 7 | 7 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | 7 | 5 | [YENA](../../artists/yena/overview.md) | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 6 | 5 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -28,7 +28,7 @@ Appears as:
 
 
 <details>
-<summary>See all 84 artists</summary>
+<summary>See all 83 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -79,7 +79,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c8fe4d8c72bbd833ceaf202" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | 2 | 0 | JAMIE | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f6cf5579e018ef3c51887fd" alt="" width="50" /> | 1 | 0 | Sung Si Kyung | [🔗](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02540455027f77fe3abc9cea" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | 1 | 0 | CHEETAH | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 1 | 0 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
@@ -129,7 +128,7 @@ Appears as:
 
 
 <details>
-<summary>See all 97 albums</summary>
+<summary>See all 95 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -204,7 +203,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="" width="50" /> | 1 | 0 | Re-Original | 2022-05-25 | [🔗](https://open.spotify.com/album/4vb8wQPnaNgnmUrrmnISOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e412451691682611af56f1" alt="" width="50" /> | 1 | 0 | Queendom < Box of Pandora > Pt. 1 | 2019-10-18 | [🔗](https://open.spotify.com/album/75ii7SGF9jbD1ireJ0CeNI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="" width="50" /> | 1 | 0 | Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack) | 2023-04-02 | [🔗](https://open.spotify.com/album/28afuQsobhUrDWQRaJWclH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f59e13ff902e5bc226bdad8" alt="" width="50" /> | 1 | 0 | My Beloved | 2024-01-16 | [🔗](https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa0046f64f34c168d3acb760" alt="" width="50" /> | 1 | 0 | MONOCHROME | 2013-05-21 | [🔗](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | 1 | 0 | Lyricist | 2020-06-10 | [🔗](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0e950fe2053cf719140d682" alt="" width="50" /> | 1 | 0 | LULLABY | 2021-08-27 | [🔗](https://open.spotify.com/album/7knAHnDVbgtX05qgU0ZcgT) |
@@ -218,7 +216,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | 1 | 0 | CIX 5th EP Album ‘OK’ Episode 1 : OK Not | 2022-08-22 | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="" width="50" /> | 1 | 0 | BOYS PLANET - FINAL TOP9 BATTLE | 2023-04-21 | [🔗](https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | 1 | 0 | BOYHOOD | 2023-06-07 | [🔗](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f5ee4f944ec0f98e4e84363d" alt="" width="50" /> | 1 | 0 | Alley | 2023-12-12 | [🔗](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbcb3e52c772d774ba73b9c2" alt="" width="50" /> | 1 | 0 | 2nd EP Album ‘Bipolar Pt.2 Prelude of Love’ | 2021-10-26 | [🔗](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) |
 
 </details>
@@ -230,7 +227,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 81 | 57 | [k-pop](../../genres/k-pop/overview.md) |
+| 79 | 57 | [k-pop](../../genres/k-pop/overview.md) |
 | 29 | 20 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 22 | 17 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 16 | 9 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
@@ -387,8 +384,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Savior (feat. B.I) | 4 ONLY | [LeeHi](../../artists/leehi/overview.md), B.I | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0DYvTdqBqW6erA1a7pFzVo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Waterride | 4 ONLY | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7JXNH2xnA23vsGasejVfWr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732935077d74bdd9c65a3956b5" alt="" width="50" /> | For You (Holiday Remix) - Spotify Singles Holiday | Spotify Singles - Holiday | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f5ee4f944ec0f98e4e84363d" alt="" width="50" /> | Alley (with SUNG SI KYUNG) | Alley | [LeeHi](../../artists/leehi/overview.md), Sung Si Kyung | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f59e13ff902e5bc226bdad8" alt="" width="50" /> | My Beloved | My Beloved | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | Say Yes | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | Loco, Punch | [Genie Music Corporation](.) | 💚 | [🔗](https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | Don’t | The Hyena on the Keyboard Pt. 4 | Loco, [HWASA](../../artists/hwasa/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6KyafpXji3NKMmlmSokT9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](../../artists/mamamoo/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |

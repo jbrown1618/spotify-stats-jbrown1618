@@ -25,7 +25,7 @@ GOT the beat is currently:
 ## Top Tracks
 
 - Step Back is:
-    - the #50 track of the last month
+    - the #49 track of the last month
 
 ### Top tracks of the last 6 months over time
 

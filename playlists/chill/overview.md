@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[227 tracks (183 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
+[229 tracks (183 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
 
 [See Track Features](audio_features.md)
 
@@ -38,19 +38,19 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 3 | 3 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 3 | 3 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15422eafa9652b98103d4a52" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99752c006407988976248679" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 3 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 3 | 3 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5607fb8bdd9008b222ce94a" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 4 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 3 | 2 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9927ea0870855be7b3367c79" alt="" width="50" /> | 3 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 3 | 2 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb61b0348367c6466a6282f5a5" alt="" width="50" /> | 3 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 2 | 2 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd40fae46480e4202ef69316d" alt="" width="50" /> | 2 | 2 | YUJU | [🔗](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 2 | 2 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9ebaed4aff83909fedc1dd6" alt="" width="50" /> | 2 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 2 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 2 | 2 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 2 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | 2 | 2 | YUKIKA | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 2 | 2 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
@@ -68,7 +68,7 @@
 | | 1 | 1 | Jang Yi-jeong | [🔗](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 1 | 1 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65f946e1c1bdc8bc9b75b049" alt="" width="50" /> | 1 | 1 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb6bc473ae661f7feabadef18" alt="" width="50" /> | 1 | 1 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbda57bbc9952b3f1dbf2fbd7" alt="" width="50" /> | 1 | 1 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe70125afbbed90ac3e9339ba" alt="" width="50" /> | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61f2c97935a963ff7d2cc34b" alt="" width="50" /> | 1 | 1 | SHAUN | [🔗](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) |
@@ -262,7 +262,7 @@
 
 
 <details>
-<summary>See all 89 labels</summary>
+<summary>See all 90 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -287,6 +287,7 @@
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
+| 2 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 2 | 1 | MAGIC STRAWBERRY SOUND |
 | 2 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 2 | 1 | FNC인베스트먼트 |
@@ -309,7 +310,6 @@
 | 1 | 1 | Sony Music Entertainment |
 | 1 | 1 | Red Zone Entertainment |
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 1 | Parlophone Records Limited |
 | 1 | 1 | MYSTIC Entertainment |
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
@@ -345,6 +345,7 @@
 | 1 | 0 | THEBLACKLABEL |
 | 1 | 0 | [Jive](../../labels/jive/overview.md) |
 | 1 | 0 | [HYBE](../../labels/hybe/overview.md) |
+| 1 | 0 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 
 </details>
 
@@ -356,7 +357,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 130 | 99 | [k-pop](../../genres/k-pop/overview.md) |
-| 46 | 35 | [pop](../../genres/pop/overview.md) |
+| 47 | 35 | [pop](../../genres/pop/overview.md) |
 | 41 | 31 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 29 | 21 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 19 | 14 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -368,7 +369,7 @@
 
 
 <details>
-<summary>See all 63 genres</summary>
+<summary>See all 64 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -383,8 +384,8 @@
 | 3 | 3 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
+| 3 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
-| 2 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 2 | japanese teen pop |
 | 2 | 2 | british soul |
 | 2 | 1 | k-indie |
@@ -421,6 +422,7 @@
 | 1 | 1 | alternative r&b |
 | 1 | 1 | alt z |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
+| 1 | 0 | uk alternative pop |
 | 1 | 0 | [rap](../../genres/rap/overview.md) |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | k-pop ballad |
@@ -482,7 +484,7 @@
 | | DRK | 2 | Producer |
 | | BreadBeat | 2 | Arranger, Songwriter |
 | | John Hanes | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa42f180402c30730380a90" alt="" width="50" /> | HUH YUNJIN | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 2 | Lyricist, Songwriter |
 | | Charli Taft | 2 | Arranger, Songwriter, Lyricist |
 | | Jason Roberts | 2 | Producer |
 | | Guy Berryman | 2 | Songwriter |
@@ -556,8 +558,8 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2023 | 19 |
-| [2022](2022.md) | 47 |
-| [2021](2021.md) | 36 |
+| [2022](2022.md) | 48 |
+| [2021](2021.md) | 37 |
 | [2020](2020.md) | 30 |
 | [2019](2019.md) | 23 |
 | 2018 | 13 |

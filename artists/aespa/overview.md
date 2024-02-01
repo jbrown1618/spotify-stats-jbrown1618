@@ -53,12 +53,11 @@ aespa is currently:
 - Don't Blink is:
     - the #26 track of the last 6 months
 - Hold On Tight is:
-    - the #35 track of the last month
     - the #28 track of the last 6 months
 - YOLO is:
     - the #36 track of the last 6 months
 - Beautiful Christmas is:
-    - the #49 track of the last 6 months
+    - the #48 track of the last 6 months
 
 ### Top tracks of all time over time
 

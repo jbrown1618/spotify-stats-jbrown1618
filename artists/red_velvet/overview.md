@@ -36,27 +36,26 @@ Red Velvet is currently:
 - Ice Cream Cake is:
     - the #27 track of all time
 - RBB (Really Bad Boy) is:
-    - the #37 track of the last 6 months
     - the #45 track of all time
 - One Kiss is:
-    - the #32 track of the last month
+    - the #33 track of the last month
     - the #10 track of the last 6 months
 - Chill Kill is:
-    - the #40 track of the last month
+    - the #39 track of the last month
     - the #11 track of the last 6 months
 - Nightmare is:
-    - the #48 track of the last month
+    - the #47 track of the last month
     - the #17 track of the last 6 months
 - Bulldozer is:
-    - the #39 track of the last month
+    - the #38 track of the last month
     - the #29 track of the last 6 months
 - 7월 7일 One Of These Nights is:
     - the #35 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #45 track of the last month
-    - the #43 track of the last 6 months
+    - the #44 track of the last month
+    - the #42 track of the last 6 months
 - Beautiful Christmas is:
-    - the #49 track of the last 6 months
+    - the #48 track of the last 6 months
 - On A Ride is:
     - the #5 track of the last month
 

@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 86 genres</summary>
+<summary>See all 85 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -270,7 +270,6 @@
 | 1 | 1 | talent show |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
-| 1 | 1 | seattle indie |
 | 1 | 1 | quiet storm |
 | 1 | 1 | punk |
 | 1 | 1 | progressive bluegrass |

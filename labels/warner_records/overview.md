@@ -159,14 +159,13 @@ Appears as:
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 55 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
 | 6 | 4 | [k-pop](../../genres/k-pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
-| 4 | 4 | seattle indie |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
 | 4 | 4 | indie rock |

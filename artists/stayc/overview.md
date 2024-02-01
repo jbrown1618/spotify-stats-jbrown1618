@@ -31,9 +31,9 @@ STAYC is currently:
     - the #11 track of the last month
     - the #5 track of the last 6 months
 - ﻿Not Like You is:
-    - the #48 track of the last 6 months
+    - the #47 track of the last 6 months
 - BUTTERFLY is:
-    - the #18 track of the last month
+    - the #17 track of the last month
 
 ### Top tracks of the last 6 months over time
 

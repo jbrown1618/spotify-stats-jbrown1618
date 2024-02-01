@@ -33,7 +33,7 @@ ENHYPEN is currently:
 - Just A Little Bit is:
     - the #48 track of all time
 - Sweet Venom is:
-    - the #33 track of the last month
+    - the #34 track of the last month
     - the #6 track of the last 6 months
 - CRIMINAL LOVE is:
     - the #8 track of the last 6 months

@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94de3b464a999a50d4611220" alt="" width="50" /> | 1 | 0 | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
-| | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734979afe7767788a5f22eb4ce" alt="" width="50" /> | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | 1 | 0 | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0864dea3c557afdb250248b" alt="" width="50" /> | 1 | 0 | Paul Kandel | [🔗](https://open.spotify.com/artist/6M3XR163Q68THc9IFMwfAH) |
@@ -111,7 +111,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb747ae6e10c5cffd0087b91bf" alt="" width="50" /> | 1 | 0 | John Oliver | [🔗](https://open.spotify.com/artist/0J5AcRTl5C6aBnxCxZKpf3) |
 | | 1 | 0 | Gabriella Flores | [🔗](https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS) |
 | | 1 | 0 | Paige Price | [🔗](https://open.spotify.com/artist/0GzTqQj6pGeI2iW6cA0uSR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e28a135e8a46e60bcc50ad2" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e4e74ca71f2209950d3e58f8" alt="" width="50" /> | 1 | 0 | Gael Garcia Bernal | [🔗](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) |
 | | 1 | 0 | Mary Moder | [🔗](https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh) |
 | | 1 | 0 | James Hong | [🔗](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN) |
 

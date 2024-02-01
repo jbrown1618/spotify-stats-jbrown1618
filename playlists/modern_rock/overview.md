@@ -289,7 +289,6 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 9 | 7 | chamber pop |
-| 8 | 7 | seattle indie |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
 | 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
@@ -322,6 +321,7 @@
 | 3 | 2 | garage rock |
 | 2 | 2 | washington indie |
 | 2 | 2 | stomp and holler |
+| 2 | 2 | seattle indie |
 | 2 | 2 | neo-synthpop |
 | 2 | 2 | metropopolis |
 | 2 | 2 | celtic rock |
