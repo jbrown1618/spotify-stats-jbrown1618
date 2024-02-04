@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5589628948575bfe10b4cbbd" alt="" width="50" /> | 1 | 0 | JUST B | [🔗](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55083bec4696aa1fb3a146e8" alt="" width="50" /> | 1 | 0 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a15a465fa723c01518e1c21" alt="" width="50" /> | 1 | 0 | Ciipher | [🔗](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="" width="50" /> | 1 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="" width="50" /> | 1 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | KINGDOM | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb27819e3eca1ce5290364958" alt="" width="50" /> | 1 | 0 | THE NEW SIX | [🔗](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) |
 

@@ -135,7 +135,7 @@ Coldplay:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](overview.md), We Are KING, Jacob Collier | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](overview.md), We Are KING, [Jacob Collier](../jacob_collier/overview.md) | [Parlophone UK](../../labels/parlophone_uk) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
 
 </details>
 

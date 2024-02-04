@@ -9,6 +9,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [Cube Entertainment](../../../../labels/cube_entertainment) | 💚 | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Orange Flower (You Complete Me) | ORANGE BLOOD | [ENHYPEN](../../../../artists/enhypen/overview.md) | [BELIFT LAB](../../../../labels/belift_lab) | 💚 | [🔗](https://open.spotify.com/track/5Cb3JSisvjlZhjSfYD6d7C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../../../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
@@ -16,7 +17,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../../../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Night Away | Guilty - The 4th Mini Album | TAEMIN | [SM Entertainment](../../../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/0zjkBOwL8upqIOmufTO6tT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | Untie | The 4th Mini Album 'VERSUS' | [VIVIZ](../../../../artists/viviz/overview.md) | BIGPLANETMADE | 💚 | [🔗](https://open.spotify.com/track/2tEuf4YE9NbDO39DI35QZd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363afb50f4fcb52f570c5fed5" alt="" width="50" /> | DALALA | DALALA | YUJU | ADA Korea | 💚 | [🔗](https://open.spotify.com/track/0Aa9I95cft2JJB1g7dmhNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](../../../../artists/aespa/overview.md) | [SM Entertainment](../../../../labels/sm_entertainment), [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
 ## Cluster #2
 
@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
 ## Cluster #3
 
-23 tracks
+21 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|

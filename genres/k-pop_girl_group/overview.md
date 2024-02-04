@@ -1,6 +1,6 @@
 # k-pop girl group
 
-550 songs
+552 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 76 | 58 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 78 | 59 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="" width="50" /> | 45 | 33 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 48 | 31 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 44 | 30 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
@@ -94,7 +94,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc88f194bc631713f1ddafca9" alt="" width="50" /> | 1 | 0 | Brown Eyed Girls | [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | 1 | 0 | Bekuh Boom | [🔗](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL) |
 | <img src="https://i.scdn.co/image/cd8af1e4b3bcab50bc4457ea1d4bd21bb51654dc" alt="" width="50" /> | 1 | 0 | T-ARA | [🔗](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="" width="50" /> | 1 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="" width="50" /> | 1 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb14ac8d64846c5415fb675c9c" alt="" width="50" /> | 1 | 0 | Annika Wells | [🔗](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | 1 | 0 | OH MY GIRL BANHANA | [🔗](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -128,6 +128,7 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | 6 | 5 | 2 | 2024-01-29 | [🔗](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 5 | 5 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 5 | 5 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
@@ -145,7 +146,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 5 | 3 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | 5 | 2 | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 4 | 4 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | 4 | 4 | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | 4 | 4 | UNFORGIVEN | 2023-05-01 | [🔗](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 4 | 4 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
@@ -226,7 +226,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 125 | 95 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 127 | 96 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 94 | 66 | [Republic Records](../../labels/republic_records/overview.md) |
 | 37 | 28 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 30 | 23 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |

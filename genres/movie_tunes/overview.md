@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/b7cb8a2d95ba2ca94fc0e133611b5b680014c52e" alt="" width="50" /> | 1 | 0 | Auli'i Cravalho | [🔗](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3b56ff58ed402be417316b" alt="" width="50" /> | 1 | 0 | Rowan Atkinson | [🔗](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd1ed154ee983c5af04e74" alt="" width="50" /> | 1 | 0 | Lillias White | [🔗](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq) |
-| | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ebd189b554fe7da4ffa2bfd" alt="" width="50" /> | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733179327b8f6c31d3791bbc26" alt="" width="50" /> | 1 | 0 | Thurl Ravenscroft | [🔗](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) |
 | | 1 | 0 | Donna Murphy | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |
 | | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |

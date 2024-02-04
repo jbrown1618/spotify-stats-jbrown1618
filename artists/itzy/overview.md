@@ -32,7 +32,7 @@ ITZY is currently:
     - the #12 track of the last 6 months
 - Kill Shot is:
     - the #25 track of the last month
-    - the #18 track of the last 6 months
+    - the #17 track of the last 6 months
 - Mr. Vampire is:
     - the #1 track of the last month
     - the #33 track of the last 6 months
@@ -45,11 +45,11 @@ ITZY is currently:
 - Mine (CHAERYEONG) is:
     - the #8 track of the last month
 - Crown On My Head (YEJI) is:
-    - the #13 track of the last month
+    - the #12 track of the last month
 - Dynamite is:
-    - the #14 track of the last month
+    - the #15 track of the last month
 - Run Away (RYUJIN) is:
-    - the #32 track of the last month
+    - the #33 track of the last month
 
 ### Top tracks of all time over time
 
@@ -63,9 +63,9 @@ ITZY is currently:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 37 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 16 | [Workout](../../playlists/workout/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 11 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 12 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 8 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 7 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |

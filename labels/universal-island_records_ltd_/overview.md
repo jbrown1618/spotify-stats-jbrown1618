@@ -34,7 +34,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 14 | uk alternative pop |
+| 15 | 14 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 15 | 14 | [modern rock](../../genres/modern_rock/overview.md) |
 | 15 | 14 | [electropop](../../genres/electropop/overview.md) |
 | 15 | 14 | baroque pop |

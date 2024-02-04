@@ -107,7 +107,7 @@
 | | Ben Bloomberg | 1 | Producer |
 | | Martin Cooke | 1 | Producer |
 | | Eli Crews | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | Jacob Collier | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../jacob_collier/overview.md) | 1 | Arranger, Producer, Songwriter |
 | | George Stone | 1 | Lyricist, Songwriter |
 
 </details>
@@ -119,7 +119,7 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a2a91f99d869c4ca51362ff" alt="" width="50" /> | Somebody That I Used To Know | Aussie Legends | Gotye, [Kimbra](overview.md) | UMG Recordings, Inc. | 💚 | [🔗](https://open.spotify.com/track/54ZV2zBKOn1EVDUs7Jvf2F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | Jacob Collier, [Kimbra](overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../jacob_collier/overview.md), [Kimbra](overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Cameo Lover | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6mEDMe0zG5pYrsRxizjauk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Good Intent | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/5vLJID1JbJEpYdYLWIGVXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |

@@ -1,6 +1,6 @@
 # korean r&b
 
-60 songs
+61 songs
 
 [See Track Features](audio_features.md)
 
@@ -15,9 +15,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 5 | 4 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 5 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 5 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 5 | 3 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b4f4e41ade4e4d1216ef20a" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 4 | 2 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4f59dbe2f77b0908dbb46583" alt="" width="50" /> | 4 | 2 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 3 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 
@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18c434d49d7d2f82199fde6d" alt="" width="50" /> | 1 | 1 | Sam Kim | [🔗](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f08b378da7264ab55dbfd83" alt="" width="50" /> | 1 | 1 | HOMIES | [🔗](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11f9b8e5a1715fe12e219caa" alt="" width="50" /> | 1 | 1 | YURI | [🔗](https://open.spotify.com/artist/2TMRvcwsmvVhvuEbKVEbZe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 1 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 1 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
@@ -77,7 +77,7 @@
 
 
 <details>
-<summary>See all 50 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -104,6 +104,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | 1 | 1 | GANADARA | 2022-03-11 | [🔗](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d56b95f88f4743d79aa62f4" alt="" width="50" /> | 1 | 1 | First Sight | 2018-12-14 | [🔗](https://open.spotify.com/album/5M9f9Tze7sspUDrIAjdCgV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="" width="50" /> | 1 | 1 | EVERYTHING YOU WANTED | 2016-10-20 | [🔗](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="" width="50" /> | 1 | 1 | DIE 4 YOU | 2023-11-18 | [🔗](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="" width="50" /> | 1 | 1 | Can't Stop This Party | 2022-03-22 | [🔗](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="" width="50" /> | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f" alt="" width="50" /> | 1 | 1 | Abyss (Original Television Soundtrack), Pt. 1 | 2019-05-14 | [🔗](https://open.spotify.com/album/0OLyahO2nuY0qQKoykd7Vy) |
@@ -137,10 +138,10 @@
 | 4 | 4 | Feel Ghood Music |
 | 3 | 2 | Million Market |
 | 2 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 2 | 2 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 2 | 2 | FeelGhoodMusic |
 | 3 | 1 | THEBLACKLABEL |
 | 3 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 1 | 1 | 피네이션 |
 
 
 <details>
@@ -148,7 +149,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
+| 1 | 1 | 피네이션 |
 | 1 | 1 | Studio MaumC |
 | 1 | 1 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 1 | 1 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
@@ -187,14 +188,14 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | Last Winter (2023-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="Solar International" width="50" /> | Solar International (2010-08-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="Amigos (with Becky G)" width="50" /> | Amigos (with Becky G) (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="LUCKYNUMBERS" width="50" /> | LUCKYNUMBERS (2013-07-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273518825572b402484dff66429" alt="wonderego" width="50" /> | wonderego (2023-11-14) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c58101394306d8fccaeeb8" alt="Very Good" width="50" /> | Very Good (2013-10-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Doona! (Music from The Netflix Series) (2023-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | LOVE & HATE (2013-11-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Street Woman Fighter2 (SWF2) Class Mission (2023-09-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | RISE (2014-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | HER (2014-07-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="Street Woman Fighter2 (SWF2) Crew Songs" width="50" /> | Street Woman Fighter2 (SWF2) Crew Songs (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="MOMMAE" width="50" /> | MOMMAE (2015-05-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="WORLDWIDE" width="50" /> | WORLDWIDE (2015-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | 130 Mood : TRBL (2016-03-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Lowlife Princess: Noir (2022-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU (2023-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="LUCKYNUMBERS" width="50" /> | LUCKYNUMBERS (2013-07-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="Amigos (with Becky G)" width="50" /> | Amigos (with Becky G) (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c58101394306d8fccaeeb8" alt="Very Good" width="50" /> | Very Good (2013-10-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273518825572b402484dff66429" alt="wonderego" width="50" /> | wonderego (2023-11-14) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | LOVE & HATE (2013-11-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Doona! (Music from The Netflix Series) (2023-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | RISE (2014-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Street Woman Fighter2 (SWF2) Class Mission (2023-09-05) | <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | HER (2014-07-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="MOMMAE" width="50" /> | MOMMAE (2015-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="Street Woman Fighter2 (SWF2) Crew Songs" width="50" /> | Street Woman Fighter2 (SWF2) Crew Songs (2023-08-22) | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="WORLDWIDE" width="50" /> | WORLDWIDE (2015-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | 130 Mood : TRBL (2016-03-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
 
 ![Bar chart of number of songs by year](../../images/genres/korean_r_b/years.png)

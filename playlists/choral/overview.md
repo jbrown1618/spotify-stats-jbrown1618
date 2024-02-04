@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="Choral" width="100" />
 
-[68 tracks (0 liked) 🔗](https://open.spotify.com/playlist/1PCfeawsTHOhi6DGzagL7Y)
+[69 tracks (0 liked) 🔗](https://open.spotify.com/playlist/1PCfeawsTHOhi6DGzagL7Y)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 50 artists</summary>
+<summary>See all 52 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -61,6 +61,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27311abfb0cada077900447061b" alt="" width="50" /> | 1 | 0 | Voices of Ascension Chorus | [🔗](https://open.spotify.com/artist/4AjjMZxILxc83KJAEuwu9j) |
 | <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | 1 | 0 | Olga Borodina | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |
 | <img src="https://i.scdn.co/image/e2930a243565b3a9675ef0943ba181f28c780109" alt="" width="50" /> | 1 | 0 | Skip Sempé | [🔗](https://open.spotify.com/artist/3DSclbx4DSkyIvouHCxHHZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e0676651235a324bd58ada3" alt="" width="50" /> | 1 | 0 | VOCES8 | [🔗](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) |
 | <img src="https://i.scdn.co/image/914364be0f93ff2756c1352c2a2a5ae25ddb53cd" alt="" width="50" /> | 1 | 0 | Philippe Herreweghe | [🔗](https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5) |
 | <img src="https://i.scdn.co/image/c8dc83d307c0a8c18ac505da6133bc37df4442a1" alt="" width="50" /> | 1 | 0 | Anton Bruckner | [🔗](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2) |
 | | 1 | 0 | Mark Kruczek | [🔗](https://open.spotify.com/artist/2DNiyyc8Do3ym3IjCaKFCp) |
@@ -69,6 +70,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e895483075f6e493f491476" alt="" width="50" /> | 1 | 0 | Collegium Vocale Gent | [🔗](https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b463341dade63d8c54a6a15e" alt="" width="50" /> | 1 | 0 | Dennis Keene | [🔗](https://open.spotify.com/artist/16e7cTpnxHfo8KnwinUysN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f2835ca8b0eba6b2159e8d" alt="" width="50" /> | 1 | 0 | Tenebrae | [🔗](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="" width="50" /> | 1 | 0 | Christian Dillig | [🔗](https://open.spotify.com/artist/0Ens2zPly8UFhQmyUUXlOH) |
 
 </details>
@@ -95,12 +97,13 @@
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="" width="50" /> | 1 | 0 | Our Heart's Joy: A Chanticleer Christmas | 2008-11-11 | [🔗](https://open.spotify.com/album/7mdIzxZmqt54mv5wx3drAf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="" width="50" /> | 1 | 0 | Fauré/Duruflé/Messiaen | 1989 | [🔗](https://open.spotify.com/album/2kJvD9jzU5n9dmNj9FoyQ8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | 1 | 0 | Djesse Vol. 1 | 2018-12-07 | [🔗](https://open.spotify.com/album/47bMDS4CMLbqcIVjEMWUjK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="" width="50" /> | 1 | 0 | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. | 2004-01-01 | [🔗](https://open.spotify.com/album/2ZcxORUFkzrpjZ7DrSmNkT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | 1 | 0 | Bruckner: Mass in E Minor & Motets | 2002 | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="" width="50" /> | 1 | 0 | Allegri Miserere | 2006-10-03 | [🔗](https://open.spotify.com/album/3fvFlaBBbAFO0QCrSTbfaU) |
@@ -108,7 +111,7 @@
 </details>
 
 
-![Bar chart of top 15 albums](../../images/playlists/choral/albums.png)
+![Bar chart of top 16 albums](../../images/playlists/choral/albums.png)
 
 ## Top Record Labels
 
@@ -116,8 +119,8 @@
 |---:|---:|:---|
 | 22 | 0 | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_/overview.md) |
 | 14 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
+| 9 | 0 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 8 | 0 | SUPRAPHON a.s. |
-| 8 | 0 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 4 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 3 | 0 | Conifer Classics |
 | 3 | 0 | Carus |
@@ -157,7 +160,7 @@
 
 
 <details>
-<summary>See all 27 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -172,6 +175,7 @@
 | 2 | 0 | italian renaissance |
 | 2 | 0 | english baroque |
 | 2 | 0 | [baroque](../../genres/baroque/overview.md) |
+| 1 | 0 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 0 | nordic contemporary classical |
 | 1 | 0 | early music choir |
 | 1 | 0 | classical organ |
@@ -182,7 +186,7 @@
 </details>
 
 
-![Bar chart of top 27 genres](../../images/playlists/choral/genres.png)
+![Bar chart of top 28 genres](../../images/playlists/choral/genres.png)
 
 ## Years
 
@@ -193,12 +197,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | Karajan - Mozart (2020-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b2730c8397c0c79c33e6f350ee52" alt="Fauré/Duruflé/Messiaen" width="50" /> | Fauré/Duruflé/Messiaen (1989) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | Tchaikovsky: Sacred Choral Music (2016-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Folk Songs Of The British Isles (1993-07-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="Rachmaninoff &amp; Poulenc: Blue Bird" width="50" /> | Rachmaninoff & Poulenc: Blue Bird (2014-01-10) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Rachmaninov: Vespers - All Night Vigil (1994) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | Poulenc: Motets and Mass (2013-01-30) | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Allegri - Miserere (1994-02-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Light & Gold (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor &amp; Motets" width="50" /> | Bruckner: Mass in E Minor & Motets (2002) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Our Heart's Joy: A Chanticleer Christmas (2008-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell: Anthems &amp; Sacred Songs" width="50" /> | Purcell: Anthems & Sacred Songs (2003-08-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Fauré: Requiem; Pavane (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. (2004-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> | Allegri Miserere (2006-10-03) | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> | Allegri Miserere (2006-10-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. (2004-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Fauré: Requiem; Pavane (2008-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell: Anthems &amp; Sacred Songs" width="50" /> | Purcell: Anthems & Sacred Songs (2003-08-29) | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Our Heart's Joy: A Chanticleer Christmas (2008-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | Djesse Vol. 1 (2018-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Folk Songs Of The British Isles (1993-07-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | Tchaikovsky: Sacred Choral Music (2016-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Rachmaninov: Vespers - All Night Vigil (1994) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="Rachmaninoff &amp; Poulenc: Blue Bird" width="50" /> | Rachmaninoff & Poulenc: Blue Bird (2014-01-10) | <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Allegri - Miserere (1994-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | Poulenc: Motets and Mass (2013-01-30) | <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="Bruckner: Mass in E Minor &amp; Motets" width="50" /> | Bruckner: Mass in E Minor & Motets (2002) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Light & Gold (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273609d14b25e86640a2a69c534" alt="Purcell: Anthems &amp; Sacred Songs" width="50" /> | Purcell: Anthems & Sacred Songs (2003-08-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Our Heart's Joy: A Chanticleer Christmas (2008-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. (2004-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Fauré: Requiem; Pavane (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> | Allegri Miserere (2006-10-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273173d17db2abbefa4569b4dca" alt="Allegri Miserere" width="50" /> | Allegri Miserere (2006-10-03) | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Fauré: Requiem; Pavane (2008-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab85af946bb4b89695c7c60c" alt="Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M." width="50" /> | Choral Music - Bainton, E. / Thompson, R. / Mozart, W.A. / Casals, P. / Mendelssohn, Felix / Parry, H. / Durufle, M. (2004-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Our Heart's Joy: A Chanticleer Christmas (2008-11-11) |

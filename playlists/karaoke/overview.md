@@ -266,7 +266,7 @@
 | 2 | 1 | easy listening |
 | 1 | 1 | yacht rock |
 | 1 | 1 | uk dance |
-| 1 | 1 | uk alternative pop |
+| 1 | 1 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 1 | talent show |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
@@ -416,7 +416,7 @@
 | | Mike Campbell | 1 | Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
 | | Jesse Shatkin | 1 | Producer, Songwriter |
-| | Chris Thile | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | Chris Thile | 1 | Songwriter |
 | | Jason Lader | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 1 | Producer |
 | | Markus Dravs | 1 | Producer |

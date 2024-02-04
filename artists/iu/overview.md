@@ -2,7 +2,7 @@
 # IU
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="IU" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="IU" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 ## Artist Rank
 IU is currently:
-- The #7 artist of the last month
+- The #9 artist of the last month
 - The #8 artist of the last 6 months
 - The #3 artist of all time
 
@@ -44,7 +44,7 @@ IU is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 3 | [K-R&B](../../playlists/k-r_b/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 
 ## Top Albums
@@ -125,7 +125,7 @@ IU is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 손명갑 (Son, Myung-gap) | 5 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
 | | 구종필 (Koo, Jong-Pil) | 2 | Producer |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |

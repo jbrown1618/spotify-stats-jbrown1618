@@ -20,7 +20,7 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #19 artist of the last month
+- The #22 artist of the last month
 - The #17 artist of the last 6 months
 - The #21 artist of all time
 
@@ -28,11 +28,11 @@ LE SSERAFIM is currently:
 ## Top Tracks
 
 - UNFORGIVEN (feat. Nile Rodgers) is:
-    - the #39 track of the last 6 months
+    - the #43 track of the last 6 months
 - Sour Grapes is:
-    - the #28 track of the last month
+    - the #29 track of the last month
 - Perfect Night is:
-    - the #45 track of the last month
+    - the #50 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -47,7 +47,7 @@ LE SSERAFIM is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 

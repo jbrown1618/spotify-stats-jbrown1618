@@ -52,7 +52,7 @@ Florence + The Machine:
 - baroque pop
 - [electropop](../../genres/electropop/overview.md)
 - [modern rock](../../genres/modern_rock/overview.md)
-- uk alternative pop
+- [uk alternative pop](../../genres/uk_alternative_pop/overview.md)
 
 ## Credits
 

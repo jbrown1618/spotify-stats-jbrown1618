@@ -13,7 +13,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 16 | 8 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 5 | 5 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 2 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
@@ -232,7 +232,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
 | | Robin Fredriksson | 1 | Songwriter |
 | | Theron Thomas | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | USHER | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | USHER | 1 | Songwriter |
 | | Rico Wade | 1 | Songwriter |
 | | Jolie Levine | 1 | Arranger |
 | | Mark Shick | 1 | Producer |

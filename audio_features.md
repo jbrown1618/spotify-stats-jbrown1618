@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes (0.491) | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="Lemon Love" width="50" /> | Lemon Love (0.0244) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.472) | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="The Party Upstairs" width="50" /> | We Found Love (0.0244) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood (Deluxe)" width="50" /> | Youngblood (0.463) | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Fields Of Gold (0.0246) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Election of 1800 (0.462) | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="The Lady Killer" width="50" /> | Old Fashioned (0.0246) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | Time Alone With You (feat. Daniel Caesar) (0.462) | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="The Lady Killer" width="50" /> | Old Fashioned (0.0246) |
 
 ## Acousticness
 

@@ -10,15 +10,13 @@ Jung Kook:
 - is a member of [BTS](../bts/overview.md)
 
 ## Artist Rank
-Jung Kook is currently:
-- The #50 artist of the last 6 months
 
 ![Rank of Jung Kook over time](../../images/artists/jung_kook/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 5 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 4 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 4 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 
 ## Top Albums
 

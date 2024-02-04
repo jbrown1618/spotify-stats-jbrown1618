@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | 6 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 6 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 3 | 3 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
@@ -240,7 +240,7 @@
 |:---|:---|---:|:---|
 | | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
 | | Tom Elmhirst | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | Jacob Banks | 1 | Songwriter |
 | | Sophia Brenan | 1 | Songwriter |
 | | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |

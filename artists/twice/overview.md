@@ -24,8 +24,8 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #5 artist of the last month
-- The #9 artist of the last 6 months
+- The #6 artist of the last month
+- The #10 artist of the last 6 months
 - The #4 artist of all time
 
 ![Rank of TWICE over time](../../images/artists/twice/rank_time_series.png)
@@ -34,7 +34,7 @@ TWICE is currently:
 - I CAN'T STOP ME is:
     - the #19 track of all time
 - The Feels is:
-    - the #49 track of all time
+    - the #48 track of all time
 
 ### Top tracks of all time over time
 

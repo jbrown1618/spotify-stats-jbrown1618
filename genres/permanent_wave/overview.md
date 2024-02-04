@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd85f631779e65b01349d747" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | Jacob Collier | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
 
 </details>

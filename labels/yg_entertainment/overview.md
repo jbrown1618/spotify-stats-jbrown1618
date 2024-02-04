@@ -40,7 +40,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | 2 | 1 | CL | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
 | | 1 | 1 | 최현석 | [🔗](https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6bfa25186e132974bfeeed8a" alt="" width="50" /> | 1 | 1 | BABYMONSTER | [🔗](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | 1 | 1 | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8568caff4582398922d02de0" alt="" width="50" /> | 1 | 1 | B.I | [🔗](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) |

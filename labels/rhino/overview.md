@@ -1,6 +1,6 @@
 # Rhino
 
-25 songs
+26 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Rhino (13 tracks)
-- Rhino/Warner Records (9 tracks)
+- Rhino/Warner Records (10 tracks)
 - Rhino/Elektra (3 tracks)
 
 ## Top Artists
@@ -24,20 +24,21 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 | <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 4 | 0 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 1 | 1 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 12 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 4 | 0 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 
 </details>
 
 
-![Bar chart of top 11 artists](../../images/labels/rhino/artists.png)
+![Bar chart of top 12 artists](../../images/labels/rhino/artists.png)
 
 ## Top Albums
 
@@ -56,10 +57,11 @@ Appears as:
 
 
 <details>
-<summary>See all 18 albums</summary>
+<summary>See all 19 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | 1 | 1 | Fat Albert Rotunda | 1969-12-08 | [🔗](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | 1 | 1 | Desperado (2013 Remaster) | 1973-04-17 | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | 1 | 1 | Court and Spark | 1974-01-17 | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 1 | 1 | Chicago IX: Chicago's Greatest Hits | 1975-11-10 | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
@@ -72,7 +74,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 18 albums](../../images/labels/rhino/albums.png)
+![Bar chart of top 19 albums](../../images/labels/rhino/albums.png)
 
 ## Genres
 
@@ -91,7 +93,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 40 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -117,7 +119,13 @@ Appears as:
 | 1 | 1 | new wave |
 | 1 | 1 | new romantic |
 | 1 | 1 | [lounge](../../genres/lounge/overview.md) |
+| 1 | 1 | jazz piano |
+| 1 | 1 | jazz fusion |
+| 1 | 1 | jazz funk |
+| 1 | 1 | jazz |
+| 1 | 1 | instrumental funk |
 | 1 | 1 | country rock |
+| 1 | 1 | contemporary post-bop |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 
 </details>
@@ -131,7 +139,7 @@ Appears as:
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | Brian Humphries | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | 1 | Producer |
 | | Alex Clare | 1 | Songwriter |
 | | Tony Iommi | 1 | Songwriter |
 | | Bob Crewe | 1 | Songwriter |
@@ -152,12 +160,13 @@ Appears as:
 | | Jim Ed Norman | 1 | Arranger |
 | | Bill Ward | 1 | Songwriter |
 | | Ozzy Osbourne | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | 1 | Producer |
 | | Henry Lewy | 1 | Producer |
+| | Brian Humphries | 1 | Producer |
 | | Chris Hinshaw | 1 | Producer |
 | | Sandra Campbell Chapin | 1 | Songwriter |
 | | Alan Tarney | 1 | Producer |
 | | James William Guercio | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | Herbie Hancock | 1 | Lyricist, Songwriter |
 | | Bob Gaudio | 1 | Songwriter |
 | | Brian Ross-Myring | 1 | Producer |
 | | Don Puluse | 1 | Producer |
@@ -196,6 +205,7 @@ Appears as:
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | Can't Take My Eyes off You | The Very Best of Frankie Valli & The 4 Seasons | Frankie Valli | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | Cat's in the Cradle | Verities & Balderdash | Harry Chapin | [Rhino/Elektra](.) | 💚 | [🔗](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | Tell Me a Bedtime Story | Fat Albert Rotunda | Herbie Hancock | [Rhino](.), [Warner Records](../warner_records) | 💚 | [🔗](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |

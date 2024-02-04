@@ -1,13 +1,13 @@
 # SM Entertainment
 
-327 songs
+328 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- SM Entertainment (304 tracks)
+- SM Entertainment (305 tracks)
 - SM Entertainment / Warner Records (19 tracks)
 - SM Entertainment/Capitol Records (2 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
@@ -17,7 +17,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 71 | 56 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 73 | 57 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 30 | 25 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 38 | 23 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 16 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
@@ -57,10 +57,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 2 | 2 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89064bc3e362d345bb6035f3" alt="" width="50" /> | 2 | 2 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | 3 | 1 | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 2 | 1 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c242c1653d4ac9a0aeeec75" alt="" width="50" /> | 2 | 1 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebafe0cb4b9c7d0f0bad2f4be3" alt="" width="50" /> | 1 | 1 | ONEW | [🔗](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf181c24af596cd241186adb" alt="" width="50" /> | 1 | 1 | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a43d7e27511d5cf556ec017" alt="" width="50" /> | 1 | 1 | KEY | [🔗](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2" alt="" width="50" /> | 1 | 1 | Leslie Grace | [🔗](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15422eafa9652b98103d4a52" alt="" width="50" /> | 1 | 1 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
@@ -114,9 +114,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 6 | 5 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 6 | 5 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | 5 | 5 | The Red - The 1st Album | 2015-09-09 | [🔗](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 5 | 5 | Like Water - The 1st Mini Album | 2021-04-05 | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 
 
 <details>
@@ -124,6 +124,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 5 | 5 | Like Water - The 1st Mini Album | 2021-04-05 | [🔗](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | 5 | 4 | To. X - The 5th Mini Album | 2023-11-27 | [🔗](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | 5 | 4 | Queendom - The 6th Mini Album | 2021-08-16 | [🔗](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 5 | 4 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
@@ -132,7 +133,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | 3 | 28 Reasons - The 1st Mini Album | 2022-10-04 | [🔗](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 5 | 3 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | 5 | 2 | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 4 | 4 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="" width="50" /> | 4 | 4 | ‘The ReVe Festival 2022 - Birthday’ | 2022-11-28 | [🔗](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 4 | 4 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | 4 | 2 | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
@@ -224,8 +224,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 282 | 197 | [k-pop](../../genres/k-pop/overview.md) |
-| 125 | 95 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 283 | 198 | [k-pop](../../genres/k-pop/overview.md) |
+| 127 | 96 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 73 | 49 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 9 | 6 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -436,7 +436,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | KAI, [SEULGI](../../artists/seulgi/overview.md), JENO, KARINA | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e" alt="" width="50" /> | Rover | Rover - The 3rd Mini Album | KAI | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d6f89ff16623f1038ca466" alt="" width="50" /> | Killer | Killer - The 2nd Album Repackage | KEY | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354ecee13bfdd05e89e57d976" alt="" width="50" /> | Good & Great | Good & Great - The 2nd Mini Album | KEY | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d23f42c2583356e3147da65b" alt="" width="50" /> | Child | Child - SM STATION : NCT LAB | MARK | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273957d63a17c008c8a7c499f4d" alt="" width="50" /> | Golden Hour | Golden Hour - SM STATION : NCT LAB | MARK | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil | Devil - The 2nd Mini Album | MAX CHANGMIN | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) |
@@ -499,6 +498,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Body Talk | Rookie - The 4th Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3CihjB4pu58o2ititZw9Yg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Rookie | Rookie - The 4th Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/69xdFGM7SJkbDf77s0gJEl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38af5bbda76202e9d9eb8fd" alt="" width="50" /> | Talk To Me | Rookie - The 4th Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/32ou07yoda0mO4lw9pPpzC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303f0ae1be05283665ac60f7f" alt="" width="50" /> | Would U | Would U - SM STATION | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/1rL3u6JsjQT9Cxg1oHTJEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | Hear The Sea | The Red Summer - Summer Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/5rUWULaKgEK2HozI1wYvZ9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | Red Flavor | The Red Summer - Summer Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | You Better Know | The Red Summer - Summer Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/59fJbRecO16BIw9L1neEug) |
@@ -527,6 +527,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | In & Out | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Jumpin' | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3q21kVfUIdkzqYpzBCbojN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | La Rouge - Special Track | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1O7qPyMtudzP3APaOT2OTH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Milkshake | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/65ZHlbTuPrZggbmYCVjPL4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Psycho | ‘The ReVe Festival’ Finale | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ff5d88a4453ce83682ab209" alt="" width="50" /> | Milky Way | Our Beloved BoA #4 - SM STATION | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | | [🔗](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="" width="50" /> | Better Be | Queendom - The 6th Mini Album | [Red Velvet](../../artists/red_velvet/overview.md) | [SM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5NIjdxrVUW4GGyLIqXUw9K) |

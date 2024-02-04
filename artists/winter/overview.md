@@ -16,7 +16,8 @@ WINTER:
 ## Top Tracks
 
 - NOBODY is:
-    - the #32 track of the last 6 months
+    - the #41 track of the last month
+    - the #29 track of the last 6 months
 - Priority is:
     - the #30 track of the last month
 
@@ -30,7 +31,7 @@ WINTER:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f5c597bba60a1e0c5364baaab67616d0000b27347d4fcf597d9aee2d5a34e8eab67616d0000b2735ccb1b40b2081fff238473bbab67616d0000b273c6633dda2aa449c5650c14be" alt="" width="50" /> | 3 | [K-OST](../../playlists/k-ost/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 
 ## Top Albums
 

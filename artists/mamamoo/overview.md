@@ -28,7 +28,7 @@ MAMAMOO is currently:
 - HIP is:
     - the #1 track of all time
 - Egotistic is:
-    - the #41 track of all time
+    - the #50 track of all time
 
 ### Top tracks of all time over time
 

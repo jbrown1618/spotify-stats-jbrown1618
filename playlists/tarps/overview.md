@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9414ef07d0ca697726912df1" alt="" width="50" /> | 1 | 1 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | 1 | 1 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/03e8855382d21e1cbf8172c03001ab8847889f38" alt="" width="50" /> | 1 | 1 | Gnarls Barkley | [🔗](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 1 | 1 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
@@ -275,7 +275,7 @@
 | 1 | 1 | yacht rock |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk americana |
-| 1 | 1 | uk alternative pop |
+| 1 | 1 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 1 | southern soul |
 | 1 | 1 | progressive bluegrass |
 | 1 | 1 | pop rap |
@@ -395,7 +395,7 @@
 | | Markus Dravs | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 1 | Producer |
-| | Chris Thile | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | Chris Thile | 1 | Songwriter |
 | | Mark Phythian | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Songwriter |

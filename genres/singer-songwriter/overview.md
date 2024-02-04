@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | 1 | 1 | Steve Miller Band | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
@@ -177,7 +177,7 @@
 | | Jay Healy | 1 | Producer |
 | | Mick Jones | 1 | Producer |
 | | Jim DeMain | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
 | | Glen Ballard | 1 | Producer, Songwriter |
 | | Danny Kortchmar | 1 | Producer |
 | | Niko Bolas | 1 | Producer |

@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 2 | 1 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312db32f7e08a1bfb4ace303b" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
@@ -164,7 +164,7 @@
 | | Hal Y. Burton | 1 | Producer |
 | | Justin Tranter | 1 | Songwriter |
 | | Joseph Lorge | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
 | | Glen Ballard | 1 | Producer, Songwriter |
 | | Emily Saliers | 1 | Lyricist, Songwriter |
 | | Mike Elizondo | 1 | Producer |

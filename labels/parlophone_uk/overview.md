@@ -20,7 +20,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | Jacob Collier | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
 
 ![Bar chart of top 9 artists](../../images/labels/parlophone_uk/artists.png)
@@ -118,7 +118,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Paradise | Mylo Xyloto | [Coldplay](../../artists/coldplay/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Princess of China | Mylo Xyloto | [Coldplay](../../artists/coldplay/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | BrokEn | Everyday Life | [Coldplay](../../artists/coldplay/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/1cXXhzPnbrXjNQYbLdUJdy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](../../artists/coldplay/overview.md), We Are KING, Jacob Collier | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](../../artists/coldplay/overview.md), We Are KING, [Jacob Collier](../../artists/jacob_collier/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | Feel Good Inc. | Demon Days | Gorillaz | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | [Parlophone UK](.) | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
 

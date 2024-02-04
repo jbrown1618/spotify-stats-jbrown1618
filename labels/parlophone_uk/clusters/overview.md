@@ -30,4 +30,4 @@
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | BrokEn | Everyday Life | [Coldplay](../../../../artists/coldplay/overview.md) | [Parlophone UK](../..) | | [🔗](https://open.spotify.com/track/1cXXhzPnbrXjNQYbLdUJdy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](../../../../artists/coldplay/overview.md), We Are KING, Jacob Collier | [Parlophone UK](../..) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](../../../../artists/coldplay/overview.md), We Are KING, [Jacob Collier](../../../../artists/jacob_collier/overview.md) | [Parlophone UK](../..) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |

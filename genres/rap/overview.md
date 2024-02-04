@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a" alt="" width="50" /> | 5 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 5 | 2 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | 2 | 2 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
@@ -293,7 +293,7 @@
 | | Ray Charles Brown, Jr | 1 | Producer |
 | <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 1 | Songwriter |
 | | Noah Goldstein | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | USHER | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | USHER | 1 | Songwriter |
 | | Drumma Boy | 1 | Producer |
 | | Aalias | 1 | Songwriter |
 | | Duval Timothy | 1 | Producer, Songwriter |

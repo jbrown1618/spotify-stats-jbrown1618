@@ -15,7 +15,7 @@ HWASA:
 
 ## Artist Rank
 HWASA is currently:
-- The #12 artist of the last month
+- The #11 artist of the last month
 - The #37 artist of the last 6 months
 
 ![Rank of HWASA over time](../../images/artists/hwasa/rank_time_series.png)
@@ -23,8 +23,6 @@ HWASA is currently:
 
 - Maria is:
     - the #4 track of all time
-- I Love My Body is:
-    - the #10 track of the last month
 
 ### Top tracks of all time over time
 
@@ -34,10 +32,10 @@ HWASA is currently:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 9 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 3 | [K-R&B](../../playlists/k-r_b/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 
 ## Top Albums

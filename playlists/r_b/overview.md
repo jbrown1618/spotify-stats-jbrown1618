@@ -22,7 +22,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 3 | 3 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84813d8e6a3154717e618140" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 
 
 <details>
@@ -290,7 +290,7 @@
 | 2 | 1 | pop rap |
 | 2 | 1 | hip pop |
 | 2 | 1 | girl group |
-| 1 | 1 | vocal jazz |
+| 1 | 1 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | uk dance |
 | 1 | 1 | uk contemporary r&b |

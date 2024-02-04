@@ -92,7 +92,7 @@ Appears as:
 | 2 | 2 | indie pop |
 | 5 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 5 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
-| 3 | 1 | vocal jazz |
+| 3 | 1 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 3 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 2 | 1 | indie poptimism |
 | 2 | 1 | etherpop |

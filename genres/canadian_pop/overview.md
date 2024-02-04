@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee6731023002d5872561dcd9" alt="" width="50" /> | 4 | 3 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 2 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbef9dcf953d83b3faee5904" alt="" width="50" /> | 1 | 1 | Anjulie | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
@@ -177,7 +177,7 @@
 | | Butch Walker | 1 | Producer, Songwriter |
 | | Paul LaMalfa | 1 | Producer |
 | | Jack Patterson | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
 | | Leah Haywood | 1 | Songwriter |
 | | Geoff Warburton | 1 | Songwriter |
 | | Scott Harris | 1 | Songwriter |

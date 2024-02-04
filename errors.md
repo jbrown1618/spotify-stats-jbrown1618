@@ -11,7 +11,7 @@
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 73 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 67 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 81 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
 | Soñar (Breaker) [🔗](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | 76 | 2023-12-04 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Soñar (Breaker) [🔗](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 69 | | Republic Records - NMIXX | |
-| Soñar (Breaker) [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | 68 | 2024-01-15 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Fe3O4: BREAK [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 77 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | 💚 |
+| Soñar (Breaker) [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | 69 | 2024-01-15 | NMIXX [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | Fe3O4: BREAK [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 78 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI) | Republic Records - NMIXX | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | | Top Dawg Entertainment/RCA Records | 💚 |
 
@@ -32,12 +32,12 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 25 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
+| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 26 |
+| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 26 |
+| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 26 |
+| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 26 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 28 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 28 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 28 |
@@ -54,6 +54,7 @@
 | DNA | Love Yourself 承 'Her' | BTS | 1 | 2 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
+| Butter | Butter | BTS | 2 | 1 | 87 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 52 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 52 |
@@ -232,7 +233,7 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 52 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 1 | 0 | 25 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
@@ -253,7 +254,7 @@
 | Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 30 in E Major, Op. 109: III. Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 1 | 0 | 71 |
+| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
 | Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
 | Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
 | Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
@@ -352,7 +353,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 1 | 55 |
 | A Case of You | Blue | Joni Mitchell | 0 | 1 | 55 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 55 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 55 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 55 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 50 |
@@ -408,7 +409,7 @@
 | 4 Motets pour un temps de pénitence, FP 97: No. 1, Timor et tremor | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk | 0 | 0 | 80 |
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 64 |
-| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
+| Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 62 |
 | Starry Night | Yellow Flower | MAMAMOO | 0 | 0 | 61 |
 | Egotistic | RED MOON | MAMAMOO | 0 | 0 | 61 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 0 | 61 |
@@ -423,6 +424,7 @@
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | Rewind | REBOOT | Wonder Girls | 2 | 1 | 58 |
+| So Hot | So Hot | Wonder Girls | 1 | 2 | 58 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
@@ -433,7 +435,7 @@
 | MAISON | [Apocalypse : Save us] | Dreamcatcher | 1 | 1 | 60 |
 | Locked Inside A Door | [Apocalypse : Save us] | Dreamcatcher | 0 | 1 | 60 |
 | Starlight | [Apocalypse : Save us] | Dreamcatcher | 0 | 1 | 60 |
-| VISION | [Apocalypse : Follow us] | Dreamcatcher | 1 | 0 | 60 |
+| VISION | [Apocalypse : Follow us] | Dreamcatcher | 0 | 0 | 60 |
 | Odd Eye | ［Dystopia : Road to Utopia］ | Dreamcatcher | 2 | 1 | 60 |
 | REASON | [REASON] | Dreamcatcher | 0 | 0 | 60 |
 | BEcause | [Summer Holiday] | Dreamcatcher | 1 | 0 | 60 |
@@ -446,18 +448,18 @@
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 69 |
-| ABC | ABC | The Jackson 5 | 2 | 1 | 69 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 68 |
+| ABC | ABC | The Jackson 5 | 2 | 0 | 68 |
 | Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 37 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
-| Drink It | Drink It | THE BOYZ | 2 | 1 | 60 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
+| Drink It | Drink It | THE BOYZ | 2 | 0 | 60 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
-| Think About Things | Think About Things | Daði Freyr | 1 | 0 | 51 |
-| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 1 | 51 |
+| Think About Things | Think About Things | Daði Freyr | 2 | 0 | 51 |
+| Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 84 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
@@ -473,23 +475,25 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
+| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 72 |
+| The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 72 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 52 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 33 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 65 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 2 | 2 | 60 |
-| Lullaby | Present : YOU | GOT7 | 2 | 2 | 60 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 2 | 1 | 60 |
+| Lullaby | Present : YOU | GOT7 | 2 | 1 | 60 |
 | If You Do | MAD | GOT7 | 1 | 0 | 60 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 75 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 77 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 76 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 63 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 69 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 45 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 45 |
@@ -498,26 +502,26 @@
 | Miku | Miku | Hatsune Miku | 0 | 0 | 63 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
 | Strawberry Cake | Hello, world! | Xdinary Heroes | 0 | 0 | 58 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 51 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 41 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 41 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 58 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 60 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 69 |
-| My House | No.5 | 2PM | 0 | 0 | 53 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 27 |
+| My House | No.5 | 2PM | 0 | 0 | 54 |
+| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 26 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 1 | 77 |
-| Rollin' | Rollin' | Brave Girls | 1 | 0 | 48 |
+| Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 67 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
-| Call Me Mother | American | RuPaul | 2 | 1 | 56 |
+| Call Me Mother | American | RuPaul | 1 | 1 | 56 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 70 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 67 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 66 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |

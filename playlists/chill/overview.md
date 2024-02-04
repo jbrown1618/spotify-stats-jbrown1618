@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[229 tracks (183 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
+[230 tracks (184 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
 
 [See Track Features](audio_features.md)
 
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 8 | 7 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 7 | 7 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 7 | 6 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | 7 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 7 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 7 | 5 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 5 | 4 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 
@@ -103,6 +103,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 1 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997" alt="" width="50" /> | 1 | 1 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 1 | 1 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | 1 | 1 | Troye Sivan | [🔗](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 1 | 1 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058178d5d95c2d3a33d3103d" alt="" width="50" /> | 1 | 1 | V | [🔗](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) |
@@ -119,7 +120,6 @@
 | | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ec0f75f443359ff6ff4d481" alt="" width="50" /> | 1 | 1 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb55083bec4696aa1fb3a146e8" alt="" width="50" /> | 1 | 1 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
 
 </details>
 
@@ -256,9 +256,9 @@
 | 7 | 7 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 7 | 6 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 7 | 5 | [Warner Records](../../labels/warner_records/overview.md) |
+| 5 | 5 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 5 | 5 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 11 | 4 | [Republic Records](../../labels/republic_records/overview.md) |
-| 5 | 4 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 
 
 <details>
@@ -266,7 +266,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 4 | 4 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
+| 5 | 4 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 4 | 4 | Studio MaumC |
 | 4 | 4 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 4 | 4 | Hwa&Dam pictures |
@@ -356,11 +356,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 130 | 99 | [k-pop](../../genres/k-pop/overview.md) |
+| 131 | 100 | [k-pop](../../genres/k-pop/overview.md) |
 | 47 | 35 | [pop](../../genres/pop/overview.md) |
 | 41 | 31 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 29 | 21 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 19 | 14 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 20 | 15 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 20 | 13 | [korean pop](../../genres/korean_pop/overview.md) |
 | 7 | 7 | [anime](../../genres/anime/overview.md) |
 | 6 | 6 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -422,7 +422,7 @@
 | 1 | 1 | alternative r&b |
 | 1 | 1 | alt z |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
-| 1 | 0 | uk alternative pop |
+| 1 | 0 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 0 | [rap](../../genres/rap/overview.md) |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | k-pop ballad |
@@ -557,7 +557,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2023 | 19 |
+| [2023](2023.md) | 20 |
 | [2022](2022.md) | 48 |
 | [2021](2021.md) | 37 |
 | [2020](2020.md) | 30 |
@@ -587,11 +587,11 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | Last Winter (2023-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Commodores (1977-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | To. X - The 5th Mini Album (2023-11-27) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273774a45080cbfcc55a661ffbe" alt="Door" width="50" /> | Door (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | X&Y (2005-06-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="Corinne Bailey Rae" width="50" /> | Corinne Bailey Rae (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | Hong Gil Dong OST (2008-01-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="Solar International" width="50" /> | Solar International (2010-08-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense - The 1st Album (Special Version) (2023-02-27) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | 21 (2011-01-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle - SM STATION (2023-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU (2023-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | X&Y (2005-06-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273774a45080cbfcc55a661ffbe" alt="Door" width="50" /> | Door (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="Corinne Bailey Rae" width="50" /> | Corinne Bailey Rae (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | Hong Gil Dong OST (2008-01-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="Solar International" width="50" /> | Solar International (2010-08-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense - The 1st Album (Special Version) (2023-02-27) | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | 21 (2011-01-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | The Beginning: Cupid (2023-02-24) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |

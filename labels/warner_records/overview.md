@@ -1,6 +1,6 @@
 # Warner Records
 
-96 songs
+97 songs
 
 [See Track Features](audio_features.md)
 
@@ -9,7 +9,7 @@
 Appears as:
 - Warner Records (51 tracks)
 - SM Entertainment / Warner Records (19 tracks)
-- Rhino/Warner Records (9 tracks)
+- Rhino/Warner Records (10 tracks)
 - Beluga Heights/Warner Records (5 tracks)
 - TEAM WANG records/88rising Music/Warner Records (5 tracks)
 - Brute/Beaute/Warner Records (3 tracks)
@@ -34,7 +34,7 @@ Appears as:
 
 
 <details>
-<summary>See all 42 artists</summary>
+<summary>See all 43 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -51,6 +51,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 1 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 1 | 1 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f8dfdfeb85c3fc2d11b2ae2" alt="" width="50" /> | 1 | 1 | 88rising | [🔗](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) |
@@ -93,7 +94,7 @@ Appears as:
 
 
 <details>
-<summary>See all 49 albums</summary>
+<summary>See all 50 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -116,6 +117,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738860c8336fa14e6b031c5b84" alt="" width="50" /> | 1 | 1 | IT'S YOU (feat. keshi) | 2022-09-09 | [🔗](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | 1 | 1 | Fat Albert Rotunda | 1969-12-08 | [🔗](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
@@ -159,7 +161,7 @@ Appears as:
 
 
 <details>
-<summary>See all 55 genres</summary>
+<summary>See all 61 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -198,7 +200,13 @@ Appears as:
 | 1 | 1 | teen pop |
 | 1 | 1 | southern hip hop |
 | 1 | 1 | singer-songwriter pop |
+| 1 | 1 | jazz piano |
+| 1 | 1 | jazz fusion |
+| 1 | 1 | jazz funk |
+| 1 | 1 | jazz |
+| 1 | 1 | instrumental funk |
 | 1 | 1 | dirty south rap |
+| 1 | 1 | contemporary post-bop |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
 | 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
@@ -219,15 +227,15 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 5 | Songwriter |
 | | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 5 | Songwriter |
 | | Jenny Lewis | 4 | Lyricist, Songwriter |
-| | Jason Evigan | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Matt Bellamy | 3 | Lyricist, Songwriter |
-| | Mike Mogis | 3 | Producer |
+| | Jason Evigan | 3 | Songwriter |
 | | Josh Gudwin | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
+| | Mike Mogis | 3 | Producer |
 
 
 <details>
@@ -235,41 +243,42 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Rich Costey | 2 | Producer |
-| | Ricky Reed | 2 | Producer, Songwriter |
 | | Blake Sennett | 2 | Songwriter |
-| | Tommaso Colliva | 2 | Producer |
-| | Justin Tranter | 2 | Songwriter |
 | | Jason Lader | 2 | Producer |
+| | Rich Costey | 2 | Producer |
+| | Justin Tranter | 2 | Songwriter |
 | | Jussifer | 2 | Producer, Songwriter |
-| | Keith Olsen | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
-| | M-Phazes | 2 | Producer |
-| | Stevie Nicks | 2 | Lyricist, Songwriter |
-| | Caroline Ailin | 2 | Producer, Songwriter |
 | | Sean Douglas | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
-| | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Emily Warren | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
+| | Keith Olsen | 2 | Producer |
+| | Ricky Reed | 2 | Producer, Songwriter |
 | | Adrian Bushby | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | Tommaso Colliva | 2 | Producer |
 | | Mark "Spike" Stent | 2 | Producer |
 | | Jaycen Joshua | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
 | | Sarah Hudson | 2 | Songwriter |
-| | Clarence Coffee Jr. | 2 | Songwriter |
+| | M-Phazes | 2 | Producer |
 | | David DeVore | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
-| | Billy Steinberg | 1 | Songwriter |
-| | Bill Ward | 1 | Songwriter |
-| | Dana Nielsen | 1 | Producer |
-| | Liam Kevany | 1 | Producer, Songwriter |
-| | Michael Vail Blum | 1 | Producer |
-| | Michael Hutchence | 1 | Songwriter |
+| | Caroline Ailin | 2 | Producer, Songwriter |
+| | Clarence Coffee Jr. | 2 | Songwriter |
+| | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Producer, Songwriter |
-| | Juan Pablo Negrete Ortiz | 1 | Producer |
-| | Lorna Blackwood | 1 | Producer |
-| | Anthony Newley | 1 | Songwriter |
+| | Michael Hutchence | 1 | Songwriter |
+| | Andrew Watt | 1 | Producer, Songwriter |
 | | Andrew Farriss | 1 | Songwriter |
 | | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| | Michael Vail Blum | 1 | Producer |
+| | Juan Pablo Negrete Ortiz | 1 | Producer |
+| | Anthony Newley | 1 | Songwriter |
+| | Lorna Blackwood | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| | Dana Nielsen | 1 | Producer |
+| | Bill Ward | 1 | Songwriter |
+| | Billy Steinberg | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Producer |
 | | Ruffsound | 1 | Songwriter |
 | | John Cornfield | 1 | Producer |
@@ -299,10 +308,9 @@ Appears as:
 | | Ryan Hewitt | 1 | Producer |
 | | Josh Collins | 1 | Producer |
 | | Vince Watson | 1 | Producer |
-| | Andrew Watt | 1 | Producer, Songwriter |
+| | Tamir Muskat | 1 | Songwriter |
 | | Daniel Johns | 1 | Songwriter |
 | | Leslie Bricusse | 1 | Songwriter |
-| | Billboard | 1 | Songwriter |
 | | Earl Burroughs | 1 | Songwriter |
 | | Drew Jurecka | 1 | Arranger, Producer |
 | | Paul LaMalfa | 1 | Producer |
@@ -310,11 +318,12 @@ Appears as:
 | | Flea | 1 | Songwriter |
 | | Jon Bellion | 1 | Producer, Songwriter |
 | | Patrick "j.Que" Smith | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | Herbie Hancock | 1 | Lyricist, Songwriter |
 | | Martin Cooke | 1 | Producer |
 | | Ori Kaplan | 1 | Songwriter |
 | | Rob Eaton | 1 | Producer |
 | | Blue Sky Black Death | 1 | Songwriter |
-| | Jason Corsaro | 1 | Producer |
+| | Tom Kelly | 1 | Songwriter |
 | | Erik Madrid | 1 | Producer |
 | | Tom Allom | 1 | Producer |
 | | Geezer Butler | 1 | Lyricist, Songwriter |
@@ -324,7 +333,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | Michael Tayler | 1 | Producer |
 | | The Monsters & Strangerz | 1 | Producer |
-| | Ali Tamposi | 1 | Songwriter |
 
 </details>
 
@@ -368,6 +376,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Go Your Own Way - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | The Chain - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Sara - 2015 Remaster | Tusk (2015 Remaster) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | | [🔗](https://open.spotify.com/track/59rSjZAHfFktNxjtx7oM4H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | Tell Me a Bedtime Story | Fat Albert Rotunda | Herbie Hancock | [Rhino](../rhino), [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | Numb / Encore | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | JAY-Z, Linkin Park | [Warner Records/Roc-A-Fella](.) | | [🔗](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | [Jackson Wang](../../artists/jackson_wang/overview.md) | [88rising Music](../88rising_music), [Warner Records](.) | | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |

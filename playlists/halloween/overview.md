@@ -59,7 +59,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe80d1ffb81aa6503ad41c574" alt="" width="50" /> | 1 | 1 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 1 | 1 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d74a6d4cd2de13c11ace8e2" alt="" width="50" /> | 1 | 1 | CRAXY | [🔗](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3daf7792123b899f4442e1af" alt="" width="50" /> | 1 | 1 | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
@@ -252,7 +252,7 @@
 | 5 | 5 | [art pop](../../genres/art_pop/overview.md) |
 | 5 | 5 | [anime](../../genres/anime/overview.md) |
 | 3 | 3 | [korean r&b](../../genres/korean_r_b/overview.md) |
-| 2 | 2 | uk alternative pop |
+| 2 | 2 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 2 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | korean city pop |
 

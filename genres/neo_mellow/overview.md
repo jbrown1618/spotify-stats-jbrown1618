@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 2 | 2 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | 1 | 1 | Alanis Morissette | [🔗](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 
@@ -192,7 +192,7 @@
 | | Hal Y. Burton | 1 | Producer |
 | | Justin Tranter | 1 | Songwriter |
 | | Joseph Lorge | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6772690000c46c44408083dac26a782655baf3" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
 | | Glen Ballard | 1 | Producer, Songwriter |
 | | François Chevallier (Chevallier, François) | 1 | Producer |
 | | Michael Brauer | 1 | Producer |

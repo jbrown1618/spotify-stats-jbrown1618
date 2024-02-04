@@ -1,6 +1,6 @@
 # Interscope Records
 
-87 songs
+88 songs
 
 [See Track Features](audio_features.md)
 
@@ -12,19 +12,20 @@ Appears as:
 - Darkroom/Interscope Records (11 tracks)
 - Interscope Records* (8 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
-- THEBLACKLABEL/Interscope Records (4 tracks)
 - 2018 YG Entertainment, distributed through Interscope Records (4 tracks)
-- Kid Ina Korner / Interscope (3 tracks)
+- THEBLACKLABEL/Interscope Records (4 tracks)
 - THE BLACK LABEL/Interscope Records (3 tracks)
-- Bad Boy / Interscope (2 tracks)
+- Kid Ina Korner / Interscope (3 tracks)
 - Mosley / Interscope (2 tracks)
 - pgLang/Top Dawg Entertainment/Aftermath/Interscope Records (2 tracks)
-- Golden Angel/ Interscope Records (1 tracks)
-- Interscope Records (1 tracks)
+- Bad Boy / Interscope (2 tracks)
 - LVRN/Interscope Records (1 tracks)
+- Golden Angel/ Interscope Records (1 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
 - Fantasy Soul/Interscope Records (1 tracks)
 - Collipark / Interscope (1 tracks)
+- Bichota/Interscope Records (1 tracks)
+- Interscope Records (1 tracks)
 
 ## Top Artists
 
@@ -43,7 +44,7 @@ Appears as:
 
 
 <details>
-<summary>See all 36 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -65,6 +66,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb57332e3fc2b97bb33577e65" alt="" width="50" /> | 2 | 0 | The All-American Rejects | [🔗](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 0 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb97a2403d7b9a631ce0f59c" alt="" width="50" /> | 1 | 0 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0b85051b7e8ea8c9739a87e" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -72,6 +74,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb913546735179224ab92142b3" alt="" width="50" /> | 1 | 0 | Amaarae | [🔗](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 0 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 1 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697" alt="" width="50" /> | 1 | 0 | Peso Pluma | [🔗](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
@@ -96,7 +99,7 @@ Appears as:
 
 
 <details>
-<summary>See all 45 albums</summary>
+<summary>See all 46 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -129,6 +132,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | 1 | 0 | Overexposed (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | 1 | 0 | Over It | 2019-10-04 | [🔗](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aaf8c068ffe217db825a1945" alt="" width="50" /> | 1 | 0 | Move Along | 2005-01-01 | [🔗](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="" width="50" /> | 1 | 0 | MAÑANA SERÁ BONITO (BICHOTA SEASON) | 2023-08-10 | [🔗](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | 1 | 0 | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | 1 | 0 | Hands All Over | 2010 | [🔗](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | 1 | 0 | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
@@ -158,7 +162,7 @@ Appears as:
 
 
 <details>
-<summary>See all 42 genres</summary>
+<summary>See all 46 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -183,9 +187,13 @@ Appears as:
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 1 | 0 | urbano latino |
+| 1 | 0 | trap latino |
 | 1 | 0 | trap |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | socal pop punk |
+| 1 | 0 | reggaeton colombiano |
+| 1 | 0 | reggaeton |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | ghanaian pop |
 | 1 | 0 | ghanaian alternative |
@@ -375,6 +383,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | The Middle | Bleed American | Jimmy Eat World | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | [Justin Bieber](../../artists/justin_bieber/overview.md), benny blanco | Friends Keep Secrets, [Def Jam Recordings](../def_jam_recordings), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="" width="50" /> | QLONA | MAÑANA SERÁ BONITO (BICHOTA SEASON) | KAROL G, Peso Pluma | [Bichota/Interscope Records](.) | | [🔗](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | Kendrick Lamar | [pgLang/Top Dawg Entertainment/Aftermath/Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | Kendrick Lamar | [pgLang/Top Dawg Entertainment/Aftermath/Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA | LALISA | LISA | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) |

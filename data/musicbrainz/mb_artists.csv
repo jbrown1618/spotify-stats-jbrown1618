@@ -26,6 +26,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 00f373e0-9a1d-4093-847f-eb624ed23a85,COACH,COACH,Member of Coach & Sendo,Person,,,,,
 00fc124e-6645-4530-8d0b-7def83c5ee25,Matt Bellamy,"Bellamy, Matt",Muse vocalist,Person,United Kingdom,Cambridge,1978-06-09,,Male
 0103c1cc-4a09-4a5d-a344-56ad99a77193,Avril Lavigne,"Lavigne, Avril",,Person,Canada,Belleville,1984-09-27,,Female
+0104ac37-2c18-434f-bd3c-fb4bf4d13e08,Don Swan,"Swan, Don",,Person,United States,,1904-06-28,1998-07-23,Male
 010dae07-caed-448f-91cb-d8ba9b2d9946,강여상,"Kang, Yeo-sang",Ateez,Person,South Korea,Pohang,1999-06-15,,Male
 01199296-a478-49fd-8ec0-1da1e9146671,Bobbi Soxx,"Soxx, Bobbi",,Person,,,,,Male
 0119e14d-521a-425f-974a-53657013aec5,CARSTN,CARSTN,,Person,Germany,,,,Male
@@ -57,6 +58,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 0206a1aa-ee62-4077-9c0b-40f8c6d2114b,Brian Rajaratnam,"Rajaratnam, Brian",,Person,,,,,Male
 02087c26-4259-4811-8c10-6ee72f2791b1,Bob Johnston,"Johnston, Bob",American record producer,Person,United States,Hillsboro,1932-05-14,2015-08-14,Male
 02138b2f-233a-49a5-9da8-527ac4342fbd,Paul Worley,"Worley, Paul",,Person,United States,,1950-02-16,,Male
+02177ee9-4415-4f31-a166-fc57a9016d4f,Julia Easterlin,"Easterlin, Julia",,Person,United States,Augusta,1989-03-14,,Female
 022589ac-7177-460d-a178-9976cf70e29f,Freddie Mercury,"Mercury, Freddie",,Person,United Kingdom,Stone Town,1946-09-05,1991-11-24,Male
 022a6a35-9d0d-44aa-a068-c55cbe56c38b,Tom Ware,Tom Ware,80s New Wave,Unknown,,,,,
 0236d6ef-744a-4a71-a7e4-7e1030df609e,Roger Dawkins,"Dawkins, Roger",drummer,Person,,,,,Male
@@ -166,12 +168,14 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 07832b42-8826-4ab1-acd3-c49a2f595ffe,6LACK,6LACK,,Person,United States,Baltimore,1992-06-24,,Male
 07892c1b-6709-4230-815d-f54f74540faf,Charlie Hugall,"Hugall, Charlie",producer/songwriter/engineer,Person,United Kingdom,Brixton,1984,,Male
 078a20cd-8428-40dc-a71d-55f131404a59,郭グレース,"Kaku, Grace",,Person,Japan,Saitama,1994-04-29,,Female
+07990565-49f0-4550-b6f8-d4dfcf3b172c,Riley Hampton Orchestra,Riley Hampton Orchestra,,Orchestra,,,,,
 07a7b7e1-42d4-4d41-9241-04e78369f830,Mauricio Montaner,"Montaner, Mauricio",,Person,Venezuela,,,,Male
 07aebfa0-55d6-47e0-a284-12330e3eae0d,Rick Rubin,"Rubin, Rick",American record producer and former co-president of Columbia Records,Person,Malibu,Lido Beach,1963-03-10,,Male
 07c464c8-bec7-4c39-8fea-c19c9595edc8,"Shawn ""Source"" Jarrett","Jarrett, Shawn ""Source""",,Person,United States,,,,Male
 07c4ed8b-872e-470d-a5f5-8f0753d18f58,Barry Cohen,"Cohen, Barry",,Person,,,,,Male
 07e0d3af-78ae-434c-b54b-25aa8e816a8d,Tym Brown,"Brown, Tym",,Person,,,,,
 07f3fa27-d416-4d43-b11b-ad8086a2e8c3,김도연,"Kim, Do-yeon",Weki Meki,Person,South Korea,Bupyeong District,1999-12-04,,Female
+080546d6-7627-4a29-88d4-740dda02f2a2,Matthew Maroulakos,"Maroulakos, Matthew",,Unknown,,,,,
 081c55fc-c56a-4e22-afca-78cfdb735f3f,Mike Tacci,"Tacci, Mike",,Person,United States,,,,Male
 08306695-0943-4f91-be93-a39ce7a7804f,Wanna One,Wanna One,South Korean boy group,Group,South Korea,Seoul,2017-06-16,2019-01-27,
 08415f3b-6402-4800-8d62-4d6d1557b85b,Ayushy,Ayushy,,Unknown,,,,,
@@ -220,6 +224,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 09d9b297-c5db-4b3d-9fb2-25646c696fff,보라,Bora,SISTAR & SISTAR19,Person,South Korea,Seoul,1990-01-30,,Female
 09db707f-0d7d-4f53-9b7c-5999a44149f8,김지호,"Kim, Jiho",OH MY GIRL member,Person,South Korea,Okcheon,1997-04-04,,Female
 09db8e0f-232f-4bca-9254-03d5d83d5c8d,이희승,"Lee, Hee-seung",ENHYPEN,Person,South Korea,,2001-10-15,,Male
+09e13499-87bc-46a6-bca1-f3526fbb84d4,Bob Simpson,"Simpson, Bob",US jazz engineer/producer,Person,United States,,,,Male
 09f2e97c-5180-4bc9-aeb5-f9d5460f249d,KxBxMETAL,KxBxMETAL,,Person,,,,,
 09f358c8-a4a6-4d15-9d7a-cb51aa1af342,Laura Melhuish,"Melhuish, Laura",British violinist,Person,United Kingdom,,,,Female
 09f9fc68-b233-4d2f-978d-d8e8ca903152,Oli Middleton,"Middleton, Oli",engineer and mixer,Person,United Kingdom,,,,Male
@@ -399,6 +404,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 118ba687-ad7f-4c28-9355-67e14b18baeb,Ron McGovney,"McGovney, Ron",,Person,United States,Los Angeles,1962-11-02,,Male
 118e2d8f-a463-466f-9f76-628d596b373a,Jim Tomlinson,"Tomlinson, Jim",,Person,United Kingdom,Sutton Coldfield,1966-09-09,,Male
 118e9539-1493-4832-ab4f-9fdbf642db00,大空はるみ,"Ohzora, Harumi",Japanese singer,Person,Japan,Japan,1948-10-30,1998,Female
+119f4339-bce7-4fdb-8424-2083d21d5b30,Shane Washington,"Washington, Shane",,Person,,,,,Male
 11c03722-3fa5-4c0d-bb60-467201a7eaa7,Gary Lyons,"Lyons, Gary",UK engineer & producer,Person,United Kingdom,,,,Male
 11e3b6c6-2869-471a-93c9-baae2447901c,Robin Braun,Robin Braun,,Person,,,,,Male
 11f66ca4-02d9-429e-a117-892a0af8fa6a,Emma Anzai,"Anzai, Emma",bass guitarist of Evanescence,Person,,,,,Female
@@ -419,6 +425,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 127b13c7-1b12-4c7e-a75b-ab28949aa540,北澤早紀,"Kitazawa, Saki",,Person,Japan,Aichi,1997-06-05,,Female
 127e632a-f790-4c36-af6b-f4a91e70d24f,Myrna Smith,"Smith, Myrna",,Person,United States,,1941-05-28,2010-12-24,Female
 12897cc4-81a0-47d6-a2ba-c79245225aad,Mags,Mags,Norwegian musician,Person,,Oslo,1962-11-01,,Male
+128e1f3c-a110-4320-8202-4ad997f0a6d0,Michael Mayo,"Mayo, Michael",Classic Vocal Style,Person,Los Angeles,,,,Male
 1291c449-cf56-4cce-b4f3-0ead611ef29e,"Jorge Luis Perez, Jr.","Perez, Jorge Luis, Jr.",,Person,,,,,Male
 129f50a7-e294-46ae-85c2-68deefb6588c,윤보미,"Yoon, Bo-mi",,Person,South Korea,Suwon,1993-08-13,,Female
 12b02974-6d6e-47a9-87d2-98bfc627c9ae,Seth Kauffman,"Kauffman, Seth",US indie rock musician,Person,United States,,,,Male
@@ -465,11 +472,13 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 142e4bd5-6fbb-41fc-8ed1-9eabf8e55b60,Alex Asher,"Asher, Alex",,Person,,,,,
 143472cb-de19-4da3-b8ac-8a7d01b6638d,Z.TAO,Z.TAO,,Person,China,Qingdao,1993-05-02,,Male
 1439de8e-228a-4c5f-98a0-a4a39974ca87,Ernest Clark,"Clark, Ernest",,Person,United States,,,,Male
+14493f43-323e-47a1-b43b-cd277c2d57e8,Willard Suyker,"Suyker, Willard",,Person,,,,,Male
 14527040-32b2-46ed-ac30-12bd3daa6a7c,Malcolm Strachan,"Strachan, Malcolm",,Person,United Kingdom,,,,Male
 14697ebf-1e07-4ac6-bf7a-180582d54cef,Gene Pello,"Pello, Gene",,Person,,,,,
 1470e603-7cb4-454a-8acf-9e5b0cdd4e75,정수완,"Jung, Soo-Wan",,Person,South Korea,Seoul,1984-01-12,,Male
 14759116-cc98-4267-920c-26611ccbe536,Iain Hill,"Hill, Iain",UK engineer,Person,United Kingdom,,,,Male
 1478adcd-e96c-441b-b5db-89d66ff456f7,Moon Byul,Moon Byul,South Korean singer; MAMAMOO,Person,South Korea,Bucheon,1992-12-22,,Female
+14955018-4a03-430c-9d99-97fbbd83c619,Bob Thiele,"Thiele, Bob",producer & songwriter,Person,United States,Brooklyn,1922-07-27,1996-01-30,Male
 149f91ef-1287-46da-9a8e-87fee02f1471,Pharrell Williams,"Williams, Pharrell",,Person,United States,Virginia Beach,1973-04-05,,Male
 14a00a25-04d7-43f6-9196-29e68a767321,한성호,"Han, Seong Ho",,Person,South Korea,,1973-06-20,,Male
 14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17,Jeff Beck,"Beck, Jeff",English rock guitarist,Person,United Kingdom,Wallington,1944-06-24,2023-01-10,Male
@@ -515,6 +524,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 1692d2a2-988d-448f-82b7-0bdc2ecd5f19,NOHC,NOHC,,Group,,,,,
 16a8df2d-4752-4c12-8dd0-95f776c1c38a,片山陽加,"Katayama, Haruka",,Person,Japan,Aichi,1990-05-10,,Female
 16a9ff3c-50a3-45a7-8449-f4d3b23e37a9,Charles Chalmers,"Chalmers, Charles","American saxophonist, singer-songwriter, arranger, and producer",Person,United States,Memphis,,,Male
+16af2a0a-578e-44f4-b109-7e2fb4b83d6e,Grady Tate,"Tate, Grady",,Person,United States,Durham,1932-01-14,2017-10-08,Male
 16b36ee4-04d3-4cf9-bcbc-548fd6a2fd4c,Okieriete Onaodowan,"Onaodowan, Okieriete",,Person,United States,,1987-08-15,,Male
 16c074dc-66aa-4ce2-a435-87a8bf2bc9e1,Ivan Jimenez,"Jimenez, Ivan",,Person,,,,,Male
 16c7157a-5d8e-474c-a79e-9dc182a923e6,"Byron ""Mr. Talkbox"" Chambers","Chambers, Byron ""Mr. Talkbox""",,Person,United States,,,,Male
@@ -541,6 +551,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 17d5c93c-f5c9-4ace-82ee-a287277bbf85,William James Edwards Lee III,"Lee, William James Edwards III",,Person,United States,Wilcox County,1928-07-23,2023-05-24,Male
 17d654a3-44a3-49de-969d-ed50c5cff553,Audrey Moukataff,"Moukataff, Audrey",,Person,,,,,
 17de4907-ff9c-4311-9eed-d27da800c693,Arcades,Arcades,"UK electronic duo, Max Graham / Matt Thomson",Group,United Kingdom,,,,
+17e2ae06-6200-476c-b904-43ac1e7a092c,Jerome Richardson,"Richardson, Jerome",,Person,United States,Oakland,1920-11-15,2000-06-23,Male
 17ee462b-d251-40f6-96dd-8605114e851a,Norman Jones,"Jones, Norman",Cello,Person,,,,,Male
 180a77c9-eb90-4a37-b73a-23ee8b592600,Seraphine,Seraphine,Riot Gaming virtual songwriter & producer,Character,,,2020-06-26,,Female
 180fb463-68ff-4ad4-a2de-197ae9219a27,折井あゆみ,"Orii, Ayumi",,Person,Japan,Nagano,1985-07-20,,Female
@@ -583,8 +594,10 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 19bb9047-161d-4a33-9266-9325b386e316,Skarn,Skarn,industrial techno,Person,Los Angeles,Bologna,1976-05-24,,Male
 19c1108c-f888-4ced-af9e-59c5becd13f8,ONLEE,ONLEE,former member of 1THE9,Person,South Korea,Gangseo District,2000-05-20,,Male
 19ce9c6c-545b-410e-8eda-d1643484982b,Futuristic Swaver,Futuristic Swaver,Korean rapper/producer,Person,South Korea,Busan,1995-05-03,,Male
+19cf8de0-cdde-4f64-8922-d067807e4c9f,Sy Oliver and His Orchestra,"Oliver, Sy and His Orchestra",,Group,United States,,,,
 19e3afef-49f6-4d57-a71f-e406802608d9,Man With Guitar,Man With Guitar,,Person,,,,,
 19ed6935-9460-437d-8c10-ed8db3b85a3f,Timothy Fagan,"Fagan, Timothy",,Unknown,,,,,
+19eea818-34bd-4250-ba77-8bc88dfd8774,Sam Marowitz,"Marowitz, Sam",saxophonist and clarinetist,Person,United States,,1920,,Male
 19f52369-71d1-4e25-a459-8e3de576532b,Aldrin Davis,"Davis, Aldrin",,Person,United States,Atlanta,1970-01-01,,Male
 1a03e6a2-ce4c-4ad2-85af-8a26bd0d2d6a,"Mark Nilan, Jr.","Nilan, Mark, Jr.",,Person,United States,,1983-09-05,,Male
 1a107abc-71ec-4c5d-a2f6-a2a25e4741cd,乾坤,Qian Kun,,Person,South Korea,Fujian,1996-01-01,,Male
@@ -689,6 +702,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 1e4460c9-4d4a-4eb7-b2a6-3718e6e1020b,Naughty Boy,Naughty Boy,"British songwriter, record producer, musician and rapper",Person,United Kingdom,Watford,1985-01-01,,Male
 1e586623-00f8-4ed2-b8ad-fa99d038cbe5,Stockholm Session Strings,Stockholm Session Strings,,Group,Stockholm,,,,
 1e59f58e-298e-4300-bd7b-c3bd6089588c,Chris Trevett,"Trevett, Chris",,Person,United Kingdom,,,,Male
+1e5cd483-fc46-4c56-bf0e-d9a06cc00931,Josh Koestenbaum,"Koestenbaum, Josh",,Person,,,,,Male
 1e66dc54-c636-470e-b21b-f997d0b3e20f,Chris Stainton,"Stainton, Chris",,Person,United Kingdom,Woodseats,1944-03-22,,Male
 1e6771d9-27d6-4ae7-b732-08db7a4f8110,신동,Shindong,,Person,South Korea,,1985-09-28,,Male
 1e6e7ecd-f616-4625-8362-1d34b7e12467,Casey Cuayo,"Cuayo, Casey",,Person,,,,,
@@ -800,6 +814,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 23492596-1fa6-45b1-8de6-eed4a829483b,AOA,AOA,South Korean girl group,Group,South Korea,Seoul,2012-08-09,,
 23600da2-8056-489b-a5e2-2dae92deb7f0,Philip Cobb,"Cobb, Philip",trumpetist,Person,United Kingdom,,,,Male
 2368b7ab-c015-4582-9aab-e28b62c4103c,佐野友里子,"Sano, Yuriko",,Person,Japan,Tokyo,1992-01-22,,Female
+2379937f-6e0d-46a2-b8ff-633fafd72002,Wayne Shorter,"Shorter, Wayne",US jazz saxophonist and composer,Person,United States,Newark,1933-08-25,2023-03-02,Male
 23964660-e7a0-4ba7-86c8-1cd793fa074a,Olivia Holt,"Holt, Olivia",,Person,Los Angeles,Germantown,1997-08-05,,Female
 2397ebdf-892f-4f09-a05f-a0dd8aeeb95a,John Underwood,"Underwood, John",violist,Person,,,,,Male
 23a597f1-49df-44ae-8272-cbc8d70160ba,100%서정,100%Seojung,,Unknown,,,,,
@@ -877,6 +892,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 26bcfae5-d7db-4e5d-8385-47926e10384e,Victoria Akintola,"Akintola, Victoria",,Person,,,,,Female
 26bdb4b1-53a6-4826-b532-de61e9b464fe,MonoNeon,MonoNeon,US bassist Dywane Thomas Jr.,Person,United States,Memphis,1990-08-06,,Male
 26cea341-dfab-483f-9cdb-8de82da81019,Pete Wentz,"Wentz, Pete",,Person,United States,Wilmette,1979-06-05,,Male
+26ec3505-548f-4480-85da-f99bf5567b8c,Richard Werbowenko,"Werbowenko, Richard",,Person,United States,,,,Male
 26f50623-f0bd-4c9f-a8f5-6145767713c8,SYRE,SYRE,alter-ego of Jaden Smith,Person,,,,,Male
 26fa8b67-6c7f-406c-ad64-a1d070092df2,George Martin,"Martin, George","producer, arranger, composer, conductor, audio engineer, and musician",Person,United Kingdom,Highbury,1926-01-03,2016-03-08,Male
 27024efb-7f82-4efe-b150-6d41536eabd2,河地マヤ,Kawachi Maya,XG,Person,South Korea,Japan,2005-08-10,,Female
@@ -887,6 +903,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 274e5aeb-6f07-4429-b74e-02d4e3b83344,Frants,Frants,Korean producer/songwriter,Person,Seoul,,,,Male
 275986b9-2146-4926-9cd3-9a90bbaf5fd8,Par Almqvist,"Almqvist, Par",,Person,,,,,
 275c0020-3de9-4655-b76c-8cb2fe92c0b6,板野友美,"Itano, Tomomi",,Person,Japan,Kanagawa,1991-07-03,,Female
+27613b78-1b9d-4ec3-9db5-fa0743465fdd,Herbie Hancock,"Hancock, Herbie","US jazz pianist, keyboardist, bandleader and composer",Person,United States,Chicago,1940-04-12,,Male
 2777540c-d2b7-43b7-8cf4-8895f3e5d1ca,빅싼초,Bicksancho,,Person,South Korea,,,,Male
 277ba695-30cc-42cc-8737-04c6b2ba97fc,Kella Armitage,"Armitage, Kella",,Person,,,,,Female
 27837319-4f7b-4258-ad91-21a24bb6e1a2,Ben Slater,"Slater, Ben",,Person,United States,,,,Male
@@ -904,6 +921,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 27efd014-288b-4b29-9b8d-8679ccef808c,David Dickson,"Dickson, David",,Person,,,,,Male
 27fd3b0e-1b86-4bfa-b4ee-c3432690cd9c,杉山未来,"Sugiyama, Miku",,Person,Japan,,1995-12-12,,Female
 2804ed34-fdb9-4751-8f0d-7ae983be7111,Eltz,Eltz,Composer,Person,South Korea,,,,
+2808c0b3-7217-478d-9488-35cdec7546c8,Wissam Ghorayeb,"Ghorayeb, Wissam",,Unknown,,,,,
 28128435-f8c0-401c-a60d-ab3536cd573a,Kevin McMahon,"McMahon, Kevin",Lucky Pierre / Prick,Person,United States,,1953-09-21,,Male
 281a8063-7c8d-4899-a922-2c8aaa88e4b7,우성연,"Woo, Sung-yeon",,Person,South Korea,,,,
 2825f90d-7c3b-467b-9a98-d66a5dc8ddca,Wilton Felder,"Felder, Wilton",,Person,United States,Houston,1940-08-31,2015-09-27,Male
@@ -973,6 +991,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 2a5a96e1-fabb-45c6-b44b-2dce9729cf27,강선영,강선영,MonoTree,Person,,,,,
 2a66baa5-9832-4fbc-8365-c9f607a89e47,Eddie Van Halen,"Van Halen, Eddie",,Person,United States,Amsterdam,1955-01-26,2020-10-06,Male
 2a74672d-8efc-4914-a352-cfcb218e8bdc,Televangel,Televangel,US ambiant producer,Person,Oakland,,,,Male
+2a760856-7bf1-4f65-a2d0-225e77085fcc,Clark Terry,"Terry, Clark",American swing trumpeter,Person,United States,St. Louis,1920-12-14,2015-02-21,Male
 2a7e5329-4e0f-4624-a722-696707734a77,김동완,"Kim, Dong Wan",,Person,South Korea,Seoul,1979-11-21,,Male
 2ab1734f-72ca-4756-8ad4-f2aeec972168,Sara Lee,"Lee, Sara","UK bassist, singer & songwriter",Person,United Kingdom,West Midlands,,,Female
 2ab3deda-87a8-481a-bdb4-32512ddbb3e3,Bob Bailey,"Bailey, Bob",gospel singer,Person,United States,,1956-02-19,,Male
@@ -994,6 +1013,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 2b53f377-ef01-4af9-a469-82fdfd138fba,Sebastian Lundberg,"Lundberg, Sebastian",,Person,Sweden,,,,Male
 2b63645a-4d24-4c55-a0da-be2dff15156b,John Jezzard,"Jezzard, John",violinist,Person,United Kingdom,,,,Male
 2b70ba75-fefa-43d9-87e6-d87be7a53691,Tich,Tich,,Person,United Kingdom,,,,Female
+2b72031d-681d-423b-a8ee-636e72ccf50c,Riley Hampton,"Hampton, Riley",,Person,United States,,,,Male
 2b7539d0-7fe1-456e-ab44-887d82949828,Louie Shelton,"Shelton, Louie",,Person,United States,,1941-04-06,,Male
 2b786fb3-a116-4163-9b65-cf56f03c8a7f,TAEYEON,TAEYEON,,Person,South Korea,Jeonju,1989-03-09,,Female
 2b7fa335-4a0b-449b-bba2-8ef2e12ec9fd,Jason Rae,"Rae, Jason",,Person,United Kingdom,,1976,2008-03-22,
@@ -1130,6 +1150,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 30276f13-d4df-48a7-a2ec-da7ef01b67f7,CobiCudi,CobiCudi,,Person,South Korea,,,,Female
 302bd7b9-d012-4360-897a-93b00c855680,David Guetta,"Guetta, David",,Person,France,Paris,1967-11-07,,Male
 30343313-1e24-4758-950f-4a96309d7893,Robin Finck,"Finck, Robin",,Person,United States,Park Ridge,1971-11-07,,Male
+3037bd18-0079-4e4b-9ce1-758689e210d8,Semisonic,Semisonic,,Group,United States,Minneapolis,1993,,
 30415593-f831-42a1-ba3f-fbaef1272815,Marcus Mumford,"Mumford, Marcus",,Person,United Kingdom,Orange County,1987-01-31,,Male
 304563bb-6e78-4f25-8831-1978432a5a6b,John Wicks,"Wicks, John","drummer, Fitz and The Tantrums",Person,United States,,,,Male
 304adbb4-1993-45c1-907e-34ddfc08af5e,岡田奈々,"Okada, Nana",AKB48,Person,Japan,Kanagawa,1997-11-07,,Female
@@ -1155,6 +1176,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24,Tommy Stinson,"Stinson, Tommy",,Person,United States,Minneapolis,1966-10-06,,Male
 319c00d7-5513-47f6-9070-b20ad1ebd929,GE-OLOGY,GE-OLOGY,"US hip‐hop producer, DJ & visual artist",Person,United States,,,,Male
 31a619cb-ffed-4a15-ac2b-0934f40a82ce,Brad Whitford,"Whitford, Brad",,Person,United States,Winchester,1952-02-23,,Male
+31b36b91-191f-4f68-9ad7-40299fc22f93,Leonard & Phil Chess,"Chess, Leonard & Phil",Legendary US production duo,Group,,,,,
 31b842b0-170b-471d-9d3f-e7eecefff279,혜린,Hyelin,EXID,Person,South Korea,Gwangju,1993-08-23,,Female
 31bf9535-94be-40dc-bae6-4a8f5c7aab17,Steve Walsh,"Walsh, Steve",original lead singer of Kansas,Person,United States,St. Louis,1951-06-15,,Male
 31dd895e-4473-4458-baed-8bcf36d3de7f,민윤기,Min Yoon-gi,,Person,South Korea,Buk District,1993-03-09,,Male
@@ -1189,6 +1211,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 3323c4aa-9886-4bfa-a28f-c63911663766,Jake Ferguson,"Ferguson, Jake",,Person,,,,,
 332516ea-6988-42e5-9847-6caa8338801b,Katie Harvey,"Harvey, Katie",engineer,Person,,,,,Female
 332a08b3-c1a3-49cf-8b96-e373a914590e,TAEYONG,TAEYONG,,Person,South Korea,Seoul,1995-07-01,,Male
+33391f3e-c5f0-402f-a1ba-9fbf51381944,Troy Gardner,"Gardner, Troy",,Unknown,,,,,
 335c5b83-3802-4be8-8dd7-b8b21ec8a8cb,이주용,"Lee, Juyong",,Person,,,,,
 3363cf5a-22dc-4b44-9b34-17ff5e537438,Jim Caruana,"Caruana, Jim",,Person,United States,Auburn,,,Male
 33644f18-8dc6-4460-9045-8e2096ea605d,Tim Larcombe,"Larcombe, Tim",Production music composer,Person,United Kingdom,,,,Male
@@ -1206,6 +1229,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 33bfd0a3-ade2-4b57-a1d5-7d024dbcb381,August Rigo,"Rigo, August",,Person,Canada,Toronto,1986-08-06,,Male
 33ca19f4-18c8-4411-98df-ac23890ce9f5,Ellie Goulding,"Goulding, Ellie",,Person,United Kingdom,Lyonshall,1986-12-30,,Female
 33df4d0c-8807-45d2-90ec-1366176e9ee0,Jonas Lindeborg,"Lindeborg, Jonas",,Person,Sweden,,,,Male
+33e50556-d4be-421b-a5d1-644bd536ec07,J.J. Johnson,"Johnson, J.J.",Jazz/bop trombonist/session leader,Person,United States,Indianapolis,1924-01-22,2001-02-04,Male
 33f0fdc3-a1c5-4be8-902e-fcc96eab31c6,Ron Pender,"Pender, Ron",,Person,,,,,Male
 33f4777a-86f2-4e93-9b13-c53310a3dc61,Jared Scharff,"Scharff, Jared","guitarist, songwriter, producer",Person,United States,,,,Male
 3402566b-20dc-47f1-973b-2af1dedae702,Dan Peters,"Peters, Dan",Mudhoney drummer,Person,United States,Seattle,1968-08-18,,Male
@@ -1227,8 +1251,10 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 34ccbb85-dbd9-47cc-bb3b-041e1b2a9b29,Fabrice Detry,"Detry, Fabrice",Belgian musician,Person,Belgium,,,,Male
 34e530bf-6125-4d03-ac4c-df651bd9216a,Justin Hergett,"Hergett, Justin",,Person,,,,,Male
 3501c236-afba-4de9-ba5a-e8572e3f4740,FITZ,FITZ,French-American musician/singer-songwriter Michael Fitzpatrick,Person,United States,,,,Male
+3508f3fd-3b18-493c-a362-376736bb6cde,Harold Arlen,"Arlen, Harold",,Person,United States,Buffalo,1905-02-15,1986-04-23,Male
 3513f978-a374-462d-b0ea-2e95e4240e1a,Jonathan Plum,Jonathan Plum,,Unknown,,,,,
 351d57cd-62b8-442d-adc8-48d4d0c4c6be,Andrew Dost,"Dost, Andrew",,Person,United States,,,,Male
+351d8bdf-33a1-45e2-8c04-c85fad20da55,Sarah Vaughan,"Vaughan, Sarah",,Person,United States,Newark,1924-03-27,1990-04-03,Female
 35230498-266e-456a-b59e-c8f769ee67dc,Dave Martone,"Martone, Dave",US engineer,Person,United States,,,,Male
 352d48b6-aadf-482d-b4f9-22c910d05bfc,전승우,"Jeon, SeungWoo",,Person,South Korea,South Korea,1974-07-23,,Male
 352e7a55-0746-41d3-aef2-922a01cc3ada,코코로,Kokoro,former Cherry Bullet member,Person,South Korea,Nagoya,2000-11-01,,Female
@@ -1338,6 +1364,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 39b343f2-fca7-4379-95b7-1b5c819d448d,Jack Richards,"Richards, Jack",violinist,Person,United Kingdom,,,,Male
 39b67b8b-d237-4df9-b1a6-7cf4cf749b36,David Kushner,"Kushner, David",novelist,Person,United States,,,,Male
 39b8f29b-2881-471b-9f33-5a23df6388fc,Anette Olzon,"Olzon, Anette",,Person,Helsingborg,Katrineholm,1971-06-21,,Female
+39c96b70-75ca-479c-a04a-0fb854d80172,Jack Joseph-Puig,"Joseph-Puig, Jack",,Person,United States,,,,Male
 39cdc388-675c-4513-b4ab-283c2cb1c832,Woody Goss,"Goss, Woody",,Person,,,,,Male
 39d5088d-f037-46b7-bf17-4e07f6e54b42,정우,JUNGWOO,NCT,Person,South Korea,South Korea,1998-02-19,,Male
 39df5c2a-5ad1-45d7-bc89-4fada16c9d5f,Peter Holsapple,"Holsapple, Peter",,Person,United States,Greenwich,1956-02-19,,Male
@@ -1542,6 +1569,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 4274bd31-7306-4aaf-8a09-4186237f6668,Mikey Freedom Hart,"Hart, Mikey Freedom",,Person,United States,New Orleans,,,Male
 427e6a1b-c195-4619-80d6-43d2122e9e98,Stuart White,"White, Stuart",,Person,,,,,Male
 4289a934-1e11-454b-9650-ef4c8c81bb08,Elise Campbell,"Campbell, Elise",horn,Person,,,,,Female
+428c2909-30c8-4c09-b37e-527357827547,Gus Kahn,"Kahn, Gus",,Person,United States,Koblenz,1886-11-06,1941-10-08,Male
 42976ddb-0ad5-4baa-9304-f31d7d84e3e0,PIXY,PIXY,South Korean girl group,Group,South Korea,Seoul,2021-02-24,,
 429c1c1a-f211-4dee-8b4d-624db60079d6,Danny Cummings,"Cummings, Danny",British drummer and percussionist,Person,United Kingdom,Sheffield,,,Male
 42a8f507-8412-4611-854f-926571049fa0,George Harrison,"Harrison, George",The Beatles,Person,United Kingdom,Liverpool,1943-02-24,2001-11-29,Male
@@ -1664,6 +1692,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 481f67d8-1de2-46a9-88f0-444e48aef21a,James Mingo Lewis,"Lewis, James Mingo","percussionist, worked with Santana",Person,United States,New York,1940-12,,Male
 483b7ad8-6015-41aa-9d4e-efb45a08a62e,Threshing Spirit,Threshing Spirit,black metal,Person,United States,,,,Male
 484a1a15-cf67-428b-8b1f-735788e8ef8a,Hitchhiker,Hitchhiker,,Person,South Korea,,1971-04-06,,Male
+484d03c6-8abb-452b-9348-e1afc5ddde0d,Warren Hard,"Hard, Warren",,Person,,,,,Male
 4852beb5-3915-4b0c-96fb-9051f56c0de3,Tony Thompson,"Thompson, Tony","Drummer, best known for his work in CHIC",Person,United States,New York,1954-11-15,2003-11-12,Male
 485cdfdf-d726-4e85-8e2e-103120993d02,Casual-T,Casual-T,,Person,,,,,
 486067ad-56d6-48b5-957b-d6cfe3e1af73,Perfume,Perfume,Japanese pop girl group,Group,Japan,Minami-ku,2000,,
@@ -1828,6 +1857,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 4f1f61e9-7d40-4592-8310-3592f72b76c1,Theo Peoples,"Peoples, Theo",,Person,United States,,1961-01-24,,
 4f23a011-5a20-417f-bc20-6497677ca244,Play-N-Skillz,Play-N-Skillz,,Group,United States,Irving,2003,,
 4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c,Wyclef Jean,"Jean, Wyclef","Haitian rapper, musician and actor",Person,Saddle River,Croix-des-Bouquets,1969-10-17,,Male
+4f456ab3-9b3b-41ab-b752-5551c02bae03,Nick Launay,"Launay, Nick",,Person,United Kingdom,London,,,Male
 4f45e8a6-8d08-4444-85db-04f45ed0a840,Andy Martin,"Martin, Andy",jazz trombonist,Person,United States,Provo,1960-08-10,,Male
 4f6721d2-e283-44e4-87c5-913a27abb58f,Dee.P,Dee.P,Korean producer,Person,South Korea,,1983-06-03,,
 4f6857a1-6200-4547-b081-b316dc8fc225,Jonny Breakwell,"Breakwell, Jonny",,Person,,,,,Male
@@ -1924,6 +1954,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 535153a8-4f6c-4485-a821-b828a708d925,Valeria Del Prete,"Del Prete, Valeria",,Person,,,,,
 53553aa4-ef22-4c96-a034-c517e9cb996a,Steve Wolf,"Wolf, Steve",,Person,,,,,Male
 53667d09-b143-43db-acb9-93fa80f5947e,御供茉白,"Mitomo, Mashiro",,Person,Japan,Yamagata,2005-11-25,,Female
+53717b9b-62ab-4d83-94dd-e559164e10dc,Philly Joe Jones,"Jones, Philly Joe",US jazz drummer,Person,United States,Philadelphia,1923-07-15,1985-08-30,Male
 537569a5-49b3-459b-b493-569f8129e1ef,Dawn Elektra,"Elektra, Dawn",,Unknown,,,,,
 537b0412-c2b6-4634-b5bd-86be56a3913b,Bård Bonsaksen,"Bonsaken, Bård",,Person,,,,,Male
 538c26da-fc20-4c53-8c52-7e14ead9395b,Meghan O'Neil,"O'Neil, Meghan",vocalist for Punch / Super Unison,Person,United States,,,,Female
@@ -1948,6 +1979,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 5450fc76-2f7b-400e-adf0-d9bdf6f3978c,Mike Strange,"Strange, Mike",engineer,Person,United States,,,,Male
 545b891e-bfc4-4a8a-8e7d-2e4b7dfae046,Michael Getlin,"Getlin, Michael",,Person,United States,,,,Male
 546b7d40-2134-4e30-a239-a1b34fef42bc,Donnie Dacus,"Dacus, Donnie",,Person,United States,Pasadena,1951-10-12,,Male
+54799c0e-eb45-4eea-996d-c4d71a63c499,Ella Fitzgerald,"Fitzgerald, Ella",,Person,United States,Newport News,1917-04-25,1996-06-15,Female
 547ba6b7-05dd-40ee-85b8-aaa7cea922ff,James Boyd,"Boyd, James",UK viola player,Person,United Kingdom,,,,Male
 54821279-8b7f-412b-8fa8-ab8398524a2d,David Stewart,"Stewart, David",english singer-songwriter,Person,United Kingdom,,,,Male
 54838328-cd85-4d04-a741-e65ea1076c90,Christopher Jackson,"Jackson, Christopher",musical theater actor,Person,United States,Cairo,1975-09-30,,Male
@@ -1962,6 +1994,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 54d8e9a4-277b-4d3b-8ca1-a79863c1e379,Pdogg,Pdogg,,Person,South Korea,Changwon,1983-09-19,,Male
 54fc0558-12b5-4854-9d57-9441bcd73a72,Kim Petras,"Petras, Kim",,Person,United States,Köln,1992-08-27,,Female
 54fe1f7e-ccfb-4230-a805-fb653166f7bf,Paul-Marie Barbier,"Barbier, Paul-Marie",,Person,,,,,Male
+54fe5175-bdf0-46b6-9732-ee8bf2fb9bcb,John Munson,"Munson, John",,Person,,,,,
 550c9992-8be5-4201-9058-157cdfdce20d,"Michael ""1NST1TUT10N"" Barry","Barry, Michael ""1NST1TUT10N""",,Person,,,,,
 5512f482-4c8e-4df7-a8f8-a262d47cdabe,Mike Makowski,"Makowski, Mike",,Person,,,,,
 551366ce-4ea1-4863-aa1d-fc434ba116c3,Tinashé Fazakerley,"Fazakerley, Tinashé",,Person,United Kingdom,Harare,1984-04-04,,Male
@@ -1991,6 +2024,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 55bc7f0d-bc56-4a5e-8555-77557bb757cd,Berry Gordy,"Gordy, Berry",,Person,Palm Desert,Detroit,1929-11-28,,Male
 55e42264-ef27-49d8-93fd-29f930dc96e4,幾田りら,"Ikuta, Lilas",,Person,Japan,Tokyo,2000-09-25,,Female
 55e6074f-ef78-4ec3-8fff-bd1b8cc8c14a,Niall Horan,"Horan, Niall",,Person,Ireland,Mullingar,1993-09-13,,Male
+561d854a-6a28-4aa7-8c99-323e6ce46c2a,Miles Davis,"Davis, Miles","jazz trumpeter, bandleader, songwriter",Person,United States,Alton,1926-05-26,1991-09-28,Male
 563abe5e-06b1-430d-99d4-7abf981c6e5a,Patrick Stump,"Stump, Patrick",,Person,United States,Evanston,1984-04-27,,Male
 5645447d-7c08-4c0f-afd5-53000c2c4692,신지영,"Shin, Ji-young",engineer,Person,South Korea,,,,Female
 564eb37b-a611-43cc-b128-9e0d4cc09026,文俊辉,"Wen, Junhui",SEVENTEEN,Person,South Korea,Shenzhen,1996-06-10,,Male
@@ -2027,8 +2061,10 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 5776e248-db7d-4174-958c-57d2cf988d98,Julio Sigauque,Julio Sigauque,,Person,Mozambique,,,,Male
 5781592c-0645-444a-a10e-0cc8e5d64257,민아,Min A,AOA,Person,South Korea,Busan,1993-09-21,,Female
 57d18228-6949-4d6e-8a96-d89aaba40390,NI-KI,NI-KI,,Person,South Korea,Japan,2005-12-09,,Male
+57db3f59-9c58-4f68-a00e-e044666c4828,Ron Carter,"Carter, Ron",US jazz double-bassist,Person,United States,Ferndale,1937-05-04,,Male
 57e512d4-f478-478a-8659-b03d7c435350,밍키,Mingki,,Person,South Korea,,,,Male
 57f1cdd6-cf32-4004-a095-3ef043c91b61,Epik High,Epik High,,Group,South Korea,,2003,,
+57f4c3b8-0812-4eae-b9d0-84dba3f16b46,Mary Bahr,"Bahr, Mary",,Unknown,,,,,
 5803c81e-739a-4057-9a5c-cf84e55db630,Quincy Jones,"Jones, Quincy",,Person,United States,Chicago,1933-03-14,,Male
 5829cd4f-e693-4b03-abe5-1226243c23d6,BABYMONSTER,BABYMONSTER,,Group,South Korea,Seoul,2022-12-30,,
 58325670-9323-464a-8b20-3e8d7b26df60,Neal Schon,"Schon, Neal",,Person,United States,Oklahoma City,1954-02-27,,Male
@@ -2123,6 +2159,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 5b67472e-f829-4dd6-8d70-99a25383532e,Mark Endert,"Endert, Mark",,Person,United States,,,,Male
 5b6b612d-1bdb-449e-83c8-c119a0e67c52,Ryan Lott,"Lott, Ryan",,Person,United States,,,,Male
 5b747d5e-bf69-4633-b7e1-035dadaaa530,KOBAMETAL,KOBAMETAL,,Person,Japan,,,,Male
+5b99fa9e-4190-4172-abc0-220f895dab9e,Sy Oliver,"Oliver, Sy",,Person,United States,Battle Creek,1910-12-17,1988-05-28,Male
 5bacfcf0-1dc5-4cb7-8ccb-75444d6d58a8,Ronnie Rancifer,"Rancifer, Ronnie",,Person,,,,,Male
 5baea96e-de8c-4f24-a0e1-d268a904be8b,윤원권,"Yoon, Won-kwon",engineer,Person,,,,,Male
 5bb2ca9b-4862-4770-bc64-ceab41d13f5b,JHart,JHart,"trance singer, songwriter, producer & arranger James Abrahart",Person,United States,Brentwood,1988-06-12,,Male
@@ -2205,12 +2242,14 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 5f936c7f-d150-4b57-9f53-580dc41bf5e9,Dojoon,Dojoon,,Person,South Korea,Busan,1993-04-20,,Male
 5f998feb-191d-45c7-9e22-a03531169653,Caroline Ailin,"Ailin, Caroline",,Person,Norway,Bodø,1989-09,,Female
 5fb8cb82-fb21-4931-8eaa-a2c8a98f0e7a,Thin White Duke,Thin White Duke,Stuart David Price,Person,United Kingdom,,1977-09-09,,Male
+5fc368f4-d528-48d7-a8d4-5c657b29beff,Ted Koehler,"Koehler, Ted",,Person,United States,"Washington, D.C.",1894-07-14,1973-01-17,Male
 5fd5aa4f-02b0-4747-ad4c-8a3b4f0f3f79,Sammy Cahn,"Cahn, Sammy",,Person,United States,Lower East Side,1913-06-18,1993-01-15,Male
 5fee3020-513b-48c2-b1f7-4681b01db0c6,Florence + the Machine,Florence and the Machine,,Group,United Kingdom,London,2007,,
 5ffd8579-2cfe-41bc-8da0-bc465bda50d9,飯沼友里奈,"Iinuma, Yurina",,Person,Japan,,1990-04-30,,Female
 6006ac3b-85d0-4927-b6c0-cbb9271b2972,Ted Brosnan,"Brosnan, Ted",,Person,United States,,,,Male
 6007bc9c-9f2b-474a-8f84-b1d097989748,Alan Branscombe,"Branscombe, Alan",,Person,United Kingdom,Wallasey,1936-06-04,1986-10-27,Male
 6014ed4f-27d9-45ac-b173-88bc13005e64,Freddy Clayton,"Clayton, Freddy",,Person,,,,,Male
+601df74c-e91f-4461-8846-92d9a12f7b29,George Coleman,"Coleman, George",US jazz saxophonist,Person,United States,Memphis,1935-03-08,,Male
 603ba565-3967-4be1-931e-9cb945394e86,*NSYNC,NSYNC,US boy band,Group,United States,Orlando,1995,2003,
 604d79fd-0b26-4a9e-b8aa-27e96de869e8,Daniel Parry,"Parry, Daniel",British mix/recording engineer,Person,London,,,,Male
 6050d7d6-8ad2-46ac-81ba-9a2fffeec1b2,Matt Allchin,"Allchin, Matt",,Person,,,,,Male
@@ -2494,6 +2533,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 6d3da6cf-d443-4ebc-9eac-98456bc2def3,Mark Evans,"Evans, Mark",Australian bass guitarist,Person,Australia,Melbourne,1956-03-02,,Male
 6d3e8dbb-38c7-437c-b1a6-389b28191a2e,Jimmy Johnson,"Johnson, Jimmy","guitar, producer, Muscle Shoals rhythm section",Person,United States,Sheffield,1943-02-04,2019-09-05,Male
 6d4b2c5b-e2f7-4afc-9e3c-2a7cad4bfb73,Brandon Paak Anderson,"Anderson, Brandon Paak",,Person,United States,Oxnard,1986-02-08,,Male
+6d4ceda7-c845-4aef-a2c4-36a070d32d61,Louis Armstrong's Orchestra and Chorus,Louis Armstrong's Orchestra and Chorus,,Group,,,,,
 6d54ab00-a6d8-4b7a-bcb4-3d8103bdf672,서다현,"Seo, DaHyun",tripleS,Person,South Korea,Suyeong District,2003-01-08,,Female
 6d556ee8-8493-4c9d-931d-6ff3bd0018cc,SU A,SuA,"MINX, DREAMCATCHER",Person,South Korea,Changwon,1994-08-10,,Female
 6d5ca1e9-70bd-4e76-8983-340243cae0fb,Anna Graceman,"Graceman, Anna",,Person,United States,Juneau,1999-08-01,,Female
@@ -2715,6 +2755,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 76e86a92-c2c0-42ec-8f9d-fe3b4bb6734f,伊豆田莉奈,"Izuta, Rina",,Person,Japan,Saitama,1995-11-26,,Female
 76ef4645-2497-4dd1-a7c2-ad0f910be65d,Druski,Druski,Producer/Songwriter,Person,,,,,Male
 76fa6b6a-45ff-4cd9-941a-e9068a7f9760,홍석,Hong Seok,PENTAGON,Person,South Korea,Seoul,1994-04-17,,Male
+77033127-0a93-45f5-8c9c-671beeeb7fca,Nathan Schram,"Schram, Nathan",violist,Person,United States,,,,Male
 77191d5f-1045-4b3b-ad7f-12ea398db929,DAY6,DAY6,,Group,South Korea,Seoul,2015-09,,
 7726c6eb-affc-4bba-b0e0-0eb1e930631c,Robert Orton,"Orton, Robert",,Person,United Kingdom,,1978-05-15,,Male
 7739898b-7445-4444-86cd-e1c55f877718,Alex Gilbert,"Gilbert, Alex",A&R at UK label 14th Floor Records,Person,,,,,
@@ -2752,6 +2793,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 78bbc19d-6ff9-4131-bf8a-0f42e67750f3,Sara Forsberg,"Forsberg, Sara",,Person,Finland,Jakobstad,1994-05-02,,Female
 78ca81ff-c29c-49c1-9549-9244ccbb0462,Josh Blair,"Blair, Josh",,Person,,,,,
 78cbb56a-2f7d-4ec6-8607-4e0e7f056f57,김승수,"Kim, Seung-soo",KSS MUSIC,Person,South Korea,,1993-01-12,,Male
+78d01769-3a05-4900-a442-a3f700f03119,Phil Chess,"Chess, Phil",,Person,United States,Brestskaya voblasts',1921-03-27,2016-10-19,Male
 78d5d8b3-038b-4f7a-8de2-bdb2c782eb29,승훈,Seunghun,,Person,South Korea,Seoul,1999-02-26,,Male
 78e2dc35-00cf-4ed4-b221-3de5258b1fc5,Nick Banns,"Banns, Nick",,Person,,,,,
 78e8090c-6892-4eb7-990c-ce190028d4d3,山本瑠香,"Yamamoto, Ruka",,Person,Japan,Wakayama,2000-10-10,,Female
@@ -2819,6 +2861,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 7ba092e5-ba22-4258-b399-e5146f430a5b,Jonna Hall,"Hall, Jonna",,Person,South Korea,,,,
 7bac0d84-dec1-4de3-9bdb-2748f299d2ea,山田菜々美,"Yamada, Nanami",,Person,Japan,Hyogo,1999-02-09,,Female
 7bb0df14-40b9-4a44-bdcc-a646c027e8a9,정재일,"Jung, Jae-il",South Korean score composer,Person,South Korea,Seoul,1982-05-07,,Male
+7bbd3cf6-5885-40c7-a3d0-f47d10ef2f4c,Becca Stevens,"Stevens, Becca",,Person,New York,Winston-Salem,1984-06,,Female
 7bbe3cc4-4d69-4614-94b1-a33c95e9175f,장규진,"Jang, Kyu-jin",,Person,South Korea,South Korea,2006-05-26,,Female
 7bc1ade9-b8a1-448b-b311-dea0b753b880,Gustaf Thörn,"Thörn, Gustaf",,Person,,,,,
 7bca0cea-265f-41d3-9e04-8a68507b6f25,Klaus Röder,"Röder, Klaus",German electronic musician,Person,Germany,Stuttgart,1948-04-07,,Male
@@ -2930,6 +2973,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 80c9476f-d06a-4c6b-9d52-2c5be86caafa,王怡人,"Wang, Yiren",,Person,China,Zhejiang,2000-12-29,,Female
 80cd4652-a51f-4d9e-bad0-456ad90e6eb7,Courtney Leonard,"Leonard, Courtney",,Person,,,,,
 80d36ea6-3010-4548-8c27-67626ee43af7,유나,Yu Na,AOA,Person,South Korea,Busan,1992-12-30,,Female
+80d610fe-7771-4226-aa9b-950944791698,Hank Jones,"Jones, Hank",piano,Person,United States,Vicksburg,1918-07-31,2010-05-16,Male
 80d78faa-9d87-4170-a813-44afcb15337b,1월 8일,1월 8일,,Group,South Korea,,,,
 80e67a83-b995-459f-8976-93e97dd793dd,지인,Jiin,,Person,South Korea,,1992-03-13,,Female
 80f9dd8d-2257-42b0-8808-97c3056019b4,ONEW,ONEW,,Person,South Korea,Gwangmyeong,1989-12-14,,Male
@@ -2967,6 +3011,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 8261d96e-0d43-407a-a949-3d763ebff931,Tommaso Colliva,"Colliva, Tommaso",,Person,Italy,,,,
 827cbb69-e0df-4035-8baa-5246603dcbd3,Ian Scott,"Scott, Ian",Pop/rock writer/producer,Person,United States,,1981,,Male
 82a66d18-f271-4c04-a789-92d8a7f4a230,Bo Bodnar,"Bodnar, Bo",,Person,,,,,
+82abc852-7098-40c9-a3e3-a1128bc06d18,Malika Tirolien,"Tirolien, Malika",,Person,,,1983-06-26,,Female
 82ad1c73-2704-45a2-b437-679c3e74f8d9,Ari Levine,"Levine, Ari",,Person,United States,,,,Male
 82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751,Otis Redding,"Redding, Otis",,Person,United States,Dawson,1941-09-09,1967-12-10,Male
 82b2ac64-4ef4-470f-b2f9-58074a4b9c13,Paulina Cerrilla,"Cerrilla, Paulina",,Person,,,,,Female
@@ -3002,6 +3047,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,Pink Floyd,,Group,England,London,1965,2014,
 83dda35e-cc98-4ec2-88ea-1cd216d9688c,Robert Wilson,"Wilson, Robert","US vocalist/bassist, member of Gap Band",Person,United States,,,2010-08-15,
 83e68a19-af0e-4a14-96ec-734b68616965,Jim Horn,"Horn, Jim","saxophonist, hornist, flutist and oboist",Person,United States,Los Angeles,1940-11-20,,Male
+83e71a21-caf7-4e48-8ff7-6512d51e88a3,Henry Mancini,"Mancini, Henry","US composer, conductor & arranger",Person,United States,Cleveland,1924-04-16,1994-06-14,Male
 83e886d8-c21e-4dde-81a3-6581f59b1043,이강하,"Lee, Kang-Ha",,Person,South Korea,,,,Male
 83f81f68-43b8-4b02-91fa-0e01944fe1cd,Eric Palmquist,"Palmquist, Eric",,Person,United States,,,,Male
 84076c2e-14d5-4952-9c62-cb702fb1e222,이길범,"Lee, Gil-beom",,Person,South Korea,,,,
@@ -3077,6 +3123,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 870dbb81-0fae-4258-b5ec-09a969d4d858,진하,Jinha,,Person,South Korea,,2003-11-21,,Female
 8714665f-e6b3-4e25-be04-67178544b393,Tom Lord-Alge,"Lord-Alge, Tom",,Person,Miami,,1963,,Male
 871c1f22-195f-4bab-ab9d-5d21cb202cb3,坂本 舞白,"Sakamoto, Mashiro",,Person,South Korea,Tokyo,1999-12-16,,Female
+872263d4-ea3b-4614-a3e0-cf39fb65321b,Art Ryerson,"Ryerson, Art",,Person,United States,Columbus,1913-05-22,2004-10-27,Male
 8722a192-86ba-48c9-9ea9-2b3b2922f0d8,Lee Gillette,"Gillette, Lee",,Person,United States,Indianapolis,1912-10-30,1981-08-20,Male
 87316512-2e84-40a4-a269-bafdcb6f07a5,심은지,"Sim, Eunjee",South Korean composer,Person,South Korea,,1984-01-04,,Female
 873e8afe-36ae-4b3c-a187-2efbc612441c,Kevin Maloney,"Maloney, Kevin",,Person,United States,,,,Male
@@ -3113,6 +3160,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 8924a7cb-f311-48a9-b038-1075947abb5b,민규,Mingyu,DKZ,Person,South Korea,Incheon,2001-01-09,,Male
 8927fc90-0ed6-4687-806f-0c0cb7b0efb9,FRNK,FRNK,,Person,South Korea,,,,Male
 893a901f-6cf8-4639-8df4-6109f7ac0f29,정모,Jungmo,"Korean guitarist, singer, songwriter, record producer & musical actor",Person,South Korea,,1985-03-26,,Male
+89461f3d-22ba-4d7b-a757-2a70cc2135d6,James Copus,"Copus, James","brass, trumpet",Person,,,,,Male
 894a81ec-cc01-41a4-9aa6-23e0fa4b8e12,道枝咲,"Michieda, Saki",,Person,Japan,Kanagawa,2003-12-20,,Female
 8954b194-0b29-4b5d-a891-a30d6bfe1688,中田ちさと,"Nakata, Chisato",,Person,Japan,Kasukabe,1990-10-08,,Female
 895ba3da-3e7e-44aa-83fe-4dbc674d1821,J. Lauryn,"Lauryn, J.",,Unknown,,,,,
@@ -3209,6 +3257,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 8dce9ad6-9415-4373-9747-dcac5ef43aef,Leo Abrahams,"Abrahams, Leo",,Person,United Kingdom,Camden,1977,,Male
 8dd4dd69-729d-49d2-92cc-001139f49892,Marcos Tovar,"Tovar, Marcos",engineer,Person,New York,,,,Male
 8dd98bdc-80ec-4e93-8509-2f46bafc09a7,Calvin Harris,"Harris, Calvin","dance DJ, producer, songwriter from Scotland",Person,Scotland,Dumfries,1984-01-17,,Male
+8dddb806-0971-4968-ac1d-68340402cd94,Cleo Henry,"Henry, Cleo",,Person,United States,,,,Male
 8de61149-c821-4de6-b364-9f626a86297c,Daniel Johns,"Johns, Daniel",,Person,Australia,Newcastle,1979-04-22,,Male
 8df14cc8-bbc8-42b2-ad66-457412d42ac4,Matthew Chin,"Chin, Matthew",,Person,,,,,Male
 8df62446-21d3-4449-8901-9e2914362639,Anthony Kiedis,"Kiedis, Anthony",,Person,Los Angeles,Grand Rapids,1962-11-01,,Male
@@ -3636,6 +3685,7 @@ a198fd40-5bbf-4f9b-8905-87e6f44b5511,Duncan Campbell,"Campbell, Duncan","trumpet
 a1995f51-2e6b-43b5-ad28-2e99862be4f9,David Parks,"Parks, David",King of Sludge,Person,New York,,,,Male
 a199d60a-f67b-4ee4-b005-476eb947615f,Darkchild,Darkchild,,Person,,,,,
 a19bebc2-6b74-47a4-b9c6-5c5ebc9e3ab6,Jared Robbins,"Robbins, Jared",,Person,United States,,,,Male
+a1a66ddf-76d5-4e44-9c11-950a578a7813,Jacob Slichter,"Slichter, Jacob",,Person,,,1961-04-05,,Male
 a1b2128e-6b81-4b97-b399-ba68aa77297d,Luke Bullen,"Bullen, Luke",,Person,United Kingdom,Norwich,1973-09-02,,Male
 a1e4ac99-dacd-40ab-8a11-0b2737458f14,WOOSUNG,WOOSUNG,,Person,,,,,Male
 a1e7d062-4ff8-400e-a638-eaf19244254b,Robin Wiley,"Wiley, Robin","Austin, Texas singer/songwriter",Person,,,1960-07-27,2006-04-09,Female
@@ -3671,6 +3721,7 @@ a3474f77-8853-4808-bf61-cd5452db5497,Whitney Alford,"Alford, Whitney",,Unknown,,
 a35b5619-4abd-455b-9793-3d1d603ea4c9,윤규,"Lee, Yun-gyu",,Person,South Korea,Ansan,2005-09-07,,Male
 a361ba24-5573-4bf6-9261-33d11380cf9c,中村麻里子,"Nakamura, Mariko",,Person,Japan,Chiba,1993-12-16,,Female
 a3622421-7781-4317-8262-6106f43d66fb,도영,DOYOUNG,NCT,Person,South Korea,Seoul,1996-02-01,,Male
+a36a47e7-f547-4e5c-bf91-e7922f270539,Carolyn Boulay,"Boulay, Carolyn",,Person,,,,,
 a36c62b2-f2bb-493f-8786-6efbfab649c9,Audun Agnar,"Agnar, Audun",,Person,,,,,
 a383f062-e527-4a57-98b0-9205b2f8f171,Oscar Hammerstein II,"Hammerstein, Oscar, II",of Rodgers & Hammerstein,Person,United States,New York,1895-07-12,1960-08-23,Male
 a385aba2-6068-441a-969c-3f7e16608d98,板井直樹,"Itai, Naoki",,Person,Japan,Saitama,1984-10-06,,Male
@@ -3742,6 +3793,7 @@ a6a74741-69a5-4e92-8d9a-a07dc56de074,Marcus McCoan,"McCoan, Marcus",,Person,,,,,
 a6bd3bd7-2f3c-4fa3-aed1-7d484e0716ae,임찬미,"Kim, Chan-mi",engineer,Person,South Korea,,,,
 a6bf06a6-756f-4639-b8c0-0960a8d6cc0a,Jaira Burns,"Burns, Jaira",,Person,Los Angeles,Pennsylvania,1997-01-14,,Female
 a6c4ccb7-9b34-4115-91e8-2c838ff0f794,SONOIO,SONOIO,Alessandro Cortini solo project,Person,United States,Bologna,1976-05-24,,Male
+a6c5a59e-fb11-4f85-a62b-c96ca0d02749,Bruce Allard,"Allard, Bruce",,Person,,,,,Male
 a6c6897a-7415-4f8d-b5a5-3a5e05f3be67,twenty one pilots,twenty one pilots,,Group,United States,Columbus,2009,,
 a6ce1cf4-21ab-4b1b-9589-c75da9bb7cd4,Arschtritt Lindgren,"Lindgren, Arschtritt",,Person,Germany,,1990-09-07,,Male
 a6d4a7dc-9fb4-4ef5-ae49-4e9283642ade,Jungsun Yoo,"Yoo, Jungsun",,Person,,,,,
@@ -3808,6 +3860,7 @@ a98cd83c-4f9d-4c16-a3f2-3759df41df82,Billy Steinberg,"Steinberg, Billy",,Person,
 a98fe54a-5638-4780-b056-14cfc01bdabc,Boy Matthews,"Matthews, Boy",,Person,,Liverpool,1987-09-13,,Male
 a9b994ea-b2a8-4507-8a19-919686b943c5,Bekuh BOOM,Bekuh BOOM,,Person,United States,Orange County,1994-06-21,,Female
 a9e11992-57f5-4a9b-b59f-a6f5e2a2060c,Christopher Wolstenholme,"Wolstenholme, Christopher",,Person,United Kingdom,Rotherham,1978-12-02,,Male
+a9eebfa8-85db-4b69-b5ee-f61e4539c787,Wilbur Schwandt,"Schwandt, Wilbur",,Person,United States,,1904-06-28,1998-07-23,Male
 a9f67897-8a80-43da-926f-ab71e42da310,Jesse Saint John,"Saint John, Jesse",,Person,United States,,,,Male
 a9f8e46d-5b9e-4366-88d6-59fa5a267ba3,田野優花,"Tano, Yūka",,Person,Japan,Tokyo,1997-03-07,,Female
 a9fd834d-b6ea-42bb-a3ed-1a38e855ebda,김성수,"Kim, Sung Soo",,Person,,,,,
@@ -3849,6 +3902,7 @@ ab90925f-e90e-4c28-85d1-06604696953d,D. Fact,"Fact, D.",,Person,Germany,,,,Male
 aba1d23b-6c2c-459c-b4ea-60281d57834e,Chuck Panozzo,"Panozzo, Chuck",,Person,United States,,1948-09-20,,Male
 aba5c8c2-59c6-411c-84a8-e56f6dd44479,Robert Becker,"Becker, Robert",strings,Person,United States,Nashville,1950-09-21,,Male
 aba5cd15-6f7a-492d-87d8-0bf284b05966,Tyler Glenn,"Glenn, Tyler",Member of Neon Trees,Person,United States,,1983-11-28,,Male
+aba67654-ecc4-4edd-b915-c205e18b885f,Jim Champagne,"Champagne, Jim",,Person,United States,,,,Male
 aba98805-2d8a-4c9c-9d92-3773a1d83ed8,Billy Hume,"Hume, Billy",,Person,Atlanta,,,,Male
 abb43b40-3b04-41ff-8a60-064688bcf3fa,James Phillips,"Phillips, James",US hip-hop producer/songwriter aka L-Roc,Person,United States,,,,Male
 abc0fcdc-9b73-4e35-86fc-c1f3b16ab5c0,David Ferguson,"Ferguson, David","Nashville artist, sound engineer",Person,United States,Nashville,1962-07-02,,Male
@@ -3868,6 +3922,7 @@ ac7d16e5-04de-4a58-8505-6a25e08652e6,LØREN,LOREN,"South Korean lyricist, compos
 ac93d3cd-b6eb-4567-8e2d-d2f0d325ec09,Women of Color,Women of Color,US house artist John Wicks,Person,United States,,,,Male
 ac965e47-c916-420c-88b3-730ca3d72bc6,Елизавета Игоревна Хрипунова,"Khripounova, Elizaveta Igorevna",,Person,United States,,,,Female
 ac96a876-aa7c-45fc-9080-ba8a67b2d60b,정기고,Junggigo,,Person,South Korea,Seoul,1980-09-05,,Male
+ac98c2cf-4ad8-4b54-9410-be7ec436f228,Urbie Green,"Green, Urbie",,Person,United States,Mobile,1926-08-08,2018-12-31,Male
 acae00f3-fbf3-440a-9e9e-5e8b75ac3b3e,Anthony Kilhoffer,"Kilhoffer, Anthony",,Person,United States,,,,Male
 acb2191f-0f55-4ec6-b7ff-ce73dea50f3e,WINNER,WINNER,South Korean boy group,Group,South Korea,Seoul,2013,,
 acb4b7ab-90c5-4b70-875b-63e9b519052d,Hyunwook Kang,"Kang, Hyunwook",,Person,Germany,,,,
@@ -4021,6 +4076,7 @@ b31d0d8e-3b56-4413-8517-2ea36d1262e6,이성호,"Lee, Sung-ho",,Person,South Kore
 b326d562-c62f-477f-afa3-660f9f43baba,김준혁,Kim Joonhyuk,South Korean composer,Person,South Korea,,,,Male
 b33123ae-8a12-4d1d-8982-013d807b0951,Zero,Zero,Steam Powered Giraffe,Person,San Diego,,,,Male
 b33cd08d-df19-45bf-b14b-2787f5bd2354,Jordan Evans,"Evans, Jordan",,Person,Canada,Toronto,1991-01-22,,Male
+b342d50e-401c-4c77-b7e4-2b3e7beaf00a,Johnny Mercer,"Mercer, Johnny",,Person,United States,Savannah,1909-11-18,1976-06-25,Male
 b34a4480-cbcc-43ff-8888-3f9df751f0c6,Victor Axelrod,"Axelrod, Victor",,Person,,,,,Male
 b34c71f4-5ce8-4eec-af52-6e547b82c57d,PiXXiE,PiXXiE,Thai girl group,Group,Thailand,,,,
 b35bfd08-f4a1-45d1-9799-a7eec65ff66b,Houschäng Nejadépour,"Nejadépour, Houschäng",,Person,Germany,,,,Male
@@ -4084,6 +4140,7 @@ b60233a1-646c-4ecf-adaf-ee5a5034ce85,鈴木菜絵,"Suzuki, Nae",,Person,Japan,,1
 b6095fdc-557d-4ae2-97e8-fda5c051f892,Rush,Rush,written‐by credit,Unknown,,,,,
 b60e5175-2be4-49f6-a03f-8be2136e60d7,谷口めぐ,"Taniguchi, Megu",,Person,Japan,Tokyo,1998-11-12,,Female
 b6211627-0089-4142-b7d1-57d56d1def42,Rogét Chahayed,"Chahayed, Rogét",,Person,United States,Los Angeles,1988,,Male
+b625448e-bf4a-41c3-a421-72ad46cdb831,John Coltrane,"Coltrane, John",,Person,United States,Hamlet,1926-09-23,1967-07-17,Male
 b629da42-c668-49d2-be67-498605ee2a13,SUGA,SUGA,BTS,Person,South Korea,Buk District,1993-03-09,,Male
 b62efc01-cd52-48d2-b26f-a0f4e2849060,Cecil Bernardy,"Bernardy, Cecil",,Unknown,,,,,
 b636bba4-af5e-4515-9b9f-95fdc1313998,손영진,"Son, Young-jin",,Person,South Korea,,,,
@@ -4095,6 +4152,7 @@ b68b5a12-d728-46e4-8851-b78b09d18c93,Wayne Gordon,"Gordon, Wayne",,Person,United
 b6927fc7-8a2f-48d9-a15c-9989606841f5,James King,"King, James","US multi-instrumentalist, Fitz and The Tantrums",Person,United States,,,,Male
 b6944e22-a7e0-42db-a926-b2c32ce416e5,Luke Davis,"Davis, Luke",drummer,Person,,,,,
 b6949d76-cd73-494c-bfb5-66aea47eeedd,Bruno Ellingham,"Ellingham, Bruno",,Person,,,,,
+b6a30b58-6b00-47c4-a031-c62a6981461f,Tony Williams,"Williams, Tony",American jazz drummer,Person,United States,Chicago,1945-12-12,1997-02-23,Male
 b6b1a3a1-f467-425c-8ee1-15c15177fee9,Megan Searl,"Searl, Megan",,Person,,,,,Female
 b6b21b0c-a706-4b46-a929-bd4d21b06cad,MONSTA X,MONSTA X,South Korean boy group,Group,South Korea,Seoul,2015,,
 b6b36d9a-972e-4faf-8379-85f63b55338b,Joe Wohlmuth,"Wohlmuth, Joe",,Person,,,,,
@@ -4104,6 +4162,7 @@ b6c46355-50a0-4f04-b898-24a7a701915a,Benjamin André,"André, Benjamin",,Person,
 b6dd3d6e-54e4-43e3-b952-98cc9a046733,Thomas Raggi,"Raggi, Thomas",,Person,,Roma,2001-01-18,,Male
 b6e08f19-dca8-4009-aefe-9feb9f1aa1f2,Roméo Elvis,"Elvis, Roméo",Belgian rapper,Person,Belgium,Uccle / Ukkel,1992-12-13,,Male
 b6e1e175-d5ee-45b1-b3af-fecc26837ccf,Luis Resto,"Resto, Luis",,Person,Detroit,Ann Arbor,1961-07-22,,Male
+b6ff4fd0-03ae-41a6-942e-7de13124b970,Paul Chambers,"Chambers, Paul",US jazz bassist,Person,United States,Pittsburgh,1935-04-22,1969-01-04,Male
 b720c2f0-cc71-4e29-a2b8-28269289a0a4,Piece Eatah,"Eatah, Piece",,Unknown,,,,,
 b72ab8f3-cbfa-409b-9a2e-61c4962e1382,高島祐利奈,"Takashima, Yurina",,Person,Japan,Aichi,1997-05-24,,Female
 b72b9561-abe6-4fe4-8437-55e4a0aa257b,Alan Stepansky,"Stepansky, Alan",cellist,Person,United States,,,,Male
@@ -4322,6 +4381,7 @@ c028309f-2582-4fb6-820a-f51cd0435249,Simon Gardner,"Gardner, Simon",,Person,Unit
 c0345ce5-eb29-4de3-bc26-5cd3c932ac33,André Benjamin,"Benjamin, André",,Person,United States,Atlanta,1975-05-27,,Male
 c0367e31-dc3a-4f5e-9d24-0e3af39a8704,Louis Bell,"Bell, Louis","American producer, engineer, and songwriter",Person,United States,Quincy,1982-05-27,,Male
 c03b5c82-39d8-49c1-8753-902832226cee,Sean Hutchinson,"Hutchinson, Sean",Brooklyn‐based American drummer,Person,Brooklyn,Seattle,,,Male
+c05691c0-9bf5-4853-94a3-17b896d309b6,Raymond Stanfield,"Stanfield, Raymond",,Person,United States,,,,Male
 c05f2ad0-f624-48f1-bb79-5380d0a24126,J. Tyler Johnson,"Johnson, J. Tyler",member of half•alive,Person,,,,,
 c061ab85-3fd2-4796-b85b-c752483909a9,Kenny Lee Lewis,"Lewis, Kenny Lee",Steve Miller Band guitarist,Person,United States,,,,Male
 c06ecd21-42be-4f0e-b903-51cc2d2befc1,Tony Tunstall,"Tunstall, Tony",horn player,Person,United Kingdom,,,,Male
@@ -4417,6 +4477,7 @@ c4de7655-d0de-4dec-a863-9d545c9ae7ba,Greg Bonnick,"Bonnick, Greg",,Person,United
 c4e89192-e962-4af6-ac8e-f85ccd25f385,Ellen Berg Tollbom,"Berg Tollbom, Ellen",,Person,Sweden,,,,Female
 c4f88022-c899-46cd-81b9-6e0c3409b60b,H.O.T.,H.O.T.,South Korean group,Group,South Korea,Seoul,1996,2001,
 c4fe833e-0f24-42ad-ae2b-b9d088c282b4,David Campbell,"Campbell, David","US based Canadian violinist, composer, conductor and arranger",Person,Los Angeles,Toronto,1948-02-07,,Male
+c50309a7-ab85-4085-b2cc-8ff72e649e1a,Leonard Chess,"Chess, Leonard",,Person,United States,Brestskaya voblasts',1917-03-12,1969-10-16,Male
 c51ba7ff-b6cc-4cbc-9204-c7cc2e474c6a,Will Simms,"Simms, Will",,Person,France,,,,Male
 c5203056-45ce-4ab4-98ea-6c08b9858ed8,Ryan Lytle,"Lytle, Ryan",,Person,,,,,Male
 c533c597-5356-4587-b790-463b44861bd8,たかた ましほ,Takata Mashiho,,Person,South Korea,Mie,2001-03-25,,Male
@@ -4463,6 +4524,7 @@ c74f4726-2671-4011-81b6-f70da905c05a,On a Friday,On a Friday,"pre‐Radiohead gr
 c751bfa5-9222-4d0c-893e-a406f56ad74d,NIIVA,NIIVA,,Person,,Bulgaria,,,Female
 c764d25f-de70-4059-985d-44a2441595aa,Clayton Haslop,"Haslop, Clayton",,Person,United States,,,,Male
 c7891ffc-8343-47c0-8006-ee0ad6b23dad,Steve Osborne,"Osborne, Steve",producer,Person,Bath,,1963,,Male
+c78c8428-9438-48ea-803f-128729d41f7f,Daniel Trimboli,"Trimboli, Daniel",,Person,,,,,Male
 c78f0746-ea5d-44c0-92ee-f32745951345,John McVie,"McVie, John",,Person,United Kingdom,Ealing,1945-11-26,,Male
 c79381e4-43f0-484f-b5d5-f6fede690080,Tom Rees-Roberts,"Rees-Roberts, Tom",,Person,United Kingdom,,,,Male
 c7955981-cec4-47e0-84b3-1341df4abb31,Ren Swan,"Swan, Ren",,Person,United Kingdom,,,,Male
@@ -4472,6 +4534,7 @@ c7b7c333-7039-4a05-a48f-a4c00a087849,박종성,"Park, Jong-seong",,Person,South 
 c7c6fc3e-4e50-4c43-b0c4-f18a66a1b3c0,Bob Welch,"Welch, Bob",early member of Fleetwood Mac,Person,United States,Hollywood,1945-08-31,2012-06-07,Male
 c7e3ad43-ed45-4603-86a8-eb908e934898,西澤沙羅,"Nishizawa, Sara",,Person,Japan,,1992-05-14,,Female
 c7e7036d-236a-4b4c-83a8-64bca8b14d7e,Cliff Martinez,"Martinez, Cliff",American musician and score composer,Person,United States,The Bronx,1954-02-05,,Male
+c7e8cdc7-d810-4ade-97c0-d0510b176f05,Tommy Goodman,"Goodman, Tommy","pianist, arranger for Benny Goodman and Duke Ellington",Person,,,,,Male
 c7ea9d6e-63d0-41fc-ad69-e8ffaa69500c,강해린,"Kang, Hae-rin",,Person,South Korea,Gimcheon,2006,,Female
 c7ef5451-e0f3-4b6f-b4e0-cd54ed7ac924,SIYEON,Siyeon,"MINX, DREAMCATCHER",Person,South Korea,Daegu,1995-10-01,,Female
 c7f4ee86-94b6-4b24-a833-4ff72ba08caf,Mike Campbell,"Campbell, Mike",singer-songwriter,Person,United States,New York,,,Male
@@ -4511,6 +4574,7 @@ c9584c27-f240-4f0e-8e82-3470111f24be,Marc Broussard,"Broussard, Marc",,Person,Un
 c95e514d-b182-4609-966a-d87accb461c8,山内瑞葵,"Yamauchi, Mizuki",,Person,Japan,Tokyo,2001-09-20,,Female
 c960bfef-035f-45ec-961c-289888eda9c4,Plato Kostic,"Kostic, Plato",,Person,,,,,Male
 c97309e4-55e1-4a53-a7a0-ca8f6ea7237e,Steven Lee,"Lee, Steven",Korean-American producer and composer,Person,South Korea,,1983-03-14,,Male
+c9753572-d7e3-49b2-8a81-887fb297b909,Allen Hanlon,"Hanlon, Allen",jazz guitarist,Person,United States,,,,Male
 c998d24c-decb-4022-a501-76f72c642411,Fraser T. Smith,"Smith, Fraser T.",,Person,United Kingdom,Marlow,1971-02-08,,Male
 c9a12423-b916-4da7-90ae-b26a8d06b164,米沢瑠美,"Yonezawa, Rumi",,Person,Japan,Saitama,1991-06-06,,Female
 c9b506e3-67ef-44a6-813f-65cc7cf6c42c,JARO,JARO,songwriter,Person,,,,,
@@ -4728,6 +4792,7 @@ d287862d-75ae-4202-a934-045f862a871b,Brian Willett,"Willett, Brian",,Unknown,,,,
 d288a227-30c0-4bed-95c3-8c9614646633,Jacob Kasher,"Kasher, Jacob","American songwriter, producer",Person,United States,Virginia Beach,,,Male
 d2ba54c3-dba7-427c-9798-a89edeb0dba3,Ben Baptie,"Baptie, Ben",,Person,,,,,Male
 d2baf3e1-f19a-41fa-99d9-384af95d91bf,KNY Factory,KNY Factory,,Person,Montréal,,,,Male
+d2c0dde7-a41d-4f93-a22d-58983cc6831c,Henry Singer,"Singer, Henry",Big Band-era trombone player,Person,United States,,,,Male
 d2c62f01-7d38-49db-91b6-524d0cd8a018,Chris Tompkins,"Tompkins, Chris",American songwriter based in Nashville,Person,United States,Muscle Shoals,,,Male
 d2e13d65-dce1-469c-9995-303a0de7fd62,Tucker Bodine,"Bodine, Tucker",,Person,United States,,,,Male
 d2e36e89-01bc-4f39-a1ce-2c42be065d17,백지헌,"Baek, Ji-heon",,Person,,,2003-04-17,,Female
@@ -4789,6 +4854,7 @@ d5be5333-4171-427e-8e12-732087c6b78e,Black Eyed Peas,Black Eyed Peas,US pop/hip 
 d5bf671c-79e3-4be4-bd2f-61871125d6b8,Jo Burt,"Burt, Jo",,Person,United Kingdom,,1953,,Male
 d5c51c36-ac67-4727-91ed-ee9f0df81a2d,Gloria Gaynor,"Gaynor, Gloria",,Person,United States,Newark,1943-09-07,,Female
 d5d48f4a-b67f-4acc-a9f5-699307e51c6c,Joely Koos,"Koos, Joely",cellist,Person,,,,,
+d5dfc719-5592-4b56-a34d-ba9fa67d650e,Eddie Brackett,"Brackett, Eddie",,Person,United States,,,,Male
 d5e08221-5965-46d1-bcb3-0d5934727b2d,Lubinn,Lubinn,TAK,Person,South Korea,South Korea,,,Male
 d5ef8cc4-9e84-4577-9fb4-961d0f324868,Garrett Ray,"Ray, Garrett",,Person,United States,,,,Male
 d5f3cc76-90f9-44e5-a236-6d5962a5bc84,Thomas Warren,"Warren, Thomas",,Person,,,,,
@@ -4796,6 +4862,7 @@ d60d20fa-854f-451c-9f5c-1439350975e5,Caroline Gerd Gustavsson,"Gustavsson, Carol
 d60f16d1-9b3d-483e-a819-dccf8d0be4d3,Ann Morfee,"Morfee, Ann",violinist,Person,United Kingdom,,,,Female
 d614b0ad-fe3a-4927-b413-48cb831a814b,Frou Frou,Frou Frou,,Group,United Kingdom,London,2001-12,2003,
 d62c4555-f723-4b5d-935d-0bd2a16b26f2,김승수,"Kim, Seungsu",Sweetune,Person,South Korea,,1977,,Male
+d6302903-1f62-420a-8d8b-c54941ac754e,Rapsody,Rapsody,"female rapper from North Carolina, USA",Person,United States,Wilson,1983-01-21,,Female
 d639c6d8-889b-4d6f-885b-d5c6274e2fcf,Dave Lemke,"Lemke, Dave",,Person,,,,,Male
 d63f6639-e5d5-4648-8ee9-36f7ef5f60a8,Beau Sorenson,"Sorenson, Beau",,Person,,,,,
 d642aa48-79ef-4837-b8df-72ae8a4ecf52,Southside,Southside,"US rapper, producer",Person,United States,Atlanta,1989-02-02,,Male
@@ -4853,6 +4920,7 @@ d8812ba0-cd6e-4511-8e3b-171072eeb73f,Francis White,"White, Francis",legal name o
 d88ea45e-9bce-42bf-aed1-7836bbc5e57d,Michael Fatkin,"Fatkin, Michael",,Person,Australia,,,,Male
 d890f92b-93a2-4005-8eca-997531b105ea,Tan Tan,Tan Tan,Japanese singer,Person,Japan,,,,Female
 d8a1c36b-e514-45a2-96cb-48c287b197f0,Phil Ehart,"Ehart, Phil",,Person,United States,Coffeyville,1951-02-04,,Male
+d8a3d33e-edf1-4c62-b192-0f5aefdf3331,Fabian André,"André, Fabian",,Person,,La Crosse,1910-01-08,1960-03-30,Male
 d8ca5671-423e-4e03-8435-524ad5e9b432,Nikolay Mohr,"Mohr, Nikolay",,Person,,,,,
 d8df03b6-4550-4b48-9cbf-d20895e3250b,Les Condon,"Condon, Les",,Person,United Kingdom,London,1930-02-23,2007-10-30,Male
 d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e,The Temptations,"Temptations, The",Motown soul vocal group,Group,United States,Detroit,1960,,
@@ -4864,6 +4932,7 @@ d90f0b4f-9bb6-4d04-97d4-da989b4ee638,Jim Gilstrap,"Gilstrap, Jim",,Person,United
 d9145b9a-051d-43d4-a99e-8b793aa77527,Kai'Sa,Kai'Sa,,Character,,,,,Female
 d9152066-a306-477c-b07c-e5df0eb29eeb,Madison Love,"Love, Madison",,Person,,Los Angeles,,,Female
 d9316567-e8c0-4b00-9cc9-0aa3216e0aa7,도시,Dosie,,Person,South Korea,,2000-02-11,,Female
+d9399921-2d82-437e-825e-16daff591a0c,Red Garland,"Garland, Red",,Person,United States,Dallas,1923-05-13,1984-04-23,Male
 d9495820-d563-481f-97ad-583f893e7101,Ji Young Lee,"Lee, Ji Young",,Person,,,,,Female
 d94f79b0-c690-4a60-9a45-a37a11b78051,Jem,Jem,Welsh singer-songwriter,Person,United Kingdom,Penarth,1975-06-18,,Female
 d9559f0f-07dc-4890-82eb-39eebcdb684f,Brian Degraw,"Degraw, Brian","US musician, aka bEEdEEgEE; member of Gang Gang Dance",Person,United States,,,,Male
@@ -4968,6 +5037,7 @@ dde26295-8cd4-474c-8740-3edb801b2776,Maggie Rogers,"Rogers, Maggie",,Person,Unit
 ddf83792-f41b-4329-829c-f13f1aa9774e,Lionel Ross,"Ross, Lionel",cellist,Person,United Kingdom,,,,Male
 ddfd9b2f-186e-4b2c-ad09-01aa5380c225,Robin Thicke,"Thicke, Robin",,Person,United States,Los Angeles,1977-03-10,,Male
 de05553e-3fdb-452b-9ee7-022dd92f9ff4,Ralph Carmichael,"Carmichael, Ralph",,Person,United States,Quincy,1927-05-27,2021-10-18,Male
+de22adae-f8ac-414f-b653-b0162611bd60,KAROL G,KAROL G,Colombian singer,Person,Colombia,Medellín,1991-02-14,,Female
 de30fb7f-4b1a-47c8-a136-db69a1cc7a04,Celine Svanbäck,"Svanbäck, Celine",,Person,,,,,
 de3ebb2e-e6a7-4b1d-a7dc-0dd364eed7c9,後藤萌咲,"Goto, Moe",,Person,Japan,Aichi,2001-05-20,,Female
 de461f00-89b7-46e2-b6ba-550ef383fb8e,BOBBY,BOBBY,South Korean-American rapper,Person,South Korea,Seoul,1995-12-21,,Male
@@ -5322,6 +5392,7 @@ ecffc56a-0aa1-44b0-8205-2dbf353ddbd6,Jon Astley,"Astley, Jon",,Person,United Kin
 ed02d3d7-5cf5-4c78-a35e-cda9e7b91581,Dave Walker,"Walker, Dave",,Person,United Kingdom,Walsall,1945-01-25,,Male
 ed031718-b94c-403d-8a89-438e355db488,Rod Evans,"Evans, Rod",,Person,United Kingdom,Eton,1947-01-19,,Male
 ed0c0815-6485-4f8b-9ba2-daa969183c10,Jason Blynn,"Blynn, Jason",,Person,,,,,Male
+ed29398b-bbf3-42a0-8eff-8631509c271d,JoJo,JoJo,American singer and actress,Person,United States,Brattleboro,1990-12-20,,Female
 ed2c4399-e520-4336-9415-e23c5bef10ea,Miguel Briseño,"Briseño, Miguel",,Person,United States,,,,Male
 ed4adc6d-abfd-4167-bcb1-8909ec15e0e4,Jia Lih,Jia Lih,,Person,Australia,,,,Male
 ed4fc12e-85cd-46c5-b68b-31081063ded7,Randy Staub,"Staub, Randy",,Person,Canada,,,,Male
@@ -5361,6 +5432,7 @@ ee6e8790-7123-40ab-b7e9-03c4fe6aa08f,Michael Andrews,"Andrews, Michael",American
 ee74db56-c264-4c23-9504-29e2d8078f36,keshi,keshi,,Person,United States,Houston,1994-11-04,,Male
 ee813e68-067b-42ec-b948-efd13ca339ec,Niklas Ljungfelt,"Ljungfelt, Niklas",,Person,Sweden,Halmstad,1985,,Male
 ee9dae90-e02e-4ad0-9e18-279a9a0b1c64,혁,Hyuk,VIXX,Person,South Korea,Daejeon,1995-07-05,,Male
+eea8a864-fcda-4602-9569-38ab446decd6,Louis Armstrong,"Armstrong, Louis",,Person,United States,New Orleans,1901-08-04,1971-07-06,Male
 eeb1195b-f213-4ce1-b28c-8565211f8e43,Guns N' Roses,Guns N' Roses,American hard rock band from Los Angeles,Group,United States,Los Angeles,1985-03,,
 eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61,[no artist],[no artist],Special Purpose Artist,Other,,,,,Not applicable
 eed2de88-387a-43d4-b339-20f36cedf44a,Joules Scott-Key,"Scott-Key, Joules",,Person,Canada,,,,Male
@@ -5452,6 +5524,7 @@ f27ec8db-af05-4f36-916e-3d57f91ecf5e,Michael Jackson,"Jackson, Michael",“King 
 f28cabfc-3cf5-4886-b832-36ab708fbb0a,Blu Cantrell,"Cantrell, Blu",,Person,United States,Providence,1976-10-01,,Female
 f2911ba4-9eaf-4ae2-b7a2-0f27b7a955be,HYO,HYO,South Korean singer and DJ,Person,South Korea,Incheon,1989-09-22,,Female
 f2a3470b-4aa3-4a7e-a52f-03add54c8987,Yosef Tamir,"Tamir, Yosef",,Person,,,,,
+f2b0c7fd-388a-4d69-bbd7-0da7c24bd197,Alex Oana,"Oana, Alex",,Person,United States,,,,Male
 f2b343ad-7d4e-4da6-a6a7-731a16530a27,Alex Salibian,"Salibian, Alex",,Person,,,,,
 f2be7907-4f89-487a-a6b8-4b1dd83ebcc4,宁艺卓,"Ning, Yizhuo",,Person,South Korea,Harbin,2002-10-23,,Female
 f2c15d10-f694-4d19-b5f6-e9f46e91ab5e,Tim Roberts,"Roberts, Tim",engineer,Person,United States,,,,Male
@@ -5537,6 +5610,7 @@ f6355997-6c50-4868-ab71-bea1052b3f73,Charles Judge,"Judge, Charles",,Person,Nash
 f63d3e22-8988-4631-9fab-8473a4993ab9,Victoria Parker,"Parker, Victoria",,Person,,,,,Female
 f64d6a58-93d5-4f16-ab24-bb406dff32d1,磯怜奈,"Iso, Reina",,Person,Japan,,1992-08-10,,Female
 f656b7c6-e903-498f-aa4f-f5977198dd15,Michael Roth,"Roth, Michael",violinist,Person,United States,,,,Male
+f678af72-6a36-4fd7-a9ac-02157b236c18,Russ Savakus,"Savakus, Russ",,Person,United States,Reading,1925-05-13,1984-06-25,Male
 f6af669a-56ea-448a-a044-de76181ada33,Machine Gun Kelly,Machine Gun Kelly,US rapper,Person,United States,Houston,1990-04-22,,Male
 f6cb1fc3-29ba-4814-835d-901640498a7f,샛별,Satbyeol,former member of PIXY,Person,South Korea,Goyang,2001-02-27,,Female
 f6dd5a1c-b0ca-401d-98c6-ca6b2887ff0a,Sean Madden,"Madden, Sean",studio/production personnel,Person,,,,,Male
@@ -5564,6 +5638,7 @@ f8061b6b-6863-4aa1-8163-8e5ce9b408be,DAMI,Dami,"MINX, DREAMCATCHER",Person,South
 f82d1846-1321-4ae1-bf11-723fcc1ff39c,Lucy Lucy!,Lucy Lucy!,Belgian group,Group,Belgium,Brussels,2009,2012,
 f83fc06a-3206-4d6f-be05-6dd5ec6a691d,Poptime,Poptime,K-pop producer,Person,South Korea,,,,
 f8507cfa-6bc1-4885-b0bc-8de9032172f8,72,72,lyricist & composer,Unknown,,,,,
+f86342be-eef7-445b-90c9-250bdf3f0b3b,Sam Rivers,"Rivers, Sam","saxophone, flute jazz musician",Person,United States,El Reno,1923-09-25,2011-12-26,Male
 f86dd435-287d-47d3-b202-c7983fa4939d,Bruce Turgon,"Turgon, Bruce",,Person,United States,"Chili, New York",1952-04-25,,Male
 f887110a-ddd9-4a4e-b9ea-e567523ef6e2,Lisa Fischer,"Fischer, Lisa",American vocalist,Person,United States,Fort Greene,1958-12-01,,Female
 f8abfd32-73f9-49e7-9b88-3e47ea27a2cd,James Valentine,"Valentine, James",Maroon 5,Person,United States,Lincoln,1978-10-05,,Male
@@ -5617,6 +5692,7 @@ fae00257-e2a1-46f9-a29d-e68cf8df20fd,Reynaud Jones,"Jones, Reynaud",,Person,,,,,
 fae3cddb-8379-4c96-83d8-5a045a580a0b,YooA,YooA,,Person,South Korea,Seoul,1995-09-17,,Female
 fae68bf1-35ca-463c-90c1-c03f8f2500e6,Hanif Sabzevari,"Sabzevari, Hanif",,Person,,,,,
 faebf0a1-9e07-4710-bb27-d671f68771db,Tom Renaud,"Renaud, Tom",,Person,United States,,,,Male
+faf32a04-18a0-4404-b7cb-4d4535d97421,Joe Wilder,"Wilder, Joe",,Person,United States,Pennsylvania,1922-02-22,2014-05-09,Male
 faf4cefb-036c-4c88-b93a-5b03dd0a0e6b,Demi Lovato,"Lovato, Demi",,Person,United States,Albuquerque,1992-08-20,,Non-binary
 faf614d0-27d7-4179-a9c3-38f1cf40c37d,bEEdEEgEE,bEEdEEgEE,,Person,United States,,,,Male
 fb06f8ae-1bef-4211-92fe-db85183f2546,Nikki Gallespi,"Gallespi, Nikki",,Person,,,,,
@@ -5701,6 +5777,7 @@ fe520436-a856-466e-998d-a2c80cb18249,Mutt,Mutt,unknown Mutt,Unknown,,,,,
 fe649113-7cfe-48c3-89c3-2ef4b3221eea,100回嘔吐,100kaiouto,,Unknown,Japan,,,,
 fe65d422-b5f4-47d2-95eb-b600da94310a,Fiachra Kinder,"Kinder, Fiachra",,Person,,,,,
 fe69d480-37c8-488b-8913-b76ff73db245,Andrew DeRoberts,"DeRoberts, Andrew",,Person,,,,,
+fe7245e7-d734-4ca1-8e26-691883f58201,Miles Davis Quintet,"Davis, Miles, Quintet","US jazz group, active 1955–58 and 1964–68",Group,United States,,1955,1968,
 fe88e731-2246-46fe-88a0-75471856a51a,Ellie Suh,"Suh, Ellie",,Person,South Korea,,,,Female
 fe8dac47-270c-4fb5-bef3-0586c7d8ede3,김준영,"Kim, Jun-young",,Person,South Korea,,,,Male
 fe90b2bc-4640-4d66-99ca-7907f548e982,이지은,"Lee, Ji-eun",lyricist,Person,South Korea,,,,Female

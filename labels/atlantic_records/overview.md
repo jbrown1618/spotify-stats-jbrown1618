@@ -148,7 +148,7 @@ Appears as:
 | 7 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 4 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 2 | 2 | washington indie |
-| 2 | 2 | vocal jazz |
+| 2 | 2 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 2 | trap queen |
 
@@ -359,7 +359,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion) | WAP (feat. Megan Thee Stallion) | Cardi B, Megan Thee Stallion | [Atlantic/KSR](.) | 💚 | [🔗](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | CHARLIE | Charlie Puth | [Atlantic Records](.) | 💚 | [🔗](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | Jar of Hearts | lovestrong. | Christina Perri | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | jar of hearts | lovestrong. | Christina Perri | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | One Last Time | Hamilton (Original Broadway Cast Recording) | Christopher Jackson, Lin-Manuel Miranda, Original Broadway Cast of Hamilton | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/0Iys022UwQ8xBfxE1g4nWZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | Rather Be (feat. Jess Glynne) | New Eyes | [Clean Bandit](../../artists/clean_bandit/overview.md), Jess Glynne | [Big Beat Records/Atlantic](.) | 💚 | [🔗](https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | The Election of 1800 | Hamilton (Original Broadway Cast Recording) | Daveed Diggs, Okieriete Onaodowan, Leslie Odom Jr., Lin-Manuel Miranda, Original Broadway Cast of Hamilton | [Atlantic Records](.) | | [🔗](https://open.spotify.com/track/0LpHC9mhPAQC98IjXZIrif) |

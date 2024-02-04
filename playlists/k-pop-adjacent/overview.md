@@ -34,7 +34,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | | 1 | 1 | 김아중 | [🔗](https://open.spotify.com/artist/5qMkh0MtptmH5XKinOnFom) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | 1 | 1 | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | 1 | 1 | Hong Jin Young | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 1 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18b5e84af500dc8efbd5f889" alt="" width="50" /> | 1 | 1 | Dynamicduo | [🔗](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) |
@@ -324,7 +324,7 @@
 | | Brendon Williams | 1 | Lyricist, Songwriter |
 | | Ian Scott | 1 | Songwriter |
 | | Daniel James | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5af3b38f053486ab0784dee" alt="" width="50" /> | Miley Cyrus | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | Miley Cyrus | 1 | Songwriter |
 | | El Guincho | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | Leigh-Anne | 1 | Songwriter |
 | | Louis Bell | 1 | Producer, Songwriter |

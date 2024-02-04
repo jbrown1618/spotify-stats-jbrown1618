@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="K-R&amp;B" width="100" />
 
-[144 tracks (108 liked) 🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd)
+[145 tracks (109 liked) 🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd)
 
 [See Track Features](audio_features.md)
 
@@ -21,8 +21,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 5 | 5 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 5 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 4 | 4 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 5 | 3 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 4 | 3 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
 
 
 <details>
@@ -30,13 +30,13 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 4 | 3 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15422eafa9652b98103d4a52" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1722d31b67b9f5a48e94e465" alt="" width="50" /> | 3 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75c4532dfb0c21c7ad4a5c5f" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4f59dbe2f77b0908dbb46583" alt="" width="50" /> | 3 | 3 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b4f4e41ade4e4d1216ef20a" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5607fb8bdd9008b222ce94a" alt="" width="50" /> | 4 | 2 | Lee Mujin | [🔗](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 4 | 2 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb258c6319f7a39c6e0a0f39de" alt="" width="50" /> | 4 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 3 | 2 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 3 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
@@ -191,6 +191,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | 1 | 1 | FLIGHT | 2023-10-17 | [🔗](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297" alt="" width="50" /> | 1 | 1 | EVERYTHING YOU WANTED | 2016-10-20 | [🔗](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | 1 | 1 | Doom at Your Service (Original Television Soundtrack) Pt. 3 | 2021-05-31 | [🔗](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="" width="50" /> | 1 | 1 | DIE 4 YOU | 2023-11-18 | [🔗](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a27cc2d12832101090ab0363" alt="" width="50" /> | 1 | 1 | Cherry On Top | 2021-08-10 | [🔗](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="" width="50" /> | 1 | 1 | Cat | 2017-12-28 | [🔗](https://open.spotify.com/album/3b8iQhtbLD0Vn4EqQzMC3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="" width="50" /> | 1 | 1 | Can't Stop This Party | 2022-03-22 | [🔗](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) |
@@ -214,7 +215,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="" width="50" /> | 1 | 0 | Natural | 2021-12-02 | [🔗](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="" width="50" /> | 1 | 0 | Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10 | 2016-10-04 | [🔗](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | 1 | 0 | Miracle - SM STATION | 2023-01-26 | [🔗](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="" width="50" /> | 1 | 0 | Made In Korea? | 2002-08-13 | [🔗](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) |
 
 </details>
 
@@ -229,8 +229,8 @@
 | 28 | 22 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 21 | 19 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 14 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 6 | 4 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 4 | 4 | [88rising Music](../../labels/88rising_music/overview.md) |
-| 5 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 3 | Feel Ghood Music |
 | 3 | 2 | Million Market |
 | 2 | 2 | [avex trax](../../labels/avex_trax/overview.md) |
@@ -299,8 +299,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 97 | 80 | [k-pop](../../genres/k-pop/overview.md) |
-| 39 | 30 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 98 | 81 | [k-pop](../../genres/k-pop/overview.md) |
+| 40 | 31 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 23 | 13 | [korean pop](../../genres/korean_pop/overview.md) |
 | 10 | 6 | [k-rap](../../genres/k-rap/overview.md) |
 | 6 | 5 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
@@ -366,7 +366,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2023 | 12 |
+| 2023 | 13 |
 | [2022](2022.md) | 25 |
 | [2021](2021.md) | 29 |
 | 2020 | 16 |
@@ -389,12 +389,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | Last Winter (2023-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273f4d3fb6a929cb6526fb58cf5" alt="Invitation" width="50" /> | Invitation (1998-07-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273518825572b402484dff66429" alt="wonderego" width="50" /> | wonderego (2023-11-14) | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | Made In Korea? (2002-08-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b27347683d1b11d35a22048d243f" alt="Busker Busker 1st" width="50" /> | Busker Busker 1st (2012-03-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Street Woman Fighter2 (SWF2) Class Mission (2023-09-05) | <img src="https://i.scdn.co/image/ab67616d0000b2739d307da738011aa08940675b" alt="Supersonic" width="50" /> | Supersonic (2012-07-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b273feb430a900d634d1cbc987ad" alt="Invitation" width="50" /> | Invitation (2012-10-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | Love Lee (2023-08-21) | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="1,2,3,4" width="50" /> | 1,2,3,4 (2012-10-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b82fbf68179592aa8101ce9" alt="Black Diaryy" width="50" /> | Black Diaryy (2023-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | First Love (2013-03-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="Some" width="50" /> | Some (2014-02-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle - SM STATION (2023-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | PLAY (2014-04-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> | SHOW ME THE MONEY 11 Episode 3 (2022-12-17) | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="MOMMAE" width="50" /> | MOMMAE (2015-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU (2023-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | Made In Korea? (2002-08-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273518825572b402484dff66429" alt="wonderego" width="50" /> | wonderego (2023-11-14) | <img src="https://i.scdn.co/image/ab67616d0000b27347683d1b11d35a22048d243f" alt="Busker Busker 1st" width="50" /> | Busker Busker 1st (2012-03-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2739d307da738011aa08940675b" alt="Supersonic" width="50" /> | Supersonic (2012-07-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Street Woman Fighter2 (SWF2) Class Mission (2023-09-05) | <img src="https://i.scdn.co/image/ab67616d0000b273feb430a900d634d1cbc987ad" alt="Invitation" width="50" /> | Invitation (2012-10-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="Hongdae R&amp;B" width="50" /> | Hongdae R&B (2023-08-31) | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="1,2,3,4" width="50" /> | 1,2,3,4 (2012-10-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | Love Lee (2023-08-21) | <img src="https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d" alt="First Love" width="50" /> | First Love (2013-03-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b82fbf68179592aa8101ce9" alt="Black Diaryy" width="50" /> | Black Diaryy (2023-04-27) | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="Some" width="50" /> | Some (2014-02-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | PLAY (2014-04-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle - SM STATION (2023-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b27362ddbe5a3b25ecdd75e1fc24" alt="MOMMAE" width="50" /> | MOMMAE (2015-05-22) |

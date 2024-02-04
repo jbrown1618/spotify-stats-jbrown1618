@@ -53,15 +53,14 @@ Appears as:
 | 5 | 2 | candy pop |
 | 2 | 2 | pov: indie |
 | 2 | 1 | emo |
-| 1 | 1 | japanese emo |
+| 1 | 1 | j-rock |
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | j-rock |
 | 1 | 1 | j-pop |
 | 1 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 1 | 0 | neon pop punk |
@@ -69,7 +68,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 14 genres](../../images/labels/fueled_by_ramen/genres.png)
+![Bar chart of top 13 genres](../../images/labels/fueled_by_ramen/genres.png)
 
 ## Top Producers
 

@@ -74,7 +74,7 @@ Appears as:
 |---:|---:|:---|
 | 115 | 0 | [classical era](../../genres/classical_era/overview.md) |
 | 115 | 0 | [classical](../../genres/classical/overview.md) |
-| 1 | 0 | vocal jazz |
+| 1 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
 | 1 | 0 | [lounge](../../genres/lounge/overview.md) |

@@ -17,27 +17,27 @@ TAEYEON:
 
 ## Artist Rank
 TAEYEON is currently:
-- The #4 artist of the last month
-- The #5 artist of the last 6 months
+- The #5 artist of the last month
+- The #6 artist of the last 6 months
 - The #9 artist of all time
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
 - To. X is:
-    - the #31 track of the last 6 months
+    - the #32 track of the last 6 months
 - I Got Love is:
     - the #38 track of the last 6 months
 - Melt Away is:
-    - the #12 track of the last month
+    - the #11 track of the last month
 - Rain is:
-    - the #18 track of the last month
+    - the #19 track of the last month
 - Priority is:
     - the #30 track of the last month
 - Burn It Down is:
-    - the #36 track of the last month
+    - the #40 track of the last month
 - Nightmare is:
-    - the #50 track of the last month
+    - the #47 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -48,7 +48,7 @@ TAEYEON is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 34 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 16 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 11 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27354ecee13bfdd05e89e57d976ab67616d0000b273864f04cb6debbb9057b04b30ab67616d0000b2738773ae7641a2ee7d8b9e532eab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 5 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 5 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 4 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734897a7925914a3a10ce68c31ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273bf5f4138ebc9ba3fd6f0cde9ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 3 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
