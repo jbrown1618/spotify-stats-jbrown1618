@@ -1,13 +1,13 @@
 # Parlophone UK
 
-11 songs
+12 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Parlophone UK (11 tracks)
+- Parlophone UK (12 tracks)
 
 ## Top Artists
 
@@ -20,10 +20,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
 
-![Bar chart of top 9 artists](../../images/labels/parlophone_uk/artists.png)
+![Bar chart of top 10 artists](../../images/labels/parlophone_uk/artists.png)
 
 ## Top Albums
 
@@ -38,16 +39,27 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | 1 | 0 | David Bowie (aka Space Oddity) [2015 Remaster] | 1969-11-04 | [🔗](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) |
+
+
+<details>
+<summary>See all 11 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="" width="50" /> | 1 | 0 | Christmas Lights | 2010-12-01 | [🔗](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) |
 
-![Bar chart of top 10 albums](../../images/labels/parlophone_uk/albums.png)
+</details>
+
+
+![Bar chart of top 11 albums](../../images/labels/parlophone_uk/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 8 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 7 | 2 | [pop](../../genres/pop/overview.md) |
-| 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 1 | synthpop |
 | 1 | 1 | proto-techno |
 | 1 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
@@ -59,18 +71,21 @@ Appears as:
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 0 | [rock](../../genres/rock/overview.md) |
+| 2 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
+| 1 | 0 | glam rock |
+| 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
+| 1 | 0 | art rock |
 | 1 | 0 | alternative hip hop |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/parlophone_uk/genres.png)
+![Bar chart of top 16 genres](../../images/labels/parlophone_uk/genres.png)
 
 ## Top Producers
 
@@ -119,8 +134,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Princess of China | Mylo Xyloto | [Coldplay](../../artists/coldplay/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | BrokEn | Everyday Life | [Coldplay](../../artists/coldplay/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/1cXXhzPnbrXjNQYbLdUJdy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](../../artists/coldplay/overview.md), We Are KING, [Jacob Collier](../../artists/jacob_collier/overview.md) | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | Space Oddity - 2015 Remaster | David Bowie (aka Space Oddity) [2015 Remaster] | David Bowie | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | Feel Good Inc. | Demon Days | Gorillaz | [Parlophone UK](.) | | [🔗](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | [Parlophone UK](.) | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
 
 
 <details>
@@ -128,6 +143,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | [Parlophone UK](.) | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](../../artists/aespa/overview.md) | [Parlophone UK](.) | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
 
 </details>

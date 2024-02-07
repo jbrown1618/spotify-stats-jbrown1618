@@ -21,7 +21,7 @@ Billlie:
 
 ## Artist Rank
 Billlie is currently:
-- The #12 artist of the last month
+- The #11 artist of the last month
 - The #21 artist of the last 6 months
 - The #20 artist of all time
 

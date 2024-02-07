@@ -1,19 +1,19 @@
 # Decca (UMO)
 
-39 songs
+43 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Decca (UMO) (39 tracks)
+- Decca (UMO) (43 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 12 | 6 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 16 | 6 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4213569798d691ccce6dfec9" alt="" width="50" /> | 1 | 1 | Sheppard | [🔗](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6f550d246a5fdb238d5127e" alt="" width="50" /> | 1 | 1 | Rapsody | [🔗](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) |
@@ -26,19 +26,22 @@ Appears as:
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 26 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e3b99bd6e931e16752305bd" alt="" width="50" /> | 8 | 0 | Eric Whitacre | [🔗](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL) |
 | <img src="https://i.scdn.co/image/0b5020426f1e073f8c90d7e8e7375bffcbd89c07" alt="" width="50" /> | 8 | 0 | Eric Whitacre Singers | [🔗](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6af5c534d932dd7a5b39816b" alt="" width="50" /> | 4 | 0 | Metropole Orkest | [🔗](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebab810a44a4d387152d610d93" alt="" width="50" /> | 4 | 0 | Jules Buckley | [🔗](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320949e635e974e73edeb7e32" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6af5c534d932dd7a5b39816b" alt="" width="50" /> | 2 | 0 | Metropole Orkest | [🔗](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebab810a44a4d387152d610d93" alt="" width="50" /> | 2 | 0 | Jules Buckley | [🔗](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9dde4a54073dbd58fb91c7d" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1cb408cda4b0d974e738510b" alt="" width="50" /> | 1 | 0 | Hamid El Kasri | [🔗](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e0676651235a324bd58ada3" alt="" width="50" /> | 1 | 0 | VOCES8 | [🔗](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) |
+| <img src="https://i.scdn.co/image/651d7f2cd1734e5ed9d3becf5fba61b406dd3e90" alt="" width="50" /> | 1 | 0 | Take 6 | [🔗](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c1b4f6daa33cab6310c0035" alt="" width="50" /> | 1 | 0 | Lianne La Havas | [🔗](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716f61b47a89c749e686ce3a" alt="" width="50" /> | 1 | 0 | dodie | [🔗](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b5b4d828c1addc93dcc8966" alt="" width="50" /> | 1 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb10e2b618880f429a3967185" alt="" width="50" /> | 1 | 0 | Lizzy McAlpine | [🔗](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfee7db9b30ece7ac8b55f6d1" alt="" width="50" /> | 1 | 0 | Mahalia | [🔗](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) |
@@ -47,7 +50,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 23 artists](../../images/labels/decca_(umo)/artists.png)
+![Bar chart of top 26 artists](../../images/labels/decca_(umo)/artists.png)
 
 ## Top Albums
 
@@ -56,8 +59,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | 18 | 0 | Vivaldi: Four Seasons | 2008-01-01 | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | 8 | 0 | Light & Gold | 2010-01-01 | [🔗](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 5 | 3 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | 3 | 0 | Djesse Vol. 1 | 2018-12-07 | [🔗](https://open.spotify.com/album/47bMDS4CMLbqcIVjEMWUjK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | 2 | 2 | Djesse Vol. 2 | 2019-07-19 | [🔗](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | 5 | 0 | Djesse Vol. 1 | 2018-12-07 | [🔗](https://open.spotify.com/album/47bMDS4CMLbqcIVjEMWUjK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | 4 | 2 | Djesse Vol. 2 | 2019-07-19 | [🔗](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="" width="50" /> | 1 | 1 | WELLLL | 2023-07-14 | [🔗](https://open.spotify.com/album/6RFuKQSGuvj6f0l9A7wnbm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | 1 | 1 | Bombs Away | 2015-03-10 | [🔗](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734dcc2837e0aa90e8c8dbba3f" alt="" width="50" /> | 1 | 0 | Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) | 2022-06-10 | [🔗](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) |
@@ -68,7 +71,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 12 | 6 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
+| 16 | 6 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 1 | folk-pop |
 | 1 | 1 | australian pop |
 | 1 | 1 | australian indie |
@@ -145,9 +148,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Three Songs Of Faith: I Thank You God For Most This Amazing Day | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/6ryPjtGVmAk6v2rKNBKBc6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Three Songs Of Faith: I Will Wade Out | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/3bMGaK0AfpU3J321Mlm553) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Water Night | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/5w0L0SdyLv7BK8hXctiHhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | All Night Long (feat. Take 6) | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley, Take 6 | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Everlasting Motion (feat. Hamid El Kasri) | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley, Hamid El Kasri | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/5u8o2GmxD3i5wHYnth4Ux9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Home Is | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), VOCES8 | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/3nur4bNfmRCoLFxk9ubHHK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | With The Love In My Heart | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/0ZVPABdzJEa0nG85uAlBjB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Feel (feat. Lianne La Havas) | Djesse Vol. 2 | [Jacob Collier](../../artists/jacob_collier/overview.md), Lianne La Havas | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/7MGNHuYwmm9UjQgdVciO1v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Here Comes The Sun (feat. dodie) | Djesse Vol. 2 | [Jacob Collier](../../artists/jacob_collier/overview.md), dodie | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/0fu5r69xQg8OQCGsK2S5Il) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Make Me Cry | Djesse Vol. 2 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [Decca (UMO)](.) | 💚 | [🔗](https://open.spotify.com/track/4Y6VEDkRSpbn8Wt8x18RHh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [Decca (UMO)](.) | 💚 | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | All I Need (with Mahalia & Ty Dolla $ign) | Djesse Vol. 3 | [Jacob Collier](../../artists/jacob_collier/overview.md), Mahalia, Ty Dolla $ign | [Decca (UMO)](.) | | [🔗](https://open.spotify.com/track/164VgxTozx99XCinCB9ITR) |

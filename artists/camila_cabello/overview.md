@@ -17,6 +17,7 @@ Camila Cabello:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 8 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27334de228d223a20a8a5d1f465ab67616d0000b2736b75d57d2d070c0c4afb3f9aab67616d0000b273743022e9c8fb580e3dabc397ab67616d0000b273f3207aaf4dc5cad05fd14583" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 
 ## Top Albums
@@ -27,6 +28,7 @@ Camila Cabello:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | 1 | 1 | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563" alt="" width="50" /> | 1 | 0 | Shawn Mendes (Deluxe) | 2019-06-19 | [🔗](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) |
 
 ## Top Record Labels
 
@@ -36,6 +38,7 @@ Camila Cabello:
 | 7 | 6 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | Bad Boy |
+| 1 | 0 | [Island Records](../../labels/island_records/overview.md) |
 
 ## Genres
 
@@ -94,7 +97,7 @@ Camila Cabello:
 | | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
 | | Ant Clemons | 1 | Songwriter |
 | | Matt Beckley | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
 | | Ryan Tedder | 1 | Songwriter |
 | | Jacob Olofsson | 1 | Songwriter |
 | | Robbie Soukiasyan | 1 | Producer |
@@ -130,4 +133,5 @@ Camila Cabello:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](overview.md), DaBaby | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | Machine Gun Kelly, [Camila Cabello](overview.md) | [Bad Boy / Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563" alt="" width="50" /> | Señorita | Shawn Mendes (Deluxe) | Shawn Mendes, [Camila Cabello](overview.md) | [Island Records](../../labels/island_records) | | [🔗](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |

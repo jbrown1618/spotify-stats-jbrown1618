@@ -14,11 +14,11 @@ aespa:
 - has member GISELLE
 - has member KARINA
 - has member 宁艺卓 (Ning, Yizhuo)
-- has member [WINTER](../winter/overview.md)
+- has member WINTER
 
 ## Artist Rank
 aespa is currently:
-- The #2 artist of the last month
+- The #4 artist of the last month
 - The #2 artist of the last 6 months
 - The #6 artist of all time
 
@@ -26,38 +26,39 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #22 track of the last 6 months
+    - the #31 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
     - the #5 track of all time
-- Black Mamba is:
-    - the #25 track of all time
 - Illusion is:
-    - the #18 track of the last 6 months
-    - the #29 track of all time
+    - the #14 track of the last 6 months
+    - the #24 track of all time
+- Black Mamba is:
+    - the #26 track of all time
 - Drama is:
-    - the #9 track of the last month
+    - the #23 track of the last month
     - the #1 track of the last 6 months
 - Better Things is:
-    - the #3 track of the last month
     - the #2 track of the last 6 months
 - Trick or Trick is:
     - the #3 track of the last 6 months
 - Hot Air Balloon is:
-    - the #4 track of the last month
-    - the #7 track of the last 6 months
-- Welcome To MY World (feat. nævis) is:
-    - the #10 track of the last 6 months
+    - the #6 track of the last month
+    - the #8 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #15 track of the last 6 months
+    - the #11 track of the last 6 months
+- Welcome To MY World (feat. nævis) is:
+    - the #16 track of the last 6 months
 - Don't Blink is:
-    - the #27 track of the last 6 months
+    - the #24 track of the last 6 months
 - Hold On Tight is:
-    - the #31 track of the last 6 months
+    - the #28 track of the last 6 months
 - YOLO is:
     - the #35 track of the last 6 months
 - Beautiful Christmas is:
-    - the #49 track of the last 6 months
+    - the #50 track of the last 6 months
+- Regret of the Times - 2024 aespa Remake Version is:
+    - the #31 track of the last month
 
 ### Top tracks of all time over time
 
@@ -136,7 +137,7 @@ aespa is currently:
 
 ### Member Credits
 
-| | [WINTER](../winter/overview.md) |
+| | WINTER |
 |:---|---:|
 | Vocal | 1 |
 ## Top Producers

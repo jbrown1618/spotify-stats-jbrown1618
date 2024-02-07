@@ -15,13 +15,14 @@ HWASA:
 
 ## Artist Rank
 HWASA is currently:
-- The #11 artist of the last month
-- The #37 artist of the last 6 months
+- The #26 artist of the last month
+- The #38 artist of the last 6 months
 
 ![Rank of HWASA over time](../../images/artists/hwasa/rank_time_series.png)
 ## Top Tracks
 
 - Maria is:
+    - the #48 track of the last month
     - the #4 track of all time
 
 ### Top tracks of all time over time

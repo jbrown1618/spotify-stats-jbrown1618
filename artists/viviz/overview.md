@@ -16,10 +16,8 @@ VIVIZ:
 
 ## Top Tracks
 
-- MANIAC is:
-    - the #27 track of the last month
 - Untie is:
-    - the #46 track of the last month
+    - the #34 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

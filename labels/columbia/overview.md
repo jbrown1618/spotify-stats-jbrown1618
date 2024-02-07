@@ -1,14 +1,14 @@
 # Columbia
 
-101 songs
+103 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia (63 tracks)
-- Columbia/Legacy (14 tracks)
+- Columbia (64 tracks)
+- Columbia/Legacy (15 tracks)
 - Parkwood Entertainment/Columbia (8 tracks)
 - Music World Music/Columbia (5 tracks)
 - G.O.O.D. Music/Columbia (2 tracks)
@@ -24,7 +24,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 23 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 24 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 15 | 8 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | 4 | 3 | Harry Styles | [🔗](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) |
@@ -63,6 +63,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa1dd223e160c4aa7158f86f" alt="" width="50" /> | 1 | 1 | CHROMANCE | [🔗](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 1 | 1 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | 3 | 0 | The Dave Brubeck Quartet | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8238a10406dfbd483d13f908" alt="" width="50" /> | 2 | 0 | Thelonious Monk | [🔗](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 2 | 0 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
@@ -76,7 +77,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b6c50f5fdfc89384b19cc68" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d6fb9c864dfb2d74865ad6" alt="" width="50" /> | 1 | 0 | Philly Joe Jones | [🔗](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8238a10406dfbd483d13f908" alt="" width="50" /> | 1 | 0 | Thelonious Monk | [🔗](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -113,7 +113,7 @@ Appears as:
 
 
 <details>
-<summary>See all 72 albums</summary>
+<summary>See all 74 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -151,6 +151,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | 1 | 1 | Blowin' Your Mind! | 1967-09 | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | 1 | 1 | Back In Black | 1980-07-25 | [🔗](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | 1 | 1 | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="" width="50" /> | 1 | 0 | Turn the Lights Back On | 2024-02-01 | [🔗](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | 1 | 0 | Turn Down for What | 2013-12-18 | [🔗](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | 1 | 0 | Toys In The Attic | 1975-04-08 | [🔗](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
@@ -160,6 +161,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | 1 | 0 | The Classic Christmas Album | 1945 | [🔗](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="" width="50" /> | 1 | 0 | Straight, No Chaser | 1967 | [🔗](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | 1 | 0 | Savage Love (Laxed - Siren Beat) [BTS Remix] | 2020-10-02 | [🔗](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | 1 | 0 | Rudolph The Red Nosed Reindeer And Other Christmas Classics | 1947 | [🔗](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | 1 | 0 | Preach | 2019-02-15 | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
@@ -189,15 +191,15 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 38 | 27 | [rock](../../genres/rock/overview.md) |
-| 34 | 24 | [classic rock](../../genres/classic_rock/overview.md) |
-| 32 | 23 | [soft rock](../../genres/soft_rock/overview.md) |
-| 32 | 23 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 39 | 27 | [rock](../../genres/rock/overview.md) |
+| 35 | 24 | [classic rock](../../genres/classic_rock/overview.md) |
+| 33 | 23 | [soft rock](../../genres/soft_rock/overview.md) |
+| 33 | 23 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 34 | 19 | [pop](../../genres/pop/overview.md) |
-| 28 | 18 | [album rock](../../genres/album_rock/overview.md) |
-| 27 | 18 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 24 | 17 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
-| 23 | 16 | [piano rock](../../genres/piano_rock/overview.md) |
+| 29 | 18 | [album rock](../../genres/album_rock/overview.md) |
+| 28 | 18 | [heartland rock](../../genres/heartland_rock/overview.md) |
+| 25 | 17 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
+| 24 | 16 | [piano rock](../../genres/piano_rock/overview.md) |
 | 16 | 8 | [r&b](../../genres/r_b/overview.md) |
 
 
@@ -243,19 +245,20 @@ Appears as:
 | 1 | 1 | azontobeats |
 | 1 | 1 | australian rock |
 | 1 | 1 | afrobeats |
-| 7 | 0 | jazz |
-| 4 | 0 | bebop |
+| 8 | 0 | jazz |
+| 5 | 0 | bebop |
+| 4 | 0 | jazz piano |
+| 4 | 0 | contemporary post-bop |
 | 4 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 0 | jazz quartet |
-| 3 | 0 | jazz piano |
 | 3 | 0 | jazz fusion |
 | 3 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
-| 3 | 0 | contemporary post-bop |
 | 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 0 | [soul](../../genres/soul/overview.md) |
 | 2 | 0 | pop dance |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | jazz trumpet |
+| 2 | 0 | jazz trio |
 | 2 | 0 | jazz funk |
 | 2 | 0 | instrumental funk |
 | 2 | 0 | edm |
@@ -269,7 +272,6 @@ Appears as:
 | 1 | 0 | outlaw country |
 | 1 | 0 | nz pop |
 | 1 | 0 | new orleans jazz |
-| 1 | 0 | jazz trio |
 | 1 | 0 | house |
 | 1 | 0 | harlem renaissance |
 | 1 | 0 | hard bop |
@@ -458,6 +460,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | Lullabye (Goodnight, My Angel) | River Of Dreams | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | The River of Dreams | River Of Dreams | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="" width="50" /> | Light As the Breeze | Greatest Hits Vol. III | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/1irDnW4t5Ph52hR2xuNtmF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="" width="50" /> | Turn the Lights Back On | Turn the Lights Back On | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e374bccc9346fc196d0a6886" alt="" width="50" /> | Caroline | Give Up The Ghost | Brandi Carlile | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4DVgaZDTvz72q3jAepAAbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | That Wasn't Me | Bear Creek | Brandi Carlile | [Columbia](.) | | [🔗](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | JA ARA E | The Lion King: The Gift | Burna Boy | [Parkwood Entertainment/Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) |
@@ -513,6 +516,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Take Five | Time Out | The Dave Brubeck Quartet | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | Unsquare Dance | Time Further Out | The Dave Brubeck Quartet | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/2VUo8O3ymKRYNgj97ZG2kM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="50" /> | Sweater Weather | I Love You. | The Neighbourhood | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | I'm Confessin' (That I Love You) | Solo Monk (Expanded Edition) | Thelonious Monk | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="" width="50" /> | Straight, No Chaser | Straight, No Chaser | Thelonious Monk | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Brown Eyed Girl | Blowin' Your Mind! | Van Morrison | [Columbia](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) |
 

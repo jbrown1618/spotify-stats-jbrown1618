@@ -1,13 +1,13 @@
 # Legacy
 
-24 songs
+25 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia/Legacy (14 tracks)
+- Columbia/Legacy (15 tracks)
 - Epic/Legacy (4 tracks)
 - Ode/Epic/Legacy (2 tracks)
 - J Records/Legacy (1 tracks)
@@ -24,11 +24,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 2 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 1 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | 3 | 0 | The Dave Brubeck Quartet | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8238a10406dfbd483d13f908" alt="" width="50" /> | 2 | 0 | Thelonious Monk | [🔗](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 2 | 0 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 1 | 0 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
-| <img src="https://i.scdn.co/image/c9ac5f2db563d4c6635882e09ab6373b871a7c7a" alt="" width="50" /> | 1 | 0 | Cannonball Adderley | [🔗](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) |
 
 
 <details>
@@ -36,9 +36,9 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/c9ac5f2db563d4c6635882e09ab6373b871a7c7a" alt="" width="50" /> | 1 | 0 | Cannonball Adderley | [🔗](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) |
 | <img src="https://i.scdn.co/image/66a7fe2b2fd9388cf860f88e8636910f161be6cd" alt="" width="50" /> | 1 | 0 | Gene Autry | [🔗](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d6fb9c864dfb2d74865ad6" alt="" width="50" /> | 1 | 0 | Philly Joe Jones | [🔗](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8238a10406dfbd483d13f908" alt="" width="50" /> | 1 | 0 | Thelonious Monk | [🔗](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/d2eb2b8d27ed067ff0a649c74d280a04446d7211" alt="" width="50" /> | 1 | 0 | Red Garland | [🔗](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) |
@@ -72,11 +72,12 @@ Appears as:
 
 
 <details>
-<summary>See all 20 albums</summary>
+<summary>See all 21 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="" width="50" /> | 1 | 0 | Straight, No Chaser | 1967 | [🔗](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | 1 | 0 | Rudolph The Red Nosed Reindeer And Other Christmas Classics | 1947 | [🔗](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | 1 | 0 | Rocky IV | 1985 | [🔗](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | 1 | 0 | Milestones | 1958-04 | [🔗](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) |
@@ -90,7 +91,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 20 albums](../../images/labels/legacy/albums.png)
+![Bar chart of top 21 albums](../../images/labels/legacy/albums.png)
 
 ## Genres
 
@@ -116,16 +117,17 @@ Appears as:
 | 3 | 1 | folk |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 1 | progressive rock |
-| 7 | 0 | jazz |
-| 4 | 0 | bebop |
+| 8 | 0 | jazz |
+| 5 | 0 | bebop |
+| 4 | 0 | jazz piano |
+| 4 | 0 | contemporary post-bop |
 | 4 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 0 | jazz quartet |
-| 3 | 0 | jazz piano |
 | 3 | 0 | jazz fusion |
-| 3 | 0 | contemporary post-bop |
 | 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | jazz trumpet |
+| 2 | 0 | jazz trio |
 | 2 | 0 | jazz funk |
 | 2 | 0 | instrumental funk |
 | 2 | 0 | easy listening |
@@ -140,7 +142,6 @@ Appears as:
 | 1 | 0 | pop rap |
 | 1 | 0 | outlaw country |
 | 1 | 0 | new orleans jazz |
-| 1 | 0 | jazz trio |
 | 1 | 0 | hip hop |
 | 1 | 0 | harlem renaissance |
 | 1 | 0 | hardcore hip hop |
@@ -225,6 +226,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Blue Rondo à la Turk | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Take Five | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | Unsquare Dance | Time Further Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/2VUo8O3ymKRYNgj97ZG2kM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | I'm Confessin' (That I Love You) | Solo Monk (Expanded Edition) | Thelonious Monk | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="" width="50" /> | Straight, No Chaser | Straight, No Chaser | Thelonious Monk | [Columbia](../columbia), [Legacy](.) | | [🔗](https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | Brown Eyed Girl | Blowin' Your Mind! | Van Morrison | [Columbia](../columbia), [Legacy](.) | 💚 | [🔗](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) |
 

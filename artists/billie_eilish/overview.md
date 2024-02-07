@@ -10,14 +10,14 @@
 
 ## Artist Rank
 Billie Eilish is currently:
-- The #35 artist of the last 6 months
+- The #36 artist of the last 6 months
 - The #46 artist of all time
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
 ## Top Tracks
 
 - No Time To Die is:
-    - the #6 track of the last month
+    - the #2 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -25,6 +25,7 @@ Billie Eilish is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 13 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27334de228d223a20a8a5d1f465ab67616d0000b2736b75d57d2d070c0c4afb3f9aab67616d0000b273743022e9c8fb580e3dabc397ab67616d0000b273f3207aaf4dc5cad05fd14583" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 
 ## Top Albums
 
@@ -36,14 +37,15 @@ Billie Eilish is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | 1 | 1 | lovely (with Khalid) | 2018-04-19 | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | 1 | 1 | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | 1 | 1 | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | 1 | 0 | What Was I Made For? [From The Motion Picture "Barbie"] | 2023-07-13 | [🔗](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | 1 | 0 | Guitar Songs | 2022-07-21 | [🔗](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 14 | 12 | [Darkroom](../../labels/darkroom/overview.md) |
-| 11 | 9 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 15 | 12 | [Darkroom](../../labels/darkroom/overview.md) |
+| 12 | 9 | [Interscope Records](../../labels/interscope_records/overview.md) |
 
 ## Genres
 
@@ -115,6 +117,7 @@ Billie Eilish is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | Happier Than Ever | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Therefore I Am | Happier Than Ever | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] | What Was I Made For? [From The Motion Picture "Barbie"] | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | | [🔗](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) |
 
 </details>
 

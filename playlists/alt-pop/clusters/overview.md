@@ -20,11 +20,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Heard It In A Past Life | Maggie Rogers | [Capitol Records](../../../../labels/capitol_records) | 💚 | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 ## Cluster #2
 
-52 tracks
+51 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="" width="50" /> | Chasing Tomorrow | Chasing Tomorrow | CARSTN, GoldFish, Anna Graceman | Kontor Records | 💚 | [🔗](https://open.spotify.com/track/3vBMircA5qKK86CGshh4Ir) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | Charli XCX, A. G. Cook, VERNON, Rina Sawayama | Atlantic Records UK | | [🔗](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="" width="50" /> | They | Finally Woken | Jem | ATO Records | 💚 | [🔗](https://open.spotify.com/track/5HiVagjTjqdvu3Ke2aqMc7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Two Way Street | Vows (Deluxe Version) | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7ptSTFAis4UckLAfUrMfM0) |
@@ -32,11 +33,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="" width="50" /> | The Feeling | The Good Life | Sammy Rae & The Friends | Nettwerk Records | | [🔗](https://open.spotify.com/track/1aVedqqfdBKK0XsrjNJerA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | [Sia](../../../../artists/sia/overview.md) | [Monkey Puzzle Records](../../../../labels/monkey_puzzle_records), [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c307424da176f146b8a27e7" alt="" width="50" /> | G Train | Searching | Thirdstory | Verve | 💚 | [🔗](https://open.spotify.com/track/0vYIpioP94c4gwxOyopklE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | YOUTH | Blue Neighbourhood (Deluxe) | Troye Sivan | EMI Recorded Music Australia Pty Ltd | 💚 | [🔗](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2af63e82adb0206f1296834" alt="" width="50" /> | Half of the Way | Hill Climber | Vulfpeck, Theo Katzman | Vulf Records | 💚 | [🔗](https://open.spotify.com/track/3uFp6gGgNMtSEmzx1cHTG4) |
 ## Cluster #3
 
-45 tracks
+47 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -46,23 +46,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="" width="50" /> | Icarus | Messenger | Elizaveta | Flower Army Records | | [🔗](https://open.spotify.com/track/08Bp5AoOyjDsTNBlSkWTgI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | [Florence + The Machine](../../../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal-island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/7GlwvJ8iAbCEfZjGq3iwmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Work Song | Hozier (Expanded Edition) | Hozier | [Columbia](../../../../labels/columbia) | 💚 | [🔗](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Wait It Out | Ellipse | [Imogen Heap](../../../../artists/imogen_heap/overview.md) | [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/4xszw2YraekWIpj0SZ6Lp6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Old Flame | Vows (Deluxe Version) | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/6bGCWZagdKs2yZKt4H3IlV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | Waltz Me to the Grave | The Golden Echo | [Kimbra](../../../../artists/kimbra/overview.md) | [Warner Records](../../../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/2p7QlaQFpB2YFwdvt2ArtD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Video Games | Born To Die | [Lana Del Rey](../../../../artists/lana_del_rey/overview.md) | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/5by7gtiDrxe4n2qQQunL8S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Love | Lust For Life | [Lana Del Rey](../../../../artists/lana_del_rey/overview.md) | [Polydor Records](../../../../labels/polydor_records) | | [🔗](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) |
 ## Cluster #4
 
-13 tracks
+14 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | Solo (feat. Demi Lovato) | Solo (feat. Demi Lovato) | [Clean Bandit](../../../../artists/clean_bandit/overview.md), Demi Lovato | Atlantic Records UK | 💚 | [🔗](https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | Rockabye (feat. Sean Paul & Anne-Marie) | What Is Love? (Deluxe Edition) | [Clean Bandit](../../../../artists/clean_bandit/overview.md), Sean Paul, Anne-Marie | Atlantic Records UK | 💚 | [🔗](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="50" /> | Maniac | Kid Krow | Conan Gray | [Republic Records](../../../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant | Beatrix Runs | Elizaveta | [Universal Records](../../../../labels/universal_music_llc) | 💚 | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08fc202dde1427b4016c021" alt="" width="50" /> | Tears of Gold | Tears of Gold | Faouzia | Faouzia 2019 | 💚 | [🔗](https://open.spotify.com/track/2YyLNljkMy2viVcXoFGTDY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | RIP, Love | CITIZENS | Faouzia | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](../../../../labels/universal-island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/1LsZVVQxkbmL9izqfy1RRK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="" width="50" /> | WELLLL | WELLLL | [Jacob Collier](../../../../artists/jacob_collier/overview.md) | [Decca (UMO)](../../../../labels/decca_(umo)) | 💚 | [🔗](https://open.spotify.com/track/4rPv8eZH6ABfkrtxxHHtV4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Cherry | Lust For Life | [Lana Del Rey](../../../../artists/lana_del_rey/overview.md) | [Polydor Records](../../../../labels/polydor_records) | 💚 | [🔗](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](../../../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c97441be2b2856cbda9bcdf" alt="" width="50" /> | Saw It Coming | Saw It Coming | Sammy Rae & The Friends | Nettwerk Records | | [🔗](https://open.spotify.com/track/5Lf3kYxjYsiYwoVNeSmKTi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736668cca4cf49b642d43316e5" alt="" width="50" /> | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | Nettwerk Records | | [🔗](https://open.spotify.com/track/64RnNCeDJW1iSTVzwVAaqa) |

@@ -98,6 +98,7 @@ artist_mbid,other_mbid,relationship_type
 09bfc31a-ef7f-4537-836e-f3daeb76709a,1733a48f-2045-4b60-9130-aaa9393724a1,member of band
 09d1944a-36d5-413e-badd-0d45e4306d4a,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 09d8070e-694d-48dc-b103-84667d0975f7,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
+09d9b297-c5db-4b3d-9fb2-25646c696fff,30a85598-1db8-4e13-9bfa-d90093062bc1,member of band
 09d9b297-c5db-4b3d-9fb2-25646c696fff,f5bff650-07d0-4f8c-bf48-45497f465b79,member of band
 09db707f-0d7d-4f53-9b7c-5999a44149f8,58dccd50-1dcf-4674-8ba6-31058695d24d,member of band
 09db8e0f-232f-4bca-9254-03d5d83d5c8d,95663592-1447-4579-90f7-c94733476667,member of band
@@ -492,6 +493,7 @@ artist_mbid,other_mbid,relationship_type
 309d9809-cf74-493a-b56b-1378258f20fd,9ae93352-6da7-4efb-abb2-e43ef51acb25,is person
 309d9809-cf74-493a-b56b-1378258f20fd,a74b1b7f-71a5-4011-9441-d0b5e4122711,member of band
 309d9809-cf74-493a-b56b-1378258f20fd,c74f4726-2671-4011-81b6-f70da905c05a,member of band
+30a85598-1db8-4e13-9bfa-d90093062bc1,f5bff650-07d0-4f8c-bf48-45497f465b79,subgroup
 30aeb57f-bb16-47fa-86ca-79fc57b4d12c,48646387-1664-4c9a-9139-9bfd091b823c,member of band
 31129686-3faf-4580-a887-b82e76e3df68,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 3144bf1e-4033-4de0-900f-a59726a9681f,9c9f1380-2516-4fc9-a3e6-f9f61941d090,member of band
@@ -1159,6 +1161,7 @@ artist_mbid,other_mbid,relationship_type
 7583c8b8-cea2-4cac-beec-c1e2afe3df2a,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,member of band
 7593e0e2-fc1c-4855-a645-731c7504e16b,5a35701f-9209-4742-ad44-7432d3230127,member of band
 7593e0e2-fc1c-4855-a645-731c7504e16b,b3785a55-2cf6-497d-b8e3-cfa21a36f997,member of band
+75aff57c-d397-4e6c-b5fc-1f32d7761512,30a85598-1db8-4e13-9bfa-d90093062bc1,member of band
 75aff57c-d397-4e6c-b5fc-1f32d7761512,f5bff650-07d0-4f8c-bf48-45497f465b79,member of band
 75b06696-4cc6-4d24-a277-808d7c87a5a5,66c662b6-6e2f-4930-8610-912e24c63ed1,member of band
 761b200c-03b4-4bcf-b693-74ea954d0161,4d2956d1-a3f7-44bb-9a41-67563e1a0c94,member of band

@@ -75,7 +75,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e8ef2d28b9487d7af47d75" alt="" width="50" /> | 1 | 1 | 2pillz | [🔗](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a36251d7041e99d024c523a" alt="" width="50" /> | 1 | 1 | Lu-Ni | [🔗](https://open.spotify.com/artist/0AythHu8oDXnRGp8qviBPj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cb993cafc5d4657346fe42a" alt="" width="50" /> | 3 | 0 | OFFICIAL HIGE DANDISM | [🔗](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0de22aea5aea7449b0423435" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6467026d5ff83b3d01e0ad6a" alt="" width="50" /> | 2 | 0 | AKB48 | [🔗](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37db43b7d0bcd10e2b090521" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f3b2ac021a12b2bd5f19edd" alt="" width="50" /> | 1 | 0 | Tatsuya Kitani | [🔗](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1b54ac2809d664b9e1031e" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |

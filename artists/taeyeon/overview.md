@@ -25,19 +25,13 @@ TAEYEON is currently:
 ## Top Tracks
 
 - To. X is:
-    - the #32 track of the last 6 months
+    - the #25 track of the last 6 months
 - I Got Love is:
-    - the #38 track of the last 6 months
-- Melt Away is:
-    - the #11 track of the last month
+    - the #39 track of the last 6 months
 - Rain is:
-    - the #19 track of the last month
+    - the #9 track of the last month
 - Priority is:
-    - the #30 track of the last month
-- Burn It Down is:
-    - the #40 track of the last month
-- Nightmare is:
-    - the #47 track of the last month
+    - the #20 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -79,7 +73,7 @@ TAEYEON is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 1 | 1 | My Voice - The 1st Album (Deluxe Edition) | 2017-04-05 | [🔗](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="" width="50" /> | 1 | 1 | Hotel del Luna (Original Television Soundtrack) Pt.3 | 2019-07-21 | [🔗](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="" width="50" /> | 1 | 1 | Hotel del Luna (Original Television Soundtrack) Pt.3 | 2019-07-21 | [🔗](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | 1 | 1 | Hong Gil Dong OST | 2008-01-23 | [🔗](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb49e8c96b502707c691b3a3" alt="" width="50" /> | 1 | 1 | Happy | 2020-05-04 | [🔗](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | 1 | 1 | Four Seasons | 2019-03-24 | [🔗](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) |
@@ -95,7 +89,7 @@ TAEYEON is currently:
 |---:|---:|:---|
 | 38 | 23 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 1 | msmedia |
-| 1 | 1 | FNC인베스트먼트 |
+| 1 | 1 | Beyond Music |
 
 ## Genres
 
@@ -165,7 +159,7 @@ TAEYEON is currently:
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](overview.md), [WINTER](../winter/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](overview.md), WINTER | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | If | Hong Gil Dong OST | [TAEYEON](overview.md) | msmedia | 💚 | [🔗](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I | I - The 1st Mini Album | [TAEYEON](overview.md), Verbal Jint | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | Stress | I - The 1st Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T) |
@@ -190,7 +184,7 @@ TAEYEON is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="" width="50" /> | Baram X 3 | Something New - The 3rd Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/0DdbiN1gW1t4MU7tQ91eTW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="" width="50" /> | Something New | Something New - The 3rd Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6oDX7N6VnXSyLdyGsDP5jV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons | Four Seasons | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d63a030f28f56c03dd1e2884" alt="" width="50" /> | 그대라는 시 | Hotel del Luna (Original Television Soundtrack) Pt.3 | [TAEYEON](overview.md) | FNC인베스트먼트 | 💚 | [🔗](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="" width="50" /> | 그대라는 시 | Hotel del Luna (Original Television Soundtrack) Pt.3 | [TAEYEON](overview.md) | Beyond Music | 💚 | [🔗](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Gravity | Purpose - The 2nd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Here I Am | Purpose - The 2nd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | LOL | Purpose - The 2nd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/31mc9vkMVGvCHrlZukqhQb) |

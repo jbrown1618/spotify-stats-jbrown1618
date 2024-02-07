@@ -1,6 +1,6 @@
 # korean pop
 
-38 songs
+37 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 23 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -36,7 +36,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb354f59f3c926ef815f9af7ff" alt="" width="50" /> | 1 | 0 | Busker Busker | [🔗](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18f53034a71f23a550f0d39a" alt="" width="50" /> | 1 | 0 | Onestar | [🔗](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebde2a6b0e488b390729d46c4a" alt="" width="50" /> | 1 | 0 | KANGTA | [🔗](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb60815ff18cb9f9f0fe12aa97" alt="" width="50" /> | 1 | 0 | DAVICHI | [🔗](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="" width="50" /> | 1 | 0 | Hui | [🔗](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65a8f088eccf78b3fdfc26c0" alt="" width="50" /> | 1 | 0 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b42be7923bc2d407a2bf03d" alt="" width="50" /> | 1 | 0 | Eric Nam | [🔗](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) |
@@ -45,7 +44,7 @@
 </details>
 
 
-![Bar chart of top 24 artists](../../images/genres/korean_pop/artists.png)
+![Bar chart of top 23 artists](../../images/genres/korean_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/korean_pop/artists_comparison.png)
 ## Top Albums
@@ -65,7 +64,7 @@
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -85,10 +84,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4534c642e6939abd0a1a867" alt="" width="50" /> | 1 | 0 | Serenade | 2019-12-12 | [🔗](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | 1 | 0 | Miracle - SM STATION | 2023-01-26 | [🔗](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f259431ac3c0458143ce0d53" alt="" width="50" /> | 1 | 0 | Lyricist | 2020-06-10 | [🔗](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b3ffa7d7208efcdb5445fb6" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.5 | 2019-07-28 | [🔗](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356d3baa3d1571b288b910f36" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.5 | 2019-07-28 | [🔗](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="" width="50" /> | 1 | 0 | Get Ready To Leave | 2022-10-18 | [🔗](https://open.spotify.com/album/0UY2l5txL7IjXCB9LnBZ6R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | 1 | 0 | Doll - SM STATION | 2017-10-27 | [🔗](https://open.spotify.com/album/6YHteiOLrZ7gfQEqq2TeRM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27360fa5d9bf71bee894b0a590c" alt="" width="50" /> | 1 | 0 | Descendants Of The Sun Pt.3 (Original Television Soundtrack) | 2016-03-03 | [🔗](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347683d1b11d35a22048d243f" alt="" width="50" /> | 1 | 0 | Busker Busker 1st | 2012-03-29 | [🔗](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) |
 
 </details>
@@ -113,7 +111,7 @@
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 18 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -123,14 +121,13 @@
 | 1 | 1 | C9 Entertainment |
 | 1 | 0 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 1 | 0 | Today's Playlist |
-| 1 | 0 | Ou Ent. Music&New |
-| 1 | 0 | FNC인베스트먼트 |
 | 1 | 0 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 1 | 0 | Beyond Music |
 
 </details>
 
 
-![Bar chart of top 19 record labels](../../images/genres/korean_pop/labels.png)
+![Bar chart of top 18 record labels](../../images/genres/korean_pop/labels.png)
 
 ## Top Producers
 
@@ -146,12 +143,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="WHU IS ME : Complex" width="50" /> | WHU IS ME : Complex (2024-01-16) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | Last Winter (2023-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b27347683d1b11d35a22048d243f" alt="Busker Busker 1st" width="50" /> | Busker Busker 1st (2012-03-29) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Original Soundtrack from the Netflix Series)" width="50" /> | Song of the Bandits (Original Soundtrack from the Netflix Series) (2023-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b2739d307da738011aa08940675b" alt="Supersonic" width="50" /> | Supersonic (2012-07-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b27360fa5d9bf71bee894b0a590c" alt="Descendants Of The Sun Pt.3 (Original Television Soundtrack)" width="50" /> | Descendants Of The Sun Pt.3 (Original Television Soundtrack) (2016-03-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle - SM STATION (2023-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="봄인가 봐 Spring Love - SM STATION" width="50" /> | 봄인가 봐 Spring Love - SM STATION (2016-03-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="Get Ready To Leave" width="50" /> | Get Ready To Leave (2022-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="Bye Bye My Blue" width="50" /> | Bye Bye My Blue (2016-06-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="Street Man Fighter Original Vol.3 (Mission by Rank)" width="50" /> | Street Man Fighter Original Vol.3 (Mission by Rank) (2022-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Undo (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="Stay As You Are" width="50" /> | Stay As You Are (2016-10-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Twenty-Five Twenty-One OST (2022-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="Doll - SM STATION" width="50" /> | Doll - SM STATION (2017-10-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="YOUNHA 6th Album Repackage &#x27;END THEORY : Final Edition&#x27;" width="50" /> | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' (2022-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (2017-12-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | VingleVingle (2023-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="봄인가 봐 Spring Love - SM STATION" width="50" /> | 봄인가 봐 Spring Love - SM STATION (2016-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | Miracle - SM STATION (2023-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b273b9aea3c24941166131a8c8b8" alt="Bye Bye My Blue" width="50" /> | Bye Bye My Blue (2016-06-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="Get Ready To Leave" width="50" /> | Get Ready To Leave (2022-10-18) | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | And July (2016-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="Street Man Fighter Original Vol.3 (Mission by Rank)" width="50" /> | Street Man Fighter Original Vol.3 (Mission by Rank) (2022-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="Stay As You Are" width="50" /> | Stay As You Are (2016-10-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | Undo (2022-06-30) | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="Doll - SM STATION" width="50" /> | Doll - SM STATION (2017-10-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Twenty-Five Twenty-One OST (2022-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (2017-12-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="YOUNHA 6th Album Repackage &#x27;END THEORY : Final Edition&#x27;" width="50" /> | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' (2022-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273e5b72a052cd11134380eeb8a" alt="Wish &amp; Wind" width="50" /> | Wish & Wind (2018-03-08) |
 
 ![Bar chart of number of songs by year](../../images/genres/korean_pop/years.png)

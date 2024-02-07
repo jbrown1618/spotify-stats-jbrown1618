@@ -19,7 +19,7 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #1 artist of the last month
+- The #7 artist of the last month
 - The #3 artist of the last 6 months
 - The #2 artist of all time
 
@@ -29,27 +29,14 @@ ITZY is currently:
 - LOCO is:
     - the #16 track of all time
 - CAKE is:
-    - the #12 track of the last 6 months
+    - the #10 track of the last 6 months
 - Kill Shot is:
-    - the #25 track of the last month
-    - the #17 track of the last 6 months
+    - the #15 track of the last month
+    - the #15 track of the last 6 months
 - Mr. Vampire is:
-    - the #1 track of the last month
-    - the #33 track of the last 6 months
+    - the #29 track of the last 6 months
 - BET ON ME is:
     - the #34 track of the last 6 months
-- BORN TO BE is:
-    - the #2 track of the last month
-- UNTOUCHABLE is:
-    - the #7 track of the last month
-- Mine (CHAERYEONG) is:
-    - the #8 track of the last month
-- Crown On My Head (YEJI) is:
-    - the #12 track of the last month
-- Dynamite is:
-    - the #15 track of the last month
-- Run Away (RYUJIN) is:
-    - the #33 track of the last month
 
 ### Top tracks of all time over time
 
@@ -78,7 +65,7 @@ ITZY is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 7 | 5 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 6 | 5 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | 5 | 4 | KILL MY DOUBT | 2023-07-31 | [🔗](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 4 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 5 | 4 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
@@ -110,7 +97,7 @@ ITZY is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 39 | 26 | [Republic Records](../../labels/republic_records/overview.md) |
+| 38 | 26 | [Republic Records](../../labels/republic_records/overview.md) |
 | 3 | 2 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 1 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
@@ -257,7 +244,6 @@ ITZY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Dynamite | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6qimUEOwCJJrFFKkfi1cCt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mine (CHAERYEONG) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0vVjP9MvzcaGdy2gKgbGcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |

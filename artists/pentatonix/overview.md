@@ -27,7 +27,7 @@ Pentatonix is currently:
 ## Top Tracks
 
 - Problem (Ariana Grande Cover) is:
-    - the #26 track of the last month
+    - the #17 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

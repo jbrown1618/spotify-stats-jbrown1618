@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="Christmas" width="100" />
 
-[101 tracks (7 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
+[102 tracks (7 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 89 artists</summary>
+<summary>See all 90 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -73,6 +73,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5db8621b4a58607c3c430a1a" alt="" width="50" /> | 1 | 0 | Stolen Jars | [🔗](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) |
 | | 1 | 0 | Chundung | [🔗](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Nile Lee | [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8) |
+| <img src="https://i.scdn.co/image/822d7cac5aa9649b2c8a0be5da89567f8b80ca56" alt="" width="50" /> | 1 | 0 | Vince Guaraldi Trio | [🔗](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6c2a5ea9ef6fc4d5bfda7278" alt="" width="50" /> | 1 | 0 | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 1 | 0 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecfefcddb02c66f45ac79ac4" alt="" width="50" /> | 1 | 0 | Jan Utbult | [🔗](https://open.spotify.com/artist/4cdzuhtmHpWvdn1nXn2Aga) |
@@ -134,7 +135,7 @@
 
 
 <details>
-<summary>See all 81 albums</summary>
+<summary>See all 82 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -206,6 +207,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | 1 | 0 | All I Want for Christmas Is You | 2014-11-17 | [🔗](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="" width="50" /> | 1 | 0 | A Legendary Christmas: Deluxe Edition | 2019-11-08 | [🔗](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273adad4220d51bd720481d4be4" alt="" width="50" /> | 1 | 0 | A Christmas Gift For You From Phil Spector | 1963 | [🔗](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="" width="50" /> | 1 | 0 | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] | 2012-01-01 | [🔗](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326b7dce0a74da7f7f6c7f193" alt="" width="50" /> | 1 | 0 | 2021 Winter SMTOWN : SMCU EXPRESS | 2021-12-27 | [🔗](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="" width="50" /> | 1 | 0 | 12월의 기적 Miracles in December | 2013-12-09 | [🔗](https://open.spotify.com/album/7taKyOK4LYB8uEDoR0x2NQ) |
@@ -232,7 +234,7 @@
 
 
 <details>
-<summary>See all 54 labels</summary>
+<summary>See all 55 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -276,6 +278,7 @@
 | 1 | 0 | [HYBE](../../labels/hybe/overview.md) |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | Cre.ker Entertainment |
+| 1 | 0 | Craft Recordings |
 | 1 | 0 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 1 | 0 | CAPITOL CATALOG MKT (C92) |
 | 1 | 0 | Atlantic Nashville |
@@ -303,7 +306,7 @@
 
 
 <details>
-<summary>See all 64 genres</summary>
+<summary>See all 65 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -344,6 +347,7 @@
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | modern country rock |
 | 1 | 0 | [k-rap](../../genres/k-rap/overview.md) |
+| 1 | 0 | jazz trio |
 | 1 | 0 | indietronica |
 | 1 | 0 | indie rock |
 | 1 | 0 | indie folk |

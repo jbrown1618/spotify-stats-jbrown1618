@@ -20,7 +20,7 @@ Red Velvet:
 
 ## Artist Rank
 Red Velvet is currently:
-- The #3 artist of the last month
+- The #1 artist of the last month
 - The #1 artist of the last 6 months
 - The #1 artist of all time
 
@@ -32,36 +32,33 @@ Red Velvet is currently:
 - 러시안 룰렛 Russian Roulette is:
     - the #13 track of all time
 - Dumb Dumb is:
-    - the #24 track of all time
+    - the #25 track of all time
 - Ice Cream Cake is:
-    - the #27 track of all time
+    - the #28 track of all time
 - RBB (Really Bad Boy) is:
     - the #44 track of all time
 - One Kiss is:
-    - the #34 track of the last month
-    - the #8 track of the last 6 months
+    - the #22 track of the last month
+    - the #7 track of the last 6 months
 - Chill Kill is:
-    - the #43 track of the last month
-    - the #11 track of the last 6 months
+    - the #29 track of the last month
+    - the #9 track of the last 6 months
 - Nightmare is:
-    - the #45 track of the last month
-    - the #16 track of the last 6 months
+    - the #13 track of the last 6 months
 - Bulldozer is:
-    - the #38 track of the last month
-    - the #26 track of the last 6 months
-- 7월 7일 One Of These Nights is:
-    - the #37 track of the last 6 months
+    - the #22 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #42 track of the last month
-    - the #40 track of the last 6 months
+    - the #36 track of the last 6 months
+- 7월 7일 One Of These Nights is:
+    - the #38 track of the last 6 months
 - Beautiful Christmas is:
-    - the #49 track of the last 6 months
+    - the #50 track of the last 6 months
 - On A Ride is:
-    - the #5 track of the last month
+    - the #1 track of the last month
 - Milkshake is:
-    - the #28 track of the last month
+    - the #18 track of the last month
 - Would U is:
-    - the #37 track of the last month
+    - the #25 track of the last month
 
 ### Top tracks of all time over time
 
@@ -127,7 +124,7 @@ Red Velvet is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e2194d332ceeb0ab6018b21" alt="" width="50" /> | 1 | 0 | 세가지 소원 Wish Tree - WINTER GARDEN | 2015-12-18 | [🔗](https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303f0ae1be05283665ac60f7f" alt="" width="50" /> | 1 | 0 | Would U - SM STATION | 2017-03-31 | [🔗](https://open.spotify.com/album/55Pg6r2oJfQaVm3yzhgZsG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ff5d88a4453ce83682ab209" alt="" width="50" /> | 1 | 0 | Our Beloved BoA #4 - SM STATION | 2020-08-21 | [🔗](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.8 | 2019-08-10 | [🔗](https://open.spotify.com/album/2orJu019JvK7H621GwcIhr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d09a3589b1bb51f3ffe262c9" alt="" width="50" /> | 1 | 0 | Hotel del Luna (Original Television Soundtrack) Pt.8 | 2019-08-10 | [🔗](https://open.spotify.com/album/2orJu019JvK7H621GwcIhr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | 1 | 0 | Close To Me (Red Velvet Remix) | 2019-04-05 | [🔗](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739acd884a943f3630236a5ca3" alt="" width="50" /> | 1 | 0 | #Cookie Jar | 2018-07-04 | [🔗](https://open.spotify.com/album/4W6K0DP1YlZ48JlvdKCkZh) |
 
@@ -141,7 +138,7 @@ Red Velvet is currently:
 | 73 | 57 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 2 | [avex trax](../../labels/avex_trax/overview.md) |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 1 | 0 | FNC인베스트먼트 |
+| 1 | 0 | Beyond Music |
 
 ## Genres
 
@@ -318,7 +315,7 @@ Red Velvet is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Parade | ‘The ReVe Festival’ Day 1 | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | | [🔗](https://open.spotify.com/track/5K8cgjL8hGTXpi5Z6uJFwe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Sunny Side Up! | ‘The ReVe Festival’ Day 1 | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5yGTiC0ypN09P4Nl6tE3FY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Zimzalabim | ‘The ReVe Festival’ Day 1 | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a3a318a695fb40b1b9b4b" alt="" width="50" /> | 어떤 별보다 | Hotel del Luna (Original Television Soundtrack) Pt.8 | [Red Velvet](overview.md) | FNC인베스트먼트 | | [🔗](https://open.spotify.com/track/3rjWX5YhfI3Alagrf4poY0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d09a3589b1bb51f3ffe262c9" alt="" width="50" /> | 어떤 별보다 | Hotel del Luna (Original Television Soundtrack) Pt.8 | [Red Velvet](overview.md) | Beyond Music | | [🔗](https://open.spotify.com/track/3rjWX5YhfI3Alagrf4poY0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | Eyes Locked, Hands Locked | ‘The ReVe Festival’ Day 2 | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4o6LdaI3q5QFjs0sziszsD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | Umpah Umpah | ‘The ReVe Festival’ Day 2 | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/5qSoW3ewNlhRN3FNZPmVns) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | In & Out | ‘The ReVe Festival’ Finale | [Red Velvet](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 💚 | [🔗](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) |

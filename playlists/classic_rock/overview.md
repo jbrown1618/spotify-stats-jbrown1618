@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="Classic Rock" width="100" />
 
-[108 tracks (65 liked) 🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7)
+[109 tracks (65 liked) 🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 30 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -49,11 +49,12 @@
 | <img src="https://i.scdn.co/image/3e1557475bce8d5224586c8f2331f12f3f57c4a4" alt="" width="50" /> | 1 | 0 | Dick Dale | [🔗](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb607e7523c28dd40288a08df4" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
 
 </details>
 
 
-![Bar chart of top 29 artists](../../images/playlists/classic_rock/artists.png)
+![Bar chart of top 30 artists](../../images/playlists/classic_rock/artists.png)
 
 ![Comparison of Artist](../../images/playlists/classic_rock/artists_comparison.png)
 
@@ -74,7 +75,7 @@
 
 
 <details>
-<summary>See all 71 albums</summary>
+<summary>See all 72 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -138,6 +139,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0" alt="" width="50" /> | 1 | 0 | Hot Rats | 1969-10-10 | [🔗](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | 1 | 0 | David Bowie (aka Space Oddity) [2015 Remaster] | 1969-11-04 | [🔗](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="" width="50" /> | 1 | 0 | ...Nothing Like The Sun | 1987-01-01 | [🔗](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) |
 
 </details>
@@ -162,7 +164,7 @@
 
 
 <details>
-<summary>See all 24 labels</summary>
+<summary>See all 25 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -180,25 +182,26 @@
 | 1 | 0 | Volcano |
 | 1 | 0 | Sanctuary Records |
 | 1 | 0 | RockBeat Records |
+| 1 | 0 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 
 </details>
 
 
-![Bar chart of top 24 record labels](../../images/playlists/classic_rock/labels.png)
+![Bar chart of top 25 record labels](../../images/playlists/classic_rock/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 101 | 65 | [rock](../../genres/rock/overview.md) |
-| 95 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
+| 102 | 65 | [rock](../../genres/rock/overview.md) |
+| 96 | 61 | [classic rock](../../genres/classic_rock/overview.md) |
 | 39 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
 | 45 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 47 | 25 | [album rock](../../genres/album_rock/overview.md) |
 | 31 | 22 | merseybeat |
 | 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |
 | 26 | 13 | [soft rock](../../genres/soft_rock/overview.md) |
-| 15 | 12 | glam rock |
+| 16 | 12 | glam rock |
 | 17 | 11 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
@@ -212,13 +215,13 @@
 | 9 | 4 | yacht rock |
 | 6 | 4 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 5 | 4 | glam metal |
+| 13 | 3 | art rock |
 | 12 | 3 | symphonic rock |
-| 12 | 3 | art rock |
 | 5 | 3 | folk rock |
 | 3 | 2 | folk |
+| 4 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 1 | metal |
 | 4 | 1 | blues rock |
-| 3 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 3 | 1 | alternative metal |
 | 2 | 1 | uk doom metal |
 | 2 | 1 | synth funk |

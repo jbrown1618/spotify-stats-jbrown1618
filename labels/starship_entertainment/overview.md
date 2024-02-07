@@ -1,13 +1,13 @@
 # Starship Entertainment
 
-35 songs
+36 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Starship Entertainment (25 tracks)
+- Starship Entertainment (26 tracks)
 - STARSHIP ENTERTAINMENT (6 tracks)
 - STARSHIP Entertainment (4 tracks)
 
@@ -21,12 +21,23 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb41d4a656d92f93daed36366" alt="" width="50" /> | 2 | 1 | JOOHONEY | [🔗](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e493a7c9b551aba3ef4e53f" alt="" width="50" /> | 1 | 1 | SHOWNU X HYUNGWON (MONSTA X) | [🔗](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b39b99f91ca659e213ab93" alt="" width="50" /> | 1 | 1 | WJSN THE BLACK | [🔗](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | 2 | 0 | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
+
+
+<details>
+<summary>See all 11 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb17fcf709bb355f05fa22e74b" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 
-![Bar chart of top 10 artists](../../images/labels/starship_entertainment/artists.png)
+</details>
+
+
+![Bar chart of top 11 artists](../../images/labels/starship_entertainment/artists.png)
 
 ## Top Albums
 
@@ -45,7 +56,7 @@ Appears as:
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 28 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -53,6 +64,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | 1 | 1 | One of a Kind | 2021-06-01 | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | 1 | 1 | Neverland | 2020-06-09 | [🔗](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="" width="50" /> | 1 | 1 | My attitude | 2021-05-12 | [🔗](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | 1 | 1 | Ma Boy | 2011-05-03 | [🔗](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | 1 | 1 | LOVE & HATE | 2013-11-26 | [🔗](https://open.spotify.com/album/26FsnZOVOJDjKeWUbXuDVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | 1 | 1 | LIGHTS | 2023-05-22 | [🔗](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | 1 | 1 | HAPPY MOMENT (1) | 2017-06-07 | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
@@ -70,14 +82,14 @@ Appears as:
 </details>
 
 
-![Bar chart of top 27 albums](../../images/labels/starship_entertainment/albums.png)
+![Bar chart of top 28 albums](../../images/labels/starship_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 19 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 18 | 13 | [k-pop](../../genres/k-pop/overview.md) |
+| 28 | 20 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 19 | 14 | [k-pop](../../genres/k-pop/overview.md) |
 | 3 | 3 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
@@ -192,6 +204,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | SHAKE IT | SHAKE IT | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | I Like That | INSANE LOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | Say! Yes | INSANE LOVE | SISTAR | [Starship Entertainment](.) | | [🔗](https://open.spotify.com/track/5gDxhjgpRoClBFrOcNGiEQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](../../artists/wjsn/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | Babyface | HAPPY MOMENT (1) | [WJSN](../../artists/wjsn/overview.md) | [Starship Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/6l6sytFAfe0esA5DYLwqhE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | Pantomime | Neverland | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 💚 | [🔗](https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ) |

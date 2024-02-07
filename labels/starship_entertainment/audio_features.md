@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]" width="50" /> | Adrenaline (0.929) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (0.718) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="Neverland" width="50" /> | Pantomime (0.929) | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | ELEVEN (0.731) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="After LIKE" width="50" /> | After LIKE (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Off The Record (0.745) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="TOUCH N MOVE" width="50" /> | Touch my body (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Lips (0.779) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="TOUCH N MOVE" width="50" /> | Touch my body (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="Ma Boy" width="50" /> | Ma Boy (0.767) |
 
 ## Speechiness
 
@@ -59,14 +59,14 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Either Way (0.461) | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | LOVE DIVE (0.00379) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="UNNATURAL" width="50" /> | UNNATURAL (0.365) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Blue Blood (0.0041) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="ALONE" width="50" /> | Alone (0.263) | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER (0.00458) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | FREEDOM (0.252) | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (0.00848) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (0.237) | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> | Super Yuppers! (0.00982) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="MIXTAPE [ PSYCHE ]" width="50" /> | SMOKY (0.181) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | I AM (0.0115) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="Give It To Me (2)" width="50" /> | Give it to me (0.176) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Kitsch (0.0119) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | Say! Yes (0.174) | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="SHAKE IT" width="50" /> | SHAKE IT (0.0234) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="Sequence" width="50" /> | Last Sequence (0.174) | <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]" width="50" /> | Adrenaline (0.0238) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="THE SECRET" width="50" /> | Secret (0.167) | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | After LIKE - Holiday Remix (0.0372) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="Ma Boy" width="50" /> | Ma Boy (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER (0.00458) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="ALONE" width="50" /> | Alone (0.263) | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (0.00848) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | FREEDOM (0.252) | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> | Super Yuppers! (0.00982) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (0.237) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | I AM (0.0115) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="MIXTAPE [ PSYCHE ]" width="50" /> | SMOKY (0.181) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Kitsch (0.0119) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="Give It To Me (2)" width="50" /> | Give it to me (0.176) | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="SHAKE IT" width="50" /> | SHAKE IT (0.0234) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | Say! Yes (0.174) | <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]" width="50" /> | Adrenaline (0.0238) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="Sequence" width="50" /> | Last Sequence (0.174) | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | After LIKE - Holiday Remix (0.0372) |
 
 ## Instrumentalness
 
@@ -81,9 +81,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Baddie (5.46e-06) | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="THE SECRET" width="50" /> | Secret (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | After LIKE - Holiday Remix (4.92e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="UNNATURAL" width="50" /> | UNNATURAL (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | ROYAL (3.39e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="Give It To Me (2)" width="50" /> | Give it to me (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (2.41e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Kitsch (1.11e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="MIXTAPE [ PSYCHE ]" width="50" /> | SMOKY (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | ELEVEN (0.0) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | One way love (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="Ma Boy" width="50" /> | Ma Boy (2.71e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (2.41e-06) | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="MIXTAPE [ PSYCHE ]" width="50" /> | SMOKY (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Kitsch (1.11e-06) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | One way love (0.0) |
 
 ## Liveness
 
@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | LOVE DIVE (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="After LIKE" width="50" /> | After LIKE (0.0877) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="THE SECRET" width="50" /> | Secret (0.301) | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="Hmph!" width="50" /> | Hmph! (0.088) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> | Super Yuppers! (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="Sequence" width="50" /> | Last Sequence (0.0894) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | FREEDOM (0.267) | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (0.0994) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="Ma Boy" width="50" /> | Ma Boy (0.289) | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (0.0994) |
 
 ## Valence
 
@@ -125,13 +125,13 @@
 
 | ​ | 10 most Fast tracks | ​​ | 10 least Fast tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="THE CODE" width="50" /> | DRAMARAMA (186.154) | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="THE UNSEEN" width="50" /> | Love Me A Little (90.04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (164.918) | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | Say! Yes (95.043) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Baddie (160.045) | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER (97.968) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> | Super Yuppers! (156.052) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Blue Blood (98.949) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | I Like That (154.882) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Kitsch (102.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="MIXTAPE [ PSYCHE ]" width="50" /> | SMOKY (149.861) | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Off The Record (107.984) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | FREEDOM (138.002) | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | ROYAL (109.922) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="Give It To Me (2)" width="50" /> | Give it to me (136.045) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | One way love (109.952) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Lips (135.964) | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="THE SECRET" width="50" /> | Secret (111.495) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | Beautiful Liar (129.947) | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="My attitude" width="50" /> | Easy (112.199) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="THE CODE" width="50" /> | DRAMARAMA (186.154) | <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="Ma Boy" width="50" /> | Ma Boy (89.93) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | 섬찟 (Hypnosis) (164.918) | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="THE UNSEEN" width="50" /> | Love Me A Little (90.04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Baddie (160.045) | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | Say! Yes (95.043) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="Super Yuppers!" width="50" /> | Super Yuppers! (156.052) | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER (97.968) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | I Like That (154.882) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Blue Blood (98.949) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="MIXTAPE [ PSYCHE ]" width="50" /> | SMOKY (149.861) | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Kitsch (102.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="LIGHTS" width="50" /> | FREEDOM (138.002) | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="I&#x27;VE MINE" width="50" /> | Off The Record (107.984) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="Give It To Me (2)" width="50" /> | Give it to me (136.045) | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="LOVE DIVE" width="50" /> | ROYAL (109.922) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="I&#x27;ve IVE" width="50" /> | Lips (135.964) | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="LOVE &amp; HATE" width="50" /> | One way love (109.952) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="REASON" width="50" /> | Beautiful Liar (129.947) | <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="THE SECRET" width="50" /> | Secret (111.495) |

@@ -21,8 +21,10 @@ SUNMI is currently:
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
 
+- Heart Burn is:
+    - the #33 track of the last 6 months
 - Gashina is:
-    - the #45 track of the last 6 months
+    - the #46 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

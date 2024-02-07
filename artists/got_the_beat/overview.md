@@ -14,11 +14,11 @@ GOT the beat:
 - has member [SEULGI](../seulgi/overview.md)
 - has member [TAEYEON](../taeyeon/overview.md)
 - has member [WENDY](../wendy/overview.md)
-- has member [WINTER](../winter/overview.md)
+- has member WINTER
 
 ## Artist Rank
 GOT the beat is currently:
-- The #45 artist of the last 6 months
+- The #47 artist of the last 6 months
 - The #39 artist of all time
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
@@ -58,12 +58,12 @@ GOT the beat is currently:
 
 ### Member Credits
 
-| | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) | [WINTER](../winter/overview.md) |
+| | WINTER | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
 |:---|---:|---:|---:|---:|---:|
-| Arranger | 1 | 0 | 0 | 0 | 0 |
-| Lyricist | 3 | 0 | 1 | 0 | 0 |
-| Songwriter | 2 | 0 | 0 | 0 | 0 |
-| Vocal | 0 | 15 | 5 | 15 | 1 |
+| Arranger | 0 | 1 | 0 | 0 | 0 |
+| Lyricist | 0 | 3 | 0 | 1 | 0 |
+| Songwriter | 0 | 2 | 0 | 0 | 0 |
+| Vocal | 1 | 0 | 15 | 5 | 15 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

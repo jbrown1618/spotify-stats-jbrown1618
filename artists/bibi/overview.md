@@ -15,6 +15,8 @@
 
 - Animal Farm is:
     - the #41 track of the last 6 months
+- LAW (Prod. Czaer) is:
+    - the #47 track of the last month
 
 ### Top tracks of the last 6 months over time
 

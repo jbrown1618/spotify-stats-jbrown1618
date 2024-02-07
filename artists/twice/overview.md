@@ -35,6 +35,12 @@ TWICE is currently:
     - the #19 track of all time
 - The Feels is:
     - the #48 track of all time
+- WALLFLOWER is:
+    - the #37 track of the last month
+- SCIENTIST is:
+    - the #43 track of the last month
+- CRAZY STUPID LOVE is:
+    - the #49 track of the last month
 
 ### Top tracks of all time over time
 
