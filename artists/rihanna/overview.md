@@ -11,6 +11,10 @@
 ## Artist Rank
 
 ![Rank of Rihanna over time](../../images/artists/rihanna/rank_time_series.png)
+## Top Tracks
+
+- What Now is:
+    - the #1 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

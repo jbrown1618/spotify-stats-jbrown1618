@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 16 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 16 | 9 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 16 | 9 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | 3 | 3 | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 3 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
@@ -91,7 +91,7 @@
 |:---|:---|---:|:---|
 | | Florence Welch | 13 | Songwriter, Lyricist |
 | | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
 | | Craig Silvey | 4 | Producer |

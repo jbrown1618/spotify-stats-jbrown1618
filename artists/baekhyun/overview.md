@@ -23,8 +23,6 @@ BAEKHYUN:
     - the #29 track of all time
 - Dream is:
     - the #42 track of all time
-- U is:
-    - the #42 track of the last month
 
 ### Top tracks of all time over time
 

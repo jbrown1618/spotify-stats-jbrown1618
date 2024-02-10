@@ -2,7 +2,7 @@
 # Sia
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="Sia" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="Sia" width="100" />
 
 ## Artist Rank
 
@@ -65,7 +65,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb25a749000611559f1719cc5f" alt="" width="50" /> | [Sia](overview.md) | 8 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](overview.md) | 8 | Producer, Songwriter |
 | | Greg Kurstin | 7 | Producer, Songwriter |
 | | Manny Marroquin | 6 | Producer |
 | | Alex Pasco | 5 | Producer |

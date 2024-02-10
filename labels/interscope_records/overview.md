@@ -32,7 +32,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 24 | 18 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 12 | 9 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 12 | 10 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 12 | 7 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 8 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8acf72a6c3da24a6483255fa" alt="" width="50" /> | 4 | 3 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
@@ -52,7 +52,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 3 | 1 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | 1 | 1 | JISOO | [🔗](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeabbcceb4f3622a80728d437" alt="" width="50" /> | 1 | 1 | Machine Gun Kelly | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeabbcceb4f3622a80728d437" alt="" width="50" /> | 1 | 1 | mgk | [🔗](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc" alt="" width="50" /> | 1 | 1 | T.I. | [🔗](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) |
@@ -114,6 +114,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | 1 | 1 | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | 1 | 1 | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | 1 | 1 | What Was I Made For? [From The Motion Picture "Barbie"] | 2023-07-13 | [🔗](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | 1 | 1 | SOLO | 2018-11-12 | [🔗](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | 1 | 1 | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | 1 | 1 | ME | 2023-03-31 | [🔗](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) |
@@ -128,7 +129,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | 1 | 1 | Bleed American | 2001-07-17 | [🔗](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | 1 | 0 | souljaboytellem.com | 2007-01-01 | [🔗](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | 1 | 0 | When The World Comes Down | 2008-01-01 | [🔗](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | 1 | 0 | What Was I Made For? [From The Motion Picture "Barbie"] | 2023-07-13 | [🔗](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | 1 | 0 | Overexposed (Deluxe) | 2012-01-01 | [🔗](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | 1 | 0 | Over It | 2019-10-04 | [🔗](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) |
@@ -150,10 +150,10 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 62 | 45 | [pop](../../genres/pop/overview.md) |
+| 62 | 46 | [pop](../../genres/pop/overview.md) |
 | 37 | 27 | [k-pop](../../genres/k-pop/overview.md) |
+| 24 | 17 | [art pop](../../genres/art_pop/overview.md) |
 | 23 | 17 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 24 | 16 | [art pop](../../genres/art_pop/overview.md) |
 | 13 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
 | 5 | 4 | [rock](../../genres/rock/overview.md) |
@@ -216,13 +216,13 @@ Appears as:
 | | TEDDY | 20 | Lyricist, Producer, Songwriter, Arranger |
 | | 24 | 17 | Arranger, Producer, Songwriter |
 | | R.Tee | 12 | Arranger, Producer, Songwriter |
-| | FINNEAS | 10 | Lyricist, Producer, Songwriter, Arranger |
+| | FINNEAS | 11 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | | Danny Chung | 8 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 8 | Lyricist, Songwriter, Producer |
+| | Rob Kinelski | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 8 | Songwriter, Producer |
 | | Josh Gudwin | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 8 | Lyricist, Songwriter |
-| | YOUNGJU BANG | 7 | Producer |
 
 
 <details>
@@ -230,8 +230,8 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | YOUNGJU BANG | 7 | Producer |
 | | Jason Roberts | 7 | Producer |
-| | Rob Kinelski | 7 | Producer |
 | | Adam Levine | 5 | Lyricist, Songwriter |
 | | RedOne | 5 | Producer, Songwriter, Arranger |
 | | Jason Robert | 5 | Producer |
@@ -261,14 +261,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
 | | FUTURE BOUNCE | 2 | Arranger, Songwriter |
 | | David Phelan | 1 | Lyricist, Songwriter |
-| | Steph Jones | 1 | Lyricist |
+| | Lazonate Franklin | 1 | Songwriter |
 | | BURNS | 1 | Producer, Songwriter |
 | | YG Family | 1 | Producer |
 | | Noah Passovoy | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
 | | Hans Zimmer | 1 | Arranger |
 | | Zach Lind | 1 | Songwriter |
-| | YONGJU BANG | 1 | Producer |
+| | Paul Foley | 1 | Producer |
 | | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
 | | Tushar Apte | 1 | Arranger, Lyricist, Songwriter |
 | | Max Wolfgang | 1 | Lyricist, Songwriter |
@@ -276,30 +276,32 @@ Appears as:
 | | Tom Linton | 1 | Songwriter |
 | | Olle Romo | 1 | Producer |
 | | Sam Farrar | 1 | Lyricist, Songwriter |
-| | Lazonate Franklin | 1 | Songwriter |
+| | Steph Jones | 1 | Lyricist |
+| | Horace Ward | 1 | Producer |
+| | YONGJU BANG | 1 | Producer |
 | | Beach Noise | 1 | Producer |
 | | Ari Raskin | 1 | Producer |
-| | Alex Oriet | 1 | Lyricist, Songwriter |
-| | Paul Foley | 1 | Producer |
+| | Dominsuk | 1 | Arranger, Songwriter |
 | | Willy Moon | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| | Dominsuk | 1 | Arranger, Songwriter |
-| | Doug McKean | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Arranger, Producer |
 | | Jim Adkins | 1 | Songwriter |
+| | Doug McKean | 1 | Producer |
 | | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
-| | Rami | 1 | Songwriter |
-| | Eli Heisler | 1 | Producer |
+| | Alex Oriet | 1 | Lyricist, Songwriter |
 | | Serban Ghenea | 1 | Producer |
+| | Rami | 1 | Songwriter |
 | | Mattman & Robin | 1 | Producer |
 | | Jacob Kasher | 1 | Songwriter |
 | | Matt Dunkley | 1 | Arranger |
 | | Madison Love | 1 | Songwriter |
 | | KUSH | 1 | Arranger, Lyricist, Songwriter |
-| | Horace Ward | 1 | Producer |
+| | Eli Heisler | 1 | Producer |
 | | Rob Grimaldi | 1 | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | 1 | Producer |
 | | Stephen Lipson | 1 | Producer |
-| | Chloe George | 1 | Lyricist |
+| | NOHC | 1 | Arranger |
+| | Clint Gibbs | 1 | Producer |
 | | Justin Tranter | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | Kendrick Lamar | 1 | Songwriter |
 | | Jonathan Plum | 1 | Producer |
@@ -311,15 +313,13 @@ Appears as:
 | | Teddy Sinclair | 1 | Lyricist, Songwriter |
 | | Casey Cuayo | 1 | Producer |
 | | Dr. Luke | 1 | Producer |
-| | NOHC | 1 | Arranger |
 | | Jonathan Sher | 1 | Producer |
+| | Johnathan Turner | 1 | Producer |
 | | Mark "Spike" Stent | 1 | Producer |
 | | Akon | 1 | Songwriter |
 | | James Hunt | 1 | Producer |
 | | Cirkut | 1 | Producer, Songwriter |
 | | Jose Balaguer | 1 | Producer |
-| | Ryan Tedder | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](../../artists/maroon_5/overview.md) | 1 | Producer |
 
 </details>
 
@@ -371,7 +371,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Happier Than Ever | Happier Than Ever | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | | [🔗](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Therefore I Am | Happier Than Ever | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] | What Was I Made For? [From The Motion Picture "Barbie"] | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | | [🔗](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] | What Was I Made For? [From The Motion Picture "Barbie"] | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Demons | Night Visions | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Radioactive | Night Visions | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) |
@@ -402,7 +402,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Million Reasons | Joanne (Deluxe) | [Lady Gaga](../../artists/lady_gaga/overview.md) | [Interscope](.) | | [🔗](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Rain On Me (with Ariana Grande) | Chromatica | [Lady Gaga](../../artists/lady_gaga/overview.md), [Ariana Grande](../../artists/ariana_grande/overview.md) | [Interscope](.) | | [🔗](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../../artists/lady_gaga/overview.md), [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | Machine Gun Kelly, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Bad Boy / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | She Will Be Loved | Songs About Jane | [Maroon 5](../../artists/maroon_5/overview.md) | [Interscope Records*](.) | 💚 | [🔗](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | Sunday Morning | Songs About Jane | [Maroon 5](../../artists/maroon_5/overview.md) | [Interscope Records*](.) | 💚 | [🔗](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | This Love | Songs About Jane | [Maroon 5](../../artists/maroon_5/overview.md) | [Interscope Records*](.) | 💚 | [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) |
@@ -425,6 +424,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | Gives You Hell | When The World Comes Down | The All-American Rejects | [Interscope](.) | | [🔗](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="" width="50" /> | All The Small Things | Enema Of The State | blink-182 | [Interscope](.) | | [🔗](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Bad Boy / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
 
 </details>
 

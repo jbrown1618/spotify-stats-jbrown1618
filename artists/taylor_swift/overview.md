@@ -14,10 +14,6 @@ Taylor Swift is currently:
 - The #23 artist of all time
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
-## Top Tracks
-
-- Begin Again is:
-    - the #45 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

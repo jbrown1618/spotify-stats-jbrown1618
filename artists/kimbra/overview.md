@@ -2,7 +2,7 @@
 # Kimbra
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="Kimbra" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="Kimbra" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -14,7 +14,7 @@
 ## Top Tracks
 
 - In My Bones (feat. Kimbra & Tank and The Bangas) is:
-    - the #40 track of the last month
+    - the #48 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -79,7 +79,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](overview.md) | 8 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](overview.md) | 8 | Lyricist, Producer, Songwriter |
 | | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
 | | M-Phazes | 2 | Producer |
 | | Bo Hill | 1 | Producer |

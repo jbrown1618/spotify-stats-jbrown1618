@@ -1,6 +1,6 @@
 # vocal jazz
 
-42 songs
+41 songs
 
 [See Track Features](audio_features.md)
 
@@ -32,8 +32,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1443b3d0c1d38e982e49ec85" alt="" width="50" /> | 1 | 1 | Sarah Vaughan | [🔗](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7773162cc90fc8dfb720fdfe" alt="" width="50" /> | 1 | 1 | Stacey Kent | [🔗](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) |
 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | 5 | 0 | Sophie Milman | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 4 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
 | <img src="https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2" alt="" width="50" /> | 3 | 0 | Chet Baker | [🔗](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 3 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | 2 | 0 | Natalie Cole | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a2fd1f3d90c5996daa0b12d" alt="" width="50" /> | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
 | <img src="https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58" alt="" width="50" /> | 2 | 0 | Billie Holiday | [🔗](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) |
@@ -71,7 +71,7 @@
 
 
 <details>
-<summary>See all 33 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -87,7 +87,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273268f559dbc4714939d575d8c" alt="" width="50" /> | 1 | 0 | My Favorite Things (Deluxe Edition) | 1961 | [🔗](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | 1 | 0 | Milestones | 1958-04 | [🔗](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | 1 | 0 | Make Someone Happy | 2007-01-01 | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 1 | 0 | I Never Loved a Man the Way I Love You | 1967-03-10 | [🔗](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) |
@@ -117,7 +116,7 @@
 | 1 | 1 | Parlophone (France) |
 | 5 | 0 | Linus Entertainment Inc. |
 | 3 | 0 | Blue Note Records |
-| 2 | 0 | Rhino Atlantic |
+| 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
 
 
 <details>
@@ -125,12 +124,12 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 2 | 0 | Craft Recordings |
 | 2 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 0 | CAPITOL CATALOG MKT (C92) |
 | 1 | 0 | Verve |
 | 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
+| 1 | 0 | Rhino Atlantic |
 | 1 | 0 | Original Jazz Classics |
 | 1 | 0 | Impulse! |
 

@@ -22,9 +22,9 @@ SUNMI is currently:
 ## Top Tracks
 
 - Heart Burn is:
-    - the #33 track of the last 6 months
+    - the #31 track of the last 6 months
 - Gashina is:
-    - the #46 track of the last 6 months
+    - the #43 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

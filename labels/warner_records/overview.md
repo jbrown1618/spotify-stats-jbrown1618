@@ -1,13 +1,13 @@
 # Warner Records
 
-97 songs
+98 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Warner Records (51 tracks)
+- Warner Records (52 tracks)
 - SM Entertainment / Warner Records (19 tracks)
 - Rhino/Warner Records (10 tracks)
 - Beluga Heights/Warner Records (5 tracks)
@@ -22,7 +22,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 19 | 15 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 13 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 13 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 11 | 6 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 7 | 5 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
@@ -34,7 +34,7 @@ Appears as:
 
 
 <details>
-<summary>See all 43 artists</summary>
+<summary>See all 44 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -51,6 +51,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 1 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf76e11a5f3c08955fecea690" alt="" width="50" /> | 1 | 1 | Teddy Swims | [🔗](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 1 | 1 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
@@ -94,7 +95,7 @@ Appears as:
 
 
 <details>
-<summary>See all 50 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -113,6 +114,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="" width="50" /> | 1 | 1 | Lose Control | 2023-06-23 | [🔗](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a06f6d9e1b5fee1670cfffc" alt="" width="50" /> | 1 | 1 | IT'S YOU (feat. keshi) | 2022-09-09 | [🔗](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
@@ -123,7 +125,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | 1 | 0 | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
@@ -226,16 +228,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 5 | Songwriter |
-| | Jenny Lewis | 4 | Lyricist, Songwriter |
+| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
+| | Jenny Lewis | 4 | Lyricist, Songwriter |
 | | Matt Bellamy | 3 | Lyricist, Songwriter |
-| | Jason Evigan | 3 | Songwriter |
+| | Mike Mogis | 3 | Producer |
 | | Josh Gudwin | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
-| | Mike Mogis | 3 | Producer |
+| | Jason Evigan | 3 | Songwriter |
 
 
 <details>
@@ -243,45 +245,47 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Justin Tranter | 2 | Songwriter |
+| | Rich Costey | 2 | Producer |
 | | Blake Sennett | 2 | Songwriter |
 | | Jason Lader | 2 | Producer |
-| | Rich Costey | 2 | Producer |
-| | Justin Tranter | 2 | Songwriter |
-| | Jussifer | 2 | Producer, Songwriter |
-| | Sean Douglas | 2 | Songwriter |
-| | Emily Warren | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
-| | Keith Olsen | 2 | Producer |
-| | Ricky Reed | 2 | Producer, Songwriter |
-| | Adrian Bushby | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
 | | Tommaso Colliva | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
-| | Jaycen Joshua | 2 | Producer |
-| | Stevie Nicks | 2 | Lyricist, Songwriter |
-| | Sarah Hudson | 2 | Songwriter |
-| | M-Phazes | 2 | Producer |
-| | David DeVore | 2 | Producer |
+| | Sean Douglas | 2 | Songwriter |
+| | Ricky Reed | 2 | Producer, Songwriter |
+| | Keith Olsen | 2 | Producer |
 | | Caroline Ailin | 2 | Producer, Songwriter |
-| | Clarence Coffee Jr. | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | Stevie Nicks | 2 | Lyricist, Songwriter |
+| | M-Phazes | 2 | Producer |
 | | Ian Kirkpatrick | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Producer, Songwriter |
-| | Michael Hutchence | 1 | Songwriter |
-| | Andrew Watt | 1 | Producer, Songwriter |
-| | Andrew Farriss | 1 | Songwriter |
-| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
-| | Michael Vail Blum | 1 | Producer |
+| | Jussifer | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
+| | David DeVore | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | Jaycen Joshua | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
+| | Clarence Coffee Jr. | 2 | Songwriter |
+| | Emily Warren | 2 | Songwriter |
+| | Sarah Hudson | 2 | Songwriter |
 | | Juan Pablo Negrete Ortiz | 1 | Producer |
-| | Anthony Newley | 1 | Songwriter |
-| | Lorna Blackwood | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
-| | Liam Kevany | 1 | Producer, Songwriter |
-| | Dana Nielsen | 1 | Producer |
+| | Michael Hutchence | 1 | Songwriter |
 | | Bill Ward | 1 | Songwriter |
+| | Julian Bunetta | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Producer, Songwriter |
+| | Dana Nielsen | 1 | Producer |
+| | Stephen Kozmeniuk | 1 | Producer, Songwriter |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| | Ammo | 1 | Songwriter |
+| | Michael Vail Blum | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
+| | Lorna Blackwood | 1 | Producer |
+| | Anthony Newley | 1 | Songwriter |
+| | Andrew Farriss | 1 | Songwriter |
 | | Billy Steinberg | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Producer |
 | | Ruffsound | 1 | Songwriter |
-| | John Cornfield | 1 | Producer |
+| | Jack Samson | 1 | Songwriter |
+| | Mark Linett | 1 | Producer |
 | | TEDDY | 1 | Songwriter |
 | | Jordan Johnson | 1 | Songwriter |
 | | Nate Walcott | 1 | Arranger |
@@ -293,8 +297,8 @@ Appears as:
 | | Fagan Wilcox | 1 | Producer |
 | | Tony Iommi | 1 | Songwriter |
 | | Lewis Merenstein | 1 | Producer |
-| | Jack Samson | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | 1 | Songwriter |
+| | John Cornfield | 1 | Producer |
 | | Chris Holmes | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb713079a55dcf937d241dd2b" alt="" width="50" /> | Timbaland | 1 | Producer |
 | | Chad Smith | 1 | Songwriter |
@@ -308,12 +312,14 @@ Appears as:
 | | Ryan Hewitt | 1 | Producer |
 | | Josh Collins | 1 | Producer |
 | | Vince Watson | 1 | Producer |
-| | Tamir Muskat | 1 | Songwriter |
+| | Andrew Watt | 1 | Producer, Songwriter |
 | | Daniel Johns | 1 | Songwriter |
-| | Leslie Bricusse | 1 | Songwriter |
+| | Rob Eaton | 1 | Producer |
+| | Billboard | 1 | Songwriter |
 | | Earl Burroughs | 1 | Songwriter |
 | | Drew Jurecka | 1 | Arranger, Producer |
 | | Paul LaMalfa | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf76e11a5f3c08955fecea690" alt="" width="50" /> | Teddy Swims | 1 | Songwriter |
 | | Drumma Boy | 1 | Producer |
 | | Flea | 1 | Songwriter |
 | | Jon Bellion | 1 | Producer, Songwriter |
@@ -321,18 +327,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | Herbie Hancock | 1 | Lyricist, Songwriter |
 | | Martin Cooke | 1 | Producer |
 | | Ori Kaplan | 1 | Songwriter |
-| | Rob Eaton | 1 | Producer |
+| | Leslie Bricusse | 1 | Songwriter |
+| | Jason Gill | 1 | Producer, Songwriter |
 | | Blue Sky Black Death | 1 | Songwriter |
-| | Tom Kelly | 1 | Songwriter |
 | | Erik Madrid | 1 | Producer |
 | | Tom Allom | 1 | Producer |
 | | Geezer Butler | 1 | Lyricist, Songwriter |
 | | Jim Tomlinson | 1 | Arranger |
 | | Brian Humphries | 1 | Producer |
-| | Rick Rubin | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | Michael Tayler | 1 | Producer |
-| | The Monsters & Strangerz | 1 | Producer |
 
 </details>
 
@@ -389,7 +391,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Bubblegum (feat. Tyga) | Tattoos (Deluxe Edition) | [Jason Derulo](../../artists/jason_derulo/overview.md), Tyga | [Beluga Heights/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/1EujTZPE2yBYbbwu2vWXvr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d6522bee68370fa5592301d" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | [Jason Derulo](../../artists/jason_derulo/overview.md), Nicki Minaj, Ty Dolla $ign | [Beluga Heights/Warner Records](.) | | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | [Jason Derulo](../../artists/jason_derulo/overview.md), Nicki Minaj, Ty Dolla $ign | [Beluga Heights/Warner Records](.) | | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Cameo Lover | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6mEDMe0zG5pYrsRxizjauk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Good Intent | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/5vLJID1JbJEpYdYLWIGVXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
@@ -424,6 +426,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [Brute/Beaute/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [Brute/Beaute/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="" width="50" /> | Lose Control | Lose Control | Teddy Swims | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb" alt="" width="50" /> | Moondance - 2013 Remaster | Moondance (Deluxe Edition) | Van Morrison | [Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369bb57791f9859f2695391f7" alt="" width="50" /> | Crazy Love - 2013 Remaster | Moondance (Expanded Edition) | Van Morrison | [Warner Records](.) | | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | Flockaveli | Waka Flocka Flame, Roscoe Dash, Wale | [Asylum/Warner Records](.) | 💚 | [🔗](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) |

@@ -19,7 +19,7 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #7 artist of the last month
+- The #9 artist of the last month
 - The #3 artist of the last 6 months
 - The #2 artist of all time
 
@@ -28,13 +28,13 @@ ITZY is currently:
 
 - LOCO is:
     - the #16 track of all time
-- CAKE is:
-    - the #10 track of the last 6 months
 - Kill Shot is:
-    - the #15 track of the last month
-    - the #15 track of the last 6 months
+    - the #18 track of the last month
+    - the #17 track of the last 6 months
+- CAKE is:
+    - the #20 track of the last 6 months
 - Mr. Vampire is:
-    - the #29 track of the last 6 months
+    - the #26 track of the last 6 months
 - BET ON ME is:
     - the #34 track of the last 6 months
 

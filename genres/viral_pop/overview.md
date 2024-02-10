@@ -1,6 +1,6 @@
 # viral pop
 
-120 songs
+116 songs
 
 [See Track Features](audio_features.md)
 
@@ -13,12 +13,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 39 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | 3 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 8 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="" width="50" /> | 2 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 2 | 2 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 2 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 1 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
 
 
@@ -60,7 +60,7 @@
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 33 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -69,25 +69,22 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 2 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | 1 | 1 | Voicenotes | 2018-05-11 | [🔗](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 1 | 1 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="" width="50" /> | 1 | 1 | Nine Track Mind | 2016-01-29 | [🔗](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | 1 | 1 | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 1 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a06f6d9e1b5fee1670cfffc" alt="" width="50" /> | 1 | 1 | IT'S YOU (feat. keshi) | 2022-09-09 | [🔗](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | 1 | 1 | CHARLIE | 2022-10-06 | [🔗](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="" width="50" /> | 1 | 1 | Blueberry Eyes (feat. SUGA of BTS) | 2020-09-15 | [🔗](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655" alt="" width="50" /> | 1 | 1 | Blue Neighbourhood (Deluxe) | 2015-12-04 | [🔗](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | 1 | 0 | The Sound of Silence | 2019-02-15 | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563" alt="" width="50" /> | 1 | 0 | Shawn Mendes (Deluxe) | 2019-06-19 | [🔗](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | 1 | 0 | Shawn Mendes | 2018-05-25 | [🔗](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 1 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b" alt="" width="50" /> | 1 | 0 | Illuminate | 2017-04-20 | [🔗](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb" alt="" width="50" /> | 1 | 0 | Handwritten | 2015-04-14 | [🔗](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="" width="50" /> | 1 | 0 | A Pentatonix Christmas Deluxe | 2017-12-06 | [🔗](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) |
 
@@ -103,7 +100,7 @@
 | 62 | 41 | [Epic](../../labels/epic/overview.md) |
 | 43 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | Artist Partner |
-| 7 | 1 | [Island Records](../../labels/island_records/overview.md) |
+| 3 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 1 | [Syco Music](../../labels/syco_music/overview.md) |
 | 1 | 1 | Sony Music Entertainment |
@@ -254,8 +251,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="Blueberry Eyes (feat. SUGA of BTS)" width="50" /> | Blueberry Eyes (feat. SUGA of BTS) (2020-09-15) | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="PTXmas (Deluxe Edition)" width="50" /> | PTXmas (Deluxe Edition) (2012-11-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="Romance" width="50" /> | Romance (2019-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563" alt="Shawn Mendes (Deluxe)" width="50" /> | Shawn Mendes (Deluxe) (2019-06-19) | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | PTX, Vol. 2 (2013-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Amidst the Chaos (Bonus Version) (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | The Sound of Silence (2019-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> | Is There Anybody Out There? (2014-01-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Amidst the Chaos (Bonus Version) (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | PTX, Vol. 2 (2013-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | The Sound of Silence (2019-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> | Christmas Is Here! (2018-10-19) | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="Is There Anybody Out There?" width="50" /> | Is There Anybody Out There? (2014-01-20) |
 
 ![Bar chart of number of songs by year](../../images/genres/viral_pop/years.png)

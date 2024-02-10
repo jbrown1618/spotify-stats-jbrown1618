@@ -1,7 +1,7 @@
 # 애교！
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="애교！" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b273714e56679ab196354e2e443eab67616d0000b27382f9c612adc8bc8d1d62461a" alt="애교！" width="100" />
 
 [46 tracks (35 liked) 🔗](https://open.spotify.com/playlist/6WTiB2kj3G2g3eYqornNd2)
 

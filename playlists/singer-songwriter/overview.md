@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Singer-Songwriter" width="100" />
 
-[251 tracks (155 liked) 🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR)
+[252 tracks (156 liked) 🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR)
 
 [See Track Features](audio_features.md)
 
@@ -15,9 +15,9 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 39 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 61 | 38 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 23 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 24 | 17 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 8 | 6 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 7 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
@@ -84,7 +84,7 @@
 
 
 <details>
-<summary>See all 89 albums</summary>
+<summary>See all 90 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -123,6 +123,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27332721a41a57bb9e56f46ac82" alt="" width="50" /> | 1 | 1 | Waves | 2020-10-09 | [🔗](https://open.spotify.com/album/4J4lVYyekfRZXTlAukqGw4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | 1 | 1 | Verities & Balderdash | 1974 | [🔗](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | 1 | 1 | Turnstiles | 1976-05-19 | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="" width="50" /> | 1 | 1 | Turn the Lights Back On | 2024-02-01 | [🔗](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="" width="50" /> | 1 | 1 | The Widow Knows E.P. | 2014-08-14 | [🔗](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | 1 | 1 | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | 1 | 1 | The Bridge | 1986-07-28 | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
@@ -180,7 +181,7 @@
 | 63 | 40 | [Epic](../../labels/epic/overview.md) |
 | 32 | 19 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 29 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
-| 25 | 17 | [Columbia](../../labels/columbia/overview.md) |
+| 26 | 18 | [Columbia](../../labels/columbia/overview.md) |
 | 18 | 10 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 9 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
 | 9 | 7 | [Rhino](../../labels/rhino/overview.md) |
@@ -238,12 +239,12 @@
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 75 | 49 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 67 | 45 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 63 | 41 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [viral pop](../../genres/viral_pop/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
-| 36 | 24 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
-| 36 | 23 | [piano rock](../../genres/piano_rock/overview.md) |
+| 37 | 25 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
+| 37 | 24 | [piano rock](../../genres/piano_rock/overview.md) |
 
 
 <details>
@@ -251,12 +252,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 19 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 29 | 18 | [rock](../../genres/rock/overview.md) |
-| 26 | 17 | [soft rock](../../genres/soft_rock/overview.md) |
-| 26 | 17 | [classic rock](../../genres/classic_rock/overview.md) |
-| 24 | 17 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 23 | 16 | [album rock](../../genres/album_rock/overview.md) |
+| 33 | 20 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 30 | 19 | [rock](../../genres/rock/overview.md) |
+| 27 | 18 | [soft rock](../../genres/soft_rock/overview.md) |
+| 27 | 18 | [classic rock](../../genres/classic_rock/overview.md) |
+| 25 | 18 | [heartland rock](../../genres/heartland_rock/overview.md) |
+| 24 | 17 | [album rock](../../genres/album_rock/overview.md) |
 | 19 | 9 | [art pop](../../genres/art_pop/overview.md) |
 | 14 | 9 | folk |
 | 9 | 8 | nz pop |
@@ -333,7 +334,7 @@
 | | Jonathan Low | 7 | Producer |
 | | Kurt Uenala | 6 | Producer |
 | | Neal Avron | 6 | Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd6343e3f93e1bebd2b36bfd4" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
 | | Bryce Dessner | 6 | Arranger |
 | | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
@@ -426,6 +427,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
+| 2024 | 1 |
 | 2023 | 1 |
 | 2022 | 10 |
 | 2021 | 3 |
@@ -471,13 +473,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed0a9305f4fd7521a5eaf58f" alt="i&#x27;m confident that i&#x27;m insecure" width="50" /> | i'm confident that i'm insecure (2023-08-11) | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="Song to a Seagull" width="50" /> | Song to a Seagull (1968-03-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> | Midnights (2022-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="Ladies of the Canyon" width="50" /> | Ladies of the Canyon (1970-03-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e0c865c1524f1bfeea88d87" alt="Always Like New" width="50" /> | Always Like New (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Elton John (1970-04-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="October Sky" width="50" /> | October Sky (2021-06-11) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="Fearless (Taylor&#x27;s Version)" width="50" /> | Fearless (Taylor's Version) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="Blue" width="50" /> | Blue (1971-06-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="evermore" width="50" /> | evermore (2020-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27332721a41a57bb9e56f46ac82" alt="Waves" width="50" /> | Waves (2020-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="Madman Across The Water" width="50" /> | Madman Across The Water (1971-11-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="Honky Chateau" width="50" /> | Honky Chateau (1972-05-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | folklore (2020-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="Don&#x27;t Shoot Me I&#x27;m Only The Piano Player" width="50" /> | Don't Shoot Me I'm Only The Piano Player (1973-01-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="minor" width="50" /> | minor (2020-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> | Goodbye Yellow Brick Road (Remastered) (1973-10-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | Turn the Lights Back On (2024-02-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="Song to a Seagull" width="50" /> | Song to a Seagull (1968-03-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed0a9305f4fd7521a5eaf58f" alt="i&#x27;m confident that i&#x27;m insecure" width="50" /> | i'm confident that i'm insecure (2023-08-11) | <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="Ladies of the Canyon" width="50" /> | Ladies of the Canyon (1970-03-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> | Midnights (2022-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Elton John (1970-04-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e0c865c1524f1bfeea88d87" alt="Always Like New" width="50" /> | Always Like New (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | Tapestry (1971) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="October Sky" width="50" /> | October Sky (2021-06-11) | <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="Blue" width="50" /> | Blue (1971-06-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="Fearless (Taylor&#x27;s Version)" width="50" /> | Fearless (Taylor's Version) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="evermore" width="50" /> | evermore (2020-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="Madman Across The Water" width="50" /> | Madman Across The Water (1971-11-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27332721a41a57bb9e56f46ac82" alt="Waves" width="50" /> | Waves (2020-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="Honky Chateau" width="50" /> | Honky Chateau (1972-05-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="Don&#x27;t Shoot Me I&#x27;m Only The Piano Player" width="50" /> | Don't Shoot Me I'm Only The Piano Player (1973-01-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | folklore (2020-07-24) | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> | Goodbye Yellow Brick Road (Remastered) (1973-10-05) |

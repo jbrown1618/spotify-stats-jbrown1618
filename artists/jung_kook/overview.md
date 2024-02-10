@@ -49,7 +49,7 @@ Jung Kook:
 |:---|:---|---:|:---|
 | | Cirkut | 1 | Lyricist, Producer, Songwriter |
 | | Jon Bellion | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9" alt="" width="50" /> | Latto | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe16c86ca28960a2d9ce52810" alt="" width="50" /> | Latto | 1 | Lyricist, Songwriter |
 | | Theron Thomas | 1 | Lyricist, Songwriter |
 | | WATT | 1 | Lyricist, Producer, Songwriter |
 

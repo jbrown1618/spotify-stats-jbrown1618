@@ -20,7 +20,7 @@ Red Velvet:
 
 ## Artist Rank
 Red Velvet is currently:
-- The #1 artist of the last month
+- The #2 artist of the last month
 - The #1 artist of the last 6 months
 - The #1 artist of all time
 
@@ -38,27 +38,28 @@ Red Velvet is currently:
 - RBB (Really Bad Boy) is:
     - the #44 track of all time
 - One Kiss is:
-    - the #22 track of the last month
+    - the #37 track of the last month
     - the #7 track of the last 6 months
 - Chill Kill is:
-    - the #29 track of the last month
     - the #9 track of the last 6 months
 - Nightmare is:
-    - the #13 track of the last 6 months
+    - the #11 track of the last 6 months
 - Bulldozer is:
     - the #22 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #36 track of the last 6 months
+    - the #35 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #38 track of the last 6 months
+    - the #37 track of the last 6 months
 - Beautiful Christmas is:
-    - the #50 track of the last 6 months
+    - the #47 track of the last 6 months
+- Bad Dracula is:
+    - the #49 track of the last 6 months
 - On A Ride is:
-    - the #1 track of the last month
+    - the #2 track of the last month
 - Milkshake is:
-    - the #18 track of the last month
+    - the #23 track of the last month
 - Would U is:
-    - the #25 track of the last month
+    - the #33 track of the last month
 
 ### Top tracks of all time over time
 
@@ -71,7 +72,7 @@ Red Velvet is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 73 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 22 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 21 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 14 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 12 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 9 | [Chill](../../playlists/chill/overview.md) |
@@ -79,7 +80,7 @@ Red Velvet is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 7 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27382b88b49dd9a1b387cb3f0c6ab67616d0000b27393f60760427ff9cb94a5ba96ab67616d0000b273d2ef237da7f94762997c2083ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 5 | [Classical Samples](../../playlists/classical_samples/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2734897a7925914a3a10ce68c31ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b273bf5f4138ebc9ba3fd6f0cde9ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | 4 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b2733c5bfa54ae5e8312f5e0325aab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 3 | [애교！](../../playlists/애교！/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b273714e56679ab196354e2e443eab67616d0000b27382f9c612adc8bc8d1d62461a" alt="" width="50" /> | 3 | [애교！](../../playlists/애교！/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 3 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 2 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |

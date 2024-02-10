@@ -197,7 +197,7 @@
 |---:|---:|:---|
 | 40 | 0 | west end |
 | 16 | 0 | hollywood |
-| 6 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
+| 5 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | neo soul |
 | 1 | 0 | alternative hip hop |
 

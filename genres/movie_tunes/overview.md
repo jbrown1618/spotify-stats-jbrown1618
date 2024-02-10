@@ -1,6 +1,6 @@
 # movie tunes
 
-53 songs
+52 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 97 artists</summary>
+<summary>See all 94 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -45,7 +45,6 @@
 | | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94de3b464a999a50d4611220" alt="" width="50" /> | 1 | 0 | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734979afe7767788a5f22eb4ce" alt="" width="50" /> | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | 1 | 0 | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
@@ -67,7 +66,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356789be2a63a54149a63feee" alt="" width="50" /> | 1 | 0 | Roger Bart | [🔗](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb583a4cf451be21040cfaa0a4" alt="" width="50" /> | 1 | 0 | Jodi Benson | [🔗](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 1 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | 1 | 0 | Lin-Manuel Miranda | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
 | | 1 | 0 | Heath Lamberts | [🔗](https://open.spotify.com/artist/4YYb7AZfDDAmEHSdNCtQfL) |
 | | 1 | 0 | Pinto Colvig | [🔗](https://open.spotify.com/artist/4X8LTt7CXvrqzfS4G4ONUX) |
 | | 1 | 0 | Chorus - Mulan | [🔗](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA) |
@@ -80,7 +78,6 @@
 | | 1 | 0 | Mice Chorus | [🔗](https://open.spotify.com/artist/3gcnVAcMBdtYbril7EqBz6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dcabf363571181dba3ecf66" alt="" width="50" /> | 1 | 0 | Matthew Wilder | [🔗](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730716ee3afeb1b43476782864" alt="" width="50" /> | 1 | 0 | Bill Lee | [🔗](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 1 | 0 | Original Broadway Cast of Hamilton | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4dc932abd84f977a7bd80d42" alt="" width="50" /> | 1 | 0 | Robby Benson | [🔗](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe68295308bfd008cedf0f2c1" alt="" width="50" /> | 1 | 0 | Jim Cummings | [🔗](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) |
 | | 1 | 0 | Cheryl Freeman | [🔗](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd) |
@@ -138,7 +135,7 @@
 
 
 <details>
-<summary>See all 27 albums</summary>
+<summary>See all 26 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -152,7 +149,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | 1 | 0 | Hamilton (Original Broadway Cast Recording) | 2015-09-25 | [🔗](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379157283898948a867d98344" alt="" width="50" /> | 1 | 0 | Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack) | 1966-12-18 | [🔗](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | 1 | 0 | Disney's Greatest Vol. 3 | 2002-08-20 | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
@@ -163,7 +159,7 @@
 </details>
 
 
-![Bar chart of top 27 albums](../../images/genres/movie_tunes/albums.png)
+![Bar chart of top 26 albums](../../images/genres/movie_tunes/albums.png)
 
 ## Top Record Labels
 
@@ -174,9 +170,8 @@
 | 1 | 0 | WaterTower Music |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 0 | LML Music |
-| 1 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 
-![Bar chart of top 6 record labels](../../images/genres/movie_tunes/labels.png)
+![Bar chart of top 5 record labels](../../images/genres/movie_tunes/labels.png)
 
 ## Years
 
@@ -186,11 +181,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="The Lion King (Original Motion Picture Soundtrack)" width="50" /> | The Lion King (Original Motion Picture Soundtrack) (2019-07-11) | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="Coco (Original Motion Picture Soundtrack)" width="50" /> | Coco (Original Motion Picture Soundtrack) (2017-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> | Beauty and the Beast (1991-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="Moana (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Moana (Original Motion Picture Soundtrack/Deluxe Edition) (2016-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (1994) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | The Lion King (1994-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> | Pocahontas (1995-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="Sleeping Beauty" width="50" /> | Sleeping Beauty (1996-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> | The Journey so Far (2011-08-09) | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) (1996-05-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | Tangled (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="Hercules (Original Motion Picture Soundtrack)" width="50" /> | Hercules (Original Motion Picture Soundtrack) (1997-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | The Lion King (1994-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="Pocahontas" width="50" /> | Pocahontas (1995-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="The Journey so Far" width="50" /> | The Journey so Far (2011-08-09) | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="Sleeping Beauty" width="50" /> | Sleeping Beauty (1996-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | Tangled (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) (1996-05-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="The Princess and the Frog (Original Motion Picture Soundtrack)" width="50" /> | The Princess and the Frog (Original Motion Picture Soundtrack) (2009-11-23) | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | The Jungle Book (1997-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="Songs and Story: Cinderella" width="50" /> | Songs and Story: Cinderella (2009-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="Hercules (Original Motion Picture Soundtrack)" width="50" /> | Hercules (Original Motion Picture Soundtrack) (1997-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/movie_tunes/years.png)

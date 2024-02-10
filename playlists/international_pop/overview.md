@@ -57,7 +57,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | 1 | 1 | Snow | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1c0400b168c47ac55370ebd8" alt="" width="50" /> | 1 | 1 | SB19 | [🔗](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebce9e26a81c4223ed89d69ef7" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b3a5d9f2d2e5841ba57cc49" alt="" width="50" /> | 1 | 1 | Ghali | [🔗](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb18c35599ebcff8786a98867a" alt="" width="50" /> | 1 | 1 | Fabrizio Moro | [🔗](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2bcb72091c46d935e195aa87" alt="" width="50" /> | 1 | 1 | tlinh | [🔗](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc367faa0cbc1af23a289fb1a" alt="" width="50" /> | 1 | 1 | Angèle | [🔗](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) |
@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6571e5be8a756503e186d832" alt="" width="50" /> | 1 | 1 | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | 1 | 1 | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273891062df357b8282c97526b2" alt="" width="50" /> | 1 | 1 | 拾贰 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb707af0ce3f6fa97facf6a82c" alt="" width="50" /> | 1 | 1 | AYLIVA | [🔗](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbed373e94476d6200397bfa7" alt="" width="50" /> | 1 | 1 | AYLIVA | [🔗](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb243f1b8756f0bbd0fcdb7260" alt="" width="50" /> | 1 | 1 | Roméo Elvis | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ac5b726c329cd3cd0ee5a74" alt="" width="50" /> | 1 | 1 | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77e7032af4f4ee21badd8fc7" alt="" width="50" /> | 1 | 1 | Madame Monsieur | [🔗](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5) |
