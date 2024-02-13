@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Billy Joel is currently:
-- The #46 artist of the last 6 months
+- The #47 artist of the last 6 months
 
 ![Rank of Billy Joel over time](../../images/artists/billy_joel/rank_time_series.png)
 ## Featured on Playlists

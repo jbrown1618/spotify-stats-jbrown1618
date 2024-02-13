@@ -142,7 +142,7 @@ Appears as:
 | 3 | 1 | talent show |
 | 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 1 | girl group |
-| 3 | 1 | folk |
+| 3 | 1 | [folk](../../genres/folk/overview.md) |
 | 2 | 1 | [rock](../../genres/rock/overview.md) |
 | 2 | 1 | progressive rock |
 | 2 | 1 | new wave pop |

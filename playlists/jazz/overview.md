@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
 
-[91 tracks (25 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
+[95 tracks (25 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
 
 [See Track Features](audio_features.md)
 
@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 11 | 8 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 12 | 5 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 6 | 3 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
+| <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 7 | 3 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 7 | 2 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 3 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6af5c534d932dd7a5b39816b" alt="" width="50" /> | 2 | 2 | Metropole Orkest | [🔗](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) |
@@ -44,21 +44,21 @@
 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | 5 | 0 | Sophie Milman | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | 3 | 0 | The Dave Brubeck Quartet | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
 | <img src="https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2" alt="" width="50" /> | 3 | 0 | Chet Baker | [🔗](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb32aa7584c305f934dbe0057f" alt="" width="50" /> | 3 | 0 | YUNSEOKCHEOL TRIO | [🔗](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bf8497c46243391e6172771" alt="" width="50" /> | 2 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | 2 | 0 | Natalie Cole | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
 | <img src="https://i.scdn.co/image/822d7cac5aa9649b2c8a0be5da89567f8b80ca56" alt="" width="50" /> | 2 | 0 | Vince Guaraldi Trio | [🔗](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8238a10406dfbd483d13f908" alt="" width="50" /> | 2 | 0 | Thelonious Monk | [🔗](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) |
 | <img src="https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e" alt="" width="50" /> | 2 | 0 | Duke Ellington | [🔗](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb32aa7584c305f934dbe0057f" alt="" width="50" /> | 2 | 0 | YUNSEOKCHEOL TRIO | [🔗](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 2 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
+| <img src="https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58" alt="" width="50" /> | 2 | 0 | Billie Holiday | [🔗](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) |
 | <img src="https://i.scdn.co/image/7e2b6815b5973d47cccbad1d834089231d9b737e" alt="" width="50" /> | 1 | 0 | Miles Davis Quintet | [🔗](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | 1 | 0 | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d8f97058ff993df0f4eb9ee" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | 1 | 0 | Randy Waldman | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 1 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c1b4f6daa33cab6310c0035" alt="" width="50" /> | 1 | 0 | Lianne La Havas | [🔗](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716f61b47a89c749e686ce3a" alt="" width="50" /> | 1 | 0 | dodie | [🔗](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) |
-| <img src="https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58" alt="" width="50" /> | 1 | 0 | Billie Holiday | [🔗](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e" alt="" width="50" /> | 1 | 0 | Stan Getz | [🔗](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) |
 | <img src="https://i.scdn.co/image/e0fcfb2e4dbb9cb9c408ba7fad9bdd3526ef6ed8" alt="" width="50" /> | 1 | 0 | Wes Montgomery | [🔗](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) |
 
@@ -86,7 +86,7 @@
 
 
 <details>
-<summary>See all 53 albums</summary>
+<summary>See all 57 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -109,6 +109,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="" width="50" /> | 1 | 1 | After Hours | 1955-04-12 | [🔗](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | 1 | 0 | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | 1 | 0 | That's Life | 1966-11 | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | 1 | 0 | Strangers In The Night (Expanded Edition) | 1966-05 | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
@@ -117,6 +118,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27302400024139ed6d658f812f9" alt="" width="50" /> | 1 | 0 | SONGBOOK | 2019-12-11 | [🔗](https://open.spotify.com/album/2UwPx0FeKzZKO8c0fQDwg8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="" width="50" /> | 1 | 0 | Relaxin' With The Miles Davis Quintet | 1958 | [🔗](https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
@@ -132,6 +134,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="" width="50" /> | 1 | 0 | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) | 2010-01-01 | [🔗](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | 1 | 0 | Blue Train | 1957-11-01 | [🔗](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c690daf9854f3b9267c9aeb" alt="" width="50" /> | 1 | 0 | A Day In The Life | 1967-01-01 | [🔗](https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5) |
 
 </details>
@@ -146,7 +150,7 @@
 | 8 | 6 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 12 | 5 | [Reprise](../../labels/reprise/overview.md) |
 | 10 | 5 | [143](../../labels/143/overview.md) |
-| 5 | 2 | Verve Reissues |
+| 6 | 2 | Verve Reissues |
 | 5 | 2 | FRANK SINATRA DIGITAL REPRISE |
 | 3 | 2 | Hajanga Records |
 | 2 | 2 | [Geffen](../../labels/geffen/overview.md) |
@@ -156,7 +160,7 @@
 
 
 <details>
-<summary>See all 29 labels</summary>
+<summary>See all 30 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -165,12 +169,12 @@
 | 1 | 1 | Legacy Recordings |
 | 1 | 1 | Grandmono Records |
 | 1 | 1 | Fuzzy Door Productions |
-| 6 | 0 | [Legacy](../../labels/legacy/overview.md) |
-| 6 | 0 | [Columbia](../../labels/columbia/overview.md) |
+| 7 | 0 | [Legacy](../../labels/legacy/overview.md) |
+| 7 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 5 | 0 | Linus Entertainment Inc. |
 | 4 | 0 | Craft Recordings |
 | 3 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
-| 2 | 0 | Blue Note Records |
+| 3 | 0 | Blue Note Records |
 | 1 | 0 | Verve |
 | 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
 | 1 | 0 | Private Curve |
@@ -178,68 +182,70 @@
 | 1 | 0 | Original Jazz Classics |
 | 1 | 0 | Impulse! |
 | 1 | 0 | Evans Music |
+| 1 | 0 | Antenna |
 | 1 | 0 | A&M |
 
 </details>
 
 
-![Bar chart of top 29 record labels](../../images/playlists/jazz/labels.png)
+![Bar chart of top 30 record labels](../../images/playlists/jazz/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 10 | [adult standards](../../genres/adult_standards/overview.md) |
+| 31 | 10 | [adult standards](../../genres/adult_standards/overview.md) |
 | 11 | 8 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
-| 24 | 7 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
+| 27 | 7 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 20 | 7 | [lounge](../../genres/lounge/overview.md) |
-| 12 | 5 | [soul](../../genres/soul/overview.md) |
+| 14 | 5 | [soul](../../genres/soul/overview.md) |
 | 12 | 5 | jazz pop |
 | 12 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 19 | 4 | jazz |
-| 6 | 4 | jazz blues |
-| 9 | 3 | swing |
+| 21 | 4 | jazz |
+| 7 | 4 | jazz blues |
+| 11 | 3 | swing |
 
 
 <details>
-<summary>See all 48 genres</summary>
+<summary>See all 49 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 4 | 3 | torch song |
+| 5 | 3 | torch song |
 | 7 | 2 | easy listening |
 | 2 | 2 | soul blues |
-| 6 | 1 | jazz trumpet |
+| 7 | 1 | jazz trumpet |
+| 7 | 1 | harlem renaissance |
 | 6 | 1 | contemporary vocal jazz |
 | 5 | 1 | jazz piano |
-| 5 | 1 | harlem renaissance |
 | 5 | 1 | contemporary post-bop |
-| 3 | 1 | new orleans jazz |
-| 3 | 1 | dixieland |
+| 4 | 1 | new orleans jazz |
+| 4 | 1 | dixieland |
 | 2 | 1 | jazz fusion |
 | 2 | 1 | jazz funk |
 | 2 | 1 | instrumental funk |
 | 1 | 1 | electro swing |
 | 1 | 1 | dutch pop |
 | 21 | 0 | smooth jazz |
-| 7 | 0 | bebop |
+| 8 | 0 | bebop |
 | 5 | 0 | cool jazz |
 | 4 | 0 | jazz trio |
+| 3 | 0 | korean jazz |
 | 3 | 0 | jazz quartet |
 | 2 | 0 | quiet storm |
-| 2 | 0 | korean jazz |
+| 2 | 0 | jazz saxophone |
 | 2 | 0 | disco |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | samba-jazz |
 | 1 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 0 | latin jazz |
-| 1 | 0 | jazz saxophone |
 | 1 | 0 | jazz guitar |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | hard bop |
+| 1 | 0 | free jazz |
 | 1 | 0 | folk rock |
-| 1 | 0 | folk |
+| 1 | 0 | [folk](../../genres/folk/overview.md) |
 | 1 | 0 | electric blues |
 | 1 | 0 | country rock |
 | 1 | 0 | bossa nova |
@@ -317,13 +323,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | Romance (2021-02-12) | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | Satchmo Serenades (1952-04-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | Djesse Vol. 3 (2020-08-14) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | Romance (2021-02-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | The Great American Songbook (1929) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | Djesse Vol. 3 (2020-08-14) | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | Satchmo Serenades (1952-04-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27302400024139ed6d658f812f9" alt="SONGBOOK" width="50" /> | SONGBOOK (2019-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | Djesse Vol. 2 (2019-07-19) | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | Chet Baker Sings (1956) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | Djesse Vol. 1 (2018-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Solitude (1956-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | love (Deluxe Edition) (2018-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin&#x27; Lovers! (Remastered)" width="50" /> | Songs For Swingin' Lovers! (Remastered) (1956-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="Db in April" width="50" /> | Db in April (2018-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="Relaxin&#x27; With The Miles Davis Quintet" width="50" /> | Relaxin' With The Miles Davis Quintet (1958) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | In My Room (2016-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="Time Out" width="50" /> | Time Out (1959-12-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a28007a6d7aab5778c003d2c" alt="Merrily Music" width="50" /> | Merrily Music (2014-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | At Last! (1960) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="A Charlie Brown Christmas [2012 Remastered &amp; Expanded Edition]" width="50" /> | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="Time Further Out" width="50" /> | Time Further Out (1961) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="Db in April" width="50" /> | Db in April (2018-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | Billie Holiday (1957-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="Blue Train" width="50" /> | Blue Train (1957-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | In My Room (2016-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="Relaxin&#x27; With The Miles Davis Quintet" width="50" /> | Relaxin' With The Miles Davis Quintet (1958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a28007a6d7aab5778c003d2c" alt="Merrily Music" width="50" /> | Merrily Music (2014-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |

@@ -78,7 +78,7 @@
 | 2 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | VÉRITÉ |
 | 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 1 | 0 | EMI |
+| 1 | 0 | [EMI](../../labels/emi/overview.md) |
 | 1 | 0 | Astralwerks (ASW) |
 
 ![Bar chart of top 10 record labels](../../images/genres/electropop/labels.png)

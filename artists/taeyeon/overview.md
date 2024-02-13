@@ -18,22 +18,23 @@ TAEYEON:
 ## Artist Rank
 TAEYEON is currently:
 - The #4 artist of the last month
-- The #5 artist of the last 6 months
+- The #4 artist of the last 6 months
 - The #9 artist of all time
 
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
-- I Got Love is:
-    - the #23 track of the last 6 months
-- To. X is:
-    - the #24 track of the last 6 months
-- Rain is:
-    - the #10 track of the last month
-- What Do I Call You is:
+- Burn It Down is:
     - the #16 track of the last month
-- Priority is:
-    - the #28 track of the last month
+    - the #22 track of the last 6 months
+- I Got Love is:
+    - the #26 track of the last 6 months
+- To. X is:
+    - the #27 track of the last 6 months
+- Rain is:
+    - the #5 track of the last month
+- What Do I Call You is:
+    - the #30 track of the last month
 
 ### Top tracks of the last 6 months over time
 

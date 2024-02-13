@@ -38,7 +38,7 @@ Simon & Garfunkel:
 ## Genres
 
 - [classic rock](../../genres/classic_rock/overview.md)
-- folk
+- [folk](../../genres/folk/overview.md)
 - folk rock
 - melancholia
 - [mellow gold](../../genres/mellow_gold/overview.md)

@@ -186,7 +186,7 @@
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | Radiculture |
 | 1 | 1 | Parlophone Records Limited |
-| 1 | 1 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
+| 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
 | 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -260,7 +260,7 @@
 | 2 | 2 | contemporary country |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 4 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
-| 3 | 1 | folk |
+| 3 | 1 | [folk](../../genres/folk/overview.md) |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 2 | 1 | [rap](../../genres/rap/overview.md) |

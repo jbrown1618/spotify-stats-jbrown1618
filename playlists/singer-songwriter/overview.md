@@ -213,7 +213,7 @@
 | 1 | 1 | Concord Records |
 | 1 | 1 | Beautiful Mind |
 | 1 | 1 | Atlantic Records UK |
-| 4 | 0 | EMI |
+| 4 | 0 | [EMI](../../labels/emi/overview.md) |
 | 2 | 0 | Ode |
 | 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | Work |
@@ -259,7 +259,7 @@
 | 25 | 18 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 24 | 17 | [album rock](../../genres/album_rock/overview.md) |
 | 19 | 9 | [art pop](../../genres/art_pop/overview.md) |
-| 14 | 9 | folk |
+| 14 | 9 | [folk](../../genres/folk/overview.md) |
 | 9 | 8 | nz pop |
 | 9 | 8 | [electropop](../../genres/electropop/overview.md) |
 | 9 | 8 | bergen indie |
@@ -270,7 +270,7 @@
 | 5 | 4 | indie pop |
 | 5 | 3 | deep indie singer-songwriter |
 | 9 | 2 | nyc pop |
-| 6 | 2 | glam rock |
+| 6 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 2 | 1 | pop soul |

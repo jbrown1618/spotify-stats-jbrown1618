@@ -20,14 +20,15 @@ Pentatonix:
 
 ## Artist Rank
 Pentatonix is currently:
-- The #22 artist of the last 6 months
+- The #17 artist of the last month
+- The #21 artist of the last 6 months
 - The #33 artist of all time
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
 ## Top Tracks
 
 - Problem (Ariana Grande Cover) is:
-    - the #20 track of the last month
+    - the #35 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

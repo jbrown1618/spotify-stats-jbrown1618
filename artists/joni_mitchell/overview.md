@@ -30,7 +30,7 @@
 ## Genres
 
 - canadian singer-songwriter
-- folk
+- [folk](../../genres/folk/overview.md)
 - folk rock
 - [singer-songwriter](../../genres/singer-songwriter/overview.md)
 

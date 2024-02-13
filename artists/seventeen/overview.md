@@ -34,7 +34,7 @@ SEVENTEEN is currently:
 ## Top Tracks
 
 - Left & Right is:
-    - the #9 track of all time
+    - the #10 track of all time
 - HOME;RUN is:
     - the #41 track of all time
 

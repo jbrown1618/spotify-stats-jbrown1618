@@ -31,7 +31,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 1 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -192,7 +192,7 @@
 | 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 1 | Parlophone Records Limited |
 | 1 | 1 | Parkwood Entertainment |
-| 1 | 1 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
+| 1 | 1 | Monkey Puzzle Records |
 | 1 | 1 | Mercury Records |
 | 1 | 1 | [Jive](../../labels/jive/overview.md) |
 | 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 86 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -253,13 +253,13 @@
 | 3 | 3 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 3 | 3 | australian pop |
 | 4 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
-| 4 | 2 | glam rock |
+| 4 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | pov: indie |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |
-| 2 | 2 | folk |
+| 2 | 2 | [folk](../../genres/folk/overview.md) |
 | 2 | 2 | atl hip hop |
 | 2 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
@@ -270,6 +270,7 @@
 | 1 | 1 | talent show |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
+| 1 | 1 | seattle indie |
 | 1 | 1 | quiet storm |
 | 1 | 1 | punk |
 | 1 | 1 | progressive bluegrass |
@@ -302,7 +303,7 @@
 | 1 | 1 | baroque pop |
 | 1 | 1 | barbadian pop |
 | 1 | 1 | australian dance |
-| 1 | 1 | art rock |
+| 1 | 1 | [art rock](../../genres/art_rock/overview.md) |
 | 1 | 1 | alternative r&b |
 | 1 | 1 | alternative metal |
 | 1 | 1 | afrofuturism |

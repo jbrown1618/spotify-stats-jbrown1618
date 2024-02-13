@@ -63,7 +63,7 @@ Appears as:
 | 5 | 4 | [rock](../../genres/rock/overview.md) |
 | 3 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
 | 3 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 3 | 2 | glam rock |
+| 3 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | [british invasion](../../genres/british_invasion/overview.md) |
 | 1 | 1 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |

@@ -18,6 +18,8 @@ OH MY GIRL:
 - has the subgroup OH MY GIRL BANHANA
 
 ## Artist Rank
+OH MY GIRL is currently:
+- The #49 artist of all time
 
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
 ## Top Tracks

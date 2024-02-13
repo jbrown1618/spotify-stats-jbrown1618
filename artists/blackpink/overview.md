@@ -18,7 +18,8 @@ BLACKPINK:
 
 ## Artist Rank
 BLACKPINK is currently:
-- The #15 artist of the last 6 months
+- The #20 artist of the last month
+- The #13 artist of the last 6 months
 - The #8 artist of all time
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
@@ -28,13 +29,16 @@ BLACKPINK is currently:
     - the #6 track of all time
 - Crazy Over You is:
     - the #8 track of all time
-- Pretty Savage is:
-    - the #12 track of all time
 - How You Like That is:
-    - the #15 track of all time
+    - the #18 track of the last month
+    - the #9 track of all time
+- Pretty Savage is:
+    - the #13 track of all time
 - DDU-DU DDU-DU is:
-    - the #32 track of the last 6 months
-    - the #35 track of all time
+    - the #38 track of the last 6 months
+    - the #36 track of all time
+- WHISTLE is:
+    - the #46 track of all time
 
 ### Top tracks of all time over time
 

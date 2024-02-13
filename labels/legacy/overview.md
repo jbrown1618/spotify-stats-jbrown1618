@@ -114,7 +114,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 1 | folk |
+| 3 | 1 | [folk](../../genres/folk/overview.md) |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 1 | progressive rock |
 | 7 | 0 | jazz |

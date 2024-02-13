@@ -1,6 +1,6 @@
 # vocal jazz
 
-41 songs
+40 songs
 
 [See Track Features](audio_features.md)
 
@@ -12,7 +12,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 7 | 3 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
-| <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 6 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
+| <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 5 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb446b2d505542a9424dfdfb16" alt="" width="50" /> | 2 | 2 | Leslie Odom Jr. | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 2 | 2 | Original Broadway Cast of Hamilton | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bf8497c46243391e6172771" alt="" width="50" /> | 5 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
@@ -71,7 +71,7 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 31 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -92,7 +92,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 1 | 0 | I Never Loved a Man the Way I Love You | 1967-03-10 | [🔗](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c" alt="" width="50" /> | 1 | 0 | Getz/Gilberto (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | 1 | 0 | Ella Wishes You A Swinging Christmas (Expanded Edition) | 1960-01-01 | [🔗](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3207aaf4dc5cad05fd14583" alt="" width="50" /> | 1 | 0 | Ella Sings Gershwin | 1950-09-11 | [🔗](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="" width="50" /> | 1 | 0 | Duke Ellington & John Coltrane | 1963-02 | [🔗](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="" width="50" /> | 1 | 0 | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) | 2010-01-01 | [🔗](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | 1 | 0 | Blue Train | 1957-11-01 | [🔗](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) |
@@ -108,7 +107,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
-| 9 | 2 | Verve Reissues |
+| 8 | 2 | Verve Reissues |
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 1 | Legacy Recordings |
@@ -181,14 +180,14 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | Romance (2021-02-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | The Great American Songbook (1929) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b273f3207aaf4dc5cad05fd14583" alt="Ella Sings Gershwin" width="50" /> | Ella Sings Gershwin (1950-09-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999" alt="The Essential Eartha Kitt" width="50" /> | The Essential Eartha Kitt (2011-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | Satchmo Serenades (1952-04-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)" width="50" /> | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (1954-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="Take Love Easy" width="50" /> | Take Love Easy (2009-05-05) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="Breakfast on the Morning Tram" width="50" /> | Breakfast on the Morning Tram (2007-09-03) | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | Chet Baker Sings (1956) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Love, Ella (2007-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Solitude (1956-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="Make Someone Happy" width="50" /> | Make Someone Happy (2007-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | Billie Holiday (1957-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="Sophie Milman" width="50" /> | Sophie Milman (2004-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="Blue Train" width="50" /> | Blue Train (1957-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | The Complete Ella And Louis On Verve (1997-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="Milestones" width="50" /> | Milestones (1958-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | Satchmo Serenades (1952-04-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999" alt="The Essential Eartha Kitt" width="50" /> | The Essential Eartha Kitt (2011-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (1954-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)" width="50" /> | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="Take Love Easy" width="50" /> | Take Love Easy (2009-05-05) | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | Chet Baker Sings (1956) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="Breakfast on the Morning Tram" width="50" /> | Breakfast on the Morning Tram (2007-09-03) | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Solitude (1956-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Love, Ella (2007-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | Billie Holiday (1957-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="Make Someone Happy" width="50" /> | Make Someone Happy (2007-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="Blue Train" width="50" /> | Blue Train (1957-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="Sophie Milman" width="50" /> | Sophie Milman (2004-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="Milestones" width="50" /> | Milestones (1958-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | The Complete Ella And Louis On Verve (1997-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="A Winter Romance" width="50" /> | A Winter Romance (1959-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/vocal_jazz/years.png)

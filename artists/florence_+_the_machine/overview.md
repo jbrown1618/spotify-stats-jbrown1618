@@ -45,7 +45,7 @@ Florence + The Machine:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
-| 1 | 0 | EMI |
+| 1 | 0 | [EMI](../../labels/emi/overview.md) |
 
 ## Genres
 
@@ -169,7 +169,7 @@ Florence + The Machine:
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/3o9qzsqkT0mvfxcusUaXsN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 💚 | [🔗](https://open.spotify.com/track/7GlwvJ8iAbCEfZjGq3iwmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | What Kind Of Man | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | | [🔗](https://open.spotify.com/track/2ZE1EiHnmtdiv9KAJTGeRq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](overview.md) | EMI | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](overview.md) | [EMI](../../labels/emi) | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
 
 </details>
 

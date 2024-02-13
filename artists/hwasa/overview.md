@@ -15,7 +15,7 @@ HWASA:
 
 ## Artist Rank
 HWASA is currently:
-- The #37 artist of the last 6 months
+- The #38 artist of the last 6 months
 
 ![Rank of HWASA over time](../../images/artists/hwasa/rank_time_series.png)
 ## Top Tracks

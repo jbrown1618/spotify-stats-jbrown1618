@@ -2,7 +2,7 @@
 # Jason Derulo
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="Jason Derulo" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="Jason Derulo" width="100" />
 
 ## Artist Rank
 
@@ -64,7 +64,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2ca27dcc7f92e9576126bb18" alt="" width="50" /> | [Jason Derulo](overview.md) | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](overview.md) | 3 | Songwriter |
 | | Sean Douglas | 2 | Songwriter |
 | | Jason Evigan | 2 | Songwriter |
 | | Ricky Reed | 2 | Producer, Songwriter |

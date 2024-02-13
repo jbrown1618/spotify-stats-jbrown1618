@@ -79,7 +79,7 @@
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 1 | Island Def Jam |
 | 1 | 1 | [Epic](../../labels/epic/overview.md) |
-| 3 | 0 | EMI |
+| 3 | 0 | [EMI](../../labels/emi/overview.md) |
 | 1 | 0 | Work |
 | 1 | 0 | RCA Victor |
 

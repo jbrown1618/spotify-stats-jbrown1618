@@ -22,6 +22,8 @@ WJSN:
 - has member 유연정 (Yoo, Yeon-jung)
 
 ## Artist Rank
+WJSN is currently:
+- The #28 artist of the last month
 
 
 ## Featured on Playlists

@@ -9,12 +9,16 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
+BIBI is currently:
+- The #38 artist of the last month
 
 ![Rank of BIBI over time](../../images/artists/bibi/rank_time_series.png)
 ## Top Tracks
 
 - Animal Farm is:
-    - the #40 track of the last 6 months
+    - the #29 track of the last 6 months
+- KAZINO is:
+    - the #24 track of the last month
 
 ### Top tracks of the last 6 months over time
 

@@ -4,14 +4,14 @@
 
 ## Cluster #1
 
-20 tracks
+19 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | I'll Be Seeing You | Billie Holiday | Billie Holiday | Verve Reissues | | [🔗](https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3207aaf4dc5cad05fd14583" alt="" width="50" /> | I've Got A Crush On You | Ella Sings Gershwin | Ella Fitzgerald | Verve Reissues | | [🔗](https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | Dream A Little Dream Of Me | Ella: The Legendary Decca Recordings | Ella Fitzgerald, Louis Armstrong | Verve Reissues | 💚 | [🔗](https://open.spotify.com/track/0KBvapFwuz8gPKu6Gw23WN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="" width="50" /> | Dream A Little Dream Of Me - Single Version | Love, Ella | Ella Fitzgerald, Louis Armstrong | Verve Reissues | 💚 | [🔗](https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | La vie en rose - Single Version | Satchmo Serenades | Louis Armstrong | Verve | | [🔗](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | What A Wonderful World | What A Wonderful World | Louis Armstrong | [GRP](../../../../labels/grp) | 💚 | [🔗](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | It's Time | [Michael Bublé](../../../../artists/michael_bublé/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 💚 | [🔗](https://open.spotify.com/track/3ISaSNZCxIzTGwQuBq6Xrr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | The Christmas Song | Christmas (Deluxe Special Edition) | [Michael Bublé](../../../../artists/michael_bublé/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | | [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) |

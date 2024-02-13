@@ -23,18 +23,19 @@ Stray Kids:
 
 ## Artist Rank
 Stray Kids is currently:
-- The #7 artist of the last month
-- The #7 artist of the last 6 months
+- The #10 artist of the last month
+- The #6 artist of the last 6 months
 - The #7 artist of all time
 
 ![Rank of Stray Kids over time](../../images/artists/stray_kids/rank_time_series.png)
 ## Top Tracks
 
 - Thunderous is:
-    - the #37 track of all time
+    - the #19 track of the last month
+    - the #27 track of all time
 - MEGAVERSE is:
-    - the #6 track of the last month
-    - the #21 track of the last 6 months
+    - the #13 track of the last month
+    - the #24 track of the last 6 months
 
 ### Top tracks of all time over time
 

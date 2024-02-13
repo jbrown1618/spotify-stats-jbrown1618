@@ -10,8 +10,6 @@ YENA:
 - is a member of IZ*ONE
 
 ## Artist Rank
-YENA is currently:
-- The #27 artist of the last month
 
 ![Rank of YENA over time](../../images/artists/yena/rank_time_series.png)
 ## Featured on Playlists

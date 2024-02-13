@@ -118,7 +118,7 @@ Appears as:
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | new wave pop |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 1 | 0 | folk |
+| 1 | 0 | [folk](../../genres/folk/overview.md) |
 | 1 | 0 | electric blues |
 | 1 | 0 | country rock |
 | 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |

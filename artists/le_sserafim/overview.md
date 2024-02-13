@@ -20,15 +20,18 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #25 artist of the last month
-- The #13 artist of the last 6 months
+- The #9 artist of the last month
+- The #15 artist of the last 6 months
 - The #21 artist of all time
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
+- UNFORGIVEN (feat. Nile Rodgers) is:
+    - the #39 track of the last month
+    - the #20 track of the last 6 months
 - Sour Grapes is:
-    - the #26 track of the last month
+    - the #48 track of the last month
 
 ### Top tracks of the last 6 months over time
 

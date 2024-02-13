@@ -324,7 +324,7 @@
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | ESTIMATE |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
-| 1 | 1 | EMI |
+| 1 | 1 | [EMI](../../labels/emi/overview.md) |
 | 1 | 1 | Donuts Music N |
 | 1 | 1 | DCTOM |
 | 1 | 1 | Colour Vision Records |

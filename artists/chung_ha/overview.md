@@ -15,7 +15,8 @@ CHUNG HA:
 
 ## Artist Rank
 CHUNG HA is currently:
-- The #33 artist of the last 6 months
+- The #24 artist of the last month
+- The #30 artist of the last 6 months
 - The #16 artist of all time
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
@@ -23,8 +24,6 @@ CHUNG HA is currently:
 
 - Gotta Go is:
     - the #7 track of all time
-- Bicycle is:
-    - the #29 track of the last month
 
 ### Top tracks of all time over time
 

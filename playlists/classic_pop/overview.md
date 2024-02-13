@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27306ce0d1f846c525e847d60e7ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[59 tracks (32 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
+[59 tracks (31 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
 
 [See Track Features](audio_features.md)
 
@@ -19,9 +19,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 2 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 3 | 2 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec212a39ffa4182a0fff4e3c" alt="" width="50" /> | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 3 | 1 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
+| <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 3 | 1 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bf8497c46243391e6172771" alt="" width="50" /> | 2 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 
 
@@ -67,9 +67,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | 1 | 1 | Wednesday Morning, 3 A.M. | 1964-10-19 | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | 1 | 1 | Verities & Balderdash | 1974 | [🔗](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="" width="50" /> | 1 | 1 | Third Album | 1970-09-08 | [🔗](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | 1 | 1 | The Very Best of Frankie Valli & The 4 Seasons | 2003-01-14 | [🔗](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | 1 | 1 | The Temptations Sing Smokey | 1965-03-22 | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 
 
 <details>
@@ -77,7 +77,6 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c129b7e46bb0d8b054dae51f" alt="" width="50" /> | 1 | 1 | Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition) | 1977-11-15 | [🔗](https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7) |
@@ -97,6 +96,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | 2000-01-01 | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 1 | 0 | Wimoweh!!! - The Best Of The Tokens | 1994-08-29 | [🔗](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="" width="50" /> | 1 | 0 | Unforgettable | 1954-01-01 | [🔗](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="" width="50" /> | 1 | 0 | Third Album | 1970-09-08 | [🔗](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355ef4cc7e56a02c68c3abc0f" alt="" width="50" /> | 1 | 0 | The Very Best Of "The Archies" | 2007-11-07 | [🔗](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="" width="50" /> | 1 | 0 | The Ultimate Bee Gees | 2009-11-03 | [🔗](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a075160177aa7b7508c4fc9e" alt="" width="50" /> | 1 | 0 | The Foundations | 1968-01-01 | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
@@ -128,9 +128,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 13 | 7 | [MOTOWN](../../labels/motown/overview.md) |
+| 13 | 6 | [MOTOWN](../../labels/motown/overview.md) |
 | 10 | 6 | [Epic](../../labels/epic/overview.md) |
-| 8 | 6 | [UNI](../../labels/uni/overview.md) |
+| 8 | 5 | [UNI](../../labels/uni/overview.md) |
 | 6 | 5 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
@@ -153,7 +153,7 @@
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Elektra |
 | 1 | 1 | A&M |
-| 3 | 0 | EMI |
+| 3 | 0 | [EMI](../../labels/emi/overview.md) |
 | 1 | 0 | Ron Dante |
 | 1 | 0 | Rhino Atlantic |
 | 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
@@ -171,14 +171,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 24 | 13 | [soul](../../genres/soul/overview.md) |
+| 24 | 12 | [soul](../../genres/soul/overview.md) |
 | 17 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 16 | 8 | [rock](../../genres/rock/overview.md) |
 | 11 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
-| 13 | 7 | motown |
+| 13 | 6 | motown |
 | 9 | 6 | folk rock |
 | 9 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
-| 8 | 6 | folk |
+| 8 | 6 | [folk](../../genres/folk/overview.md) |
 | 8 | 5 | [r&b](../../genres/r_b/overview.md) |
 | 5 | 5 | melancholia |
 
@@ -191,7 +191,7 @@
 | 4 | 3 | new wave pop |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
 | 6 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
-| 6 | 2 | glam rock |
+| 6 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
 | 4 | 2 | [pop](../../genres/pop/overview.md) |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 2 | [lounge](../../genres/lounge/overview.md) |

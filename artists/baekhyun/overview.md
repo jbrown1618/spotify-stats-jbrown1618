@@ -15,12 +15,16 @@ BAEKHYUN:
 - is a member of SuperM
 
 ## Artist Rank
+BAEKHYUN is currently:
+- The #26 artist of the last month
+- The #45 artist of the last 6 months
+- The #48 artist of all time
 
 ![Rank of BAEKHYUN over time](../../images/artists/baekhyun/rank_time_series.png)
 ## Top Tracks
 
 - Amusement Park is:
-    - the #29 track of all time
+    - the #31 track of all time
 - Dream is:
     - the #42 track of all time
 

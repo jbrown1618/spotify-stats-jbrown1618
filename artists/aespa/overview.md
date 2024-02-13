@@ -26,40 +26,40 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #45 track of the last month
-    - the #30 track of the last 6 months
+    - the #35 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
     - the #5 track of all time
 - Illusion is:
-    - the #12 track of the last 6 months
-    - the #24 track of all time
+    - the #13 track of the last 6 months
+    - the #25 track of all time
 - Black Mamba is:
-    - the #26 track of all time
+    - the #28 track of all time
 - Drama is:
-    - the #30 track of the last month
+    - the #1 track of the last month
     - the #1 track of the last 6 months
 - Better Things is:
     - the #2 track of the last 6 months
 - Trick or Trick is:
     - the #3 track of the last 6 months
 - Hot Air Balloon is:
-    - the #7 track of the last month
-    - the #8 track of the last 6 months
+    - the #6 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #10 track of the last 6 months
+    - the #11 track of the last 6 months
 - Welcome To MY World (feat. nævis) is:
-    - the #16 track of the last 6 months
+    - the #17 track of the last 6 months
 - Don't Blink is:
-    - the #25 track of the last 6 months
+    - the #28 track of the last 6 months
 - Hold On Tight is:
-    - the #29 track of the last 6 months
-- YOLO is:
     - the #33 track of the last 6 months
+- YOLO is:
+    - the #37 track of the last 6 months
 - Beautiful Christmas is:
-    - the #47 track of the last 6 months
+    - the #50 track of the last 6 months
 - Regret of the Times - 2024 aespa Remake Version is:
-    - the #41 track of the last month
+    - the #15 track of the last month
+- I'll Make You Cry is:
+    - the #46 track of the last month
 
 ### Top tracks of all time over time
 
@@ -79,6 +79,7 @@ aespa is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b273714e56679ab196354e2e443eab67616d0000b27382f9c612adc8bc8d1d62461a" alt="" width="50" /> | 3 | [애교！](../../playlists/애교！/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2735a7602f0e508660b2ba40f8cab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b273c8b444df094279e70d0ed856ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |

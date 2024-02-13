@@ -4,14 +4,14 @@
 
 ## Cluster #1
 
-41 tracks
+44 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Passion Walk | Freedom At Midnight | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/4tSRlUqyaYYVGbPgw7PyY1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Along Love's Highway | Inner Motion | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/6QfdOlWT7J1b8y2EBLkV8M) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Every Corner Of The World | Inner Motion | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/5D0zQeSFi6qfukLstHCf9I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | [Capitol Records](../../../../labels/capitol_records) | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | That's Life | That's Life | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | FRANK SINATRA DIGITAL REPRISE | | [🔗](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b75d57d2d070c0c4afb3f9a" alt="" width="50" /> | Watermelon Man | Head Hunters | Herbie Hancock | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | All Night Long (feat. Take 6) | Djesse Vol. 1 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley, Take 6 | [Decca (UMO)](../../../../labels/decca_(umo)) | 💚 | [🔗](https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](../../../../artists/michael_bublé/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
@@ -36,11 +36,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="" width="50" /> | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | Parlophone (France) | 💚 | [🔗](https://open.spotify.com/track/0mcs5XA4bwgCVYLUxvJ9sg) |
 ## Cluster #3
 
-12 tracks
+13 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | The Last Goodbye | Freedom At Midnight | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/3iSet2m5A4p3G7T2j8wbdH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 6-String Poet | Inner Motion | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/2vp4iFA59viHbdNLCbQKtz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | A Last Request | Inner Motion | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/1eco6KISLwiyHzicppwSQF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Deep Light | Inner Motion | David Benoit | [GRP](../../../../labels/grp) | | [🔗](https://open.spotify.com/track/4R3559LWLe3tuekjH1My0s) |
@@ -50,3 +49,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="" width="50" /> | Skating | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] | Vince Guaraldi Trio | Craft Recordings | | [🔗](https://open.spotify.com/track/4Gu4Z1RQ68h8fQnSDQxfKr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a28007a6d7aab5778c003d2c" alt="" width="50" /> | Merrily Music | Merrily Music | YUNSEOKCHEOL TRIO | Evans Music | | [🔗](https://open.spotify.com/track/6pRNRlI9z4fHI4CQfYHsWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="" width="50" /> | Fake Monologue | Db in April | YUNSEOKCHEOL TRIO | Private Curve | | [🔗](https://open.spotify.com/track/1zSrNhQxRvn6Bjl6yzwPR6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27302400024139ed6d658f812f9" alt="" width="50" /> | Conversation Between Two | SONGBOOK | YUNSEOKCHEOL TRIO | Antenna | | [🔗](https://open.spotify.com/track/2RvAcBoIV7f2BHKWNNBt3k) |

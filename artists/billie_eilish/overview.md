@@ -10,14 +10,15 @@
 
 ## Artist Rank
 Billie Eilish is currently:
-- The #32 artist of the last 6 months
-- The #43 artist of all time
+- The #40 artist of the last month
+- The #29 artist of the last 6 months
+- The #44 artist of all time
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
 ## Top Tracks
 
 - No Time To Die is:
-    - the #3 track of the last month
+    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

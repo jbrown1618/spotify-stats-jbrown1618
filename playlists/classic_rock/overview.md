@@ -201,7 +201,7 @@
 | 31 | 22 | merseybeat |
 | 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |
 | 26 | 13 | [soft rock](../../genres/soft_rock/overview.md) |
-| 16 | 12 | glam rock |
+| 16 | 12 | [glam rock](../../genres/glam_rock/overview.md) |
 | 17 | 11 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
@@ -215,10 +215,10 @@
 | 9 | 4 | yacht rock |
 | 6 | 4 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 5 | 4 | glam metal |
-| 13 | 3 | art rock |
+| 13 | 3 | [art rock](../../genres/art_rock/overview.md) |
 | 12 | 3 | symphonic rock |
 | 5 | 3 | folk rock |
-| 3 | 2 | folk |
+| 3 | 2 | [folk](../../genres/folk/overview.md) |
 | 4 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 1 | metal |
 | 4 | 1 | blues rock |

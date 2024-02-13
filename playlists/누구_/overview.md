@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2731f5de98907a7f969ea7c28dbab67616d0000b273992cdb975f91efd91b998628ab67616d0000b273addef7fad07f17acdf7d6b98ab67616d0000b273e827c21f833661043f8dd588" alt="누구?" width="100" />
 
-[53 tracks (31 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
+[53 tracks (30 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
 
 [See Track Features](audio_features.md)
 
@@ -36,7 +36,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44b64d2be79b29d37afc16c4" alt="" width="50" /> | 1 | 1 | tripleS | [🔗](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="" width="50" /> | 1 | 1 | LADIES' CODE | [🔗](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3efc9370be86846bbac90487" alt="" width="50" /> | 1 | 1 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273901cc407ae13ee0006324bee" alt="" width="50" /> | 1 | 1 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9409322bc70bd56bc4f0950" alt="" width="50" /> | 1 | 1 | TAN | [🔗](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | 1 | 1 | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb72d24d422e132cf06497630f" alt="" width="50" /> | 1 | 1 | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
@@ -48,6 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba123a8867dccb4d414e7d2f9" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27605f3330d7fea5d8670749" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb568d2846f8b9c8267da1e34d" alt="" width="50" /> | 1 | 0 | KIM WOO SEOK | [🔗](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273901cc407ae13ee0006324bee" alt="" width="50" /> | 1 | 0 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | 1 | 0 | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5589628948575bfe10b4cbbd" alt="" width="50" /> | 1 | 0 | JUST B | [🔗](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55083bec4696aa1fb3a146e8" alt="" width="50" /> | 1 | 0 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
@@ -75,8 +75,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="" width="50" /> | 1 | 1 | WIN-DOW | 2022-07-20 | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="" width="50" /> | 1 | 1 | Target: ME | 2023-09-19 | [🔗](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="" width="50" /> | 1 | 1 | REBORN | 2022-06-15 | [🔗](https://open.spotify.com/album/6kp9dsLnll5WEiBlBUwBME) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | 1 | 1 | REBEL | 2022-04-28 | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="" width="50" /> | 1 | 1 | Play Game : Holiday | 2021-08-04 | [🔗](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="" width="50" /> | 1 | 1 | Macarena | 2023-04-24 | [🔗](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) |
 
 
 <details>
@@ -84,7 +84,6 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="" width="50" /> | 1 | 1 | Macarena | 2023-04-24 | [🔗](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="" width="50" /> | 1 | 1 | MYST3RY | 2016-02-24 | [🔗](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | 1 | 1 | LUPIN | 2020-03-15 | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="" width="50" /> | 1 | 1 | LIMITED EDITION ‘1TAN’ | 2022-03-10 | [🔗](https://open.spotify.com/album/6037tvwFU3cqeiglPyBoMG) |
@@ -111,6 +110,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | 1 | 0 | TAKE A CHANCE | 2022-10-04 | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | 1 | 0 | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="" width="50" /> | 1 | 0 | Re-Original | 2022-05-25 | [🔗](https://open.spotify.com/album/4vb8wQPnaNgnmUrrmnISOU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | 1 | 0 | REBEL | 2022-04-28 | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | 1 | 0 | Liminality - EP.LOVE | 2022-11-14 | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | 1 | 0 | LEVIOSA | 2022-08-09 | [🔗](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="" width="50" /> | 1 | 0 | Joker is Alive | 2015-04-15 | [🔗](https://open.spotify.com/album/4vxOwoqNxefHAdZLWVrbmL) |
@@ -155,7 +155,6 @@
 | 2 | 1 | PLAY M ENTERTAINMENT CORP. |
 | 1 | 1 | 폴라리스엔터테인먼트 |
 | 1 | 1 | 액셀러즈 |
-| 1 | 1 | 브레이브 엔터테인먼트 |
 | 1 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | 1 | Think Ent. |
 | 1 | 1 | S2 ENTERTAINMENT INC. |
@@ -169,6 +168,7 @@
 | 2 | 0 | JELLYFISH ENTERTAINMENT |
 | 1 | 0 | 해피페이스 엔터테인먼트 |
 | 1 | 0 | 블루닷엔터테인먼트 |
+| 1 | 0 | 브레이브 엔터테인먼트 |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | TOP MEDIA |
 | 1 | 0 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
@@ -186,8 +186,8 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 21 | 14 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 19 | 12 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 25 | 11 | [k-pop](../../genres/k-pop/overview.md) |
+| 19 | 11 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 25 | 10 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | otacore |
 | 1 | 0 | [k-rap](../../genres/k-rap/overview.md) |
 

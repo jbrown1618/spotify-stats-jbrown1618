@@ -248,7 +248,7 @@
 | 2 | 0 | Verve Reissues |
 | 2 | 0 | [UNI](../../labels/uni/overview.md) |
 | 2 | 0 | RBMG |
-| 2 | 0 | [Monkey Puzzle Records](../../labels/monkey_puzzle_records/overview.md) |
+| 2 | 0 | Monkey Puzzle Records |
 | 2 | 0 | [MOTOWN](../../labels/motown/overview.md) |
 | 2 | 0 | Legacy Recordings |
 | 2 | 0 | Def Jam |
@@ -353,7 +353,7 @@
 | 1 | 0 | indie folk |
 | 1 | 0 | hollywood |
 | 1 | 0 | girl group |
-| 1 | 0 | folk |
+| 1 | 0 | [folk](../../genres/folk/overview.md) |
 | 1 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | cowboy western |
 | 1 | 0 | country road |

@@ -16,14 +16,12 @@ CLC:
 - has member Yeeun
 
 ## Artist Rank
-CLC is currently:
-- The #50 artist of all time
 
 ![Rank of CLC over time](../../images/artists/clc/rank_time_series.png)
 ## Top Tracks
 
 - HELICOPTER is:
-    - the #46 track of all time
+    - the #47 track of all time
 
 ### Top tracks of all time over time
 

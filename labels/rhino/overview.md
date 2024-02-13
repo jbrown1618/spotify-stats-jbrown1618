@@ -82,7 +82,7 @@ Appears as:
 |---:|---:|:---|
 | 11 | 8 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 11 | 8 | folk rock |
-| 9 | 7 | folk |
+| 9 | 7 | [folk](../../genres/folk/overview.md) |
 | 8 | 6 | canadian singer-songwriter |
 | 14 | 5 | [rock](../../genres/rock/overview.md) |
 | 13 | 5 | [classic rock](../../genres/classic_rock/overview.md) |
