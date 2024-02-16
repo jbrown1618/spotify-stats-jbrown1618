@@ -4,13 +4,17 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="Doja Cat" width="100" />
 
+[See Track Features](audio_features.md)
+
+[See Clusters](clusters/overview.md)
+
 ## Artist Rank
 
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 10 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 11 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27389992f4d7d4ab94937bf9e23ab67616d0000b273e13de7b8662b085b0885ffefab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 3 | [R&B](../../playlists/r_b/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208ab67616d0000b27310356a0e81371e6644cb1371ab67616d0000b27331aafa752187cb0284307200ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 2 | [Hip Hop](../../playlists/hip_hop/overview.md) |
@@ -24,6 +28,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | 1 | 1 | Paint The Town Red | 2023-08-04 | [🔗](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="" width="50" /> | 1 | 1 | Kiss Me More (feat. SZA) | 2021-04-09 | [🔗](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | 1 | 1 | Hot Pink | 2019-11-07 | [🔗](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | 1 | 1 | Freaky Deaky | 2022-02-25 | [🔗](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | 1 | 1 | ELVIS (Original Motion Picture Soundtrack) | 2022-06-24 | [🔗](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | 1 | 1 | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
@@ -33,10 +38,12 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 6 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 6 | 5 | Kemosabe Records |
+| 8 | 7 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 7 | 6 | Kemosabe Records |
 | 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
+| 1 | 1 | Last Kings Music |
 | 1 | 1 | House of Iona |
+| 1 | 1 | EMPIRE |
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
 
@@ -135,3 +142,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | You Right | Planet Her | [Doja Cat](overview.md), The Weeknd | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](overview.md) | [House of Iona/RCA Records](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | Paint The Town Red | Paint The Town Red | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) |
+
+
+<details>
+<summary>See all tracks</summary>
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | Freaky Deaky | Freaky Deaky | Tyga, [Doja Cat](overview.md) | [Kemosabe / RCA Records / Last Kings Music / EMPIRE](../../labels/rca_records_label) | 💚 | [🔗](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) |
+
+</details>
+

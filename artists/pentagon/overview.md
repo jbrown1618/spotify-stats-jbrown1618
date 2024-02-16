@@ -20,7 +20,7 @@ PENTAGON:
 
 ## Artist Rank
 PENTAGON is currently:
-- The #23 artist of the last month
+- The #27 artist of the last month
 - The #49 artist of the last 6 months
 - The #46 artist of all time
 

@@ -26,8 +26,6 @@ SUPER JUNIOR:
 ![Rank of SUPER JUNIOR over time](../../images/artists/super_junior/rank_time_series.png)
 ## Top Tracks
 
-- Devil is:
-    - the #50 track of all time
 
 ### Top tracks of all time over time
 

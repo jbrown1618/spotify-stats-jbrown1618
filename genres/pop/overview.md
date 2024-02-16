@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 66 | 39 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="" width="50" /> | 44 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebda4177e45e13a90e4cef93fc" alt="" width="50" /> | 44 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 38 | 31 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 52 | 26 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 37 | 23 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
@@ -28,7 +28,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 19 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 18 | 9 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 18 | 10 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 14 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 14 | 8 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 10 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
@@ -251,8 +251,8 @@
 | 29 | 22 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 30 | 21 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 28 | 21 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 35 | 20 | [Columbia](../../labels/columbia/overview.md) |
 | 34 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 35 | 19 | [Columbia](../../labels/columbia/overview.md) |
 | 31 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 23 | 18 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 
@@ -364,8 +364,8 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Serban Ghenea | 71 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 40 | Songwriter, Lyricist, Producer |
 | | John Hanes | 40 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 40 | Songwriter, Lyricist, Producer |
 | | Max Martin | 29 | Producer, Songwriter, Lyricist |
 | | TEDDY | 22 | Lyricist, Producer, Songwriter, Arranger |
 | | Sam Holland | 21 | Producer |
@@ -380,96 +380,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | FINNEAS | 14 | Lyricist, Producer, Songwriter, Arranger |
 | | 24 | 14 | Arranger, Producer, Songwriter |
+| | FINNEAS | 14 | Lyricist, Producer, Songwriter, Arranger |
 | | Łukasz Gottwald (Gottwald, Łukasz) | 13 | Songwriter |
 | | Shellback | 12 | Producer, Songwriter, Lyricist |
-| | Mark "Spike" Stent | 12 | Producer |
 | | R.Tee | 12 | Arranger, Producer, Songwriter |
-| | Pdogg | 11 | Producer, Songwriter, Arranger |
+| | Mark "Spike" Stent | 12 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
 | | Phil Tan | 11 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 11 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 10 | Songwriter, Lyricist, Producer |
+| | Pdogg | 11 | Producer, Songwriter, Arranger |
 | | 엄세희 (Um, Se-Hee) | 10 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 10 | Songwriter, Lyricist, Producer |
 | | Rob Kinelski | 10 | Producer |
 | | Dr. Luke | 10 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
 | | Kuk Harrell | 10 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 9 | Lyricist, Songwriter |
 | | Michael Ilbert | 9 | Producer |
 | | Marcos Tovar | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 9 | Producer, Songwriter |
 | | ILYA | 9 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 9 | Lyricist, Songwriter |
-| | Jaycen Joshua | 8 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 8 | Producer, Songwriter |
+| | Danny Chung | 8 | Lyricist |
 | | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| | Jaycen Joshua | 8 | Producer |
+| | Tony Maserati | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | Savan Kotecha | 8 | Songwriter, Producer |
-| | Danny Chung | 8 | Lyricist |
-| | Ali Tamposi | 7 | Songwriter |
-| | Tony Maserati | 7 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 7 | Producer, Songwriter |
-| | Tor Erik Hermansen | 7 | Songwriter |
 | | 이태섭 (Lee, Tae-Sub) | 7 | Producer |
+| | Mikkel Storleer Eriksen | 7 | Songwriter, Producer |
 | | Aaron Dessner | 7 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
 | | Jonathan Low | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 7 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
 | | Stargate | 7 | Producer |
-| | Mikkel Storleer Eriksen | 7 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
+| | Ali Tamposi | 7 | Songwriter |
 | | YOUNGJU BANG | 7 | Producer |
-| | Philip Lawrence | 7 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
 | | Greg Kurstin | 7 | Producer, Songwriter |
-| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
-| | 이상엽 (Lee, Sang-yeob) | 6 | Producer |
-| | Jason Roberts | 6 | Producer |
+| | Tor Erik Hermansen | 7 | Songwriter |
+| | Philip Lawrence | 7 | Songwriter |
 | | Emile Haynie | 6 | Producer |
-| | Bryce Dessner | 6 | Arranger |
-| | Emily Wright | 6 | Producer |
-| | Charles Moniz | 6 | Producer |
+| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
+| | 이상엽 (Lee, Sang-yeob) | 6 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
+| | Jason Roberts | 6 | Producer |
 | | Ryan Tedder | 6 | Producer, Songwriter, Arranger |
-| | Alex Pasco | 6 | Producer |
 | | Larry Gold | 6 | Arranger |
-| | James Fauntleroy | 5 | Songwriter |
-| | Jacob Kasher | 5 | Songwriter |
-| | 손명갑 (Son, Myung-gap) | 5 | Producer |
-| | Melanie Joy Fontana | 5 | Lyricist, Songwriter |
-| | Will Champion | 5 | Songwriter |
-| | 구혜진 (Gu, Hye-jin) | 5 | Producer |
-| | Louis Bell | 5 | Songwriter, Producer |
+| | Alex Pasco | 6 | Producer |
+| | Bryce Dessner | 6 | Arranger |
+| | Charles Moniz | 6 | Producer |
+| | Emily Wright | 6 | Producer |
+| | RedOne | 5 | Producer, Songwriter, Arranger |
 | | Jonny Buckland | 5 | Songwriter |
-| | Rami | 5 | Songwriter, Producer |
-| | Guy Berryman | 5 | Songwriter |
-| | Tyler Johnson | 5 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 5 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 5 | Songwriter |
-| | Andrew Watt | 5 | Songwriter, Producer |
-| | Jack Patterson | 5 | Producer, Songwriter |
-| | Adam Levine | 5 | Lyricist, Songwriter |
 | | Arschtritt Lindgren | 5 | Arranger, Songwriter, Producer |
 | | Julian Burg | 5 | Producer |
-| | 심은지 (Sim, Eunjee) | 5 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 5 | Songwriter |
 | | Jason Robert | 5 | Producer |
-| | Frank Dukes | 5 | Songwriter, Producer |
-| | RedOne | 5 | Producer, Songwriter, Arranger |
 | | Ricky Reed | 5 | Producer, Songwriter, Arranger |
-| | Chris Martin | 5 | Songwriter |
+| | Adam Levine | 5 | Lyricist, Songwriter |
 | | TBHits | 5 | Arranger, Songwriter, Producer |
-| | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
-| | Kyle Resnick | 4 | Producer |
+| | Melanie Joy Fontana | 5 | Lyricist, Songwriter |
+| | Frank Dukes | 5 | Songwriter, Producer |
+| | James Fauntleroy | 5 | Songwriter |
+| | Chris Martin | 5 | Songwriter |
+| | 심은지 (Sim, Eunjee) | 5 | Arranger, Lyricist, Producer, Songwriter |
+| | 구혜진 (Gu, Hye-jin) | 5 | Producer |
+| | Will Champion | 5 | Songwriter |
+| | Jacob Kasher | 5 | Songwriter |
+| | Jack Patterson | 5 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 5 | Lyricist, Songwriter |
+| | Rami | 5 | Songwriter, Producer |
+| | Tyler Johnson | 5 | Producer, Songwriter |
+| | Guy Berryman | 5 | Songwriter |
+| | 손명갑 (Son, Myung-gap) | 5 | Producer |
+| | Louis Bell | 5 | Songwriter, Producer |
+| | Andrew Watt | 5 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j-hope/overview.md) | 4 | Songwriter |
+| | Tom Elmhirst | 4 | Producer |
+| | Brian Lee | 4 | Songwriter, Lyricist |
+| | DJ Swivel | 4 | Producer, Songwriter |
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Ray McCullough | 4 | Songwriter |
+| | Sophia Pae | 4 | Arranger |
+| | Ari Levine | 4 | Producer, Songwriter |
 | | Robert Orton | 4 | Producer |
 | | Andrew Wyatt | 4 | Songwriter, Producer, Arranger |
-| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
-| | Jeremy Reeves | 4 | Songwriter |
-| | Ester Dean | 4 | Songwriter |
-| | Jason Evigan | 4 | Songwriter, Producer |
-| | DJ Swivel | 4 | Producer, Songwriter |
-| | 임홍진 (Im, Hong-Jin) | 4 | Producer |
-| | Daniel Nigro | 4 | Producer, Songwriter, Lyricist |
+| | FUTURE BOUNCE | 4 | Arranger, Songwriter |
 
 </details>
 

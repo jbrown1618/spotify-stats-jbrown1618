@@ -35,7 +35,7 @@ Camila Cabello:
 | 7 | 6 | [Syco Music](../../labels/syco_music/overview.md) |
 | 7 | 6 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 1 | 1 | Bad Boy |
+| 1 | 1 | [Bad Boy](../../labels/bad_boy/overview.md) |
 
 ## Genres
 
@@ -130,4 +130,4 @@ Camila Cabello:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](overview.md), DaBaby | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](overview.md) | [Bad Boy / Interscope](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](overview.md) | [Bad Boy](../../labels/bad_boy), [Interscope Records](../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |

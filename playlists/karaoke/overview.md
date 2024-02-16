@@ -202,7 +202,7 @@
 | 1 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 1 | 1 | Def Jam |
 | 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
-| 1 | 1 | Bad Boy |
+| 1 | 1 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 1 | 1 | ATG |
 | 2 | 0 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 86 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -253,14 +253,14 @@
 | 3 | 3 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 3 | 3 | australian pop |
 | 4 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
-| 4 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
+| 4 | 2 | glam rock |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | pov: indie |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |
 | 2 | 2 | [folk](../../genres/folk/overview.md) |
-| 2 | 2 | atl hip hop |
+| 2 | 2 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 2 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 2 | 1 | easy listening |
@@ -279,7 +279,7 @@
 | 1 | 1 | oxford indie |
 | 1 | 1 | new americana |
 | 1 | 1 | neon pop punk |
-| 1 | 1 | neo soul |
+| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
 | 1 | 1 | modern power pop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | memphis soul |
@@ -297,6 +297,7 @@
 | 1 | 1 | emo |
 | 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | disco |
+| 1 | 1 | classic soul |
 | 1 | 1 | chamber pop |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |

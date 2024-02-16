@@ -64,6 +64,7 @@ Appears as:
 |---:|---:|:---|
 | 15 | 6 | [soul](../../genres/soul/overview.md) |
 | 15 | 6 | motown |
+| 5 | 2 | classic soul |
 | 4 | 1 | memphis soul |
 | 1 | 1 | trap |
 | 1 | 1 | southern soul |
@@ -71,7 +72,6 @@ Appears as:
 | 1 | 1 | [rap](../../genres/rap/overview.md) |
 | 1 | 1 | quiet storm |
 | 1 | 1 | pop rap |
-| 1 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
 <details>
@@ -79,11 +79,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 1 | hip hop |
 | 1 | 1 | funk |
 | 1 | 1 | disco |
-| 1 | 1 | classic soul |
-| 1 | 1 | atl hip hop |
+| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 
 </details>

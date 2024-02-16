@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | Chemistry (Prod. Czaer) | Street Woman Fighter2 (SWF2) Crew Songs | HYOLYN | [Genie Music Corporation](../..) | 💚 | [🔗](https://open.spotify.com/track/67apFn1yn2GNtLjNk3syQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Um Oh Ah Yeh | Pink Funky | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/0icGgAiUx5b0amQLycmGUr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | SuperCharger | BOYS PLANET - ARTIST BATTLE | NINTYSIX | [Genie Music Corporation](../..) | | [🔗](https://open.spotify.com/track/6dh7woGX8OfRUFanTAGhp4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="" width="50" /> | I Know - 92 TV Edit | Seotaiji and Boys | Seo Taiji and Boys | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="" width="50" /> | I Know - '92 TV Edit | Seotaiji and Boys | Seo Taiji and Boys | [Genie Music Corporation](../..), [Stone Music Entertainment](../../../stone_music_entertainment) | | [🔗](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) |
 ## Cluster #2
 
 44 tracks

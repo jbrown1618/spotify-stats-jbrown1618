@@ -38,7 +38,7 @@ Appears as:
 | 15 | 14 | [modern rock](../../genres/modern_rock/overview.md) |
 | 15 | 14 | [electropop](../../genres/electropop/overview.md) |
 | 15 | 14 | baroque pop |
-| 3 | 2 | neo soul |
+| 3 | 2 | [neo soul](../../genres/neo_soul/overview.md) |
 | 3 | 2 | british soul |
 
 ![Bar chart of top 6 genres](../../images/labels/universal-island_records_ltd_/genres.png)

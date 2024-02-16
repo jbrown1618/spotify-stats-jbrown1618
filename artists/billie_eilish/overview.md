@@ -10,15 +10,10 @@
 
 ## Artist Rank
 Billie Eilish is currently:
-- The #40 artist of the last month
-- The #29 artist of the last 6 months
+- The #28 artist of the last 6 months
 - The #44 artist of all time
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
-## Top Tracks
-
-- No Time To Die is:
-    - the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -26,6 +21,7 @@ Billie Eilish is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 14 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 5 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2735a7602f0e508660b2ba40f8cab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b273c8b444df094279e70d0ed856ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 
 ## Top Albums
 

@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1797 tracks
+1817 tracks
 
 [See Track Features](audio_features.md)
 
@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 41 | 41 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 39 | 39 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd93190413b4f40fcc2c3d81c" alt="" width="50" /> | 35 | 35 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="" width="50" /> | 32 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebda4177e45e13a90e4cef93fc" alt="" width="50" /> | 32 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 31 | 31 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 30 | 30 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 28 | 28 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -37,35 +37,35 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 17 | 17 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | 16 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 16 | 16 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 15 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 15 | 15 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 14 | 14 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 14 | 14 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 14 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5a79a86c0ccc91f0e398f48" alt="" width="50" /> | 14 | 14 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 14 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 13 | 13 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 13 | 13 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 12 | 12 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 12 | 12 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 12 | 12 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 12 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 12 | 12 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 11 | 11 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 11 | 11 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b0348367c6466a6282f5a5" alt="" width="50" /> | 11 | 11 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 10 | 10 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 10 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 10 | 10 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 10 | 10 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 10 | 10 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 10 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 10 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 9 | 9 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 9 | 9 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 9 | 9 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 9 | 9 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 9 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 8 | 8 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 8 | 8 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 8 | 8 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 8 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b86652b4761cbc4d3bc791f" alt="" width="50" /> | 8 | 8 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 8 | 8 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 8 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -74,6 +74,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebada7146c1f97b1fc6992609a" alt="" width="50" /> | 8 | 8 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2be3a5a3bfe963935ed4b2c2" alt="" width="50" /> | 8 | 8 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 7 | 7 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 7 | 7 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 7 | 7 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 7 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9dd6110fc47f859a9bbd2d2" alt="" width="50" /> | 7 | 7 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
@@ -95,7 +96,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 6 | 6 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 5 | 5 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 5 | 5 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 5 | 5 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 5 | 5 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdaed24d10b1ac9addfb8a9f1" alt="" width="50" /> | 5 | 5 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
@@ -108,6 +108,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3efc9370be86846bbac90487" alt="" width="50" /> | 5 | 5 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | 5 | 5 | [YENA](../../artists/yena/overview.md) | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 5 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb300fc4526b63fe9e2190e1fb" alt="" width="50" /> | 5 | 5 | [TEN](../../artists/ten/overview.md) | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="" width="50" /> | 5 | 5 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 5 | 5 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 5 | 5 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
@@ -116,7 +117,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 5 | 5 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 5 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 4 | 4 | Eminem | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbda57bbc9952b3f1dbf2fbd7" alt="" width="50" /> | 4 | 4 | JIHYO | [🔗](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) |
 
 </details>
 
@@ -150,6 +150,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 6 | 6 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | 6 | 6 | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 6 | 6 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 6 | 6 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | 6 | 6 | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
@@ -169,7 +170,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | 5 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 5 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 5 | 5 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 5 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | 5 | 5 | Modern Times | 2013-10-08 | [🔗](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 5 | 5 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 5 | 5 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
@@ -220,6 +220,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | 3 | 3 | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 3 | 3 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | 3 | 3 | TEN - The 1st Mini Album | 2024-02-13 | [🔗](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | 3 | 3 | TEENFRESH | 2023-08-16 | [🔗](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | 3 | 3 | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | 3 | 3 | Songs About Jane | 2002-06-25 | [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) |
@@ -235,7 +236,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 3 | 3 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | 3 | 3 | ODDINARY | 2022-03-18 | [🔗](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | 3 | 3 | No Strings Attached | 2000-03-21 | [🔗](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | 3 | 3 | NewJeans 2nd EP 'Get Up' | 2023-07-21 | [🔗](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) |
 
 </details>
 
@@ -246,16 +246,16 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 233 | 233 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 236 | 236 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 108 | 108 | [Republic Records](../../labels/republic_records/overview.md) |
 | 79 | 79 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 67 | 67 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 63 | 63 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 62 | 62 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 62 | 62 | [Columbia](../../labels/columbia/overview.md) |
 | 61 | 61 | [Epic](../../labels/epic/overview.md) |
 | 60 | 60 | [Warner Records](../../labels/warner_records/overview.md) |
-| 60 | 60 | [Columbia](../../labels/columbia/overview.md) |
-| 50 | 50 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 51 | 51 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
 
 <details>
@@ -274,7 +274,7 @@
 | 20 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 20 | 20 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 19 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
-| 17 | 17 | [XL Recordings](../../labels/xl_recordings/overview.md) |
+| 18 | 18 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 17 | 17 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 16 | 16 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
 | 16 | 16 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
@@ -298,6 +298,7 @@
 | 9 | 9 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
 | 8 | 8 | [Geffen](../../labels/geffen/overview.md) |
 | 8 | 8 | EDAM Entertainment |
+| 8 | 8 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 8 | 8 | [ADOR](../../labels/ador/overview.md) |
 | 7 | 7 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 7 | 7 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
@@ -307,9 +308,9 @@
 | 7 | 7 | Cooking Vinyl Limited |
 | 6 | 6 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 6 | 6 | Sire |
+| 6 | 6 | Kemosabe Records |
 | 6 | 6 | [KQ Entertainment](../../labels/kq_entertainment/overview.md) |
 | 6 | 6 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
-| 6 | 6 | Bad Boy |
 | 6 | 6 | Abyss Company |
 | 5 | 5 | [UNI](../../labels/uni/overview.md) |
 | 5 | 5 | Studio MaumC |
@@ -319,7 +320,6 @@
 | 5 | 5 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 5 | 5 | Parkwood Entertainment |
 | 5 | 5 | P NATION |
-| 5 | 5 | Kemosabe Records |
 | 5 | 5 | Hwa&Dam pictures |
 | 5 | 5 | Fave Entertainment |
 | 5 | 5 | Atlantic Records UK |
@@ -328,6 +328,7 @@
 | 4 | 4 | [avex trax](../../labels/avex_trax/overview.md) |
 | 4 | 4 | YOASOBI |
 | 4 | 4 | XGALX |
+| 4 | 4 | Wondaland |
 | 4 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 4 | 4 | Top Dawg Entertainment |
 | 4 | 4 | THE BLACK LABEL |
@@ -341,8 +342,10 @@
 | 4 | 4 | [Island Records](../../labels/island_records/overview.md) |
 | 4 | 4 | Hajanga Records |
 | 4 | 4 | [HYBE](../../labels/hybe/overview.md) |
+| 4 | 4 | FeelGhoodMusic |
 | 4 | 4 | Feel Ghood Music |
 | 4 | 4 | Elektra |
+| 4 | 4 | [EMI](../../labels/emi/overview.md) |
 | 4 | 4 | Beluga Heights |
 | 4 | 4 | BIGPLANETMADE |
 | 4 | 4 | Arista |
@@ -350,9 +353,6 @@
 | 4 | 4 | A&M |
 | 3 | 3 | 우조엔터테인먼트 |
 | 3 | 3 | Universal (MT) |
-| 3 | 3 | Steam Powered Giraffe |
-| 3 | 3 | Sony BMG Music UK |
-| 3 | 3 | SWING ENTERTAINMENT |
 
 </details>
 
@@ -363,13 +363,13 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 753 | 753 | [k-pop](../../genres/k-pop/overview.md) |
-| 407 | 407 | [pop](../../genres/pop/overview.md) |
-| 394 | 394 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 759 | 759 | [k-pop](../../genres/k-pop/overview.md) |
+| 408 | 408 | [pop](../../genres/pop/overview.md) |
+| 395 | 395 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 208 | 208 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 132 | 132 | [rock](../../genres/rock/overview.md) |
+| 133 | 133 | [rock](../../genres/rock/overview.md) |
 | 86 | 86 | [dance pop](../../genres/dance_pop/overview.md) |
-| 84 | 84 | [classic rock](../../genres/classic_rock/overview.md) |
+| 86 | 86 | [classic rock](../../genres/classic_rock/overview.md) |
 | 65 | 65 | [viral pop](../../genres/viral_pop/overview.md) |
 | 56 | 56 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 56 | 56 | [lilith](../../genres/lilith/overview.md) |
@@ -382,62 +382,67 @@
 |---:|---:|:---|
 | 54 | 54 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 46 | 46 | [pop rock](../../genres/pop_rock/overview.md) |
-| 43 | 43 | [modern rock](../../genres/modern_rock/overview.md) |
-| 43 | 43 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 46 | 46 | [modern rock](../../genres/modern_rock/overview.md) |
+| 45 | 45 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 44 | 44 | [album rock](../../genres/album_rock/overview.md) |
 | 42 | 42 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
-| 42 | 42 | [ectofolk](../../genres/ectofolk/overview.md) |
-| 42 | 42 | [album rock](../../genres/album_rock/overview.md) |
-| 38 | 38 | [soft rock](../../genres/soft_rock/overview.md) |
-| 37 | 37 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 34 | 34 | [art pop](../../genres/art_pop/overview.md) |
-| 30 | 30 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
+| 41 | 41 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 40 | 40 | [soft rock](../../genres/soft_rock/overview.md) |
+| 39 | 39 | [mellow gold](../../genres/mellow_gold/overview.md) |
+| 35 | 35 | [art pop](../../genres/art_pop/overview.md) |
+| 33 | 33 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
+| 31 | 31 | [r&b](../../genres/r_b/overview.md) |
 | 30 | 30 | [british invasion](../../genres/british_invasion/overview.md) |
 | 29 | 29 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
-| 28 | 28 | [r&b](../../genres/r_b/overview.md) |
-| 28 | 28 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 29 | 29 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 28 | 28 | [electropop](../../genres/electropop/overview.md) |
 | 28 | 28 | [anime](../../genres/anime/overview.md) |
 | 27 | 27 | [piano rock](../../genres/piano_rock/overview.md) |
 | 27 | 27 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 26 | 26 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
-| 25 | 25 | [alternative rock](../../genres/alternative_rock/overview.md) |
+| 26 | 26 | [alternative rock](../../genres/alternative_rock/overview.md) |
+| 24 | 24 | [rap](../../genres/rap/overview.md) |
 | 24 | 24 | [korean pop](../../genres/korean_pop/overview.md) |
 | 24 | 24 | [k-rap](../../genres/k-rap/overview.md) |
 | 23 | 23 | [uk pop](../../genres/uk_pop/overview.md) |
-| 23 | 23 | [rap](../../genres/rap/overview.md) |
 | 22 | 22 | merseybeat |
+| 20 | 20 | melancholia |
+| 20 | 20 | [art rock](../../genres/art_rock/overview.md) |
 | 19 | 19 | [soul](../../genres/soul/overview.md) |
-| 19 | 19 | melancholia |
 | 19 | 19 | [hard rock](../../genres/hard_rock/overview.md) |
+| 19 | 19 | [folk](../../genres/folk/overview.md) |
 | 18 | 18 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 17 | 17 | metropopolis |
 | 17 | 17 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 17 | 17 | [art rock](../../genres/art_rock/overview.md) |
 | 17 | 17 | [a cappella](../../genres/a_cappella/overview.md) |
-| 16 | 16 | metropopolis |
-| 16 | 16 | [folk](../../genres/folk/overview.md) |
+| 16 | 16 | [neo soul](../../genres/neo_soul/overview.md) |
+| 16 | 16 | indietronica |
+| 16 | 16 | indie rock |
+| 16 | 16 | glam rock |
+| 15 | 15 | oxford indie |
 | 15 | 15 | folk rock |
-| 14 | 14 | oxford indie |
-| 14 | 14 | neo soul |
-| 14 | 14 | [glam rock](../../genres/glam_rock/overview.md) |
+| 15 | 15 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 14 | 14 | baroque pop |
 | 13 | 13 | korean ost |
-| 13 | 13 | atl hip hop |
+| 13 | 13 | indie pop |
 | 13 | 13 | [adult standards](../../genres/adult_standards/overview.md) |
-| 12 | 12 | indietronica |
-| 12 | 12 | indie rock |
 | 12 | 12 | barbadian pop |
 | 11 | 11 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
+| 11 | 11 | pov: indie |
 | 11 | 11 | nz pop |
 | 11 | 11 | j-pop |
-| 11 | 11 | indie pop |
+| 11 | 11 | hip hop |
 | 11 | 11 | australian pop |
-| 10 | 10 | pov: indie |
+| 10 | 10 | seattle indie |
 | 10 | 10 | pop soul |
-| 10 | 10 | hip hop |
+| 10 | 10 | chamber pop |
+| 10 | 10 | alternative r&b |
+| 9 | 9 | stomp and holler |
+| 9 | 9 | pop rap |
 | 9 | 9 | [lounge](../../genres/lounge/overview.md) |
 | 9 | 9 | korean city pop |
 | 9 | 9 | bergen indie |
-| 8 | 8 | pop rap |
+| 8 | 8 | talent show |
 | 8 | 8 | japanese teen pop |
 | 8 | 8 | girl group |
 | 8 | 8 | etherpop |
@@ -445,31 +450,26 @@
 | 8 | 8 | country |
 | 8 | 8 | contemporary country |
 | 8 | 8 | british soul |
-| 8 | 8 | alternative r&b |
-| 7 | 7 | talent show |
-| 7 | 7 | seattle indie |
 | 7 | 7 | modern alternative rock |
 | 7 | 7 | latin pop |
+| 7 | 7 | la indie |
 | 7 | 7 | kawaii metal |
 | 7 | 7 | j-metal |
+| 7 | 7 | indie folk |
 | 7 | 7 | idol rock |
-| 7 | 7 | chamber pop |
 | 7 | 7 | canadian singer-songwriter |
 | 7 | 7 | boy band |
 | 7 | 7 | australian dance |
 | 7 | 7 | alt z |
+| 7 | 7 | afrofuturism |
+| 6 | 6 | yacht rock |
 | 6 | 6 | uk dance |
-| 6 | 6 | stomp and holler |
 | 6 | 6 | progressive rock |
 | 6 | 6 | motown |
-| 6 | 6 | la indie |
 | 6 | 6 | electro |
 | 5 | 5 | uk funky |
+| 5 | 5 | symphonic rock |
 | 5 | 5 | nyc pop |
-| 5 | 5 | new wave pop |
-| 5 | 5 | korean talent show |
-| 5 | 5 | jazz pop |
-| 5 | 5 | jazz blues |
 
 </details>
 
@@ -484,12 +484,12 @@
 | | 정은경 (Jung, Eun-Kyung) | 44 | Producer, Arranger |
 | | John Hanes | 42 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 40 | Songwriter, Lyricist, Producer |
-| | Max Martin | 30 | Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
+| | Max Martin | 30 | Producer, Songwriter, Lyricist |
 | | TEDDY | 28 | Lyricist, Producer, Songwriter, Arranger |
 | | Manny Marroquin | 27 | Producer |
 | | George Martin | 22 | Producer, Arranger |
-| | Sam Holland | 21 | Producer |
+| | John Lennon | 21 | Songwriter, Lyricist |
 
 
 <details>
@@ -497,96 +497,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | John Lennon | 21 | Songwriter, Lyricist |
+| | Sam Holland | 21 | Producer |
 | | Paul McCartney | 20 | Songwriter |
 | | Ryan S. Jhun | 20 | Arranger, Songwriter, Lyricist, Producer |
 | | Jack Antonoff | 20 | Producer, Songwriter |
 | | Laura Sisk | 20 | Producer |
+| | Mark "Spike" Stent | 17 | Producer |
 | | 24 | 17 | Arranger, Producer, Songwriter |
-| | Mark "Spike" Stent | 16 | Producer |
+| | Tony Maserati | 16 | Producer |
+| | Josh Gudwin | 16 | Producer |
 | | 구종필 (Koo, Jong-Pil) | 16 | Producer |
 | | 서지음 (Seo, Ji Eum) | 16 | Lyricist |
-| | Josh Gudwin | 16 | Producer |
-| | Tony Maserati | 15 | Producer |
-| | 방시혁 (Bang, Si-Hyuk) | 15 | Songwriter, Lyricist |
-| | 양영은 (Yang, Young-eun) | 15 | Producer |
 | | 엄세희 (Um, Se-Hee) | 15 | Producer |
-| | Ollounder | 15 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | 양영은 (Yang, Young-eun) | 15 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 15 | Lyricist, Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
+| | 방시혁 (Bang, Si-Hyuk) | 15 | Songwriter, Lyricist |
 | | R.Tee | 15 | Producer, Arranger, Songwriter, Lyricist |
+| | Ollounder | 15 | Arranger, Lyricist, Songwriter |
 | | 구혜진 (Gu, Hye-jin) | 14 | Producer |
-| | Phil Tan | 14 | Producer |
-| | LEEZ | 14 | Arranger, Lyricist, Songwriter, Producer |
 | | FINNEAS | 14 | Lyricist, Producer, Songwriter, Arranger |
 | | 블랙아이드필승 (Black Eyed Pilseung) | 14 | Lyricist, Songwriter, Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 13 | Songwriter, Producer |
-| | 라도 (Rado) | 13 | Arranger, Lyricist, Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 13 | Lyricist, Songwriter |
-| | 유영진 (Yoo, Young-jin) | 13 | Arranger, Lyricist, Producer, Songwriter |
+| | Phil Tan | 14 | Producer |
+| | LEEZ | 14 | Arranger, Lyricist, Songwriter, Producer |
+| | Nigel Godrich | 13 | Producer |
+| | Colin Greenwood | 13 | Songwriter |
+| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
 | | Florence Welch | 13 | Songwriter, Lyricist |
+| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
+| | 유영진 (Yoo, Young-jin) | 13 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 13 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 13 | Songwriter, Producer |
+| | Philip Selway | 13 | Songwriter |
+| | Ed O'Brien | 13 | Songwriter |
 | | Łukasz Gottwald (Gottwald, Łukasz) | 13 | Songwriter |
-| | Philip Selway | 12 | Songwriter |
-| | Nigel Godrich | 12 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 12 | Lyricist, Producer, Songwriter, Arranger |
-| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
-| | Ed O'Brien | 12 | Songwriter |
+| | 라도 (Rado) | 13 | Arranger, Lyricist, Songwriter, Producer |
 | | Shellback | 12 | Producer, Songwriter, Lyricist |
-| | Colin Greenwood | 12 | Songwriter |
-| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 12 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
-| | SCORE | 11 | Songwriter, Arranger, Lyricist, Producer |
 | | 조윤경 (Jo, Yoon Kyung) | 11 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Marcos Tovar | 11 | Producer |
+| | SCORE | 11 | Songwriter, Arranger, Lyricist, Producer |
 | | Pdogg | 11 | Producer, Songwriter, Arranger |
 | | 김병석 (Kim, Byung-seok) | 11 | Songwriter, Arranger, Lyricist, Producer |
-| | Marcos Tovar | 11 | Producer |
-| | 13 | 10 | Producer |
-| | Kriz | 10 | Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
-| | ILYA | 10 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 10 | Songwriter, Lyricist, Producer |
-| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
 | | Dr. Luke | 10 | Producer |
+| | Kriz | 10 | Songwriter, Arranger |
+| | Kuk Harrell | 10 | Producer |
+| | 13 | 10 | Producer |
+| | ILYA | 10 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 10 | Producer, Songwriter |
+| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 10 | Songwriter, Lyricist, Producer |
 | | Rob Kinelski | 10 | Producer |
 | | Geoff Emerick | 10 | Producer |
-| | Kuk Harrell | 10 | Producer |
-| | Supreme Boi | 9 | Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 9 | Songwriter, Producer, Arranger |
-| | 윤원권 (Yoon, Won-kwon) | 9 | Producer |
-| | danke | 9 | Lyricist, Songwriter |
-| | Paul Epworth | 9 | Producer, Lyricist, Songwriter |
-| | Jim Boyer | 9 | Producer |
-| | Glyn Johns | 9 | Producer |
-| | 이태섭 (Lee, Tae-Sub) | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
 | | Alawn | 9 | Producer, Arranger |
-| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
-| | John O'Mahony | 9 | Producer |
-| | Tom Elmhirst | 9 | Producer |
-| | Philip Lawrence | 9 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | | 김석민 (Kim Seog-min) | 9 | Producer |
-| | Michael Ilbert | 9 | Producer |
-| | Phil Ramone | 9 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 9 | Producer, Songwriter |
-| | 이수만 (Lee, Soo-Man) | 9 | Producer |
+| | Tom Elmhirst | 9 | Producer |
 | | Savan Kotecha | 9 | Songwriter, Producer |
-| | 황민희 (Hwang, Min-hee) | 8 | Producer |
-| | Neal Avron | 8 | Arranger, Producer |
-| | Phil McDonald | 8 | Producer |
+| | Glyn Johns | 9 | Producer |
+| | John O'Mahony | 9 | Producer |
+| | 이태섭 (Lee, Tae-Sub) | 9 | Producer |
+| | Paul Epworth | 9 | Producer, Lyricist, Songwriter |
+| | danke | 9 | Lyricist, Songwriter |
+| | Supreme Boi | 9 | Songwriter, Lyricist |
+| | Jim Boyer | 9 | Producer |
+| | Philip Lawrence | 9 | Songwriter |
+| | Phil Ramone | 9 | Producer |
+| | Michael Ilbert | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 9 | Songwriter, Lyricist, Producer |
+| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | 윤원권 (Yoon, Won-kwon) | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 9 | Songwriter, Producer, Arranger |
+| | 이수만 (Lee, Soo-Man) | 9 | Producer |
 | | Fuxxy | 8 | Lyricist, Songwriter, Arranger |
-| | Jaycen Joshua | 8 | Producer |
-| | Ali Tamposi | 8 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 8 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 8 | Producer, Songwriter, Arranger, Lyricist |
-| | 김영현 (Kim, Young-hyun) | 8 | Producer |
-| | DRK | 8 | Producer |
 | | Kenzie | 8 | Songwriter, Arranger, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 8 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 8 | Producer, Songwriter, Arranger, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 8 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
+| | Phil McDonald | 8 | Producer |
+| | 김영현 (Kim, Young-hyun) | 8 | Producer |
 | | Greg Kurstin | 8 | Producer, Songwriter |
+| | 황민희 (Hwang, Min-hee) | 8 | Producer |
+| | Jaycen Joshua | 8 | Producer |
 | | 정의석 (Jung, Euisuk) | 8 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 8 | Lyricist, Producer, Songwriter |
+| | Ali Tamposi | 8 | Songwriter |
+| | DRK | 8 | Producer |
+| | Neal Avron | 8 | Arranger, Producer |
 
 </details>
 
@@ -600,34 +600,34 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2024 | 19 |
-| [2023](2023.md) | 225 |
-| [2022](2022.md) | 246 |
+| [2024](2024.md) | 24 |
+| [2023](2023.md) | 226 |
+| [2022](2022.md) | 247 |
 | [2021](2021.md) | 189 |
-| [2020](2020.md) | 142 |
+| [2020](2020.md) | 145 |
 | [2019](2019.md) | 129 |
-| [2018](2018.md) | 92 |
+| [2018](2018.md) | 94 |
 | [2017](2017.md) | 78 |
 | [2016](2016.md) | 81 |
 | [2015](2015.md) | 63 |
 | [2014](2014.md) | 47 |
-| [2013](2013.md) | 56 |
+| [2013](2013.md) | 58 |
 | [2012](2012.md) | 55 |
 | [2011](2011.md) | 38 |
-| [2010](2010.md) | 37 |
+| [2010](2010.md) | 38 |
 | [2009](2009.md) | 32 |
-| [2008](2008.md) | 23 |
+| [2008](2008.md) | 24 |
 | [2007](2007.md) | 29 |
 | 2006 | 14 |
 | 2005 | 15 |
 | 2004 | 9 |
-| 2003 | 10 |
+| 2003 | 11 |
 | 2002 | 13 |
 | 2001 | 8 |
 | 2000 | 9 |
 | 1999 | 4 |
 | 1998 | 1 |
-| 1997 | 6 |
+| 1997 | 7 |
 | 1995 | 6 |
 | 1994 | 1 |
 | 1993 | 2 |
@@ -642,8 +642,8 @@
 | 1983 | 2 |
 | 1982 | 3 |
 | 1980 | 4 |
-| 1978 | 6 |
-| 1977 | 14 |
+| 1978 | 7 |
+| 1977 | 15 |
 | 1976 | 2 |
 | 1975 | 5 |
 | 1974 | 3 |
@@ -669,13 +669,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | Killin' It (2024-02-05) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | Turn the Lights Back On (2024-02-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | At Last! (1960) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | 2 (2024-01-29) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | The Nat King Cole Story (1961-09-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b79a12d47af18d1d83a5caf9" alt="Love wins all" width="50" /> | Love wins all (2024-01-24) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd1b7473a9dc977501d1e8b0" alt="NO MORE (MA BOY)" width="50" /> | NO MORE (MA BOY) (2024-01-16) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="Regret of the Times (2024 aespa Remake Version) - SM STATION" width="50" /> | Regret of the Times (2024 aespa Remake Version) - SM STATION (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="GOOD MORNING" width="50" /> | GOOD MORNING (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce9f06b8084b352b61e8b0cb" alt="yes, and?" width="50" /> | yes, and? (2024-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | BORN TO BE (2024-01-08) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | TEN - The 1st Mini Album (2024-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="Bam Yang Gang" width="50" /> | Bam Yang Gang (2024-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | At Last! (1960) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | Killin' It (2024-02-05) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | The Nat King Cole Story (1961-09-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | Turn the Lights Back On (2024-02-01) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | 2 (2024-01-29) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b79a12d47af18d1d83a5caf9" alt="Love wins all" width="50" /> | Love wins all (2024-01-24) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd1b7473a9dc977501d1e8b0" alt="NO MORE (MA BOY)" width="50" /> | NO MORE (MA BOY) (2024-01-16) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="Regret of the Times (2024 aespa Remake Version) - SM STATION" width="50" /> | Regret of the Times (2024 aespa Remake Version) - SM STATION (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="GOOD MORNING" width="50" /> | GOOD MORNING (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |

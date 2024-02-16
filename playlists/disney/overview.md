@@ -209,7 +209,7 @@
 | 1 | 0 | [pop](../../genres/pop/overview.md) |
 | 1 | 0 | piano blues |
 | 1 | 0 | new orleans blues |
-| 1 | 0 | neo soul |
+| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
 | 1 | 0 | modern blues |
 | 1 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 1 | 0 | louisiana blues |

@@ -104,7 +104,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 0 | Bad Boy |
+| 1 | 0 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 1 | 0 | 19 Recordings Limited |
 
 </details>

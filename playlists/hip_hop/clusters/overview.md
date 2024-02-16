@@ -40,7 +40,7 @@
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy / Interscope](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy](../../../../labels/bad_boy), [Interscope Records](../../../../labels/interscope_records) | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | Eminem, [Rihanna](../../../../artists/rihanna/overview.md) | Aftermath | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | Numb / Encore | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | JAY-Z, Linkin Park | [Warner Records/Roc-A-Fella](../../../../labels/warner_records) | | [🔗](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="" width="50" /> | Empire State Of Mind | The Blueprint 3 | JAY-Z, Alicia Keys | Roc Nation / Jay-Z | | [🔗](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |

@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e0676651235a324bd58ada3" alt="" width="50" /> | 1 | 0 | VOCES8 | [🔗](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c1b4f6daa33cab6310c0035" alt="" width="50" /> | 1 | 0 | Lianne La Havas | [🔗](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716f61b47a89c749e686ce3a" alt="" width="50" /> | 1 | 0 | dodie | [🔗](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb10e2b618880f429a3967185" alt="" width="50" /> | 1 | 0 | Lizzy McAlpine | [🔗](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb7e3d5ad48cc67f32a3a0930" alt="" width="50" /> | 1 | 0 | Lizzy McAlpine | [🔗](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835" alt="" width="50" /> | 1 | 0 | John Mayer | [🔗](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) |
 
 </details>

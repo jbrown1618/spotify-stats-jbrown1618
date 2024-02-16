@@ -27,8 +27,6 @@ ATEEZ is currently:
 ![Rank of ATEEZ over time](../../images/artists/ateez/rank_time_series.png)
 ## Top Tracks
 
-- WONDERLAND is:
-    - the #45 track of the last month
 
 ### Top tracks of the last 6 months over time
 

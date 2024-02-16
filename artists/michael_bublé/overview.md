@@ -13,10 +13,6 @@ Michael Bublé is currently:
 - The #44 artist of the last 6 months
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
-## Top Tracks
-
-- Feeling Good is:
-    - the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

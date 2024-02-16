@@ -1,13 +1,13 @@
 # RCA Records Label
 
-100 songs
+103 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- RCA Records Label (70 tracks)
+- RCA Records Label (71 tracks)
 - Monkey Puzzle Records/RCA Records (7 tracks)
 - Kemosabe Records/RCA Records (6 tracks)
 - Citizen Queen/RCA Records (5 tracks)
@@ -15,8 +15,10 @@ Appears as:
 - BPG/RVG/RCA Records (1 tracks)
 - Chris Brown Entertainment/300 Entertainment/RCA Records (1 tracks)
 - Cult Records/RCA Records (1 tracks)
+- Dirty Hit/RCA Records (1 tracks)
 - House of Iona/RCA Records (1 tracks)
 - KAYTRANADA/RCA Records (1 tracks)
+- Kemosabe / RCA Records / Last Kings Music / EMPIRE (1 tracks)
 - Lovett Music/RCA Records (1 tracks)
 - RCA/Legacy (1 tracks)
 - SM Entertainment/RCA Records (1 tracks)
@@ -27,8 +29,8 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 8 | 7 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 7 | 7 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 7 | 6 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 4 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
@@ -39,10 +41,11 @@ Appears as:
 
 
 <details>
-<summary>See all 39 artists</summary>
+<summary>See all 41 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 2 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef6fc1d1e5d9e55fae0c9bad" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74" alt="" width="50" /> | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
@@ -50,6 +53,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba90aa331d770d2a2f003cd96" alt="" width="50" /> | 1 | 1 | Lucky Daye | [🔗](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 1 | 1 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
@@ -58,7 +62,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc7c93edb239b99c22a84bdd9" alt="" width="50" /> | 1 | 1 | Yebba | [🔗](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 1 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 1 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe02244462f981893f5c5c0d" alt="" width="50" /> | 5 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
@@ -68,6 +71,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 1 | 0 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c758dc10677dcff19a8193a" alt="" width="50" /> | 1 | 0 | Wolf Alice | [🔗](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23d93577152cdc4f3a568893" alt="" width="50" /> | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | 1 | 0 | Tove Styrke | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 1 | 0 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
@@ -95,7 +99,7 @@ Appears as:
 
 
 <details>
-<summary>See all 58 albums</summary>
+<summary>See all 61 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -119,6 +123,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | 1 | 1 | Hurts 2B Human | 2019-04-26 | [🔗](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | 1 | 1 | Hot Pink | 2019-11-07 | [🔗](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | 1 | 1 | Freaky Deaky | 2022-02-25 | [🔗](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | 1 | 1 | ELVIS (Original Motion Picture Soundtrack) | 2022-06-24 | [🔗](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c" alt="" width="50" /> | 1 | 1 | Breakaway | 2004-01-17 | [🔗](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) |
@@ -131,6 +136,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | 1 | 0 | The Sound of Silence | 2019-02-15 | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="" width="50" /> | 1 | 0 | Teatro d'ira - Vol. I | 2021-03-19 | [🔗](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | 1 | 0 | Sway | 2018-05-04 | [🔗](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | 1 | 0 | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | 1 | 0 | Slide Away | 2019-08-16 | [🔗](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) |
@@ -142,6 +148,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | 1 | 0 | In Your Honor | 2005-06-14 | [🔗](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | 1 | 0 | Britney Jean (Deluxe Version) | 2013-11-30 | [🔗](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1e8740297489a355564e34" alt="" width="50" /> | 1 | 0 | Blue Weekend | 2021-06-04 | [🔗](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | 1 | 0 | Blue Hawaii | 1961-10-20 | [🔗](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="" width="50" /> | 1 | 0 | Beautiful Trauma | 2017-10-13 | [🔗](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b6375bad39943011986c247" alt="" width="50" /> | 1 | 0 | BUBBA | 2019-12-13 | [🔗](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) |
@@ -163,35 +170,37 @@ Appears as:
 | 17 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 7 | australian pop |
 | 7 | 7 | australian dance |
-| 6 | 4 | [rap](../../genres/rap/overview.md) |
+| 7 | 5 | [rap](../../genres/rap/overview.md) |
 | 6 | 4 | [r&b](../../genres/r_b/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
 
 
 <details>
-<summary>See all 43 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 8 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | [rock](../../genres/rock/overview.md) |
 | 7 | 2 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 7 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
 | 7 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 3 | 2 | garage rock |
 | 2 | 2 | pop soul |
+| 2 | 2 | pop rap |
 | 2 | 1 | talent show |
+| 2 | 1 | italian pop |
+| 2 | 1 | indie rock italiano |
 | 2 | 1 | alternative r&b |
 | 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 1 | 1 | trap |
 | 1 | 1 | south carolina hip hop |
 | 1 | 1 | pov: indie |
-| 1 | 1 | pop rap |
 | 1 | 1 | oakland hip hop |
-| 1 | 1 | italian pop |
-| 1 | 1 | indie rock italiano |
 | 1 | 1 | indie pop rap |
+| 1 | 1 | hip hop |
 | 1 | 1 | contemporary r&b |
-| 1 | 1 | atl hip hop |
+| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 1 | 1 | alt z |
 | 4 | 0 | post-grunge |
 | 4 | 0 | alternative metal |
@@ -201,8 +210,10 @@ Appears as:
 | 1 | 0 | sunshine pop |
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
+| 1 | 0 | modern alternative rock |
 | 1 | 0 | lgbtq+ hip hop |
 | 1 | 0 | indie soul |
+| 1 | 0 | indie rock |
 | 1 | 0 | escape room |
 | 1 | 0 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 0 | doo-wop |
@@ -374,6 +385,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Wrecking Ball | Bangerz (Deluxe Version) | Miley Cyrus | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bba357383c6f9dbb5112392" alt="" width="50" /> | Slide Away | Slide Away | Miley Cyrus | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="" width="50" /> | ZITTI E BUONI | Teatro d'ira - Vol. I | Måneskin | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736096de812d8aa1bd22ab0cf2" alt="" width="50" /> | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | P!nk, Nate Ruess | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4VC5nFbYO4avKksJ9jN4pY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="" width="50" /> | What About Us | Beautiful Trauma | P!nk | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | Hustle | Hurts 2B Human | P!nk | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/6BVmygBQhe4pTZQgKkzstD) |
@@ -436,8 +448,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Lion Sleeps Tonight (Wimoweh) | Wimoweh!!! - The Best Of The Tokens | The Tokens | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d0837e34a3fcc57de9fc93d" alt="" width="50" /> | Say My Name | Sway | Tove Styrke | [RCA Records Label](.) | | [🔗](https://open.spotify.com/track/2XDJzMW1MUWeAIQoMOJeUj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | Freaky Deaky | Freaky Deaky | Tyga, [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe / RCA Records / Last Kings Music / EMPIRE](.) | 💚 | [🔗](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | I Don't Mind (feat. Juicy J) | I Don't Mind (feat. Juicy J) | USHER, Juicy J | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | Smoke (feat. Lucky Daye) | JAGUAR II | Victoria Monét, Lucky Daye | [Lovett Music/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1e8740297489a355564e34" alt="" width="50" /> | Smile | Blue Weekend | Wolf Alice | [Dirty Hit/RCA Records](.) | | [🔗](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | October Sky | October Sky | Yebba | [RCA Records Label](.) | 💚 | [🔗](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | still feel. | Now, Not Yet | half•alive | [half·alive/RCA Records](.) | 💚 | [🔗](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) |
 

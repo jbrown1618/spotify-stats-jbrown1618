@@ -18,27 +18,26 @@ BLACKPINK:
 
 ## Artist Rank
 BLACKPINK is currently:
-- The #20 artist of the last month
-- The #13 artist of the last 6 months
+- The #21 artist of the last month
+- The #11 artist of the last 6 months
 - The #8 artist of all time
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
 
 - Kill This Love is:
-    - the #6 track of all time
+    - the #5 track of all time
 - Crazy Over You is:
     - the #8 track of all time
 - How You Like That is:
-    - the #18 track of the last month
+    - the #24 track of the last month
     - the #9 track of all time
 - Pretty Savage is:
     - the #13 track of all time
 - DDU-DU DDU-DU is:
-    - the #38 track of the last 6 months
-    - the #36 track of all time
+    - the #35 track of all time
 - WHISTLE is:
-    - the #46 track of all time
+    - the #38 track of all time
 
 ### Top tracks of all time over time
 

@@ -110,7 +110,7 @@ Appears as:
 
 
 <details>
-<summary>See all 49 genres</summary>
+<summary>See all 48 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -119,10 +119,10 @@ Appears as:
 | 2 | 1 | progressive rock |
 | 7 | 0 | jazz |
 | 5 | 0 | bebop |
-| 4 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz piano |
 | 3 | 0 | contemporary post-bop |
+| 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | jazz trumpet |
@@ -131,7 +131,6 @@ Appears as:
 | 2 | 0 | easy listening |
 | 2 | 0 | brill building pop |
 | 1 | 0 | yodeling |
-| 1 | 0 | western swing |
 | 1 | 0 | traditional country |
 | 1 | 0 | swing |
 | 1 | 0 | rockabilly |

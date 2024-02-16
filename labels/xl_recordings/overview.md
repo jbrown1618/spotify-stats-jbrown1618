@@ -14,7 +14,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 18 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 18 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 6 | 3 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 
 
@@ -23,7 +23,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 6 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 4 | 2 | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 4 | 2 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
@@ -40,12 +40,12 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 18 | 14 | [rock](../../genres/rock/overview.md) |
-| 18 | 14 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 18 | 14 | oxford indie |
-| 18 | 14 | melancholia |
-| 18 | 14 | [art rock](../../genres/art_rock/overview.md) |
-| 18 | 14 | [alternative rock](../../genres/alternative_rock/overview.md) |
+| 18 | 15 | [rock](../../genres/rock/overview.md) |
+| 18 | 15 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 18 | 15 | oxford indie |
+| 18 | 15 | melancholia |
+| 18 | 15 | [art rock](../../genres/art_rock/overview.md) |
+| 18 | 15 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 6 | 3 | [uk pop](../../genres/uk_pop/overview.md) |
 | 6 | 3 | pop soul |
 | 6 | 3 | [pop](../../genres/pop/overview.md) |
@@ -57,13 +57,13 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Colin Greenwood | 12 | Songwriter |
-| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
-| | Ed O'Brien | 12 | Songwriter |
-| | Philip Selway | 12 | Songwriter |
-| | Nigel Godrich | 12 | Producer |
-| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Colin Greenwood | 13 | Songwriter |
+| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
+| | Ed O'Brien | 13 | Songwriter |
+| | Philip Selway | 13 | Songwriter |
+| | Nigel Godrich | 13 | Producer |
+| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | | Paul Q. Kolderie | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 3 | Songwriter |
 | | Sean Slade | 3 | Producer |
@@ -123,7 +123,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Let Down | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | No Surprises | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Subterranean Homesick Alien | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | | [🔗](https://open.spotify.com/track/2CVV8PtUYYsux8XOzWkCP0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Subterranean Homesick Alien | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/2CVV8PtUYYsux8XOzWkCP0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | Everything In Its Right Place | Kid A | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Pyramid Song | Amnesiac | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 💚 | [🔗](https://open.spotify.com/track/3A9vIxzGBjEfqmDK7H9exS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | Myxomatosis | Hail To the Thief | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | | [🔗](https://open.spotify.com/track/3MW7yZK3kKtjsmJpsvBwyf) |

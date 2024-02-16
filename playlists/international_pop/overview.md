@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[119 tracks (63 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[120 tracks (63 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -36,8 +36,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24690a5cfac78c3ab19c1746" alt="" width="50" /> | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87dc30e540254e0976c4b478" alt="" width="50" /> | 4 | 1 | Isyana Sarasvati | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03862437b06f5865ab89fd7" alt="" width="50" /> | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb97a2403d7b9a631ce0f59c" alt="" width="50" /> | 2 | 1 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb69dcb61d1adee9eeede07486" alt="" width="50" /> | 2 | 1 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb221a9d814fac6d1ebe15cc4" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
@@ -98,6 +98,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb179aad93276b141b9848ca1" alt="" width="50" /> | 1 | 0 | Angela Chang | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | 1 | 0 | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c0e871603f6da8fdf0ac38" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e53e5e26c3cc924a4ca0ceb" alt="" width="50" /> | 1 | 0 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4584e515db2e33c8b920d" alt="" width="50" /> | 1 | 0 | Nkosazana Daughter | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba51bae36c3e40b129f925fe" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
@@ -119,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc147e0888e83919d317c1103" alt="" width="50" /> | 1 | 0 | Kenshi Yonezu | [🔗](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39e39ba2b3216cda7146afa5" alt="" width="50" /> | 1 | 0 | Maluma | [🔗](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9126343e690e70ec5424ddaa" alt="" width="50" /> | 1 | 0 | Christine Fan | [🔗](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9047f938310ea16b68a5bdeb" alt="" width="50" /> | 1 | 0 | Rauw Alejandro | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
 
 </details>
 
@@ -197,7 +197,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | Bunny | 2020-11-25 | [🔗](https://open.spotify.com/album/7KJoNDndoJuxoFVl57NaVk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | 1 | 1 | Brol | 2018-10-05 | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | 1 | 1 | Bando | 2020-01-31 | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="" width="50" /> | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="" width="50" /> | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="" width="50" /> | 1 | 1 | & Co. | 2019-06-12 | [🔗](https://open.spotify.com/album/4pS7NXSZNbvREVxKkOge3I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="" width="50" /> | 1 | 0 | 青春修炼手册 | 2017-01-01 | [🔗](https://open.spotify.com/album/5sJB1R7udfChkgp5VRfY07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 1 | 0 | 青のすみか | 2023-07-07 | [🔗](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) |
@@ -262,7 +262,7 @@
 
 
 <details>
-<summary>See all 80 labels</summary>
+<summary>See all 81 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -333,6 +333,7 @@
 | 1 | 0 | Fearless Records |
 | 1 | 0 | Echame La Culpa PS |
 | 1 | 0 | Bichota |
+| 1 | 0 | Bella Union |
 | 1 | 0 | Aer-born |
 | 1 | 0 | 33cjl. |
 | 1 | 0 | 2022 Z.I. Productions BY PIL LTD |
@@ -367,6 +368,7 @@
 | 5 | 3 | reggaeton |
 | 5 | 3 | [pop](../../genres/pop/overview.md) |
 | 3 | 3 | sunnlensk tonlist |
+| 3 | 3 | latin viral pop |
 | 3 | 3 | icelandic pop |
 | 3 | 3 | alt z |
 | 5 | 2 | anime rock |
@@ -378,7 +380,6 @@
 | 3 | 2 | bitpop |
 | 2 | 2 | v-pop |
 | 2 | 2 | picopop |
-| 2 | 2 | latin viral pop |
 | 2 | 2 | italian pop |
 | 2 | 2 | italian hip hop |
 | 2 | 2 | french pop |
@@ -435,6 +436,7 @@
 | 2 | 0 | chinese idol pop |
 | 2 | 0 | 48g |
 | 1 | 0 | vocaloid |
+| 1 | 0 | trondheim indie |
 | 1 | 0 | thai pop |
 | 1 | 0 | taiwan indie |
 | 1 | 0 | rap francais |
@@ -452,7 +454,6 @@
 | 1 | 0 | japanese metalcore |
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
-| 1 | 0 | israeli rock |
 
 </details>
 
@@ -492,7 +493,7 @@
 | | 板井直樹 (Itai, Naoki) | 1 | Arranger |
 | | EDOMETAL | 1 | Lyricist |
 | | Derek Dixie | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
 | | Kumaar | 1 | Lyricist |
 | | John Hill | 1 | Songwriter |
 | | Richard "P2J" Isong | 1 | Producer, Songwriter |
@@ -552,7 +553,7 @@
 |:---|---:|
 | 2023 | 15 |
 | [2022](2022.md) | 21 |
-| 2021 | 9 |
+| 2021 | 10 |
 | 2020 | 11 |
 | 2019 | 16 |
 | 2018 | 12 |
@@ -576,7 +577,7 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27386aa667d96341fd6c41841e0" alt="Amigos (with Becky G)" width="50" /> | Amigos (with Becky G) (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> | 怎樣 (2001-01-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="Amigos (with Becky G)" width="50" /> | Amigos (with Becky G) (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> | 怎樣 (2001-01-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Schwarzes Herz (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75971bdd0f5c34b86a152b4" alt="ái" width="50" /> | ái (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> | 海嘯 (2001-05-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="MAÑANA SERÁ BONITO (BICHOTA SEASON)" width="50" /> | MAÑANA SERÁ BONITO (BICHOTA SEASON) (2023-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | Hijas del Tomate (2002) |

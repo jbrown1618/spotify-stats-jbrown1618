@@ -21,15 +21,15 @@ Billlie:
 
 ## Artist Rank
 Billlie is currently:
-- The #18 artist of the last month
+- The #19 artist of the last month
 - The #24 artist of the last 6 months
 - The #20 artist of all time
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
 
-- RING ma Bell (what a wonderful world) is:
-    - the #27 track of the last month
+- overlap (1/1) is:
+    - the #40 track of the last month
 
 ### Top tracks of the last 6 months over time
 

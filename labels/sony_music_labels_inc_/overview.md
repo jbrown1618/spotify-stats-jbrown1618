@@ -90,11 +90,12 @@ Appears as:
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 23 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | renaissance |
+| 1 | 0 | medieval |
 | 1 | 0 | japanese post-hardcore |
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
@@ -110,7 +111,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 23 genres](../../images/labels/sony_music_labels_inc_/genres.png)
 
 ## Top Producers
 

@@ -10,7 +10,7 @@
 
 ## Artist Rank
 IU is currently:
-- The #11 artist of the last month
+- The #10 artist of the last month
 - The #7 artist of the last 6 months
 - The #3 artist of all time
 
@@ -20,13 +20,13 @@ IU is currently:
 - BBIBBI is:
     - the #12 track of all time
 - LILAC is:
-    - the #17 track of all time
+    - the #18 track of all time
 - Coin is:
-    - the #23 track of all time
+    - the #22 track of all time
 - My sea is:
     - the #29 track of all time
 - Love wins all is:
-    - the #17 track of the last month
+    - the #22 track of the last month
 
 ### Top tracks of all time over time
 
@@ -46,7 +46,7 @@ IU is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27355d0265cc488deebe40d79a6ab67616d0000b27378551e802bd7b81d7af67dfbab67616d0000b273ae46d76700c51479a66e8c34ab67616d0000b273bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 3 | [K-R&B](../../playlists/k-r_b/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273569689ef998a192f7809467aab67616d0000b2738683845c563e9e2a478e2edbab67616d0000b273c5b27abd550a012f3d93d1ffab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2733de9733addfb0b91b8eb30b0ab67616d0000b2738cd1023ed6ec97598937d55cab67616d0000b273958e22248628086c39bdf786ab67616d0000b273e9fc95cc1d0fba3d48ce2d39" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2733613e1e0d35867a0814005a9ab67616d0000b2734a8e5eaab8b02db02e487c27ab67616d0000b27359fcda8d47bbd0f6c2bf1647ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 
 ## Top Albums

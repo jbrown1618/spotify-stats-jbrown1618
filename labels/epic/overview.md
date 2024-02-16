@@ -1,13 +1,13 @@
 # Epic
 
-96 songs
+98 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Epic (74 tracks)
+- Epic (76 tracks)
 - Syco Music/Epic (10 tracks)
 - Epic/Legacy (4 tracks)
 - Epic/Not So Fast (2 tracks)
@@ -33,7 +33,7 @@ Appears as:
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -47,6 +47,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
@@ -58,7 +59,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 27 artists](../../images/labels/epic/artists.png)
+![Bar chart of top 28 artists](../../images/labels/epic/artists.png)
 
 ## Top Albums
 
@@ -77,12 +78,13 @@ Appears as:
 
 
 <details>
-<summary>See all 34 albums</summary>
+<summary>See all 35 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | 2 | 0 | Fetch The Bolt Cutters | 2020-04-17 | [🔗](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
@@ -116,9 +118,9 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 62 | 41 | [viral pop](../../genres/viral_pop/overview.md) |
+| 63 | 40 | [lilith](../../genres/lilith/overview.md) |
 | 61 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 61 | 40 | [lilith](../../genres/lilith/overview.md) |
 | 61 | 40 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
@@ -128,7 +130,7 @@ Appears as:
 
 
 <details>
-<summary>See all 40 genres</summary>
+<summary>See all 44 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -137,10 +139,11 @@ Appears as:
 | 3 | 2 | colombian pop |
 | 2 | 2 | celtic rock |
 | 5 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
+| 5 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 4 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 4 | 1 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 1 | talent show |
-| 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
+| 3 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
 | 3 | 1 | girl group |
 | 3 | 1 | [folk](../../genres/folk/overview.md) |
 | 2 | 1 | [rock](../../genres/rock/overview.md) |
@@ -150,14 +153,17 @@ Appears as:
 | 2 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
 | 2 | 1 | [album rock](../../genres/album_rock/overview.md) |
 | 1 | 1 | women's music |
-| 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
-| 1 | 1 | neo soul |
+| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
-| 1 | 1 | atl hip hop |
+| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 1 | 1 | alternative r&b |
 | 1 | 1 | afrofuturism |
+| 2 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 0 | folk rock |
+| 2 | 0 | dark pop |
+| 2 | 0 | chamber pop |
 | 2 | 0 | brill building pop |
+| 2 | 0 | [art pop](../../genres/art_pop/overview.md) |
 | 1 | 0 | novelty |
 | 1 | 0 | new romantic |
 | 1 | 0 | melodic rap |
@@ -308,6 +314,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | All I Want for Christmas Is You | All I Want for Christmas Is You | Fifth Harmony | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | Worth It (feat. Kid Ink) | Reflection (Deluxe) | Fifth Harmony, Kid Ink | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl | 7/27 (Deluxe) | Fifth Harmony | [Epic](.), [Syco Music](../syco_music) | | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | I Want You To Love Me | Fetch The Bolt Cutters | Fiona Apple | [Epic](.) | | [🔗](https://open.spotify.com/track/73SBAGI4fPFm4VkB3NjXq8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | Shameika | Fetch The Bolt Cutters | Fiona Apple | [Epic](.) | | [🔗](https://open.spotify.com/track/2pDKE8Q40TDGPl1O11DKKn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered | Faith | George Michael | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](.) | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](.) | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |

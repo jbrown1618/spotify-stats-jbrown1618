@@ -1,6 +1,6 @@
 # rap
 
-48 songs
+50 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,15 +23,17 @@
 
 
 <details>
-<summary>See all 49 artists</summary>
+<summary>See all 52 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3eed54e1eb0fed222434d867" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb098d901516df803fdfa7bb74" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb204ce9bb25bd19a056cac78a" alt="" width="50" /> | 1 | 1 | Wale | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb749bcc7f4b8d1d60f5f13744" alt="" width="50" /> | 1 | 1 | Kaliii | [🔗](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
@@ -47,6 +49,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 2 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/a3823abbd476fa00cdf95a9f5cbbe09d2f96add2" alt="" width="50" /> | 1 | 0 | Jamie Foxx | [🔗](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb811da3b2e7c9e5a9c1a6c4f7" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | 1 | 0 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf" alt="" width="50" /> | 1 | 0 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
@@ -90,7 +93,7 @@
 
 
 <details>
-<summary>See all 44 albums</summary>
+<summary>See all 46 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -103,6 +106,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | 1 | 1 | Graduation | 2007-09-11 | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | 1 | 1 | Freaky Deaky | 2022-02-25 | [🔗](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="" width="50" /> | 1 | 1 | FATHER OF 4 | 2019-02-22 | [🔗](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27399da48a530f6ca2ef86da3cc" alt="" width="50" /> | 1 | 1 | Cole World: The Sideline Story | 2011-09-27 | [🔗](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) |
@@ -128,6 +132,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | 1 | 0 | Confessions of a Dangerous Mind | 2019-05-10 | [🔗](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | 1 | 0 | Confessions (Expanded Edition) | 2004-03-23 | [🔗](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | 1 | 0 | Bobby Tarantino II | 2018-03-09 | [🔗](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737582716b3666a5235d5af4ea" alt="" width="50" /> | 1 | 0 | "Awaken, My Love!" | 2016-12-02 | [🔗](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) |
 
 </details>
 
@@ -138,8 +143,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 7 | 5 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 7 | 5 | Aftermath |
-| 6 | 4 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 5 | 4 | Top Dawg Entertainment |
 | 5 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 5 | 2 | Roc-A-Fella |
@@ -151,7 +156,7 @@
 
 
 <details>
-<summary>See all 36 labels</summary>
+<summary>See all 40 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -163,6 +168,9 @@
 | 1 | 1 | Quality Control Music |
 | 1 | 1 | MSFTS |
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
+| 1 | 1 | Last Kings Music |
+| 1 | 1 | Kemosabe Records |
+| 1 | 1 | EMPIRE |
 | 1 | 1 | BPG |
 | 1 | 1 | Asylum |
 | 1 | 1 | 3H |
@@ -176,6 +184,7 @@
 | 1 | 0 | [Jive](../../labels/jive/overview.md) |
 | 1 | 0 | J Records |
 | 1 | 0 | IDJ |
+| 1 | 0 | Glassnote Entertainment Group LLC |
 | 1 | 0 | Gamebread |
 | 1 | 0 | Def Jam |
 | 1 | 0 | Collipark |
@@ -312,10 +321,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="SOS" width="50" /> | SOS (2022-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="Sweetest Pie" width="50" /> | Sweetest Pie (2022-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> | souljaboytellem.com (2007-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (2020-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Graduation (2007-09-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | The Blueprint 3 (2009-09-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Meet The Woo (2019-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="Pink Friday" width="50" /> | Pink Friday (2010-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="Freaky Deaky" width="50" /> | Freaky Deaky (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> | souljaboytellem.com (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Graduation (2007-09-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (2020-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | The Blueprint 3 (2009-09-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="Pink Friday" width="50" /> | Pink Friday (2010-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/rap/years.png)

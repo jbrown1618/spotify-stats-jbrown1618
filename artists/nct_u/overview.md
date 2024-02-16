@@ -17,7 +17,7 @@ NCT U:
 - has member 大崎将太郎 (Osaki, Shotaro)
 - has member TAEIL
 - has member TAEYONG
-- has member TEN
+- has member [TEN](../ten/overview.md)
 - has member 肖德俊 (Xiao Dejun)
 - is a subgroup of NCT
 
@@ -65,7 +65,7 @@ NCT U:
 
 ### Member Credits
 
-| | JAEHYUN | JAEMIN | LUCAS | MARK | TAEYONG | TEN | 大崎将太郎 (Osaki, Shotaro) | 肖德俊 (Xiao Dejun) | 董寺丞 (Dong, Sicheng) | 도영 (DOYOUNG) | 정우 (JUNGWOO) |
+| | JAEHYUN | JAEMIN | LUCAS | MARK | TAEYONG | [TEN](../ten/overview.md) | 大崎将太郎 (Osaki, Shotaro) | 肖德俊 (Xiao Dejun) | 董寺丞 (Dong, Sicheng) | 도영 (DOYOUNG) | 정우 (JUNGWOO) |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Performer | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |

@@ -1,6 +1,6 @@
 # adult standards
 
-53 songs
+52 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 26 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -34,7 +34,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d8f97058ff993df0f4eb9ee" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc7e23c411bb95582ce7b97" alt="" width="50" /> | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
-| <img src="https://i.scdn.co/image/66a7fe2b2fd9388cf860f88e8636910f161be6cd" alt="" width="50" /> | 1 | 0 | Gene Autry | [🔗](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) |
 | <img src="https://i.scdn.co/image/85e8343b215c98ad063417ac2f6b63919557721a" alt="" width="50" /> | 1 | 0 | Louis Prima | [🔗](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" alt="" width="50" /> | 1 | 0 | Brenda Lee | [🔗](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) |
 | <img src="https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e" alt="" width="50" /> | 1 | 0 | Duke Ellington | [🔗](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) |
@@ -48,7 +47,7 @@
 </details>
 
 
-![Bar chart of top 27 artists](../../images/genres/adult_standards/artists.png)
+![Bar chart of top 26 artists](../../images/genres/adult_standards/artists.png)
 
 ![Comparison of Artist](../../images/genres/adult_standards/artists_comparison.png)
 ## Top Albums
@@ -68,7 +67,7 @@
 
 
 <details>
-<summary>See all 41 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -90,7 +89,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | 1 | 0 | Rudolph The Red Nosed Reindeer And Other Christmas Classics | 1947 | [🔗](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="" width="50" /> | 1 | 0 | Nothing But The Best (2008 Remastered) | 2008-05-13 | [🔗](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
@@ -121,8 +119,8 @@
 | 2 | 1 | [GRP](../../labels/grp/overview.md) |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 1 | [MOTOWN](../../labels/motown/overview.md) |
-| 4 | 0 | [Legacy](../../labels/legacy/overview.md) |
-| 4 | 0 | [Columbia](../../labels/columbia/overview.md) |
+| 3 | 0 | [Legacy](../../labels/legacy/overview.md) |
+| 3 | 0 | [Geffen](../../labels/geffen/overview.md) |
 
 
 <details>
@@ -130,7 +128,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 3 | 0 | [Geffen](../../labels/geffen/overview.md) |
+| 3 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 0 | Craft Recordings |
 | 2 | 0 | CAPITOL CATALOG MKT (C92) |
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
@@ -195,11 +193,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | love (Deluxe Edition) (2018-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | Holiday Inn (Original Motion Picture Soundtrack) (1942-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="The Classic Christmas Album" width="50" /> | The Classic Christmas Album (1945) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | Christmas (Deluxe Special Edition) (2012-11-09) | <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="White Christmas" width="50" /> | White Christmas (1945-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Crazy Love (2009-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="Rudolph The Red Nosed Reindeer And Other Christmas Classics" width="50" /> | Rudolph The Red Nosed Reindeer And Other Christmas Classics (1947) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (2008 Remastered)" width="50" /> | Nothing But The Best (2008 Remastered) (2008-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | Satchmo Serenades (1952-04-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Love, Ella (2007-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (1954-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (2007-04-30) | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Solitude (1956-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It&#x27;s Time" width="50" /> | It's Time (2005-02-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin&#x27; Lovers! (Remastered)" width="50" /> | Songs For Swingin' Lovers! (Remastered) (1956-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Come Fly with Me (2004-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | Billie Holiday (1957-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Crazy Love (2009-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | Satchmo Serenades (1952-04-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (2008 Remastered)" width="50" /> | Nothing But The Best (2008 Remastered) (2008-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable (1954-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Love, Ella (2007-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Solitude (1956-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | Call Me Irresponsible (2007-04-30) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin&#x27; Lovers! (Remastered)" width="50" /> | Songs For Swingin' Lovers! (Remastered) (1956-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It&#x27;s Time" width="50" /> | It's Time (2005-02-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | Billie Holiday (1957-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | Come Fly with Me (2004-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |
 
 ![Bar chart of number of songs by year](../../images/genres/adult_standards/years.png)

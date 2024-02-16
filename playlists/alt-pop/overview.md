@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="Alt-Pop" width="100" />
 
-[172 tracks (122 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
+[174 tracks (124 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
 
 [See Track Features](audio_features.md)
 
@@ -26,13 +26,14 @@
 
 
 <details>
-<summary>See all 87 artists</summary>
+<summary>See all 88 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee6731023002d5872561dcd9" alt="" width="50" /> | 4 | 3 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 5 | 2 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 3 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 2 | 2 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb874c6e61680379852093994c" alt="" width="50" /> | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83c74866e5bc047479cd3413" alt="" width="50" /> | 7 | 1 | Sammy Rae & The Friends | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
@@ -100,7 +101,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | 1 | 0 | Tove Styrke | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 1 | 0 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90b6980f0ddd2a5c3d6a400f" alt="" width="50" /> | 1 | 0 | Lerin Herzer | [🔗](https://open.spotify.com/artist/1O3tPNfosJcQQNI6wmR5Xt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb10e2b618880f429a3967185" alt="" width="50" /> | 1 | 0 | Lizzy McAlpine | [🔗](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb7e3d5ad48cc67f32a3a0930" alt="" width="50" /> | 1 | 0 | Lizzy McAlpine | [🔗](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | 1 | 0 | Ryan Lott | [🔗](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835" alt="" width="50" /> | 1 | 0 | John Mayer | [🔗](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | 1 | 0 | Adra Boo | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
@@ -132,7 +133,7 @@
 
 
 <details>
-<summary>See all 96 albums</summary>
+<summary>See all 98 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -167,6 +168,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec" alt="" width="50" /> | 1 | 1 | Tick Tock (feat. 24kGoldn) | 2020-08-21 | [🔗](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="" width="50" /> | 1 | 1 | The Widow Knows E.P. | 2014-08-14 | [🔗](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | 1 | 1 | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357cc241e3fc4e95eea8c4b20" alt="" width="50" /> | 1 | 1 | The Electric Lady | 2013-09-06 | [🔗](https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | 1 | 1 | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08fc202dde1427b4016c021" alt="" width="50" /> | 1 | 1 | Tears of Gold | 2019-11-20 | [🔗](https://open.spotify.com/album/7INSJKOxZcMGywJyf9bEWi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | 1 | 1 | Taxidriver OST Part.1 | 2021-04-16 | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | 1 | 1 | Surrender | 2022-07-29 | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
@@ -245,7 +248,7 @@
 
 
 <details>
-<summary>See all 61 labels</summary>
+<summary>See all 63 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -254,9 +257,11 @@
 | 3 | 3 | Sony BMG Music UK |
 | 3 | 3 | Hajanga Records |
 | 5 | 2 | Lux Finite Music |
+| 2 | 2 | Wondaland |
 | 2 | 2 | Faouzia 2019 |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | [Capitol Records](../../labels/capitol_records/overview.md) |
+| 2 | 2 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 7 | 1 | Nettwerk Records |
 | 4 | 1 | ATO Records |
 | 3 | 1 | Kimbra |
@@ -323,7 +328,7 @@
 
 
 <details>
-<summary>See all 72 genres</summary>
+<summary>See all 77 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -339,8 +344,13 @@
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 9 | 3 | nyc pop |
 | 5 | 3 | deep indie singer-songwriter |
+| 2 | 2 | [r&b](../../genres/r_b/overview.md) |
+| 2 | 2 | [neo soul](../../genres/neo_soul/overview.md) |
 | 2 | 2 | irish singer-songwriter |
 | 2 | 2 | electro swing |
+| 2 | 2 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 2 | 2 | alternative r&b |
+| 2 | 2 | afrofuturism |
 | 5 | 1 | candy pop |
 | 4 | 1 | deep acoustic pop |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -529,10 +539,10 @@
 | 2016 | 8 |
 | 2015 | 13 |
 | 2014 | 9 |
-| 2013 | 3 |
+| 2013 | 4 |
 | 2012 | 12 |
 | 2011 | 13 |
-| 2010 | 1 |
+| 2010 | 2 |
 | 2009 | 13 |
 | 2007 | 1 |
 | 2006 | 5 |

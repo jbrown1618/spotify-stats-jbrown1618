@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="" width="50" /> | 18 | 0 | Vivaldi: Four Seasons | 2008-01-01 | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | 18 | 0 | Vivaldi: Four Seasons | 2008-01-01 | [🔗](https://open.spotify.com/album/4Uc1Cus3I9LjkI2XwtQnfc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | 16 | 0 | Vivaldi: The Four Seasons. | 2007-10-01 | [🔗](https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh) |
 
 
@@ -63,5 +63,5 @@
 
 | ​ | 5 newest albums | ​​ | 5 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) | <img src="https://i.scdn.co/image/ab67616d0000b273203bf132896e0a4be9638dda" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons. (2007-10-01) | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Vivaldi: Four Seasons (2008-01-01) |

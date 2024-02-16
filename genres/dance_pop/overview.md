@@ -266,7 +266,7 @@
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Def Soul |
 | 1 | 0 | Collipark |
-| 1 | 0 | Bad Boy |
+| 1 | 0 | [Bad Boy](../../labels/bad_boy/overview.md) |
 
 </details>
 

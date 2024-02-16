@@ -80,7 +80,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Producer, Songwriter |
 | | Devin Nakao | 1 | Producer |
 | | Tia Scola | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2f00549d824cec6a66629e32" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
 | | Ed Sheeran | 1 | Songwriter |
 
 

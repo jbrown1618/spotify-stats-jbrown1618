@@ -77,7 +77,7 @@ Appears as:
 |---:|---:|:---|
 | 2 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
-| 1 | 0 | [glam rock](../../genres/glam_rock/overview.md) |
+| 1 | 0 | glam rock |
 | 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
 | 1 | 0 | [art rock](../../genres/art_rock/overview.md) |
 | 1 | 0 | alternative hip hop |

@@ -23,7 +23,7 @@ WJSN:
 
 ## Artist Rank
 WJSN is currently:
-- The #28 artist of the last month
+- The #31 artist of the last month
 
 
 ## Featured on Playlists

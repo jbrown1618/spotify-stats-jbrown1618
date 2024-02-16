@@ -313,7 +313,7 @@
 
 
 <details>
-<summary>See all 36 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -332,6 +332,7 @@
 | 1 | 0 | renaissance |
 | 1 | 0 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 1 | 0 | medieval |
 | 1 | 0 | hengelliset laulut |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | gregorian chant |

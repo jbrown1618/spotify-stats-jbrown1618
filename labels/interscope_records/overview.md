@@ -66,7 +66,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb57332e3fc2b97bb33577e65" alt="" width="50" /> | 2 | 0 | The All-American Rejects | [🔗](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 0 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb97a2403d7b9a631ce0f59c" alt="" width="50" /> | 1 | 0 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb69dcb61d1adee9eeede07486" alt="" width="50" /> | 1 | 0 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40fbebe8dee2989b9f4efe9d" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -199,7 +199,7 @@ Appears as:
 | 1 | 0 | ghanaian pop |
 | 1 | 0 | ghanaian alternative |
 | 1 | 0 | chicago bop |
-| 1 | 0 | atl hip hop |
+| 1 | 0 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 1 | 0 | alternative r&b |
 | 1 | 0 | afrobeats |
 | 1 | 0 | afro r&b |
@@ -372,7 +372,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | Therefore I Am | Happier Than Ever | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="" width="50" /> | TV | Guitar Songs | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | | [🔗](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] | What Was I Made For? [From The Motion Picture "Barbie"] | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy](../bad_boy), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Demons | Night Visions | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Radioactive | Night Visions | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | Believer | Evolve | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
@@ -424,7 +424,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="" width="50" /> | Gives You Hell | When The World Comes Down | The All-American Rejects | [Interscope](.) | | [🔗](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | Good Thing (with Kehlani) | Good Thing (with Kehlani) | Zedd, Kehlani | [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273645606c85724da85f15f6dee" alt="" width="50" /> | All The Small Things | Enema Of The State | blink-182 | [Interscope](.) | | [🔗](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Bad Boy / Interscope](.) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Bad Boy](../bad_boy), [Interscope Records](.) | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
 
 </details>
 

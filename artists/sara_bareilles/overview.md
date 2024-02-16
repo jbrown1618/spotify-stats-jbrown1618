@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Sara Bareilles is currently:
-- The #7 artist of the last month
+- The #9 artist of the last month
 - The #22 artist of the last 6 months
 - The #24 artist of all time
 
@@ -18,9 +18,9 @@ Sara Bareilles is currently:
 ## Top Tracks
 
 - Machine Gun is:
-    - the #26 track of the last month
+    - the #35 track of the last month
 - Between the Lines is:
-    - the #28 track of the last month
+    - the #37 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

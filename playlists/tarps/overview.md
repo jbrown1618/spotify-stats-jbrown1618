@@ -240,7 +240,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 3 | 3 | neo soul |
+| 3 | 3 | [neo soul](../../genres/neo_soul/overview.md) |
 | 3 | 3 | merseybeat |
 | 3 | 3 | [british invasion](../../genres/british_invasion/overview.md) |
 | 6 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
@@ -251,13 +251,14 @@
 | 3 | 2 | indie folk |
 | 3 | 2 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 3 | 2 | british soul |
-| 3 | 2 | atl hip hop |
+| 3 | 2 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
 | 2 | 2 | motown |
 | 2 | 2 | [electropop](../../genres/electropop/overview.md) |
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
+| 2 | 2 | classic soul |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 4 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 1 | [folk](../../genres/folk/overview.md) |
@@ -291,7 +292,6 @@
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
 | 1 | 1 | country road |
-| 1 | 1 | classic soul |
 | 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |

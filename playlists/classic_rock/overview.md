@@ -201,7 +201,7 @@
 | 31 | 22 | merseybeat |
 | 28 | 17 | [hard rock](../../genres/hard_rock/overview.md) |
 | 26 | 13 | [soft rock](../../genres/soft_rock/overview.md) |
-| 16 | 12 | [glam rock](../../genres/glam_rock/overview.md) |
+| 16 | 12 | glam rock |
 | 17 | 11 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 

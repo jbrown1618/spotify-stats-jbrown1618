@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[405 tracks (292 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[407 tracks (294 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -19,8 +19,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 15 | 12 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 14 | 12 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 14 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 11 | 9 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 14 | 8 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 10 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | 8 | 7 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 7 | 7 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 
@@ -53,6 +53,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb292575f7d081016e04dff9ee" alt="" width="50" /> | 3 | 3 | The Pussycat Dolls | [🔗](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 3 | 3 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | 3 | 3 | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 3 | 3 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 3 | 3 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 5 | 2 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
@@ -69,11 +70,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | 3 | 2 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 2 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 2 | 2 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9414ef07d0ca697726912df1" alt="" width="50" /> | 2 | 2 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 2 | 2 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 2 | 2 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb57138b98e7ddd5a86ee97a9b" alt="" width="50" /> | 2 | 2 | OneRepublic | [🔗](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 2 | 2 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | 2 | 2 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -107,7 +108,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f4a1dbe1ac737577724f62c" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe6d377ce63a248c0108605" alt="" width="50" /> | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
@@ -250,12 +250,12 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 38 | 28 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 30 | 25 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 31 | 26 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 32 | 23 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 28 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
+| 23 | 15 | [Columbia](../../labels/columbia/overview.md) |
 | 17 | 15 | [Epic](../../labels/epic/overview.md) |
 | 22 | 14 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 22 | 14 | [Columbia](../../labels/columbia/overview.md) |
 | 21 | 14 | [Warner Records](../../labels/warner_records/overview.md) |
 | 14 | 12 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 14 | 12 | [Darkroom](../../labels/darkroom/overview.md) |
@@ -272,9 +272,9 @@
 | 14 | 10 | [Jive](../../labels/jive/overview.md) |
 | 11 | 7 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 7 | 7 | Monkey Puzzle Records |
+| 7 | 6 | Kemosabe Records |
 | 10 | 5 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 6 | 5 | Kemosabe Records |
-| 5 | 5 | Bad Boy |
+| 5 | 5 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 5 | 4 | Beluga Heights |
 | 4 | 4 | Olivia Rodrigo PS |
 | 4 | 4 | Atlantic Records UK |
@@ -303,6 +303,7 @@
 | 2 | 2 | G.O.O.D. Music |
 | 2 | 2 | Elektra (NEK) |
 | 2 | 2 | Elektra |
+| 2 | 2 | EMPIRE |
 | 2 | 2 | Cash Money |
 | 2 | 2 | Artist Partner |
 | 2 | 2 | ATG |
@@ -333,6 +334,7 @@
 | 1 | 1 | MSFTS |
 | 1 | 1 | Lauv |
 | 1 | 1 | Latium |
+| 1 | 1 | Last Kings Music |
 | 1 | 1 | Jonas Brothers Recording |
 | 1 | 1 | JOYFACE Records |
 | 1 | 1 | J Records |
@@ -345,7 +347,6 @@
 | 1 | 1 | Friends Keep Secrets |
 | 1 | 1 | Faouzia 2019 |
 | 1 | 1 | FSF |
-| 1 | 1 | EMPIRE |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
 | 1 | 1 | [EMI](../../labels/emi/overview.md) |
 | 1 | 1 | Downtown Recordings |
@@ -355,7 +356,6 @@
 | 1 | 1 | Bad Dreams Records |
 | 1 | 1 | BPG |
 | 1 | 1 | Arista |
-| 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 
 </details>
 
@@ -366,16 +366,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 321 | 232 | [pop](../../genres/pop/overview.md) |
+| 322 | 233 | [pop](../../genres/pop/overview.md) |
 | 103 | 73 | [dance pop](../../genres/dance_pop/overview.md) |
 | 31 | 24 | [art pop](../../genres/art_pop/overview.md) |
 | 35 | 21 | [uk pop](../../genres/uk_pop/overview.md) |
 | 22 | 17 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
-| 15 | 13 | neo soul |
+| 15 | 13 | [r&b](../../genres/r_b/overview.md) |
+| 15 | 13 | [neo soul](../../genres/neo_soul/overview.md) |
 | 14 | 12 | [viral pop](../../genres/viral_pop/overview.md) |
-| 14 | 12 | [r&b](../../genres/r_b/overview.md) |
 | 14 | 12 | barbadian pop |
-| 13 | 10 | [rap](../../genres/rap/overview.md) |
+| 14 | 11 | [rap](../../genres/rap/overview.md) |
 
 
 <details>
@@ -383,7 +383,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 12 | 10 | atl hip hop |
+| 12 | 10 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 10 | 10 | australian pop |
 | 14 | 9 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 14 | 8 | pop soul |
@@ -395,19 +395,19 @@
 | 12 | 7 | british soul |
 | 10 | 7 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 10 | 7 | metropopolis |
+| 8 | 7 | talent show |
 | 7 | 7 | australian dance |
 | 7 | 7 | alternative r&b |
 | 8 | 6 | [rock](../../genres/rock/overview.md) |
 | 8 | 6 | boy band |
-| 7 | 6 | talent show |
 | 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
 | 8 | 5 | uk dance |
 | 7 | 5 | [electropop](../../genres/electropop/overview.md) |
+| 6 | 5 | pop rap |
 | 5 | 5 | uk funky |
 | 5 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 5 | 5 | afrofuturism |
 | 8 | 4 | indietronica |
-| 5 | 4 | pop rap |
 | 5 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 5 | 4 | alt z |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
@@ -435,8 +435,10 @@
 | 7 | 1 | pop dance |
 | 7 | 1 | edm |
 | 3 | 1 | etherpop |
+| 2 | 1 | trap |
 | 2 | 1 | shiver pop |
 | 2 | 1 | indy indie |
+| 2 | 1 | hip hop |
 | 2 | 1 | gauze pop |
 | 1 | 1 | vapor pop |
 | 1 | 1 | thai indie pop |
@@ -471,8 +473,6 @@
 | 4 | 0 | house |
 | 3 | 0 | progressive house |
 | 2 | 0 | singer-songwriter pop |
-| 2 | 0 | modern indie pop |
-| 2 | 0 | electro house |
 
 </details>
 
@@ -490,9 +490,9 @@
 | | Sam Holland | 21 | Producer |
 | | Manny Marroquin | 19 | Producer |
 | | Laura Sisk | 15 | Producer |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 13 | Songwriter |
 | | Jack Antonoff | 13 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 13 | Songwriter, Producer |
+| | FINNEAS | 13 | Lyricist, Producer, Songwriter, Arranger |
 
 
 <details>
@@ -500,96 +500,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | FINNEAS | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | Łukasz Gottwald (Gottwald, Łukasz) | 13 | Songwriter |
 | | Shellback | 12 | Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
-| | Dr. Luke | 10 | Producer |
 | | Mark "Spike" Stent | 10 | Producer |
 | | Phil Tan | 10 | Producer |
-| | Philip Lawrence | 9 | Songwriter |
+| | Dr. Luke | 10 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
 | | Michael Ilbert | 9 | Producer |
-| | Marcos Tovar | 9 | Producer |
-| | ILYA | 9 | Producer, Songwriter |
+| | Philip Lawrence | 9 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | | Kuk Harrell | 9 | Producer |
 | | Rob Kinelski | 9 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
-| | Savan Kotecha | 8 | Songwriter, Producer |
+| | Marcos Tovar | 9 | Producer |
+| | ILYA | 9 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | Josh Gudwin | 8 | Producer |
+| | Savan Kotecha | 8 | Songwriter, Producer |
 | | Charles Moniz | 7 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
-| | Mikkel Storleer Eriksen | 7 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
 | | Greg Kurstin | 7 | Producer, Songwriter |
+| | Mikkel Storleer Eriksen | 7 | Songwriter, Producer |
 | | Jonathan Low | 7 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
 | | Tor Erik Hermansen | 7 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
 | | Stargate | 7 | Producer |
-| | Bryce Dessner | 6 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
 | | Alex Pasco | 6 | Producer |
-| | Aaron Dessner | 6 | Producer, Songwriter |
-| | Ricky Reed | 6 | Producer, Songwriter, Arranger |
-| | Emily Wright | 6 | Producer |
-| | Tom Elmhirst | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 6 | Producer, Songwriter, Arranger |
+| | Emily Wright | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
-| | Jack Patterson | 5 | Producer, Songwriter |
-| | Guy Berryman | 5 | Songwriter |
-| | Frank Dukes | 5 | Songwriter, Producer |
-| | Louis Bell | 5 | Songwriter, Producer |
-| | James Fauntleroy | 5 | Songwriter |
-| | Jaycen Joshua | 5 | Producer |
-| | Tyler Johnson | 5 | Producer, Songwriter |
-| | Will Champion | 5 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 5 | Songwriter |
-| | Jacob Kasher | 5 | Songwriter |
+| | Tom Elmhirst | 6 | Producer |
+| | Ricky Reed | 6 | Producer, Songwriter, Arranger |
+| | Aaron Dessner | 6 | Producer, Songwriter |
+| | Bryce Dessner | 6 | Arranger |
 | | RedOne | 5 | Producer, Songwriter, Arranger |
-| | Jonny Buckland | 5 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 5 | Songwriter |
-| | Chris Martin | 5 | Songwriter |
-| | Adam Levine | 5 | Lyricist, Songwriter |
-| | Julian Burg | 5 | Producer |
-| | Rami | 5 | Songwriter, Producer |
-| | Andrew Watt | 5 | Songwriter, Producer |
-| | Ari Levine | 5 | Producer, Songwriter |
-| | Ali Tamposi | 5 | Songwriter |
+| | Jaycen Joshua | 5 | Producer |
+| | Guy Berryman | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 5 | Songwriter |
 | | Brody Brown | 5 | Songwriter |
+| | Tyler Johnson | 5 | Producer, Songwriter |
+| | Julian Burg | 5 | Producer |
+| | Andrew Watt | 5 | Songwriter, Producer |
+| | Adam Levine | 5 | Lyricist, Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
+| | Frank Dukes | 5 | Songwriter, Producer |
+| | Chris Martin | 5 | Songwriter |
+| | Ari Levine | 5 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 5 | Songwriter |
+| | James Fauntleroy | 5 | Songwriter |
+| | Will Champion | 5 | Songwriter |
+| | Jacob Kasher | 5 | Songwriter |
+| | Jack Patterson | 5 | Producer, Songwriter |
+| | Louis Bell | 5 | Songwriter, Producer |
+| | Rami | 5 | Songwriter, Producer |
+| | Ali Tamposi | 5 | Songwriter |
 | | Caroline Ailin | 4 | Songwriter, Producer |
 | | The Smeezingtons | 4 | Producer |
-| | Justin Tranter | 4 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | Olivia Rodrigo | 4 | Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
-| | Ryan Tedder | 4 | Producer, Songwriter |
-| | Jesse Shatkin | 4 | Producer, Songwriter |
-| | KAMILLE | 4 | Songwriter |
-| | Jeff Bhasker | 4 | Producer, Songwriter |
-| | Cirkut | 4 | Songwriter, Producer |
 | | Daniel Nigro | 4 | Producer, Songwriter, Lyricist |
-| | Ken Nelson | 4 | Producer |
-| | Kyle Resnick | 4 | Producer |
-| | Jeremy Reeves | 4 | Songwriter |
 | | Ray McCullough | 4 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 4 | Songwriter |
-| | Peter Carlsson | 4 | Producer |
+| | Tony Maserati | 4 | Producer |
+| | Jeremy Reeves | 4 | Songwriter |
+| | Ken Nelson | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| | KAMILLE | 4 | Songwriter |
 | | Ray Romulus | 4 | Songwriter |
+| | Justin Tranter | 4 | Songwriter |
+| | Peter Carlsson | 4 | Producer |
+| | Kyle Resnick | 4 | Producer |
 | | Jason Evigan | 4 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 4 | Songwriter |
 | | TBHits | 4 | Producer, Songwriter |
+| | Ryan Tedder | 4 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry | 4 | Songwriter |
+| | Cirkut | 4 | Songwriter, Producer |
 | | Jonathan Yip | 4 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 3 | Songwriter |
-| | Boo Mitchell | 3 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | 3 | Songwriter |
-| | Kid Harpoon | 3 | Producer, Songwriter |
-| | Priscilla Renea | 3 | Songwriter |
-| | Dan Reynolds | 3 | Producer, Songwriter |
-| | Andreas Carlsson | 3 | Songwriter, Lyricist |
-| | Julian Bunetta | 3 | Songwriter, Producer |
-| | Steve Mac | 3 | Songwriter, Producer |
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Jeff Bhasker | 4 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 3 | Songwriter |
-| | Sarah Hudson | 3 | Songwriter |
-| | Dave Russell | 3 | Producer |
+| | Ali Payami | 3 | Lyricist, Producer, Songwriter |
+| | Peter Kelleher | 3 | Songwriter |
+| | Robin Fredriksson | 3 | Songwriter |
+| | Andrew Wyatt | 3 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | Charlie Puth | 3 | Producer, Songwriter |
+| | Miles Walker | 3 | Producer |
+| | Clarence Coffee Jr. | 3 | Songwriter |
+| | Ammo | 3 | Producer, Songwriter |
+| | Kid Harpoon | 3 | Producer, Songwriter |
+| | Dan Reynolds | 3 | Producer, Songwriter |
+| | Brandon Paak Anderson | 3 | Songwriter |
 
 </details>
 
@@ -605,7 +605,7 @@
 |:---|---:|
 | 2024 | 1 |
 | 2023 | 6 |
-| 2022 | 12 |
+| 2022 | 13 |
 | [2021](2021.md) | 26 |
 | [2020](2020.md) | 50 |
 | [2019](2019.md) | 48 |
@@ -624,7 +624,7 @@
 | 2006 | 6 |
 | 2005 | 6 |
 | 2004 | 4 |
-| 2003 | 3 |
+| 2003 | 4 |
 | 2002 | 6 |
 | 2001 | 1 |
 | 2000 | 4 |
@@ -646,4 +646,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="Flowers" width="50" /> | Flowers (2023-01-13) | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Songs About Jane (2002-06-25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="SOS" width="50" /> | SOS (2022-12-08) | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | A Rush of Blood to the Head (2002-08-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730af4476af141051c728ee8b9" alt="this is what falling in love feels like (554Hz)" width="50" /> | this is what falling in love feels like (554Hz) (2022-10-03) | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="In The Zone" width="50" /> | In The Zone (2003-11-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730af4476af141051c728ee8b9" alt="this is what falling in love feels like (554Hz)" width="50" /> | this is what falling in love feels like (554Hz) (2022-10-03) | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | Dangerously In Love (2003-06-24) |

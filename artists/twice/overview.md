@@ -2,7 +2,7 @@
 # TWICE
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b" alt="TWICE" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebda4177e45e13a90e4cef93fc" alt="TWICE" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -24,7 +24,7 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #12 artist of the last month
+- The #11 artist of the last month
 - The #9 artist of the last 6 months
 - The #4 artist of all time
 
@@ -32,11 +32,11 @@ TWICE is currently:
 ## Top Tracks
 
 - I CAN'T STOP ME is:
-    - the #20 track of all time
+    - the #17 track of all time
 - The Feels is:
     - the #49 track of all time
 - WALLFLOWER is:
-    - the #8 track of the last month
+    - the #12 track of the last month
 
 ### Top tracks of all time over time
 

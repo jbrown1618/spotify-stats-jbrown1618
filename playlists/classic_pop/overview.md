@@ -191,7 +191,8 @@
 | 4 | 3 | new wave pop |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
 | 6 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
-| 6 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
+| 6 | 2 | glam rock |
+| 6 | 2 | classic soul |
 | 4 | 2 | [pop](../../genres/pop/overview.md) |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 2 | [lounge](../../genres/lounge/overview.md) |
@@ -205,7 +206,6 @@
 | 2 | 1 | swing |
 | 2 | 1 | southern soul |
 | 2 | 1 | rock-and-roll |
-| 2 | 1 | classic soul |
 | 1 | 1 | smooth jazz |
 | 1 | 1 | quiet storm |
 | 1 | 1 | latin pop |
@@ -217,7 +217,7 @@
 | 2 | 0 | sunshine pop |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 1 | 0 | neo soul |
+| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
 | 1 | 0 | jazz blues |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |

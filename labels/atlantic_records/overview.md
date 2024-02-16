@@ -154,7 +154,7 @@ Appears as:
 
 
 <details>
-<summary>See all 57 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -165,6 +165,7 @@ Appears as:
 | 2 | 2 | indie rock |
 | 2 | 2 | escape room |
 | 2 | 2 | chamber pop |
+| 2 | 2 | canadian indie |
 | 2 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 2 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 2 | 1 | candy pop |

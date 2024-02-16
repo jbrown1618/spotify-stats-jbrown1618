@@ -68,7 +68,7 @@ Queen:
 ## Genres
 
 - [classic rock](../../genres/classic_rock/overview.md)
-- [glam rock](../../genres/glam_rock/overview.md)
+- glam rock
 - [rock](../../genres/rock/overview.md)
 
 ## Credits

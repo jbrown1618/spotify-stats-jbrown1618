@@ -1,6 +1,6 @@
 # permanent wave
 
-63 songs
+66 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 18 | 14 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 18 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 11 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
@@ -18,8 +18,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="" width="50" /> | 1 | 1 | Blondie | [🔗](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 4 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 
 
 <details>
@@ -27,6 +27,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | 2 | 0 | Sting | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
@@ -34,7 +35,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 1 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd85f631779e65b01349d747" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
@@ -49,7 +49,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 6 | 5 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 4 | 2 | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
@@ -58,15 +58,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 2 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 2 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 2 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
 
 
 <details>
-<summary>See all 43 albums</summary>
+<summary>See all 44 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | 2 | 0 | Fetch The Bolt Cutters | 2020-04-17 | [🔗](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
@@ -77,7 +79,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | 1 | 1 | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="" width="50" /> | 1 | 1 | Call Me | 2004-01-01 | [🔗](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | 1 | 1 | Amnesiac | 2001-03-12 | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 1 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | 1 | 0 | There Is Nothing Left To Lose | 1999-11-02 | [🔗](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | 1 | 0 | The Colour And The Shape | 1997-05-20 | [🔗](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="" width="50" /> | 1 | 0 | Ten Summoner's Tales | 1993-03-09 | [🔗](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) |
@@ -109,7 +110,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 18 | 14 | [XL Recordings](../../labels/xl_recordings/overview.md) |
+| 18 | 15 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 11 | 5 | [Warner Records](../../labels/warner_records/overview.md) |
 | 4 | 3 | Parlophone Records Limited |
 | 8 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
@@ -118,27 +119,28 @@
 | 1 | 1 | Cult Records |
 | 1 | 1 | Chrysalis\EMI Records (USA) |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
+| 2 | 0 | Work |
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 19 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
+| 2 | 0 | [Epic](../../labels/epic/overview.md) |
+| 2 | 0 | Clean Slate |
 | 2 | 0 | A&M |
-| 1 | 0 | Work |
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | RCA Victor |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Legacy Recordings |
 | 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
-| 1 | 0 | Clean Slate |
 
 </details>
 
 
-![Bar chart of top 18 record labels](../../images/genres/permanent_wave/labels.png)
+![Bar chart of top 19 record labels](../../images/genres/permanent_wave/labels.png)
 
 ## Top Producers
 
@@ -146,13 +148,13 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Philip Selway | 12 | Songwriter |
-| | Ed O'Brien | 12 | Songwriter |
-| | Nigel Godrich | 12 | Producer |
-| | Colin Greenwood | 12 | Songwriter |
-| | Thom Yorke | 12 | Lyricist, Producer, Songwriter, Arranger |
-| | Jonny Greenwood | 12 | Songwriter, Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 11 | Arranger, Producer, Lyricist, Songwriter |
+| | Philip Selway | 13 | Songwriter |
+| | Ed O'Brien | 13 | Songwriter |
+| | Nigel Godrich | 13 | Producer |
+| | Colin Greenwood | 13 | Songwriter |
+| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | | Chris Martin | 5 | Songwriter |
 | | Jonny Buckland | 5 | Songwriter |
 | | Guy Berryman | 5 | Songwriter |
@@ -241,14 +243,14 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="Music Of The Spheres" width="50" /> | Music Of The Spheres (2021-10-15) | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="David Bowie (aka Space Oddity) [2015 Remaster]" width="50" /> | David Bowie (aka Space Oddity) [2015 Remaster] (1969-11-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Hunting High and Low" width="50" /> | Hunting High and Low (1985-06-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="Everyday Life" width="50" /> | Everyday Life (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="...Nothing Like The Sun" width="50" /> | ...Nothing Like The Sun (1987-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | The 2nd Law (2012-09-24) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="Mylo Xyloto" width="50" /> | Mylo Xyloto (2011-10-24) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="Christmas Lights" width="50" /> | Christmas Lights (2010-12-01) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="Viva La Vida or Death and All His Friends" width="50" /> | Viva La Vida or Death and All His Friends (2008-05-26) | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Ten Summoner's Tales (1993-03-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | In Rainbows (2007-12-28) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | Echoes, Silence, Patience & Grace (2007-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="Fetch The Bolt Cutters" width="50" /> | Fetch The Bolt Cutters (2020-04-17) | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Hunting High and Low" width="50" /> | Hunting High and Low (1985-06-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | Graceland (25th Anniversary Deluxe Edition) (1986-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="Everyday Life" width="50" /> | Everyday Life (2019-11-22) | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="...Nothing Like The Sun" width="50" /> | ...Nothing Like The Sun (1987-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Greatest Hits: God&#x27;s Favorite Band" width="50" /> | Greatest Hits: God's Favorite Band (2017-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | The 2nd Law (2012-09-24) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="Mylo Xyloto" width="50" /> | Mylo Xyloto (2011-10-24) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="Christmas Lights" width="50" /> | Christmas Lights (2010-12-01) | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Ten Summoner's Tales (1993-03-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="Viva La Vida or Death and All His Friends" width="50" /> | Viva La Vida or Death and All His Friends (2008-05-26) | <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Mellon Collie And The Infinite Sadness (Deluxe Edition)" width="50" /> | Mellon Collie And The Infinite Sadness (Deluxe Edition) (1995) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | In Rainbows (2007-12-28) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | The Bends (1995-03-13) |
 
 ![Bar chart of number of songs by year](../../images/genres/permanent_wave/years.png)

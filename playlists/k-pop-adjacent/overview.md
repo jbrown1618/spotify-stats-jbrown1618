@@ -247,7 +247,7 @@
 
 
 <details>
-<summary>See all 54 genres</summary>
+<summary>See all 55 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -258,9 +258,10 @@
 | 1 | 1 | social media pop |
 | 1 | 1 | scandipop |
 | 1 | 1 | r&b en espanol |
-| 1 | 1 | neo soul |
+| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
 | 1 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 1 | modern alternative rock |
+| 1 | 1 | latin viral pop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean city pop |
 | 1 | 1 | [k-rap](../../genres/k-rap/overview.md) |
@@ -290,7 +291,7 @@
 | 1 | 0 | melodic rap |
 | 1 | 0 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 1 | 0 | indietronica |
-| 1 | 0 | [glam rock](../../genres/glam_rock/overview.md) |
+| 1 | 0 | glam rock |
 | 1 | 0 | electronic trap |
 | 1 | 0 | diva house |
 | 1 | 0 | dfw rap |

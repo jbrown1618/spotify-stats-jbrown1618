@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3eed54e1eb0fed222434d867" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb098d901516df803fdfa7bb74" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb204ce9bb25bd19a056cac78a" alt="" width="50" /> | 1 | 1 | Wale | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc" alt="" width="50" /> | 1 | 1 | T.I. | [🔗](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) |
@@ -167,7 +167,7 @@
 | 1 | 1 | KSR |
 | 1 | 1 | EMPIRE |
 | 1 | 1 | Bad Dreams Records |
-| 1 | 1 | Bad Boy |
+| 1 | 1 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 1 | 1 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 1 | Asylum |
 | 1 | 1 | American Recordings Catalog P&D |
@@ -205,7 +205,7 @@
 | 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
 | 8 | 3 | conscious hip hop |
-| 6 | 3 | atl hip hop |
+| 6 | 3 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
 | 6 | 2 | trap |
 | 5 | 2 | southern hip hop |
 
@@ -236,7 +236,7 @@
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | pop dance |
 | 1 | 0 | new orleans rap |
-| 1 | 0 | neo soul |
+| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
 | 1 | 0 | indie soul |
 | 1 | 0 | hardcore hip hop |
 | 1 | 0 | escape room |

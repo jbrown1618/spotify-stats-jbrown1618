@@ -16,7 +16,7 @@ BAEKHYUN:
 
 ## Artist Rank
 BAEKHYUN is currently:
-- The #26 artist of the last month
+- The #30 artist of the last month
 - The #45 artist of the last 6 months
 - The #48 artist of all time
 
