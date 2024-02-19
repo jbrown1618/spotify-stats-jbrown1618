@@ -232,7 +232,7 @@
 | 1 | 1 | KONNECT Ent. |
 | 1 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 1 | HAPPYTRIBE ENTERTAINMENT |
-| 1 | 1 | [EMI](../../labels/emi/overview.md) |
+| 1 | 1 | EMI |
 | 1 | 1 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 1 | 1 | Capitol Records UK |
 | 1 | 1 | Aftermath |
@@ -274,7 +274,7 @@
 | 1 | 1 | t-pop girl group |
 | 1 | 1 | t-pop |
 | 1 | 1 | [rap](../../genres/rap/overview.md) |
-| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 1 | neo soul |
 | 1 | 1 | hip hop |
 | 1 | 1 | detroit hip hop |
 | 1 | 1 | british soul |

@@ -35,9 +35,9 @@ ENHYPEN is currently:
 - Sweet Venom is:
     - the #7 track of the last 6 months
 - Sacrifice (Eat Me Up) is:
-    - the #47 track of the last 6 months
+    - the #35 track of the last 6 months
 - Not For Sale is:
-    - the #9 track of the last month
+    - the #8 track of the last month
 
 ### Top tracks of all time over time
 

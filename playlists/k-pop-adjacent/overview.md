@@ -258,7 +258,7 @@
 | 1 | 1 | social media pop |
 | 1 | 1 | scandipop |
 | 1 | 1 | r&b en espanol |
-| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 1 | neo soul |
 | 1 | 1 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | latin viral pop |

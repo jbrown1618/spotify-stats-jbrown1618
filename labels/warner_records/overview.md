@@ -210,7 +210,7 @@ Appears as:
 | 1 | 1 | instrumental funk |
 | 1 | 1 | dirty south rap |
 | 1 | 1 | contemporary post-bop |
-| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
 | 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 1 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |

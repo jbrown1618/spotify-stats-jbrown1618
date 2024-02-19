@@ -26,38 +26,38 @@ aespa is currently:
 ## Top Tracks
 
 - Savage is:
-    - the #34 track of the last 6 months
+    - the #40 track of the last 6 months
     - the #2 track of all time
 - Next Level is:
     - the #4 track of all time
 - Illusion is:
-    - the #14 track of the last 6 months
+    - the #15 track of the last 6 months
     - the #25 track of all time
 - Black Mamba is:
     - the #28 track of all time
 - Drama is:
     - the #2 track of the last month
     - the #1 track of the last 6 months
-- Better Things is:
-    - the #2 track of the last 6 months
 - Trick or Trick is:
+    - the #2 track of the last 6 months
+- Better Things is:
     - the #3 track of the last 6 months
 - Hot Air Balloon is:
-    - the #6 track of the last 6 months
+    - the #5 track of the last 6 months
 - Jingle Bell Rock is:
     - the #10 track of the last 6 months
 - Don't Blink is:
-    - the #22 track of the last 6 months
-- Welcome To MY World (feat. nævis) is:
-    - the #30 track of the last 6 months
-- Hold On Tight is:
-    - the #31 track of the last 6 months
-- YOLO is:
-    - the #36 track of the last 6 months
+    - the #20 track of the last 6 months
 - Beautiful Christmas is:
-    - the #48 track of the last 6 months
+    - the #27 track of the last 6 months
+- Welcome To MY World (feat. nævis) is:
+    - the #31 track of the last 6 months
+- Hold On Tight is:
+    - the #33 track of the last 6 months
+- YOLO is:
+    - the #34 track of the last 6 months
 - Regret of the Times - 2024 aespa Remake Version is:
-    - the #21 track of the last month
+    - the #19 track of the last month
 
 ### Top tracks of all time over time
 

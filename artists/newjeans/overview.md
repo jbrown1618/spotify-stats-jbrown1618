@@ -19,8 +19,7 @@ NewJeans:
 
 ## Artist Rank
 NewJeans is currently:
-- The #40 artist of the last 6 months
-- The #25 artist of all time
+- The #26 artist of all time
 
 ![Rank of NewJeans over time](../../images/artists/newjeans/rank_time_series.png)
 ## Top Tracks

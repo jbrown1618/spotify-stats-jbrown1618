@@ -205,7 +205,7 @@
 | 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
 | 8 | 3 | conscious hip hop |
-| 6 | 3 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 6 | 3 | atl hip hop |
 | 6 | 2 | trap |
 | 5 | 2 | southern hip hop |
 
@@ -236,7 +236,7 @@
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | pop dance |
 | 1 | 0 | new orleans rap |
-| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 0 | neo soul |
 | 1 | 0 | indie soul |
 | 1 | 0 | hardcore hip hop |
 | 1 | 0 | escape room |

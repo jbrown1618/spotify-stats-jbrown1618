@@ -123,10 +123,10 @@
 | 6 | 5 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 3 | 3 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 1 | neo soul |
 | 1 | 1 | deep indie singer-songwriter |
 | 1 | 1 | deep acoustic pop |
-| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
 
 

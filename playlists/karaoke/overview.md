@@ -260,7 +260,7 @@
 | 2 | 2 | jazz pop |
 | 2 | 2 | folk rock |
 | 2 | 2 | [folk](../../genres/folk/overview.md) |
-| 2 | 2 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 2 | 2 | atl hip hop |
 | 2 | 2 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 2 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 2 | 1 | easy listening |
@@ -279,7 +279,7 @@
 | 1 | 1 | oxford indie |
 | 1 | 1 | new americana |
 | 1 | 1 | neon pop punk |
-| 1 | 1 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 1 | neo soul |
 | 1 | 1 | modern power pop |
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | memphis soul |

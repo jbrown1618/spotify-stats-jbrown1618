@@ -31,7 +31,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6d80e2ed079cf1183ade19a" alt="" width="50" /> | 3 | 0 | Angela Lansbury | [🔗](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379c168111c001732d7d012af" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b59fdeebe247885983d6dcf" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 | <img src="https://i.scdn.co/image/04b70356aa016a0b99be4b7402c8637e923cee93" alt="" width="50" /> | 2 | 0 | Paige O'Hara | [🔗](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739771c14cdfd747a598b1c213" alt="" width="50" /> | 2 | 0 | Susan Egan | [🔗](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M) |
 | | 2 | 0 | Samuel E. Wright | [🔗](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) |
@@ -200,7 +200,7 @@ Appears as:
 | 1 | 0 | piano blues |
 | 1 | 0 | nyc pop |
 | 1 | 0 | new orleans blues |
-| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 0 | neo soul |
 | 1 | 0 | modern blues |
 | 1 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 1 | 0 | louisiana blues |

@@ -65,7 +65,7 @@
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
 | 15 | 11 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 5 | 4 | Hajanga Records |
-| 1 | 0 | [EMI](../../labels/emi/overview.md) |
+| 1 | 0 | EMI |
 
 ![Bar chart of top 4 record labels](../../images/genres/uk_alternative_pop/labels.png)
 

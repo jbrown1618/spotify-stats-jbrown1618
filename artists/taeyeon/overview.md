@@ -25,16 +25,14 @@ TAEYEON is currently:
 ## Top Tracks
 
 - To. X is:
-    - the #12 track of the last 6 months
+    - the #11 track of the last 6 months
 - Burn It Down is:
-    - the #23 track of the last month
-    - the #19 track of the last 6 months
+    - the #21 track of the last month
+    - the #18 track of the last 6 months
 - I Got Love is:
     - the #39 track of the last 6 months
 - Rain is:
     - the #6 track of the last month
-- What Do I Call You is:
-    - the #41 track of the last month
 
 ### Top tracks of the last 6 months over time
 

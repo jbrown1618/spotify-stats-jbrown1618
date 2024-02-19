@@ -20,8 +20,8 @@ STAYC:
 
 ## Artist Rank
 STAYC is currently:
-- The #15 artist of the last month
-- The #23 artist of the last 6 months
+- The #18 artist of the last month
+- The #22 artist of the last 6 months
 - The #19 artist of all time
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
@@ -30,7 +30,7 @@ STAYC is currently:
 - Bubble is:
     - the #8 track of the last 6 months
 - ﻿Not Like You is:
-    - the #29 track of the last 6 months
+    - the #30 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

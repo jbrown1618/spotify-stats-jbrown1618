@@ -28,23 +28,23 @@
 ## Top Tracks
 
 - Oh my god is:
-    - the #42 track of the last 6 months
-    - the #20 track of all time
+    - the #32 track of the last month
+    - the #29 track of the last 6 months
+    - the #19 track of all time
 - LATATA is:
     - the #23 track of all time
 - Uh-Oh is:
     - the #34 track of all time
 - I Want That is:
-    - the #15 track of the last 6 months
+    - the #14 track of the last 6 months
 - Lucid is:
-    - the #47 track of the last month
-    - the #43 track of the last 6 months
+    - the #45 track of the last 6 months
 - Revenge is:
-    - the #14 track of the last month
+    - the #12 track of the last month
 - Doll is:
-    - the #18 track of the last month
+    - the #17 track of the last month
 - Super Lady is:
-    - the #20 track of the last month
+    - the #18 track of the last month
 
 ### Top tracks of all time over time
 

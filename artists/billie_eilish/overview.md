@@ -11,9 +11,13 @@
 ## Artist Rank
 Billie Eilish is currently:
 - The #28 artist of the last 6 months
-- The #44 artist of all time
+- The #45 artist of all time
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
+## Top Tracks
+
+- bury a friend is:
+    - the #48 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

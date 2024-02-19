@@ -30,14 +30,14 @@ BLACKPINK is currently:
 - Crazy Over You is:
     - the #8 track of all time
 - How You Like That is:
-    - the #24 track of the last month
+    - the #22 track of the last month
     - the #9 track of all time
 - Pretty Savage is:
     - the #13 track of all time
 - DDU-DU DDU-DU is:
     - the #35 track of all time
 - WHISTLE is:
-    - the #38 track of all time
+    - the #39 track of all time
 
 ### Top tracks of all time over time
 

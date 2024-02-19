@@ -4,37 +4,39 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Go Big or Go Home [🔗](https://open.spotify.com/track/0nh0uf3eB4JEjv4jQxj5eP) | 61 | 2022-01-10 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : ANSWER [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 75 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | BELIFT LAB | |
+| Go Big or Go Home [🔗](https://open.spotify.com/track/0nh0uf3eB4JEjv4jQxj5eP) | 62 | 2022-01-10 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : ANSWER [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 75 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | BELIFT LAB | |
 | Go Big or Go Home [🔗](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) | 70 | 2021-10-12 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : DILEMMA [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 73 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BELIFT LAB | 💚 |
 | Tamed-Dashed [🔗](https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT) | 61 | 2022-01-10 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : ANSWER [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 75 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | BELIFT LAB | |
 | Tamed-Dashed [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | 71 | 2021-10-12 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : DILEMMA [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 73 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BELIFT LAB | 💚 |
-| White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | 74 | 2008-06-03 | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 71 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Sub Pop Records | 💚 |
+| White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | 74 | 2008-06-03 | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 70 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Sub Pop Records | 💚 |
 | White Winter Hymnal [🔗](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | 0 | 2008-06-03 | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | Fleet Foxes [🔗](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | Sub Pop Records | |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 74 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 66 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 82 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 80 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
 | Bohemian Rhapsody [🔗](https://open.spotify.com/track/6fPm2XMi51l5GCEp19HscL) | 0 | 1975-11-21 | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | A Night At The Opera [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) | 0 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F) | Hollywood Records | |
-| Bohemian Rhapsody [🔗](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | 67 | 2006-01-01 | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | Stone Cold Classics [🔗](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 62 | Beat Drop! [🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my) | Hollywood Records | |
+| Bohemian Rhapsody [🔗](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | 68 | 2006-01-01 | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | Stone Cold Classics [🔗](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 62 | Beat Drop! [🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my) | Hollywood Records | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 91 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
 | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 86 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | | Top Dawg Entertainment/RCA Records | 💚 |
 | Lose [🔗](https://open.spotify.com/track/3oakOXOSbmxLo29KVhymY3) | 51 | 2021-02-26 | WONHO [🔗](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | Love Synonym #2 : Right for Us [🔗](https://open.spotify.com/album/22hyTxJM7Yk8PdsgRtCEvl) | 49 | | BMG Rights Management (US) LLC | |
-| Lose [🔗](https://open.spotify.com/track/5aDG6JuUDcOoh3Ur1ddEgV) | 16 | 2021-02-26 | WONHO [🔗](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | Love Synonym #2 : Right for Us [🔗](https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf) | 14 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | BMG Rights Management (US) LLC | 💚 |
+| Lose [🔗](https://open.spotify.com/track/5aDG6JuUDcOoh3Ur1ddEgV) | 15 | 2021-02-26 | WONHO [🔗](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | Love Synonym #2 : Right for Us [🔗](https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf) | 13 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | BMG Rights Management (US) LLC | 💚 |
 
 ## Duplicate albums
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
 | HEAT [🔗](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 67 | 2023-10-05 | CUBE ENTERTAINMENT INC./88rising Music | Eyes Roll [🔗](https://open.spotify.com/track/79yymC6QQaZ81jR2UYcPfy) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| HEAT [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 62 | 2023-10-04 | CUBE ENTERTAINMENT INC./88rising Music | I DO [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp),<br>I Want That [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
-| Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | 71 | 2008-06-03 | Sub Pop Records | White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
+| HEAT [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 61 | 2023-10-04 | CUBE ENTERTAINMENT INC./88rising Music | I DO [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp),<br>I Want That [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Recent Comebacks [🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
+| Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | 70 | 2008-06-03 | Sub Pop Records | White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
 | Fleet Foxes [🔗](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | 0 | 2008-06-03 | Sub Pop Records | White Winter Hymnal [🔗](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 55 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 57 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 42 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| Innuendo [🔗](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | 54 | 1991-02-04 | Hollywood Records | Innuendo - Remastered 2011 [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) |
+| Innuendo [🔗](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | 5 | 1991-02-04 | Hollywood Records | Innuendo [🔗](https://open.spotify.com/track/1dG4lTOVFu8RkSzybolp7o),<br>The Show Must Go On [🔗](https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP) | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) |
 | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 96 | 2022-12-09 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8),<br>Snooze [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) |
 | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | 86 | 2022-12-08 | Top Dawg Entertainment/RCA Records | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) |
 | Love Synonym #2 : Right for Us [🔗](https://open.spotify.com/album/22hyTxJM7Yk8PdsgRtCEvl) | WONHO [🔗](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | 49 | 2021-02-26 | BMG Rights Management (US) LLC | Lose [🔗](https://open.spotify.com/track/3oakOXOSbmxLo29KVhymY3) | |
-| Love Synonym #2 : Right for Us [🔗](https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf) | WONHO [🔗](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | 14 | 2021-02-26 | BMG Rights Management (US) LLC | Lose [🔗](https://open.spotify.com/track/5aDG6JuUDcOoh3Ur1ddEgV) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Love Synonym #2 : Right for Us [🔗](https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf) | WONHO [🔗](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | 13 | 2021-02-26 | BMG Rights Management (US) LLC | Lose [🔗](https://open.spotify.com/track/5aDG6JuUDcOoh3Ur1ddEgV) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 
 ## Tracks with low popularity
 
@@ -62,7 +64,7 @@
 | DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
-| Butter | Butter | BTS | 2 | 0 | 87 |
+| Butter | Butter | BTS | 1 | 0 | 87 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
@@ -122,7 +124,7 @@
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 1 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 1 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 1 | 62 |
-| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 1 | 64 |
+| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 1 | 63 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 1 | 64 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 1 | 64 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 58 |
@@ -355,8 +357,8 @@
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 71 |
 | React | React | The Pussycat Dolls | 0 | 0 | 68 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 64 |
-| Hush | Hush | miss A | 2 | 1 | 50 |
-| Bad Girl Good Girl | A Class | miss A | 2 | 1 | 50 |
+| Hush | Hush | miss A | 1 | 1 | 50 |
+| Bad Girl Good Girl | A Class | miss A | 1 | 1 | 50 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 70 |
 | The Dawntreader | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
 | The Pirate of Penance | Song to a Seagull | Joni Mitchell | 0 | 0 | 56 |
@@ -413,7 +415,7 @@
 | Phantom of the Opera Medley | Covers, Vol. III | Evynne Hollens | 0 | 0 | 37 |
 | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
-| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
+| 4 Motets pour le temps de Noël, FP 152: No. 1, Magnum mysterium | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour un temps de pénitence, FP 97: No. 3, Tenebrae factae sunt | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour le temps de Noël, FP 152: No. 3, Videntes stellam | Poulenc: Motets and Mass | Francis Poulenc | 0 | 2 | 49 |
 | 4 Motets pour le temps de Noël, FP 152: No. 2, Quem vidistis pastores | Poulenc: Motets and Mass | Francis Poulenc | 1 | 2 | 49 |
@@ -426,26 +428,26 @@
 | Egotistic | RED MOON | MAMAMOO | 0 | 0 | 61 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 0 | 61 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
-| Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
-| The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
-| Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
-| Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 52 |
-| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 52 |
-| Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 52 |
-| Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 52 |
+| Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 53 |
+| The Feeling | The Good Life | Sammy Rae & The Friends | 0 | 0 | 53 |
+| Talk It Up | The Good Life | Sammy Rae & The Friends | 0 | 0 | 53 |
+| Kick It to Me | The Good Life | Sammy Rae & The Friends | 0 | 0 | 53 |
+| Jackie Onassis | Jackie Onassis | Sammy Rae & The Friends | 0 | 0 | 53 |
+| Saw It Coming | Saw It Coming | Sammy Rae & The Friends | 0 | 0 | 53 |
+| Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 53 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 46 |
-| Why So Lonely | Why So Lonely | Wonder Girls | 2 | 1 | 58 |
+| Why So Lonely | Why So Lonely | Wonder Girls | 2 | 0 | 58 |
 | Rewind | REBOOT | Wonder Girls | 1 | 0 | 58 |
-| So Hot | So Hot | Wonder Girls | 1 | 1 | 58 |
+| So Hot | So Hot | Wonder Girls | 0 | 1 | 58 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 71 |
-| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
-| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 28 |
-| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 28 |
+| Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
+| Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
+| Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 77 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 2 | 0 | 70 |
-| Nothing Else Matters | Metallica | Metallica | 1 | 1 | 81 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
+| Nothing Else Matters | Metallica | Metallica | 0 | 1 | 81 |
 | Enter Sandman | Metallica | Metallica | 1 | 1 | 81 |
 | Black Or White | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 0 | 2 | 60 |
 | Scream | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 2 | 2 | 60 |
@@ -455,11 +457,11 @@
 | Locked Inside A Door | [Apocalypse : Save us] | Dreamcatcher | 0 | 0 | 60 |
 | Starlight | [Apocalypse : Save us] | Dreamcatcher | 0 | 0 | 60 |
 | VISION | [Apocalypse : Follow us] | Dreamcatcher | 0 | 0 | 60 |
-| Odd Eye | ［Dystopia : Road to Utopia］ | Dreamcatcher | 1 | 1 | 60 |
+| Odd Eye | ［Dystopia : Road to Utopia］ | Dreamcatcher | 1 | 0 | 60 |
 | REASON | [REASON] | Dreamcatcher | 0 | 0 | 60 |
 | BEcause | [Summer Holiday] | Dreamcatcher | 0 | 0 | 60 |
-| Silent Night | Raid of Dream | Dreamcatcher | 0 | 1 | 60 |
-| 데자부 (Deja Vu) | Raid of Dream | Dreamcatcher | 1 | 1 | 60 |
+| Silent Night | Raid of Dream | Dreamcatcher | 0 | 0 | 60 |
+| 데자부 (Deja Vu) | Raid of Dream | Dreamcatcher | 1 | 0 | 60 |
 | PIRI | The End of Nightmare | Dreamcatcher | 1 | 0 | 60 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -469,13 +471,13 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | ABC | ABC | The Jackson 5 | 2 | 0 | 67 |
-| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 37 |
+| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 36 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Everybody Talks | BOCA 2014: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 30 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
-| Drink It | Drink It | THE BOYZ | 1 | 0 | 60 |
+| Drink It | Drink It | THE BOYZ | 1 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 1 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
@@ -485,34 +487,35 @@
 | You're My Best Friend | A Night At The Opera | Queen | 0 | 0 | 84 |
 | Bohemian Rhapsody | A Night At The Opera | Queen | 0 | 0 | 84 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 1 | 84 |
-| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
+| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 64 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 64 |
 | Sorry | Sorry | The Rose | 0 | 0 | 64 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 52 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 2 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 54 |
-| I will show you | Invitation | AILEE | 0 | 0 | 58 |
+| I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 72 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 2 | 2 | 72 |
-| The Cave | Sigh No More | Mumford & Sons | 2 | 2 | 72 |
+| The Cave | Sigh No More | Mumford & Sons | 1 | 2 | 72 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 32 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 65 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 1 | 1 | 59 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 1 | 0 | 59 |
 | Lullaby | Present : YOU | GOT7 | 1 | 1 | 59 |
-| If You Do | MAD | GOT7 | 1 | 0 | 59 |
+| Just Right | Just Right | GOT7 | 2 | 1 | 59 |
+| If You Do | MAD | GOT7 | 0 | 0 | 59 |
 | You Calling My Name | Call My Name | GOT7 | 2 | 1 | 59 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 75 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 75 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 62 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
@@ -534,16 +537,15 @@
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 70 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 25 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 1 | 77 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
-| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 67 |
+| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 1 | 0 | 56 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 69 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 62 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 61 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |
 | All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 78 |

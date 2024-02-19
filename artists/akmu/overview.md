@@ -13,16 +13,20 @@ AKMU:
 
 ## Artist Rank
 AKMU is currently:
-- The #23 artist of the last month
-- The #34 artist of the last 6 months
+- The #24 artist of the last month
+- The #32 artist of the last 6 months
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
 
 - Love Lee is:
-    - the #33 track of the last 6 months
+    - the #32 track of the last 6 months
 - Melted is:
     - the #38 track of the last month
+
+### Top tracks of the last 6 months over time
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/akmu/track_rank_time_series_medium_term.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

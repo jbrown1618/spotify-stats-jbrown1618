@@ -221,7 +221,7 @@
 | 1 | 1 | Concord Records |
 | 1 | 1 | Beautiful Mind |
 | 1 | 1 | Atlantic Records UK |
-| 4 | 0 | [EMI](../../labels/emi/overview.md) |
+| 4 | 0 | EMI |
 | 2 | 0 | Ode |
 | 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | Work |

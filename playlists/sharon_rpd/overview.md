@@ -245,7 +245,7 @@
 | 1 | 1 | scandipop |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | conscious hip hop |
-| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 1 | 1 | atl hip hop |
 | 2 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 0 | alternative r&b |
 | 1 | 0 | melodic rap |

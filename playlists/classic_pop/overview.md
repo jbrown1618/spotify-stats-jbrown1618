@@ -153,7 +153,7 @@
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Elektra |
 | 1 | 1 | A&M |
-| 3 | 0 | [EMI](../../labels/emi/overview.md) |
+| 3 | 0 | EMI |
 | 1 | 0 | Ron Dante |
 | 1 | 0 | Rhino Atlantic |
 | 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
@@ -217,7 +217,7 @@
 | 2 | 0 | sunshine pop |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
+| 1 | 0 | neo soul |
 | 1 | 0 | jazz blues |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |

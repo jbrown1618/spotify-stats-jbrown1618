@@ -10,7 +10,7 @@
 
 ## Artist Rank
 LeeHi is currently:
-- The #17 artist of the last month
+- The #26 artist of the last month
 - The #10 artist of the last 6 months
 - The #13 artist of all time
 

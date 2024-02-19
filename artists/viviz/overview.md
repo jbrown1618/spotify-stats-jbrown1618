@@ -17,7 +17,7 @@ VIVIZ:
 ## Top Tracks
 
 - Untie is:
-    - the #7 track of the last month
+    - the #37 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -113,7 +113,7 @@
 | 7 | 2 | Verve Reissues |
 | 4 | 1 | [Legacy](../../labels/legacy/overview.md) |
 | 2 | 1 | [GRP](../../labels/grp/overview.md) |
-| 1 | 1 | [EMI](../../labels/emi/overview.md) |
+| 1 | 1 | EMI |
 | 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 0 | Craft Recordings |
 

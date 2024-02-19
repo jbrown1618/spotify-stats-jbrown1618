@@ -1,13 +1,13 @@
 # Columbia
 
-106 songs
+105 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia (68 tracks)
+- Columbia (67 tracks)
 - Columbia/Legacy (14 tracks)
 - Parkwood Entertainment/Columbia (8 tracks)
 - Music World Music/Columbia (5 tracks)
@@ -37,7 +37,7 @@ Appears as:
 
 
 <details>
-<summary>See all 63 artists</summary>
+<summary>See all 62 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -45,19 +45,21 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 2 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 2 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 2 | 1 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 2 | 1 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | 1 | 1 | André 3000 | [🔗](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c58bc0900410699cdfe2489" alt="" width="50" /> | 1 | 1 | Powfu | [🔗](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69fe9645ff5eafe34e38f4f3" alt="" width="50" /> | 1 | 1 | Harlem Yu | [🔗](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052" alt="" width="50" /> | 1 | 1 | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 1 | 1 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 1 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 1 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de" alt="" width="50" /> | 1 | 1 | beabadoobee | [🔗](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 1 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | 1 | 1 | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
@@ -69,7 +71,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 0 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 1 | 0 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c58bc0900410699cdfe2489" alt="" width="50" /> | 1 | 0 | Powfu | [🔗](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb440230373e8ffaf11c36f96d" alt="" width="50" /> | 1 | 0 | Billy Ray Cyrus | [🔗](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) |
 | <img src="https://i.scdn.co/image/c9ac5f2db563d4c6635882e09ab6373b871a7c7a" alt="" width="50" /> | 1 | 0 | Cannonball Adderley | [🔗](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
@@ -79,10 +80,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d6fb9c864dfb2d74865ad6" alt="" width="50" /> | 1 | 0 | Philly Joe Jones | [🔗](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa06778f4a5184ca766f0392" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730bd2ada8cc664dde48c07145" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de" alt="" width="50" /> | 1 | 0 | beabadoobee | [🔗](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) |
 | <img src="https://i.scdn.co/image/d2eb2b8d27ed067ff0a649c74d280a04446d7211" alt="" width="50" /> | 1 | 0 | Red Garland | [🔗](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 1 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 1 | 0 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
@@ -93,7 +93,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb23bb63e723d2fcea59f806" alt="" width="50" /> | 1 | 0 | Paul Chambers | [🔗](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) |
 | | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 0 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 1 | 0 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 </details>
 
@@ -117,7 +116,7 @@ Appears as:
 
 
 <details>
-<summary>See all 77 albums</summary>
+<summary>See all 76 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -130,6 +129,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 1 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | 2 | 0 | Time Out | 1959-12-14 | [🔗](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 1 | 1 | 海嘯 | 2001-05-10 | [🔗](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="" width="50" /> | 1 | 1 | death bed (coffee for your head) | 2020-02-08 | [🔗](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | 1 | 1 | Wrap Me In Plastic | 2021-02-05 | [🔗](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | 1 | 1 | Wednesday Morning, 3 A.M. | 1964-10-19 | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | 1 | 1 | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
@@ -157,8 +157,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936" alt="" width="50" /> | 1 | 1 | Blowin' Your Mind! | 1967-09 | [🔗](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | 1 | 1 | Back In Black | 1980-07-25 | [🔗](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="" width="50" /> | 1 | 1 | Aerosmith | 1973-01-05 | [🔗](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="" width="50" /> | 1 | 0 | death bed (coffee for your head) | 2020-02-08 | [🔗](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19" alt="" width="50" /> | 1 | 0 | Women In Music Pt. III | 2021-02-19 | [🔗](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | 1 | 0 | Turn Down for What | 2013-12-18 | [🔗](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32" alt="" width="50" /> | 1 | 0 | Toys In The Attic | 1975-04-08 | [🔗](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
@@ -225,7 +223,7 @@ Appears as:
 | 3 | 3 | country |
 | 3 | 3 | contemporary country |
 | 6 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
-| 4 | 2 | [neo soul](../../genres/neo_soul/overview.md) |
+| 4 | 2 | neo soul |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | british soul |
 | 2 | 2 | pov: indie |
@@ -236,20 +234,22 @@ Appears as:
 | 3 | 1 | lgbtq+ hip hop |
 | 2 | 1 | new americana |
 | 2 | 1 | modern folk rock |
-| 2 | 1 | metropopolis |
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
-| 2 | 1 | indietronica |
 | 2 | 1 | indie folk |
 | 2 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 1 | 1 | sad rap |
+| 1 | 1 | sad lo-fi |
 | 1 | 1 | r&b en espanol |
 | 1 | 1 | nigerian pop |
 | 1 | 1 | nigerian hip hop |
 | 1 | 1 | modern alternative rock |
+| 1 | 1 | metropopolis |
 | 1 | 1 | mandopop |
 | 1 | 1 | latin viral pop |
 | 1 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k-pop/overview.md) |
+| 1 | 1 | indietronica |
 | 1 | 1 | dancehall |
 | 1 | 1 | classic mandopop |
 | 1 | 1 | azontobeats |
@@ -275,8 +275,6 @@ Appears as:
 | 1 | 0 | uk dance |
 | 1 | 0 | traditional country |
 | 1 | 0 | swing |
-| 1 | 0 | sad rap |
-| 1 | 0 | sad lo-fi |
 | 1 | 0 | progressive house |
 | 1 | 0 | outlaw country |
 | 1 | 0 | nz pop |
@@ -305,15 +303,15 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | Phil Ramone | 9 | Producer |
 | | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 9 | Producer, Songwriter |
 | | Mark "Spike" Stent | 7 | Producer |
 | | Serban Ghenea | 5 | Producer |
-| | Tyler Johnson | 4 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
+| | Tyler Johnson | 4 | Producer, Songwriter |
+| | Roy Halee | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | 3 | Songwriter |
-| | Kid Harpoon | 3 | Producer, Songwriter |
 
 
 <details>
@@ -322,95 +320,95 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | David Campbell | 3 | Arranger |
-| | DJ Swivel | 3 | Producer |
-| | Roy Halee | 3 | Producer |
 | | John Hanes | 3 | Producer |
+| | DJ Swivel | 3 | Producer |
+| | Kid Harpoon | 3 | Producer, Songwriter |
 | | Art Garfunkel | 3 | Producer |
-| | Ron Malo | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Thomas Bangalter | 2 | Producer, Songwriter |
+| | Shea Taylor | 2 | Producer, Songwriter |
+| | Guy-Manuel de Homem-Christo | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
-| | Jim Caruana | 2 | Producer |
+| | Rob Kirwan | 2 | Producer |
+| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | Ted Brosnan | 2 | Producer |
 | | Stuart White | 2 | Producer |
+| | Gary Paczosa | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
+| | Derek Dixie | 2 | Producer |
 | | Michael Omartian | 2 | Arranger |
 | | The-Dream | 2 | Songwriter |
-| | Derek Dixie | 2 | Producer |
-| | Mitch Rowland | 2 | Songwriter |
-| | Guy-Manuel de Homem-Christo | 2 | Producer, Songwriter |
-| | Ted Brosnan | 2 | Producer |
-| | Shea Taylor | 2 | Producer, Songwriter |
-| | Jeff Bhasker | 2 | Producer, Songwriter |
-| | Gary Paczosa | 2 | Producer |
-| | Sammy Witte | 2 | Producer |
-| | Thomas Bangalter | 2 | Producer, Songwriter |
-| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
-| | Rob Kirwan | 2 | Producer |
-| | Michael Stewart | 2 | Producer |
-| | Lloyd Maines | 2 | Producer |
+| | Jim Caruana | 2 | Producer |
+| | Ron Malo | 2 | Producer |
 | | Eric Bickel | 2 | Producer |
-| | Andrew Scheps | 1 | Producer |
-| | Greg Kurstin | 1 | Producer, Songwriter |
+| | Sammy Witte | 2 | Producer |
+| | Lloyd Maines | 2 | Producer |
+| | Mitch Rowland | 2 | Songwriter |
+| | Michael Stewart | 2 | Producer |
+| | David Biral | 1 | Producer, Songwriter |
+| | Matthew Stevens | 1 | Producer |
+| | Este Haim | 1 | Producer, Songwriter |
 | | Richard "P2J" Isong | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
+| | Diana Gordon | 1 | Songwriter |
+| | Christian Michael Klosterman | 1 | Songwriter |
+| | Jim Horn | 1 | Arranger |
+| | Jesse | 1 | Lyricist, Songwriter |
+| | Steve Perry | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de" alt="" width="50" /> | beabadoobee | 1 | Songwriter |
+| | Robert Wilson | 1 | Songwriter |
+| | Bruce Robison | 1 | Lyricist, Songwriter |
+| | Ray Colcord | 1 | Producer |
+| | Liberty DeVitto | 1 | Arranger |
+| | Julian Burg | 1 | Producer |
+| | Jolie Levine | 1 | Arranger |
+| | Kuk Harrell | 1 | Producer |
+| | Fred Tenny | 1 | Producer |
+| | Justin Niebank | 1 | Producer |
+| | Anne Preven | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
+| | Inaam Haq | 1 | Producer |
 | | Dan Wilson | 1 | Lyricist, Songwriter |
 | | Angus Young | 1 | Songwriter |
-| | Danielle Haim | 1 | Producer, Songwriter |
-| | Kuk Harrell | 1 | Producer |
-| | Zachary Abels | 1 | Songwriter |
-| | Anne Preven | 1 | Songwriter |
-| | Justin Niebank | 1 | Producer |
-| | Fred Tenny | 1 | Producer |
-| | Julian Burg | 1 | Producer |
-| | Jaycen Joshua | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
-| | Liberty DeVitto | 1 | Arranger |
-| | Matthew Stevens | 1 | Producer |
-| | Jim Horn | 1 | Arranger |
-| | Aynsley Dunbar | 1 | Producer |
-| | Devin Nakao | 1 | Producer |
-| | Jesse | 1 | Lyricist, Songwriter |
-| | Jolie Levine | 1 | Arranger |
-| | Caryl Weinstock | 1 | Producer |
-| | Robert Wilson | 1 | Songwriter |
-| | Bruce Botnick | 1 | Producer |
-| | David Biral | 1 | Producer, Songwriter |
-| | Este Haim | 1 | Producer, Songwriter |
-| | Steve Perry | 1 | Songwriter |
-| | Alex Salibian | 1 | Producer, Songwriter |
-| | Inaam Haq | 1 | Producer |
-| | Matthew Scatchell | 1 | Producer |
 | | Scott Cutler | 1 | Songwriter |
-| | Ray Colcord | 1 | Producer |
-| | Diana Gordon | 1 | Songwriter |
-| | Bruce Robison | 1 | Lyricist, Songwriter |
-| | Brent Kutzle | 1 | Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
-| | Isaac Slade | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
-| | Omer Fedi | 1 | Producer, Songwriter |
-| | Denzel Baptiste | 1 | Producer, Songwriter |
-| | Lonnie Simmons | 1 | Songwriter |
-| | Emily Robison | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
-| | Tony Platt | 1 | Producer |
-| | Kevin Cossom | 1 | Songwriter |
-| | E. Kidd Bogart | 1 | Songwriter |
-| | Cainon Lamb | 1 | Songwriter |
-| | Toby Gad | 1 | Arranger, Producer, Songwriter |
-| | Tony Brown | 1 | Producer |
-| | David Schiffman | 1 | Producer |
-| | Leanne Ungar | 1 | Producer |
-| | BC Jean | 1 | Songwriter |
-| | Cecil Bernardy | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
-| | Malcolm Young | 1 | Songwriter |
 | | Charlie Wilson | 1 | Songwriter |
-| | Steve Churchyard | 1 | Producer |
+| | Riccardo Damian | 1 | Producer |
 | | Steve Lindsey | 1 | Arranger, Producer |
+| | Zachary Abels | 1 | Songwriter |
+| | Kevin Cossom | 1 | Songwriter |
+| | Tony Platt | 1 | Producer |
+| | Emily Robison | 1 | Lyricist, Songwriter |
+| | David Schiffman | 1 | Producer |
+| | Brad Samuelsohn | 1 | Producer |
+| | Steve Churchyard | 1 | Producer |
+| | Malcolm Young | 1 | Songwriter |
+| | Jaycen Joshua | 1 | Producer |
+| | Andrew Scheps | 1 | Producer |
+| | Danielle Haim | 1 | Producer, Songwriter |
+| | Greg Kurstin | 1 | Producer, Songwriter |
+| | Matthew Scatchell | 1 | Producer |
+| | Alex Salibian | 1 | Producer, Songwriter |
+| | Bruce Botnick | 1 | Producer |
+| | Caryl Weinstock | 1 | Producer |
+| | Devin Nakao | 1 | Producer |
+| | Oscar Lang | 1 | Songwriter |
+| | Aynsley Dunbar | 1 | Producer |
+| | Cainon Lamb | 1 | Songwriter |
+| | BC Jean | 1 | Songwriter |
 | | Donna Summer | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
+| | Cecil Bernardy | 1 | Producer |
 | | Wayne Gordon | 1 | Producer |
-| | Doug Stegmeyer | 1 | Arranger |
 | | John Hendrickson | 1 | Producer |
+| | Stevie Nicks | 1 | Lyricist, Songwriter |
+| | Robert Waller | 1 | Songwriter |
+| | Doug Stegmeyer | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c58bc0900410699cdfe2489" alt="" width="50" /> | Powfu | 1 | Songwriter |
+| | Leanne Ungar | 1 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
+| | Tony Brown | 1 | Producer |
 
 </details>
 
@@ -485,7 +483,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | [Frank Sinatra](../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="" width="50" /> | The Wire | Days Are Gone | HAIM | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19" alt="" width="50" /> | Gasoline (feat. Taylor Swift) | Women In Music Pt. III | HAIM, [Taylor Swift](../../artists/taylor_swift/overview.md) | [Columbia](.) | | [🔗](https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 情非得已 | 海嘯 | Harlem Yu | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859" alt="" width="50" /> | Sign of the Times | Harry Styles | Harry Styles | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a" alt="" width="50" /> | Adore You | Fine Line | Harry Styles | [Columbia](.) | | [🔗](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) |
@@ -513,7 +510,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8" alt="" width="50" /> | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Mark Ronson, Miley Cyrus | [Columbia](.) | | [🔗](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) | Milestones | Miles Davis, John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers, Philly Joe Jones | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | Flowers | Miley Cyrus | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="" width="50" /> | death bed (coffee for your head) | death bed (coffee for your head) | Powfu, beabadoobee | [Columbia](.) | | [🔗](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="" width="50" /> | death bed (coffee for your head) | death bed (coffee for your head) | Powfu, beabadoobee | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | MALAMENTE - Cap.1: Augurio | El Mal Querer | ROSALÍA | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Wednesday Morning, 3 A.M. | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Bookends | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) |

@@ -96,7 +96,7 @@ Appears as:
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | pop r&b |
-| 1 | 0 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 1 | 0 | atl hip hop |
 
 </details>
 

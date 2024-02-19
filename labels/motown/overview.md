@@ -83,7 +83,7 @@ Appears as:
 | 1 | 1 | hip hop |
 | 1 | 1 | funk |
 | 1 | 1 | disco |
-| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 1 | 1 | atl hip hop |
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 
 </details>

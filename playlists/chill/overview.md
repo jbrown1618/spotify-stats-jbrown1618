@@ -325,7 +325,7 @@
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | ESTIMATE |
 | 1 | 1 | EMI Recorded Music Australia Pty Ltd |
-| 1 | 1 | [EMI](../../labels/emi/overview.md) |
+| 1 | 1 | EMI |
 | 1 | 1 | Donuts Music N |
 | 1 | 1 | DCTOM |
 | 1 | 1 | Colour Vision Records |
@@ -368,7 +368,7 @@
 | 7 | 7 | [anime](../../genres/anime/overview.md) |
 | 5 | 5 | [viral pop](../../genres/viral_pop/overview.md) |
 | 5 | 5 | [k-rap](../../genres/k-rap/overview.md) |
-| 4 | 4 | [neo soul](../../genres/neo_soul/overview.md) |
+| 4 | 4 | neo soul |
 
 
 <details>
@@ -423,7 +423,7 @@
 | 1 | 1 | canadian contemporary r&b |
 | 1 | 1 | bedroom soul |
 | 1 | 1 | australian pop |
-| 1 | 1 | [atl hip hop](../../genres/atl_hip_hop/overview.md) |
+| 1 | 1 | atl hip hop |
 | 1 | 1 | asian american hip hop |
 | 1 | 1 | alt z |
 | 1 | 1 | afrofuturism |

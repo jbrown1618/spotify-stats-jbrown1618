@@ -105,7 +105,7 @@
 | 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 3 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
-| 2 | 1 | [EMI](../../labels/emi/overview.md) |
+| 2 | 1 | EMI |
 | 2 | 1 | Atlantic Records UK |
 | 1 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |

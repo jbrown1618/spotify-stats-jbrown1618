@@ -35,8 +35,6 @@ Girls' Generation is currently:
     - the #45 track of all time
 - Run Devil Run is:
     - the #46 track of all time
-- The Boys is:
-    - the #48 track of the last month
 
 ### Top tracks of all time over time
 
