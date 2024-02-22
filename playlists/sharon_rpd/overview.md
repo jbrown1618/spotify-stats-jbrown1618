@@ -357,7 +357,7 @@
 | | FUTURE BOUNCE | 1 | Arranger, Songwriter |
 | | Young Chance | 1 | Lyricist, Songwriter |
 | | 이연수 (Lee, Yeon-soo) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9ebaed4aff83909fedc1dd6" alt="" width="50" /> | TAEYONG | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | TAEYONG | 1 | Lyricist |
 | | Scott Chesak | 1 | Arranger, Songwriter |
 | | Elle Campbell | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 1 | Songwriter |

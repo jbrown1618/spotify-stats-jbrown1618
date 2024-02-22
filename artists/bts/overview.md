@@ -13,7 +13,7 @@
 BTS:
 - has member JIN
 - has member Jimin
-- has member [Jung Kook](../jung_kook/overview.md)
+- has member Jung Kook
 - has member RM
 - has member SUGA
 - has member V
@@ -21,7 +21,7 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #20 artist of the last month
+- The #21 artist of the last month
 - The #27 artist of the last 6 months
 - The #12 artist of all time
 
@@ -100,14 +100,14 @@ BTS is currently:
 
 ### Member Credits
 
-| | JIN | Jimin | RM | SUGA | V | [Jung Kook](../jung_kook/overview.md) | [j-hope](../j-hope/overview.md) |
+| | JIN | Jimin | Jung Kook | RM | SUGA | V | [j-hope](../j-hope/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
-| Arranger | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
-| Instrument | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| Lyricist | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
-| Producer | 0 | 0 | 2 | 2 | 0 | 0 | 0 |
-| Songwriter | 0 | 1 | 10 | 7 | 0 | 0 | 4 |
-| Vocal | 1 | 3 | 2 | 3 | 2 | 6 | 2 |
+| Arranger | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+| Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| Producer | 0 | 0 | 0 | 2 | 2 | 0 | 0 |
+| Songwriter | 0 | 1 | 0 | 10 | 7 | 0 | 4 |
+| Vocal | 1 | 3 | 6 | 2 | 3 | 2 | 2 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

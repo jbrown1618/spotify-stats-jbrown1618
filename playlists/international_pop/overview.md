@@ -370,7 +370,6 @@
 | 5 | 3 | reggaeton |
 | 5 | 3 | [pop](../../genres/pop/overview.md) |
 | 3 | 3 | sunnlensk tonlist |
-| 3 | 3 | latin viral pop |
 | 3 | 3 | icelandic pop |
 | 3 | 3 | alt z |
 | 5 | 2 | anime rock |
@@ -382,6 +381,7 @@
 | 3 | 2 | bitpop |
 | 2 | 2 | v-pop |
 | 2 | 2 | picopop |
+| 2 | 2 | latin viral pop |
 | 2 | 2 | italian hip hop |
 | 2 | 2 | indie rock italiano |
 | 2 | 2 | french pop |

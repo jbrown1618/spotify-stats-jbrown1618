@@ -4,19 +4,19 @@
 
 ## Cluster #1
 
-21 tracks
+25 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | Respect | I Never Loved a Man the Way I Love You | Aretha Franklin | Rhino Atlantic | | [🔗](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="" width="50" /> | I Got You (I Feel Good) | I Got You (I Feel Good) | James Brown & The Famous Flames | [Universal Records](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | My Guy | Mary Wells Sings My Guy | Mary Wells | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 💚 | [🔗](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) | Milestones | Miles Davis, John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers, Philly Joe Jones | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed, Delivered (I'm Yours) | Signed, Sealed And Delivered | Stevie Wonder | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 💚 | [🔗](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe161ba4859b25909bcc24a" alt="" width="50" /> | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | | [🔗](https://open.spotify.com/track/4rMWDm28mERZcRPc1f3yir) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c9f79fbe073eb95007ed48f" alt="" width="50" /> | ABC | ABC | The Jackson 5 | [Motown](../../../../labels/motown) | | [🔗](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="" width="50" /> | Ain't Too Proud To Beg | Gettin' Ready (Expanded Edition) | The Temptations | [Motown](../../../../labels/motown) | | [🔗](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | The Way You Do The Things You Do | Meet The Temptations | The Temptations | [Motown](../../../../labels/motown) | | [🔗](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | Papa Was A Rollin' Stone - Single Version | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | The Temptations | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | | [🔗](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) |
 ## Cluster #2
 
@@ -36,13 +36,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | The Christmas Song (Merry Christmas To You) | The Christmas Song (Expanded Edition) | Nat King Cole | CAPITOL CATALOG MKT (C92) | | [🔗](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) |
 ## Cluster #3
 
-6 tracks
+3 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller | Thriller | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 💚 | [🔗](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | For Once In My Life | For Once In My Life | Stevie Wonder | [Motown](../../../../labels/motown) | | [🔗](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Isn't She Lovely | Songs In The Key Of Life | Stevie Wonder | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | | [🔗](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="" width="50" /> | I Want You Back | Diana Ross Presents The Jackson 5 | The Jackson 5 | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 💚 | [🔗](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="" width="50" /> | I Saw Mommy Kissing Santa Claus | Christmas Album | The Jackson 5 | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | | [🔗](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | The Way You Do The Things You Do | Meet The Temptations | The Temptations | [Motown](../../../../labels/motown) | | [🔗](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) |

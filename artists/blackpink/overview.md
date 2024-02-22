@@ -18,7 +18,7 @@ BLACKPINK:
 
 ## Artist Rank
 BLACKPINK is currently:
-- The #21 artist of the last month
+- The #22 artist of the last month
 - The #11 artist of the last 6 months
 - The #8 artist of all time
 
@@ -30,7 +30,7 @@ BLACKPINK is currently:
 - Crazy Over You is:
     - the #8 track of all time
 - How You Like That is:
-    - the #22 track of the last month
+    - the #45 track of the last month
     - the #9 track of all time
 - Pretty Savage is:
     - the #13 track of all time

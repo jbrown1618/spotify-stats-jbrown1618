@@ -39,9 +39,9 @@ Appears as:
 |---:|---:|:---|
 | 10 | 5 | [soul](../../genres/soul/overview.md) |
 | 10 | 5 | motown |
-| 3 | 2 | classic soul |
 | 2 | 1 | memphis soul |
 | 1 | 1 | southern soul |
+| 1 | 1 | classic soul |
 
 ![Bar chart of top 5 genres](../../images/labels/uni/genres.png)
 

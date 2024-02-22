@@ -192,7 +192,6 @@
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
 | 6 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
 | 6 | 2 | glam rock |
-| 6 | 2 | classic soul |
 | 4 | 2 | [pop](../../genres/pop/overview.md) |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 2 | [lounge](../../genres/lounge/overview.md) |
@@ -206,6 +205,7 @@
 | 2 | 1 | swing |
 | 2 | 1 | southern soul |
 | 2 | 1 | rock-and-roll |
+| 2 | 1 | classic soul |
 | 1 | 1 | smooth jazz |
 | 1 | 1 | quiet storm |
 | 1 | 1 | latin pop |

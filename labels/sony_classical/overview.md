@@ -48,22 +48,23 @@ Appears as:
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | renaissance |
+| 1 | 0 | progressive bluegrass |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
-| 1 | 0 | bluegrass fiddle |
 
 
 <details>
-<summary>See all 11 genres</summary>
+<summary>See all 12 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 0 | bluegrass fiddle |
 | 1 | 0 | baroque pop |
 
 </details>
 
 
-![Bar chart of top 11 genres](../../images/labels/sony_classical/genres.png)
+![Bar chart of top 12 genres](../../images/labels/sony_classical/genres.png)
 
 ## Tracks released under Sony Classical
 

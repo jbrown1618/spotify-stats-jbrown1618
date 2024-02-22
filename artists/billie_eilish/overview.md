@@ -17,7 +17,7 @@ Billie Eilish is currently:
 ## Top Tracks
 
 - bury a friend is:
-    - the #48 track of the last month
+    - the #46 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

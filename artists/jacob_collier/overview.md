@@ -19,7 +19,7 @@ Jacob Collier is currently:
 - He Won't Hold You (feat. Rapsody) is:
     - the #14 track of the last month
 - Every Little Thing She Does Is Magic is:
-    - the #26 track of the last month
+    - the #23 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

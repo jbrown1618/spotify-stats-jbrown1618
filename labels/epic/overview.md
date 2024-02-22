@@ -1,6 +1,6 @@
 # Epic
 
-97 songs
+98 songs
 
 [See Track Features](audio_features.md)
 
@@ -14,6 +14,7 @@ Appears as:
 - Epic/Phonogenic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
 - Epic/London Ent. (1 tracks)
+- FAX Records/Epic (1 tracks)
 - Wondaland Records/Epic (1 tracks)
 
 ## Top Artists
@@ -33,7 +34,7 @@ Appears as:
 
 
 <details>
-<summary>See all 28 artists</summary>
+<summary>See all 29 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -45,6 +46,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | 1 | 1 | Tyla | [🔗](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
@@ -59,7 +61,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 28 artists](../../images/labels/epic/artists.png)
+![Bar chart of top 29 artists](../../images/labels/epic/artists.png)
 
 ## Top Albums
 
@@ -78,13 +80,14 @@ Appears as:
 
 
 <details>
-<summary>See all 35 albums</summary>
+<summary>See all 36 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | 1 | 1 | Water | 2023-07-28 | [🔗](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
@@ -180,8 +183,8 @@ Appears as:
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
 | | John O'Mahony | 8 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
 | | Kurt Uenala | 6 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
 | | Neal Avron | 6 | Arranger, Producer |
 | | T-Bone Burnett | 5 | Producer |
 | | Jason Wormer | 5 | Producer |
@@ -195,96 +198,96 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Jerry Hey | 3 | Arranger |
-| | Mark Endert | 3 | Producer |
-| | John Hanes | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
 | | Louis Bell | 3 | Songwriter, Producer |
 | | Serban Ghenea | 3 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
+| | Mark Endert | 3 | Producer |
+| | Jerry Hey | 3 | Arranger |
+| | John Hanes | 3 | Producer |
+| | Todor Kobakov | 2 | Arranger |
 | | Bart Schoudel | 2 | Producer |
 | | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
-| | Matt Hales | 2 | Songwriter |
-| | Jaycen Joshua | 2 | Producer |
-| | Jeremy Darby | 2 | Producer |
-| | Todor Kobakov | 2 | Arranger |
 | | Andrew Watt | 2 | Producer, Songwriter |
-| | Mike Piersante | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
+| | Matt Hales | 2 | Songwriter |
 | | Jack Antonoff | 2 | Songwriter |
-| | Justin Tranter | 1 | Songwriter |
-| | Anthony Marinelli | 1 | Producer |
-| | Javier Dunn | 1 | Songwriter |
-| | Luis Diaz | 1 | Songwriter |
-| | Savan Kotecha | 1 | Songwriter |
-| | Mike Gaydusek | 1 | Producer |
-| | Mike Campbell | 1 | Songwriter |
-| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
-| | Patrick Benson | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
-| | Matt Beckley | 1 | Producer |
-| | James Ingram | 1 | Arranger, Songwriter |
-| | Kyle Mann | 1 | Producer |
+| | Mike Piersante | 2 | Producer |
+| | Jeremy Darby | 2 | Producer |
+| | Jaycen Joshua | 2 | Producer |
+| | Jacob Olofsson | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| | Corey Marlon Lindsay-Keay | 1 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
-| | Ori Kaplan | 1 | Producer, Songwriter |
 | | Suzie Katayama | 1 | Arranger |
-| | Eric Rosse | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | George Michael | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | John Hill | 1 | Songwriter |
+| | Zachary Dawes | 1 | Producer |
+| | Sasha Yatchenko | 1 | Songwriter |
+| | Robbie Soukiasyan | 1 | Producer |
+| | Danny D | 1 | Producer |
 | | Scott Litt | 1 | Producer |
-| | Ryan Tedder | 1 | Songwriter |
+| | Omar Alfanno | 1 | Songwriter |
+| | Jarami | 1 | Producer |
+| | Mike Gaydusek | 1 | Producer |
+| | Matt Beckley | 1 | Producer |
+| | Noonie Bao | 1 | Songwriter |
 | | Sam Farrar | 1 | Songwriter |
 | | Terry Becker | 1 | Producer |
 | | Danny O'Donoghue | 1 | Songwriter |
-| | Steve Kipner | 1 | Songwriter |
 | | Jason Blynn | 1 | Songwriter |
-| | Tor Erik Hermansen | 1 | Songwriter |
-| | Ant Clemons | 1 | Songwriter |
 | | Starrah | 1 | Songwriter |
-| | Tommy Walter | 1 | Producer |
 | | Amy Wadge | 1 | Songwriter |
 | | Bill Wolfer | 1 | Producer |
 | | Chad Vaccarino | 1 | Songwriter |
 | | Emily Weisband | 1 | Songwriter |
-| | Noonie Bao | 1 | Songwriter |
 | | Aaron Sterling | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
 | | Pete Harper | 1 | Songwriter |
-| | Danny D | 1 | Producer |
-| | Omar Alfanno | 1 | Songwriter |
-| | Jack Patterson | 1 | Songwriter |
-| | Jerry Duplessis | 1 | Songwriter |
-| | LaTabia Parker | 1 | Songwriter |
-| | Ian Axel | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
-| | Mark Sheehan | 1 | Songwriter |
-| | Nathaniel Alford | 1 | Producer |
-| | Tim Blacksmith | 1 | Producer |
-| | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
-| | Paul LaMalfa | 1 | Producer |
-| | Zachary Dawes | 1 | Producer |
-| | Emily Saliers | 1 | Lyricist, Songwriter |
-| | Rami Dawod | 1 | Songwriter |
-| | Manny Marroquin | 1 | Producer |
-| | Miles Walker | 1 | Producer |
-| | Andrew Frampton | 1 | Songwriter |
-| | Stargate | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | Wyclef Jean | 1 | Songwriter |
-| | Joseph Lorge | 1 | Producer |
-| | Brian Lee | 1 | Songwriter |
-| | Steve Porcaro | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
-| | Carl Lieberman, RPT | 1 | Producer |
-| | Jacob Olofsson | 1 | Songwriter |
-| | Jarami | 1 | Producer |
-| | Robbie Soukiasyan | 1 | Producer |
-| | Sasha Yatchenko | 1 | Songwriter |
-| | Kaan Gunesberk | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
-| | Mike Anderson | 1 | Producer |
+| | Tommy Walter | 1 | Producer |
+| | John Hill | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | George Michael | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Javier Dunn | 1 | Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
 | | Cashmere Cat | 1 | Producer, Songwriter |
+| | Mike Campbell | 1 | Songwriter |
+| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
+| | Mike Anderson | 1 | Producer |
+| | Donn Landee | 1 | Producer |
 | | Jeff Glixman | 1 | Producer |
+| | Greg Phillinganes | 1 | Producer |
+| | Sammy SoSo | 1 | Arranger, Producer, Songwriter |
+| | Justin Tranter | 1 | Songwriter |
+| | Paul LaMalfa | 1 | Producer |
+| | Jerry Duplessis | 1 | Songwriter |
+| | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
+| | Zubin Thakkar | 1 | Producer |
+| | Mike Anderson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Eric Rosse | 1 | Producer |
+| | Ori Kaplan | 1 | Producer, Songwriter |
+| | Kyle Mann | 1 | Producer |
+| | Tricky Stewart | 1 | Songwriter |
+| | James Ingram | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
+| | Jack LoMastro | 1 | Songwriter |
+| | Anthony Marinelli | 1 | Producer |
+| | Luis Diaz | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
+| | Ariowa Irosogie | 1 | Lyricist, Songwriter |
+| | Ryan Tedder | 1 | Songwriter |
+| | Ant Clemons | 1 | Songwriter |
+| | Tor Erik Hermansen | 1 | Songwriter |
+| | Steve Kipner | 1 | Songwriter |
+| | Jack Patterson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | Tyla | 1 | Lyricist, Songwriter |
+| | Joseph Lorge | 1 | Producer |
+| | Ian Axel | 1 | Songwriter |
+| | Priscilla Renea | 1 | Songwriter |
+| | Lori McKenna | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Nicolle Galyon | 1 | Songwriter |
+| | Carl Lieberman, RPT | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
+| | Steve Porcaro | 1 | Producer |
 
 </details>
 
@@ -396,6 +399,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Man Who Can't Be Moved | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | Water | Water | Tyla | [FAX Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | City Of Dreams (feat. Chris Brown) | Heart Full of Rage 2 | Tyla Yaweh, Chris Brown | [Epic/London Ent.](.) | | [🔗](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | Last Christmas | LAST CHRISTMAS | Wham! | [Epic](.) | | [🔗](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |
 

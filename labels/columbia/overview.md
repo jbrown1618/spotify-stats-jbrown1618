@@ -209,7 +209,7 @@ Appears as:
 
 
 <details>
-<summary>See all 89 genres</summary>
+<summary>See all 88 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -246,7 +246,6 @@ Appears as:
 | 1 | 1 | modern alternative rock |
 | 1 | 1 | metropopolis |
 | 1 | 1 | mandopop |
-| 1 | 1 | latin viral pop |
 | 1 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 1 | 1 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | indietronica |

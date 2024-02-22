@@ -126,7 +126,7 @@
 | 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | classic oklahoma country |
 | 3 | 3 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 8 | 2 | progressive bluegrass |
+| 9 | 2 | progressive bluegrass |
 
 
 <details>

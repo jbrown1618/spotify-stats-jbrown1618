@@ -14,7 +14,7 @@ NewJeans:
 - has member Phạm Ngọc Hân (Hân, Phạm Ngọc)
 - has member 강해린 (Kang, Hae-rin)
 - has member 김민지 (Kim, Min-ji)
-- has member 이혜인 (Lee, Hy-ein)
+- has member HYEIN
 - has member Danielle Marsh
 
 ## Artist Rank
