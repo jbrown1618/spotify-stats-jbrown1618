@@ -5,6 +5,8 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="Justin Bieber" width="100" />
 
 ## Artist Rank
+Justin Bieber is currently:
+- The #49 artist of the last 6 months
 
 ![Rank of Justin Bieber over time](../../images/artists/justin_bieber/rank_time_series.png)
 ## Featured on Playlists

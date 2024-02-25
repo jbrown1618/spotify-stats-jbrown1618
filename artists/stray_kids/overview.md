@@ -23,7 +23,7 @@ Stray Kids:
 
 ## Artist Rank
 Stray Kids is currently:
-- The #14 artist of the last month
+- The #15 artist of the last month
 - The #6 artist of the last 6 months
 - The #7 artist of all time
 
@@ -33,9 +33,11 @@ Stray Kids is currently:
 - Thunderous is:
     - the #27 track of all time
 - MEGAVERSE is:
-    - the #19 track of the last 6 months
-- Christmas EveL is:
-    - the #50 track of the last 6 months
+    - the #16 track of the last 6 months
+- Social Path (Feat. LiSA) (Korean Ver.) is:
+    - the #34 track of the last 6 months
+- LALALALA is:
+    - the #43 track of the last month
 
 ### Top tracks of all time over time
 

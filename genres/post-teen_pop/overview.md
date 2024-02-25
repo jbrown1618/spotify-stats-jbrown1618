@@ -1,6 +1,6 @@
 # post-teen pop
 
-70 songs
+72 songs
 
 [See Track Features](audio_features.md)
 
@@ -16,26 +16,28 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | 2 | 0 | Mandy Moore | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | 2 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3bcef85e105dfc42399ef0ba" alt="" width="50" /> | 1 | 0 | Ed Sheeran | [🔗](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | 1 | 0 | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312db32f7e08a1bfb4ace303b" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
-| | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 
 
 <details>
-<summary>See all 14 artists</summary>
+<summary>See all 16 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27312db32f7e08a1bfb4ace303b" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
+| | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | 1 | 0 | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb19436426207ba83da96e5c1e" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad" alt="" width="50" /> | 1 | 0 | A$AP Rocky | [🔗](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c8eb928813cd06614c0710d" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a" alt="" width="50" /> | 1 | 0 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 
 </details>
 
 
-![Bar chart of top 14 artists](../../images/genres/post-teen_pop/artists.png)
+![Bar chart of top 16 artists](../../images/genres/post-teen_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/post-teen_pop/artists_comparison.png)
 ## Top Albums
@@ -55,10 +57,12 @@
 
 
 <details>
-<summary>See all 17 albums</summary>
+<summary>See all 19 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cbec8c67e5993accf9d6033" alt="" width="50" /> | 1 | 0 | high water | 2024-02-09 | [🔗](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273575a053c1fec8e5ca7da3005" alt="" width="50" /> | 1 | 0 | Unbreakable Smile | 2016-01-29 | [🔗](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="" width="50" /> | 1 | 0 | Revival (Deluxe) | 2015-10-09 | [🔗](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | 1 | 0 | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
@@ -70,36 +74,38 @@
 </details>
 
 
-![Bar chart of top 17 albums](../../images/genres/post-teen_pop/albums.png)
+![Bar chart of top 19 albums](../../images/genres/post-teen_pop/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 60 | 39 | [Epic](../../labels/epic/overview.md) |
+| 61 | 39 | [Epic](../../labels/epic/overview.md) |
 | 2 | 1 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 1 | Silent Records |
 | 1 | 1 | Latium |
 | 1 | 1 | Giant Little Man |
 | 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
+| 2 | 0 | Tori Kelly |
 | 1 | 0 | Selena Gomez PS |
 | 1 | 0 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
-| 1 | 0 | Decaydance |
 
 
 <details>
-<summary>See all 12 labels</summary>
+<summary>See all 14 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 0 | Decaydance |
 | 1 | 0 | Craft Recordings |
+| 1 | 0 | Beautiful Mind |
 | 1 | 0 | 19 Recordings Limited |
 
 </details>
 
 
-![Bar chart of top 12 record labels](../../images/genres/post-teen_pop/labels.png)
+![Bar chart of top 14 record labels](../../images/genres/post-teen_pop/labels.png)
 
 ## Top Producers
 
@@ -163,15 +169,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | Jordin Sparks (2007-11-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Amidst the Chaos (Bonus Version) (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> | Hot Mess (2009-07-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="Low Key (feat. Tyga)" width="50" /> | Low Key (feat. Tyga) (2019-01-31) | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | Tangled (2010-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | What's Inside: Songs from Waitress (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> | Revival (Deluxe) (2015-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="Confident" width="50" /> | Confident (2015-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Demi (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cbec8c67e5993accf9d6033" alt="high water" width="50" /> | high water (2024-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Little Voice (2007-07-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | Jordin Sparks (2007-11-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="More Love - Songs from Little Voice Season One" width="50" /> | More Love - Songs from Little Voice Season One (2020-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> | Hot Mess (2009-07-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Amidst the Chaos (Bonus Version) (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | Tangled (2010-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="Low Key (feat. Tyga)" width="50" /> | Low Key (feat. Tyga) (2019-01-31) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273575a053c1fec8e5ca7da3005" alt="Unbreakable Smile" width="50" /> | Unbreakable Smile (2016-01-29) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | What's Inside: Songs from Waitress (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Demi (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> | Revival (Deluxe) (2015-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="Confident" width="50" /> | Confident (2015-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="Brave Enough: Live at the Variety Playhouse" width="50" /> | Brave Enough: Live at the Variety Playhouse (2013-10-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Let The Road (2014-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/post-teen_pop/years.png)

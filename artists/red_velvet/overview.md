@@ -20,7 +20,7 @@ Red Velvet:
 
 ## Artist Rank
 Red Velvet is currently:
-- The #2 artist of the last month
+- The #1 artist of the last month
 - The #1 artist of the last 6 months
 - The #1 artist of all time
 
@@ -38,24 +38,27 @@ Red Velvet is currently:
 - RBB (Really Bad Boy) is:
     - the #44 track of all time
 - One Kiss is:
-    - the #20 track of the last month
+    - the #23 track of the last month
     - the #4 track of the last 6 months
 - Chill Kill is:
-    - the #8 track of the last 6 months
+    - the #27 track of the last month
+    - the #5 track of the last 6 months
 - Nightmare is:
-    - the #12 track of the last 6 months
+    - the #30 track of the last month
+    - the #9 track of the last 6 months
 - Bulldozer is:
-    - the #17 track of the last 6 months
-- Beautiful Christmas is:
-    - the #27 track of the last 6 months
+    - the #13 track of the last 6 months
 - Knock Knock (Who's There?) is:
-    - the #32 track of the last 6 months
+    - the #38 track of the last month
+    - the #18 track of the last 6 months
+- Beautiful Christmas is:
+    - the #29 track of the last 6 months
+- Underwater is:
+    - the #37 track of the last 6 months
 - 7월 7일 One Of These Nights is:
-    - the #33 track of the last 6 months
-- Bad Dracula is:
-    - the #48 track of the last 6 months
+    - the #38 track of the last 6 months
 - Milkshake is:
-    - the #10 track of the last month
+    - the #20 track of the last month
 
 ### Top tracks of all time over time
 

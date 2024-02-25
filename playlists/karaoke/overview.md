@@ -270,7 +270,6 @@
 | 1 | 1 | talent show |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
-| 1 | 1 | seattle indie |
 | 1 | 1 | quiet storm |
 | 1 | 1 | punk |
 | 1 | 1 | progressive bluegrass |
@@ -297,6 +296,7 @@
 | 1 | 1 | emo |
 | 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | disco |
+| 1 | 1 | classic soul |
 | 1 | 1 | chamber pop |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |

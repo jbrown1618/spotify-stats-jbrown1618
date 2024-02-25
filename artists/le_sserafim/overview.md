@@ -20,18 +20,18 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #8 artist of the last month
-- The #12 artist of the last 6 months
+- The #11 artist of the last month
+- The #11 artist of the last 6 months
 - The #18 artist of all time
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
-- UNFORGIVEN (feat. Nile Rodgers) is:
-    - the #48 track of the last month
-    - the #39 track of the last 6 months
 - Swan Song is:
-    - the #31 track of the last month
+    - the #2 track of the last month
+    - the #45 track of the last 6 months
+- UNFORGIVEN (feat. Nile Rodgers) is:
+    - the #46 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

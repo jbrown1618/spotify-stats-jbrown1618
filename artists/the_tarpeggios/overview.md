@@ -24,14 +24,11 @@ The Tarpeggios:
 
 ## Artist Rank
 The Tarpeggios is currently:
-- The #31 artist of the last month
+- The #29 artist of the last month
+- The #50 artist of the last 6 months
 - The #37 artist of all time
 
 ![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
-## Top Tracks
-
-- I See Fire is:
-    - the #44 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

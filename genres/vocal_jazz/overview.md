@@ -1,6 +1,6 @@
 # vocal jazz
 
-40 songs
+42 songs
 
 [See Track Features](audio_features.md)
 
@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 5 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb446b2d505542a9424dfdfb16" alt="" width="50" /> | 2 | 2 | Leslie Odom Jr. | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733743f2dba9dde74bf4338540" alt="" width="50" /> | 2 | 2 | Original Broadway Cast of Hamilton | [🔗](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3bf8497c46243391e6172771" alt="" width="50" /> | 5 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12cfc0c902710269d3a954aa" alt="" width="50" /> | 5 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94de3b464a999a50d4611220" alt="" width="50" /> | 1 | 1 | Christopher Jackson | [🔗](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) |
 | | 1 | 1 | Okieriete Onaodowan | [🔗](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e7e0deeb6b99d1b756763bf" alt="" width="50" /> | 1 | 1 | Anthony Ramos | [🔗](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) |
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 30 artists</summary>
+<summary>See all 31 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -34,8 +34,9 @@
 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | 5 | 0 | Sophie Milman | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
 | <img src="https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2" alt="" width="50" /> | 3 | 0 | Chet Baker | [🔗](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 3 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | 2 | 0 | James Brown | [🔗](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) |
 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | 2 | 0 | Natalie Cole | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2a2fd1f3d90c5996daa0b12d" alt="" width="50" /> | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4dccee2f9fe2960b14f9a4d3" alt="" width="50" /> | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
 | <img src="https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58" alt="" width="50" /> | 2 | 0 | Billie Holiday | [🔗](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | 1 | 0 | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc7e23c411bb95582ce7b97" alt="" width="50" /> | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
@@ -64,17 +65,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | 2 | 1 | Ella: The Legendary Decca Recordings | 1995-08-29 | [🔗](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | 2 | 0 | Unforgettable: With Love | 1991-06-11 | [🔗](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="" width="50" /> | 2 | 0 | Take Love Easy | 2009-05-05 | [🔗](https://open.spotify.com/album/0a7Ut6OPSs8SvPDhFXL4ar) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | 2 | 0 | Star Time | 1991-01-01 | [🔗](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | 2 | 0 | Sophie Milman | 2004-01-01 | [🔗](https://open.spotify.com/album/2g5alWoreAp8i1Jjz2XHr4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="" width="50" /> | 2 | 0 | Chet Baker Sings | 1956 | [🔗](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | 2 | 0 | A Winter Romance | 1959-01-01 | [🔗](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="" width="50" /> | 1 | 1 | Love, Ella | 2007-05-03 | [🔗](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="" width="50" /> | 1 | 1 | Breakfast on the Morning Tram | 2007-09-03 | [🔗](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) |
@@ -115,14 +117,16 @@
 | 1 | 1 | Parlophone (France) |
 | 5 | 0 | Linus Entertainment Inc. |
 | 3 | 0 | Blue Note Records |
-| 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
+| 2 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 
 
 <details>
-<summary>See all 18 labels</summary>
+<summary>See all 20 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 0 | [Legacy](../../labels/legacy/overview.md) |
+| 2 | 0 | Island Def Jam |
 | 2 | 0 | Craft Recordings |
 | 2 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 0 | CAPITOL CATALOG MKT (C92) |
@@ -135,7 +139,7 @@
 </details>
 
 
-![Bar chart of top 18 record labels](../../images/genres/vocal_jazz/labels.png)
+![Bar chart of top 20 record labels](../../images/genres/vocal_jazz/labels.png)
 
 ## Top Producers
 

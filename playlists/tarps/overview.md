@@ -258,6 +258,7 @@
 | 2 | 2 | country dawn |
 | 2 | 2 | country |
 | 2 | 2 | contemporary country |
+| 2 | 2 | classic soul |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 4 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 3 | 1 | [folk](../../genres/folk/overview.md) |
@@ -291,7 +292,6 @@
 | 1 | 1 | easy listening |
 | 1 | 1 | deep indie singer-songwriter |
 | 1 | 1 | country road |
-| 1 | 1 | classic soul |
 | 1 | 1 | classic oklahoma country |
 | 1 | 1 | boy band |
 | 1 | 1 | bluegrass |

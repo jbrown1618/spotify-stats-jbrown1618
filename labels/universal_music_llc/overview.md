@@ -1,6 +1,6 @@
 # Universal Music LLC
 
-73 songs
+75 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,6 +10,7 @@ Appears as:
 - Universal Music LLC (43 tracks)
 - Universal Records (20 tracks)
 - Universal Music Ltd. (8 tracks)
+- Universal/Island Def Jam (2 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
 - Republic/Universal/FSF (1 tracks)
 
@@ -30,7 +31,7 @@ Appears as:
 
 
 <details>
-<summary>See all 32 artists</summary>
+<summary>See all 33 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -48,6 +49,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 1 | 1 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 1 | 1 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | 2 | 0 | James Brown | [🔗](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733798f393b49db39c1815b29f" alt="" width="50" /> | 1 | 0 | Liz Gillies | [🔗](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bdc84aa8946d4d06fe2e144" alt="" width="50" /> | 1 | 0 | SEKAI NO OWARI | [🔗](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba51bae36c3e40b129f925fe" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
@@ -79,11 +81,12 @@ Appears as:
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | 2 | 0 | love you more, | 2022-08-25 | [🔗](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | 2 | 0 | Star Time | 1991-01-01 | [🔗](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | 2 | 0 | Christmas Kisses | 2013-01-01 | [🔗](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 1 | 1 | 潜潜話 | 2019-10-29 | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
@@ -142,7 +145,7 @@ Appears as:
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 23 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -156,12 +159,14 @@ Appears as:
 | 1 | 1 | metropopolis |
 | 1 | 1 | indietronica |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
-| 1 | 0 | [soul](../../genres/soul/overview.md) |
+| 3 | 0 | [soul](../../genres/soul/overview.md) |
+| 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
+| 2 | 0 | funk |
 
 </details>
 
 
-![Bar chart of top 21 genres](../../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 23 genres](../../images/labels/universal_music_llc/genres.png)
 
 ## Top Producers
 
@@ -313,6 +318,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Psycho | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Quit | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/54y2W3EYYsSnyqL1rinbJb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Weather | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 💚 | [🔗](https://open.spotify.com/track/15ngHJXClzsYatjQxFVNUO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Get Up (I Feel Like Being A) Sex Machine | Star Time | James Brown | [Universal/Island Def Jam](.) | | [🔗](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Papa's Got A Brand New Bag | Star Time | James Brown | [Universal/Island Def Jam](.) | | [🔗](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="" width="50" /> | I Got You (I Feel Good) | I Got You (I Feel Good) | James Brown & The Famous Flames | [Universal Records](.) | | [🔗](https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Bang Bang | My Everything (Deluxe) | Jessie J, [Ariana Grande](../../artists/ariana_grande/overview.md), Nicki Minaj | [Universal Records](.) | 💚 | [🔗](https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me | Look At Me | Kawaguchi Yurina | [Universal Music LLC](.) | | [🔗](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) |

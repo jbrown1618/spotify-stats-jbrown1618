@@ -24,7 +24,7 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #10 artist of the last month
+- The #5 artist of the last month
 - The #9 artist of the last 6 months
 - The #4 artist of all time
 
@@ -35,8 +35,6 @@ TWICE is currently:
     - the #17 track of all time
 - The Feels is:
     - the #49 track of all time
-- Merry & Happy is:
-    - the #49 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -48,12 +46,13 @@ TWICE is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 41 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 42 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 12 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 12 | [Workout](../../playlists/workout/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 10 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731544041d0285585cc92c2709ab67616d0000b27335cdd6d3f5815afac043758eab67616d0000b273714e56679ab196354e2e443eab67616d0000b27382f9c612adc8bc8d1d62461a" alt="" width="50" /> | 10 | [애교！](../../playlists/애교！/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734ed058b71650a6ca2c04adffab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 9 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 3 | [Cursed English](../../playlists/cursed_english/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c1f1054d3a170ee26430c79ab67616d0000b2732bca95a658fdf653a35a3710ab67616d0000b27396d36aec71bf25f59df5cc96ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2735c041fe9e3c9de436047d86bab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
@@ -72,9 +71,9 @@ TWICE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | 3 | 2 | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | 2 | 2 | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | 2 | 2 | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 2 | 1 | With YOU-th | 2024-02-23 | [🔗](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | 2 | 1 | Merry & Happy | 2017-12-11 | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | 2 | 1 | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | 1 | 1 | YES or YES | 2018-11-05 | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
 
 
 <details>
@@ -82,6 +81,7 @@ TWICE is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="" width="50" /> | 1 | 1 | YES or YES | 2018-11-05 | [🔗](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | 1 | 1 | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | 1 | 1 | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | 1 | 1 | SIGNAL | 2017-05-15 | [🔗](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) |
@@ -102,7 +102,7 @@ TWICE is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 42 | 31 | [Republic Records](../../labels/republic_records/overview.md) |
+| 44 | 32 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 1 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 1 | 0 | Riot Games |
 
@@ -118,20 +118,21 @@ TWICE is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Performer | 10 |
+| Performer | 11 |
 
 ### Member Credits
 
 | | JIHYO | NAYEON | SANA | 名井南 (Myoui, Mina) | 周子瑜 (Chou, Tzu-yu) | 平井もも (Hirai, Momo) | 김다현 (Kim, Da-hyun) | 손채영 (Son, Chae-young) | 유정연 (Yoo, Jeong-yeon) |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Lyricist | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
-| Vocal | 9 | 11 | 9 | 10 | 10 | 9 | 9 | 9 | 10 |
+| Lyricist | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |
+| Vocal | 10 | 12 | 10 | 11 | 11 | 10 | 10 | 10 | 11 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | CRUEL | 김다현 (Kim, Da-hyun) | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | 손채영 (Son, Chae-young) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | 유정연 (Yoo, Jeong-yeon) | Lyricist |
 
 ## Top Producers
 
@@ -139,14 +140,14 @@ TWICE is currently:
 |:---|:---|---:|:---|
 | | 엄세희 (Um, Se-Hee) | 10 | Producer |
 | | 이태섭 (Lee, Tae-Sub) | 7 | Producer |
-| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
 | | 이상엽 (Lee, Sang-yeob) | 6 | Producer |
+| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
 | | 심은지 (Sim, Eunjee) | 5 | Arranger, Lyricist, Producer, Songwriter |
 | | 구혜진 (Gu, Hye-jin) | 5 | Producer |
+| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
+| | Melanie Joy Fontana | 4 | Lyricist, Songwriter |
 | | 임홍진 (Im, Hong-Jin) | 4 | Producer |
 | | Sophia Pae | 4 | Arranger |
-| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
-| | Tony Maserati | 3 | Producer |
 
 
 <details>
@@ -154,38 +155,41 @@ TWICE is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Melanie Joy Fontana | 3 | Lyricist, Songwriter |
-| | 신지영 (Shin, Ji-young) | 3 | Producer |
+| | Arschtritt Lindgren | 4 | Arranger, Songwriter, Producer |
+| | Tony Maserati | 3 | Producer |
 | | Sam Lewis | 3 | Lyricist, Songwriter |
-| | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
+| | 신지영 (Shin, Ji-young) | 3 | Producer |
 | | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
-| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
-| | 박은정 (박은정) | 2 | Producer |
+| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | 임찬미 (Kim, Chan-mi) | 2 | Producer |
 | | 김용운 (Gim, Yong-un) | 2 | Producer |
-| | 이경원 (Lee, Kyung-won) | 2 | Producer |
+| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
+| | 박은정 (박은정) | 2 | Producer |
 | | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | 김영현 (Kim, Young-hyun) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
+| | 이경원 (Lee, Kyung-won) | 2 | Producer |
+| | GG Ramirez | 2 | Lyricist, Songwriter |
+| | 이우현 (Lee, Woo-hyun) | 2 | Arranger, Songwriter, Lyricist, Producer |
+| | earattack | 2 | Arranger, Producer, Songwriter, Lyricist |
 | | Brooke Tomlinson | 1 | Songwriter |
+| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
 | | TBHits | 1 | Arranger, Songwriter |
 | | Mich Hansen | 1 | Songwriter |
 | | Kaedi Dalley | 1 | Lyricist, Songwriter |
 | | 72 | 1 | Songwriter |
-| | 임찬미 (Kim, Chan-mi) | 1 | Producer |
-| | Gingerbread | 1 | Arranger, Producer |
-| | 이우현 (Lee, Woo-hyun) | 1 | Arranger, Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
 | | Boy Matthews | 1 | Lyricist |
-| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
-| | Alma Goodman | 1 | Songwriter |
+| | Gingerbread | 1 | Arranger, Producer |
 | | 손채영 (Son, Chae-young) | 1 | Lyricist |
 | | Kelsey Klingensmith | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
 | | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Alma Goodman | 1 | Songwriter |
+| | 김영현 (Kim, Young-hyun) | 1 | Producer |
 | | Cutfather | 1 | Arranger |
-| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | 홍장미 (Hong, Jangmi) | 1 | Producer |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | | A. Wright | 1 | Songwriter |
-| | Anna Timgren | 1 | Lyricist, Songwriter |
+| | Julia Michaels | 1 | Songwriter |
 | | Marcus van Wattum | 1 | Arranger, Songwriter |
 | | Barry Cohen | 1 | Songwriter |
 | | EJAE | 1 | Songwriter |
@@ -194,20 +198,20 @@ TWICE is currently:
 | | Gray Trainer | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../bibi/overview.md) | 1 | Lyricist |
 | | MNEK | 1 | Songwriter |
-| | GG Ramirez | 1 | Lyricist, Songwriter |
 | | Nea | 1 | Songwriter |
 | | Justin Tranter | 1 | Songwriter |
-| | earattack | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | Jenson Vaughan | 1 | Arranger, Songwriter |
-| | Julia Michaels | 1 | Songwriter |
+| | Anna Timgren | 1 | Lyricist, Songwriter |
 | | Musikality | 1 | Songwriter |
+| | Jenson Vaughan | 1 | Arranger, Songwriter |
 | | Mr. Franks | 1 | Arranger, Songwriter |
 | | Nina Ann Nelson | 1 | Lyricist, Songwriter |
 | | danke | 1 | Lyricist |
 | | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
+| | KayOne | 1 | Producer |
 | | Lauren Dyson | 1 | Arranger, Songwriter |
 | | Alexander Pavelich | 1 | Arranger, Songwriter |
+| | 유정연 (Yoo, Jeong-yeon) | 1 | Lyricist |
 | | John Hanes | 1 | Producer |
 | | 조한솔 (Cho, Han-sol) | 1 | Producer |
 | | 최규성 (Choi, Kyu-sung) | 1 | Lyricist, Songwriter |
@@ -272,6 +276,8 @@ TWICE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE (ENG) | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
 
 </details>
 

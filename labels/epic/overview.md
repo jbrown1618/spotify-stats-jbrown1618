@@ -1,20 +1,21 @@
 # Epic
 
-98 songs
+102 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Epic (75 tracks)
+- Epic (77 tracks)
 - Syco Music/Epic (10 tracks)
-- Epic/Legacy (4 tracks)
+- Epic/Legacy (5 tracks)
 - Epic/Not So Fast (2 tracks)
 - Epic/Phonogenic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
 - Epic/London Ent. (1 tracks)
 - FAX Records/Epic (1 tracks)
+- Tori Kelly/Epic/Beautiful Mind Records (1 tracks)
 - Wondaland Records/Epic (1 tracks)
 
 ## Top Artists
@@ -34,7 +35,7 @@ Appears as:
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 33 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,11 +43,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
+| <img src="https://i.scdn.co/image/9aef578389c4a9d27e15a627acb784c41094e79d" alt="" width="50" /> | 1 | 1 | Sly & The Family Stone | [🔗](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 1 | 1 | Wild Cherry | [🔗](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | 1 | 1 | Tyla | [🔗](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) |
+| <img src="https://i.scdn.co/image/ee4abaa4b898c4233b881056fd3caa9ddc87c82d" alt="" width="50" /> | 1 | 1 | LaBelle | [🔗](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
@@ -56,12 +60,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | 1 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe43df4cc104a9cc9c11b0b97" alt="" width="50" /> | 1 | 0 | Tyla Yaweh | [🔗](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) |
 
 </details>
 
 
-![Bar chart of top 29 artists](../../images/labels/epic/artists.png)
+![Bar chart of top 30 artists](../../images/labels/epic/artists.png)
 
 ## Top Albums
 
@@ -80,24 +85,28 @@ Appears as:
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 1 | 1 | Wild Cherry | 1976 | [🔗](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | 1 | 1 | Water | 2023-07-28 | [🔗](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | 1 | 1 | Oral Fixation, Vol. 2 (Expanded Edition) | 2005-11-28 | [🔗](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | 1 | 1 | Nomads · Indians · Saints (Expanded Edition) | 1990-09-21 | [🔗](https://open.spotify.com/album/1KpKdn4HLsD9OAN6GEYAIb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="" width="50" /> | 1 | 1 | Nightbirds | 1974-09-13 | [🔗](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | 1 | 1 | Heartbreak Anniversary | 2020-02-21 | [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | 1 | 1 | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | 1 | 1 | Greatest Hits | 1970-11-21 | [🔗](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cbec8c67e5993accf9d6033" alt="" width="50" /> | 1 | 0 | high water | 2024-02-09 | [🔗](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 0 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
@@ -125,21 +134,23 @@ Appears as:
 | 61 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
 | 61 | 40 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 61 | 40 | [ectofolk](../../genres/ectofolk/overview.md) |
-| 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
+| 61 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 15 | 11 | [pop](../../genres/pop/overview.md) |
+| 16 | 11 | [pop](../../genres/pop/overview.md) |
 | 11 | 7 | [r&b](../../genres/r_b/overview.md) |
 | 9 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 
 
 <details>
-<summary>See all 44 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 5 | [soul](../../genres/soul/overview.md) |
+| 9 | 6 | [soul](../../genres/soul/overview.md) |
 | 3 | 2 | latin pop |
 | 3 | 2 | colombian pop |
+| 2 | 2 | funk rock |
+| 2 | 2 | disco |
 | 2 | 2 | celtic rock |
 | 5 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 4 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
@@ -156,7 +167,13 @@ Appears as:
 | 2 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
 | 2 | 1 | [album rock](../../genres/album_rock/overview.md) |
 | 1 | 1 | women's music |
+| 1 | 1 | southern soul |
+| 1 | 1 | quiet storm |
+| 1 | 1 | psychedelic soul |
+| 1 | 1 | p funk |
 | 1 | 1 | neo soul |
+| 1 | 1 | funk |
+| 1 | 1 | classic soul |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
@@ -186,10 +203,10 @@ Appears as:
 | | Kurt Uenala | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
 | | Neal Avron | 6 | Arranger, Producer |
+| | Bruce Swedien | 5 | Producer |
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
 | | T-Bone Burnett | 5 | Producer |
 | | Jason Wormer | 5 | Producer |
-| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
-| | Bruce Swedien | 5 | Producer |
 | | Frank Dukes | 4 | Songwriter, Producer |
 
 
@@ -198,63 +215,66 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
-| | Louis Bell | 3 | Songwriter, Producer |
 | | Serban Ghenea | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
 | | Mark Endert | 3 | Producer |
 | | Jerry Hey | 3 | Arranger |
 | | John Hanes | 3 | Producer |
-| | Todor Kobakov | 2 | Arranger |
+| | Louis Bell | 3 | Songwriter, Producer |
 | | Bart Schoudel | 2 | Producer |
 | | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
-| | Andrew Watt | 2 | Producer, Songwriter |
+| | Jeremy Darby | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
-| | Ali Tamposi | 2 | Songwriter |
+| | Todor Kobakov | 2 | Arranger |
+| | Andrew Watt | 2 | Producer, Songwriter |
 | | Matt Hales | 2 | Songwriter |
+| | Ali Tamposi | 2 | Songwriter |
 | | Jack Antonoff | 2 | Songwriter |
 | | Mike Piersante | 2 | Producer |
-| | Jeremy Darby | 2 | Producer |
 | | Jaycen Joshua | 2 | Producer |
-| | Jacob Olofsson | 1 | Songwriter |
-| | Kaan Gunesberk | 1 | Songwriter |
-| | Corey Marlon Lindsay-Keay | 1 | Lyricist, Producer, Songwriter |
+| | Omar Alfanno | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| | Jason Blynn | 1 | Songwriter |
 | | Suzie Katayama | 1 | Arranger |
-| | Zachary Dawes | 1 | Producer |
-| | Sasha Yatchenko | 1 | Songwriter |
-| | Robbie Soukiasyan | 1 | Producer |
+| | Danny O'Donoghue | 1 | Songwriter |
 | | Danny D | 1 | Producer |
 | | Scott Litt | 1 | Producer |
-| | Omar Alfanno | 1 | Songwriter |
+| | Zachary Dawes | 1 | Producer |
+| | Jacob Olofsson | 1 | Songwriter |
 | | Jarami | 1 | Producer |
-| | Mike Gaydusek | 1 | Producer |
-| | Matt Beckley | 1 | Producer |
-| | Noonie Bao | 1 | Songwriter |
-| | Sam Farrar | 1 | Songwriter |
 | | Terry Becker | 1 | Producer |
-| | Danny O'Donoghue | 1 | Songwriter |
-| | Jason Blynn | 1 | Songwriter |
-| | Starrah | 1 | Songwriter |
-| | Amy Wadge | 1 | Songwriter |
-| | Bill Wolfer | 1 | Producer |
-| | Chad Vaccarino | 1 | Songwriter |
-| | Emily Weisband | 1 | Songwriter |
+| | Robbie Soukiasyan | 1 | Producer |
+| | Sasha Yatchenko | 1 | Songwriter |
+| | Kaan Gunesberk | 1 | Songwriter |
+| | Corey Marlon Lindsay-Keay | 1 | Lyricist, Producer, Songwriter |
+| | Sam Farrar | 1 | Songwriter |
+| | Allen Toussaint | 1 | Arranger, Producer |
+| | Noonie Bao | 1 | Songwriter |
 | | Aaron Sterling | 1 | Songwriter |
-| | Patrick Benson | 1 | Producer |
+| | Amy Wadge | 1 | Songwriter |
 | | Pete Harper | 1 | Songwriter |
 | | Tommy Walter | 1 | Producer |
+| | Robert W. Parissi | 1 | Lyricist, Songwriter |
 | | John Hill | 1 | Songwriter |
+| | Emily Weisband | 1 | Songwriter |
+| | Bob Crewe | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | George Michael | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | Javier Dunn | 1 | Songwriter |
+| | Mike Anderson | 1 | Producer |
 | | Savan Kotecha | 1 | Songwriter |
-| | Cashmere Cat | 1 | Producer, Songwriter |
+| | Mike Gaydusek | 1 | Producer |
 | | Mike Campbell | 1 | Songwriter |
 | | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
-| | Mike Anderson | 1 | Producer |
+| | Patrick Benson | 1 | Producer |
+| | Chad Vaccarino | 1 | Songwriter |
+| | Matt Beckley | 1 | Producer |
+| | Bill Wolfer | 1 | Producer |
+| | Starrah | 1 | Songwriter |
 | | Donn Landee | 1 | Producer |
-| | Jeff Glixman | 1 | Producer |
-| | Greg Phillinganes | 1 | Producer |
-| | Sammy SoSo | 1 | Arranger, Producer, Songwriter |
+| | Cashmere Cat | 1 | Producer, Songwriter |
+| | Kyle Mann | 1 | Producer |
+| | Kenny Nolan | 1 | Songwriter |
+| | Sylvester Stewart | 1 | Lyricist, Songwriter |
 | | Justin Tranter | 1 | Songwriter |
 | | Paul LaMalfa | 1 | Producer |
 | | Jerry Duplessis | 1 | Songwriter |
@@ -264,8 +284,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Eric Rosse | 1 | Producer |
 | | Ori Kaplan | 1 | Producer, Songwriter |
-| | Kyle Mann | 1 | Producer |
 | | Tricky Stewart | 1 | Songwriter |
+| | Jack Patterson | 1 | Songwriter |
 | | James Ingram | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
 | | Jack LoMastro | 1 | Songwriter |
@@ -277,17 +297,14 @@ Appears as:
 | | Ant Clemons | 1 | Songwriter |
 | | Tor Erik Hermansen | 1 | Songwriter |
 | | Steve Kipner | 1 | Songwriter |
-| | Jack Patterson | 1 | Songwriter |
+| | Sammy SoSo | 1 | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | Tyla | 1 | Lyricist, Songwriter |
-| | Joseph Lorge | 1 | Producer |
+| | Jeff Glixman | 1 | Producer |
 | | Ian Axel | 1 | Songwriter |
+| | Greg Phillinganes | 1 | Producer |
 | | Priscilla Renea | 1 | Songwriter |
 | | Lori McKenna | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
-| | Nicolle Galyon | 1 | Songwriter |
-| | Carl Lieberman, RPT | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | Young Thug | 1 | Songwriter |
-| | Steve Porcaro | 1 | Producer |
 
 </details>
 
@@ -325,6 +342,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_monáe/overview.md), Jidenna | [Wondaland Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | Carry on Wayward Son | Leftoverture (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="" width="50" /> | Lady Marmalade | Nightbirds | LaBelle | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Billie Jean | Thriller | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
@@ -397,11 +415,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | Hips Don't Lie (feat. Wyclef Jean) | Oral Fixation, Vol. 2 (Expanded Edition) | Shakira, Wyclef Jean | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | Shakira, Freshlyground | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | Greatest Hits | Sly & The Family Stone | [Epic](.), [Legacy](../legacy) | 💚 | [🔗](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | The Man Who Can't Be Moved | The Script | The Script | [Epic/Phonogenic](.) | 💚 | [🔗](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cbec8c67e5993accf9d6033" alt="" width="50" /> | high water | high water | Tori Kelly | [Tori Kelly/Epic/Beautiful Mind Records](.) | | [🔗](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | Water | Water | Tyla | [FAX Records/Epic](.) | 💚 | [🔗](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | City Of Dreams (feat. Chris Brown) | Heart Full of Rage 2 | Tyla Yaweh, Chris Brown | [Epic/London Ent.](.) | | [🔗](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | Last Christmas | LAST CHRISTMAS | Wham! | [Epic](.) | | [🔗](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | Play That Funky Music | Wild Cherry | Wild Cherry | [Epic](.) | 💚 | [🔗](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) |
 
 </details>
 

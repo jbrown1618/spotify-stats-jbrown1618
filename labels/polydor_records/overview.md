@@ -1,6 +1,6 @@
 # Polydor Records
 
-69 songs
+70 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Polydor Records (68 tracks)
-- Polydor (1 tracks)
+- Polydor (2 tracks)
 
 ## Top Artists
 
@@ -22,15 +22,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230" alt="" width="50" /> | 1 | 1 | LANY | [🔗](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcf5fb42825076ab99ff7a991" alt="" width="50" /> | 1 | 1 | Lipps Inc. | [🔗](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
 
 
 <details>
-<summary>See all 41 artists</summary>
+<summary>See all 42 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36cedc44a1877f5d2372da7e" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
 | <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
@@ -85,11 +86,12 @@ Appears as:
 
 
 <details>
-<summary>See all 21 albums</summary>
+<summary>See all 22 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | 1 | 1 | Mouth To Mouth | 1979-11-01 | [🔗](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4dae9528b2a8408f463eb17" alt="" width="50" /> | 1 | 1 | Malibu Nights | 2018-10-05 | [🔗](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | 1 | 1 | Ivy To Roses (Mixtape) | 2019-01-18 | [🔗](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | 2000-01-01 | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
@@ -104,7 +106,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 albums](../../images/labels/polydor_records/albums.png)
+![Bar chart of top 22 albums](../../images/labels/polydor_records/albums.png)
 
 ## Genres
 
@@ -117,19 +119,21 @@ Appears as:
 | 5 | 2 | metropopolis |
 | 2 | 2 | [rock](../../genres/rock/overview.md) |
 | 2 | 2 | [hard rock](../../genres/hard_rock/overview.md) |
+| 2 | 2 | disco |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | [british invasion](../../genres/british_invasion/overview.md) |
-| 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 
 
 <details>
-<summary>See all 31 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
+| 1 | 1 | synthpop |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
+| 1 | 1 | minneapolis sound |
 | 1 | 1 | la pop |
-| 1 | 1 | disco |
 | 1 | 1 | british soul |
 | 23 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 22 | 0 | west end |
@@ -164,10 +168,10 @@ Appears as:
 | | Larry Gold | 4 | Arranger |
 | | Dan Grech-Marguerat | 4 | Producer |
 | | Justin Parker | 3 | Producer, Songwriter |
-| | Glyn Johns | 2 | Producer |
+| | Pete Townshend | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 2 | Producer |
 | | Tim Larcombe | 2 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
+| | Glyn Johns | 2 | Producer |
 
 
 <details>
@@ -175,23 +179,23 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Pete Townshend | 2 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
-| | Jason Elliott | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
+| | Keith Moon | 1 | Producer |
 | | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
 | | Brent Kolatalo | 1 | Producer |
 | | Richard "Biff" Stannard | 1 | Producer, Songwriter |
-| | Keith Moon | 1 | Producer |
+| | Steven Greenberg | 1 | Lyricist, Songwriter |
+| | KAMILLE | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
 | | Ash Howes | 1 | Producer, Songwriter |
 | | Freddie Perren | 1 | Songwriter |
-| | Collin Dupuis | 1 | Producer |
 | | Serban Ghenea | 1 | Producer |
 | | Dan Auerbach | 1 | Producer |
 | | Robopop | 1 | Producer |
-| | KAMILLE | 1 | Songwriter |
-| | John Hanes | 1 | Producer |
+| | Jason Elliott | 1 | Producer |
 | | Carl Bagge | 1 | Arranger |
-| | Leland | 1 | Songwriter |
+| | Collin Dupuis | 1 | Producer |
+| | Joe Kearns | 1 | Producer, Songwriter |
 | | Trevor Yasuda | 1 | Producer |
 | | Mark "Spike" Stent | 1 | Producer |
 | | Daniel Pursey | 1 | Producer |
@@ -200,8 +204,8 @@ Appears as:
 | | Chris Laws | 1 | Producer |
 | | Dino Fekaris | 1 | Songwriter |
 | | Kieron Menzies | 1 | Producer |
-| | Joe Kearns | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
+| | Leland | 1 | Songwriter |
 | | Steven Malcolmson | 1 | Producer |
 | | Daniel Law Heath | 1 | Songwriter |
 | | Manny Marroquin | 1 | Producer |
@@ -209,6 +213,7 @@ Appears as:
 | | Steve Booker | 1 | Producer, Songwriter |
 | | Dean Reid | 1 | Producer |
 | | Steve Mac | 1 | Producer, Songwriter |
+| | John Hanes | 1 | Producer |
 | | Patrik Berger | 1 | Producer |
 
 </details>
@@ -288,6 +293,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Fuck it I love you | Norman Fucking Rockwell! | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman fucking Rockwell | Norman Fucking Rockwell! | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | One Day More | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Les Misérables Cast | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/6ophEFs89SOktBpFnRM8BK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | Funkytown | Mouth To Mouth | Lipps Inc. | [Polydor](.) | 💚 | [🔗](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | Don't Call Me Up | Ivy To Roses (Mixtape) | Mabel | [Polydor Records](.) | 💚 | [🔗](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Stars | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Russell Crowe | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/4cLsM2rpxuniX1GkXdQjeC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | Master Of The House | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Sacha Baron Cohen, Helena Bonham Carter, Les Misérables Cast | [Polydor Records](.) | | [🔗](https://open.spotify.com/track/3WoatVXvmr0qK7xVcVIyPi) |

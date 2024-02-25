@@ -4,14 +4,13 @@
 
 ## Cluster #1
 
-10 tracks
+9 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | Limousine (Feat. MINO) (Prod. GRAY) | Show Me The Money 10 Episode 3 | BE'O, MINO | [Genie Music Corporation](../../../../labels/genie_music_corporation) | | [🔗](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="" width="50" /> | Three Dopeboyz (Feat. Zion.T) | LUCKYNUMBERS | Dynamicduo, Zion.T | [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | | [🔗](https://open.spotify.com/track/74Q5gW006ZD5iIaVYB1EhO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | Smoke (Prod. Dynamicduo, Padi) | Street Woman Fighter2 (SWF2) Class Mission | Dynamicduo, Lee Young Ji | [Genie Music Corporation](../../../../labels/genie_music_corporation) | 💚 | [🔗](https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c71e80a8f580184ba910222" alt="" width="50" /> | Love Love Love | Remapping the Human Soul | Epik High | CJ E&M MUSIC | 💚 | [🔗](https://open.spotify.com/track/7hlEhmg5h9XuFtaGfgvqjF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dbdbd0023f1e1c08cd5a6c9" alt="" width="50" /> | CROOKED | COUP D'ETAT | G-DRAGON | [YG Entertainment](../../../../labels/yg_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="" width="50" /> | Gangnam Style (강남스타일) | Gangnam Style (강남스타일) | PSY | Silent Records/Universal Republic Records | 💚 | [🔗](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="" width="50" /> | DADDY | PSY 7TH ALBUM | PSY, CL | [YG Entertainment](../../../../labels/yg_entertainment) | | [🔗](https://open.spotify.com/track/1eMVXXpNPEUdFRy5ZH7FpM) |

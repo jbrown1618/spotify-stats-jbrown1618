@@ -308,13 +308,13 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 12 | 10 | chamber pop |
-| 11 | 10 | seattle indie |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | indie pop |
 | 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
 | 6 | 5 | funktronica |
 | 5 | 5 | stomp and holler |
+| 5 | 5 | seattle indie |
 | 5 | 5 | modern alternative rock |
 | 9 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
 | 4 | 4 | indie folk |
@@ -363,6 +363,7 @@
 | 5 | 1 | punk |
 | 4 | 1 | neon pop punk |
 | 3 | 1 | scottish singer-songwriter |
+| 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | trondheim indie |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | k-rock |
@@ -396,7 +397,6 @@
 | 1 | 1 | british math rock |
 | 1 | 1 | brighton indie |
 | 1 | 1 | australian pop |
-| 1 | 1 | australian indie |
 
 </details>
 

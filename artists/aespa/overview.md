@@ -18,7 +18,7 @@ aespa:
 
 ## Artist Rank
 aespa is currently:
-- The #4 artist of the last month
+- The #9 artist of the last month
 - The #2 artist of the last 6 months
 - The #6 artist of all time
 
@@ -30,7 +30,7 @@ aespa is currently:
 - Next Level is:
     - the #4 track of all time
 - Illusion is:
-    - the #15 track of the last 6 months
+    - the #21 track of the last 6 months
     - the #25 track of all time
 - Black Mamba is:
     - the #28 track of all time
@@ -42,19 +42,17 @@ aespa is currently:
 - Better Things is:
     - the #3 track of the last 6 months
 - Hot Air Balloon is:
-    - the #5 track of the last 6 months
+    - the #7 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #9 track of the last 6 months
+    - the #14 track of the last 6 months
 - Don't Blink is:
-    - the #20 track of the last 6 months
+    - the #17 track of the last 6 months
 - Beautiful Christmas is:
-    - the #27 track of the last 6 months
+    - the #29 track of the last 6 months
 - YOLO is:
-    - the #31 track of the last 6 months
-- Hold On Tight is:
-    - the #38 track of the last 6 months
+    - the #36 track of the last 6 months
 - Regret of the Times - 2024 aespa Remake Version is:
-    - the #18 track of the last month
+    - the #22 track of the last month
 
 ### Top tracks of all time over time
 

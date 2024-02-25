@@ -11,7 +11,7 @@ JEON SOYEON:
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #47 artist of the last 6 months
+- The #33 artist of the last month
 - The #31 artist of all time
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)
@@ -22,9 +22,8 @@ JEON SOYEON is currently:
 - DESSERT is:
     - the #41 track of all time
 - NOBODY is:
-    - the #26 track of the last 6 months
-- Psycho is:
-    - the #50 track of the last month
+    - the #37 track of the last month
+    - the #12 track of the last 6 months
 
 ### Top tracks of all time over time
 

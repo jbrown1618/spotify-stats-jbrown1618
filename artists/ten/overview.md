@@ -15,13 +15,18 @@ TEN:
 
 ## Artist Rank
 TEN is currently:
-- The #16 artist of the last month
+- The #12 artist of the last month
+- The #32 artist of the last 6 months
 
 ![Rank of TEN over time](../../images/artists/ten/rank_time_series.png)
 ## Top Tracks
 
 - Shadow is:
-    - the #1 track of the last month
+    - the #4 track of the last month
+- Dangerous is:
+    - the #12 track of the last month
+- Nightwalker is:
+    - the #35 track of the last month
 
 ### Top tracks of the last 6 months over time
 

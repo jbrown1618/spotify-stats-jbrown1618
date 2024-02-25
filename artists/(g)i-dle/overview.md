@@ -21,30 +21,33 @@
 ## Artist Rank
 (G)I-DLE is currently:
 - The #3 artist of the last month
-- The #4 artist of the last 6 months
+- The #5 artist of the last 6 months
 - The #5 artist of all time
 
 ![Rank of (G)I-DLE over time](../../images/artists/(g)i-dle/rank_time_series.png)
 ## Top Tracks
 
 - Oh my god is:
-    - the #30 track of the last month
-    - the #28 track of the last 6 months
+    - the #49 track of the last month
+    - the #32 track of the last 6 months
     - the #19 track of all time
 - LATATA is:
     - the #23 track of all time
 - Uh-Oh is:
     - the #34 track of all time
 - I Want That is:
-    - the #14 track of the last 6 months
-- Lucid is:
-    - the #41 track of the last 6 months
-- Revenge is:
-    - the #12 track of the last month
+    - the #20 track of the last 6 months
 - Doll is:
-    - the #15 track of the last month
+    - the #1 track of the last month
+    - the #42 track of the last 6 months
+- Lucid is:
+    - the #50 track of the last 6 months
+- Revenge is:
+    - the #7 track of the last month
 - Super Lady is:
-    - the #16 track of the last month
+    - the #9 track of the last month
+- Rollie is:
+    - the #10 track of the last month
 
 ### Top tracks of all time over time
 

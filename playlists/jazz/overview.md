@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | 3 | 0 | The Dave Brubeck Quartet | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
 | <img src="https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2" alt="" width="50" /> | 3 | 0 | Chet Baker | [🔗](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb32aa7584c305f934dbe0057f" alt="" width="50" /> | 3 | 0 | YUNSEOKCHEOL TRIO | [🔗](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3bf8497c46243391e6172771" alt="" width="50" /> | 2 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12cfc0c902710269d3a954aa" alt="" width="50" /> | 2 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/a3201f2fbdfa1bfd894e509bd3fbf3faf7da0a00" alt="" width="50" /> | 2 | 0 | Natalie Cole | [🔗](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) |
 | <img src="https://i.scdn.co/image/822d7cac5aa9649b2c8a0be5da89567f8b80ca56" alt="" width="50" /> | 2 | 0 | Vince Guaraldi Trio | [🔗](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8238a10406dfbd483d13f908" alt="" width="50" /> | 2 | 0 | Thelonious Monk | [🔗](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) |

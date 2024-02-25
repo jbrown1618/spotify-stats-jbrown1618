@@ -4,6 +4,18 @@
 
 ## Cluster #1
 
+6 tracks
+
+| Art | Track | Album | Artists | Label | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | Respect | I Never Loved a Man the Way I Love You | Aretha Franklin | Rhino Atlantic | | [🔗](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Get Up (I Feel Like Being A) Sex Machine | Star Time | James Brown | [Universal/Island Def Jam](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Papa's Got A Brand New Bag | Star Time | James Brown | [Universal/Island Def Jam](../../../../labels/universal_music_llc) | | [🔗](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Wait for It | Hamilton (Original Broadway Cast Recording) | Leslie Odom Jr., Original Broadway Cast of Hamilton | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) | Milestones | Miles Davis, John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers, Philly Joe Jones | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | Agua De Beber | Sophie Milman | Sophie Milman | Linus Entertainment Inc. | | [🔗](https://open.spotify.com/track/4ic2XfSYoMch7DrdNf2T3N) |
+## Cluster #2
+
 20 tracks
 
 | Art | Track | Album | Artists | Label | 💚 | 🔗 |
@@ -18,16 +30,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable | Unforgettable: With Love | Natalie Cole, Nat King Cole | Craft Recordings | | [🔗](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | La Vie En Rose | Sophie Milman | Sophie Milman | Linus Entertainment Inc. | | [🔗](https://open.spotify.com/track/12kmgivtb8dyhxnko2doFt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d404febd467623a6f893b177" alt="" width="50" /> | I Can't Make You Love Me | Take Love Easy | Sophie Milman | Linus Entertainment | | [🔗](https://open.spotify.com/track/4G5kuEKnYw2PFdLdYcZFWz) |
-## Cluster #2
-
-4 tracks
-
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | Respect | I Never Loved a Man the Way I Love You | Aretha Franklin | Rhino Atlantic | | [🔗](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | Wait for It | Hamilton (Original Broadway Cast Recording) | Leslie Odom Jr., Original Broadway Cast of Hamilton | [Atlantic Records](../../../../labels/atlantic_records) | 💚 | [🔗](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) | Milestones | Miles Davis, John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers, Philly Joe Jones | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | | [🔗](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | Agua De Beber | Sophie Milman | Sophie Milman | Linus Entertainment Inc. | | [🔗](https://open.spotify.com/track/4ic2XfSYoMch7DrdNf2T3N) |
 ## Cluster #3
 
 16 tracks

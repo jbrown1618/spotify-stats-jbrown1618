@@ -21,15 +21,19 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #11 artist of the last month
-- The #15 artist of the last 6 months
+- The #10 artist of the last month
+- The #13 artist of the last 6 months
 - The #30 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - HOME is:
-    - the #5 track of the last month
+    - the #14 track of the last month
+- Soñar (Breaker) is:
+    - the #29 track of the last month
+- Run For Roses is:
+    - the #36 track of the last month
 
 ### Top tracks of the last 6 months over time
 

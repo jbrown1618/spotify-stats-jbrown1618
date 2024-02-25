@@ -6,8 +6,8 @@
 
 ## Artist Rank
 Janelle Monáe is currently:
-- The #6 artist of the last month
-- The #33 artist of the last 6 months
+- The #8 artist of the last month
+- The #34 artist of the last 6 months
 
 ![Rank of Janelle Monáe over time](../../images/artists/janelle_monáe/rank_time_series.png)
 ## Featured on Playlists

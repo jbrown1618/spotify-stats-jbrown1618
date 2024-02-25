@@ -10,16 +10,16 @@
 
 ## Artist Rank
 Jacob Collier is currently:
-- The #1 artist of the last month
-- The #14 artist of the last 6 months
+- The #2 artist of the last month
+- The #15 artist of the last 6 months
 
 ![Rank of Jacob Collier over time](../../images/artists/jacob_collier/rank_time_series.png)
 ## Top Tracks
 
 - He Won't Hold You (feat. Rapsody) is:
-    - the #14 track of the last month
+    - the #25 track of the last month
 - Every Little Thing She Does Is Magic is:
-    - the #23 track of the last month
+    - the #42 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

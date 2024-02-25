@@ -48,18 +48,19 @@ Appears as:
 | 7 | 4 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 3 | 1 | scottish singer-songwriter |
 | 3 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
+| 3 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | uk dance |
 | 1 | 1 | talent show |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
-| 2 | 0 | alternative metal |
 
 
 <details>
-<summary>See all 20 genres</summary>
+<summary>See all 21 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | alternative metal |
 | 1 | 0 | spacegrunge |
 | 1 | 0 | screamo |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
@@ -74,7 +75,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 20 genres](../../images/labels/virgin_records/genres.png)
+![Bar chart of top 21 genres](../../images/labels/virgin_records/genres.png)
 
 ## Top Producers
 

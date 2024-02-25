@@ -1,14 +1,14 @@
 # Columbia
 
-105 songs
+108 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia (67 tracks)
-- Columbia/Legacy (14 tracks)
+- Columbia (68 tracks)
+- Columbia/Legacy (16 tracks)
 - Parkwood Entertainment/Columbia (8 tracks)
 - Music World Music/Columbia (5 tracks)
 - G.O.O.D. Music/Columbia (2 tracks)
@@ -37,7 +37,7 @@ Appears as:
 
 
 <details>
-<summary>See all 62 artists</summary>
+<summary>See all 65 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -74,13 +74,16 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb440230373e8ffaf11c36f96d" alt="" width="50" /> | 1 | 0 | Billy Ray Cyrus | [🔗](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) |
 | <img src="https://i.scdn.co/image/c9ac5f2db563d4c6635882e09ab6373b871a7c7a" alt="" width="50" /> | 1 | 0 | Cannonball Adderley | [🔗](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/0463291ed74637e96108fef43446c03b309dcad6" alt="" width="50" /> | 1 | 0 | Deniece Williams | [🔗](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) |
 | <img src="https://i.scdn.co/image/66a7fe2b2fd9388cf860f88e8636910f161be6cd" alt="" width="50" /> | 1 | 0 | Gene Autry | [🔗](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb011dde6bbcb133aea587ad5a" alt="" width="50" /> | 1 | 0 | Jawsh 685 | [🔗](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b6c50f5fdfc89384b19cc68" alt="" width="50" /> | 1 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d6fb9c864dfb2d74865ad6" alt="" width="50" /> | 1 | 0 | Philly Joe Jones | [🔗](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92" alt="" width="50" /> | 1 | 0 | Earth, Wind & Fire | [🔗](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bd2ada8cc664dde48c07145" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 1 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 0 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 1 | 0 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/d2eb2b8d27ed067ff0a649c74d280a04446d7211" alt="" width="50" /> | 1 | 0 | Red Garland | [🔗](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) |
@@ -116,7 +119,7 @@ Appears as:
 
 
 <details>
-<summary>See all 76 albums</summary>
+<summary>See all 79 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -164,6 +167,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3" alt="" width="50" /> | 1 | 0 | The Nylon Curtain | 1982-06-23 | [🔗](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | 1 | 0 | The Classic Christmas Album | 1945 | [🔗](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="" width="50" /> | 1 | 0 | That's The Way Of The World | 1975-03-15 | [🔗](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="" width="50" /> | 1 | 0 | Straight, No Chaser | 1967 | [🔗](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
@@ -172,8 +176,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | 1 | 0 | Preach | 2019-02-15 | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8" alt="" width="50" /> | 1 | 0 | Nothing Breaks Like a Heart (feat. Miley Cyrus) | 2018-11-30 | [🔗](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | 1 | 0 | Milestones | 1958-04 | [🔗](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346e859872ed30a898160aeb2" alt="" width="50" /> | 1 | 0 | Midnight Love | 1982-10-01 | [🔗](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="" width="50" /> | 1 | 0 | Merry Christmas | 1994-10-28 | [🔗](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="" width="50" /> | 1 | 0 | MONTERO | 2021-09-17 | [🔗](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | 1 | 0 | Let's Hear It for the Boy (Expanded Edition) | 1984-04-16 | [🔗](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b75d57d2d070c0c4afb3f9a" alt="" width="50" /> | 1 | 0 | Head Hunters | 1973-10-26 | [🔗](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | 1 | 0 | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
@@ -209,7 +215,7 @@ Appears as:
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 96 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -222,8 +228,8 @@ Appears as:
 | 3 | 3 | country dawn |
 | 3 | 3 | country |
 | 3 | 3 | contemporary country |
-| 6 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
-| 4 | 2 | neo soul |
+| 7 | 2 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 5 | 2 | neo soul |
 | 3 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 3 | 2 | british soul |
 | 2 | 2 | pov: indie |
@@ -255,6 +261,7 @@ Appears as:
 | 1 | 1 | australian rock |
 | 1 | 1 | afrobeats |
 | 7 | 0 | jazz |
+| 5 | 0 | [soul](../../genres/soul/overview.md) |
 | 5 | 0 | bebop |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz piano |
@@ -262,23 +269,28 @@ Appears as:
 | 3 | 0 | contemporary post-bop |
 | 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
-| 2 | 0 | [soul](../../genres/soul/overview.md) |
+| 2 | 0 | quiet storm |
 | 2 | 0 | pop dance |
+| 2 | 0 | motown |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | jazz trumpet |
 | 2 | 0 | jazz trio |
 | 2 | 0 | jazz fusion |
+| 2 | 0 | jazz funk |
+| 2 | 0 | funk |
 | 2 | 0 | edm |
 | 2 | 0 | easy listening |
+| 2 | 0 | disco |
 | 1 | 0 | yodeling |
 | 1 | 0 | uk dance |
 | 1 | 0 | traditional country |
 | 1 | 0 | swing |
 | 1 | 0 | progressive house |
+| 1 | 0 | post-disco |
 | 1 | 0 | outlaw country |
 | 1 | 0 | nz pop |
+| 1 | 0 | northern soul |
 | 1 | 0 | new orleans jazz |
-| 1 | 0 | jazz funk |
 | 1 | 0 | instrumental funk |
 | 1 | 0 | house |
 | 1 | 0 | harlem renaissance |
@@ -289,6 +301,8 @@ Appears as:
 | 1 | 0 | dixieland |
 | 1 | 0 | cowboy western |
 | 1 | 0 | cool jazz |
+| 1 | 0 | contemporary r&b |
+| 1 | 0 | classic soul |
 | 1 | 0 | classic oklahoma country |
 | 1 | 0 | arkansas country |
 
@@ -477,7 +491,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | Turn Down for What | Turn Down for What | DJ Snake, Lil Jon | [Columbia](.) | | [🔗](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](../../artists/daft_punk/overview.md), Pharrell Williams, Nile Rodgers | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](../../artists/daft_punk/overview.md), Julian Casablancas | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | Let's Hear It for the Boy - From "Footloose" Original Soundtrack | Let's Hear It for the Boy (Expanded Edition) | Deniece Williams | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](.) | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="" width="50" /> | Shining Star | That's The Way Of The World | Earth, Wind & Fire | [Columbia](.) | | [🔗](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) | Christmas Songs by Sinatra | [Frank Sinatra](../../artists/frank_sinatra/overview.md), B. Swanson Quartet | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
@@ -507,6 +523,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="" width="50" /> | All I Want for Christmas Is You | Merry Christmas | Mariah Carey | [Columbia](.) | | [🔗](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Uptown Special | Mark Ronson, [Bruno Mars](../../artists/bruno_mars/overview.md) | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8" alt="" width="50" /> | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Mark Ronson, Miley Cyrus | [Columbia](.) | | [🔗](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346e859872ed30a898160aeb2" alt="" width="50" /> | Sexual Healing | Midnight Love | Marvin Gaye | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016" alt="" width="50" /> | Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) | Milestones | Miles Davis, John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers, Philly Joe Jones | [Columbia](.), [Legacy](../legacy) | | [🔗](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" alt="" width="50" /> | Flowers | Flowers | Miley Cyrus | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="" width="50" /> | death bed (coffee for your head) | death bed (coffee for your head) | Powfu, beabadoobee | [Columbia](.) | 💚 | [🔗](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) |

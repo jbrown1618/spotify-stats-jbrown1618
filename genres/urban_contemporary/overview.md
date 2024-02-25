@@ -1,6 +1,6 @@
 # urban contemporary
 
-31 songs
+32 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,11 +23,12 @@
 
 
 <details>
-<summary>See all 21 artists</summary>
+<summary>See all 22 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
+| <img src="https://i.scdn.co/image/0463291ed74637e96108fef43446c03b309dcad6" alt="" width="50" /> | 1 | 0 | Deniece Williams | [🔗](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 0 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
@@ -42,7 +43,7 @@
 </details>
 
 
-![Bar chart of top 21 artists](../../images/genres/urban_contemporary/artists.png)
+![Bar chart of top 22 artists](../../images/genres/urban_contemporary/artists.png)
 
 ![Comparison of Artist](../../images/genres/urban_contemporary/artists_comparison.png)
 ## Top Albums
@@ -62,7 +63,7 @@
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -73,6 +74,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | 1 | 0 | Preach | 2019-02-15 | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | 1 | 0 | Music Of The Sun | 2005-08-29 | [🔗](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="" width="50" /> | 1 | 0 | Merry Christmas | 1994-10-28 | [🔗](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | 1 | 0 | Let's Hear It for the Boy (Expanded Edition) | 1984-04-16 | [🔗](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | 1 | 0 | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | 0 | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | 1 | 0 | Fanmail | 1999-02-23 | [🔗](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) |
@@ -83,14 +85,14 @@
 </details>
 
 
-![Bar chart of top 23 albums](../../images/genres/urban_contemporary/albums.png)
+![Bar chart of top 24 albums](../../images/genres/urban_contemporary/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 13 | 11 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
-| 6 | 2 | [Columbia](../../labels/columbia/overview.md) |
+| 7 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 2 | G.O.O.D. Music |
 | 4 | 1 | LaFace Records |
 | 2 | 1 | Arista |
@@ -102,10 +104,11 @@
 
 
 <details>
-<summary>See all 13 labels</summary>
+<summary>See all 14 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | Def Soul |
 | 1 | 0 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 1 | 0 | 19 Recordings Limited |
@@ -113,7 +116,7 @@
 </details>
 
 
-![Bar chart of top 13 record labels](../../images/genres/urban_contemporary/labels.png)
+![Bar chart of top 14 record labels](../../images/genres/urban_contemporary/labels.png)
 
 ## Top Producers
 
@@ -195,15 +198,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="A Legendary Christmas: Deluxe Edition" width="50" /> | A Legendary Christmas: Deluxe Edition (2019-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="Preach" width="50" /> | Preach (2019-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="ANTI (Deluxe)" width="50" /> | ANTI (Deluxe) (2016-01-28) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don&#x27;t Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) (2014-11-21) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> | Love In The Future (Expanded Edition) (2013-08-30) | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="Bittersweet" width="50" /> | Bittersweet (2003) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Unapologetic (Deluxe) (2012-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | Talk That Talk (2011-11-19) | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="Music Of The Sun" width="50" /> | Music Of The Sun (2005-08-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | All I Want Is You (2010-11-26) | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | In My Own Words (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | Loud (2010-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Cassie (U.S. Version) (2006-08-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="Raymond v Raymond (Expanded Edition)" width="50" /> | Raymond v Raymond (Expanded Edition) (2010-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | Jordin Sparks (2007-11-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e0d9669418329b74e9b2244" alt="A Legendary Christmas: Deluxe Edition" width="50" /> | A Legendary Christmas: Deluxe Edition (2019-11-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="Let&#x27;s Hear It for the Boy (Expanded Edition)" width="50" /> | Let's Hear It for the Boy (Expanded Edition) (1984-04-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="Preach" width="50" /> | Preach (2019-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="ANTI (Deluxe)" width="50" /> | ANTI (Deluxe) (2016-01-28) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don&#x27;t Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) (2014-11-21) | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="Survivor" width="50" /> | Survivor (2001-05-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="Love In The Future (Expanded Edition)" width="50" /> | Love In The Future (Expanded Edition) (2013-08-30) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | Unapologetic (Deluxe) (2012-12-11) | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="Bittersweet" width="50" /> | Bittersweet (2003) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | Talk That Talk (2011-11-19) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | All I Want Is You (2010-11-26) | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="Music Of The Sun" width="50" /> | Music Of The Sun (2005-08-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | Loud (2010-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | In My Own Words (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="Raymond v Raymond (Expanded Edition)" width="50" /> | Raymond v Raymond (Expanded Edition) (2010-03-30) | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Cassie (U.S. Version) (2006-08-07) |
 
 ![Bar chart of number of songs by year](../../images/genres/urban_contemporary/years.png)

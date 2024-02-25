@@ -1,6 +1,6 @@
 # Republic Records
 
-174 songs
+175 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,8 +8,8 @@
 
 Appears as:
 - Republic Records - Stray Kids (49 tracks)
-- Republic Records - TWICE (42 tracks)
-- Republic Records - ITZY (38 tracks)
+- Republic Records - TWICE (44 tracks)
+- Republic Records - ITZY (37 tracks)
 - Republic Records (14 tracks)
 - Republic Records - NMIXX (11 tracks)
 - Republic Records - TXT (10 tracks)
@@ -25,8 +25,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebda4177e45e13a90e4cef93fc" alt="" width="50" /> | 42 | 31 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 38 | 25 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebda4177e45e13a90e4cef93fc" alt="" width="50" /> | 44 | 32 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 37 | 25 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 49 | 23 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 11 | 8 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | 11 | 6 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
@@ -75,8 +75,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 9 | 3 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 8 | 6 | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 7 | 5 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 6 | 5 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 6 | 4 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 5 | 5 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | 5 | 4 | KILL MY DOUBT | 2023-07-31 | [🔗](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 4 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) |
@@ -85,7 +85,7 @@ Appears as:
 
 
 <details>
-<summary>See all 75 albums</summary>
+<summary>See all 76 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -112,6 +112,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 2 | 2 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | 2 | 2 | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 2 | 1 | With YOU-th | 2024-02-23 | [🔗](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | 2 | 1 | Merry & Happy | 2017-12-11 | [🔗](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | 2 | 1 | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f560e8c1cda870ef4eadb43" alt="" width="50" /> | 2 | 0 | SKZ2020 | 2020-03-18 | [🔗](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) |
@@ -164,9 +165,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 152 | 94 | [k-pop](../../genres/k-pop/overview.md) |
-| 108 | 64 | [pop](../../genres/pop/overview.md) |
-| 92 | 64 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 153 | 95 | [k-pop](../../genres/k-pop/overview.md) |
+| 110 | 65 | [pop](../../genres/pop/overview.md) |
+| 93 | 65 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 60 | 29 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | classic k-pop |
@@ -218,95 +219,95 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Sam Holland | 4 | Producer |
+| | 임찬미 (Kim, Chan-mi) | 4 | Producer |
 | | Max Martin | 4 | Producer, Songwriter |
+| | Melanie Joy Fontana | 4 | Lyricist, Songwriter |
+| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
 | | 김영현 (Kim, Young-hyun) | 4 | Producer |
 | | Sophia Pae | 4 | Arranger |
-| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
-| | Melanie Joy Fontana | 3 | Lyricist, Songwriter |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
-| | Dr.JO | 3 | Lyricist, Arranger |
-| | 윤원권 (Yoon, Won-kwon) | 3 | Producer |
-| | Arschtritt Lindgren | 3 | Arranger, Songwriter, Producer |
-| | 임찬미 (Kim, Chan-mi) | 3 | Producer |
-| | ILYA | 3 | Producer, Songwriter |
+| | Arschtritt Lindgren | 4 | Arranger, Songwriter, Producer |
 | | Sam Lewis | 3 | Lyricist, Songwriter |
-| | Brian U | 3 | Songwriter, Arranger |
-| | TBHits | 3 | Arranger, Songwriter, Producer |
 | | 신지영 (Shin, Ji-young) | 3 | Producer |
+| | 구종필 (Koo, Jong-Pil) | 3 | Producer |
 | | 오현선 (Oh, Hyun-sun) | 3 | Lyricist |
+| | Dr.JO | 3 | Lyricist, Arranger |
+| | Brian U | 3 | Songwriter, Arranger |
+| | 윤원권 (Yoon, Won-kwon) | 3 | Producer |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
 | | 이경원 (Lee, Kyung-won) | 3 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
-| | Noday | 2 | Arranger, Lyricist, Songwriter |
-| | 한 (Han) | 2 | Songwriter, Lyricist |
-| | EJAE | 2 | Songwriter |
-| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
-| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | TBHits | 3 | Arranger, Songwriter, Producer |
+| | ILYA | 3 | Producer, Songwriter |
 | | Savan Kotecha | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
-| | 김용운 (Gim, Yong-un) | 2 | Producer |
-| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
-| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | Brendan Morawski | 2 | Producer |
-| | John Hanes | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
-| | 백새임 (Baek, Sae-im) | 2 | Lyricist |
+| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
 | | 박은정 (박은정) | 2 | Producer |
+| | earattack | 2 | Arranger, Producer, Songwriter, Lyricist |
+| | 이해솔 (Lee, Hae Sol) | 2 | Arranger, Songwriter, Lyricist |
+| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
+| | Charlotte Wilson | 2 | Songwriter, Arranger |
+| | Brendan Morawski | 2 | Producer |
+| | 백새임 (Baek, Sae-im) | 2 | Lyricist |
+| | Noday | 2 | Arranger, Lyricist, Songwriter |
+| | Billy Hickey | 2 | Producer |
 | | Mr. Franks | 2 | Arranger, Songwriter, Producer |
 | | danke | 2 | Lyricist |
-| | Charlotte Wilson | 2 | Songwriter, Arranger |
 | | Kobee | 2 | Arranger, Producer, Songwriter |
-| | Ayushy | 2 | Songwriter, Arranger |
-| | Billy Hickey | 2 | Producer |
+| | 김용운 (Gim, Yong-un) | 2 | Producer |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | John Hanes | 2 | Producer |
+| | EJAE | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist |
+| | GG Ramirez | 2 | Lyricist, Songwriter |
 | | Frankie Day | 2 | Songwriter |
-| | Zarah Christenson | 1 | Songwriter |
-| | Shin Kamiyama | 1 | Producer |
-| | Jameel Roberts | 1 | Songwriter |
-| | Erika Ender | 1 | Songwriter |
-| | A. Wright | 1 | Songwriter |
-| | Zaya | 1 | Lyricist |
-| | Boy Matthews | 1 | Lyricist |
-| | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
-| | Oscar Hammerstein II | 1 | Lyricist |
-| | 조한솔 (Cho, Han-sol) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
+| | Ayushy | 2 | Songwriter, Arranger |
+| | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | 이우현 (Lee, Woo-hyun) | 2 | Arranger, Songwriter, Lyricist, Producer |
+| | Oscar Holter | 1 | Producer, Songwriter |
 | | Poo Bear | 1 | Songwriter |
-| | Noah Passovoy | 1 | Producer |
-| | LDN Noise | 1 | Arranger, Producer |
-| | Joseph K | 1 | Arranger, Songwriter |
-| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
-| | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
-| | Jenson Vaughan | 1 | Arranger, Songwriter |
-| | Gusten Dahlqvist | 1 | Arranger, Producer, Songwriter |
-| | Chanti | 1 | Songwriter |
-| | Andrew Watt | 1 | Songwriter |
-| | SELAH | 1 | Arranger |
-| | Gingerbread | 1 | Arranger, Producer |
-| | Alma Goodman | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
-| | 이우현 (Lee, Woo-hyun) | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | Brown Panda | 1 | Arranger, Songwriter |
-| | 서은일 (Seo, Eun-il) | 1 | Producer |
-| | Arineh Karimi | 1 | Songwriter |
-| | Angelina Barrett | 1 | Songwriter |
-| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
-| | Awry | 1 | Songwriter |
-| | Enan | 1 | Songwriter |
 | | Deza | 1 | Lyricist |
+| | Awry | 1 | Songwriter |
+| | Noah Passovoy | 1 | Producer |
+| | Gingerbread | 1 | Arranger, Producer |
+| | Oscar Hammerstein II | 1 | Lyricist |
+| | Joseph K | 1 | Arranger, Songwriter |
+| | Chanti | 1 | Songwriter |
+| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
+| | Angelina Barrett | 1 | Songwriter |
+| | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
+| | LDN Noise | 1 | Arranger, Producer |
+| | Scootie | 1 | Producer, Songwriter |
 | | Joe Gallagher | 1 | Producer |
 | | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
-| | Scootie | 1 | Producer, Songwriter |
+| | Zaya | 1 | Lyricist |
+| | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
+| | 홍장미 (Hong, Jangmi) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
+| | Gusten Dahlqvist | 1 | Arranger, Producer, Songwriter |
 | | 72 | 1 | Songwriter |
 | | Kaedi Dalley | 1 | Lyricist, Songwriter |
+| | A. Wright | 1 | Songwriter |
+| | Jenson Vaughan | 1 | Arranger, Songwriter |
+| | 조한솔 (Cho, Han-sol) | 1 | Producer |
 | | Mich Hansen | 1 | Songwriter |
 | | Rick Bridges | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
-| | Cutfather | 1 | Arranger |
-| | Dem Jointz | 1 | Arranger, Songwriter |
+| | Boy Matthews | 1 | Lyricist |
+| | 서은일 (Seo, Eun-il) | 1 | Producer |
+| | Arineh Karimi | 1 | Songwriter |
+| | Pop Wansel | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Producer, Songwriter |
+| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
+| | Greg Bonnick | 1 | Songwriter |
 | | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | 손채영 (Son, Chae-young) | 1 | Lyricist |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
-| | Kelsey Klingensmith | 1 | Songwriter |
+| | Tayla Parx | 1 | Songwriter |
+| | 김인 (Kim, In) | 1 | Lyricist |
+| | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
+| | DaHeala | 1 | Songwriter |
+| | Brooke Tomlinson | 1 | Songwriter |
+| | MJ | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | Toby Gad | 1 | Producer, Songwriter |
 
 </details>
 
@@ -370,7 +371,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Dynamite | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6qimUEOwCJJrFFKkfi1cCt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
@@ -494,6 +494,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE (ENG) | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | After Hours | The Weeknd | [Republic Records](.) | 💚 | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273abada41dbdde14489722619c" alt="" width="50" /> | Nobody | The Wonder Years - Trilogy | Wonder Girls | [Republic Records](.) | | [🔗](https://open.spotify.com/track/6DEN0NHItNNdepd9IhlC3H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378e172661e9902180548593b" alt="" width="50" /> | Break the Brake | Livelock | Xdinary Heroes | [Republic Records](.) | | [🔗](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) |

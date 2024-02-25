@@ -46,10 +46,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="Hot Mess" width="50" /> | Good Girls Go Bad (feat. Leighton Meester) (0.0815) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Sweet As Whole (0.0275) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Come Round Soon (0.0776) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Breathe Again (0.0278) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | Bad Idea (feat. Jason Mraz) (0.0704) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Islands (0.0284) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> | Good For You (0.0611) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | One Step At a Time (0.0289) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Fire (0.057) | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | If I Can't Have You (0.0297) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Eden (0.0562) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | The Light (0.0297) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Little Black Dress (0.0554) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Gonna Get Over You (0.0301) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a" alt="Revival (Deluxe)" width="50" /> | Good For You (0.0611) | <img src="https://i.scdn.co/image/ab67616d0000b273575a053c1fec8e5ca7da3005" alt="Unbreakable Smile" width="50" /> | I Was Made For Loving You (0.0285) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Fire (0.057) | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="Jordin Sparks" width="50" /> | One Step At a Time (0.0289) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Eden (0.0562) | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | If I Can't Have You (0.0297) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Little Black Dress (0.0554) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | The Light (0.0297) |
 
 ## Acousticness
 
@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | No Such Thing (0.00175) | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | Vegas (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | Fire (0.00165) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Hercules (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Stay (0.00154) | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="Demi" width="50" /> | Heart Attack (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | December (0.00117) | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | December (0.00117) | <img src="https://i.scdn.co/image/ab67616d0000b273575a053c1fec8e5ca7da3005" alt="Unbreakable Smile" width="50" /> | I Was Made For Loving You (0.0) |
 
 ## Liveness
 
