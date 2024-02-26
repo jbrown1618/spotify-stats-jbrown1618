@@ -143,7 +143,7 @@
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 35 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -166,6 +166,7 @@
 | 1 | 1 | minneapolis sound |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | indie soul |
+| 2 | 0 | escape room |
 | 1 | 0 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | post-disco |
@@ -221,6 +222,21 @@
 
 
 ![Bar chart of top 28 producers](../../images/playlists/funk/producers.png)
+
+## Most and least listened tracks
+| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 75 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 18 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="Drunk" width="50" /> | Them Changes | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="Wild Cherry" width="50" /> | Play That Funky Music | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092" alt="It Is What It Is" width="50" /> | Funny Thing | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="I Got You (I Feel Good)" width="50" /> | I Got You (I Feel Good) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="Deceptive Bends" width="50" /> | Good Morning Judge | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Brick House | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="Third Album" width="50" /> | I'll Be There | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="Mouth To Mouth" width="50" /> | Funkytown | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> | I Want You Back | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="Signed, Sealed And Delivered" width="50" /> | Signed, Sealed, Delivered (I'm Yours) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="Söngvakeppnin 2020" width="50" /> | Gagnamagnið | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things | 0 |
+
 ## Years
 
 

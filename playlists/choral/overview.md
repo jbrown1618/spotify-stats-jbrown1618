@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734edf9a255990288ccb93490f" alt="" width="50" /> | 3 | 0 | NDR Chor | [🔗](https://open.spotify.com/artist/7hMAA1N5j1Ynb49NIWO7HV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | 3 | 0 | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
 | <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 3 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b89db7f8cbf0611c23dc9ce4" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c754c99b4d1dd52cc9ac2ce" alt="" width="50" /> | 3 | 0 | Philipp Ahmann | [🔗](https://open.spotify.com/artist/309coOGhdzqXdIRwJH1xUo) |
 | <img src="https://i.scdn.co/image/7117adc3585d0c275a20343fd6e6d6824e622498" alt="" width="50" /> | 2 | 0 | Richard Marlow | [🔗](https://open.spotify.com/artist/7rrfp80BJeAa0lpBnNgRNK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92b24687e5c545daa04290e6" alt="" width="50" /> | 2 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a68a328440fd75546e32b42c" alt="" width="50" /> | 2 | 0 | Gregorio Allegri | [🔗](https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG) |
@@ -187,6 +187,20 @@
 
 
 ![Bar chart of top 28 genres](../../images/playlists/choral/genres.png)
+
+## Most and least listened tracks
+| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 5. Sanctus](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XIII. "Dnes spaseniye" | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 3. Sequentia: Recordare](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | [9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 6. Benedictus](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Whitacre: Sleep | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Whitacre: Three Songs Of Faith: I Thank You God For Most This Amazing Day | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: V. "Nyne otpushchayeshi" | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: V. Agnus Dei | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: VI. Libera Me | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Ave Maria (Franz Biebl) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Miserere mei, Deus | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 8.Communio: Lux aeterna](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | 0 |
 
 ## Years
 

@@ -88,26 +88,26 @@ Appears as:
 ![Bar chart of top 23 producers](../../images/labels/wm_entertainment/producers.png)
 ## Tracks released under WM Entertainment
 
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | WINDY DAY | WINDY DAY | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | | [🔗](https://open.spotify.com/track/7prrcyZc48tO9hGzdnU9aD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 5th Season (SSFWL) | THE FIFTH SEASON | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Nonstop | NONSTOP | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dun Dun Dance | Dear OHMYGIRL | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | My doll | Dear OHMYGIRL | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/46aqH0mV4yiwWggx0ynrbw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | Banana Allergy Monkey | BANANA ALLERGY MONKEY | OH MY GIRL BANHANA | [WM Entertainment](.) | | [🔗](https://open.spotify.com/track/65AWCpJajDOVyllaFigbi9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="" width="50" /> | Ya! (feat. Whee In) | Stay As You Are | Sandeul, Whee In | [WM Entertainment](.) | | [🔗](https://open.spotify.com/track/24HGlde2QMGAigs6bDdEhS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="" width="50" /> | Bon voyage | Bon Voyage | YooA | [WM Entertainment](.) | 💚 | [🔗](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) |
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 3339 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | WINDY DAY | WINDY DAY | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/7prrcyZc48tO9hGzdnU9aD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="" width="50" /> | Ya! (feat. Whee In) | Stay As You Are | Sandeul, Whee In | [WM Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/24HGlde2QMGAigs6bDdEhS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | Banana Allergy Monkey | BANANA ALLERGY MONKEY | OH MY GIRL BANHANA | [WM Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/65AWCpJajDOVyllaFigbi9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 5th Season (SSFWL) | THE FIFTH SEASON | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Nonstop | NONSTOP | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="" width="50" /> | Bon voyage | Bon Voyage | YooA | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dun Dun Dance | Dear OHMYGIRL | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | My doll | Dear OHMYGIRL | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/46aqH0mV4yiwWggx0ynrbw) |
 
 
 <details>
 <summary>See all tracks</summary>
 
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="" width="50" /> | Selfish | SELFISH | YooA | [WM Entertainment](.) | | [🔗](https://open.spotify.com/track/4NQ2EqWimM05dRSdHrmkdf) |
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="" width="50" /> | Selfish | SELFISH | YooA | [WM Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/4NQ2EqWimM05dRSdHrmkdf) |
 
 </details>
 

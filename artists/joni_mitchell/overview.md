@@ -68,13 +68,13 @@
 ![Bar chart of top 3 producers](../../images/artists/joni_mitchell/producers.png)
 ## Tracks
 
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | A Case of You | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | | [🔗](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Carey | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Free Man in Paris | Court and Spark | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 💚 | [🔗](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) |
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730058fcf8f649ae1b05f6c163" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | A Case of You | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Blue | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | | [🔗](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7" alt="" width="50" /> | Carey | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703" alt="" width="50" /> | Free Man in Paris | Court and Spark | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) |

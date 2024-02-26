@@ -142,6 +142,20 @@
 
 ![Bar chart of top 20 genres](../../images/playlists/check_out_later/genres.png)
 
+## Most and least listened tracks
+| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="Hot Chocolate" width="50" /> | You Sexy Thing | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="Let&#x27;s Get It On" width="50" /> | Let's Get It On | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Brick House | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273575a053c1fec8e5ca7da3005" alt="Unbreakable Smile" width="50" /> | I Was Made For Loving You | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ef6ad26898a6eace34a216c" alt="Something Special" width="50" /> | Get Down On It | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" alt="In The Groove" width="50" /> | I Heard It Through The Grapevine | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346e859872ed30a898160aeb2" alt="Midnight Love" width="50" /> | Sexual Healing | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273dadce998f88dba71c98adf88" alt="Funkentelechy Vs. The Placebo Syndrome" width="50" /> | Flash Light | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3787e954c118353100783c" alt="Wild And Peaceful" width="50" /> | Jungle Boogie | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="Street Songs (Deluxe Edition)" width="50" /> | Super Freak | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cbec8c67e5993accf9d6033" alt="high water" width="50" /> | high water | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Get Up (I Feel Like Being A) Sex Machine | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2a0dd6e587c7b1b6020d5e5" alt="Young Soul Rebels (Original Soundtrack) [Digitally Remastered]" width="50" /> | One Nation Under a Groove | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f2a0dd6e587c7b1b6020d5e5" alt="Young Soul Rebels (Original Soundtrack) [Digitally Remastered]" width="50" /> | One Nation Under a Groove | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Get Up (I Feel Like Being A) Sex Machine | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2732cbec8c67e5993accf9d6033" alt="high water" width="50" /> | high water | 0 |
+
 ## Years
 
 

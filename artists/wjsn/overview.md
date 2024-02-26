@@ -23,7 +23,7 @@ WJSN:
 
 ## Artist Rank
 WJSN is currently:
-- The #34 artist of the last month
+- The #33 artist of the last month
 
 ![Rank of WJSN over time](../../images/artists/wjsn/rank_time_series.png)
 ## Featured on Playlists
@@ -72,11 +72,11 @@ WJSN is currently:
 
 ## Tracks
 
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | Babyface | HAPPY MOMENT (1) | [WJSN](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/6l6sytFAfe0esA5DYLwqhE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | Pantomime | Neverland | [WJSN](overview.md) | [STARSHIP ENTERTAINMENT](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | UNNATURAL | [WJSN](overview.md) | [STARSHIP ENTERTAINMENT](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | AURA | <Queendom2> FINAL | [WJSN](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 💚 | [🔗](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](overview.md) | [STARSHIP ENTERTAINMENT](../../labels/starship_entertainment) | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | Babyface | HAPPY MOMENT (1) | [WJSN](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6l6sytFAfe0esA5DYLwqhE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | Pantomime | Neverland | [WJSN](overview.md) | [STARSHIP ENTERTAINMENT](../../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | UNNATURAL | UNNATURAL | [WJSN](overview.md) | [STARSHIP ENTERTAINMENT](../../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | AURA | <Queendom2> FINAL | [WJSN](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 0 | 💚 | [🔗](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](overview.md) | [STARSHIP ENTERTAINMENT](../../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |

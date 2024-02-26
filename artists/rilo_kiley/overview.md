@@ -47,6 +47,7 @@ Rilo Kiley:
 - indie rock
 - la indie
 - [lilith](../../genres/lilith/overview.md)
+- seattle indie
 
 ## Credits
 
@@ -91,11 +92,11 @@ Rilo Kiley:
 ![Bar chart of top 9 producers](../../images/artists/rilo_kiley/producers.png)
 ## Tracks
 
-| Art | Track | Album | Artists | Label | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | A Better Son/Daughter | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | | [🔗](https://open.spotify.com/track/71sC9gVXaFRwAMHJyQO8al) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | The Execution Of All Things | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 💚 | [🔗](https://open.spotify.com/track/6U5VSQIw0BOTnDrMTIJ1Ty) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/7KJymi3dZGLPvxmOYyWwxz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](overview.md) | [Warner Records](../../labels/warner_records) | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | A Better Son/Daughter | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 0 | | [🔗](https://open.spotify.com/track/71sC9gVXaFRwAMHJyQO8al) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315d01f89c4963e1bbb495697" alt="" width="50" /> | The Execution Of All Things | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 0 | 💚 | [🔗](https://open.spotify.com/track/6U5VSQIw0BOTnDrMTIJ1Ty) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/7KJymi3dZGLPvxmOYyWwxz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](overview.md) | [Warner Records](../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
