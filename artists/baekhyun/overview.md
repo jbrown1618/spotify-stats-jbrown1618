@@ -16,14 +16,15 @@ BAEKHYUN:
 
 ## Artist Rank
 BAEKHYUN is currently:
-- The #42 artist of the last 6 months
+- The #35 artist of the last month
+- The #40 artist of the last 6 months
 - The #49 artist of all time
 
 ![Rank of BAEKHYUN over time](../../images/artists/baekhyun/rank_time_series.png)
 ## Top Tracks
 
 - Amusement Park is:
-    - the #31 track of all time
+    - the #32 track of all time
 - Dream is:
     - the #42 track of all time
 
@@ -74,7 +75,7 @@ BAEKHYUN is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | Amusement Park | Amusement Park | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 26959 | 💚 | [🔗](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | Amusement Park | Amusement Park | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 26947 | 💚 | [🔗](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](overview.md) | ChoongangICS, MYSTIC Entertainment, [JYP Entertainment](../../labels/jyp_entertainment), [SM Entertainment](../../labels/sm_entertainment) | 17121 | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | U | Doom at Your Service (Original Television Soundtrack) Pt. 3 | [BAEKHYUN](overview.md) | 뮤직앤뉴, 스튜디오앤뉴 | 9 | 💚 | [🔗](https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | Psycho - Bonus Track | City Lights - The 1st Mini Album | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/59i14jziCvvdoTYJn7SiKe) |

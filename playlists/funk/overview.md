@@ -226,7 +226,7 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 75 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 76 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 18 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="Drunk" width="50" /> | Them Changes | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | 0 |

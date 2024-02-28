@@ -29,7 +29,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../..) | 987 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../..) | 969 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Bubble (Sped Up) (English Ver.) | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../..) | 0 | | [🔗](https://open.spotify.com/track/1e9uzZKeHabJ1kSDT7m3Np) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Bubble (English Ver.) | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../..) | 0 | | [🔗](https://open.spotify.com/track/3bcqk74mnFzQF2bfOMG7iK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Be Mine | TEENFRESH | [STAYC](../../../../artists/stayc/overview.md) | [High Up Entertainment](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/3g4jq4wctEo0fVaTDKjk3Q) |

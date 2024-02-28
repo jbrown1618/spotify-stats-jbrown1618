@@ -57,7 +57,7 @@
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
-| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
 | Butter | Butter | BTS | 1 | 0 | 87 |
@@ -118,10 +118,10 @@
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
-| That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 62 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 2 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
 | Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 63 |
-| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 1 | 0 | 64 |
+| That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 2 | 0 | 64 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 64 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 58 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 58 |
@@ -487,7 +487,8 @@
 | RED | RED | The Rose | 0 | 0 | 64 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 64 |
 | Sorry | Sorry | The Rose | 0 | 0 | 64 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 52 |
+| TAP | TAP - The 2nd Mini Album | TAEYONG | 0 | 0 | 57 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 53 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 1 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 53 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
@@ -504,7 +505,7 @@
 | Nemo | Once | Nightwish | 0 | 0 | 64 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 1 | 0 | 59 |
 | Lullaby | Present : YOU | GOT7 | 1 | 0 | 59 |
-| Just Right | Just Right | GOT7 | 2 | 1 | 59 |
+| Just Right | Just Right | GOT7 | 2 | 0 | 59 |
 | If You Do | MAD | GOT7 | 0 | 0 | 59 |
 | You Calling My Name | Call My Name | GOT7 | 1 | 1 | 59 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
@@ -513,8 +514,8 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 75 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
-| Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 62 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 71 |
+| Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 62 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 45 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 45 |
@@ -527,8 +528,8 @@
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
-| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 43 |
-| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 43 |
+| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 44 |
+| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 44 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 71 |

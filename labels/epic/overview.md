@@ -323,7 +323,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 49 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 29 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 16 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 2 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 1 | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 
 
 <details>
@@ -331,7 +331,6 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 1 | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | Greatest Hits | Sly & The Family Stone | [Epic](.), [Legacy](../legacy) | 0 | 💚 | [🔗](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | 0 | | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | 0 | | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |
@@ -376,6 +375,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | The Light | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/54byd42gABS9onpYHipyoP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Uncharted | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7hEbLvHSHpmMZXuuw2nmmH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Bright Lights and Cityscapes | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | | [🔗](https://open.spotify.com/track/7CEWZ0h4rez5BqMQwx4QXf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7KG9zriC6iP8F1CNihtR8Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Stay | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Sweet As Whole | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/04BcODyhCDTV7SBFeJHOXe) |
