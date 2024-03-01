@@ -198,7 +198,6 @@ spotify:artist:0X380XXQSNBYuleKzav5UO,post-grunge
 spotify:artist:0X380XXQSNBYuleKzav5UO,rock
 spotify:artist:0XATRDCYuuGhk0oE7C0o5G,k-pop
 spotify:artist:0XATRDCYuuGhk0oE7C0o5G,k-pop girl group
-spotify:artist:0XIKGBo9PnK1ApI5tZA60d,pop r&b
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,r&b
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,rap latina
 spotify:artist:0XtC2d9ZVigYA7iMy5YkW0,viet chill rap
@@ -395,7 +394,6 @@ spotify:artist:16rCzZOMQX7P8Kmn5YKexI,alternative r&b
 spotify:artist:16rCzZOMQX7P8Kmn5YKexI,indie anthem-folk
 spotify:artist:16rCzZOMQX7P8Kmn5YKexI,uk contemporary r&b
 spotify:artist:17BdLN9q8RRQQqyklLwac1,choral
-spotify:artist:17BdLN9q8RRQQqyklLwac1,classical performance
 spotify:artist:17BdLN9q8RRQQqyklLwac1,early music choir
 spotify:artist:17BdLN9q8RRQQqyklLwac1,historically informed performance
 spotify:artist:17hR0sYHpx7VYTMRfFUOmY,classical
@@ -990,7 +988,6 @@ spotify:artist:2cevwbv7ISD92VMNLYLHZA,indie pop
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,indie rock
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,la indie
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,lilith
-spotify:artist:2cevwbv7ISD92VMNLYLHZA,seattle indie
 spotify:artist:2dIgFjalVxs4ThymZ67YCE,k-pop
 spotify:artist:2dIgFjalVxs4ThymZ67YCE,k-pop boy group
 spotify:artist:2dIgFjalVxs4ThymZ67YCE,pop
@@ -1055,6 +1052,7 @@ spotify:artist:2jzc5TC5TVFLXQlBNiIUzE,new wave
 spotify:artist:2jzc5TC5TVFLXQlBNiIUzE,new wave pop
 spotify:artist:2jzc5TC5TVFLXQlBNiIUzE,permanent wave
 spotify:artist:2jzc5TC5TVFLXQlBNiIUzE,synthpop
+spotify:artist:2k66ibJfgMigF5QWqUgLyR,desi pop
 spotify:artist:2k66ibJfgMigF5QWqUgLyR,indian indie
 spotify:artist:2kHxkdiKCSnHMkhIgFBZaI,movie tunes
 spotify:artist:2kRfqPViCqYdSGhYSM9R0Q,pop
@@ -1144,6 +1142,7 @@ spotify:artist:31eyTcfjAke5hFX3az3nRE,k-pop boy group
 spotify:artist:31f23hmZawdqgp0sECAzE8,classical
 spotify:artist:31f23hmZawdqgp0sECAzE8,early music
 spotify:artist:31f23hmZawdqgp0sECAzE8,franco-flemish school
+spotify:artist:31f23hmZawdqgp0sECAzE8,medieval
 spotify:artist:31f23hmZawdqgp0sECAzE8,renaissance
 spotify:artist:31zQEL3ARiYe63jn3jtM18,a cappella
 spotify:artist:31zQEL3ARiYe63jn3jtM18,christian a cappella
@@ -1212,7 +1211,6 @@ spotify:artist:3AA28KZvwAUcZuOKwyblJQ,alternative hip hop
 spotify:artist:3AA28KZvwAUcZuOKwyblJQ,modern rock
 spotify:artist:3AA28KZvwAUcZuOKwyblJQ,rock
 spotify:artist:3ADyFy1orEwODaiHmRRMQp,basshall
-spotify:artist:3AMut7lAb1JjINkn8Fmkhu,j-metal
 spotify:artist:3AMut7lAb1JjINkn8Fmkhu,japanese metalcore
 spotify:artist:3AQRLZ9PuTAozP28Skbq8V,celtic rock
 spotify:artist:3AQRLZ9PuTAozP28Skbq8V,pop
@@ -1558,6 +1556,7 @@ spotify:artist:433fI3xZoJp1D1dizEkJ3R,movie tunes
 spotify:artist:43HPW60tz4BMYMRnmXMagJ,movie tunes
 spotify:artist:43ZHCT0cAZBISjO8DG9PnE,rock-and-roll
 spotify:artist:43ZHCT0cAZBISjO8DG9PnE,rockabilly
+spotify:artist:43wuPaPcZVMJQWLRaPR4Yz,classical performance
 spotify:artist:43wuPaPcZVMJQWLRaPR4Yz,classical piano
 spotify:artist:43wuPaPcZVMJQWLRaPR4Yz,polish classical piano
 spotify:artist:44NX2ffIYHr6D4n7RaZF7A,classic rock
@@ -1604,6 +1603,7 @@ spotify:artist:49e4v89VmlDcFCMyDv9wQ9,lounge
 spotify:artist:49e4v89VmlDcFCMyDv9wQ9,vocal jazz
 spotify:artist:49pGKUCSjzaCfv8gdTWG98,k-pop boy group
 spotify:artist:49tQo2QULno7gxHutgccqF,la pop
+spotify:artist:49tQo2QULno7gxHutgccqF,opm
 spotify:artist:4AcHt3JxKy59IX7JNNlZn4,la indie
 spotify:artist:4AcHt3JxKy59IX7JNNlZn4,modern alternative rock
 spotify:artist:4AcHt3JxKy59IX7JNNlZn4,modern rock
@@ -2502,9 +2502,6 @@ spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ,slap house
 spotify:artist:6cdC1cwqh3eJAXaxXJt2jv,k-pop
 spotify:artist:6cdC1cwqh3eJAXaxXJt2jv,k-pop girl group
 spotify:artist:6dhfy4ByARPJdPtMyrUYJK,korean pop
-spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,pop
-spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,singer-songwriter pop
-spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,uk pop
 spotify:artist:6f4XkbvYlXMH0QgVRzW0sM,atl hip hop
 spotify:artist:6f4XkbvYlXMH0QgVRzW0sM,dirty south rap
 spotify:artist:6f4XkbvYlXMH0QgVRzW0sM,pop rap
@@ -2907,7 +2904,6 @@ spotify:artist:7oPftvlwr6VrsViSDV7fJY,modern rock
 spotify:artist:7oPftvlwr6VrsViSDV7fJY,permanent wave
 spotify:artist:7oPftvlwr6VrsViSDV7fJY,punk
 spotify:artist:7oPftvlwr6VrsViSDV7fJY,rock
-spotify:artist:7oaoEBdRqHXfoiGYa55Atp,show tunes
 spotify:artist:7oavKrnYbTZPAPq7zCuipM,movie tunes
 spotify:artist:7pXKdkQsYFCMG2omRxheJ2,k-rap
 spotify:artist:7pXu47GoqSYRajmBCjxdD6,ann arbor indie

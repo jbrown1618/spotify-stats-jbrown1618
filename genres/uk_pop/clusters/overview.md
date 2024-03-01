@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | Your Song | Lights | Ellie Goulding | [Polydor Records](../../../../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/562NFiDgGSylJpitA7dUhE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | Sam Smith | [Capitol](../../../../labels/capitol_records) | 0 | | [🔗](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Just The Way You Are | Little Love - EP | James Smith | EMI | 0 | | [🔗](https://open.spotify.com/track/1YwbObIsxLhBTjSI5lwJz6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdebae610076f51e8b7b20f4" alt="" width="50" /> | Skinny Love | Birdy | Birdy | Atlantic Records UK | 0 | 💚 | [🔗](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="" width="50" /> | Skinny Love | Birdy | Birdy | Atlantic Records UK | 0 | 💚 | [🔗](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | Don't Call Me Up | Ivy To Roses (Mixtape) | Mabel | [Polydor Records](../../../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) |
 ## Cluster #2
 

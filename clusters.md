@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-631 tracks
+627 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -20,69 +20,133 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | The Planets, Op. 32: 3. Mercury, the Winged Messenger | Holst: The Planets | Gustav Holst, [Berliner Philharmoniker](../artists/berliner_philharmoniker/overview.md), [Herbert von Karajan](../artists/herbert_von_karajan/overview.md) | [Deutsche Grammophon (DG)](../labels/deutsche_grammophon_(dg)) | 0 | | [🔗](https://open.spotify.com/track/4rehJ6QJSNLQCK3Rav7pAe) |
 ## Cluster #2
 
-511 tracks
+627 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](../artists/bts/overview.md) | [BIGHIT MUSIC](../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../labels/big_machine_records) | 0 | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | You can't sit with us | 1/6 | [SUNMI](../artists/sunmi/overview.md) | Abyss Company | 0 | 💚 | [🔗](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](../artists/stray_kids/overview.md) | [Republic Records](../labels/republic_records) | 370 | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop | Press It - The 1st Album | TAEMIN | [SM Entertainment](../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | FEVER | BORDER : CARNIVAL | [ENHYPEN](../artists/enhypen/overview.md) | [BELIFT LAB](../labels/belift_lab) | 1010 | 💚 | [🔗](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Marionette | Bloom | [Red Velvet](../artists/red_velvet/overview.md) | [avex trax](../labels/avex_trax) | 188 | 💚 | [🔗](https://open.spotify.com/track/3KvMgB5V1FvQTCvvHz5aiO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](../artists/iu/overview.md) | Fave Entertainment | 10234 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../artists/(g)i-dle/overview.md) | [Cube Entertainment](../labels/cube_entertainment) | 610 | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | I LOVE YOU | THE FIRST STEP : TREASURE EFFECT | [TREASURE](../artists/treasure/overview.md) | [YG Entertainment](../labels/yg_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | AURA | <Queendom2> FINAL | [WJSN](../artists/wjsn/overview.md) | [Genie Music Corporation](../labels/genie_music_corporation) | 0 | 💚 | [🔗](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="" width="50" /> | Love Talk - English Version | Love Talk (English Version) | WayV | LABEL V | 0 | | [🔗](https://open.spotify.com/track/2e3cJdJ8xWwydl8JIYlCqB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="" width="50" /> | I Know - '92 TV Edit | Seotaiji and Boys | Seo Taiji and Boys | [Genie Music Corporation](../labels/genie_music_corporation), [Stone Music Entertainment](../labels/stone_music_entertainment) | 364 | | [🔗](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5395ad7b48e5ec2d1654eb9" alt="" width="50" /> | Picture | Picture | HYO | [SM Entertainment](../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6sa8gVh0m5qFMeqk9liyXD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 데자부 (Deja Vu) | Raid of Dream | [Dreamcatcher](../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Starlight | Twenty-Five Twenty-One OST | TAEIL | Studio MaumC, Hwa&Dam pictures | 0 | 💚 | [🔗](https://open.spotify.com/track/7cIC9v7EfYZl7vFLPkIXTS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | In My Blood | Shawn Mendes | Shawn Mendes | [Island Records](../labels/island_records) | 0 | | [🔗](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | Take My Breath Away (Sung by MAX CHANGMIN) | 20&2 - The 9th Album | [TVXQ!](../artists/tvxq!/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/2zTirIUMNStSIdhHdlYNiq) |
 ## Cluster #3
 
-346 tracks
+370 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="" width="50" /> | When You Come Back Down | Nickel Creek | Nickel Creek | Sugar Hill Records | 0 | | [🔗](https://open.spotify.com/track/1xVBmHH65VMaJP61SmOSUk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Masquerade / Why So Silent | The Phantom Of The Opera | Andrew Lloyd Webber, Phantom Of The Opera Original London Cast, Sarah Brightman, Steve Barton, Michael Crawford | [Polydor Records](../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/1z2oyr9Uu9GCz31kycvPuX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Sweet As Whole | Once Upon Another Time | [Sara Bareilles](../artists/sara_bareilles/overview.md) | [Epic](../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/04BcODyhCDTV7SBFeJHOXe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo | Beatrix Runs | Elizaveta | [Universal Records](../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="" width="50" /> | In A Sentimental Mood | Duke Ellington & John Coltrane | Duke Ellington, John Coltrane | Impulse! | 0 | | [🔗](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Belle | Beauty and the Beast | Richard White, Paige O'Hara, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](../labels/walt_disney_records) | 0 | | [🔗](https://open.spotify.com/track/0Q4a3PdGEME9w8Jgqa0Gf3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4dae9528b2a8408f463eb17" alt="" width="50" /> | Malibu Nights | Malibu Nights | LANY | [Polydor Records](../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dbd063ae065db06970b022d7" alt="" width="50" /> | Secret Garden | A flower bookmark | [IU](../artists/iu/overview.md) | Fave Entertainment | 0 | 💚 | [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="" width="50" /> | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | Parlophone (France) | 0 | 💚 | [🔗](https://open.spotify.com/track/0mcs5XA4bwgCVYLUxvJ9sg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Wait It Out | Ellipse | [Imogen Heap](../artists/imogen_heap/overview.md) | [RCA Records Label](../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/4xszw2YraekWIpj0SZ6Lp6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | Craft Recordings | 315 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | Your Song | Elton John | Elton John | [UMC (Universal Music Catalogue)](../labels/umc_(universal_music_catalogue)) | 308 | 💚 | [🔗](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356f9cf6a648e96dcaffc1434" alt="" width="50" /> | Heaven | Heaven | Isyana Sarasvati, Afgan, Rendy Pandugo | Sony Music Entertainment Indonesia/Trinity Optima Production | 0 | | [🔗](https://open.spotify.com/track/3gBFAvpAVSNohs3ESRMYHi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | Work Song | Hozier (Expanded Edition) | Hozier | [Columbia](../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | Very, Slowly | Twenty-Five Twenty-One OST | [BIBI](../artists/bibi/overview.md) | Studio MaumC, Hwa&Dam pictures | 0 | 💚 | [🔗](https://open.spotify.com/track/1dpLjawAb5PhlDr1w1diEe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | 0 | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
 ## Cluster #4
 
-564 tracks
+601 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="" width="50" /> | Baram X 3 | Something New - The 3rd Mini Album | [TAEYEON](../artists/taeyeon/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/0DdbiN1gW1t4MU7tQ91eTW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Filter | MAP OF THE SOUL : 7 | [BTS](../artists/bts/overview.md) | [BIGHIT MUSIC](../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../artists/twice/overview.md) | [Republic Records](../labels/republic_records) | 38 | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](../artists/stray_kids/overview.md) | [Republic Records](../labels/republic_records) | 336 | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](../artists/itzy/overview.md) | [Republic Records](../labels/republic_records) | 4099 | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | Look | Perfect Velvet - The 2nd Album | [Red Velvet](../artists/red_velvet/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Off The Record | I'VE MINE | [IVE](../artists/ive/overview.md) | [Starship Entertainment](../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](../artists/kiss_of_life/overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce9f06b8084b352b61e8b0cb" alt="" width="50" /> | yes, and? | yes, and? | [Ariana Grande](../artists/ariana_grande/overview.md) | [Republic Records](../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | You Can Call Me Al | Graceland (25th Anniversary Deluxe Edition) | Paul Simon | Legacy Recordings | 0 | | [🔗](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="" width="50" /> | Can't Nobody | To Anyone | 2NE1 | [YG Entertainment](../labels/yg_entertainment) | 7 | | [🔗](https://open.spotify.com/track/6bdrK3DnKZWfAsvO21oj1q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | La Tortura (feat. Alejandro Sanz) | Fijación Oral, Vol. 1 | Shakira, Alejandro Sanz | [Epic](../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | No.1 | No.1 - The 2nd Album | [BoA](../artists/boa/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | WANNA BE MYSELF | WANNA BE MYSELF | [MAMAMOO](../artists/mamamoo/overview.md) | [RBW, Inc](../labels/rbw_inc_) | 0 | | [🔗](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../artists/beyoncé/overview.md) | [Music World Music/Columbia](../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="" width="50" /> | God of Music | SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' | [SEVENTEEN](../artists/seventeen/overview.md) | [PLEDIS Entertainment](../labels/pledis_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | [Jason Derulo](../artists/jason_derulo/overview.md), Nicki Minaj, Ty Dolla $ign | [Beluga Heights/Warner Records](../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f21b8314d7ea1cc899b96a71" alt="" width="50" /> | DANCE ON | DANCE ON | ALICE | IOK COMPANY | 0 | 💚 | [🔗](https://open.spotify.com/track/2GOrO1x1nBH8B63YF774QY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | Fuck You | The Lady Killer | CeeLo Green | Radiculture/Elektra | 0 | 💚 | [🔗](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) |
 ## Cluster #5
 
-317 tracks
+399 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Cold As Hell | INVU - The 3rd Album | [TAEYEON](../artists/taeyeon/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 5 | 💚 | [🔗](https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | Parachutes | [Coldplay](../artists/coldplay/overview.md) | [Parlophone UK](../labels/parlophone_uk) | 0 | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="" width="50" /> | Green Light | Melodrama | Lorde | Universal Music New Zealand Limited | 200 | | [🔗](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | Minefields | CITIZENS | Faouzia, John Legend | [Atlantic Records](../labels/atlantic_records) | 0 | | [🔗](https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a561343c3a7d602656da05e7" alt="" width="50" /> | DRAMARAMA | THE CODE | MONSTA X | [Starship Entertainment](../labels/starship_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Eye of the Needle | 1000 Forms Of Fear (Deluxe Version) | [Sia](../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/6H8UxS43KArEIu2vGZI9Dj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="" width="50" /> | Cough Syrup | Young The Giant (Special Edition) | Young the Giant | Roadrunner Records | 0 | 💚 | [🔗](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="" width="50" /> | Gone | Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack) | AILEE | [Genie Music Corporation](../labels/genie_music_corporation) | 0 | | [🔗](https://open.spotify.com/track/4Xfix99TcepR0aGFVW8kYN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Dead Man Runnin’ | 28 Reasons - The 1st Mini Album | [SEULGI](../artists/seulgi/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 3413 | 💚 | [🔗](https://open.spotify.com/track/5eFGkCXi83auDi0bcDBEKD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | SMOKY | MIXTAPE [ PSYCHE ] | JOOHONEY | [Starship Entertainment](../labels/starship_entertainment) | 0 | | [🔗](https://open.spotify.com/track/2RdsTI9mfgdrNBIoShmI99) |
+## Cluster #6
+
+310 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hurt | NewJeans 1st EP 'New Jeans' | [NewJeans](../artists/newjeans/overview.md) | [ADOR](../labels/ador) | 0 | 💚 | [🔗](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | Written In The Stars | Written In The Stars | [WENDY](../artists/wendy/overview.md), John Legend | [SM Entertainment](../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6SLMyJPRTh2zCX9SJJHTZQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | The Happiest Girl | BORN PINK | [BLACKPINK](../artists/blackpink/overview.md) | [Interscope Records](../labels/interscope_records), [YG Entertainment](../labels/yg_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | Friday (feat.Jang Yi-jeong) | Modern Times – Epilogue | [IU](../artists/iu/overview.md), Jang Yi-jeong | [Kakao Entertainment](../labels/kakao_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../artists/michael_bublé/overview.md) | [Warner Records](../labels/warner_records) | 81 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | Can't Take My Eyes Off You | 1988 | Tar Heel Voices | Tar Heel Voices | 0 | | [🔗](https://open.spotify.com/track/421iteTHiwbWZneFqAUQpS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | Make Up (Feat. Crush) | Sun And Moon | Sam Kim, [Crush](../artists/crush/overview.md) | Antenna | 0 | 💚 | [🔗](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Prince Ali | Aladdin Special Edition | Robin Williams, Disney | [Walt Disney Records](../labels/walt_disney_records) | 0 | | [🔗](https://open.spotify.com/track/2n2ikq6Y21aFrootCsdsf3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | Craft Recordings | 0 | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
+## Cluster #7
+
+363 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](../labels/warner_classics) | 0 | | [🔗](https://open.spotify.com/track/3NssaIXNMQJHoCYXvxExET) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | I See the Light - From "Tangled" / Soundtrack Version | Tangled | Mandy Moore, Zachary Levi | [Walt Disney Records](../labels/walt_disney_records) | 0 | | [🔗](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Can't Help Falling In Love | PTX Vol. IV - Classics | [Pentatonix](../artists/pentatonix/overview.md) | [RCA Records Label](../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/1xKScU3i8ho0OIhNoC5YW9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Music Of The Night | The Phantom Of The Opera | Andrew Lloyd Webber, Phantom Of The Opera Original London Cast, Michael Crawford | [Polydor Records](../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/2jF3AQzvTj9L1Ax9Di5BYu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Minnie Driver | [UMC (Universal Music Catalogue)](../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/3LpvO6PZRuQ0OeFL1LQwtB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Gerard Butler, Emmy Rossum | [UMC (Universal Music Catalogue)](../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/5PRz8hvi9y6S36WIreol1U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="" width="50" /> | Timshel | GQ | GQ | Option C Records | 0 | | [🔗](https://open.spotify.com/track/5GtzG4nMm0DD4nlQp15uOn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | Beauty and the Beast | Angela Lansbury, Disney | [Walt Disney Records](../labels/walt_disney_records) | 0 | | [🔗](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | What A Wonderful World | What A Wonderful World | Louis Armstrong | [GRP](../labels/grp) | 0 | 💚 | [🔗](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Poison & Wine | Barton Hollow | The Civil Wars | sensibility recordings | 153 | 💚 | [🔗](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) |
+## Cluster #8
+
+326 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | RACER | CHECKMATE | [ITZY](../artists/itzy/overview.md) | [Republic Records](../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](../artists/(g)i-dle/overview.md) | [Cube Entertainment](../labels/cube_entertainment) | 5617 | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](../artists/(g)i-dle/overview.md) | [Cube Entertainment](../labels/cube_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | Forgive Me - The 3rd Mini Album | [BoA](../artists/boa/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 3468 | 💚 | [🔗](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734e706601de092d99b130e05a" alt="" width="50" /> | Giddy | LOVESTRUCK! | Kep1er | [Genie Music Corporation](../labels/genie_music_corporation), [Stone Music Entertainment](../labels/stone_music_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../artists/seulgi/overview.md), [CHUNG HA](../artists/chung_ha/overview.md), SinB, [JEON SOYEON](../artists/jeon_soyeon/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 1 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dadce998f88dba71c98adf88" alt="" width="50" /> | Flash Light | Funkentelechy Vs. The Placebo Syndrome | Parliament | Mercury Records | 0 | | [🔗](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../artists/aespa/overview.md) | [SM Entertainment](../labels/sm_entertainment), [Warner Records](../labels/warner_records) | 2183 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the eleventh day | the Billage of perception : chapter one | [Billlie](../artists/billlie/overview.md) | [MYSTIC STORY](../labels/mystic_story) | 0 | 💚 | [🔗](https://open.spotify.com/track/4YldhqpCghwJalBtiCRtl1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](../labels/starship_entertainment) | 26 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | That's My Girl | 7/27 (Deluxe) | Fifth Harmony | [Epic](../labels/epic), [Syco Music](../labels/syco_music) | 0 | | [🔗](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | DESSERT | DESSERT | HYO, Loopy, [JEON SOYEON](../artists/jeon_soyeon/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 44256 | 💚 | [🔗](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | DESSERT | DESSERT | HYO, Loopy, [JEON SOYEON](../artists/jeon_soyeon/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 44376 | 💚 | [🔗](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER - English Version | HELICOPTER | [CLC](../artists/clc/overview.md) | [Universal Music LLC](../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/3yHAVLtQy5ppBbuTUUhrlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | Rebel | 20&2 - The 9th Album | [TVXQ!](../artists/tvxq!/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/4Vawz7UCdavhRW1OxovN4a) |
-## Cluster #6
+## Cluster #9
+
+331 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | It's the Most Wonderful Time of the Year | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../artists/pentatonix/overview.md) | [RCA Records Label](../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/4DXJt41B9ZPh3UmxiPkBT0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../artists/pentatonix/overview.md) | [RCA Records Label](../labels/rca_records_label) | 150 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../labels/big_machine_records) | 324 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](../artists/(g)i-dle/overview.md) | [Cube Entertainment](../labels/cube_entertainment) | 520 | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../artists/heize/overview.md) | [Genie Music Corporation](../labels/genie_music_corporation), [Stone Music Entertainment](../labels/stone_music_entertainment) | 1080 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](../labels/rca_records_label) | 7 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385b05f4bb3c88cf252f96b68" alt="" width="50" /> | Don't Eat The Yellow Snow | Apostrophe(') | Frank Zappa | Frank Zappa Catalog | 0 | | [🔗](https://open.spotify.com/track/1QY4TdhuNIOX2SHLdElzd5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66" alt="" width="50" /> | Attention | Voicenotes | Charlie Puth | Artist Partner | 0 | 💚 | [🔗](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../artists/camila_cabello/overview.md) | [Epic](../labels/epic), [Syco Music](../labels/syco_music) | 16 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic | Wrap Me In Plastic | [MOMOLAND](../artists/momoland/overview.md), CHROMANCE | [Columbia/B1 Recordings](../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) |
+## Cluster #10
 
 259 tracks
 
@@ -98,67 +162,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 24 Préludes, Op. 28: No. 16 in B-Flat Minor: Presto con fuoco | Chopin: Waltzes; 4 Scherzos; 26 Preludes | [Frédéric Chopin](../artists/frédéric_chopin/overview.md), [Vladimir Ashkenazy](../artists/vladimir_ashkenazy/overview.md) | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_) | 0 | | [🔗](https://open.spotify.com/track/1KZYPGDt5PQGVekS9jpLG6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 2 Bourrees, B160b | Chopin: Polonaises | [Frédéric Chopin](../artists/frédéric_chopin/overview.md), [Vladimir Ashkenazy](../artists/vladimir_ashkenazy/overview.md) | [Decca Music Group Ltd.](../labels/decca_music_group_ltd_) | 0 | | [🔗](https://open.spotify.com/track/0NQBcvME4NKAruNFixVDa8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="" width="50" /> | Coppélia / Tableau 3: No. 20 Fête de la cloche: IX. Galop final | Coppélia | Léo Delibes, Orchestra Victoria, Barry Wordsworth | [Australian Broadcasting Corp (ABC)](../labels/australian_broadcasting_corp_(abc)) | 0 | | [🔗](https://open.spotify.com/track/20UXWmEsvrpI1z0lwcZBcB) |
-## Cluster #7
-
-459 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Eve, Psyche & The Bluebeard’s wife | UNFORGIVEN | [LE SSERAFIM](../artists/le_sserafim/overview.md) | [SOURCE MUSIC](../labels/source_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | No Celestial | ANTIFRAGILE | [LE SSERAFIM](../artists/le_sserafim/overview.md) | [SOURCE MUSIC](../labels/source_music) | 102 | 💚 | [🔗](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | Forever & Always (Taylor’s Version) | Fearless (Taylor's Version) | [Taylor Swift](../artists/taylor_swift/overview.md) | [Taylor Swift](../labels/taylor_swift) | 0 | | [🔗](https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | FREEZE | ODDINARY | [Stray Kids](../artists/stray_kids/overview.md) | [Republic Records](../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/2L7hSYdvF0CtaM6JisfKEG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Yes I Am | Purple | [MAMAMOO](../artists/mamamoo/overview.md) | RADCOMM | 0 | 💚 | [🔗](https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ac2a400576ac7f35aa7428b" alt="" width="50" /> | Rock with you | SEVENTEEN 9th Mini Album 'Attacca' | [SEVENTEEN](../artists/seventeen/overview.md) | [PLEDIS Entertainment](../labels/pledis_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | MAGO | 回:Walpurgis Night | GFRIEND | [SOURCE MUSIC](../labels/source_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Sticky-Sweet | Love, Save The Empty | Erin McCarley | Universal (MT) | 3 | 💚 | [🔗](https://open.spotify.com/track/52UNaCyLmuWZQMFgiIBvyQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | DJ Got Us Fallin' In Love (feat. Pitbull) | Raymond v Raymond (Expanded Edition) | USHER, Pitbull | LaFace Records | 0 | | [🔗](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | I Write Sins Not Tragedies | A Fever You Can't Sweat Out | Panic! At The Disco | [Decaydance Records / Fueled By Ramen](../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) |
-## Cluster #8
-
-395 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](../artists/sara_bareilles/overview.md) | [Epic](../labels/epic) | 69 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="" width="50" /> | Nightmare | Chill Kill - The 3rd Album | [Red Velvet](../artists/red_velvet/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 4811 | 💚 | [🔗](https://open.spotify.com/track/0jUDrSASok8h2xUIWe4KOG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | Minefields | CITIZENS | Faouzia, John Legend | [Atlantic Records](../labels/atlantic_records) | 0 | | [🔗](https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Closing In | Speak for Yourself | [Imogen Heap](../artists/imogen_heap/overview.md) | Sony BMG Music UK | 0 | 💚 | [🔗](https://open.spotify.com/track/3wKRHAG6IvErggsniF1a3j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6" alt="" width="50" /> | The Only Exception | Brand New Eyes | Paramore | [Fueled By Ramen](../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Eye of the Needle | 1000 Forms Of Fear (Deluxe Version) | [Sia](../artists/sia/overview.md) | [Monkey Puzzle Records/RCA Records](../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/6H8UxS43KArEIu2vGZI9Dj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | Blue Whale - 2016 Version | REMIND | YB | 디컴퍼니 | 0 | 💚 | [🔗](https://open.spotify.com/track/1WFj1P1TUJJXH1R41PP9Vg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | NUMB | love you more, | YOUHA | [Universal Music Ltd.](../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/1yyyzZSKxNskVQqTCCE0pz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | SMOKY | MIXTAPE [ PSYCHE ] | JOOHONEY | [Starship Entertainment](../labels/starship_entertainment) | 0 | | [🔗](https://open.spotify.com/track/2RdsTI9mfgdrNBIoShmI99) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ef7163d0408b919108bc9627" alt="" width="50" /> | Summer | The Volunteers | The Volunteers | Blue Vinyl | 0 | | [🔗](https://open.spotify.com/track/3aeZV1y0ck9CMIUIdeOjBj) |
-## Cluster #9
-
-383 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="" width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": III. Allegro | Vivaldi: The Four Seasons. | Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra | [Warner Classics](../labels/warner_classics) | 0 | | [🔗](https://open.spotify.com/track/3NssaIXNMQJHoCYXvxExET) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | I See the Light - From "Tangled" / Soundtrack Version | Tangled | Mandy Moore, Zachary Levi | [Walt Disney Records](../labels/walt_disney_records) | 0 | | [🔗](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Can't Help Falling In Love | PTX Vol. IV - Classics | [Pentatonix](../artists/pentatonix/overview.md) | [RCA Records Label](../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/1xKScU3i8ho0OIhNoC5YW9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | The Music Of The Night | The Phantom Of The Opera | Andrew Lloyd Webber, Phantom Of The Opera Original London Cast, Michael Crawford | [Polydor Records](../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/2jF3AQzvTj9L1Ax9Di5BYu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Minnie Driver | [UMC (Universal Music Catalogue)](../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/3LpvO6PZRuQ0OeFL1LQwtB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Gerard Butler, Emmy Rossum | [UMC (Universal Music Catalogue)](../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/5PRz8hvi9y6S36WIreol1U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="" width="50" /> | Timshel | GQ | GQ | Option C Records | 0 | | [🔗](https://open.spotify.com/track/5GtzG4nMm0DD4nlQp15uOn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | Beauty and the Beast | Angela Lansbury, Disney | [Walt Disney Records](../labels/walt_disney_records) | 0 | | [🔗](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | What A Wonderful World | What A Wonderful World | Louis Armstrong | [GRP](../labels/grp) | 0 | 💚 | [🔗](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Poison & Wine | Barton Hollow | The Civil Wars | sensibility recordings | 153 | 💚 | [🔗](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) |
-## Cluster #10
-
-352 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Burn It Down | To. X - The 5th Mini Album | [TAEYEON](../artists/taeyeon/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 1694 | 💚 | [🔗](https://open.spotify.com/track/1y8tPIOh9kR3eQE6TeBCwe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Shadow | TEN - The 1st Mini Album | [TEN](../artists/ten/overview.md) | [SM Entertainment](../labels/sm_entertainment) | 196 | | [🔗](https://open.spotify.com/track/05bEOekC31J9F7tH8jEuJw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | All Night Long (feat. Take 6) | Djesse Vol. 1 | [Jacob Collier](../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley, Take 6 | [Decca (UMO)](../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="" width="50" /> | White Winter Hymnal | Fleet Foxes | Fleet Foxes | Sub Pop Records | 91 | 💚 | [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](../labels/atlantic_records) | 27 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | Make Up (Feat. Crush) | Sun And Moon | Sam Kim, [Crush](../artists/crush/overview.md) | Antenna | 0 | 💚 | [🔗](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309d6e79558799f3c5bccc189" alt="" width="50" /> | POOL(Feat. Sumin) | POOL[pu:l] | WOODZ, SUMIN | YUEHUA Entertainment | 0 | | [🔗](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD | PINK BLOOD | Hikaru Utada | [Sony Music Labels Inc.](../labels/sony_music_labels_inc_) | 0 | | [🔗](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453" alt="" width="50" /> | Closer | Closer | The Chainsmokers, Halsey | [Disruptor Records/Columbia](../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) |

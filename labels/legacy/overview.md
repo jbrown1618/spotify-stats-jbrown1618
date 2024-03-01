@@ -1,13 +1,13 @@
 # Legacy
 
-26 songs
+25 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Columbia/Legacy (15 tracks)
+- Columbia/Legacy (14 tracks)
 - Epic/Legacy (5 tracks)
 - Ode/Epic/Legacy (2 tracks)
 - J Records/Legacy (1 tracks)
@@ -32,7 +32,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 artists</summary>
+<summary>See all 19 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -40,7 +40,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/66a7fe2b2fd9388cf860f88e8636910f161be6cd" alt="" width="50" /> | 1 | 0 | Gene Autry | [🔗](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1772d943403a20c4eebc0bf" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
-| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 1 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 1 | 0 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 | <img src="https://i.scdn.co/image/da30acd2c9d0f32f5f5a2d69f32c2d30335466b5" alt="" width="50" /> | 1 | 0 | Survivor | [🔗](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
@@ -50,7 +49,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 20 artists](../../images/labels/legacy/artists.png)
+![Bar chart of top 19 artists](../../images/labels/legacy/artists.png)
 
 ## Top Albums
 
@@ -69,7 +68,7 @@ Appears as:
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 22 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -77,7 +76,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | 1 | 0 | Rudolph The Red Nosed Reindeer And Other Christmas Classics | 1947 | [🔗](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | 1 | 0 | Rocky IV | 1985 | [🔗](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346e859872ed30a898160aeb2" alt="" width="50" /> | 1 | 0 | Midnight Love | 1982-10-01 | [🔗](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | 1 | 0 | Let's Hear It for the Boy (Expanded Edition) | 1984-04-16 | [🔗](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b75d57d2d070c0c4afb3f9a" alt="" width="50" /> | 1 | 0 | Head Hunters | 1973-10-26 | [🔗](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) |
@@ -90,7 +88,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 23 albums](../../images/labels/legacy/albums.png)
+![Bar chart of top 22 albums](../../images/labels/legacy/albums.png)
 
 ## Genres
 
@@ -101,7 +99,7 @@ Appears as:
 | 7 | 3 | [classic rock](../../genres/classic_rock/overview.md) |
 | 6 | 3 | [rock](../../genres/rock/overview.md) |
 | 5 | 3 | [heartland rock](../../genres/heartland_rock/overview.md) |
-| 6 | 2 | [soul](../../genres/soul/overview.md) |
+| 5 | 2 | [soul](../../genres/soul/overview.md) |
 | 5 | 2 | [hard rock](../../genres/hard_rock/overview.md) |
 | 5 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
@@ -109,7 +107,7 @@ Appears as:
 
 
 <details>
-<summary>See all 60 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -117,19 +115,17 @@ Appears as:
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 1 | progressive rock |
 | 2 | 1 | funk |
-| 2 | 1 | classic soul |
 | 1 | 1 | southern soul |
 | 1 | 1 | psychedelic soul |
 | 1 | 1 | p funk |
 | 1 | 1 | funk rock |
+| 1 | 1 | classic soul |
 | 6 | 0 | jazz |
 | 5 | 0 | bebop |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz piano |
 | 3 | 0 | contemporary post-bop |
 | 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 2 | 0 | quiet storm |
-| 2 | 0 | motown |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | jazz trio |
 | 2 | 0 | easy listening |
@@ -142,12 +138,12 @@ Appears as:
 | 1 | 0 | rockabilly |
 | 1 | 0 | rock-and-roll |
 | 1 | 0 | [rap](../../genres/rap/overview.md) |
+| 1 | 0 | quiet storm |
 | 1 | 0 | post-disco |
 | 1 | 0 | pop rap |
 | 1 | 0 | outlaw country |
-| 1 | 0 | northern soul |
 | 1 | 0 | new orleans jazz |
-| 1 | 0 | neo soul |
+| 1 | 0 | motown |
 | 1 | 0 | jazz trumpet |
 | 1 | 0 | jazz fusion |
 | 1 | 0 | jazz funk |
@@ -208,7 +204,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | Mack the Knife | The Great American Songbook | Louis Armstrong | [Columbia](../columbia), [Legacy](.) | 162 | | [🔗](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | Mack the Knife | The Great American Songbook | Louis Armstrong | [Columbia](../columbia), [Legacy](.) | 186 | | [🔗](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](../columbia), [Legacy](.) | 70 | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](../columbia), [Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Blue Rondo à la Turk | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) |
@@ -234,7 +230,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | Dust in the Wind | Point Of Know Return (Expanded Edition) | Kansas | [Epic](../epic), [Legacy](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | Lights | Infinity | Journey | [Columbia](../columbia), [Legacy](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7EHmKkyAr6MZv5Y2FdZbXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | Any Way You Want It | Departure | Journey | [Columbia](../columbia), [Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346e859872ed30a898160aeb2" alt="" width="50" /> | Sexual Healing | Midnight Love | Marvin Gaye | [Columbia](../columbia), [Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | Let's Hear It for the Boy - From "Footloose" Original Soundtrack | Let's Hear It for the Boy (Expanded Edition) | Deniece Williams | [Columbia](../columbia), [Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | Eye of the Tiger | Rocky IV | Survivor | [Volcano/Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | [Michael Jackson](../../artists/michael_jackson/overview.md) | [Epic](../epic), [Legacy](.) | 0 | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |

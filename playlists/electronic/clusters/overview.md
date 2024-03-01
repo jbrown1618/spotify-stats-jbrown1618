@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](../../../../artists/daft_punk/overview.md), Julian Casablancas | [Columbia](../../../../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | [Parlophone UK](../../../../labels/parlophone_uk) | 0 | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
 ## Cluster #2
@@ -26,8 +26,8 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Human After All | [Daft Punk](../../../../artists/daft_punk/overview.md) | Daft Life Ltd./ADA France | 0 | 💚 | [🔗](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](../../../../artists/daft_punk/overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../../../labels/columbia) | 244 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | I Feel It Coming | Starboy | The Weeknd, [Daft Punk](../../../../artists/daft_punk/overview.md) | Universal Republic Records | 0 | | [🔗](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) |

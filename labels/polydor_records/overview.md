@@ -125,13 +125,14 @@ Appears as:
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 1 | 1 | synthpop |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
+| 1 | 1 | opm |
 | 1 | 1 | minneapolis sound |
 | 1 | 1 | la pop |
 | 1 | 1 | british soul |

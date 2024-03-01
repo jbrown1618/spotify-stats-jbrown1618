@@ -38,12 +38,6 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| We Found Love | BOCA 2013: Best of College A Cappella | Voices in Your Head | 0 | 0 | 25 |
-| Toxic | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Demons | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| Cry Me a River | Songs for Padded Rooms | Voices in Your Head | 0 | 0 | 25 |
-| I'd Like To | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
-| Home | I Used to Live Alone | Voices in Your Head | 0 | 0 | 25 |
 | Woods | BOCA 2013: Best of College A Cappella | The Nor'easters | 0 | 0 | 27 |
 | Sincerely, Jane | Equilibrium | The Nor'easters | 0 | 0 | 27 |
 | Counting Stars | BOCA 2015: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
@@ -57,7 +51,7 @@
 | No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
 | MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
 | dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
+| DNA | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
 | War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
 | Danger | Dark & Wild | BTS | 0 | 0 | 87 |
 | Butter | Butter | BTS | 1 | 0 | 87 |
@@ -363,7 +357,7 @@
 | Blue | Blue | Joni Mitchell | 0 | 1 | 56 |
 | A Case of You | Blue | Joni Mitchell | 0 | 1 | 56 |
 | Free Man in Paris | Court and Spark | Joni Mitchell | 0 | 0 | 56 |
-| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 2 | 0 | 56 |
+| Big Yellow Taxi | Ladies of the Canyon | Joni Mitchell | 1 | 0 | 56 |
 | Poor Wayfaring Stranger | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
 | Greensleeves | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
 | Loch Lomond | Legendary Folk Songs | Peter Hollens | 0 | 0 | 49 |
@@ -421,7 +415,7 @@
 | Just Give Me a Reason (feat. Nate Ruess) | The Truth About Love | Nate Ruess | 0 | 0 | 65 |
 | Done For Me | Hotel del Luna (Original Television Soundtrack) Pt.12 | Punch | 0 | 0 | 61 |
 | Starry Night | Yellow Flower | MAMAMOO | 0 | 0 | 61 |
-| Egotistic | RED MOON | MAMAMOO | 0 | 0 | 61 |
+| Egotistic | RED MOON | MAMAMOO | 1 | 0 | 61 |
 | Rainy Season | RED MOON | MAMAMOO | 0 | 0 | 61 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Flesh & Bone | The Good Life | Sammy Rae & The Friends | 0 | 0 | 53 |
@@ -434,19 +428,19 @@
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
 | Why So Lonely | Why So Lonely | Wonder Girls | 1 | 0 | 58 |
-| Rewind | REBOOT | Wonder Girls | 1 | 0 | 58 |
+| Rewind | REBOOT | Wonder Girls | 0 | 0 | 58 |
 | So Hot | So Hot | Wonder Girls | 0 | 1 | 58 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 71 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
 | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 76 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 1 | 0 | 70 |
-| Nothing Else Matters | Metallica | Metallica | 1 | 1 | 81 |
-| Enter Sandman | Metallica | Metallica | 2 | 1 | 81 |
+| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 81 |
+| Enter Sandman | Metallica | Metallica | 2 | 2 | 81 |
 | Black Or White | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 0 | 1 | 60 |
-| Scream | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 2 | 1 | 60 |
+| Scream | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 1 | 1 | 60 |
 | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 0 | 1 | 60 |
 | Red Sun | 1st Album [Dystopia : The Tree of Language] | Dreamcatcher | 0 | 1 | 60 |
 | MAISON | [Apocalypse : Save us] | Dreamcatcher | 0 | 0 | 60 |
@@ -487,7 +481,6 @@
 | RED | RED | The Rose | 0 | 0 | 64 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 64 |
 | Sorry | Sorry | The Rose | 0 | 0 | 64 |
-| TAP | TAP - The 2nd Mini Album | TAEYONG | 0 | 0 | 57 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 53 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 1 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 53 |
@@ -503,7 +496,7 @@
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 64 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 64 |
 | Nemo | Once | Nightwish | 0 | 0 | 64 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 1 | 0 | 59 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 59 |
 | Lullaby | Present : YOU | GOT7 | 1 | 0 | 59 |
 | Just Right | Just Right | GOT7 | 2 | 0 | 59 |
 | If You Do | MAD | GOT7 | 0 | 0 | 59 |
@@ -512,9 +505,10 @@
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 75 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 62 |
+| Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 2 | 1 | 81 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 45 |
@@ -525,7 +519,7 @@
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
 | Strawberry Cake | Hello, world! | Xdinary Heroes | 0 | 0 | 57 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 44 |
@@ -534,14 +528,14 @@
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 71 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 0 | 77 |
+| this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 1 | 77 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 68 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 68 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 58 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 57 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |

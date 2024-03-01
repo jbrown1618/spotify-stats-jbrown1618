@@ -47,7 +47,6 @@ Rilo Kiley:
 - indie rock
 - la indie
 - [lilith](../../genres/lilith/overview.md)
-- seattle indie
 
 ## Credits
 

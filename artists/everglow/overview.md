@@ -20,10 +20,6 @@ EVERGLOW is currently:
 - The #30 artist of all time
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
-## Top Tracks
-
-- DUN DUN is:
-    - the #44 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

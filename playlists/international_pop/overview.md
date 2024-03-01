@@ -350,8 +350,8 @@
 |---:|---:|:---|
 | 26 | 10 | j-pop |
 | 14 | 8 | japanese teen pop |
-| 9 | 6 | j-metal |
 | 8 | 6 | kawaii metal |
+| 8 | 6 | j-metal |
 | 8 | 6 | idol rock |
 | 8 | 4 | latin pop |
 | 5 | 4 | japanese electropop |

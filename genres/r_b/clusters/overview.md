@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341f88fe3e004e7be469c2ae3" alt="" width="50" /> | American Boy | Shine | Estelle, Kanye West | Woah Dad! | 0 | | [🔗](https://open.spotify.com/track/3IX1c76hbN4iTm9RcItC36) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | So Sick | In My Own Words | Ne-Yo | Def Soul | 0 | | [🔗](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf" alt="" width="50" /> | Sweetest Pie | Sweetest Pie | Megan Thee Stallion, [Dua Lipa](../../../../artists/dua_lipa/overview.md) | 300 Entertainment | 0 | 💚 | [🔗](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="" width="50" /> | Sweetest Pie | Sweetest Pie | Megan Thee Stallion, [Dua Lipa](../../../../artists/dua_lipa/overview.md) | 300 Entertainment | 0 | 💚 | [🔗](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) |
 ## Cluster #3
 
 2 tracks
