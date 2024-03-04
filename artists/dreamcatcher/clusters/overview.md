@@ -29,8 +29,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 데자부 (Deja Vu) | Raid of Dream | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) |
 ## Cluster #3
 
-1 tracks
+2 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |

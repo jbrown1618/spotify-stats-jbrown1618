@@ -20,7 +20,7 @@ Appears as:
 | | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 2 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 2 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | University Of Delaware Vocal Point | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 2 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fde41e3d8cc4859202436340" alt="" width="50" /> | 2 | 0 | Acappology | [🔗](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) |
 
@@ -75,7 +75,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a74848f51265ee39eab8621" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb075181955f5ee2a8606b9a95" alt="" width="50" /> | 1 | 0 | The Buffalo Chips | [🔗](https://open.spotify.com/artist/0IAZ8PiZ0KqdMd191HDJ8t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | 1 | 0 | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb381a32f450b916405246fdf9" alt="" width="50" /> | 1 | 0 | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6ee54ffcf2060c2540859e9b" alt="" width="50" /> | 1 | 0 | On The Rocks | [🔗](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) |
 
 </details>
 
@@ -179,9 +179,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Problem | BOCA 2015: Best Of College A Cappella | The Virginia Gentlemen | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/16Q8OxraSJD6JX8gnmzjTS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Sweater Weather | BOCA 2015: Best Of College A Cappella | Hullabahoos | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/1cV1Q5LrLF4NdLgp1XuRvw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Talk Dirty | BOCA 2015: Best Of College A Cappella | Eight Beat Measure | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/5lFEOhTWJbqbI0MwWhiKKk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Wrecking Ball | BOCA 2015: Best Of College A Cappella | University Of Delaware Vocal Point | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/16FprIRs4tJd34TnnjOagK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | Wrecking Ball | BOCA 2015: Best Of College A Cappella | Vocal Point (University of Delaware) | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/16FprIRs4tJd34TnnjOagK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | Bang Bang | BOCA 2016: Best Of College A Cappella | University of Rochester YellowJackets | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/41O5Dh0QQF7x8djeNhCHzK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | Break Free | BOCA 2016: Best Of College A Cappella | University Of Delaware Vocal Point | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/1ytCzhV54aRqPpMMxhiQGD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | Break Free | BOCA 2016: Best Of College A Cappella | Vocal Point (University of Delaware) | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/1ytCzhV54aRqPpMMxhiQGD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | Skinny Love | BOCA 2016: Best Of College A Cappella | University of Michigan G-Men | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/6PWPv9j5TcbDd9LjJC7s5W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Aha! | BOCA 2013: Best of College A Cappella | Florida State University All-Night Yahtzee | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/7Lx4TW1CMmHVP5ZiNGyi9H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | All Of The Lights | BOCA 2013: Best of College A Cappella | The Pitchforks | [Varsity Vocals](.) | 0 | | [🔗](https://open.spotify.com/track/25Cnsylo80N1bX9CzSvCaE) |

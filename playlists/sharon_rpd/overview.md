@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273830de2e836036f181df598d0ab67616d0000b273af2fda9fb591d43c355c2ac3ab67616d0000b273cc6f76f75551af499b5cd0cbab67616d0000b273da343b21617aac0c57e332bb" alt="Sharon RPD" width="100" />
 
-[67 tracks (49 liked) 🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy)
+[67 tracks (48 liked) 🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy)
 
 [See Track Features](audio_features.md)
 
@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb396b4599f4135c32983dadb" alt="" width="50" /> | 1 | 1 | G Curtis | [🔗](https://open.spotify.com/artist/5kXFGisUTEE54i06rrXhJE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 1 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcb20fdd7386ecab9d34d0e71" alt="" width="50" /> | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 1 | 1 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
@@ -47,7 +47,6 @@
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 1 | 1 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba66f2ec19992e8c33e5f3c06" alt="" width="50" /> | 1 | 1 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 1 | 1 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65a8f088eccf78b3fdfc26c0" alt="" width="50" /> | 1 | 1 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
@@ -65,6 +64,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23d93577152cdc4f3a568893" alt="" width="50" /> | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a4b709385244df321187756" alt="" width="50" /> | 1 | 0 | BLACKSWAN | [🔗](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48cd94312fdac83835e40ae" alt="" width="50" /> | 1 | 0 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 1 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7877ecabb7562a6084ecfe5e" alt="" width="50" /> | 1 | 0 | Paul Blanco | [🔗](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaab238968309b88b14407cbd" alt="" width="50" /> | 1 | 0 | Swizz Beatz | [🔗](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) |
@@ -126,7 +126,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | 1 | 1 | LALISA | 2021-09-10 | [🔗](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | 1 | 1 | HARMONY : ZERO IN | 2022-07-20 | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | 1 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="" width="50" /> | 1 | 1 | Get A Guitar | 2023-09-04 | [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | 1 | 1 | FEARLESS | 2022-05-02 | [🔗](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="" width="50" /> | 1 | 1 | FATHER OF 4 | 2019-02-22 | [🔗](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
@@ -152,6 +151,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 1 | 0 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | 1 | 0 | Heart Full of Rage 2 | 2023-08-04 | [🔗](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d942f44a7011b3b54493edb3" alt="" width="50" /> | 1 | 0 | HANDSOMER | 2022-02-04 | [🔗](https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="" width="50" /> | 1 | 0 | Get A Guitar | 2023-09-04 | [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8ddabbbb56597f7f1fc6828" alt="" width="50" /> | 1 | 0 | Fountain Baby | 2023-06-09 | [🔗](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="" width="50" /> | 1 | 0 | Brother Act. | 2017-10-16 | [🔗](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b6375bad39943011986c247" alt="" width="50" /> | 1 | 0 | BUBBA | 2019-12-13 | [🔗](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) |
@@ -166,8 +166,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 9 | 8 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 10 | 7 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 9 | 7 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 8 | 6 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 7 | 6 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 4 | 4 | [ADOR](../../labels/ador/overview.md) |
@@ -273,14 +273,14 @@
 |:---|:---|---:|:---|
 | | TEDDY | 6 | Arranger, Lyricist, Songwriter, Producer |
 | | 24 | 4 | Arranger, Producer, Songwriter |
-| | 정은경 (Jung, Eun-Kyung) | 4 | Producer |
 | | R.Tee | 4 | Producer, Arranger, Songwriter |
+| | 정은경 (Jung, Eun-Kyung) | 4 | Producer |
 | | Manny Marroquin | 4 | Producer |
-| | 김병석 (Kim, Byung-seok) | 3 | Arranger, Lyricist, Producer, Songwriter |
-| | 13 | 3 | Producer |
 | | Kyler Niko | 3 | Lyricist, Songwriter |
 | | SCORE | 3 | Arranger, Lyricist, Producer, Songwriter |
+| | 황민희 (Hwang, Min-hee) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 3 | Lyricist, Songwriter |
+| | 김병석 (Kim, Byung-seok) | 3 | Arranger, Lyricist, Producer, Songwriter |
 
 
 <details>
@@ -288,47 +288,56 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Chris Galland | 3 | Producer |
-| | Supreme Boi | 3 | Lyricist, Songwriter |
 | | Danny Chung | 3 | Lyricist |
-| | 황민희 (Hwang, Min-hee) | 3 | Producer |
-| | 전군 (Jeon Goon) | 2 | Lyricist, Songwriter |
-| | YOUNGJU BANG | 2 | Producer |
-| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
-| | 방시혁 (Bang, Si-Hyuk) | 2 | Lyricist, Songwriter |
-| | Jason Roberts | 2 | Producer |
-| | 양영은 (Yang, Young-eun) | 2 | Producer |
-| | Pontus Petersson | 2 | Lyricist, Songwriter |
-| | Paulina Cerrilla | 2 | Lyricist, Songwriter |
-| | 라도 (Rado) | 2 | Arranger |
-| | Alawn | 2 | Producer, Arranger |
-| | Vince | 2 | Lyricist |
-| | Josefin Glenmark | 2 | Lyricist, Songwriter |
-| | Kriz | 2 | Arranger |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 2 | Lyricist, Songwriter |
+| | Chris Galland | 3 | Producer |
+| | 13 | 3 | Producer |
+| | Supreme Boi | 3 | Lyricist, Songwriter |
 | | Josh Gudwin | 2 | Producer |
-| | Ryan S. Jhun | 2 | Arranger, Songwriter |
+| | Pontus Petersson | 2 | Lyricist, Songwriter |
+| | 방시혁 (Bang, Si-Hyuk) | 2 | Lyricist, Songwriter |
+| | 양영은 (Yang, Young-eun) | 2 | Producer |
 | | 유영진 (Yoo, Young-jin) | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | LØREN (LOREN) | 1 | Lyricist |
-| | IDO | 1 | Arranger, Songwriter |
-| | Sophia Brenan | 1 | Songwriter |
-| | Nathalie Blue | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | Destiny Rogers | 1 | Lyricist, Songwriter |
-| | Kris Jana | 1 | Lyricist, Songwriter |
-| | EJAE | 1 | Songwriter |
-| | Dem Jointz | 1 | Arranger, Songwriter |
-| | 김준혁 (Kim Joonhyuk) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
+| | Ryan S. Jhun | 2 | Arranger, Songwriter |
+| | Paulina Cerrilla | 2 | Lyricist, Songwriter |
+| | Josefin Glenmark | 2 | Lyricist, Songwriter |
+| | Vince | 2 | Lyricist |
+| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | 블랙아이드필승 (Black Eyed Pilseung) | 2 | Lyricist, Songwriter |
+| | 전군 (Jeon Goon) | 2 | Lyricist, Songwriter |
+| | 라도 (Rado) | 2 | Arranger |
+| | Jason Roberts | 2 | Producer |
+| | YOUNGJU BANG | 2 | Producer |
+| | Alawn | 2 | Producer, Arranger |
+| | Kriz | 2 | Arranger |
+| | Peter Wallevik | 1 | Songwriter |
+| | YONGJU BANG | 1 | Producer |
 | | BLVSH | 1 | Lyricist, Songwriter |
-| | Tim Gomringer | 1 | Songwriter |
 | | Tim Maxey | 1 | Producer |
+| | Erik Madrid | 1 | Producer |
+| | Tim Gomringer | 1 | Songwriter |
+| | Daniel Davidsen | 1 | Songwriter |
+| | Nathalie Blue | 1 | Lyricist, Songwriter |
+| | Young Chance | 1 | Lyricist, Songwriter |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | Kris Jana | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb090a384aed61b3dff0c0a9c" alt="" width="50" /> | Destiny Rogers | 1 | Lyricist, Songwriter |
+| | IDO | 1 | Arranger, Songwriter |
+| | LØREN (LOREN) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb02540455027f77fe3abc9cea" alt="" width="50" /> | MARK | 1 | Lyricist |
+| | BENJMN | 1 | Lyricist, Songwriter |
+| | Sophia Brenan | 1 | Songwriter |
+| | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
+| | 김준혁 (Kim Joonhyuk) | 1 | Producer |
+| | CuBeatz | 1 | Producer |
+| | Gabriela Geneva | 1 | Songwriter |
+| | JARO | 1 | Lyricist, Songwriter |
 | | J.LBS | 1 | Producer |
 | | 우민정 (Umin, Je-ong) | 1 | Producer |
 | | Lido | 1 | Producer |
 | | FLYT | 1 | Arranger, Songwriter |
 | | Jaycen Joshua | 1 | Producer |
 | | DRK | 1 | Producer |
+| | EJAE | 1 | Songwriter |
 | | Cazzi Opeia | 1 | Songwriter |
 | | Jack Samson | 1 | Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
@@ -338,46 +347,37 @@
 | | Southside | 1 | Producer, Songwriter |
 | | Tayla Parx | 1 | Songwriter |
 | | Anne Judith Wik | 1 | Lyricist, Songwriter |
+| | 신나리 (Shin, Na Ri) | 1 | Lyricist |
 | | emmy kasai. | 1 | Lyricist, Songwriter |
-| | JARO | 1 | Lyricist, Songwriter |
-| | CuBeatz | 1 | Producer |
-| | Gabriela Geneva | 1 | Songwriter |
-| | YONGJU BANG | 1 | Producer |
-| | OKLAMA | 1 | Producer |
-| | Liam Kevany | 1 | Producer, Songwriter |
-| | Louis Bartolini | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
-| | Sounwave | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
+| | Ben Samama | 1 | Songwriter |
+| | Shaun Lopez | 1 | Arranger, Songwriter |
+| | FUTURE BOUNCE | 1 | Arranger, Songwriter |
+| | Scott Chesak | 1 | Arranger, Songwriter |
+| | Lauren Aquilina | 1 | Songwriter |
+| | Believve | 1 | Lyricist, Songwriter |
+| | 최용인 (Choi, Yon-gin) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | TAEYONG | 1 | Lyricist |
+| | David Stewart | 1 | Songwriter |
+| | David Arkwright | 1 | Songwriter |
+| | danke | 1 | Lyricist, Songwriter |
+| | Cambo | 1 | Producer, Songwriter |
+| | 이연수 (Lee, Yeon-soo) | 1 | Producer |
+| | Glenda Proby | 1 | Lyricist, Songwriter |
+| | DJ Dahi | 1 | Producer |
+| | Jessica Agombar | 1 | Songwriter |
+| | 이수만 (Lee, Soo-Man) | 1 | Producer |
 | | Ronnie Icon | 1 | Lyricist, Songwriter |
 | | Feli Ferraro | 1 | Lyricist, Songwriter |
 | | Shintaro Yasuda | 1 | Lyricist, Songwriter |
 | | Jordan Thorpe | 1 | Songwriter |
 | | Nick Hahn | 1 | Arranger, Songwriter |
 | | Justin Tranter | 1 | Songwriter |
-| | FUTURE BOUNCE | 1 | Arranger, Songwriter |
-| | Young Chance | 1 | Lyricist, Songwriter |
-| | 이연수 (Lee, Yeon-soo) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | TAEYONG | 1 | Lyricist |
-| | Scott Chesak | 1 | Arranger, Songwriter |
-| | Elle Campbell | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" alt="" width="50" /> | Cardi B | 1 | Songwriter |
-| | Anders Gukko | 1 | Lyricist, Songwriter |
-| | Jussifer | 1 | Producer, Songwriter |
-| | Kevin Gomringer | 1 | Songwriter |
-| | Patrick "j.Que" Smith | 1 | Songwriter |
-| | Kenzie | 1 | Songwriter |
-| | LOSTBOY | 1 | Arranger, Songwriter |
-| | 이수만 (Lee, Soo-Man) | 1 | Producer |
-| | Jessica Agombar | 1 | Songwriter |
-| | DJ Dahi | 1 | Producer |
+| | Ella Isaacson | 1 | Songwriter |
 | | Isabella Lovestory | 1 | Lyricist, Songwriter |
-| | Belle | 1 | Lyricist, Songwriter |
-| | Shaun Lopez | 1 | Arranger, Songwriter |
-| | Omega | 1 | Arranger, Songwriter |
-| | Makaila J Garcia | 1 | Lyricist, Songwriter |
-| | Jordan Reyes | 1 | Arranger, Songwriter |
-| | Druski | 1 | Producer |
-| | Erik Madrid | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
+| | Mike Elizondo | 1 | Producer |
+| | Liam Kevany | 1 | Producer, Songwriter |
 
 </details>
 
@@ -388,10 +388,10 @@
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 59676 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | [MIC Drop (Steve Aoki Remix) - Full Length Edition](../../artists/bts/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="Black Mamba" width="50" /> | [Black Mamba](../../artists/aespa/overview.md) | 41407 | <img src="https://i.scdn.co/image/ab67616d0000b27376a39689fe9e5753586f8ba9" alt="That Karma" width="50" /> | Karma | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="Black Mamba" width="50" /> | [Black Mamba](../../artists/aespa/overview.md) | 41395 | <img src="https://i.scdn.co/image/ab67616d0000b27376a39689fe9e5753586f8ba9" alt="That Karma" width="50" /> | Karma | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 40245 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="Taste of Love" width="50" /> | [Alcohol-Free](../../artists/twice/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 35421 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 22593 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | [Go Big or Go Home](../../artists/enhypen/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 35433 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 22581 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | [Go Big or Go Home](../../artists/enhypen/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [Pink Venom](../../artists/blackpink/overview.md) | 19898 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 14317 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="Play Game : Holiday" width="50" /> | Holiday Party | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 11850 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls | 0 |

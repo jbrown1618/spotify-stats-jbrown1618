@@ -169,7 +169,7 @@
 | | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
 | | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
-| | Chris Martin | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | | Jonny Buckland | 5 | Songwriter |
 | | Guy Berryman | 5 | Songwriter |
 

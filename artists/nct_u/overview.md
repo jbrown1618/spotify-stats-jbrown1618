@@ -70,7 +70,7 @@ NCT U:
 | Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Performer | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Songwriter | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Vocal | 3 | 1 | 2 | 2 | 5 | 2 | 1 | 1 | 1 | 3 | 1 |
+| Vocal | 3 | 1 | 2 | 2 | 5 | 2 | 3 | 1 | 1 | 3 | 1 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |

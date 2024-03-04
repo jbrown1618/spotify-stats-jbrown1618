@@ -236,7 +236,7 @@
 
 
 <details>
-<summary>See all 84 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -274,7 +274,6 @@
 | 2 | 1 | chicago rap |
 | 2 | 1 | barbadian pop |
 | 1 | 1 | yacht rock |
-| 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
 | 1 | 1 | uk americana |
 | 1 | 1 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 1 | southern soul |
@@ -363,7 +362,7 @@
 | | Laleh | 1 | Arranger, Producer |
 | | Ron Fair | 1 | Arranger, Producer |
 | | Jesse Carmichael | 1 | Lyricist, Songwriter |
-| | Chris Martin | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 1 | Songwriter |
 | | Adam McKenzie | 1 | Songwriter |
 | | Bullion | 1 | Producer |
 | | Pérez Prado (Pérez Prado) | 1 | Songwriter |

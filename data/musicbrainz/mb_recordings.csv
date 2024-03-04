@@ -55,6 +55,7 @@ recording_mbid,recording_title,recording_language
 0af476f3-48f4-4a7e-af4f-2f324dc60249,Me and My Broken Heart,eng
 0b2c4799-3c06-4f23-8cdc-70e74779d635,Papaoutai,fra
 0b30d65c-81f2-4946-819c-6726d11f88ff,11:11,kor
+0b444b15-d961-4b74-9264-cb268958402b,A Rock Somewhere,
 0b928876-4538-456b-8763-8ac46658e691,TAP,
 0ba9778f-f16c-41c2-8912-a4b36880e7da,Killin’ Me Good,
 0bb4e94b-5440-48bd-b14b-50ea8d55f3c6,Be in Love,
@@ -144,6 +145,7 @@ recording_mbid,recording_title,recording_language
 19bb48de-920c-4eae-a1b2-413492371adf,Fire,eng
 19c0e6b8-7802-4fd3-b77c-56f0791fe598,Weather,
 19d9ee7a-162f-4d33-87c1-f0041168a835,Tout oublier,fra
+19e7ce1a-9076-45b5-b515-c03d709ded9f,Mi Corazón,
 19eac113-c0b4-4127-9572-58ca7f7fed6b,It’s not easy for you,
 1a322c78-582d-42b7-ae59-13191da5c65f,Here I Am,
 1a61223e-aa82-4019-9f7f-a1360cf9198c,Shake It Out,eng
@@ -541,6 +543,7 @@ recording_mbid,recording_title,recording_language
 5cd7baaf-e1f7-49fb-981a-cf502c165fe9,Say So,eng
 5cda825e-7b35-46ef-a18c-4e9e8c23a032,사랑해 (I LOVE YOU),kor
 5cfcd3a3-34bd-4195-a1a9-6af9a6a6bec8,Love to Hate Me,eng
+5d01a8d2-e03d-4553-bd43-b462c9730110,Over You,
 5d4764fe-bb3a-40e3-bf77-7af7d9929616,Countdown,
 5d48f85b-1392-440d-8a0a-b441f7ffdead,매일밤,
 5d9096cd-f051-489c-ba56-9f0f538bfb2e,한숨,kor
@@ -750,6 +753,7 @@ recording_mbid,recording_title,recording_language
 85465eb1-f250-4f7f-845e-856ef8e16297,Love on the Brain,eng
 855ecfdc-46e5-46a2-8970-e96407e51e60,도깨비,kor
 858eebbd-d86e-4429-b938-047f54a13fe7,"한두 번 (1, 2)",
+8593fdd3-81a6-4941-888a-baa58802ab7b,I GOT YOU,eng
 85a88d19-7a48-4b18-bc0c-dbbafffe1bec,ZOOM,
 85bb9bbd-0e9a-4a20-a373-ab98f5a494ef,Faith,eng
 85dff2ff-a617-450e-aa7e-a73ff636b0b4,Free Man in Paris,eng
@@ -786,6 +790,7 @@ recording_mbid,recording_title,recording_language
 8aa8fe05-f0e9-4455-8431-1431f8b60c81,RING X RING,mul
 8abe81f6-9a0c-4cee-a185-1f7dbffa366f,Bad News,mul
 8b29ff80-342e-41f8-8780-d15830df67c4,피 땀 눈물,kor
+8b62f486-7aa4-40f7-a075-34d379f3261c,Sequence,mul
 8b885a1b-da0d-4656-8f43-01d603cd150c,Do not touch,
 8bb5dfe7-5c39-4e77-b6b9-ab89bf042a20,Behind Blue Eyes,eng
 8c1c9826-a631-44d9-97aa-37227c881b3e,Fidelity,eng
@@ -978,6 +983,7 @@ a9dbe30b-7d10-4831-85aa-88469ad8ac71,For You,
 aa6c54d3-226b-47d6-85b9-2adf3e22ebaf,Crazy,eng
 aa84ea39-2218-4b63-8edb-fbac41d16ffe,Bel Air,eng
 aaad793b-f7f4-4501-b33c-78a4565afb29,Love poem,kor
+aab207cc-8441-4823-9db1-0a5b8db89b74,She Put Sunshine,
 aab63e04-ac4a-4ac0-babc-b51737008fdc,Cassiopeia,eng
 aab79f39-1413-4f97-8967-bb003f12142f,POP/STARS,eng
 aac679e3-1e27-4eec-8a04-26b4ac3405fb,Oh Boy,kor
@@ -1194,7 +1200,7 @@ d4009c09-a339-4b89-bc45-d91ab649acb6,Don’t Stop Me Now,eng
 d43f4169-3774-4bb5-9364-c26b42ca42b3,"하나둘셋 어이! (1,2,3 Eoi!)",
 d47c6853-6877-4e83-bc88-e2341f2161a2,Lover,eng
 d482030e-5a30-44ef-907d-35de69c2e348,Hmm-cheat,
-d4cb636c-0b18-427f-968f-84b359e98d74,Get a Guitar,
+d4cb636c-0b18-427f-968f-84b359e98d74,Get a Guitar,mul
 d4dd8f69-a1b4-4dca-ab44-9e1257bc6156,You Lie,
 d51ada29-a76c-4fc0-8c7c-14333461367b,Worth It,eng
 d54734d7-4dc3-4382-9baa-6deb8ffc5ef5,Dance the Night Away,
@@ -1214,6 +1220,7 @@ d74ce039-fb99-44fb-aa54-43bf707acf46,Skyfall,eng
 d757fe45-e865-4178-87c7-f3088c1b08d6,벚꽃,
 d75d3ae7-be28-46a4-91d3-39007160c3d8,Woman,kor
 d782a964-71fe-4adb-af01-cd7769c32ae8,Havana,eng
+d80dff0d-73bb-453e-bbfa-8c465d279b22,ONE SPARK,mul
 d828523c-110a-4800-a422-af5441d0546b,Born Without a Heart,
 d8403112-ece2-4b45-889e-346cd96b8f1d,Kaleidoscope Heart,
 d84a716c-1377-46a3-b2dc-5a8268e9ed00,Big Yellow Taxi,eng
@@ -1225,6 +1232,7 @@ d89c8e16-a043-4c58-8752-727fd1fcca39,Shut Down,kor
 d8b05236-a73f-4af3-817e-8b6cc7b258f9,열이올라요 (Heart Burn),kor
 d90f825d-1486-4cb0-8dc5-cd68dbbcd879,Does He Love You?,
 d95d02e2-1a42-4716-802d-7868ee9b375a,Heartbreak Feels So Good,eng
+d97b08bf-ccf7-4257-8f12-545e4dfca561,Cinnamon Crush,
 d9866077-d4ba-4352-9d98-d7aee567a0c4,ヘドバンギャー！！,jpn
 d9b46ecb-5472-4dcd-8fa4-dd6723189e27,Reckoner,eng
 d9c549cc-0a60-46e8-8331-655fbd525999,Light as the Breeze,eng
@@ -1233,6 +1241,7 @@ d9ed4891-e652-4e64-993c-685b947ba060,Bad Boy,kor
 d9ef5afb-3109-46ed-a837-fd5ae9decaf2,CRUEL,mul
 d9f57fb5-ca4f-4398-a85a-313dc9139a66,Bulldozer,
 da7e6ecd-3539-4a3e-9e46-76213ba1849e,나쁜X,kor
+dabebc51-ebf2-494c-820d-71b9d471c5b8,봐 (Look),kor
 db1d8cac-5d6d-4a18-96c1-f3d663bd4fab,WELLLL,
 db885a39-fc95-4bb3-a7e1-868c822db073,Insomnia,
 db965fe4-9e56-4fc7-837b-b2a0dcdb3206,Dynamite,

@@ -248,19 +248,18 @@
 | 76 | 49 | [lilith](../../genres/lilith/overview.md) |
 | 72 | 47 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 63 | 41 | [ectofolk](../../genres/ectofolk/overview.md) |
-| 60 | 39 | [viral pop](../../genres/viral_pop/overview.md) |
 | 60 | 39 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 39 | [pop rock](../../genres/pop_rock/overview.md) |
 | 38 | 25 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 38 | 24 | [piano rock](../../genres/piano_rock/overview.md) |
+| 33 | 20 | [mellow gold](../../genres/mellow_gold/overview.md) |
 
 
 <details>
-<summary>See all 60 genres</summary>
+<summary>See all 59 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 33 | 20 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 30 | 19 | [rock](../../genres/rock/overview.md) |
 | 27 | 18 | [soft rock](../../genres/soft_rock/overview.md) |
 | 27 | 18 | [classic rock](../../genres/classic_rock/overview.md) |

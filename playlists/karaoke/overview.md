@@ -224,9 +224,9 @@
 | 10 | 10 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 10 | 9 | [pop rock](../../genres/pop_rock/overview.md) |
-| 8 | 8 | [viral pop](../../genres/viral_pop/overview.md) |
 | 8 | 8 | [soft rock](../../genres/soft_rock/overview.md) |
 | 8 | 8 | [piano rock](../../genres/piano_rock/overview.md) |
+| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 
 
 <details>
@@ -234,7 +234,6 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 6 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 6 | 6 | [heartland rock](../../genres/heartland_rock/overview.md) |
@@ -255,6 +254,7 @@
 | 4 | 2 | [uk pop](../../genres/uk_pop/overview.md) |
 | 4 | 2 | glam rock |
 | 3 | 2 | [r&b](../../genres/r_b/overview.md) |
+| 2 | 2 | [viral pop](../../genres/viral_pop/overview.md) |
 | 2 | 2 | pov: indie |
 | 2 | 2 | melancholia |
 | 2 | 2 | jazz pop |
@@ -351,7 +351,7 @@
 | | Serban Ghenea | 2 | Producer |
 | | Mark Endert | 2 | Producer |
 | | Glyn Johns | 2 | Producer |
-| | Chris Martin | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 2 | Songwriter |
 | | Amy Foster-Gillies | 2 | Songwriter |
 | | Jack Antonoff | 2 | Songwriter, Producer |
 | | Bernie Taupin | 2 | Lyricist |

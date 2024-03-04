@@ -29,7 +29,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 4219 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 4225 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I DO | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273092251708fe60effd6cea757" alt="" width="50" /> | Eyes Roll | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 0 | | [🔗](https://open.spotify.com/track/79yymC6QQaZ81jR2UYcPfy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Wet Nightmare | Lowlife Princess: Noir | [BIBI](../../../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) |

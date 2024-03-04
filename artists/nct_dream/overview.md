@@ -71,6 +71,7 @@ NCT DREAM is currently:
 
 ## Genres
 
+- [k-pop](../../genres/k-pop/overview.md)
 - [k-pop boy group](../../genres/k-pop_boy_group/overview.md)
 
 ## Credits

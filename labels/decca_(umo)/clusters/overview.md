@@ -14,23 +14,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="" width="50" /> | Whitacre: Lux Aurumque | Light & Gold | Eric Whitacre, Eric Whitacre Singers | [Decca (UMO)](../..) | 0 | | [🔗](https://open.spotify.com/track/5bUdtdODnRPeQpmMoqhvVY) |
 ## Cluster #2
 
-17 tracks
+21 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Antonio Vivaldi, David Reichenberg, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](../..) | 0 | | [🔗](https://open.spotify.com/track/1Vie0eEAyPHCrEK5AkkXqD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](../..) | 0 | | [🔗](https://open.spotify.com/track/1jkMzOnb3APNXYKJ1Uzijb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, Elizabeth Wilcock, The English Concert, Trevor Pinnock | [Decca (UMO)](../..) | 0 | | [🔗](https://open.spotify.com/track/2R1otrP1Kuu2LY3ho9127T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock | [Decca (UMO)](../..) | 0 | | [🔗](https://open.spotify.com/track/6KqX73AWh9AFbPQsNvrAnL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, Elizabeth Wilcock, The English Concert, Trevor Pinnock | [Decca (UMO)](../..) | 0 | | [🔗](https://open.spotify.com/track/6y3VNh7JmGHIlk2zDXX6Wr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Tori Kelly | [Decca (UMO)](../..) | 65 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Tori Kelly | [Decca (UMO)](../..) | 64 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Time Alone With You (feat. Daniel Caesar) | Djesse Vol. 3 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Daniel Caesar | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/1iTiSQWPJNqthOMG8HG6gI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](../..) | 88 | 💚 | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal) | Djesse Vol. 4 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Anoushka Shankar, Varijashree Venugopal | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/0PZU2E5P51ZJOQDW1k5U8F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Mi Corazón (feat. Camilo) | Djesse Vol. 4 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Camilo | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/5Rg0oIXL40HY5CsUWD3IAJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | She Put Sunshine | Djesse Vol. 4 | [Jacob Collier](../../../../artists/jacob_collier/overview.md) | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/60ZCmLIYDUHmQ98Ydo1cR8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Cinnamon Crush (feat. Lindsey Lomis) | Djesse Vol. 4 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Lindsey Lomis | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/6XJvYWE3tx9tRVavh6GysW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](../..) | 89 | 💚 | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | All Night Long (feat. Take 6) | Djesse Vol. 1 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley, Take 6 | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b20e4a8e06f19bcd51a5406" alt="" width="50" /> | Geronimo | Bombs Away | Sheppard | [Decca (UMO)](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) |
 ## Cluster #3
 
-21 tracks
+23 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|

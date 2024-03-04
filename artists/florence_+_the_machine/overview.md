@@ -21,7 +21,7 @@ Florence + The Machine:
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #24 artist of the last month
+- The #28 artist of the last month
 - The #34 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence_+_the_machine/rank_time_series.png)

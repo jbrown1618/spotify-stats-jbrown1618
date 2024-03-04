@@ -10,7 +10,8 @@
 
 ## Artist Rank
 Lana Del Rey is currently:
-- The #49 artist of the last 6 months
+- The #47 artist of the last month
+- The #44 artist of the last 6 months
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
 ## Featured on Playlists

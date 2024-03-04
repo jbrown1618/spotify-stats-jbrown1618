@@ -87,7 +87,7 @@ Coldplay:
 | | Guy Berryman | 5 | Songwriter |
 | | Jonny Buckland | 5 | Songwriter |
 | | Will Champion | 5 | Songwriter |
-| | Chris Martin | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](overview.md) | 4 | Producer |
 | | Ken Nelson | 4 | Producer |
 | | Rik Simpson | 3 | Producer |

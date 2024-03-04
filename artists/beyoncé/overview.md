@@ -9,8 +9,6 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-Beyoncé is currently:
-- The #31 artist of the last month
 
 ![Rank of Beyoncé over time](../../images/artists/beyoncé/rank_time_series.png)
 ## Featured on Playlists
