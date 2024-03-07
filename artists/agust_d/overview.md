@@ -11,7 +11,7 @@ Agust D:
 
 ## Artist Rank
 Agust D is currently:
-- The #46 artist of all time
+- The #45 artist of all time
 
 ![Rank of Agust D over time](../../images/artists/agust_d/rank_time_series.png)
 ## Featured on Playlists

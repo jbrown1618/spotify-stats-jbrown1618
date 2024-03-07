@@ -2,7 +2,7 @@
 # Ariana Grande
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="Ariana Grande" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="Ariana Grande" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #31 artist of the last month
-- The #39 artist of the last 6 months
-- The #38 artist of all time
+- The #26 artist of the last month
+- The #38 artist of the last 6 months
+- The #40 artist of all time
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Featured on Playlists
@@ -111,7 +111,7 @@ Ariana Grande is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
 | | Serban Ghenea | 9 | Producer |
 | | ILYA | 8 | Producer, Songwriter |
 | | Max Martin | 7 | Producer, Songwriter |

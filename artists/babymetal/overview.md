@@ -20,7 +20,7 @@ BABYMETAL is currently:
 ## Top Tracks
 
 - Headbangeeeeerrrrr!!!!! is:
-    - the #26 track of the last month
+    - the #28 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -91,7 +91,7 @@ BABYMETAL is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | KARATE | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 247 | 💚 | [🔗](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Awadama Fever | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 170 | | [🔗](https://open.spotify.com/track/6H96cG8WACfxsZN9HS8KPD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 25 | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 48 | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Gimme Chocolate!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 0 | 💚 | [🔗](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Rondo of Nightmare | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 0 | 💚 | [🔗](https://open.spotify.com/track/7MFAj03YCmsp0aeHMmZPCr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Amore | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 0 | 💚 | [🔗](https://open.spotify.com/track/4KGOgUYx9x7J9LYhtuZNRb) |

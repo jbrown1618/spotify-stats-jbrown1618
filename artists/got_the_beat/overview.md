@@ -18,7 +18,7 @@ GOT the beat:
 
 ## Artist Rank
 GOT the beat is currently:
-- The #43 artist of all time
+- The #39 artist of all time
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
 ## Top Tracks

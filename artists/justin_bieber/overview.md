@@ -77,7 +77,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 2 | Producer, Songwriter |
 | | Freddy Wexler | 1 | Producer, Songwriter |
 | | Daniel James | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Producer, Songwriter |
 | | Devin Nakao | 1 | Producer |
 | | Tia Scola | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |

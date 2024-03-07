@@ -253,6 +253,7 @@
 | 3 | 2 | british soul |
 | 3 | 2 | atl hip hop |
 | 2 | 2 | [soul](../../genres/soul/overview.md) |
+| 2 | 2 | pop rap |
 | 2 | 2 | motown |
 | 2 | 2 | [electropop](../../genres/electropop/overview.md) |
 | 2 | 2 | country dawn |
@@ -278,7 +279,6 @@
 | 1 | 1 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 1 | southern soul |
 | 1 | 1 | progressive bluegrass |
-| 1 | 1 | pop rap |
 | 1 | 1 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 1 | nz pop |
 | 1 | 1 | memphis soul |

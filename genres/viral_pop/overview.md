@@ -171,7 +171,7 @@
 | | Louis Bell | 1 | Songwriter |
 | | Teddy Geiger | 1 | Songwriter |
 | | Frank Dukes | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
 | | Jia Lih | 1 | Producer |
 | | Elof Loelv | 1 | Songwriter |
 | | Starrah | 1 | Songwriter |
