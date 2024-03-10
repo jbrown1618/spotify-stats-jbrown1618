@@ -1,13 +1,13 @@
 # Parlophone UK
 
-14 songs
+13 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Parlophone UK (14 tracks)
+- Parlophone UK (13 tracks)
 
 ## Top Artists
 
@@ -18,25 +18,24 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 1 | 1 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90ddbcd825c7b6142d269e26" alt="" width="50" /> | 1 | 0 | PinkPantheress | [🔗](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
 | <img src="https://i.scdn.co/image/dd72b50e171fb494dcbca05fe8958bcef84144d5" alt="" width="50" /> | 1 | 0 | Hot Chocolate | [🔗](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 11 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
 
 </details>
 
 
-![Bar chart of top 12 artists](../../images/labels/parlophone_uk/artists.png)
+![Bar chart of top 11 artists](../../images/labels/parlophone_uk/artists.png)
 
 ## Top Albums
 
@@ -48,25 +47,24 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | 1 | Hold On Tight | 2023-03-30 | [🔗](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312c2eefb1d28509c632d915d" alt="" width="50" /> | 1 | 0 | to hell with it | 2021-10-15 | [🔗](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | 1 | 0 | Hot Chocolate | 1975 | [🔗](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
 
 
 <details>
-<summary>See all 13 albums</summary>
+<summary>See all 12 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | 1 | 0 | David Bowie (aka Space Oddity) [2015 Remaster] | 1969-11-04 | [🔗](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="" width="50" /> | 1 | 0 | Christmas Lights | 2010-12-01 | [🔗](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) |
 
 </details>
 
 
-![Bar chart of top 13 albums](../../images/labels/parlophone_uk/albums.png)
+![Bar chart of top 12 albums](../../images/labels/parlophone_uk/albums.png)
 
 ## Genres
 
@@ -85,7 +83,7 @@ Appears as:
 
 
 <details>
-<summary>See all 18 genres</summary>
+<summary>See all 17 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -94,14 +92,13 @@ Appears as:
 | 1 | 0 | glam rock |
 | 1 | 0 | disco |
 | 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
-| 1 | 0 | bedroom pop |
 | 1 | 0 | [art rock](../../genres/art_rock/overview.md) |
 | 1 | 0 | alternative hip hop |
 
 </details>
 
 
-![Bar chart of top 18 genres](../../images/labels/parlophone_uk/genres.png)
+![Bar chart of top 17 genres](../../images/labels/parlophone_uk/genres.png)
 
 ## Top Producers
 
@@ -162,7 +159,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | Pocket Calculator / Dentaku | 3-D The Catalogue | Kraftwerk | [Parlophone UK](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2j4HbXODKGeJ33QTWRTfbS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | BrokEn | Everyday Life | [Coldplay](../../artists/coldplay/overview.md) | [Parlophone UK](.) | 0 | | [🔗](https://open.spotify.com/track/1cXXhzPnbrXjNQYbLdUJdy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | ❤️ | Music Of The Spheres | [Coldplay](../../artists/coldplay/overview.md), We Are KING, [Jacob Collier](../../artists/jacob_collier/overview.md) | [Parlophone UK](.) | 0 | | [🔗](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312c2eefb1d28509c632d915d" alt="" width="50" /> | Pain | to hell with it | PinkPantheress | [Parlophone UK](.) | 0 | | [🔗](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) |
 
 </details>
 

@@ -10,15 +10,14 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #26 artist of the last month
-- The #38 artist of the last 6 months
-- The #40 artist of all time
+- The #39 artist of the last 6 months
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 26 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b273120a4749a5ea995604bf60ffab67616d0000b27370dd4e18b9c3431ee7a9b8a1ab67616d0000b27386fe9fe6eaab4083b32adf9fab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 13 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2736f248f7695eb544a3a1955c5ab67616d0000b2737a393b04e8ced571618223e8ab67616d0000b2738acb7bac073f378d59bf228eab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c053ee476f7ce576369241eab67616d0000b273119e4094f07a8123b471ac1dab67616d0000b2732a0face7d69df61c20a6db2bab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
@@ -27,6 +26,7 @@ Ariana Grande is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 13 | 0 | eternal sunshine | 2024-03-08 | [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 5 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | 4 | 3 | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 4 | 2 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
@@ -36,7 +36,6 @@ Ariana Grande is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | 2 | 0 | Christmas Kisses | 2013-01-01 | [🔗](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce9f06b8084b352b61e8b0cb" alt="" width="50" /> | 1 | 1 | yes, and? | 2024-01-12 | [🔗](https://open.spotify.com/album/4IQ9AV1mEjteHrc8KzMDDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | 1 | 1 | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | 1 | Focus | 2015-10-30 | [🔗](https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof) |
 
 
 <details>
@@ -44,6 +43,7 @@ Ariana Grande is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | 1 | Focus | 2015-10-30 | [🔗](https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f" alt="" width="50" /> | 1 | 0 | boyfriend | 2019-08-02 | [🔗](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | 1 | 0 | Santa Tell Me | 2014-11-24 | [🔗](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 1 | 0 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
@@ -57,7 +57,7 @@ Ariana Grande is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 10 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 11 | 6 | [Republic Records](../../labels/republic_records/overview.md) |
+| 24 | 6 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 | 1 | 0 | Silver Cloud |
 | 1 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -235,6 +235,19 @@ Ariana Grande is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions | Positions | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | pov | Positions | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce9f06b8084b352b61e8b0cb" alt="" width="50" /> | yes, and? | yes, and? | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | Saturn Returns Interlude | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/13jRSCLoWbCoU1XEdJRbgn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | bye | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | eternal sunshine | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | i wish i hated you | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | intro (end of the world) | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | ordinary things (feat. Nonna) | eternal sunshine | [Ariana Grande](overview.md), Nonna | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/4mHM5d2fK3n8xgymjf92w2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | supernatural | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | true story | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) |
 
 </details>
 

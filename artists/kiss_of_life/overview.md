@@ -14,15 +14,16 @@ KISS OF LIFE:
 
 ## Artist Rank
 KISS OF LIFE is currently:
-- The #37 artist of the last month
+- The #36 artist of the last month
 
 ![Rank of KISS OF LIFE over time](../../images/artists/kiss_of_life/rank_time_series.png)
 ## Top Tracks
 
 - Nobody Knows is:
-    - the #28 track of the last 6 months
+    - the #25 track of the last month
+    - the #20 track of the last 6 months
 - Bad News is:
-    - the #11 track of the last month
+    - the #22 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -35,6 +36,7 @@ KISS OF LIFE is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c1f1054d3a170ee26430c79ab67616d0000b2732bca95a658fdf653a35a3710ab67616d0000b27396d36aec71bf25f59df5cc96ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0ab67616d0000b27316aaf05fe82237576a7d0e38ab67616d0000b27320112a0321d2efc7384db456ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d0000b2731f5de98907a7f969ea7c28dbab67616d0000b273992cdb975f91efd91b998628ab67616d0000b273addef7fad07f17acdf7d6b98ab67616d0000b273e827c21f833661043f8dd588" alt="" width="50" /> | 1 | [누구?](../../playlists/누구_/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731869a85947a5ea00df8c936fab67616d0000b2735048ed32fafe7b9a50d0e410ab67616d0000b2738c4a282e84a53c1c8acf129aab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
 
 ## Top Albums
 
@@ -111,8 +113,8 @@ KISS OF LIFE is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 694 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 225 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 906 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 254 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Countdown (BELLE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/3pJbio7BQLvqNne62Xe73I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Kitty Cat (JULIE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | | [🔗](https://open.spotify.com/track/6MiodzZmp1bKamgF3qhmre) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |

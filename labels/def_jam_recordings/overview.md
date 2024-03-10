@@ -89,19 +89,18 @@ Appears as:
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 0 | pop r&b |
 | 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 14 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 13 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Top Producers
 

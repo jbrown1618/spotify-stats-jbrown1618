@@ -16,8 +16,6 @@ Bruno Mars:
 - is a member of The Smeezingtons
 
 ## Artist Rank
-Bruno Mars is currently:
-- The #35 artist of the last month
 
 ![Rank of Bruno Mars over time](../../images/artists/bruno_mars/rank_time_series.png)
 ## Featured on Playlists

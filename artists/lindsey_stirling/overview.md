@@ -2,7 +2,7 @@
 # Lindsey Stirling
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="Lindsey Stirling" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="Lindsey Stirling" width="100" />
 
 ## Artist Rank
 
@@ -61,7 +61,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8a0579f5bf1a376e019e6457" alt="" width="50" /> | [Lindsey Stirling](overview.md) | 3 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | [Lindsey Stirling](overview.md) | 3 | Producer, Songwriter |
 | | Marko G | 2 | Producer, Songwriter |
 | | Ryan Wyler | 2 | Producer |
 | | Alex da Kid | 1 | Songwriter |

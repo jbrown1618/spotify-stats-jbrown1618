@@ -1,6 +1,6 @@
 # Geffen
 
-14 songs
+16 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Geffen (9 tracks)
-- Geffen* (4 tracks)
+- Geffen* (6 tracks)
 - Geffen Records (1 tracks)
 
 ## Top Artists
@@ -20,30 +20,32 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68" alt="" width="50" /> | 1 | 1 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbac00ef1ac185c67665e970" alt="" width="50" /> | 1 | 1 | Semisonic | [🔗](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb395e47aaf2f8386e2608a" alt="" width="50" /> | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
-| <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 
 
 <details>
-<summary>See all 11 artists</summary>
+<summary>See all 12 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 
 </details>
 
 
-![Bar chart of top 11 artists](../../images/labels/geffen/artists.png)
+![Bar chart of top 12 artists](../../images/labels/geffen/artists.png)
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | 2 | 0 | Jurassic Park | 1993-05-25 | [🔗](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | 1 | 1 | Who's Next (Expanded Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
@@ -52,14 +54,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dec0d479b10bccff532074ed" alt="" width="50" /> | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Semisonic | 2003-01-01 | [🔗](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | 1 | 0 | The Classic Years: 1956-1962 | 1992-01-01 | [🔗](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
 
 
 <details>
-<summary>See all 13 albums</summary>
+<summary>See all 14 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | 1 | 0 | Come Go With Me: The Best Of The Del-Vikings | 1997-01-01 | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
@@ -67,7 +69,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 13 albums](../../images/labels/geffen/albums.png)
+![Bar chart of top 14 albums](../../images/labels/geffen/albums.png)
 
 ## Genres
 
@@ -86,13 +88,15 @@ Appears as:
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 24 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 1 | post-grunge |
 | 1 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
 | 1 | 1 | colombian pop |
+| 2 | 0 | [soundtrack](../../genres/soundtrack/overview.md) |
+| 2 | 0 | orchestral soundtrack |
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | easy listening |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -106,7 +110,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/geffen/genres.png)
+![Bar chart of top 24 genres](../../images/labels/geffen/genres.png)
 
 ## Top Producers
 
@@ -166,6 +170,8 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | Jingle Bell Rock | The Classic Years: 1956-1962 | Bobby Helms | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | Theme From Jurassic Park | Jurassic Park | John Williams | [Geffen*](.) | 0 | | [🔗](https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | Welcome To Jurassic Park | Jurassic Park | John Williams | [Geffen*](.) | 0 | | [🔗](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | Come Go With Me | Come Go With Me: The Best Of The Del-Vikings | The Del-Vikings | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dec0d479b10bccff532074ed" alt="" width="50" /> | Closing Time | 20th Century Masters: The Millennium Collection: Best Of Semisonic | Semisonic | [Geffen*](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | Moonlight | Red Moon In Venus | Kali Uchis | [Geffen Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) |

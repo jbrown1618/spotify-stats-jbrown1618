@@ -14,12 +14,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 16 | 9 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | 3 | 3 | MIKA | [🔗](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 3 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 2 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 1 | 1 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | 1 | 1 | VÉRITÉ | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 2 | 0 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 
 
 <details>
@@ -61,7 +61,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | 3 | 3 | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | 3 | 1 | A Reckoning | 2023-01-27 | [🔗](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 2 | 0 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 2 | 1 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | 1 | 1 | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | 1 | 1 | Somebody Else | 2016-09-09 | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
 
@@ -91,9 +91,9 @@
 | 3 | 3 | Island UK |
 | 3 | 3 | Casablanca Records |
 | 3 | 1 | Kimbra |
+| 2 | 1 | Dirty Hit |
 | 2 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 1 | VÉRITÉ |
-| 2 | 0 | Dirty Hit |
 | 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 0 | EMI |
 
@@ -117,15 +117,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Florence Welch | 13 | Songwriter, Lyricist |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
-| | Craig Silvey | 4 | Producer |
 | | Cenzo Townshend | 4 | Producer |
-| | Jimmy Robertson | 3 | Producer |
+| | Craig Silvey | 4 | Producer |
 | | James Ford | 3 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
+| | Jimmy Robertson | 3 | Producer |
+| | Sally Herbert | 3 | Arranger |
 
 
 <details>
@@ -133,58 +133,61 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Sally Herbert | 3 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
+| | Mark "Spike" Stent | 3 | Producer |
 | | Markus Dravs | 2 | Producer |
-| | Tom Elmhirst | 2 | Producer |
-| | Kid Harpoon | 2 | Songwriter |
-| | Robin Baynton | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
-| | Bullion | 2 | Producer |
-| | M-Phazes | 2 | Producer |
 | | Greg Wells | 2 | Producer |
-| | Mat Bartram | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
-| | Richard Flack | 1 | Producer |
-| | Josh Diamond | 1 | Songwriter |
+| | M-Phazes | 2 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| | Robin Baynton | 2 | Producer |
+| | Bullion | 2 | Producer |
+| | Kid Harpoon | 2 | Songwriter |
+| | Bram Inscore | 1 | Producer, Songwriter |
+| | Blue Sky Black Death | 1 | Songwriter |
 | | Fabien Waltmann | 1 | Producer |
-| | Will Owen | 1 | Arranger |
+| | Nicole Morier | 1 | Songwriter |
 | | Rush | 1 | Songwriter |
-| | Fagan Wilcox | 1 | Producer |
 | | Nicolas Fournier | 1 | Producer |
 | | Steve Mackey | 1 | Producer |
-| | Dan Warner | 1 | Songwriter |
-| | Brian Degraw | 1 | Songwriter |
-| | Francis White | 1 | Lyricist, Songwriter |
+| | Jodi Marr | 1 | Songwriter |
+| | Earl Burroughs | 1 | Songwriter |
 | | Ryan Ritchie | 1 | Producer |
 | | Ali Helnwein | 1 | Arranger |
+| | Dan Warner | 1 | Songwriter |
+| | Mat Bartram | 1 | Producer |
 | | Rich Costey | 1 | Producer |
-| | Lizzi Bougatsos | 1 | Songwriter |
-| | Jodi Marr | 1 | Songwriter |
-| | Daniel Johns | 1 | Songwriter |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Brian Degraw | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
+| | Fagan Wilcox | 1 | Producer |
+| | Will Owen | 1 | Arranger |
+| | Josh Diamond | 1 | Songwriter |
+| | Richard Flack | 1 | Producer |
 | | John Bellamy | 1 | Songwriter |
-| | Matt Allchin | 1 | Songwriter |
-| | Arnecia Michelle Harris | 1 | Songwriter |
-| | Eli Crews | 1 | Producer |
-| | Pete Prokopiw | 1 | Producer |
-| | Martin Cooke | 1 | Producer |
-| | Joe Chiccarelli | 1 | Producer |
-| | Earl Burroughs | 1 | Songwriter |
-| | Anthony B. Stephens | 1 | Songwriter |
+| | Lizzi Bougatsos | 1 | Songwriter |
+| | George Stone | 1 | Lyricist, Songwriter |
 | | Tommy Raps | 1 | Lyricist, Songwriter |
+| | Joe Chiccarelli | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | Rina Sawayama | 1 | Songwriter |
 | | Jimi Maroudas | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | Ryan Lott | 1 | Producer |
+| | Martin Cooke | 1 | Producer |
+| | Matt Allchin | 1 | Songwriter |
+| | Pete Prokopiw | 1 | Producer |
+| | Eli Crews | 1 | Producer |
 | | John Rooney | 1 | Producer |
-| | Tim Dewit | 1 | Songwriter |
-| | George Stone | 1 | Lyricist, Songwriter |
 | | Bo Hill | 1 | Producer |
+| | Anthony B. Stephens | 1 | Songwriter |
 | | Jon Castelli | 1 | Producer |
 | | Mark "Top" Rankin | 1 | Producer |
 | | Joe Zook | 1 | Producer |
 | | John Merchant | 1 | Songwriter |
+| | Arnecia Michelle Harris | 1 | Songwriter |
 | | Charlie Hugall | 1 | Producer |
-| | Blue Sky Black Death | 1 | Songwriter |
+| | Daniel Johns | 1 | Songwriter |
 | | Nate Mercereau | 1 | Producer, Songwriter |
 | | Chris Nicolaides | 1 | Producer |
+| | Tim Dewit | 1 | Songwriter |
 | | Michael Tayler | 1 | Producer |
 
 </details>

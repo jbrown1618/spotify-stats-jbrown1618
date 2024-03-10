@@ -38,13 +38,14 @@ Appears as:
 | 2 | 1 | swing |
 | 2 | 1 | [soul](../../genres/soul/overview.md) |
 | 2 | 1 | new orleans jazz |
+| 2 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 1 | jazz trumpet |
 | 2 | 1 | harlem renaissance |
 | 2 | 1 | dixieland |
 | 2 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 | 21 | 0 | smooth jazz |
 
-![Bar chart of top 9 genres](../../images/labels/grp/genres.png)
+![Bar chart of top 10 genres](../../images/labels/grp/genres.png)
 
 ## Top Producers
 

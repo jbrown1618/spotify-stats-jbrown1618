@@ -4,15 +4,15 @@
 
 ## Cluster #1
 
-44 tracks
+48 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Along Love's Highway | Inner Motion | David Benoit | [GRP](../../../../labels/grp) | 0 | | [🔗](https://open.spotify.com/track/6QfdOlWT7J1b8y2EBLkV8M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Passion Walk | Freedom At Midnight | David Benoit | [GRP](../../../../labels/grp) | 0 | | [🔗](https://open.spotify.com/track/4tSRlUqyaYYVGbPgw7PyY1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | All Night Long (feat. Take 6) | Djesse Vol. 1 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley, Take 6 | [Decca (UMO)](../../../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Delfino Plaza (From "Super Mario Sunshine") | Choose Your Character! | [The 8-Bit Big Band](../../../../artists/the_8-bit_big_band/overview.md) | The 8-Bit Big Band | 0 | 💚 | [🔗](https://open.spotify.com/track/2gnqOaI0TpTOg8FufLil3Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | [Capitol Records](../../../../labels/capitol_records) | 0 | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | That's Life | That's Life | [Frank Sinatra](../../../../artists/frank_sinatra/overview.md) | FRANK SINATRA DIGITAL REPRISE | 0 | | [🔗](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | The Best Is yet to Come | Call Me Irresponsible | [Michael Bublé](../../../../artists/michael_bublé/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 0 | | [🔗](https://open.spotify.com/track/56t3m0lqE6zU1EfgFOPqst) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](../../../../artists/michael_bublé/overview.md) | [143](../../../../labels/143), [Reprise](../../../../labels/reprise) | 26 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | Craft Recordings | 0 | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
@@ -20,14 +20,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="" width="50" /> | It Could Happen To You | Relaxin' With The Miles Davis Quintet | Miles Davis Quintet | Prestige | 0 | | [🔗](https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx) |
 ## Cluster #2
 
-37 tracks
+38 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | He Won't Hold You (feat. Rapsody) | Djesse Vol. 3 | [Jacob Collier](../../../../artists/jacob_collier/overview.md), Rapsody | [Decca (UMO)](../../../../labels/decca_(umo)) | 196 | 💚 | [🔗](https://open.spotify.com/track/3mSoxi4aC7oiTGJjsLLkaM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="" width="50" /> | In A Sentimental Mood | Duke Ellington & John Coltrane | Duke Ellington, John Coltrane | Impulse! | 0 | | [🔗](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="" width="50" /> | Everything Happens to Me | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) | Chet Baker | Original Jazz Classics | 0 | | [🔗](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | Dream A Little Dream Of Me | Ella: The Legendary Decca Recordings | Ella Fitzgerald, Louis Armstrong | Verve Reissues | 0 | 💚 | [🔗](https://open.spotify.com/track/0KBvapFwuz8gPKu6Gw23WN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="" width="50" /> | Dream A Little Dream Of Me - Single Version | Love, Ella | Ella Fitzgerald, Louis Armstrong | Verve Reissues | 0 | 💚 | [🔗](https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="" width="50" /> | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | Parlophone (France) | 0 | 💚 | [🔗](https://open.spotify.com/track/0mcs5XA4bwgCVYLUxvJ9sg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) | love (Deluxe Edition) | [Michael Bublé](../../../../artists/michael_bublé/overview.md), Cécile McLorin Salvant | [Reprise](../../../../labels/reprise) | 0 | | [🔗](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="" width="50" /> | La Vie En Rose | Sophie Milman | Sophie Milman | Linus Entertainment Inc. | 0 | | [🔗](https://open.spotify.com/track/12kmgivtb8dyhxnko2doFt) |

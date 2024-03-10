@@ -1,13 +1,13 @@
 # Walt Disney Records
 
-68 songs
+70 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Walt Disney Records (68 tracks)
+- Walt Disney Records (70 tracks)
 
 ## Top Artists
 
@@ -36,6 +36,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739771c14cdfd747a598b1c213" alt="" width="50" /> | 2 | 0 | Susan Egan | [🔗](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M) |
 | | 2 | 0 | Samuel E. Wright | [🔗](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) |
 | | 2 | 0 | Burke Moses | [🔗](https://open.spotify.com/artist/64BC8AWWTaiOhej6ZYAXzv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 2 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21f0cc7dc3f69be76f6f7c11" alt="" width="50" /> | 2 | 0 | Joseph Williams | [🔗](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) |
 | | 2 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f613f05ec89836d8c4ad0c" alt="" width="50" /> | 2 | 0 | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
@@ -45,6 +46,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/71f1d9f48ea0176ccb1e4bea3925c39b4af9b3b5" alt="" width="50" /> | 2 | 0 | Robin Williams | [🔗](https://open.spotify.com/artist/4OrieSJUghNfNx5UuPCgxF) |
 | | 2 | 0 | Chorus - Mulan | [🔗](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386b673ff5c044df4c63248d2" alt="" width="50" /> | 2 | 0 | Bruce Reitherman | [🔗](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a22b3c7eefefd14e57cc068b" alt="" width="50" /> | 2 | 0 | Brad Kane | [🔗](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50bc256e017a5dfc38bd41a7" alt="" width="50" /> | 2 | 0 | Awkwafina | [🔗](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46ffe763f21bc8b1a6745c9c" alt="" width="50" /> | 2 | 0 | Halle | [🔗](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) |
@@ -118,8 +120,6 @@ Appears as:
 | | 1 | 0 | Chorus - Hercules | [🔗](https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki) |
 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | 1 | 0 | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |
 | | 1 | 0 | Stacey Logan | [🔗](https://open.spotify.com/artist/2HCcvZjqbz0BWWBLG5Yzgu) |
-| | 1 | 0 | Heidi Mollenhauer | [🔗](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt) |
-| <img src="https://i.scdn.co/image/5c8cbb56c2544be64d900236ac53c937a1ed2305" alt="" width="50" /> | 1 | 0 | Tawatha Agee | [🔗](https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV) |
 
 </details>
 
@@ -143,7 +143,7 @@ Appears as:
 
 
 <details>
-<summary>See all 25 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -153,6 +153,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | 2 | 0 | The Jungle Book | 1997-01-01 | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | 2 | 0 | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="" width="50" /> | 2 | 0 | Hercules (Original Motion Picture Soundtrack) | 1997-01-01 | [🔗](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" alt="" width="50" /> | 1 | 0 | Star Wars: The Phantom Menace (Original Motion Picture Soundtrack) | 1999-05-04 | [🔗](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | 1 | 0 | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | 1980-01-01 | [🔗](https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | 1 | 0 | Noelle (Original Motion Picture Soundtrack) | 2019-11-12 | [🔗](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) |
@@ -166,7 +168,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 25 albums](../../images/labels/walt_disney_records/albums.png)
+![Bar chart of top 27 albums](../../images/labels/walt_disney_records/albums.png)
 
 ## Genres
 
@@ -175,20 +177,22 @@ Appears as:
 | 47 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 5 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
 | 4 | 0 | tagalog worship |
+| 4 | 0 | hollywood |
+| 2 | 0 | [soundtrack](../../genres/soundtrack/overview.md) |
 | 2 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
+| 2 | 0 | orchestral soundtrack |
 | 2 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 2 | 0 | hollywood |
 | 2 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 0 | comic |
-| 2 | 0 | comedy |
-| 2 | 0 | alternative hip hop |
 
 
 <details>
-<summary>See all 35 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | comedy |
+| 2 | 0 | alternative hip hop |
 | 1 | 0 | trap queen |
 | 1 | 0 | traditional blues |
 | 1 | 0 | swing |
@@ -225,6 +229,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | Santa Claus Is Comin' to Town | Noelle (Original Motion Picture Soundtrack) | Lawrence, Stolen Jars | [Walt Disney Records](.) | 218 | | [🔗](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | Yoda's Theme | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams, [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/5fsT9U41OCFlaKA5XTCHtz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Be Our Guest | Beauty and the Beast | Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | Beauty and the Beast | Angela Lansbury, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Belle | Beauty and the Beast | Richard White, Paige O'Hara, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/0Q4a3PdGEME9w8Jgqa0Gf3) |
@@ -233,7 +238,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Be Our Guest | Beauty And The Beast: The Broadway Musical | Gary Beach, Beth Fowler, Heath Lamberts, Barbara Marineau, Brian Press, Stacey Logan, Broadway Cast of Beauty and the Beast | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/6zRiCeiJUvnalwwSfPrn3f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Beauty and the Beast | Beauty And The Beast: The Broadway Musical | Beth Fowler | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/0ABGlKA3v3RYjrcKVYuCfT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Belle | Beauty And The Beast: The Broadway Musical | Susan Egan, Burke Moses, Sarah Solie Shannon, Paige Price, Linda Talcott, Broadway Cast of Beauty and the Beast, Kenny Raskin | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/70sqHGRr89z4SbAmpzE71X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Gaston | Beauty And The Beast: The Broadway Musical | Kenny Raskin, Burke Moses, Sarah Solie Shannon, Paige Price, Linda Talcott | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/44NzMOVW1wFA2W2GH6prB6) |
 
 
 <details>
@@ -241,6 +245,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Gaston | Beauty And The Beast: The Broadway Musical | Kenny Raskin, Burke Moses, Sarah Solie Shannon, Paige Price, Linda Talcott | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/44NzMOVW1wFA2W2GH6prB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | If I Can't Love Her | Beauty And The Beast: The Broadway Musical | Terrence Mann | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/2NXDiOkPqRtXNsnFqyVmyM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | Something There | Beauty And The Beast: The Broadway Musical | Susan Egan, Terrence Mann, Gary Beach, Beth Fowler, Heath Lamberts | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/68aTOtDa7fzVxorXBehJHu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | Be Prepared | The Lion King | Jeremy Irons, Whoopi Goldberg, Cheech Marin, Jim Cummings | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) |
@@ -267,6 +272,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Honor To Us All | Mulan (Original Soundtrack) | Lea Salonga, Beth Fowler, Marni Nixon, Chorus - Mulan, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | I'll Make a Man Out of You | Mulan (Original Soundtrack) | Donny Osmond, Chorus - Mulan, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | Reflection | Mulan (Original Soundtrack) | Lea Salonga, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" alt="" width="50" /> | Duel of the Fates | Star Wars: The Phantom Menace (Original Motion Picture Soundtrack) | John Williams, [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | Who's Afraid of the Big, Bad Wolf - From "Three Little Pigs" | Disney's Greatest Vol. 3 | Pinto Colvig, Mary Moder, Dorothy Compton, Billy Bletcher | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/4K1kR94TrMRoznMHBFaa3C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | A Whole New World | Aladdin Special Edition | Lea Salonga, Brad Kane, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | Arabian Nights | Aladdin Special Edition | Bruce Adler, Disney | [Walt Disney Records](.) | 0 | | [🔗](https://open.spotify.com/track/31vVcYpecILSQ02PIGdqYi) |

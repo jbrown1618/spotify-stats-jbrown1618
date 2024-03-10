@@ -14,12 +14,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 4 | 4 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 3 | 2 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 3 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 3 | 1 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 2 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3cb2184a3dfc288d25a1828b" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 
 
 <details>
@@ -27,11 +27,11 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 2 | 0 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb056f821a5186892979410deb" alt="" width="50" /> | 1 | 0 | ZAYN | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
@@ -69,8 +69,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 4 | 2 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 2 | 2 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 2 | 1 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | 1 | 1 | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | 1 | 1 | Skyfall | 2012-10-04 | [🔗](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) |
@@ -117,8 +117,8 @@
 | 4 | 4 | [Syco Music](../../labels/syco_music/overview.md) |
 | 7 | 3 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
+| 3 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 2 | [Columbia](../../labels/columbia/overview.md) |
-| 3 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 1 | EMI |
 | 2 | 1 | Atlantic Records UK |
 | 1 | 1 | [Virgin Records](../../labels/virgin_records/overview.md) |
@@ -149,14 +149,14 @@
 |:---|:---|---:|:---|
 | | Serban Ghenea | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 4 | Songwriter |
 | | John Hanes | 4 | Producer |
 | | Caroline Ailin | 4 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 4 | Songwriter |
 | | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
 | | Josh Gudwin | 3 | Producer |
 | | KAMILLE | 3 | Songwriter |
-| | Perrie Edwards | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
+| | Andrew Watt | 2 | Songwriter, Producer |
+| | TMS | 2 | Producer |
 
 
 <details>
@@ -164,74 +164,83 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
 | | Cameron Gower Poole | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
-| | Emily Warren | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
 | | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Peter Kelleher | 2 | Songwriter |
-| | Leigh-Anne | 2 | Songwriter |
 | | Clarence Coffee Jr. | 2 | Songwriter |
-| | TMS | 2 | Producer |
-| | Andrew Watt | 2 | Songwriter, Producer |
+| | Leigh-Anne | 2 | Songwriter |
+| | Emily Warren | 2 | Songwriter |
+| | Perrie Edwards | 2 | Songwriter |
 | | Sarah Hudson | 2 | Songwriter |
 | | Thomas Barnes | 2 | Songwriter |
-| | Matt Radosevich | 2 | Producer |
-| | Jade Thirlwall | 2 | Songwriter |
-| | Mark "Spike" Stent | 2 | Producer |
-| | Jesy Nelson | 2 | Songwriter |
 | | Ben Collier | 2 | Producer |
+| | Jade Thirlwall | 2 | Songwriter |
+| | Matt Radosevich | 2 | Producer |
+| | Mark "Spike" Stent | 2 | Producer |
 | | Ben Kohn | 2 | Songwriter |
-| | Robopop | 1 | Producer, Songwriter |
+| | Jesy Nelson | 2 | Songwriter |
 | | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
+| | Matt Snell | 1 | Producer |
 | | Julian Burg | 1 | Producer |
 | | Michael Hutchence | 1 | Songwriter |
 | | Lionel Crasta | 1 | Producer |
 | | Stephen Kozmeniuk | 1 | Producer, Songwriter |
 | | Daniel Aslet | 1 | Producer |
+| | Simon Clarke | 1 | Arranger |
+| | Jason Elliott | 1 | Producer |
+| | Ruffsound | 1 | Songwriter |
 | | Andrew Farriss | 1 | Songwriter |
 | | Greg Kurstin | 1 | Producer, Songwriter |
-| | Jason Elliott | 1 | Producer |
-| | Matthew Scatchell | 1 | Producer |
 | | Lorna Blackwood | 1 | Producer |
+| | Matthew Scatchell | 1 | Producer |
+| | ILYA | 1 | Songwriter |
 | | Jordan Johnson | 1 | Songwriter |
 | | TEDDY | 1 | Songwriter |
-| | ILYA | 1 | Songwriter |
-| | Ruffsound | 1 | Songwriter |
-| | Jimmy Napes | 1 | Songwriter |
-| | Matt Snell | 1 | Producer |
+| | Steve Churchyard | 1 | Producer |
+| | Screwface | 1 | Producer |
 | | Richard "Biff" Stannard | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
+| | Robopop | 1 | Producer, Songwriter |
 | | Francis White | 1 | Songwriter |
 | | Thomas Warren | 1 | Producer |
 | | Nicky D'Silva | 1 | Producer |
 | | KNY Factory | 1 | Songwriter |
 | | Noonie Bao | 1 | Songwriter |
+| | Anoo Bhagavan | 1 | Songwriter |
+| | Digital Farm Animals | 1 | Producer, Songwriter |
 | | Oscar Holter | 1 | Producer, Songwriter |
+| | Jimmy Napes | 1 | Songwriter |
 | | Omer Fedi | 1 | Songwriter |
 | | David Campbell | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
+| | Alexander Soifer | 1 | Producer, Songwriter |
 | | Ash Howes | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
 | | Henrik Barman Michelsen | 1 | Producer, Songwriter |
-| | Steve Churchyard | 1 | Producer |
-| | Screwface | 1 | Producer |
-| | Simon Clarke | 1 | Arranger |
+| | Ben Hogarth | 1 | Producer |
 | | Fraser T. Smith | 1 | Songwriter |
 | | Andrew Wyatt | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
-| | Paul 'P Dub' Walton | 1 | Producer |
+| | Steve Mac | 1 | Producer, Songwriter |
+| | Billboard | 1 | Songwriter |
+| | SORANA | 1 | Songwriter |
+| | Drew Jurecka | 1 | Arranger, Producer |
 | | Paul LaMalfa | 1 | Producer |
 | | Joe Kearns | 1 | Producer, Songwriter |
 | | Robin Fredriksson | 1 | Songwriter |
 | | Brandon Bost | 1 | Producer |
 | | Chris Laws | 1 | Producer |
 | | Alex Pasco | 1 | Producer |
+| | Roland Spreckley | 1 | Songwriter |
 | | Simon Rhodes | 1 | Producer |
 | | Ed Drewett | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
+| | Paul 'P Dub' Walton | 1 | Producer |
 | | Daniel Pursey | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
 | | Phil Tan | 1 | Producer |
+| | Niclas von der Burg | 1 | Songwriter |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
 | | Ali Payami | 1 | Producer, Songwriter |
 | | Cirkut | 1 | Songwriter |
@@ -240,20 +249,11 @@
 | | Leland | 1 | Songwriter |
 | | Mattias Larsson | 1 | Songwriter |
 | | The Monsters & Strangerz | 1 | Producer |
-| | Drew Jurecka | 1 | Arranger, Producer |
-| | Billboard | 1 | Songwriter |
-| | Steve Mac | 1 | Producer, Songwriter |
-| | DURO | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
+| | Jonas von der Burg | 1 | Songwriter |
+| | Kevin Grainger | 1 | Producer |
+| | Stefan Johnson | 1 | Songwriter |
 | | Steve James | 1 | Producer |
-| | Jon Taylor | 1 | Producer |
-| | Alex Gilbert | 1 | Producer |
-| | Jason Evigan | 1 | Songwriter |
-| | Electric | 1 | Producer |
-| | Stuart David Price | 1 | Producer |
-| | Chelcee Grimes | 1 | Songwriter |
-| | Max Martin | 1 | Producer |
-| | Paul Epworth | 1 | Producer, Songwriter |
-| | JHart | 1 | Songwriter |
 
 </details>
 
